@@ -62,8 +62,27 @@
         <h1 class="logo"><a href="/index.html">cocy news</a></h1>
         <p id="current-date" class="header-date">-</p>
       </div>
-      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="다크모드 토글">다크모드</button>
+      <div class="header-right">
+        <div id="auth-area"></div>
+        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="다크모드 토글">다크모드</button>
+      </div>
     </header>
+
+    <!-- Login Modal -->
+    <div id="login-modal" class="login-modal-overlay" hidden>
+      <div class="login-modal">
+        <button class="modal-x" onclick="closeLogin()">&times;</button>
+        <h2 class="modal-heading">로그인</h2>
+        <p class="modal-sub">팩트체크 기능은 로그인 후 이용 가능합니다.</p>
+        <form onsubmit="handleLogin(event)">
+          <input id="login-email" type="email" placeholder="이메일" required>
+          <input id="login-pw" type="password" placeholder="비밀번호" required minlength="8">
+          <p id="login-error" class="login-err"></p>
+          <button type="submit" class="login-submit">로그인</button>
+        </form>
+        <p class="modal-register">계정이 없으세요? <a href="https://cocy.io" target="_blank">cocy.io에서 가입</a></p>
+      </div>
+    </div>
 
     <nav class="date-nav" aria-label="날짜 이동">
       <button id="prev-day" type="button">← 어제</button>
