@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cocy news 아카이브</title>
+  <meta name="description" content="cocy news 날짜별 아카이브 목록">
+  <meta name="keywords" content="뉴스 아카이브, cocy news">
+  <link rel="canonical" href="https://news.cocy.io/archive.html">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="cocy news 아카이브">
+  <meta property="og:description" content="날짜별로 정리된 cocy news 아카이브">
+  <meta property="og:url" content="https://news.cocy.io/archive.html">
+  <meta property="og:site_name" content="cocy news">
+  <meta property="og:image" content="https://news.cocy.io/icon.svg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="cocy news 아카이브">
+  <meta name="twitter:description" content="날짜별로 정리된 cocy news 아카이브">
+  <meta name="twitter:image" content="https://news.cocy.io/icon.svg">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "CollectionPage",
+    "name": "cocy news archive",
+    "url": "https://news.cocy.io/archive.html",
+    "description": "cocy news 날짜별 아카이브"
+  }
+  </script>
+
+  <link rel="icon" type="image/svg+xml" href="/icon.svg">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="/style.css">
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l !== "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MV8KQGJF");
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <!-- AdSense: GTM 자동광고 사용 (직접 삽입 불필요) -->
+</head>
+<body data-page="archive">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV8KQGJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="container">
+    <header class="site-header">
+      <div>
+        <h1 class="logo"><a href="/index.html">cocy news</a></h1>
+        <p class="header-date">날짜별 아카이브</p>
+      </div>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="다크모드 토글">다크모드</button>
+    </header>
+
+    <main>
+      <p class="archive-guide">게시된 날짜를 선택하면 해당 날짜 뉴스로 이동합니다.</p>
+      <ul id="archive-list" class="archive-list"></ul>
+      <p id="archive-empty" class="empty-state" hidden>아카이브를 찾을 수 없습니다.</p>
+    </main>
+
+    <footer class="site-footer">
+      <p>Powered by AI · <a href="https://cocy.io" target="_blank" rel="noopener noreferrer">cocy.io</a></p>
+    </footer>
+  </div>
+
+  <script src="/script.js"></script>
+</body>
+</html>

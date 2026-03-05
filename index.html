@@ -1,0 +1,95 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cocy news | AI 뉴스 포털</title>
+  <meta name="description" content="AI가 매일 수집·요약한 주요 뉴스를 카테고리별로 한눈에 보는 cocy news.">
+  <meta name="keywords" content="AI 뉴스, 테크 뉴스, 국내 뉴스, 해외 뉴스, 경제 뉴스, cocy news">
+  <link rel="canonical" href="https://news.cocy.io/">
+
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="cocy news | AI 뉴스 포털">
+  <meta property="og:description" content="AI가 매일 수집·요약한 주요 뉴스를 카테고리별로 확인하세요.">
+  <meta property="og:url" content="https://news.cocy.io/">
+  <meta property="og:site_name" content="cocy news">
+  <meta property="og:image" content="https://news.cocy.io/icon.svg">
+
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="cocy news | AI 뉴스 포털">
+  <meta name="twitter:description" content="AI가 매일 수집·요약한 주요 뉴스를 카테고리별로 확인하세요.">
+  <meta name="twitter:image" content="https://news.cocy.io/icon.svg">
+
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "cocy news",
+    "url": "https://news.cocy.io/",
+    "description": "AI가 매일 수집·요약한 뉴스 포털"
+  }
+  </script>
+
+  <link rel="icon" type="image/svg+xml" href="/icon.svg">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="/style.css">
+
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l !== "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MV8KQGJF");
+  </script>
+  <!-- End Google Tag Manager -->
+
+  <!-- AdSense: GTM 자동광고 사용 (직접 삽입 불필요) -->
+</head>
+<body data-page="home">
+  <!-- Google Tag Manager (noscript) -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV8KQGJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+  <!-- End Google Tag Manager (noscript) -->
+
+  <div class="container">
+    <header class="site-header">
+      <div>
+        <h1 class="logo"><a href="/index.html">cocy news</a></h1>
+        <p id="current-date" class="header-date">-</p>
+      </div>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="다크모드 토글">다크모드</button>
+    </header>
+
+    <nav class="date-nav" aria-label="날짜 이동">
+      <button id="prev-day" type="button">← 어제</button>
+      <button id="today" type="button">오늘</button>
+      <button id="next-day" type="button">내일 →</button>
+      <a class="archive-link" href="/archive.html">아카이브</a>
+    </nav>
+
+    <nav id="category-tabs" class="category-tabs" aria-label="카테고리 필터">
+      <button type="button" data-category="all" class="active">전체</button>
+      <button type="button" data-category="ai-tech">AI·테크</button>
+      <button type="button" data-category="domestic">국내</button>
+      <button type="button" data-category="world">해외</button>
+      <button type="button" data-category="economy">경제</button>
+    </nav>
+
+    <main>
+      <section id="news-list" class="news-list" aria-live="polite"></section>
+      <p id="empty-state" class="empty-state" hidden>해당 날짜에 표시할 뉴스가 없습니다.</p>
+    </main>
+
+    <footer class="site-footer">
+      <p>Powered by AI · <a href="https://cocy.io" target="_blank" rel="noopener noreferrer">cocy.io</a></p>
+    </footer>
+  </div>
+
+  <script src="/script.js"></script>
+</body>
+</html>

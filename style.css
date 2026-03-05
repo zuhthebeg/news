@@ -1,0 +1,239 @@
+@import url("https://cdn.jsdelivr.net/gh/orioncactus/pretendard/dist/web/static/pretendard.css");
+
+:root {
+  --bg: #f4f6f8;
+  --surface: #ffffff;
+  --surface-soft: #f0f3f6;
+  --text: #14171a;
+  --muted: #5a6673;
+  --border: #d9e0e7;
+  --primary: #0b57d0;
+  --badge-bg: #e8f0fe;
+  --badge-text: #0b57d0;
+  --shadow: 0 8px 24px rgba(15, 23, 42, 0.08);
+}
+
+:root[data-theme="dark"] {
+  --bg: #0f1115;
+  --surface: #181c22;
+  --surface-soft: #202631;
+  --text: #f0f3f8;
+  --muted: #a8b3c2;
+  --border: #2c3440;
+  --primary: #7fb3ff;
+  --badge-bg: #21395f;
+  --badge-text: #b8d4ff;
+  --shadow: 0 8px 24px rgba(0, 0, 0, 0.35);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: "Pretendard", -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  line-height: 1.5;
+}
+
+a {
+  color: inherit;
+}
+
+.container {
+  width: min(1200px, calc(100% - 2rem));
+  margin: 0 auto;
+  padding: 1.25rem 0 2rem;
+}
+
+.site-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  margin-bottom: 1rem;
+}
+
+.logo {
+  margin: 0;
+  font-size: 1.8rem;
+  line-height: 1.2;
+}
+
+.logo a {
+  text-decoration: none;
+}
+
+.header-date {
+  margin: 0.3rem 0 0;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.theme-toggle,
+.date-nav button,
+.category-tabs button {
+  border: 1px solid var(--border);
+  background: var(--surface);
+  color: var(--text);
+  border-radius: 999px;
+  padding: 0.55rem 0.95rem;
+  font-size: 0.9rem;
+  cursor: pointer;
+}
+
+.theme-toggle:hover,
+.date-nav button:hover,
+.category-tabs button:hover {
+  border-color: var(--primary);
+}
+
+.date-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  align-items: center;
+  margin-bottom: 1rem;
+}
+
+.archive-link {
+  margin-left: auto;
+  text-decoration: none;
+  color: var(--primary);
+  font-weight: 600;
+}
+
+.category-tabs {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.55rem;
+  margin-bottom: 1.1rem;
+}
+
+.category-tabs button.active {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #fff;
+}
+
+.news-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 1rem;
+}
+
+.news-card {
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 1rem;
+  box-shadow: var(--shadow);
+  display: flex;
+  flex-direction: column;
+  min-height: 220px;
+}
+
+.badge {
+  align-self: flex-start;
+  background: var(--badge-bg);
+  color: var(--badge-text);
+  font-size: 0.78rem;
+  font-weight: 700;
+  border-radius: 999px;
+  padding: 0.2rem 0.6rem;
+  margin-bottom: 0.6rem;
+}
+
+.news-title {
+  margin: 0 0 0.6rem;
+  font-size: 1.06rem;
+  line-height: 1.4;
+}
+
+.news-title a {
+  text-decoration: none;
+}
+
+.news-title a:hover {
+  text-decoration: underline;
+}
+
+.news-summary {
+  margin: 0 0 0.8rem;
+  color: var(--muted);
+  font-size: 0.95rem;
+}
+
+.news-meta {
+  margin-top: auto;
+  font-size: 0.82rem;
+  color: var(--muted);
+}
+
+.empty-state {
+  margin: 1rem 0 0;
+  padding: 1rem;
+  border-radius: 10px;
+  border: 1px dashed var(--border);
+  background: var(--surface-soft);
+  color: var(--muted);
+}
+
+.archive-guide {
+  margin: 0 0 0.7rem;
+  color: var(--muted);
+}
+
+.archive-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  gap: 0.5rem;
+}
+
+.archive-list li a {
+  display: block;
+  text-decoration: none;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 0.8rem 0.9rem;
+}
+
+.archive-list li a:hover {
+  border-color: var(--primary);
+}
+
+.site-footer {
+  margin-top: 1.6rem;
+  color: var(--muted);
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.site-footer a {
+  color: var(--primary);
+  text-decoration: none;
+}
+
+@media (max-width: 640px) {
+  .container {
+    width: min(1200px, calc(100% - 1rem));
+  }
+
+  .logo {
+    font-size: 1.45rem;
+  }
+
+  .theme-toggle {
+    padding: 0.45rem 0.75rem;
+    font-size: 0.82rem;
+  }
+
+  .archive-link {
+    margin-left: 0;
+  }
+}
