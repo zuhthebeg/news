@@ -1,0 +1,113 @@
+{
+  "date": "2026-03-06",
+  "articles": [
+    {
+      "id": "1",
+      "title": "오픈AI, 추론·코딩 통합한 'GPT-5.4' 출시…\"에이전트 AI로의 도약\"",
+      "summary": "오픈AI가 추론과 코딩 능력을 통합한 GPT-5.4 모델을 공식 출시했다. 에이전트 AI 시대의 본격적인 도약을 알리는 모델로, 복잡한 멀티스텝 작업을 자율적으로 수행할 수 있는 것이 특징이다.",
+      "category": "ai-tech",
+      "source": "AI타임스",
+      "sourceUrl": "https://news.google.com/read/CBMiakFVX3lxTE5OSVA5VHVPNU12ZDJNMEVpeDNnMnhXZklGcXRXSF8wbHU1OHUtRHYzeWlNNmdUU0FRUzZpM2JiMG1XbFRiaVF5Y01td2JlaE5ncmZpcHpuRUJmSHlTTnNSRkg1Um1kdFJ4RFE?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-06T08:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "젠슨 황 \"엔비디아의 오픈AI 1000억달러 투자 철회\"",
+      "summary": "엔비디아 CEO 젠슨 황이 오픈AI에 대한 1000억 달러 규모 투자를 철회한다고 밝혔다. AI 업계 최대 규모 투자 무산으로 업계 판도에 큰 변화가 예상된다.",
+      "category": "ai-tech",
+      "source": "매일경제",
+      "sourceUrl": "https://news.google.com/read/CBMiTkFVX3lxTE51bW9jRk43ZlZfOW9rT1JsSzE0c3JXYWl1NUFHOWpxSjRyNDZ0eS0tcDVuUktrTUFzd3NjT01naE5Zcl9LZ2hoTWdXb0JRdw?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-05T14:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "[MWC 2026] 실시간 통역부터 내비게이션까지… AI 스마트 안경 경쟁 불붙었다",
+      "summary": "MWC 2026에서 AI 스마트 안경 제품들이 대거 공개됐다. 실시간 통역, AR 내비게이션, 영상 통화 등 실용적 기능을 탑재한 제품들이 경쟁하며 웨어러블 AI 시대를 앞당기고 있다.",
+      "category": "ai-tech",
+      "source": "조선비즈",
+      "sourceUrl": "https://news.google.com/read/CBMiggFBVV95cUxQTUV3ZFNNUHJVSUtuQmtTRE1ZcWUtU0ZHTjc1TU9SSWFBc2V6U3J1U000UHlkRUhkWFh6VGh1bm91bl9TWWxsYWRKMjN2bDNBanFlTXhzZzdDV01weVozWnJDcGdtZmlFRGlBZ2F4YVB4MFFGWFpsVmI1NldWdkdpa0pB?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-05T12:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "이 대통령, 정유업계 직격 \"가격 조작은 대국민 중대범죄…대가 클 것\"",
+      "summary": "이재명 대통령이 정유업계의 가격 조작 의혹에 대해 강하게 경고했다. 유류 최고가격 지정제 추진과 함께 담합·가격 조작에 대한 엄중 대응 방침을 밝혔다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/read/CBMia0FVX3lxTE5BeF95eHFKVnpnSTdGcE9HVXBFb1dIRDNWejVubWZ6dlJ1QnE0WGFwSTVkNldxeEhfNWhWdlEyOEwzY2RzX3JxZDdnSHJCMmxEbmNyTGVkVUc1MmczZC11SUluOFZmMEs3Rkkw?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-06T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "법원, 장동혁 지도부의 배현진 징계 효력정지",
+      "summary": "법원이 국민의힘 장동혁 비대위 지도부가 내린 배현진 의원에 대한 징계 처분의 효력을 정지하는 결정을 내렸다. 당내 갈등이 법적 분쟁으로 확대되는 양상이다.",
+      "category": "domestic",
+      "source": "동아일보",
+      "sourceUrl": "https://news.google.com/read/CBMid0FVX3lxTE1melVLNm91bTVmZ0NPdE5ZdmZhTDFqZUNDekpUY3pCS3JDUjVQVXNWN1U2MTRURGlJTXpod2FBNEsxb3c3OUxrcWJEQkd1VkZ2YUR4OGxyWUt4c1hQc0czSjlLM3RWbFNOMXIydDZSZEJfUkZFRDhn?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-06T04:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "공수처, 한명숙 모해위증 사건 '비밀누설' 임은정·한동수 무혐의 처분",
+      "summary": "공수처가 한명숙 전 총리 모해위증 사건과 관련해 비밀누설 혐의로 수사받던 임은정 검사와 한동수 전 공수처장에 대해 무혐의 처분을 내렸다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/read/CBMiWkFVX3lxTE5VNHFGSmxnOVJHYWZGT0NSdFJtWkp0RTFtSF9scFd2Q1pCZ1ZEcXQ0alY4bW1VNDEtWjcwWjRtTjF4VC1NbU1PTE1FZmIxZmx5OHZiUm14Mk9sd9IBX0FVX3lxTE5wSGdUZzJORHAtM29EZVYtV3RCTnlaZEVrYkdjQ2t0Z0RmUmZ3MUxRWDAwU2RsM3QwMnBZZTNvTVdqNWtwUUJtM1JRZmxiZ0Q2U2tEQjh6R3VDZ0I0SVdv?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-05T19:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "미국, 호르무즈 해협 안전 조치 발표…유가 급등·글로벌 금융시장 불안 진정 시도",
+      "summary": "미국이 호르무즈 해협의 안전 조치를 발표하며 유가 급등과 글로벌 금융시장 불안을 진정시키려 하고 있다. 이란과의 군사적 긴장이 고조되는 가운데 해상 안보 강화에 나섰다.",
+      "category": "world",
+      "source": "VOA 한국어",
+      "sourceUrl": "https://news.google.com/read/CBMi5gFBVV95cUxNVER2XzQ5em9ONDM4b2hPakR6dVhkU3QzNHdYMTlNc09LRzRCZUhMWlE2cElkQTZnNGRQQmh2VFhaSlUtaUJ0M1Y1ZGxIbVU4ODVNNFNRQ3ZzZ09MX1J2T05hQk54aWQxdVQtS0pHWEVWNXA5MWtJdEhkWHdpMmpNWFpsdzVHV1owQVhrdGJraEtqeVphdUJrdllyUXFEWXpXSTJJQnNVR3RMTF9JVWVqYTRzR04yTHExQVhtUXAzWUozUkx5ZDBGLUdRd1VsMGhtRXd1ZGxOVUJlY0JlcVFEakNxU1lNZ9IB6AFBVV95cUxQa2FUWXNNNUdBLWRlWUN0YXBkekFQUWVIc1pwNW01NjI4ZWRkM3duSzlYYm42VUJxamdkVFFYLW9kNC1Ddkc2RVpqcEdqV0hfUlRJLXBrZ1ZHN090RzdhUXZPNmxGNVBtSTZNOXNRTGVWeVpEM0pTM3FRenBrWlFnRUhEQ1R3UUtKMndMVEhaVWZkMHZLUU9iVjFmcjEtVzNsTXVjODY5MHNsQWVVczA3bDM5ckd6enY3eE8tU3RLN2VVMXdTSWU5dk1ITlJQZi10Tm4tTy0xNjFjWEppNmc3bDJiREhaQ05G?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-06T03:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "이란戰에 유가급등·물가비상…트럼프 행정부 \"모든방안 검토\"",
+      "summary": "이란과의 군사적 대치로 국제유가가 급등하고 물가 비상이 걸렸다. 트럼프 행정부는 유가 안정을 위해 모든 방안을 검토하겠다고 밝혔다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/read/CBMiW0FVX3lxTFAxTlFuX3NMbWZfXzhYdWFSbUg3ZDBTazRBZVRsM3ZuUDZrOTZ6QnJsNHNUWjMyMkFKclllSmtzZ1JWZ3JPSldMc0c2WTM4VXA0b0FIOENtV2hPVmvSAWBBVV95cUxNRWFEY0hEN09aWlBfNDF3Qkx4cU1aUndwUTlNTFl3MU1aNHNVdU13V3pEZkhqTkJ5bTdEMkhvMklGVThBeUpzNU9lRnBpLTMxNzRacGNYaTVGV3F5MmZZREI?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-06T09:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "한국 기업 유조선 7척, 호르무즈 해협 갇혔다",
+      "summary": "중동 긴장 고조로 한국 기업 소유 유조선 7척이 호르무즈 해협에서 발이 묶였다. 에너지 수급 차질 우려가 커지고 있으며 정부가 대응에 나섰다.",
+      "category": "world",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/read/CBMihgFBVV95cUxOWVNjb2ZUSzh5d1JZSV9ZenNhWTBJQ3BhTWJYMWcyd3pLT21hTWFkLUJ0Q1h5blUyY1Z0dW9Nb0xhZ2hFWS10MU1FWDJwaXcxZHZhMlZrOWY2ODRvcU9rZUxheGk5WFF3RW80WUZGN3c5VG45aXpnNW9CNTNjcGExUDNYcTZIUdIBmgFBVV95cUxOWGxpUXZJNGdKTEpyMGFsSFQ5d2I4bFdnc2t1dTRoNkhoallZeExnMHlSMHlhVnVIWlM1bXRTdzlPa19Nb2kxU09VVW9Bczh0Znk3a3pabzRxRFd0RmFaM3JJQ21LWlFnQW5jTzhuVVktS1hpUnNkTmxiZTVpMWotaEZjU295c0dQRU5OazFPLWFFVzlZWExvanln?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-05T15:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "'반도체 호황' 지속에 1월 경상흑자 132억弗…33개월 연속 흑자",
+      "summary": "반도체 수출 호조에 힘입어 1월 경상수지가 132억 달러 흑자를 기록했다. 33개월 연속 흑자 행진으로, 반도체가 한국 무역수지의 핵심 버팀목 역할을 하고 있다.",
+      "category": "economy",
+      "source": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/read/CBMicEFVX3lxTE0ycnNqMXhlbzJhMmpha2FDMUhRRy02SHhQcHZlUExyRkFkbkdOVURxV21RSEVpNjhhUDZTZzdZckJrRWszdU5IMUY4RFphSzlWN2szd3M0dnlVSDgwZHRTbDhIWndvVVdXSFBiUWNfalg?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-06T09:30:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "엔비디아, D램 가격에 기름 붓는다… 2분기 최대 70% 폭등 전망",
+      "summary": "엔비디아의 AI 가속기 수요 증가로 D램 가격이 2분기에 최대 70%까지 폭등할 전망이다. HBM(고대역폭 메모리) 수요가 견인하며 메모리 반도체 업계에 호재로 작용하고 있다.",
+      "category": "economy",
+      "source": "조선비즈",
+      "sourceUrl": "https://news.google.com/read/CBMiT0FVX3lxTE9tME5ocnZ0VThlYmQtN1JXcnVXcEg2NTI3dUpHSnlEdWJ4RUlES1VhUml6anlpVG9xNk1pN2xla0Z0RUlZZ2Zjcmx0MV9nLVE?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-05T18:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "[단독] 토스, 미국 증시 상장 뒤 국내 상장도 추진한다",
+      "summary": "핀테크 기업 토스가 미국 증시 상장 이후 국내 증시 상장도 병행 추진하는 것으로 알려졌다. 이중 상장 전략으로 글로벌 및 국내 투자자 접근성을 모두 확보하려는 움직임이다.",
+      "category": "economy",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/read/CBMigwFBVV95cUxPamtrYlFNaF8wTDI5T015bzZZeGxRNTdZdGNzZ250bDRQc2VrQ3ZydnlLcXlsRlZUei1wZ0UzM1dGTFowV1ZBUjNBRDlCZ29QSlhPNTIta2VKYjAtTzlGVWtISWtHblZEcEotWC1kLTFoSy1SYTlqY0JIOXUxLVQ1NGxwMNIBlwFBVV95cUxNbmUxeUFNcGhuR294enlaYWlpeHluMTFnZWlWRXI1S2dSZDZJVjRhNTBVS0ZsVkV0bDEySGltYm9lX3Njanl1VGRBOXFSMlpjcERORlNNYUJyZVNxX3lXMDVGWTA5UFFIMEVqalNnZU1UOGNUaUZJaDZRNkliY1hLQTRvX0JzRHVNUXd0MDFDam9qTVY0X3kw?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-05T14:00:00+09:00"
+    }
+  ]
+}
