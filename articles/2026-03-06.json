@@ -108,6 +108,21 @@
       "source": "조선일보",
       "sourceUrl": "https://news.google.com/read/CBMigwFBVV95cUxPamtrYlFNaF8wTDI5T015bzZZeGxRNTdZdGNzZ250bDRQc2VrQ3ZydnlLcXlsRlZUei1wZ0UzM1dGTFowV1ZBUjNBRDlCZ29QSlhPNTIta2VKYjAtTzlGVWtISWtHblZEcEotWC1kLTFoSy1SYTlqY0JIOXUxLVQ1NGxwMNIBlwFBVV95cUxNbmUxeUFNcGhuR294enlaYWlpeHluMTFnZWlWRXI1S2dSZDZJVjRhNTBVS0ZsVkV0bDEySGltYm9lX3Njanl1VGRBOXFSMlpjcERORlNNYUJyZVNxX3lXMDVGWTA5UFFIMEVqalNnZU1UOGNUaUZJaDZRNkliY1hLQTRvX0JzRHVNUXd0MDFDam9qTVY0X3kw?hl=ko&gl=KR&ceid=KR%3Ako",
       "publishedAt": "2026-03-05T14:00:00+09:00"
+    },
+    {
+      "id": "gpt54-release-20260306",
+      "title": "GPT-5.4 출시: 주요 특징과 변경사항 정리",
+      "summary": "OpenAI 개발자 문서의 모델 목록에서 GPT-5.4가 '전문 업무용 최상위 모델'로 등재됐다.\n동시에 GPT-5.4 pro도 공개되어 더 높은 정확도·추론 성능과 105만 토큰 컨텍스트를 제공한다.\n다만 OpenAI News/블로그에서 별도 출시 공지 포스트는 본 조사 시점에 확인되지 않았다.",
+      "content": "## 무엇이 확인됐나\n2026-03-06 기준 OpenAI 개발자 문서(Models)에는 `GPT-5.4`가 **\"Our most capable model for professional work\"**로 표시되어 있다. 같은 페이지에 `GPT-5.4 pro`도 함께 노출되며, 설명은 **더 똑똑하고 정밀한 응답**을 제공하는 버전으로 안내된다.\n\n## 모델/요금/스펙 핵심\n- GPT-5.4 가격(텍스트 기준): 입력 $2.50 / 1M tokens, 출력 $15.00 / 1M tokens\n- GPT-5.4 pro 가격(텍스트 기준): 입력 $30.00 / 1M tokens, 출력 $180.00 / 1M tokens\n- GPT-5.4 및 GPT-5.4 pro는 **1,050,000 컨텍스트 윈도우**를 지원하며, 입력 토큰이 272K를 넘으면 세션 전체에 가중 과금 규칙이 적용된다고 명시됨\n- GPT-5.4 pro 페이지에는 스냅샷 `gpt-5.4-pro-2026-03-05`가 표기되어 있음\n\n## 확인 범위와 주의점\n이번 기사는 `openai.com/blog`, `platform.openai.com/docs/models`, `techcrunch.com/category/artificial-intelligence/`를 웹 수집으로 확인한 내용만 반영했다.\n- OpenAI News/Blog 페이지에서는 본문 기반의 상세 릴리스 노트가 추출되지 않음\n- TechCrunch AI 카테고리 페이지에서도 GPT-5.4 단독 기사 본문은 본 조사 결과에서 직접 확인되지 않음\n\n따라서 \"GPT-5.4 출시\"라는 표현은 **개발자 문서 모델 등재 사실**에 근거하며, 별도의 공식 블로그 릴리스 포스트 존재 여부는 **(미확인)** 상태다.",
+      "category": "AI",
+      "tags": [
+        "GPT-5.4",
+        "OpenAI",
+        "Codex",
+        "AI"
+      ],
+      "publishedAt": "2026-03-06T12:00:00Z",
+      "source": "web research"
     }
   ]
 }
