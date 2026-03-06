@@ -7,6 +7,7 @@ const CATEGORY_LABELS = {
 
 const LLM_API = "https://llm.cocy.io/v1/chat/completions";
 const AUTH_API = "https://relay.cocy.io/api/auth";
+const FACTCHECK_GOLD_COST = 10;
 
 let selectedDate = new Date();
 let allArticles = [];
@@ -135,6 +136,15 @@ function initTheme() {
 async function factCheck(articleId, btn) {
   if (!isLoggedIn()) { openLogin(); return; }
 
+  // 골드 체크
+  const gold = (typeof SharedWallet !== 'undefined') ? SharedWallet.gold : Infinity;
+  if (gold < FACTCHECK_GOLD_COST) {
+    const resultEl = btn.closest(".news-card").querySelector(".factcheck-result");
+    resultEl.innerHTML = `<p class="fc-error">골드가 부족해요 (필요: ${FACTCHECK_GOLD_COST}골드). <a href="https://game.cocy.io" target="_blank">game.cocy.io</a>에서 획득하세요!</p>`;
+    resultEl.hidden = false;
+    return;
+  }
+
   const article = allArticles.find(a => a.id === articleId);
   if (!article) return;
 
@@ -189,6 +199,11 @@ async function factCheck(articleId, btn) {
     `;
     resultEl.hidden = false;
     btn.textContent = "✨ 팩트체크 완료";
+    // 성공 시 골드 차감
+    if (typeof SharedWallet !== 'undefined') {
+      SharedWallet.removeGold(FACTCHECK_GOLD_COST);
+      renderWalletUI();
+    }
   } catch (err) {
     resultEl.innerHTML = `<p class="fc-error">팩트체크 실패: ${err.message}</p>`;
     resultEl.hidden = false;
@@ -297,10 +312,29 @@ function readDateFromQuery() {
   return Number.isNaN(d.getTime()) ? null : d;
 }
 
+/* ── Wallet UI ── */
+function renderWalletUI() {
+  const el = document.getElementById("wallet-area");
+  if (!el) return;
+  if (typeof SharedWallet === 'undefined' || !SharedWallet.isLoggedIn) {
+    el.innerHTML = '';
+    return;
+  }
+  el.innerHTML = `<span class="wallet-badge">🪙 ${SharedWallet.gold.toLocaleString()}</span>`;
+}
+
 /* ── Init ── */
 document.addEventListener("DOMContentLoaded", async () => {
   initTheme();
   await checkAuth();
+
+  // SharedWallet 초기화 (게임과 동일한 계정/골드 공유)
+  if (typeof SharedWallet !== 'undefined') {
+    await SharedWallet.init({ showUI: false });
+    renderWalletUI();
+    SharedWallet.onChange(() => renderWalletUI());
+  }
+
   const page = document.body.dataset.page;
   if (page === "archive") { await buildArchiveList(); return; }
   const qd = readDateFromQuery();
