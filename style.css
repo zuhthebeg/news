@@ -411,3 +411,25 @@ a {
     margin-left: 0;
   }
 }
+
+/* Google Sign-In */
+.google-signin-wrap {
+  display: flex;
+  justify-content: center;
+  margin: 8px 0 4px;
+}
+.login-divider {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  margin: 12px 0;
+  color: #aaa;
+  font-size: 13px;
+}
+.login-divider::before,
+.login-divider::after {
+  content: '';
+  flex: 1;
+  height: 1px;
+  background: #e0e0e0;
+}
