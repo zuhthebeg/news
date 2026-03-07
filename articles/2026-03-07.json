@@ -1,0 +1,50 @@
+{
+  "date": "2026-03-07",
+  "articles": [
+    {
+      "id": "1",
+      "title": "미 국방부, Anthropic를 '공급망 리스크'로 공식 분류",
+      "summary": "Anthropic가 미 국방 조달 체인에서 리스크 대상으로 지정됐다는 보도. Claude의 공공/국방 사용 범위와 정책 해석 이슈가 커지는 중.",
+      "category": "ai-tech",
+      "source": "Fortune",
+      "sourceUrl": "https://fortune.com/2026/03/06/pentagon-officially-defines-anthropic-as-supply-chain-risk/",
+      "publishedAt": "2026-03-07T12:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "OpenAI, GPT-5.4 공개 — 코딩·도구사용·장문 컨텍스트 개선",
+      "summary": "OpenAI가 GPT-5.4를 발표. 코딩·도구사용·장문 컨텍스트(1M) 효율 개선을 전면에 내세우며 기업/개발 워크플로우 경쟁이 가속.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-5-4/",
+      "publishedAt": "2026-03-07T12:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "NVIDIA, GTC 2026(3/16~19) 일정·규모 발표",
+      "summary": "개발자/리서처/기업 참여 대형 행사로, AI 인프라(가속컴퓨팅·플랫폼) 중심 로드맵 공개가 예고됨. 생태계 투자 방향 가늠 지표로 주목.",
+      "category": "ai-tech",
+      "source": "NVIDIA",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-ceo-jensen-huang-and-global-technology-leaders-to-showcase-age-of-ai-at-gtc-2026",
+      "publishedAt": "2026-03-07T12:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "MWC 2026: China Unicom·Huawei 'AI Reshaping' 공동 이니셔티브 발표",
+      "summary": "통신 인프라와 AI를 결합한 공동 생태계/플랫폼 전략 발표. AI가 앱 단이 아니라 네트워크·운영계층으로 내려가는 흐름을 보여줌.",
+      "category": "ai-tech",
+      "source": "Huawei",
+      "sourceUrl": "https://www.huawei.com/en/news/2026/3/mwc-unicom-ai-reshaping",
+      "publishedAt": "2026-03-07T12:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "HN에서 Claude 장애·정책 이슈 동시 확산",
+      "summary": "Hacker News에서 Claude 장애 보도(서비스 안정성)와 국방부 관련 논란(정책/거버넌스)이 함께 회자. 제품 신뢰성과 정책 리스크를 같이 본다는 반응.",
+      "category": "ai-tech",
+      "source": "Hacker News",
+      "sourceUrl": "https://news.ycombinator.com/item?id=47235892",
+      "publishedAt": "2026-03-07T12:00:00+09:00"
+    }
+  ]
+}
