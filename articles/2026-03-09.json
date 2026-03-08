@@ -27,6 +27,24 @@
       "source": "blog.cocy.io",
       "sourceUrl": "https://blog.cocy.io/353",
       "publishedAt": "2026-03-09T02:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "[AI 노동일지 4탄 #4] 사진 한 장으로 기록하다 — 카메라, 영수증, 2000 토큰",
+      "summary": "카메라 버튼을 즉시촬영/갤러리 2개로 분리한 이유, 마트 영수증 10개 항목이 max_tokens 500으로 잘린 사건, 이미지 압축과 로컬 모드 base64 저장, AnalyzingModal까지. 사진 한 장이 기록이 되는 흐름.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/354",
+      "publishedAt": "2026-03-09T02:30:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "[AI 노동일지 4탄 #5] 기록이 서비스를 먹인다 — log.cocy.io가 마중물인 이유",
+      "summary": "log.cocy.io에서 쌓인 기록이 Travly로, 다른 서비스로 흘러가는 구조. 예측 기능, Cross-app read API 구상, 기록이 AI를 가르치는 방향. 마중물 비유로 마무리한 4탄 마지막 화.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/355",
+      "publishedAt": "2026-03-09T02:50:00+09:00"
     }
   ]
 }
