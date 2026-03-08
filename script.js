@@ -143,9 +143,22 @@ function setFcCache(id, result) {
   try { localStorage.setItem(FC_PREFIX + id, JSON.stringify(result)); } catch {}
 }
 
+function renderHeadlineBlock(h) {
+  if (!h) return "";
+  const intentLabel = { "정보전달":"📰 정보전달", "의제설정":"📢 의제설정", "클릭베이트":"🎣 클릭베이트", "정치적":"🏛 정치적", "상업적":"💰 상업적" };
+  const fairBadge = h.fair ? '<span class="fc-badge fc-badge-ok">제목 공정</span>' : '<span class="fc-badge fc-badge-warn">제목 주의</span>';
+  return `<div class="fc-headline-block">
+    <span class="fc-hl-label">🔍 제목 의도</span>
+    <span class="fc-hl-intent">${intentLabel[h.intent] || h.intent || "불명확"}</span>
+    ${fairBadge}
+    ${h.note ? `<p class="fc-hl-note">${h.note}</p>` : ""}
+  </div>`;
+}
+
 function renderFcResult(resultEl, btn, result) {
   const type = result?.type || "factcheck";
   const summaryHtml = `<p class="fc-summary">🧾 요약: ${result.summary || "요약 정보 없음"}</p>`;
+  const headlineHtml = renderHeadlineBlock(result.headline);
 
   if (type === "review") {
     resultEl.innerHTML = `
@@ -153,6 +166,7 @@ function renderFcResult(resultEl, btn, result) {
       ${summaryHtml}
       <p class="fc-reason">${result.evaluation || "평가 정보 없음"}</p>
       <p class="fc-caution">⚖️ ${result.bias || "논조/편향성 정보 없음"}</p>
+      ${headlineHtml}
     `;
   } else {
     const score = Math.min(100, Math.max(0, Number(result.score) || 50));
@@ -166,6 +180,7 @@ function renderFcResult(resultEl, btn, result) {
       <div class="fc-bar"><div class="fc-bar-fill" style="width:${score}%;background:${barColor}"></div></div>
       <p class="fc-reason">${result.reason || ""}</p>
       <p class="fc-caution">⚠️ ${result.caution || ""}</p>
+      ${headlineHtml}
     `;
   }
 
@@ -208,9 +223,14 @@ STEP 2: 아래 두 가지 중 하나를 선택:
 - [팩트체크 가능] 사실 확인이 가능한 구체적 주장이 있으면: 신뢰도 점수(0-100) + 근거 + 주의점
 - [평가 모드] 의견/전망/예측/홍보성 기사이거나 팩트체크 불가하면: 기사 논조 + 균형성 + 주의사항
 
+STEP 3: 제목 분석 — 제목이 내용을 공정하게 반영하는지 평가
+- 과장/낚시성 여부 (클릭베이트, 공포 조장, 과장된 표현)
+- 생략된 핵심 (제목에서 빠진 중요 맥락)
+- 저널리즘 의도 추정 (정보 전달 / 의제 설정 / 상업적 / 정치적)
+
 반드시 아래 JSON 형식으로 응답:
-팩트체크: {"type":"factcheck","summary":"요약","score":75,"reason":"근거","caution":"주의점"}
-평가: {"type":"review","summary":"요약","evaluation":"객관적 평가","bias":"논조/편향성"}`
+팩트체크: {"type":"factcheck","summary":"요약","score":75,"reason":"근거","caution":"주의점","headline":{"intent":"정보전달|의제설정|클릭베이트|정치적|상업적","fair":true,"note":"한 줄 평"}}
+평가: {"type":"review","summary":"요약","evaluation":"객관적 평가","bias":"논조/편향성","headline":{"intent":"정보전달|의제설정|클릭베이트|정치적|상업적","fair":true,"note":"한 줄 평"}}`
           },
           {
             role: "user",

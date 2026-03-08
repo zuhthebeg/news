@@ -393,6 +393,35 @@ a {
   margin: 0;
 }
 
+/* 제목 의도 분석 블록 */
+.fc-headline-block {
+  margin-top: 0.6rem;
+  padding: 0.5rem 0.7rem;
+  background: var(--surface-soft);
+  border-radius: 8px;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4rem;
+}
+.fc-hl-label { font-size: 0.8rem; color: var(--muted); flex-basis: 100%; }
+.fc-hl-intent { font-size: 0.85rem; font-weight: 600; }
+.fc-badge {
+  font-size: 0.75rem;
+  padding: 2px 7px;
+  border-radius: 20px;
+  font-weight: 600;
+}
+.fc-badge-ok { background: #c6f6d5; color: #276749; }
+.fc-badge-warn { background: #fefcbf; color: #7b6c00; }
+.fc-hl-note {
+  font-size: 0.82rem;
+  color: var(--muted);
+  margin: 0.2rem 0 0;
+  flex-basis: 100%;
+  line-height: 1.4;
+}
+
 @media (max-width: 640px) {
   .container {
     width: min(1200px, calc(100% - 1rem));
