@@ -45,6 +45,69 @@
       "source": "Hacker News",
       "sourceUrl": "https://news.ycombinator.com/item?id=47235892",
       "publishedAt": "2026-03-07T12:00:00+09:00"
+    },
+    {
+      "id": "blog-2-1",
+      "title": "[AI 노동일지 2편 #1] 무기강화 게임 보스 밸런스 패치",
+      "summary": "보스가 너무 약했다. 숫자 하나를 바꾸면 게임 전체가 바뀐다. 밸런스는 감이 아니라 데이터다. 플레이 패턴을 보고, 보스 등장 타이밍을 조정하고, 테스트했다. game.cocy.io/enhance에서 확인.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/335",
+      "publishedAt": "2026-03-07T09:00:00+09:00"
+    },
+    {
+      "id": "blog-2-2",
+      "title": "[AI 노동일지 2편 #2] 정령 출현율 가중치 조정",
+      "summary": "정령이 너무 자주 나오거나 너무 안 나왔다. 랜덤의 문제가 아니라 가중치 설계의 문제였다. 각 정령 타입별 확률을 조정하고, 실제 플레이 데이터로 검증했다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/336",
+      "publishedAt": "2026-03-07T09:10:00+09:00"
+    },
+    {
+      "id": "blog-2-3",
+      "title": "[AI 노동일지 2편 #3] relay.cocy.io 멀티플레이 서버 탄생",
+      "summary": "게임 하나가 멀티플레이가 되려면 서버가 필요하다. Cloudflare Pages + D1으로 relay.cocy.io를 만들었다. SSE 기반 실시간 통신, 방 생성/입장/게임 액션까지. 코드 없이 운영.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/337",
+      "publishedAt": "2026-03-07T09:20:00+09:00"
+    },
+    {
+      "id": "blog-2-4",
+      "title": "[AI 노동일지 2편 #4] Line Rush AAB 빌드 삽질기",
+      "summary": "웹게임을 앱으로 만드는 과정이 이렇게 복잡한 줄 몰랐다. Bubblewrap으로 TWA 빌드, 키스토어 생성, AAB 추출. 삽질 끝에 LineRush-v1.aab가 나왔다. game.cocy.io/linerush.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/338",
+      "publishedAt": "2026-03-07T09:30:00+09:00"
+    },
+    {
+      "id": "blog-2-5",
+      "title": "[AI 노동일지 2편 #5] Travly — 여행 플래너에 AI를 붙이다",
+      "summary": "여행 일정을 자연어로 입력하면 AI가 파싱해서 일정으로 만든다. llm.cocy.io를 연결하고, intent fallback을 추가했다. AI 비서가 예산도 짜고 메모도 만든다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/339",
+      "publishedAt": "2026-03-07T09:40:00+09:00"
+    },
+    {
+      "id": "blog-2-6",
+      "title": "[AI 노동일지 2편 #6] 배포 전 승인 규칙 — AI가 스스로 멈추는 순간",
+      "summary": "미커밋 변경이 있는 상태에서 배포를 막는 규칙을 만들었다. AI가 스스로 체크하고, 의심스러우면 묻는다. 자율성은 좋지만 경계 없는 자율성은 사고가 된다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/340",
+      "publishedAt": "2026-03-07T09:50:00+09:00"
+    },
+    {
+      "id": "blog-2-7",
+      "title": "[AI 노동일지 2편 #7] 클라이언트에 API 키 넣으면 안 됩니다 — 보안 실수를 막은 규칙",
+      "summary": "프론트엔드에 API 키를 하드코딩하면 누구나 볼 수 있다. 당연한 말인데 놓치기 쉽다. llm.cocy.io를 프록시로 쓰면서 클라이언트엔 키를 두지 않는 구조를 만들었다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/341",
+      "publishedAt": "2026-03-07T10:00:00+09:00"
     }
   ]
 }
