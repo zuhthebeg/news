@@ -3,6 +3,8 @@ const CATEGORY_LABELS = {
   domestic: "국내",
   world: "해외",
   economy: "경제",
+  science: "과학",
+  blog: "블로그",
 };
 
 const LLM_API = "https://llm.cocy.io/v1/chat/completions";

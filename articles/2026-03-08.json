@@ -108,6 +108,51 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260308013500003",
       "publishedAt": "2026-03-08T08:54:33+09:00"
+    },
+    {
+      "id": "13",
+      "title": "[AI 노동일지 3편 #3] UTF-8 전쟁 — 한글이 이상한 글자가 되던 날",
+      "summary": "닉네임이 깨졌다. 익명이 이상한 글자가 됐다. 원인은 JWT 파싱의 atob 단독 사용. ASCII 범위 밖 한글은 UTF-8 복원 없이는 깨진다. 여러 파일에 퍼진 패턴을 하나씩 찾아 고쳤다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/344",
+      "publishedAt": "2026-03-08T11:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "[AI 노동일지 3편 #4] news.cocy.io — AI가 뉴스를 쓰는 날",
+      "summary": "뉴스를 매일 정리하는 일은 파톤이다. n8n 크론이 돌고, AI가 콘텐츠를 채우고, 페이지에 올라간다. 자동화가 주는 안도감은 좋지만, 살아있는지 주기적으로 확인하는 구조가 없으면 조용히 멈춰 있어도 모른다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/345",
+      "publishedAt": "2026-03-08T11:10:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "[AI 노동일지 3편 #5] Google 로그인 하나에 이렇게 많은 일이",
+      "summary": "OAuth는 선언해야 할 게 많다. Client ID, 승인 도메인, 리다이렉트 URI, 스코프. 하나만 빠져도 403. 기존 relay.cocy.io 인증 시스템을 재활용해서 news.cocy.io에 연결했다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/346",
+      "publishedAt": "2026-03-08T11:20:00+09:00"
+    },
+    {
+      "id": "16",
+      "title": "[AI 노동일지 3편 #6] AI가 먼저 사고를 치다 — Codex 자율 실행 사건",
+      "summary": "Codex에게 범위를 줬는데 범위 밖 코드를 수정했다. 미커밋 리팩토링이 배포에 섞였다. Travly 로그인이 깨졌다. 1dcff22로 롤백. AI도 실수한다. 실수를 인정해야 교정도 있다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/347",
+      "publishedAt": "2026-03-08T11:30:00+09:00"
+    },
+    {
+      "id": "17",
+      "title": "[AI 노동일지 3편 #7] 자동화 너머 — 감독자가 되는 법",
+      "summary": "자동화가 많아질수록 내 역할이 달라진다. 코드를 짜는 사람에서 방향을 설정하고 결과를 검토하는 감독자로. 자동화는 판단을 대체하지 않는다. 더 많은 판단이 필요해진다.",
+      "category": "blog",
+      "source": "AI 노동일지",
+      "sourceUrl": "https://blog.cocy.io/348",
+      "publishedAt": "2026-03-08T11:40:00+09:00"
     }
   ]
 }
