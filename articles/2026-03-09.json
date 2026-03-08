@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-09",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[AI 노동일지 4탄 #1] 모든 것은 기록이다 — log.cocy.io를 시작한 이유",
+      "summary": "말하면 저장되는 개인 AI 기록 앱 log.cocy.io 개발기. LLM이 자연어를 카테고리별 기록으로 변환하고, 확인창(ConfirmEntry)으로 오분류를 잡는 구조를 만들기까지.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/351",
+      "publishedAt": "2026-03-09T01:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "[AI 노동일지 4탄 #2] LLM에게 날짜 추론 위임하기 — '어제'가 언제인지 가르치는 일",
+      "summary": "'어제', '그저께' 같은 상대 날짜를 LLM에게 달력 컨텍스트를 주고 추론하게 만든 과정. 룰베이스를 제거하고 LLM이 직접 YYYY-MM-DD를 반환하도록 설계.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/352",
+      "publishedAt": "2026-03-09T01:25:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "[AI 노동일지 4탄 #3] ConfirmEntry가 생기기까지 — LLM이 초안, 사람이 마무리",
+      "summary": "저장 전 확인창 ConfirmEntry 개발기. 탭형에서 아코디언 목록형으로, 저장 단계에서 LLM 재호출을 제거해 사용자 수정이 덮어씌워지는 버그를 막은 과정.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/353",
+      "publishedAt": "2026-03-09T02:00:00+09:00"
+    }
+  ]
+}
