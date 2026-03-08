@@ -199,28 +199,25 @@ function dbFactcheckToResult(row) {
   };
 }
 
-/* ── Long Press (재분석) ── */
+/* ── 5회 클릭 재분석 ── */
 function attachFcLongPress(btn) {
-  let timer = null;
-  const start = (e) => {
-    if (btn.textContent !== "✨ 팩트체크 완료") return;
-    timer = setTimeout(() => {
-      timer = null;
+  let clicks = 0, timer = null;
+  btn.addEventListener("click", () => {
+    if (btn.textContent !== "✨ 팩트체크 완료") { clicks = 0; return; }
+    clicks++;
+    clearTimeout(timer);
+    timer = setTimeout(() => { clicks = 0; }, 1500);
+    if (clicks >= 5) {
+      clicks = 0;
+      clearTimeout(timer);
       if (confirm("다시 팩트체크할까요?")) {
         btn.dataset.forceRefresh = "1";
         const resultEl = btn.closest(".news-card").querySelector(".factcheck-result");
         if (resultEl) { resultEl.hidden = true; resultEl.innerHTML = ""; }
         factCheck(btn);
       }
-    }, 600);
-  };
-  const cancel = () => { if (timer) { clearTimeout(timer); timer = null; } };
-  btn.addEventListener("mousedown", start);
-  btn.addEventListener("touchstart", start, { passive: true });
-  btn.addEventListener("mouseup", cancel);
-  btn.addEventListener("mouseleave", cancel);
-  btn.addEventListener("touchend", cancel);
-  btn.addEventListener("touchcancel", cancel);
+    }
+  });
 }
 
 /* ── Fact Check ── */
