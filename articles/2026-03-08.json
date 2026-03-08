@@ -2,31 +2,112 @@
   "date": "2026-03-08",
   "articles": [
     {
-      "title": "이란, 걸프국 공격 멈춘다... 트럼프 ‘항복’ 요구엔 거절 - 조선일보",
-      "summary": "이란, 걸프국 공격 멈춘다... 트럼프 ‘항복’ 요구엔 거절",
+      "id": "1",
+      "title": "'美국방부 계약' 오픈AI 내부반발…\"성급했다\" 비판하며 임원 사임",
+      "summary": "오픈AI가 미 국방부와 계약을 체결한 직후 내부에서 반발이 제기됐다.\n일부 임원은 군사 분야 협력이 회사의 원칙과 충돌할 수 있다고 우려했다.\n계약 추진 과정의 속도와 내부 소통 부족이 핵심 쟁점으로 떠올랐다.",
+      "category": "ai-tech",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308017800075",
+      "publishedAt": "2026-03-08T09:52:29+09:00"
+    },
+    {
+      "id": "2",
+      "title": "경북도, AI·시스템반도체 중심 산업 생태계 구축한다",
+      "summary": "경북도가 AI와 시스템반도체를 지역 핵심 성장축으로 육성하겠다고 밝혔다.\n기업·대학·연구기관 협력을 통해 인력양성과 기술개발을 병행할 계획이다.\n지역 제조 기반과 연계해 고부가가치 산업 전환을 가속화한다는 구상이다.",
+      "category": "ai-tech",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308014600053",
+      "publishedAt": "2026-03-08T09:10:57+09:00"
+    },
+    {
+      "id": "3",
+      "title": "[AI픽] LGU+, 퓨리오사AI와 기업용 소버린 AI 인프라 구축",
+      "summary": "LG유플러스와 퓨리오사AI가 기업용 소버린 AI 인프라 구축에 협력한다.\n국내 환경에 맞춘 AI 인프라를 통해 데이터 주권과 보안 요구를 강화하는 방향이다.\n국내 기업 대상 AI 서비스 확산과 생태계 경쟁력 확보가 목표로 제시됐다.",
+      "category": "ai-tech",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260306173600017",
+      "publishedAt": "2026-03-08T09:00:09+09:00"
+    },
+    {
+      "id": "4",
+      "title": "'여수 4개월 영아 살해' 엄벌 촉구 잇따라…탄원서 900여건",
+      "summary": "여수에서 발생한 4개월 영아 사망 사건과 관련해 엄벌 촉구 여론이 확산됐다.\n온라인과 지역사회 중심으로 탄원 참여가 이어지며 900건이 넘는 탄원서가 접수됐다.\n수사와 재판 과정에서 아동학대 범죄 처벌 강화 요구가 커지고 있다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308018100054",
+      "publishedAt": "2026-03-08T09:54:53+09:00"
+    },
+    {
+      "id": "5",
+      "title": "의대열풍에 작년 SKY 신입생 '미충원' 61명…5년 전의 3배",
+      "summary": "의대 선호 현상 심화로 SKY 대학의 신입생 미충원 규모가 크게 늘어난 것으로 나타났다.\n지난해 미충원 인원은 61명으로 5년 전 대비 약 3배 수준까지 확대됐다.\n상위권 수험생 이동이 일반 학과 충원 구조를 흔들고 있다는 분석이 나온다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308017500530",
+      "publishedAt": "2026-03-08T09:47:30+09:00"
+    },
+    {
+      "id": "6",
+      "title": "경북 청도 아파트서 전동킥보드 충전 중 화재",
+      "summary": "경북 청도의 한 아파트에서 전동킥보드 충전 중 화재가 발생했다.\n다행히 인명 피해는 제한적이었지만, 배터리 충전 안전에 대한 경각심이 커졌다.\n소방당국은 정확한 발화 원인과 피해 규모를 조사 중이다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308016300053",
+      "publishedAt": "2026-03-08T09:33:10+09:00"
+    },
+    {
+      "id": "7",
+      "title": "이란 안보수장 \"미군 여러 명 포로로 잡아\"…미국은 부인",
+      "summary": "이란 측이 미군을 포로로 잡았다고 주장했지만 미국은 이를 즉각 부인했다.\n양측 발표가 정면으로 엇갈리면서 중동 정세의 불확실성이 확대되고 있다.\n사실관계 확인 전까지 외교·군사적 긴장이 이어질 가능성이 제기된다.",
       "category": "world",
-      "source": "Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOaTlGTk9veDJkVGVMMFdRV2duSjF4Q21YZmVWaEEwVTViN2IwYm16dWlEMzN5Qm5FMVEyRjZuMkZGYUExaUJqLV96T1NFdW9TSFAzaU5MWUJBQ2R5enJNd1BMWWYzTHNaMW9iaElpQ2w5cnRZMUl1YldVcWNscU0xa3lFUl9SaGtNVUV1WS1lT0FvU1BVYW1LdloyTXlaUdIBsgFBVV95cUxNY3l0NThxVlJ2eXRxV2djV3lSZU5FdlphSXo3RHBWbGQ0VmN0dU5maDQyalhZTTZzMUpEUTc5RmdYNktUOHNzY0F2N0p4d2xxTHFTR1JUNzU0VGN3dkJJR1FlM3NhcWVZTXBNSFJVczJ6WXZkNkZfZ1lGZWhaV1BfN3gwUTQ2OERyeDJlM0Q3eU5hNHBLeWUyeHd3S0pJWmlwV2x1VTJNNzJqNHMweHNoUzRR?oc=5",
-      "publishedAt": "2026-03-07T15:00:01Z",
-      "id": "1"
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308017000009",
+      "publishedAt": "2026-03-08T09:51:12+09:00"
     },
     {
-      "title": "‘이재명 대선후보 자격 박탈’ 초스피드 질주한 ‘조희대 사법부’ - 한겨레",
-      "summary": "‘이재명 대선후보 자격 박탈’ 초스피드 질주한 ‘조희대 사법부’",
-      "category": "domestic",
-      "source": "Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE90WW1IMk5BcnpHeWhSU1AxWXFBb3kySHdTSW9iMmpHLXR6UFhwUUUyYmtfNW14OXFVdExRZnlXaFNHV0ZycTBYVi12THUzRWVYc0JUQ2Q2VjdpaDZQeFBPUFUyUEtLQ1NXQllJalJnMXFodw?oc=5",
-      "publishedAt": "2026-03-07T23:47:00Z",
-      "id": "2"
+      "id": "8",
+      "title": "대만 행정원장, 中日갈등속 이례적 방일…\"1972년 단교 후 처음\"",
+      "summary": "대만 행정원장의 일본 방문이 1972년 단교 이후 처음이라는 점에서 주목받고 있다.\n중국과 일본 간 긴장 국면에서 이뤄진 행보라 외교적 파장이 예상된다.\n대만과 일본의 협력 신호로 해석되며 동아시아 정세에 영향을 줄 전망이다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308016200073",
+      "publishedAt": "2026-03-08T09:35:55+09:00"
     },
     {
-      "title": "호르무즈 해협 선박, 누구 소유일까? - 조선일보",
-      "summary": "호르무즈 해협 선박, 누구 소유일까?",
-      "category": "domestic",
-      "source": "Google News",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOVW51clo1WEQxQU5TcmRDRjNudEdTQlZOQVZhU2I5X2U3dHVfZEhKbndSb1ZVMkVUT0NiUkI2djliS0xzcTVoWGl3T1prQXRLWTJFLXdDYWhhTExBMWpJM09NNjIwZXlYVmd0Y3F3UEo0dnFrNWlhRXdlc2ZVOUN1UWlSYTVKMm5TaE95dVlzZ0V0YTk1dHB3RE1IZTBXZ9IBsgFBVV95cUxNY0RGdDh4WFpRLU8yLWpTOUtyWll0S3BmcENOazRHdVZnLU5MM0ozQ1M4ejNQdFQ0Wkl0eUJscm5aemdJRkt0MUlheGs5dVN3S25mc1pKSmpkVnJqWWZEdnhfWG9ZaVZIYWhIM21jN1V3ZmZ6OXFmbWtIRUdQQjVVX1UwU0lsd0kyVzFrSTIyeHpkMFUwSDZRRXZTZUZ4M3FuVkZ2Q1hucmg4WGdrZEI5ZUJR?oc=5",
-      "publishedAt": "2026-03-07T04:04:54Z",
-      "id": "3"
+      "id": "9",
+      "title": "中군용기 8일만에 대만해협 활동…대만 \"中군함은 계속 활동해와\"",
+      "summary": "중국 군용기가 8일 만에 대만해협 인근에서 다시 활동한 것으로 전해졌다.\n대만은 중국 군함 활동이 지속돼 왔다며 경계 태세를 유지하고 있다고 밝혔다.\n양안 간 군사적 긴장 수위가 재차 높아지는 흐름으로 해석된다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308014500083",
+      "publishedAt": "2026-03-08T09:11:22+09:00"
+    },
+    {
+      "id": "10",
+      "title": "韓 석유·가스 중동의존도 10년새 15∼20%p↓…대미투자 '에너지' 주목",
+      "summary": "한국의 석유·가스 중동 의존도가 지난 10년간 큰 폭으로 낮아진 것으로 집계됐다.\n에너지 공급망 다변화와 함께 대미 에너지 투자 확대 가능성이 주목받고 있다.\n지정학 리스크 대응 차원의 중장기 에너지 전략 변화가 본격화되는 흐름이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308016000003",
+      "publishedAt": "2026-03-08T09:55:46+09:00"
+    },
+    {
+      "id": "11",
+      "title": "기름값 상승세 다소 둔화…전국 휘발유 1천893원·경유 1천915원",
+      "summary": "전국 주유소 휘발유와 경유 가격의 상승세가 최근 다소 둔화된 것으로 나타났다.\n평균 가격은 휘발유 1,893원, 경유 1,915원 수준으로 집계됐다.\n국제유가와 환율 변동에 따라 향후 국내 유가 흐름이 좌우될 전망이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308015800003",
+      "publishedAt": "2026-03-08T09:33:04+09:00"
+    },
+    {
+      "id": "12",
+      "title": "조건부 전세대출 막히자…서울 새 입주 아파트, 월세 계약이 60%",
+      "summary": "조건부 전세대출 규제 영향으로 서울 신규 입주 단지에서 월세 비중이 크게 늘었다.\n일부 단지에서는 월세 계약이 전체의 60%에 달해 임대시장 구조 변화가 나타났다.\n세입자 부담과 주거비 상승 우려가 커지며 정책 효과 논쟁도 이어지고 있다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260308013500003",
+      "publishedAt": "2026-03-08T08:54:33+09:00"
     }
   ]
 }
