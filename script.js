@@ -200,14 +200,17 @@ function dbFactcheckToResult(row) {
 }
 
 /* ── Fact Check ── */
-async function factCheck(articleId, btn) {
+async function factCheck(btn) {
   if (!isLoggedIn()) { openLogin(); return; }
 
-  const article = allArticles.find(a => a.id === articleId);
-  if (!article) return;
-
   const resultEl = btn.closest(".news-card").querySelector(".factcheck-result");
-  const articleUrl = article.url || article.link || article.sourceUrl || "";
+  const articleUrl = btn.dataset.url || "";
+  const article = {
+    title: btn.dataset.title || "",
+    summary: btn.dataset.summary || "",
+    source: btn.dataset.source || "",
+    url: articleUrl,
+  };
 
   btn.disabled = true;
   btn.textContent = "분석 중...";
@@ -314,7 +317,7 @@ function createCard(article) {
     <p class="news-summary">${article.summary}</p>
     <p class="news-meta">${article.source} · ${articleTimeText(article.publishedAt)}</p>
     <div class="fc-area">
-      <button class="fc-btn" onclick="factCheck('${article.id}', this)" title="${loggedIn ? '팩트체크 실행' : '로그인 후 이용 가능'}">✨ 팩트체크</button>
+      <button class="fc-btn" onclick="factCheck(this)" data-url="${article.url || article.link || article.sourceUrl || ''}" data-title="${(article.title||'').replace(/"/g,'&quot;')}" data-summary="${(article.summary||'').replace(/"/g,'&quot;')}" data-source="${article.source||''}" title="${loggedIn ? '팩트체크 실행' : '로그인 후 이용 가능'}">✨ 팩트체크</button>
       <div class="factcheck-result" hidden></div>
     </div>
   `;
