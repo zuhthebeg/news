@@ -133,6 +133,32 @@ function initTheme() {
   });
 }
 
+/* ── Fact Check Cache ── */
+const FC_PREFIX = "fc_";
+
+function getFcCache(id) {
+  try { return JSON.parse(localStorage.getItem(FC_PREFIX + id)); } catch { return null; }
+}
+function setFcCache(id, result) {
+  try { localStorage.setItem(FC_PREFIX + id, JSON.stringify(result)); } catch {}
+}
+
+function renderFcResult(resultEl, btn, result) {
+  const score = Math.min(100, Math.max(0, Number(result.score) || 50));
+  const barColor = score >= 70 ? "var(--fc-green)" : score >= 40 ? "var(--fc-yellow)" : "var(--fc-red)";
+  resultEl.innerHTML = `
+    <div class="fc-score-row">
+      <span class="fc-label">팩트 신뢰도</span>
+      <span class="fc-pct">${score}%</span>
+    </div>
+    <div class="fc-bar"><div class="fc-bar-fill" style="width:${score}%;background:${barColor}"></div></div>
+    <p class="fc-reason">${result.reason || ""}</p>
+    <p class="fc-caution">⚠️ ${result.caution || ""}</p>
+  `;
+  resultEl.hidden = false;
+  if (btn) { btn.textContent = "✨ 팩트체크 완료"; btn.disabled = false; }
+}
+
 /* ── Fact Check ── */
 async function factCheck(articleId, btn) {
   if (!isLoggedIn()) { openLogin(); return; }
@@ -140,10 +166,14 @@ async function factCheck(articleId, btn) {
   const article = allArticles.find(a => a.id === articleId);
   if (!article) return;
 
+  const resultEl = btn.closest(".news-card").querySelector(".factcheck-result");
+
+  // 캐시 확인
+  const cached = getFcCache(articleId);
+  if (cached) { renderFcResult(resultEl, btn, cached); return; }
+
   btn.disabled = true;
   btn.textContent = "분석 중...";
-
-  const resultEl = btn.closest(".news-card").querySelector(".factcheck-result");
 
   try {
     const res = await fetch(LLM_API, {
@@ -176,21 +206,8 @@ async function factCheck(articleId, btn) {
     const match = text.match(/\{[\s\S]*\}/);
     if (!match) throw new Error("파싱 실패");
     const result = JSON.parse(match[0]);
-    const score = Math.min(100, Math.max(0, Number(result.score) || 50));
-
-    let barColor = score >= 70 ? "var(--fc-green)" : score >= 40 ? "var(--fc-yellow)" : "var(--fc-red)";
-
-    resultEl.innerHTML = `
-      <div class="fc-score-row">
-        <span class="fc-label">팩트 신뢰도</span>
-        <span class="fc-pct">${score}%</span>
-      </div>
-      <div class="fc-bar"><div class="fc-bar-fill" style="width:${score}%;background:${barColor}"></div></div>
-      <p class="fc-reason">${result.reason || ""}</p>
-      <p class="fc-caution">⚠️ ${result.caution || ""}</p>
-    `;
-    resultEl.hidden = false;
-    btn.textContent = "✨ 팩트체크 완료";
+    setFcCache(articleId, result);
+    renderFcResult(resultEl, btn, result);
   } catch (err) {
     resultEl.innerHTML = `<p class="fc-error">팩트체크 실패: ${err.message}</p>`;
     resultEl.hidden = false;
@@ -205,6 +222,7 @@ function createCard(article) {
   card.className = "news-card";
   const cat = CATEGORY_LABELS[article.category] || article.category;
   const loggedIn = isLoggedIn();
+  const cached = getFcCache(article.id);
 
   card.innerHTML = `
     <span class="badge">${cat}</span>
@@ -212,10 +230,18 @@ function createCard(article) {
     <p class="news-summary">${article.summary}</p>
     <p class="news-meta">${article.source} · ${articleTimeText(article.publishedAt)}</p>
     <div class="fc-area">
-      <button class="fc-btn" onclick="factCheck('${article.id}', this)" title="${loggedIn ? '팩트체크 실행' : '로그인 후 이용 가능'}">✨ 팩트체크</button>
+      <button class="fc-btn" onclick="factCheck('${article.id}', this)" title="${loggedIn ? '팩트체크 실행' : '로그인 후 이용 가능'}">${cached ? "✨ 팩트체크 완료" : "✨ 팩트체크"}</button>
       <div class="factcheck-result" hidden></div>
     </div>
   `;
+
+  // 캐시 있으면 결과 자동 표시
+  if (cached) {
+    const resultEl = card.querySelector(".factcheck-result");
+    const btn = card.querySelector(".fc-btn");
+    renderFcResult(resultEl, btn, cached);
+  }
+
   return card;
 }
 
