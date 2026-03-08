@@ -7,7 +7,7 @@ const CATEGORY_LABELS = {
   blog: "블로그",
 };
 
-const LLM_API = "https://llm.cocy.io/v1/chat/completions";
+const LLM_API = "https://llm.cocy.io/v2/chat/completions";
 const AUTH_API = "https://relay.cocy.io/api/auth";
 
 let selectedDate = new Date();
@@ -144,17 +144,31 @@ function setFcCache(id, result) {
 }
 
 function renderFcResult(resultEl, btn, result) {
-  const score = Math.min(100, Math.max(0, Number(result.score) || 50));
-  const barColor = score >= 70 ? "var(--fc-green)" : score >= 40 ? "var(--fc-yellow)" : "var(--fc-red)";
-  resultEl.innerHTML = `
-    <div class="fc-score-row">
-      <span class="fc-label">팩트 신뢰도</span>
-      <span class="fc-pct">${score}%</span>
-    </div>
-    <div class="fc-bar"><div class="fc-bar-fill" style="width:${score}%;background:${barColor}"></div></div>
-    <p class="fc-reason">${result.reason || ""}</p>
-    <p class="fc-caution">⚠️ ${result.caution || ""}</p>
-  `;
+  const type = result?.type || "factcheck";
+  const summaryHtml = `<p class="fc-summary">🧾 요약: ${result.summary || "요약 정보 없음"}</p>`;
+
+  if (type === "review") {
+    resultEl.innerHTML = `
+      <h4 class="fc-review-title">📝 기사 분석</h4>
+      ${summaryHtml}
+      <p class="fc-reason">${result.evaluation || "평가 정보 없음"}</p>
+      <p class="fc-caution">⚖️ ${result.bias || "논조/편향성 정보 없음"}</p>
+    `;
+  } else {
+    const score = Math.min(100, Math.max(0, Number(result.score) || 50));
+    const barColor = score >= 70 ? "var(--fc-green)" : score >= 40 ? "var(--fc-yellow)" : "var(--fc-red)";
+    resultEl.innerHTML = `
+      ${summaryHtml}
+      <div class="fc-score-row">
+        <span class="fc-label">팩트 신뢰도</span>
+        <span class="fc-pct">${score}%</span>
+      </div>
+      <div class="fc-bar"><div class="fc-bar-fill" style="width:${score}%;background:${barColor}"></div></div>
+      <p class="fc-reason">${result.reason || ""}</p>
+      <p class="fc-caution">⚠️ ${result.caution || ""}</p>
+    `;
+  }
+
   resultEl.hidden = false;
   if (btn) { btn.textContent = "✨ 팩트체크 완료"; btn.disabled = false; }
 }
@@ -176,6 +190,8 @@ async function factCheck(articleId, btn) {
   btn.textContent = "분석 중...";
 
   try {
+    const articleUrl = article.url || article.link || article.source || "";
+
     const res = await fetch(LLM_API, {
       method: "POST",
       headers: { "Content-Type": "application/json" },
@@ -184,20 +200,24 @@ async function factCheck(articleId, btn) {
         messages: [
           {
             role: "system",
-            content: `당신은 중립적 팩트체커입니다. 기사 제목과 요약을 보고:
-1) 사실 신뢰도를 0~100% 숫자로 판단
-2) 근거 1~2줄
-3) 주의할 점 1줄
+            content: `당신은 중립적인 뉴스 분석 AI입니다. 기사 URL과 제목/요약을 받아:
 
-반드시 아래 JSON 형식으로만 응답:
-{"score":75,"reason":"근거","caution":"주의점"}`
+STEP 1: 기사 내용을 2~3문장으로 요약 (핵심 사실 중심)
+
+STEP 2: 아래 두 가지 중 하나를 선택:
+- [팩트체크 가능] 사실 확인이 가능한 구체적 주장이 있으면: 신뢰도 점수(0-100) + 근거 + 주의점
+- [평가 모드] 의견/전망/예측/홍보성 기사이거나 팩트체크 불가하면: 기사 논조 + 균형성 + 주의사항
+
+반드시 아래 JSON 형식으로 응답:
+팩트체크: {"type":"factcheck","summary":"요약","score":75,"reason":"근거","caution":"주의점"}
+평가: {"type":"review","summary":"요약","evaluation":"객관적 평가","bias":"논조/편향성"}`
           },
           {
             role: "user",
-            content: `제목: ${article.title}\n요약: ${article.summary}\n출처: ${article.source}`
+            content: `기사 URL: ${articleUrl}\n제목: ${article.title}\n요약: ${article.summary}\n출처: ${article.source}`
           }
         ],
-        max_tokens: 300
+        max_tokens: 600
       })
     });
 
