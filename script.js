@@ -199,6 +199,30 @@ function dbFactcheckToResult(row) {
   };
 }
 
+/* ── Long Press (재분석) ── */
+function attachFcLongPress(btn) {
+  let timer = null;
+  const start = (e) => {
+    if (btn.textContent !== "✨ 팩트체크 완료") return;
+    timer = setTimeout(() => {
+      timer = null;
+      if (confirm("다시 팩트체크할까요?")) {
+        btn.dataset.forceRefresh = "1";
+        const resultEl = btn.closest(".news-card").querySelector(".factcheck-result");
+        if (resultEl) { resultEl.hidden = true; resultEl.innerHTML = ""; }
+        factCheck(btn);
+      }
+    }, 600);
+  };
+  const cancel = () => { if (timer) { clearTimeout(timer); timer = null; } };
+  btn.addEventListener("mousedown", start);
+  btn.addEventListener("touchstart", start, { passive: true });
+  btn.addEventListener("mouseup", cancel);
+  btn.addEventListener("mouseleave", cancel);
+  btn.addEventListener("touchend", cancel);
+  btn.addEventListener("touchcancel", cancel);
+}
+
 /* ── Fact Check ── */
 async function factCheck(btn) {
   if (!isLoggedIn()) { openLogin(); return; }
@@ -215,8 +239,11 @@ async function factCheck(btn) {
   btn.disabled = true;
   btn.textContent = "분석 중...";
 
+  const forceRefresh = btn.dataset.forceRefresh === "1";
+  delete btn.dataset.forceRefresh;
+
   try {
-    if (articleUrl) {
+    if (articleUrl && !forceRefresh) {
       const cacheRes = await fetch(`${NEWS_API}/factcheck?url=${encodeURIComponent(articleUrl)}`);
       if (cacheRes.ok) {
         const cacheData = await cacheRes.json();
@@ -334,7 +361,12 @@ function renderNews() {
   list.innerHTML = "";
   if (!filtered.length) { empty.hidden = false; return; }
   empty.hidden = true;
-  filtered.forEach(a => list.appendChild(createCard(a)));
+  filtered.forEach(a => {
+    const card = createCard(a);
+    const fcBtn = card.querySelector(".fc-btn");
+    if (fcBtn) attachFcLongPress(fcBtn);
+    list.appendChild(card);
+  });
 }
 
 async function loadNewsByDate(date) {
