@@ -126,6 +126,51 @@
       "source": "이데일리",
       "sourceUrl": "https://n.news.naver.com/mnews/article/658/0000137246",
       "publishedAt": "2026-03-09T08:30:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "Anthropic, 美 국방부 공급망 리스크 공식 지정 통보",
+      "summary": "미 국방부가 Anthropic과 Claude를 '공급망 리스크'로 공식 지정하고 방산 계약사에 미사용 인증을 요구했다. Anthropic은 법적 대응을 예고했으며, AI 안전 가드레일과 국방 활용 범위를 둘러싼 갈등이 본격화됐다.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/03/05/anthropic-pentagon-ai-claude-iran.html",
+      "publishedAt": "2026-03-05T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "OpenAI, 펜타곤 계약 세부 공개…'다층 안전장치' 강조",
+      "summary": "OpenAI는 국방 계약 관련 블로그를 통해 대규모 국내 감시·자율무기·고위험 자동결정을 금지한다고 밝혔다. API 기반 배포와 인력 통제 등 기술적 통제를 강조하며, Anthropic과 다른 접근을 제시했다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/01/openai-shares-more-details-about-its-agreement-with-the-pentagon/",
+      "publishedAt": "2026-03-01T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "구글 3월 Pixel Drop 공개…Gemini 앱 작업 자동화 확대",
+      "summary": "구글은 3월 Pixel 업데이트에서 Circle to Search 멀티 오브젝트 인식, Gemini 기반 앱 작업 처리, Magic Cue 추천 기능 등을 발표했다. 온디바이스 UX와 에이전틱 AI 경험을 동시에 강화하는 흐름이다.",
+      "category": "ai-tech",
+      "source": "Google Blog",
+      "sourceUrl": "https://blog.google/products-and-platforms/devices/pixel/march-2026-pixel-drop/",
+      "publishedAt": "2026-03-03T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "Meta, News Corp와 AI 콘텐츠 라이선스 계약 체결",
+      "summary": "Meta가 WSJ 등 News Corp 콘텐츠를 챗봇 응답·모델 학습에 활용하는 다년 계약을 체결했다. 주요 미디어와의 유료 라이선스 경쟁이 심화되며, 생성형 AI의 데이터 조달 전략이 본격적으로 제도화되고 있다.",
+      "category": "ai-tech",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/ai/meta-signs-a-multimillion-dollar-ai-licensing-deal-with-news-corp-234157902.html",
+      "publishedAt": "2026-03-03T23:41:57Z"
+    },
+    {
+      "id": "19",
+      "title": "삼성, AI 스마트글래스 핵심 사양 공개…연내 출시 목표",
+      "summary": "삼성 모바일 임원이 카메라 탑재·스마트폰 연동 구조의 AI 스마트글래스 방향을 공개했다. 메타 Ray-Ban이 선점한 시장에서 삼성·구글·퀄컴 연합이 '에이전틱 디바이스' 주도권 경쟁에 본격 진입했다.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/03/06/samsung-ai-smart-glasses-first-details-specs-release-date.html",
+      "publishedAt": "2026-03-06T00:00:00Z"
     }
   ]
 }
