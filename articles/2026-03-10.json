@@ -90,6 +90,51 @@
       "source": "blog.cocy.io",
       "sourceUrl": "https://blog.cocy.io/360",
       "publishedAt": "2026-03-10T01:58:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Where things stand with the Department of War",
+      "summary": "Anthropic CEO Dario Amodei published a statement outlining the company’s position after friction with the U.S. Department of War over AI deployment terms.",
+      "category": "ai-tech",
+      "source": "Anthropic Newsroom",
+      "sourceUrl": "https://www.anthropic.com/news/where-stand-department-war",
+      "publishedAt": "2026-03-05T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "Introducing Claude Sonnet 4.6",
+      "summary": "Anthropic announced Claude Sonnet 4.6, positioning it as a frontier model upgrade for coding, agent workflows, and professional-scale tasks.",
+      "category": "ai-tech",
+      "source": "Anthropic Newsroom",
+      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "publishedAt": "2026-02-17T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "OpenAI to acquire Promptfoo",
+      "summary": "OpenAI said it will acquire Promptfoo, an AI security platform focused on testing and hardening AI systems in enterprise development pipelines.",
+      "category": "ai-tech",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/openai-to-acquire-promptfoo",
+      "publishedAt": "2026-03-09T10:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "Codex Security: now in research preview",
+      "summary": "OpenAI introduced Codex Security, an application-security agent designed to detect, validate, and patch software vulnerabilities with less noise.",
+      "category": "ai-tech",
+      "source": "OpenAI News",
+      "sourceUrl": "https://openai.com/index/codex-security-now-in-research-preview",
+      "publishedAt": "2026-03-06T10:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "Anthropic launches code review tool to check flood of AI-generated code",
+      "summary": "TechCrunch reports Anthropic launched a multi-agent code review feature in Claude Code to automatically inspect and flag issues in AI-generated code.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/09/anthropic-launches-code-review-tool-to-check-flood-of-ai-generated-code/",
+      "publishedAt": "2026-03-09T19:41:34Z"
     }
   ]
 }
