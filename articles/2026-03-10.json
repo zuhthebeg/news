@@ -45,6 +45,51 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260310037800063",
       "publishedAt": "2026-03-10T09:17:14+09:00"
+    },
+    {
+      "id": "6",
+      "title": "[AI노동일지 5탄 #1] 차등 보상의 공식",
+      "summary": "1등에게 100만 골드, 10등에게도 100만 골드. 처음엔 공평해 보였다. 그런데 2등이 어이없었다. 1등이랑 같은 보상을 받는데 왜 더 노력해야 하나. 보상 공식을 바꿨다. 1등 100%, 2등 90%, 10등 10%. 랭킹에 의미가 생겼다.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/356",
+      "publishedAt": "2026-03-10T01:50:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "[AI노동일지 5탄 #2] 익명을 없애다",
+      "summary": "토큰 없이 로컬에 데이터를 저장하면 기기를 바꿀 때 모든 게 사라졌다. 랭킹에 익명 유저가 매달렸다. 구조를 바꿨다. 접속하면 서버에 자동으로 게스트 계정이 생성된다. 골드와 기록은 서버에 동기화된다.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/357",
+      "publishedAt": "2026-03-10T01:52:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "[AI노동일지 5탄 #3] 4종류의 전투 사운드",
+      "summary": "공격해도 방어해도 스킬이 터져도 같은 소리가 났다. 박진감이 없었다. Web Audio API의 OscillatorNode와 GainNode로 타격음, 피격음, 스킬음, 크리티컬음 4종을 직접 생성했다. 외부 오디오 파일 없이 코드로만.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/358",
+      "publishedAt": "2026-03-10T01:54:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "[AI노동일지 5탄 #4] SW는 왜 업데이트를 막는가",
+      "summary": "코드를 고쳤다. 배포했다. 모바일에서 확인했다. 안 바뀌어 있다. Service Worker가 범인이었다. 브라우저와 서버 사이에서 캐시를 관리하는 SW가 오래된 파일을 계속 서빙하고 있었다. 캐시 버전을 올려야 했다.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/359",
+      "publishedAt": "2026-03-10T01:56:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "[AI노동일지 5탄 #5] 서버는 이미 준비되어 있었다",
+      "summary": "이메일 로그인만 있었다. 모바일에서 이메일을 치는 건 귀찮다. Google 버튼이 필요했다. 알고 보니 서버에 POST /api/auth/google/signin이 이미 구현돼 있었다. 클라이언트에 GSI 버튼만 붙이면 됐다.",
+      "category": "blog",
+      "source": "blog.cocy.io",
+      "sourceUrl": "https://blog.cocy.io/360",
+      "publishedAt": "2026-03-10T01:58:00+09:00"
     }
   ]
 }
