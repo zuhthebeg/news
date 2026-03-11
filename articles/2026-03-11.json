@@ -45,6 +45,51 @@
       "source": "경향신문",
       "sourceUrl": "https://www.khan.co.kr/article/202603110808001/",
       "publishedAt": "2026-03-11T08:08:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Read Anthropic CEO’s Memo Attacking OpenAI’s ‘Mendacious’ Pentagon Announcement - The Information",
+      "summary": "Read Anthropic CEO’s Memo Attacking OpenAI’s ‘Mendacious’ Pentagon Announcement    The Information",
+      "category": "ai-tech",
+      "source": "The Information",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOb0F2Y3Y3eC1uTjBwYno2OWd1M1lNSmhPRnZCZ05ubGZidXY1TU90WjNUcGtaRDJzRS1lQnlydTZqZnRkX1NLZ1BqdDJPRkZKMkRMU3JBWHJOa2VZWm0yem9Ub1lwZHJ5NUxFejRLeFZKOEFvMXFaZzJJOV9jRmZNMTdjZXctUE45TkF6cW9Temo0bU9mMl95WDdRZ2dQcGRnb0dzcUFLLVl6Ukx3ODV2N1FzdlZyZw?oc=5",
+      "publishedAt": "2026-03-04T21:08:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Anthropic launches a multi-agent code review tool for Claude Code - The New Stack",
+      "summary": "Anthropic launches a multi-agent code review tool for Claude Code    The New Stack",
+      "category": "ai-tech",
+      "source": "The New Stack",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPTnUzbm5pRzZmTXlxY3NpWlFWUVd1a3VlTHlSUDBSMms5NmUzTG42VUwtSlBJNDVMRWdNNHNyWlhZR1Jod0lXaG9nelVfSUdrUk9nUkZybVdSSVliNjlmUUIxX2hvT2Jncjk1VG1QTXhJT3drbU5NVndyY1dRanIzVGhCbGVDRG5MWFVwamZ2dk1VOVk?oc=5",
+      "publishedAt": "2026-03-09T19:05:01Z"
+    },
+    {
+      "id": "8",
+      "title": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried - CNBC",
+      "summary": "Anthropic was the Pentagon's choice for AI. Now it's banned and experts are worried    CNBC",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNMUY0S0t3SmoyblBwTFNQTkpYaG0yV1EtVUxodnptcF9xLWxnTmhwdTYtY0pJSzY4Rmc3Y01jbTAxaXo2UkpYNFpZWFZBUWpyN1RCMUphSmZrdVdmcGtKYUlDU0sxNEFiX0piUmxIODdtYWt4NG1QX191SzZ4Y0xIZU9hNjlPSk1pa2V6M29PQkVPYm9talhFOFRXRjRmYTVfTEpLUWI4R0JMTHY1UVhpU2lEb09EV3Q50gG-AUFVX3lxTE1iUUtPX1hrOWhJdlhNQmhBN3lueVJpLUNfaWxvTFpicXNWREJtU0hqRmdWaXFyM1JtMk5WM3J3TnJnVWlnd1R5d1doNTUwR2x1ODBBUXgtMlBkQk9GbGE5MHRwSmx3emFnRk5LSDduQmVhNk92enFrcmlnYkhua2VlZFFQZXYxcjFiOTNlc2h2NjJLMGM3ZldqTWVIckM5VmVpd19hT0xQYWV4UUhkendQRkp5dmdJYktrZ2pkNHc?oc=5",
+      "publishedAt": "2026-03-09T19:49:05Z"
+    },
+    {
+      "id": "9",
+      "title": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government - WIRED",
+      "summary": "OpenAI and Google Workers File Amicus Brief in Support of Anthropic Against the US Government    WIRED",
+      "category": "ai-tech",
+      "source": "WIRED",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPX2NIcE81VkNhSHlvcVdWTTA5MXVVd082ekNhTmZfaWlBcGlyV3NyZWhEb3BqZmNJR3N3TXB6XzJ0SWVEaGNjRTBqcFVUdGlNSnY1em9pOFE5SnI1UVBxQnJzdVpHcEtyUnBDMEttMjB3cER0RmRPaThfcnNRRDZic2tOOTgzWGFsdG1LbjhjNDVPTnFyeFRPTHVn?oc=5",
+      "publishedAt": "2026-03-09T20:38:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Anthropic sues US government for calling it a risk - BBC",
+      "summary": "Anthropic sues US government for calling it a risk    BBC",
+      "category": "ai-tech",
+      "source": "BBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE00OGdyaUJwYkpKVmJDUUVWOUY2aExxRkR0ekREbmFDakpoc1RtV0tyYkp0a0M5VFVQalhCd1hjeWVYX0pDNk9CZzBDWF8xS2gyMC03N2Q3M2RMQQ?oc=5",
+      "publishedAt": "2026-03-09T21:33:05Z"
     }
   ]
 }
