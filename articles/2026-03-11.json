@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-11",
+  "articles": [
+    {
+      "id": "1",
+      "title": "태안군, 국제원예치유박람회 성공 기원 릴레이 다짐대회",
+      "summary": "(태안=연합뉴스) 정윤덕 기자 = 충남 태안군은 다음 달 개막하는 국제원예치유박람회의 성공 개최를 기원하는 범군민 릴레이 다짐대회를 전개한다고 ...",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260311037500063",
+      "publishedAt": "2026-03-10T23:58:05+00:00"
+    },
+    {
+      "id": "2",
+      "title": "조재호·강동궁·최성원, PBA 월드챔피언십 조별리그 탈락",
+      "summary": "(서울=연합뉴스) 이대호 기자 = 프로당구(PBA) 무대를 주름잡던 &apos;국내 3강&apos; 조재호(NH농협카드), 강동궁(SK렌터카), 최성원(휴온스)이...",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260311036100007",
+      "publishedAt": "2026-03-10T23:57:34+00:00"
+    },
+    {
+      "id": "3",
+      "title": "KAIST 학생창업가 정인서 대표, '포용적 AI' 인재양성 10억 기부",
+      "summary": "(대전＝연합뉴스) 김준호 기자 = 한국과학기술원(KAIST)은 융합인재학부 학부생인 정인서(28) 글로벌 뮤직테크 스타트업 엠피에이지(MPAG)...",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260311037100063",
+      "publishedAt": "2026-03-10T23:56:41+00:00"
+    }
+  ]
+}
