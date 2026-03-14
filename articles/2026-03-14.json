@@ -45,6 +45,51 @@
       "source": "동아일보",
       "sourceUrl": "https://www.donga.com/news/It/article/all/20260313/133525341/2",
       "publishedAt": "2026-03-14T06:30:00+09:00"
+    },
+    {
+      "title": "Introducing Claude Sonnet 4.6",
+      "summary": "Anthropic unveiled Claude Sonnet 4.6, highlighting stronger frontier performance for coding, agent workflows, and professional tasks at scale.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "publishedAt": "2026-02-17T00:00:00Z",
+      "id": "6"
+    },
+    {
+      "title": "Claude is a space to think",
+      "summary": "Anthropic says Claude will remain ad-free and frames this as a trust and product-design decision while expanding access through non-ad business models.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-is-a-space-to-think",
+      "publishedAt": "2026-02-04T00:00:00Z",
+      "id": "7"
+    },
+    {
+      "title": "Introducing GPT-5.4",
+      "summary": "OpenAI announced GPT-5.4 as a more capable and efficient frontier model, emphasizing coding, tool use, computer-operation tasks, and long-context performance.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-5-4",
+      "publishedAt": "2026-03-05T10:00:00Z",
+      "id": "8"
+    },
+    {
+      "title": "Designing AI agents to resist prompt injection",
+      "summary": "OpenAI shared practical security patterns for hardening agent systems against prompt injection and social-engineering attacks.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/designing-agents-to-resist-prompt-injection",
+      "publishedAt": "2026-03-11T11:30:00Z",
+      "id": "9"
+    },
+    {
+      "title": "Rakuten fixes issues twice as fast with Codex",
+      "summary": "A case study reports that Rakuten used Codex in software workflows to reduce incident resolution time and speed up CI/CD and delivery cycles.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/rakuten",
+      "publishedAt": "2026-03-11T13:00:00Z",
+      "id": "10"
     }
   ]
 }
