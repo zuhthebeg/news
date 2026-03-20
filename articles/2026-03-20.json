@@ -144,6 +144,51 @@
       "source": "의학신문",
       "sourceUrl": "https://www.bosa.co.kr/news/articleView.html?idxno=3001125",
       "publishedAt": "2026-03-20T08:34:53+09:00"
+    },
+    {
+      "title": "Anthropic, Claude Partner Network에 1억달러 투자",
+      "summary": "Anthropic이 기업용 Claude 도입 파트너를 위한 Claude Partner Network를 출범하고 2026년에만 초기 1억달러를 투입한다. 교육·기술지원·공동 마케팅과 함께 Claude Certified Architect 인증을 제공해, 기업의 PoC를 실제 운영 단계로 넘기는 채널을 키우려는 전략이다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-partner-network",
+      "publishedAt": "2026-03-12T14:39:05Z",
+      "id": "17"
+    },
+    {
+      "title": "Google, Docs·Sheets·Slides·Drive용 Gemini 기능 확대",
+      "summary": "Google이 Workspace 전반에 Gemini 기능을 확장했다. 문서 초안 작성, 스프레드시트 자동 구성·데이터 채우기, 슬라이드 제작, Drive·메일·웹 맥락 연결까지 강화해, Google AI Ultra·Pro 구독자를 중심으로 생산성 워크플로를 더 깊게 AI화하겠다는 흐름이 뚜렷해졌다.",
+      "category": "ai-tech",
+      "source": "Google",
+      "sourceUrl": "https://blog.google/products-and-platforms/products/workspace/gemini-workspace-updates-march-2026/",
+      "publishedAt": "2026-03-10T13:00:00Z",
+      "id": "18"
+    },
+    {
+      "title": "Anthropic, 국방부 리스크 지정에 법적 대응…Claude 전환 지원은 지속",
+      "summary": "Anthropic은 미 Department of War의 공급망 리스크 지정이 법적으로 타당하지 않다며 소송 방침을 밝혔다. 다만 현장 전환 공백을 막기 위해 허용되는 범위에서 Claude와 엔지니어 지원을 계속 제공하겠다고 밝혀, 규제 충돌과 실제 고객 운영을 분리해 관리하려는 태도를 보였다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/where-stand-department-war",
+      "publishedAt": "2026-03-05T21:42:08Z",
+      "id": "19"
+    },
+    {
+      "title": "OpenAI, GPT-5.4 mini·nano 출시…Free·Go에도 일부 개방",
+      "summary": "OpenAI가 GPT-5.4의 경량형인 mini와 nano를 내놨다. mini는 ChatGPT Free·Go 사용자가 Thinking 모드에서 접근할 수 있고, 이전 mini 대비 추론·멀티모달 이해·도구 사용 성능을 높이면서도 2배 이상 빠르다고 설명했다. nano는 저비용 분류·추출용 API 포지션이다.",
+      "category": "ai-tech",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/ai/gpt-54-mini-brings-some-of-the-smarts-of-openais-latest-model-to-chatgpt-free-and-go-users-170000585.html",
+      "publishedAt": "2026-03-17T17:00:00Z",
+      "id": "20"
+    },
+    {
+      "title": "엔비디아 GTC 2026 화두는 GPU만이 아니다…CPU 병목이 전면 부상",
+      "summary": "CNBC는 GTC 2026을 앞두고 agentic AI 워크로드 확산으로 데이터센터 CPU가 다시 핵심 병목으로 떠오르고 있다고 짚었다. 엔비디아도 메타 데이터센터에 독립형 CPU를 배치했다고 밝히며, AI 인프라 경쟁이 GPU 중심에서 CPU·메모리·시스템 설계 전반으로 넓어지고 있음을 시사했다.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/03/13/nvidia-gtc-ai-jensen-huang-cpu-gpu.html",
+      "publishedAt": "2026-03-13T19:00:52Z",
+      "id": "21"
     }
   ]
 }
