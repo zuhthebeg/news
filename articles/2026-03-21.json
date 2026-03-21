@@ -45,6 +45,51 @@
       "source": "지디넷코리아",
       "sourceUrl": "https://zdnet.co.kr/view/?no=20260320232213",
       "publishedAt": "2026-03-21T08:02:34+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Who's most optimistic about AI — and who isn't, according to Anthropic",
+      "summary": "Anthropic released findings on which groups are most optimistic about AI adoption and which remain skeptical, offering a snapshot of how public sentiment is splitting as AI becomes more embedded in work and daily life.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGlMbXpMSWJvMVk3RWNxREJ2ZWpPb2FCSnlKX1VkM0xqUEFlMGJGS1ZmSl85RzlQNzM0MGx1Y3htelpMYl9tYlB6ZEpZS3I4a081aWp4bGk4WE1saUhSY3ZVdEIzaUVpR0hpV2VlampyUFpyOUlJWHloZ1g0NzVJMkVMaW55ellLUTEtSGJSWmU1X2PSAZgBQVVfeXFMTmpwenNXRjNDR01SLVMzd3B1VGYxY1lXa29MR2t3aXBzVWQ0cklWUmxUQjIwaE5LVkwtdmhyanlWb19zUWdic0t0a0RxSjVtLXgyel9LTno5eWFxbzJBalFrN2MtekczNTZnUldRTVZabUdmV19nUmI3N1VnMF91MEp6NEtxWUVoQWJ0ZVhUUDNDcmE3YUMyUWE?oc=5",
+      "publishedAt": "2026-03-20T10:15:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Justice Department Says Anthropic Can’t Be Trusted With Warfighting Systems",
+      "summary": "A new policy clash put Anthropic at the center of the defense-tech debate, with the U.S. Justice Department arguing the company should not be entrusted with warfighting systems. The story highlights rising scrutiny over how frontier AI firms engage with national security.",
+      "category": "ai-tech",
+      "source": "WIRED",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZDNBUWxFRDllUE9yU0VjM0kwcG9Ra3QySDFrU3I5UVU2NjZEZUozZnA0dWVxekhweE1LM1I2ejF2bGdpUVJ4Sjhia3RCU2xQNW1XYzE5U1lsZXVzcGRVQXdSTnJMRXk0RkQ3cmhkSWNBaU1OaENuTnlnaXRYTXRKaHcxMzJtdmM?oc=5",
+      "publishedAt": "2026-03-18T00:51:00Z"
+    },
+    {
+      "id": "8",
+      "title": "My AI Agent ‘Cofounder’ Conquered LinkedIn. Then It Got Banned",
+      "summary": "WIRED profiled an AI agent experiment that gained traction on LinkedIn before being banned, underscoring both the viral reach of autonomous AI personas and the platform-risk companies face when bots begin to blur identity, authenticity, and policy boundaries.",
+      "category": "ai-tech",
+      "source": "WIRED",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQamVhc3FtSndxRHV4a0k0VVZKMjJWaVJObl9UV2VYTWlTTXBwSC1YaEswM2NYLVdzSXJHWWRTejRLSFJYaUVfTnp0am9LYm9lTHo4Rm5kbkNtaGFQSlB0WDNKYllpODNfMUdITU5qVGRCcW1NZy1BaVkybF9XcU04b3lWZWxJdS1oOWNpb1lMX1VDU1dpZGIyOUpJV1VyXzFZSjV3?oc=5",
+      "publishedAt": "2026-03-20T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "NVIDIA, T-Mobile and Partners Integrate Physical AI Applications on AI-RAN-Ready Infrastructure",
+      "summary": "NVIDIA and T-Mobile said they are integrating physical AI applications on AI-RAN-ready infrastructure, signaling the next step in bringing AI workloads closer to telecom networks and real-world edge deployments.",
+      "category": "ai-tech",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNQ3FkR3QwblNndVVqamhzNzVGNGc0S3lENGk1VFRmd0VZODFDZHBmOXJjdmVEM2hYekkxV2FNYWZHQlcyUHY4ZlRGeVBZeTYtdUQ0ZHFObFF3c01vbldDYWxnMlRHNXlLa3Z0dHRmWHdFOUczVEhmSEhtUkI4STVrTWlsdjR5akRHRXczR1lRZFJ6Uy1HLTJGN2d3UjhfQkRpRFRzUW1BT1VMVnhTNV9iWWtzQ3JKeHV6czYxTjhMQUxFNmpCNWRF?oc=5",
+      "publishedAt": "2026-03-16T20:33:33Z"
+    },
+    {
+      "id": "10",
+      "title": "Generative AI improves a wireless vision system that sees through obstructions",
+      "summary": "MIT researchers reported that generative AI improved a wireless vision system capable of seeing through obstructions, showing how foundation-model techniques are starting to enhance sensing and perception systems beyond chat and content generation.",
+      "category": "ai-tech",
+      "source": "MIT News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOd2FVZmY3bW1YeDN0dkpCTmVWQy03MWR2Mm9idmZjajhCQnNQbFRRUHBsd0VCTk9yWjlWSlFPTnhwNkFBbUJHOUczOFFERUxteWpUVWdBdjkwcHNHTzlodG9WcHE0VGFGUG5lUXEwUjZCSUZGakEtVDJDVmFwN2l5ZWRWU09DMHNVdGZ3bW1mMDRpNmJBamxHZGV1ZVFCZDRTQmRzRg?oc=5",
+      "publishedAt": "2026-03-19T04:00:00Z"
     }
   ]
 }
