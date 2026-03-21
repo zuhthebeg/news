@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-21",
+  "articles": [
+    {
+      "title": "10 dead, 4 unaccounted for in fire at auto parts plant in Daejeon",
+      "summary": "DAEJEON, March 21 (Yonhap) -- Ten people have been killed and four others are still reported missing after the fire.",
+      "category": "domestic",
+      "source": "Yonhap News Agency",
+      "sourceUrl": "https://en.yna.co.kr/view/AEN20260321000400315",
+      "publishedAt": "2026-03-21T05:42:16+09:00",
+      "id": "1"
+    },
+    {
+      "title": "PM calls for government control tower for drone, counter-drone policy",
+      "summary": "SEOUL, March 20 (Yonhap) -- Prime Minister Kim Min-seok on Friday called for a government control tower for drone and counter-drone policy.",
+      "category": "domestic",
+      "source": "Yonhap News Agency",
+      "sourceUrl": "https://en.yna.co.kr/view/AEN20260320010600315",
+      "publishedAt": "2026-03-20T21:14:06+09:00",
+      "id": "2"
+    },
+    {
+      "title": "State oil firm under audit over foreign-owned oil shipped from S. Korean storage site",
+      "summary": "SEOUL, March 20 (Yonhap) -- The government launched an audit into the state oil firm over foreign-owned oil shipped from a Korean storage site.",
+      "category": "economy",
+      "source": "Yonhap News Agency",
+      "sourceUrl": "https://en.yna.co.kr/view/AEN20260320008651320",
+      "publishedAt": "2026-03-20T19:38:21+09:00",
+      "id": "3"
+    }
+  ]
+}
