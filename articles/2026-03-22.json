@@ -45,6 +45,51 @@
       "source": "지디넷코리아",
       "sourceUrl": "https://n.news.naver.com/mnews/article/092/0002415495",
       "publishedAt": "2026-03-22T09:23:08+09:00"
+    },
+    {
+      "id": "6",
+      "title": "New court filing reveals Pentagon told Anthropic the two sides were nearly aligned — a week after Trump declared the relationship kaput",
+      "summary": "앤트로픽이 법원 제출 문서를 통해, 국방부와의 협상이 실제로는 거의 합의 단계였다고 반박했다. 트럼프 측의 “국가안보 위험” 프레임과 별개로, Claude를 둘러싼 정부 조달·안보 논쟁이 계속 커지는 흐름이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "publishedAt": "2026-03-21T01:40:28Z"
+    },
+    {
+      "id": "7",
+      "title": "Why Wall Street wasn’t won over by Nvidia’s big conference",
+      "summary": "엔비디아가 GTC에서 대규모 AI 비전을 다시 밀어붙였지만, 시장은 기대만큼 열광하지 않았다. AI 인프라 투자 서사가 여전히 강하긴 해도, 밸류에이션과 실제 수익화 속도에 대한 의심이 함께 커지고 있다는 신호다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/21/why-wall-street-wasnt-won-over-by-nvidias-big-conference/",
+      "publishedAt": "2026-03-21T16:28:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Gemini task automation is slow, clunky, and super impressive",
+      "summary": "더 버지는 Gemini의 앱 연동형 작업 자동화가 아직 느리고 어색하지만, 실제로 일을 “대신 처리”하는 방향성은 인상적이라고 평가했다. 단순 챗봇을 넘어 실행형 에이전트 경쟁이 본격화되고 있다는 점에서 의미가 크다.",
+      "category": "ai-tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+      "publishedAt": "2026-03-21T02:35:28Z"
+    },
+    {
+      "id": "9",
+      "title": "Trump takes another shot at dismantling state AI regulation",
+      "summary": "트럼프 행정부가 주(州) 단위 AI 규제를 더 약하게 만드는 방향의 프레임워크를 다시 밀고 있다. 생성형 AI 경쟁이 빨라질수록, 기술 자체보다 규제 주도권을 누가 쥐느냐가 시장 판도를 크게 흔들 수 있다.",
+      "category": "ai-tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/898055/trump-new-ai-policy-framework",
+      "publishedAt": "2026-03-20T21:59:27Z"
+    },
+    {
+      "id": "10",
+      "title": "Microsoft rolls back some of its Copilot AI bloat on Windows",
+      "summary": "마이크로소프트가 Windows 전반에 과하게 퍼뜨렸던 Copilot 진입점을 일부 줄이기 시작했다. AI 기능을 더 넣는 것보다, 사용자가 실제로 원하는 접점만 남기는 제품 정리가 중요해졌다는 해석이 가능하다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "publishedAt": "2026-03-20T20:53:09Z"
     }
   ]
 }
