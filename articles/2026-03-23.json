@@ -45,6 +45,51 @@
       "source": "ZDNet Korea",
       "sourceUrl": "https://zdnet.co.kr/view/?no=20260321071025",
       "publishedAt": "2026-03-21T07:10:25+09:00"
+    },
+    {
+      "title": "Anthropic, 국방부와 결별설 직후에도 협상 거의 타결 직전이었다는 법정 문서 공개",
+      "summary": "법원 제출 문서에 따르면 미 국방부는 트럼프의 결별 선언 직후에도 Anthropic과 자율무기·감시 범위 이슈에서 ‘거의 합의’ 상태였다고 전해졌다. Claude의 공공부문 확장과 안전 가드레일 협상이 정치 이슈와 별개로 계속됐다는 점이 드러났다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/new-court-filing-reveals-pentagon-told-anthropic-the-two-sides-were-nearly-aligned-a-week-after-trump-declared-the-relationship-kaput/",
+      "publishedAt": "2026-03-20T01:40:28Z",
+      "id": "6"
+    },
+    {
+      "title": "Amazon Trainium, Anthropic·OpenAI·Apple까지 끌어들인 AI 칩 대안으로 부상",
+      "summary": "AWS는 Trainium 칩이 Claude 추론 트래픽의 대다수를 처리하고 있으며, OpenAI에도 대규모 용량을 공급하기로 했다고 소개했다. 엔비디아 의존을 줄이면서 추론 비용을 낮출 수 있는 대안 하드웨어 경쟁이 본격화되는 흐름이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/an-exclusive-tour-of-amazons-trainium-lab-the-chip-thats-won-over-anthropic-openai-even-apple/",
+      "publishedAt": "2026-03-22T12:00:00Z",
+      "id": "7"
+    },
+    {
+      "title": "Cursor, 자체 신형 코딩 모델이 Moonshot의 Kimi 기반이었다고 인정",
+      "summary": "Cursor는 새 코딩 모델 Composer 2가 오픈소스 Kimi 2.5를 기반으로 시작됐으며, 이후 추가 학습과 강화학습으로 성능을 끌어올렸다고 밝혔다. 미국 대표 AI 코딩 툴조차 중국 오픈모델을 토대로 제품화하는 사례가 나오며 모델 공급망 투명성이 화두가 됐다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/22/cursor-admits-its-new-coding-model-was-built-on-top-of-moonshot-ais-kimi/",
+      "publishedAt": "2026-03-22T18:41:09Z",
+      "id": "8"
+    },
+    {
+      "title": "Gemini 앱 자동화, 느리지만 ‘실사용 가능한 AI 비서’의 첫 형태 보여줘",
+      "summary": "더버지는 Gemini가 Uber·배달 앱을 직접 조작해 예약과 주문을 수행하는 새 자동화 기능을 체험하며 아직 느리고 투박하지만 방향성은 분명하다고 평가했다. 모바일에서 AI가 실제 앱을 대신 다루는 에이전트 UX가 본격 시험 단계에 들어갔다는 신호다.",
+      "category": "ai-tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/898282/gemini-task-automation-uber-doordash-hands-on",
+      "publishedAt": "2026-03-20T22:35:28-04:00",
+      "id": "9"
+    },
+    {
+      "title": "Microsoft, Windows 11에서 Copilot 노출 축소…AI 과잉 탑재 되돌리기 시작",
+      "summary": "마이크로소프트는 Photos·Widgets·Notepad·Snipping Tool 등 일부 앱에서 Copilot 진입점을 줄이며 ‘정말 유용한 곳에만 AI를 넣겠다’고 밝혔다. 무분별한 AI 번들링보다 선택적 통합과 품질 회복이 더 중요해졌다는 시장 신호로 읽힌다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "publishedAt": "2026-03-20T20:53:09Z",
+      "id": "10"
     }
   ]
 }
