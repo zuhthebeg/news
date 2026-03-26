@@ -45,6 +45,51 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260326038900063",
       "publishedAt": "2026-03-26T09:11:19+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Anthropic says Claude can now use your computer to finish tasks for you in AI agent push",
+      "summary": "Anthropic added a computer-use workflow that lets Claude receive a task on mobile and then operate apps, browsers, and files on the user’s computer. The launch pushes Claude further into the AI-agent race while keeping user approvals and safeguards in the loop.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html",
+      "publishedAt": "2026-03-24T14:00:00-07:00"
+    },
+    {
+      "id": "7",
+      "title": "Anthropic hands Claude Code more control, but keeps it on a leash",
+      "summary": "Anthropic’s new research-preview auto mode for Claude Code lets the model decide which actions are safe enough to run without interrupting the user for every approval. The company says the feature reviews actions for risky behavior and prompt-injection signals before execution.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "publishedAt": "2026-03-24T14:00:00-07:00"
+    },
+    {
+      "id": "8",
+      "title": "Claude Code rolls out a voice mode capability",
+      "summary": "Claude Code started rolling out voice interactions, letting developers toggle a voice mode and issue spoken coding commands. Anthropic is gradually expanding access as competition intensifies across AI coding assistants from Microsoft, Google, OpenAI, and others.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/03/claude-code-rolls-out-a-voice-mode-capability/",
+      "publishedAt": "2026-03-03T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Anthropic acquires Vercept to advance Claude's computer use capabilities",
+      "summary": "Anthropic announced that it acquired Vercept to strengthen Claude’s computer-use and agent capabilities. The move signals continued investment in turning Claude into a more autonomous assistant that can act directly across software tools.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "publishedAt": "2026-02-25T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Anthropic's Responsible Scaling Policy: Version 3.0",
+      "summary": "Anthropic published version 3.0 of its Responsible Scaling Policy, updating how it evaluates and governs frontier-model capability and deployment risk. The policy refresh matters because it frames how Anthropic plans to balance faster model progress with safety controls.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "publishedAt": "2026-02-24T00:00:00Z"
     }
   ]
 }
