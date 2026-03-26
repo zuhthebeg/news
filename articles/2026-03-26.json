@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-26",
+  "articles": [
+    {
+      "title": "고위공직자 평균 재산 21억원…3명 중 1명은 '20억 이상'",
+      "summary": "중앙과 지방의 고위공직자는 1인당 평균 20억9천563만원(작년 말 기준)의 재산을 보유한 것으로 집계됐다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260325114900001?section=politics/all",
+      "publishedAt": "2026-03-26T00:00:00+09:00",
+      "id": "1"
+    },
+    {
+      "title": "자연 감소 4년만에 최소폭…출생아 증가에 '골든크로스' 기대감",
+      "summary": "출생아 증가세가 이어지면서 인구 자연감소 폭이 4년 만에 가장 작은 수준으로 줄었다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260325165700002?section=economy/all",
+      "publishedAt": "2026-03-26T05:51:01+09:00",
+      "id": "2"
+    },
+    {
+      "title": "\"이스라엘, 트럼프 '토요일 휴전 발표' 가능성에 촉각\"",
+      "summary": "이스라엘은 도널드 트럼프 미국 대통령이 이르면 오는 토요일(28일) 대이란 휴전을 전격 선언할 수 있다고…",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260326008200079?section=international/all",
+      "publishedAt": "2026-03-26T05:03:56+09:00",
+      "id": "3"
+    }
+  ]
+}
