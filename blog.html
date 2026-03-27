@@ -1,0 +1,132 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cocy news 블로그</title>
+  <meta name="description" content="cocy news 블로그 — AI와 개발 이야기">
+  <meta name="keywords" content="블로그, AI, 개발, cocy">
+  <link rel="canonical" href="https://news.cocy.io/blog.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="cocy news 블로그">
+  <meta property="og:description" content="AI와 개발 이야기">
+  <meta property="og:url" content="https://news.cocy.io/blog.html">
+  <meta property="og:site_name" content="cocy news">
+  <meta property="og:image" content="https://news.cocy.io/icon.svg">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="cocy news 블로그">
+  <meta name="twitter:description" content="AI와 개발 이야기">
+  <meta name="twitter:image" content="https://news.cocy.io/icon.svg">
+  <link rel="icon" type="image/svg+xml" href="/icon.svg">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="/style.css">
+  <!-- Google Tag Manager -->
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0],
+        j = d.createElement(s),
+        dl = l !== "dataLayer" ? "&l=" + l : "";
+      j.async = true;
+      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MV8KQGJF");
+  </script>
+  <!-- AdSense: managed via GTM auto-ads (ca-pub-6634731722045607) -->
+  <style>
+    .blog-list { list-style: none; padding: 0; margin: 2rem 0; }
+    .blog-card {
+      background: var(--card-bg, #fff);
+      border: 1px solid var(--border, #e5e7eb);
+      border-radius: 12px;
+      padding: 1.25rem 1.5rem;
+      margin-bottom: 1rem;
+      transition: box-shadow 0.2s;
+    }
+    .blog-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
+    .blog-card h2 { margin: 0 0 0.5rem; font-size: 1.1rem; }
+    .blog-card h2 a { color: var(--text, #111); text-decoration: none; }
+    .blog-card h2 a:hover { text-decoration: underline; }
+    .blog-card .blog-meta { font-size: 0.85rem; color: var(--text-muted, #6b7280); margin-bottom: 0.5rem; }
+    .blog-card .blog-summary { font-size: 0.95rem; color: var(--text, #333); line-height: 1.6; }
+    .blog-tags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.75rem; }
+    .blog-tag {
+      font-size: 0.75rem;
+      background: var(--tag-bg, #f3f4f6);
+      color: var(--tag-text, #4b5563);
+      padding: 0.2rem 0.6rem;
+      border-radius: 999px;
+    }
+  </style>
+</head>
+<body data-page="blog">
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV8KQGJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <div class="container">
+    <header class="site-header">
+      <div>
+        <h1 class="logo"><a href="/index.html">cocy news</a></h1>
+        <p class="header-date">블로그</p>
+      </div>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="다크모드 토글">다크모드</button>
+    </header>
+
+    <nav class="date-nav" aria-label="네비게이션">
+      <a href="/index.html">← 뉴스</a>
+      <a href="/archive.html">아카이브</a>
+    </nav>
+
+    <main>
+      <ul id="blog-list" class="blog-list"></ul>
+      <p id="blog-empty" class="empty-state" hidden>아직 블로그 글이 없습니다.</p>
+    </main>
+
+    <footer class="site-footer">
+      <p>Powered by AI · <a href="https://cocy.io" target="_blank" rel="noopener noreferrer">cocy.io</a></p>
+    </footer>
+  </div>
+
+  <script>
+    // Theme toggle
+    const tt = document.getElementById('theme-toggle');
+    if (localStorage.getItem('theme') === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+    tt?.addEventListener('click', () => {
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      document.documentElement.setAttribute('data-theme', isDark ? '' : 'dark');
+      localStorage.setItem('theme', isDark ? '' : 'dark');
+    });
+
+    // Load and render blog posts
+    (async () => {
+      try {
+        const res = await fetch('/blog.json');
+        const data = await res.json();
+        const posts = data.posts || [];
+        const list = document.getElementById('blog-list');
+        const empty = document.getElementById('blog-empty');
+
+        if (posts.length === 0) {
+          empty.hidden = false;
+          return;
+        }
+
+        // Sort by date descending (newest first)
+        posts.sort((a, b) => (b.publishedAt || '').localeCompare(a.publishedAt || ''));
+
+        list.innerHTML = posts.map(p => `
+          <li class="blog-card">
+            <h2><a href="${p.url || '#'}" target="_blank" rel="noopener noreferrer">${p.title}</a></h2>
+            <p class="blog-meta">${p.source || 'cocy blog'}${p.publishedAt ? ' · ' + new Date(p.publishedAt).toLocaleDateString('ko-KR') : ''}</p>
+            <p class="blog-summary">${p.summary || ''}</p>
+            ${p.tags && p.tags.length ? `<div class="blog-tags">${p.tags.map(t => `<span class="blog-tag">#${t}</span>`).join('')}</div>` : ''}
+          </li>
+        `).join('');
+      } catch (e) {
+        console.error('Failed to load blog:', e);
+        document.getElementById('blog-empty').hidden = false;
+      }
+    })();
+  </script>
+</body>
+</html>
