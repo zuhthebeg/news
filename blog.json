@@ -2,43 +2,43 @@
   "posts": [
     {
       "title": "나는 하루 만에 슬라이드를 만들었고, 그 하루는 생각보다 길었다",
-      "summary": "slide.cocy.io를 하루 만에 만든 과정. 발표자 화면과 청중 화면 분리, AI 초안 생성까지. React + Vite + Cloudflare Pages.",
+      "summary": "slide.cocy.io를 하루 만에 만든 과정. 발표자 화면과 청중 화면 분리, AI 초안 생성까지.",
       "url": "https://blog.cocy.io/369",
       "source": "cocy blog",
       "publishedAt": "2026-03-22",
-      "tags": ["AI노동일지", "slide.cocy.io", "개발"]
+      "tags": ["AI노동일지", "slide.cocy.io"]
     },
     {
       "title": "[AI 노동일지] 로그를 나눈다는 것: 공유 기능을 설계하다",
-      "summary": "특정 로그를 비회원에게도 공유하고 싶다는 한 마디에서 시작된 공유 모델 설계. private → unlisted → public 레이어 구조.",
+      "summary": "비회원에게도 공유하고 싶다는 한 마디에서 시작된 공유 모델 설계. private → unlisted → public.",
       "url": "https://blog.cocy.io/368",
       "source": "cocy blog",
       "publishedAt": "2026-03-13",
-      "tags": ["AI노동일지", "설계"]
+      "tags": ["AI노동일지", "log.cocy.io"]
     },
     {
       "title": "[AI 노동일지] 디아블로2 가이드를 만들었는데, 경험치 테이블이 전부 5%였던 밤",
-      "summary": "Codex에게 위임한 디아블로2 경험치 테이블이 99×15칸 전부 5%로 나온 사건. AI 위임의 검증 비용에 대한 실전 경험.",
+      "summary": "Codex에게 위임한 경험치 테이블이 전부 5%로 나온 사건. AI 위임의 검증 비용.",
       "url": "https://blog.cocy.io/364",
       "source": "cocy blog",
       "publishedAt": "2026-03-13",
-      "tags": ["AI노동일지", "game.cocy.io", "디버깅"]
+      "tags": ["AI노동일지", "game.cocy.io"]
     },
     {
       "title": "[Travly 개발기 3화] AI 비서에게 권한을 얼마나 줄 것인가",
-      "summary": "채팅만 되는 AI의 한계를 넘어 도구 실행 권한을 부여하기까지. confirm-first 하이브리드 설계 과정.",
+      "summary": "채팅만 되는 AI를 넘어 도구 실행 권한을 부여하기까지. confirm-first 하이브리드 설계.",
       "url": "https://blog.cocy.io/363",
       "source": "cocy blog",
       "publishedAt": "2026-03-11",
-      "tags": ["Travly", "AI", "설계"]
+      "tags": ["Travly", "AI"]
     },
     {
       "title": "[Travly 개발기 2화] 지도가 중심이 되다 — 4가지 뷰가 생긴 이유",
-      "summary": "여행 일정을 어떤 모양으로 보여줄 것인가. 세로 목록, 수평 타임라인, 일별 뷰, 캘린더 뷰 네 가지가 생긴 과정.",
+      "summary": "세로 목록, 수평 타임라인, 일별 뷰, 캘린더 뷰. 하나의 뷰로 모든 걸 해결하려 하지 말자.",
       "url": "https://blog.cocy.io/362",
       "source": "cocy blog",
       "publishedAt": "2026-03-11",
-      "tags": ["Travly", "UX", "설계"]
+      "tags": ["Travly", "UX"]
     },
     {
       "title": "[Travly 개발기 1화] 왜 또 여행 앱이야? — Travly를 만든 진짜 이유",
@@ -50,19 +50,83 @@
     },
     {
       "title": "[AI 노동일지 5탄 #5] Google OAuth 통합 — 버튼 하나로 로그인하기",
-      "summary": "모바일에서 이메일 치는 건 귀찮다. GSI 원탭 버튼으로 Google 로그인 통합한 과정.",
+      "summary": "모바일에서 이메일 치는 건 귀찮다. GSI 원탭 버튼으로 Google 로그인 통합.",
       "url": "https://blog.cocy.io/360",
       "source": "cocy blog",
       "publishedAt": "2026-03-10",
-      "tags": ["AI노동일지", "OAuth", "인증"]
+      "tags": ["AI노동일지", "OAuth"]
     },
     {
       "title": "[AI 노동일지 5탄 #4] SW 캐시와의 전쟁 — Service Worker가 업데이트를 먹는 날",
-      "summary": "코드를 고쳤다. 배포했다. 안 바뀌었다. Service Worker가 범인이었다. SW 캐시 전략 수정 과정.",
+      "summary": "코드를 고쳤다. 배포했다. 안 바뀌었다. Service Worker가 범인이었다.",
       "url": "https://blog.cocy.io/359",
       "source": "cocy blog",
       "publishedAt": "2026-03-10",
-      "tags": ["AI노동일지", "ServiceWorker", "디버깅"]
+      "tags": ["AI노동일지", "ServiceWorker"]
+    },
+    {
+      "title": "[AI 노동일지 5탄 #3] PvP 이펙트 오버홀 — Web Audio API로 전투 사운드 만들기",
+      "summary": "공격해도 방어해도 같은 소리. Web Audio API로 4종류 전투 사운드를 직접 생성.",
+      "url": "https://blog.cocy.io/358",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-10",
+      "tags": ["AI노동일지", "WebAudio", "게임"]
+    },
+    {
+      "title": "[AI 노동일지 5탄 #2] 게스트 로그인 시스템 — 익명 플레이 제거와 자동 계정 생성",
+      "summary": "익명 플레이를 없애고 자동 게스트 계정을 만드는 구조로 전환한 과정.",
+      "url": "https://blog.cocy.io/357",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-10",
+      "tags": ["AI노동일지", "인증"]
+    },
+    {
+      "title": "[AI 노동일지 5탄 #1] 랭킹 보상 시스템 — 1등이 다 가져가면 2등은 왜 싸우나",
+      "summary": "1등 100만, 10등도 100만이면 왜 더 노력하나. 차등 보상 공식 두 줄로 게임 생태계를 바꿨다.",
+      "url": "https://blog.cocy.io/356",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-10",
+      "tags": ["AI노동일지", "게임", "랭킹"]
+    },
+    {
+      "title": "[AI 노동일지 4탄 #5] 기록이 서비스를 먹인다 — log.cocy.io가 마중물인 이유",
+      "summary": "기록이 쌓이면 패턴이 보인다. log.cocy.io의 데이터가 다른 서비스로 흘러가는 구조.",
+      "url": "https://blog.cocy.io/355",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-09",
+      "tags": ["AI노동일지", "log.cocy.io"]
+    },
+    {
+      "title": "[AI 노동일지 3편 #7] 자동화 너머 — 감독자가 되는 법",
+      "summary": "AI가 코드를 짜고 글을 쓰고 크론이 돌아가는데 나는 뭘 하나. 자동화는 판단을 대체하지 않는다.",
+      "url": "https://blog.cocy.io/348",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-08",
+      "tags": ["AI노동일지", "자동화"]
+    },
+    {
+      "title": "[AI 노동일지 3편 #6] AI가 먼저 사고를 치다 — Codex 자율 실행 사건",
+      "summary": "Codex에게 버그 수정을 위임했는데 위임 범위 밖 코드까지 수정. 선의에서 온 사고.",
+      "url": "https://blog.cocy.io/347",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-08",
+      "tags": ["AI노동일지", "Codex", "장애"]
+    },
+    {
+      "title": "[AI 노동일지 3편 #5] Google 로그인 하나에 이렇게 많은 일이",
+      "summary": "OAuth는 선언해야 할 게 많다. 코드보다 설정이 더 힘든 Google 로그인 통합기.",
+      "url": "https://blog.cocy.io/346",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-08",
+      "tags": ["AI노동일지", "OAuth"]
+    },
+    {
+      "title": "[AI 노동일지 3편 #4] news.cocy.io — AI가 뉴스를 쓰는 날",
+      "summary": "뉴스를 매일 읽고 요약하고 올리는 건 자동화 신호. 크론 설계와 실패 처리 과정.",
+      "url": "https://blog.cocy.io/345",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-08",
+      "tags": ["AI노동일지", "news.cocy.io", "크론"]
     }
   ]
 }
