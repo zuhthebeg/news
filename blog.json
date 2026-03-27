@@ -1,4 +1,68 @@
 {
   "posts": [
+    {
+      "title": "나는 하루 만에 슬라이드를 만들었고, 그 하루는 생각보다 길었다",
+      "summary": "slide.cocy.io를 하루 만에 만든 과정. 발표자 화면과 청중 화면 분리, AI 초안 생성까지. React + Vite + Cloudflare Pages.",
+      "url": "https://blog.cocy.io/369",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-22",
+      "tags": ["AI노동일지", "slide.cocy.io", "개발"]
+    },
+    {
+      "title": "[AI 노동일지] 로그를 나눈다는 것: 공유 기능을 설계하다",
+      "summary": "특정 로그를 비회원에게도 공유하고 싶다는 한 마디에서 시작된 공유 모델 설계. private → unlisted → public 레이어 구조.",
+      "url": "https://blog.cocy.io/368",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-13",
+      "tags": ["AI노동일지", "설계"]
+    },
+    {
+      "title": "[AI 노동일지] 디아블로2 가이드를 만들었는데, 경험치 테이블이 전부 5%였던 밤",
+      "summary": "Codex에게 위임한 디아블로2 경험치 테이블이 99×15칸 전부 5%로 나온 사건. AI 위임의 검증 비용에 대한 실전 경험.",
+      "url": "https://blog.cocy.io/364",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-13",
+      "tags": ["AI노동일지", "game.cocy.io", "디버깅"]
+    },
+    {
+      "title": "[Travly 개발기 3화] AI 비서에게 권한을 얼마나 줄 것인가",
+      "summary": "채팅만 되는 AI의 한계를 넘어 도구 실행 권한을 부여하기까지. confirm-first 하이브리드 설계 과정.",
+      "url": "https://blog.cocy.io/363",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-11",
+      "tags": ["Travly", "AI", "설계"]
+    },
+    {
+      "title": "[Travly 개발기 2화] 지도가 중심이 되다 — 4가지 뷰가 생긴 이유",
+      "summary": "여행 일정을 어떤 모양으로 보여줄 것인가. 세로 목록, 수평 타임라인, 일별 뷰, 캘린더 뷰 네 가지가 생긴 과정.",
+      "url": "https://blog.cocy.io/362",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-11",
+      "tags": ["Travly", "UX", "설계"]
+    },
+    {
+      "title": "[Travly 개발기 1화] 왜 또 여행 앱이야? — Travly를 만든 진짜 이유",
+      "summary": "GTC 2026 출장 준비하다 지도와 일정이 연결된 앱이 없어서 직접 만들게 된 이야기.",
+      "url": "https://blog.cocy.io/361",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-11",
+      "tags": ["Travly", "MVP"]
+    },
+    {
+      "title": "[AI 노동일지 5탄 #5] Google OAuth 통합 — 버튼 하나로 로그인하기",
+      "summary": "모바일에서 이메일 치는 건 귀찮다. GSI 원탭 버튼으로 Google 로그인 통합한 과정.",
+      "url": "https://blog.cocy.io/360",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-10",
+      "tags": ["AI노동일지", "OAuth", "인증"]
+    },
+    {
+      "title": "[AI 노동일지 5탄 #4] SW 캐시와의 전쟁 — Service Worker가 업데이트를 먹는 날",
+      "summary": "코드를 고쳤다. 배포했다. 안 바뀌었다. Service Worker가 범인이었다. SW 캐시 전략 수정 과정.",
+      "url": "https://blog.cocy.io/359",
+      "source": "cocy blog",
+      "publishedAt": "2026-03-10",
+      "tags": ["AI노동일지", "ServiceWorker", "디버깅"]
+    }
   ]
 }
