@@ -1,0 +1,112 @@
+{
+  "skills": [
+    {
+      "title": "SRT/KTX 열차 예매",
+      "description": "SRT, KTX 열차를 검색하고 예매할 수 있는 AI 스킬. 출발/도착역, 날짜를 말하면 자동으로 좌석 조회 후 예약까지.",
+      "icon": "🚄",
+      "category": "korea",
+      "url": "https://clawhub.com/skills/k-skill-korean-ai-tools",
+      "tags": ["교통", "예매", "한국"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "서울 지하철 실시간 도착",
+      "description": "역 이름만 말하면 실시간 도착 정보, 경로 검색, 막차 시간, 출구 정보, 접근성 정보까지. API 키 불필요.",
+      "icon": "🚇",
+      "category": "korea",
+      "url": "https://clawhub.com/skills/seoul-subway",
+      "tags": ["지하철", "실시간", "서울"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "KBO 경기 결과 조회",
+      "description": "날짜별 KBO 경기 일정과 결과를 조회. 팀별 필터링도 지원.",
+      "icon": "⚾",
+      "category": "korea",
+      "url": "https://clawhub.com/skills/k-skill-korean-ai-tools",
+      "tags": ["스포츠", "야구", "KBO"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "로또 당첨 확인",
+      "description": "최신 회차 로또 당첨번호 조회, 특정 회차 검색, 내 번호 대조까지.",
+      "icon": "🎱",
+      "category": "lifestyle",
+      "url": "https://clawhub.com/skills/k-skill-korean-ai-tools",
+      "tags": ["로또", "복권"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "카카오톡 Mac CLI",
+      "description": "macOS에서 카카오톡 대화 조회, 검색, 메시지 전송을 CLI로 제어. 확인 후 실제 전송.",
+      "icon": "💬",
+      "category": "korea",
+      "url": "https://clawhub.com/skills/k-skill-korean-ai-tools",
+      "tags": ["메시지", "카카오톡", "macOS"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "HWP 문서 처리",
+      "description": ".hwp 파일을 JSON, Markdown, HTML로 변환. 이미지 추출, 배치 처리도 지원.",
+      "icon": "📄",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/hwp-reader",
+      "tags": ["문서", "HWP", "변환"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "우편번호 검색",
+      "description": "주소 키워드로 우체국 공식 우편번호를 즉시 조회. API 키 불필요.",
+      "icon": "📮",
+      "category": "korea",
+      "url": "https://clawhub.com/skills/k-skill-korean-ai-tools",
+      "tags": ["우편번호", "주소"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "중고마켓 검색",
+      "description": "당근마켓, 번개장터, 중고나라를 동시에 검색. 매물 모니터링과 브리핑 기능.",
+      "icon": "🛒",
+      "category": "lifestyle",
+      "url": "https://clawhub.com/skills/used-market-watch",
+      "tags": ["중고", "당근마켓", "번개장터"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "한국 법령/판례 검색",
+      "description": "law.go.kr + data.go.kr API로 법령 조회, 판례 검색, 일상 법률 정보 제공.",
+      "icon": "⚖️",
+      "category": "korea",
+      "url": "https://clawhub.com/skills/law-search",
+      "tags": ["법률", "판례", "법령"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "기상청 날씨",
+      "description": "기상청 초단기/단기 예보 API. 동네 날씨, 미세먼지 정보.",
+      "icon": "🌤️",
+      "category": "lifestyle",
+      "url": "https://clawhub.com/skills/kma-weather-korea",
+      "tags": ["날씨", "기상청", "미세먼지"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "영상 자막 생성",
+      "description": "로컬 영상/오디오에서 Whisper로 자막(SRT) 자동 생성. GPU 가속 지원.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://clawhub.com/skills/video-to-srt",
+      "tags": ["자막", "Whisper", "영상"],
+      "addedAt": "2026-03-28"
+    },
+    {
+      "title": "Cloudflare Workers/Pages 개발",
+      "description": "Workers, Pages, D1, R2, KV, AI, Tunnel 등 Cloudflare 플랫폼 전체를 다루는 개발 스킬.",
+      "icon": "☁️",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/cloudflare",
+      "tags": ["Cloudflare", "서버리스", "배포"],
+      "addedAt": "2026-03-28"
+    }
+  ]
+}

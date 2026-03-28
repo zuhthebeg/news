@@ -1,0 +1,173 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>cocy skills — AI 스킬 매거진</title>
+  <meta name="description" content="AI 에이전트가 쓸 수 있는 최신 스킬을 소개합니다">
+  <link rel="canonical" href="https://news.cocy.io/skills.html">
+  <meta property="og:type" content="website">
+  <meta property="og:title" content="cocy skills — AI 스킬 매거진">
+  <meta property="og:description" content="AI 에이전트를 위한 최신 스킬 소개">
+  <meta property="og:url" content="https://news.cocy.io/skills.html">
+  <meta property="og:site_name" content="cocy news">
+  <meta property="og:image" content="https://news.cocy.io/icon.svg">
+  <link rel="icon" type="image/svg+xml" href="/icon.svg">
+  <link rel="manifest" href="/manifest.json">
+  <link rel="stylesheet" href="/style.css">
+  <script>
+    (function (w, d, s, l, i) {
+      w[l] = w[l] || [];
+      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
+      var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l !== "dataLayer" ? "&l=" + l : "";
+      j.async = true; j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
+      f.parentNode.insertBefore(j, f);
+    })(window, document, "script", "dataLayer", "GTM-MV8KQGJF");
+  </script>
+  <!-- AdSense: managed via GTM auto-ads (ca-pub-6634731722045607) -->
+  <style>
+    .skills-hero { text-align: center; padding: 2rem 0 1rem; }
+    .skills-hero h2 { font-size: 1.5rem; color: var(--text); margin: 0; }
+    .skills-hero p { color: var(--muted); font-size: 0.9rem; margin-top: 0.5rem; }
+    .skills-filters { display: flex; gap: 0.5rem; flex-wrap: wrap; justify-content: center; margin: 1.5rem 0; }
+    .skills-filters button {
+      padding: 0.4rem 1rem; border-radius: 999px; border: 1px solid var(--border);
+      background: var(--surface); color: var(--muted); font-size: 0.8rem; cursor: pointer;
+      transition: all 0.2s;
+    }
+    .skills-filters button.active, .skills-filters button:hover {
+      background: var(--primary); color: #fff; border-color: var(--primary);
+    }
+    .skills-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1rem; margin: 1.5rem 0; }
+    .skill-card {
+      background: var(--surface); border: 1px solid var(--border); border-radius: 16px;
+      padding: 1.5rem; transition: box-shadow 0.2s, transform 0.2s; cursor: pointer;
+      text-decoration: none; display: block;
+    }
+    .skill-card:hover { box-shadow: var(--shadow); transform: translateY(-2px); }
+    .skill-card .skill-icon { font-size: 2rem; margin-bottom: 0.75rem; }
+    .skill-card h3 { margin: 0 0 0.5rem; font-size: 1.05rem; color: var(--text); }
+    .skill-card .skill-desc { font-size: 0.88rem; color: var(--muted); line-height: 1.6; margin-bottom: 0.75rem; }
+    .skill-card .skill-meta { display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center; }
+    .skill-card .skill-category {
+      font-size: 0.7rem; padding: 0.2rem 0.6rem; border-radius: 999px;
+      background: var(--badge-bg); color: var(--badge-text); font-weight: 500;
+    }
+    .skill-card .skill-date { font-size: 0.75rem; color: var(--muted); margin-left: auto; }
+    .skill-card .skill-tags { display: flex; gap: 0.4rem; flex-wrap: wrap; margin-top: 0.5rem; }
+    .skill-card .skill-tag {
+      font-size: 0.7rem; padding: 0.15rem 0.5rem; border-radius: 999px;
+      border: 1px solid var(--border); color: var(--muted);
+    }
+    .empty-state { text-align: center; padding: 3rem 0; color: var(--muted); }
+  </style>
+</head>
+<body data-page="skills">
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV8KQGJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+  <div class="container">
+    <header class="site-header">
+      <div>
+        <h1 class="logo"><a href="/index.html">cocy news</a></h1>
+        <p class="header-date">AI 스킬 매거진</p>
+      </div>
+      <button id="theme-toggle" class="theme-toggle" type="button" aria-label="다크모드 토글">다크모드</button>
+    </header>
+
+    <nav class="date-nav">
+      <a href="/index.html">← 뉴스</a>
+      <a href="/blog.html">블로그</a>
+      <a href="/archive.html">아카이브</a>
+    </nav>
+
+    <div class="skills-hero">
+      <h2>🤖 AI 스킬 디스커버리</h2>
+      <p>AI 에이전트가 쓸 수 있는 새로운 기능들을 매거진 형태로 소개합니다</p>
+    </div>
+
+    <div class="skills-filters" id="filters"></div>
+
+    <main>
+      <div class="skills-grid" id="skills-grid"></div>
+      <p id="skills-empty" class="empty-state" hidden>등록된 스킬이 없습니다.</p>
+    </main>
+
+    <footer class="site-footer">
+      <p>Powered by AI · <a href="https://cocy.io" target="_blank" rel="noopener noreferrer">cocy.io</a></p>
+    </footer>
+  </div>
+
+  <script>
+    // Theme
+    const tt = document.getElementById('theme-toggle');
+    if (localStorage.getItem('theme') === 'dark') document.documentElement.setAttribute('data-theme', 'dark');
+    tt?.addEventListener('click', () => {
+      const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+      document.documentElement.setAttribute('data-theme', isDark ? '' : 'dark');
+      localStorage.setItem('theme', isDark ? '' : 'dark');
+    });
+
+    const CATEGORY_LABELS = {
+      all: '전체',
+      productivity: '생산성',
+      korea: '한국 특화',
+      dev: '개발',
+      media: '미디어',
+      data: '데이터',
+      lifestyle: '생활',
+    };
+
+    let allSkills = [];
+    let selectedCategory = 'all';
+
+    function renderFilters() {
+      const el = document.getElementById('filters');
+      el.innerHTML = Object.entries(CATEGORY_LABELS).map(([k, v]) =>
+        `<button data-cat="${k}" class="${k === selectedCategory ? 'active' : ''}">${v}</button>`
+      ).join('');
+      el.querySelectorAll('button').forEach(btn => {
+        btn.addEventListener('click', () => {
+          selectedCategory = btn.dataset.cat;
+          renderFilters();
+          renderSkills();
+        });
+      });
+    }
+
+    function renderSkills() {
+      const grid = document.getElementById('skills-grid');
+      const empty = document.getElementById('skills-empty');
+      const filtered = selectedCategory === 'all' ? allSkills : allSkills.filter(s => s.category === selectedCategory);
+
+      if (filtered.length === 0) { grid.innerHTML = ''; empty.hidden = false; return; }
+      empty.hidden = true;
+
+      grid.innerHTML = filtered.map(s => `
+        <a class="skill-card" href="${s.url || '#'}" target="_blank" rel="noopener noreferrer">
+          <div class="skill-icon">${s.icon || '🔧'}</div>
+          <h3>${s.title}</h3>
+          <p class="skill-desc">${s.description}</p>
+          <div class="skill-meta">
+            <span class="skill-category">${CATEGORY_LABELS[s.category] || s.category}</span>
+            ${s.addedAt ? `<span class="skill-date">${new Date(s.addedAt).toLocaleDateString('ko-KR')}</span>` : ''}
+          </div>
+          ${s.tags?.length ? `<div class="skill-tags">${s.tags.map(t => `<span class="skill-tag">#${t}</span>`).join('')}</div>` : ''}
+        </a>
+      `).join('');
+    }
+
+    (async () => {
+      try {
+        const res = await fetch('/skills.json');
+        const data = await res.json();
+        allSkills = data.skills || [];
+        allSkills.sort((a, b) => (b.addedAt || '').localeCompare(a.addedAt || ''));
+        renderFilters();
+        renderSkills();
+      } catch {
+        document.getElementById('skills-empty').hidden = false;
+      }
+    })();
+  </script>
+</body>
+</html>
