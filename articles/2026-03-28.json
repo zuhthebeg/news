@@ -135,6 +135,51 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBhNnB0SHhYYjZESXRTY3U0SmZscW0xM09rb2ZtT2RlT1h3SEVhbEttbUMwblpYUVNsRUg0WDBqaTN3ZnhNRE9vSU1xVnozQ3hNSXpuOTNWbUp2cWhMc0RMNGdnRkQ3Ujd1d0dGbDBkbjF3WWPSAXNBVV95cUxQYTZwdEh4WGI2REl0U2N1NEpmbHFtMTNPa29mbU9kZU9Yd0hFYWxLbW1DMG5aWFFTbEVINFgwamkzd2Z4TURPb0lNcVZ6M0N4TUl6bjkzVm1KdnFoTHNETDRnZ0ZEN1I3dXdHRmwwZG4xd1lj?oc=5",
       "publishedAt": "2026-03-27T19:30:00Z",
       "id": "15"
+    },
+    {
+      "title": "앤트로픽, Claude Code에 '자동 승인' 안전 모드 도입",
+      "summary": "앤트로픽이 Claude Code에 연구 프리뷰 형태의 auto mode를 추가했다. 안전하다고 판단한 작업은 AI가 직접 진행하고, 위험 가능성이 있는 작업만 막거나 사용자 개입을 요청하는 구조다. 코딩 에이전트가 실사용 단계로 넘어가면서 '속도 vs 통제' 균형을 본격적으로 제품화한 사례다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "publishedAt": "2026-03-24T14:00:00-07:00",
+      "id": "16"
+    },
+    {
+      "title": "SoftBank의 400억달러 차입, OpenAI 연내 IPO 기대를 키운다",
+      "summary": "소프트뱅크가 OpenAI 투자 약정을 맞추기 위해 400억달러 규모의 단기 무담보 대출을 조달했다. 시장은 이 구조를 OpenAI의 대형 상장이 비교적 이른 시점에 열릴 수 있다는 신호로 해석하고 있다. 인프라 투자 경쟁이 이제 모델 성능뿐 아니라 자본시장 타이밍 싸움으로 번지고 있다는 점이 핵심이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/27/why-softbanks-new-40b-loan-points-to-a-2026-openai-ipo/",
+      "publishedAt": "2026-03-27T00:00:00Z",
+      "id": "17"
+    },
+    {
+      "title": "방산 AI 스타트업 Shield AI, 미 공군 계약 후 기업가치 127억달러",
+      "summary": "자율 비행 소프트웨어 기업 Shield AI가 15억달러를 신규 조달하며 기업가치 127억달러를 기록했다. 미 공군의 차세대 전투 드론 프로그램 공급사로 선정된 뒤 1년 만에 가치가 140% 뛰었다. AI가 소비자 서비스뿐 아니라 국방·시뮬레이션 같은 고부가 산업으로 빠르게 확장되고 있음을 보여준다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/26/defense-startup-shield-ai-lands-12-7b-valuation-up-140-after-u-s-air-force-deal/",
+      "publishedAt": "2026-03-26T11:05:00-07:00",
+      "id": "18"
+    },
+    {
+      "title": "앤트로픽, Claude Opus 4.6 공개… 코딩·툴사용 성능 강화",
+      "summary": "앤트로픽이 Claude Opus 4.6을 공개하며 에이전트 코딩, 컴퓨터 사용, 도구 호출, 검색, 금융 영역에서 성능 우위를 강조했다. 최근 Claude Code 기능 확장과 맞물리면서 모델 성능 개선이 곧바로 제품 기능 확장으로 이어지는 흐름이 더 선명해졌다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news",
+      "publishedAt": "2026-02-05T00:00:00Z",
+      "id": "19"
+    },
+    {
+      "title": "엔비디아, OpenAI·Anthropic 추가 지분 투자엔 선 긋기",
+      "summary": "젠슨 황은 엔비디아의 OpenAI·Anthropic 추가 투자가 사실상 마지막일 수 있다고 밝혔다. 두 회사가 상장 단계로 가는 동안 엔비디아는 칩 공급자로서 이미 핵심 이익을 얻고 있어, 앞으로는 지분 확대보다 생태계 지배력 유지에 무게를 둘 가능성이 크다. AI 패권 경쟁이 모델 회사뿐 아니라 인프라 공급자 전략 변화까지 포함한 국면으로 들어갔다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/04/jensen-huang-says-nvidia-is-pulling-back-from-openai-and-anthropic-but-his-explanation-raises-more-questions-than-it-answers/",
+      "publishedAt": "2026-03-04T00:00:00Z",
+      "id": "20"
     }
   ]
 }
