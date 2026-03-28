@@ -37,24 +37,24 @@
   <style>
     .blog-list { list-style: none; padding: 0; margin: 2rem 0; }
     .blog-card {
-      background: var(--card-bg, #fff);
-      border: 1px solid var(--border, #e5e7eb);
+      background: var(--surface);
+      border: 1px solid var(--border);
       border-radius: 12px;
       padding: 1.25rem 1.5rem;
       margin-bottom: 1rem;
       transition: box-shadow 0.2s;
     }
-    .blog-card:hover { box-shadow: 0 4px 16px rgba(0,0,0,0.08); }
+    .blog-card:hover { box-shadow: var(--shadow); }
     .blog-card h2 { margin: 0 0 0.5rem; font-size: 1.1rem; }
-    .blog-card h2 a { color: var(--text, #111); text-decoration: none; }
-    .blog-card h2 a:hover { text-decoration: underline; }
-    .blog-card .blog-meta { font-size: 0.85rem; color: var(--text-muted, #6b7280); margin-bottom: 0.5rem; }
-    .blog-card .blog-summary { font-size: 0.95rem; color: var(--text, #333); line-height: 1.6; }
+    .blog-card h2 a { color: var(--text); text-decoration: none; }
+    .blog-card h2 a:hover { text-decoration: underline; color: var(--primary); }
+    .blog-card .blog-meta { font-size: 0.85rem; color: var(--muted); margin-bottom: 0.5rem; }
+    .blog-card .blog-summary { font-size: 0.95rem; color: var(--text); line-height: 1.6; }
     .blog-tags { display: flex; gap: 0.5rem; flex-wrap: wrap; margin-top: 0.75rem; }
     .blog-tag {
       font-size: 0.75rem;
-      background: var(--tag-bg, #f3f4f6);
-      color: var(--tag-text, #4b5563);
+      background: var(--badge-bg);
+      color: var(--badge-text);
       padding: 0.2rem 0.6rem;
       border-radius: 999px;
     }
