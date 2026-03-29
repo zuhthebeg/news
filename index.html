@@ -3,154 +3,389 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>cocy news | AI 뉴스 포털</title>
-  <meta name="description" content="AI가 매일 수집·요약한 주요 뉴스를 카테고리별로 한눈에 보는 cocy news.">
-  <meta name="keywords" content="AI 뉴스, 테크 뉴스, 국내 뉴스, 해외 뉴스, 경제 뉴스, cocy news">
+  <title>cocy news — 뉴스 · 리서치 · 스크랩</title>
+  <meta name="description" content="AI 뉴스, 리서치, 스크랩을 타임라인으로. 중요한 건 핀, 오래된 건 자연스럽게.">
   <link rel="canonical" href="https://news.cocy.io/">
-
-  <meta property="og:type" content="website">
-  <meta property="og:title" content="cocy news | AI 뉴스 포털">
-  <meta property="og:description" content="AI가 매일 수집·요약한 주요 뉴스를 카테고리별로 확인하세요.">
+  <link rel="icon" href="/icon.svg" type="image/svg+xml">
+  <meta property="og:title" content="cocy news — 뉴스 · 리서치 · 스크랩">
+  <meta property="og:description" content="AI 뉴스, 리서치, 스크랩을 타임라인으로.">
   <meta property="og:url" content="https://news.cocy.io/">
-  <meta property="og:site_name" content="cocy news">
   <meta property="og:image" content="https://news.cocy.io/icon.svg">
+  <meta name="twitter:card" content="summary">
 
-  <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="cocy news | AI 뉴스 포털">
-  <meta name="twitter:description" content="AI가 매일 수집·요약한 주요 뉴스를 카테고리별로 확인하세요.">
-  <meta name="twitter:image" content="https://news.cocy.io/icon.svg">
+  <!-- GTM -->
+  <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+  new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+  j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+  'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+  })(window,document,'script','dataLayer','GTM-MV8KQGJF');</script>
+  <!-- AdSense: managed via GTM auto-ads (ca-pub-6634731722045607) -->
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "WebSite",
-    "name": "cocy news",
-    "url": "https://news.cocy.io/",
-    "description": "AI가 매일 수집·요약한 뉴스 포털"
-  }
-  </script>
+  <style>
+    :root {
+      --bg: #0a0a0f;
+      --surface: #12121a;
+      --surface-2: #1a1a28;
+      --border: #2a2a3a;
+      --text: #e8e8ed;
+      --text-2: #8888a0;
+      --text-3: #555568;
+      --accent: #6c8aff;
+      --accent-2: #a78bfa;
+      --pin-bg: #1a1528;
+      --pin-border: #352a50;
+      --tag-bg: #1e1e30;
+      --news: #4ecdc4;
+      --research: #a78bfa;
+      --scrap: #f59e0b;
+    }
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: var(--bg); color: var(--text);
+      line-height: 1.6; min-height: 100vh;
+    }
+    a { color: var(--accent); text-decoration: none; }
+    a:hover { text-decoration: underline; }
 
-  <link rel="icon" type="image/svg+xml" href="/icon.svg">
-  <link rel="manifest" href="/manifest.json">
-  <link rel="stylesheet" href="/style.css">
+    /* Header */
+    .header {
+      padding: 2rem 1.5rem 1rem;
+      max-width: 800px; margin: 0 auto;
+      display: flex; align-items: baseline; gap: 1rem; flex-wrap: wrap;
+    }
+    .header h1 { font-size: 1.5rem; font-weight: 800; letter-spacing: -0.02em; }
+    .header nav { display: flex; gap: 0.75rem; font-size: 0.85rem; }
+    .header nav a { color: var(--text-2); }
+    .header nav a:hover { color: var(--text); }
+    .header nav a.active { color: var(--accent); }
 
-  <!-- Google Tag Manager -->
-  <script>
-    (function (w, d, s, l, i) {
-      w[l] = w[l] || [];
-      w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
-      var f = d.getElementsByTagName(s)[0],
-        j = d.createElement(s),
-        dl = l !== "dataLayer" ? "&l=" + l : "";
-      j.async = true;
-      j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
-      f.parentNode.insertBefore(j, f);
-    })(window, document, "script", "dataLayer", "GTM-MV8KQGJF");
-  </script>
-  <!-- End Google Tag Manager -->
+    /* Filter bar */
+    .filters {
+      max-width: 800px; margin: 0 auto; padding: 0 1.5rem 1rem;
+      display: flex; gap: 0.5rem; flex-wrap: wrap;
+    }
+    .filter-btn {
+      background: var(--surface); border: 1px solid var(--border);
+      color: var(--text-2); padding: 0.3rem 0.75rem; border-radius: 99px;
+      font-size: 0.78rem; cursor: pointer; transition: all 0.2s;
+    }
+    .filter-btn:hover { border-color: var(--accent); color: var(--text); }
+    .filter-btn.active { background: var(--accent); color: #fff; border-color: var(--accent); }
 
-  <!-- AdSense: GTM 자동광고 사용 (직접 삽입 불필요) -->
+    /* Sections */
+    .feed { max-width: 800px; margin: 0 auto; padding: 0 1.5rem 4rem; }
+
+    .section-label {
+      font-size: 0.75rem; font-weight: 700; text-transform: uppercase;
+      letter-spacing: 0.08em; color: var(--text-3); padding: 1.5rem 0 0.5rem;
+      border-top: 1px solid var(--border); margin-top: 1rem;
+    }
+    .section-label:first-child { border-top: none; margin-top: 0; }
+
+    /* Pinned cards */
+    .pinned-grid {
+      display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+      gap: 0.75rem; margin-bottom: 0.5rem;
+    }
+    .pin-card {
+      background: var(--pin-bg); border: 1px solid var(--pin-border);
+      border-radius: 12px; padding: 1rem; cursor: pointer;
+      transition: all 0.25s; position: relative;
+    }
+    .pin-card:hover { border-color: var(--accent-2); transform: translateY(-2px); }
+    .pin-card .pin-icon { position: absolute; top: 0.6rem; right: 0.6rem; font-size: 0.7rem; opacity: 0.5; }
+    .pin-card .type-badge {
+      font-size: 0.65rem; font-weight: 600; text-transform: uppercase;
+      letter-spacing: 0.06em; margin-bottom: 0.4rem;
+    }
+    .pin-card h3 { font-size: 0.9rem; font-weight: 700; line-height: 1.35; margin-bottom: 0.4rem; }
+    .pin-card p { font-size: 0.78rem; color: var(--text-2); line-height: 1.45;
+      display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical; overflow: hidden; }
+    .pin-card .tags { display: flex; gap: 0.3rem; margin-top: 0.5rem; flex-wrap: wrap; }
+    .pin-card .tag {
+      font-size: 0.6rem; background: var(--tag-bg); color: var(--text-3);
+      padding: 0.15rem 0.4rem; border-radius: 4px;
+    }
+
+    /* Timeline items */
+    .item {
+      padding: 0.8rem 0; border-bottom: 1px solid rgba(42,42,58,0.5);
+      display: grid; grid-template-columns: auto 1fr auto; gap: 0.75rem;
+      align-items: start; transition: opacity 0.3s;
+    }
+    .item:last-child { border-bottom: none; }
+    .item .dot {
+      width: 8px; height: 8px; border-radius: 50%; margin-top: 0.45rem; flex-shrink: 0;
+    }
+    .item .dot.news { background: var(--news); }
+    .item .dot.research { background: var(--research); }
+    .item .dot.scrap { background: var(--scrap); }
+    .item .dot.blog { background: #f472b6; }
+    .item .content h4 {
+      font-size: 0.88rem; font-weight: 600; line-height: 1.4; margin-bottom: 0.15rem;
+    }
+    .item .content h4 a { color: var(--text); }
+    .item .content h4 a:hover { color: var(--accent); text-decoration: none; }
+    .item .content .summary {
+      font-size: 0.78rem; color: var(--text-2); line-height: 1.45;
+      display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+    }
+    .item .meta {
+      font-size: 0.7rem; color: var(--text-3); text-align: right; white-space: nowrap; min-width: 50px;
+    }
+
+    /* Compact mode for older items */
+    .item.compact { padding: 0.45rem 0; }
+    .item.compact .content .summary { display: none; }
+    .item.compact .content h4 { font-size: 0.82rem; font-weight: 500; }
+
+    /* Archive toggle */
+    .archive-toggle {
+      text-align: center; padding: 1rem;
+      font-size: 0.8rem; color: var(--text-3); cursor: pointer;
+    }
+    .archive-toggle:hover { color: var(--accent); }
+
+    /* Empty state */
+    .empty { text-align: center; padding: 3rem 1rem; color: var(--text-3); font-size: 0.85rem; }
+
+    @media (max-width: 600px) {
+      .header { padding: 1.5rem 1rem 0.75rem; }
+      .filters { padding: 0 1rem 0.75rem; }
+      .feed { padding: 0 1rem 3rem; }
+      .pinned-grid { grid-template-columns: 1fr; }
+      .item { grid-template-columns: auto 1fr; }
+      .item .meta { grid-column: 2; margin-top: -0.3rem; }
+    }
+  </style>
 </head>
-<body data-page="home">
-  <!-- Google Tag Manager (noscript) -->
-  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV8KQGJF" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-  <!-- End Google Tag Manager (noscript) -->
+<body>
+  <!-- GTM noscript -->
+  <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MV8KQGJF"
+  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
-  <div class="container">
-    <header class="site-header">
-      <div>
-        <h1 class="logo"><a href="/index.html">cocy news</a></h1>
-        <p id="current-date" class="header-date">-</p>
-      </div>
-      <div class="header-right">
-        <div id="auth-area"></div>
-        <button id="theme-toggle" class="theme-toggle" type="button" aria-label="다크모드 토글">다크모드</button>
-      </div>
-    </header>
-
-    <!-- Login Modal -->
-    <div id="login-modal" class="login-modal-overlay" hidden>
-      <div class="login-modal">
-        <button class="modal-x" onclick="closeLogin()">&times;</button>
-        <h2 class="modal-heading">로그인</h2>
-        <p class="modal-sub">팩트체크 기능은 로그인 후 이용 가능합니다.</p>
-        <div id="google-signin-btn" class="google-signin-wrap"></div>
-        <div class="login-divider"><span>또는</span></div>
-        <form onsubmit="handleLogin(event)">
-          <input id="login-email" type="email" placeholder="이메일" required>
-          <input id="login-pw" type="password" placeholder="비밀번호" required minlength="8">
-          <p id="login-error" class="login-err"></p>
-          <button type="submit" class="login-submit">로그인</button>
-        </form>
-        <p class="modal-register">이메일 계정이 없으면 Google로 바로 로그인하세요.</p>
-      </div>
-    </div>
-
-    <nav class="date-nav" aria-label="날짜 이동">
-      <button id="prev-day" type="button">← 어제</button>
-      <button id="today" type="button">오늘</button>
-      <button id="next-day" type="button">내일 →</button>
-      <a class="archive-link" href="/archive.html">아카이브</a>
-      <a class="archive-link" href="/blog.html">블로그</a>
-      <a class="archive-link" href="/skills.html">🤖 스킬</a>
+  <div class="header">
+    <h1>cocy news</h1>
+    <nav>
+      <a href="/" class="active">타임라인</a>
+      <a href="/blog.html">블로그</a>
+      <a href="/skills.html">스킬</a>
+      <a href="/news-classic.html">클래식</a>
     </nav>
-
-    <nav id="category-tabs" class="category-tabs" aria-label="카테고리 필터">
-      <button type="button" data-category="all" class="active">전체</button>
-      <button type="button" data-category="ai-tech">AI·테크</button>
-      <button type="button" data-category="domestic">국내</button>
-      <button type="button" data-category="world">해외</button>
-      <button type="button" data-category="economy">경제</button>
-      <button type="button" data-category="realestate">부동산</button>
-      <button type="button" data-category="security">보안</button>
-      <button type="button" data-category="science">과학</button>
-    </nav>
-
-    <main>
-      <section id="news-list" class="news-list" aria-live="polite"></section>
-      <p id="empty-state" class="empty-state" hidden>해당 날짜에 표시할 뉴스가 없습니다.</p>
-    </main>
-
-    <footer class="site-footer">
-      <p>Powered by AI · <a href="https://cocy.io" target="_blank" rel="noopener noreferrer">cocy.io</a></p>
-    </footer>
   </div>
 
-  <script src="/script.js"></script>
-  <script src="https://accounts.google.com/gsi/client" async></script>
+  <div class="filters" id="filters">
+    <button class="filter-btn active" data-filter="all">전체</button>
+    <button class="filter-btn" data-filter="news">📰 뉴스</button>
+    <button class="filter-btn" data-filter="research">🔍 리서치</button>
+    <button class="filter-btn" data-filter="scrap">📌 스크랩</button>
+    <button class="filter-btn" data-filter="blog">📝 블로그</button>
+  </div>
+
+  <div class="feed" id="feed"></div>
+
   <script>
-    window.onGoogleLibraryLoad = function() {
-      google.accounts.id.initialize({
-        client_id: '402340265805-ogo2c09qujqk6gape9oea7sfh8lsegln.apps.googleusercontent.com',
-        callback: handleGoogleCredential,
-        use_fedcm_for_prompt: true
-      });
-      renderGoogleBtn();
-    };
-    function renderGoogleBtn() {
-      var wrap = document.getElementById('google-signin-btn');
-      if (!wrap) return;
-      google.accounts.id.renderButton(wrap, { theme: 'outline', size: 'large', width: 280, text: 'signin_with', locale: 'ko' });
+    const NOW = new Date();
+    const DAY_MS = 86400000;
+    let currentFilter = 'all';
+    let showArchive = false;
+
+    function daysAgo(dateStr) {
+      return Math.floor((NOW - new Date(dateStr + 'T09:00:00+09:00')) / DAY_MS);
     }
-    async function handleGoogleCredential(response) {
-      var errEl = document.getElementById('login-error');
-      try {
-        var res = await fetch('https://relay.cocy.io/api/auth/google/signin', {
-          method: 'POST',
-          headers: { 'Content-Type': 'application/json' },
-          body: JSON.stringify({ credential: response.credential })
-        });
-        var d = await res.json();
-        if (!res.ok) throw new Error(d.error || 'Google 로그인 실패');
-        if (typeof setTokens === 'function') setTokens(d.accessToken, d.refreshToken);
-        if (typeof setUser === 'function') setUser(d.user);
-        if (typeof closeLogin === 'function') closeLogin();
-        if (typeof renderAuthUI === 'function') renderAuthUI();
-        if (typeof renderNews === 'function') renderNews();
-      } catch(e) {
-        if (errEl) errEl.textContent = e.message;
+
+    function formatDate(dateStr) {
+      const d = daysAgo(dateStr);
+      if (d === 0) return '오늘';
+      if (d === 1) return '어제';
+      if (d < 7) return `${d}일 전`;
+      return dateStr.slice(5).replace('-', '/');
+    }
+
+    function opacity(dateStr) {
+      const d = daysAgo(dateStr);
+      if (d <= 0) return 1;
+      if (d === 1) return 0.9;
+      if (d <= 3) return 0.75;
+      if (d <= 7) return 0.55;
+      return 0.35;
+    }
+
+    function isCompact(dateStr) {
+      return daysAgo(dateStr) > 3;
+    }
+
+    function categoryToType(cat) {
+      const map = { ai_tech: 'news', economy: 'news', domestic: 'news',
+        international: 'news', security: 'news', realestate: 'news' };
+      return map[cat] || 'news';
+    }
+
+    async function loadData() {
+      const [pinnedRes, blogRes] = await Promise.all([
+        fetch('/pinned.json').then(r => r.json()).catch(() => []),
+        fetch('/blog.json').then(r => r.json()).catch(() => [])
+      ]);
+
+      // Load all article files
+      const today = new Date();
+      const articles = [];
+      for (let i = 0; i < 30; i++) {
+        const d = new Date(today - i * DAY_MS);
+        const ds = d.toISOString().slice(0, 10);
+        try {
+          const res = await fetch(`/articles/${ds}.json`);
+          if (res.ok) {
+            const data = await res.json();
+            (data.articles || []).forEach(a => {
+              articles.push({
+                ...a,
+                type: 'news',
+                date: a.date || a.publishedAt?.slice(0, 10) || ds,
+                url: a.source_url || a.sourceUrl || '#'
+              });
+            });
+          }
+        } catch {}
       }
+
+      // Blog items
+      const blogItems = blogRes.map(b => ({
+        id: 'blog-' + b.id,
+        type: 'blog',
+        title: b.title,
+        summary: b.summary || b.description || '',
+        url: b.url,
+        date: b.date,
+        tags: b.tags || []
+      }));
+
+      // Merge all into timeline
+      const pinned = pinnedRes.map(p => ({ ...p, pinned: true }));
+      const timeline = [...articles, ...blogItems]
+        .sort((a, b) => (b.date || '').localeCompare(a.date || ''));
+
+      return { pinned, timeline };
     }
+
+    function renderPinned(items) {
+      if (!items.length) return '';
+      const cards = items.map(p => `
+        <a class="pin-card" href="${p.url}" target="_blank" rel="noopener">
+          <span class="pin-icon">📌</span>
+          <div class="type-badge" style="color:var(--${p.type === 'research' ? 'research' : 'scrap'})">${p.type === 'research' ? '리서치' : '스크랩'}</div>
+          <h3>${esc(p.title)}</h3>
+          <p>${esc(p.summary)}</p>
+          ${p.tags?.length ? `<div class="tags">${p.tags.map(t => `<span class="tag">${esc(t)}</span>`).join('')}</div>` : ''}
+        </a>
+      `).join('');
+      return `<div class="section-label">📌 Pinned</div><div class="pinned-grid">${cards}</div>`;
+    }
+
+    function renderTimeline(items) {
+      if (!items.length) return '<div class="empty">표시할 항목이 없습니다</div>';
+
+      // Group by time bucket
+      const buckets = { today: [], yesterday: [], week: [], older: [] };
+      items.forEach(item => {
+        const d = daysAgo(item.date);
+        if (d <= 0) buckets.today.push(item);
+        else if (d === 1) buckets.yesterday.push(item);
+        else if (d <= 7) buckets.week.push(item);
+        else buckets.older.push(item);
+      });
+
+      let html = '';
+
+      if (buckets.today.length) {
+        html += `<div class="section-label">🔥 오늘</div>`;
+        html += buckets.today.map(i => renderItem(i)).join('');
+      }
+      if (buckets.yesterday.length) {
+        html += `<div class="section-label">📅 어제</div>`;
+        html += buckets.yesterday.map(i => renderItem(i)).join('');
+      }
+      if (buckets.week.length) {
+        html += `<div class="section-label">📅 이번 주</div>`;
+        html += buckets.week.map(i => renderItem(i)).join('');
+      }
+      if (buckets.older.length) {
+        if (!showArchive) {
+          html += `<div class="archive-toggle" onclick="toggleArchive()">📦 지난 기사 ${buckets.older.length}건 더보기</div>`;
+        } else {
+          html += `<div class="section-label">📦 아카이브</div>`;
+          html += buckets.older.map(i => renderItem(i)).join('');
+          html += `<div class="archive-toggle" onclick="toggleArchive()">접기</div>`;
+        }
+      }
+
+      return html;
+    }
+
+    function renderItem(item) {
+      const op = opacity(item.date);
+      const compact = isCompact(item.date);
+      const type = item.type || 'news';
+      return `
+        <div class="item ${compact ? 'compact' : ''}" style="opacity:${op}" data-type="${type}">
+          <div class="dot ${type}"></div>
+          <div class="content">
+            <h4><a href="${item.url || '#'}" target="_blank" rel="noopener">${esc(item.title)}</a></h4>
+            ${!compact && item.summary ? `<div class="summary">${esc(item.summary)}</div>` : ''}
+          </div>
+          <div class="meta">${item.source ? esc(item.source) + '<br>' : ''}${formatDate(item.date)}</div>
+        </div>
+      `;
+    }
+
+    function esc(s) {
+      if (!s) return '';
+      const d = document.createElement('div');
+      d.textContent = s;
+      return d.innerHTML;
+    }
+
+    function toggleArchive() {
+      showArchive = !showArchive;
+      render();
+    }
+
+    let allData = { pinned: [], timeline: [] };
+
+    function render() {
+      const feed = document.getElementById('feed');
+      let filtered = allData.timeline;
+      if (currentFilter !== 'all') {
+        filtered = filtered.filter(i => (i.type || 'news') === currentFilter);
+      }
+
+      let html = '';
+      // Show pinned only when filter is 'all' or matches pin type
+      if (currentFilter === 'all' || currentFilter === 'research' || currentFilter === 'scrap') {
+        const filteredPins = currentFilter === 'all'
+          ? allData.pinned
+          : allData.pinned.filter(p => p.type === currentFilter);
+        html += renderPinned(filteredPins);
+      }
+      html += renderTimeline(filtered);
+      feed.innerHTML = html;
+    }
+
+    // Filter buttons
+    document.getElementById('filters').addEventListener('click', e => {
+      if (!e.target.matches('.filter-btn')) return;
+      document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+      e.target.classList.add('active');
+      currentFilter = e.target.dataset.filter;
+      render();
+    });
+
+    // Init
+    loadData().then(data => {
+      allData = data;
+      render();
+    });
   </script>
 </body>
 </html>
