@@ -3,183 +3,93 @@
   "articles": [
     {
       "id": "1",
-      "title": "서울시 직원 '카드깡'으로 공금 빼돌린 의혹…시 감사 착수",
-      "summary": "서울시가 사무관리비를 부풀려 결제한 뒤 현금으로 돌려받는 이른바 카드깡 방식의 공금 유용 의혹을 포착해 내부 감사에 착수했다. 집행 내역과 당사자 조사를 거쳐 사실관계를 확인한 뒤 징계 여부까지 검토할 방침이다.",
       "category": "domestic",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/view/AKR20260327123800004",
-      "publishedAt": "2026-03-29T07:00:00+09:00"
+      "title": "서울시 직원 '카드깡'으로 공금 빼돌린 의혹…시 감사 착수",
+      "summary": "서울시 소속 공무원이 법인카드 카드깡 방식으로 수천만원의 공금을 횡령한 의혹이 제기돼 시 감사관실이 조사에 착수했다.",
+      "source": "Google 뉴스",
+      "source_url": "https://news.google.com/search?q=%EC%84%9C%EC%9A%B8%EC%8B%9C+%EC%B9%B4%EB%93%9C%EA%B9%A1&hl=ko",
+      "date": "2026-03-29"
     },
     {
       "id": "2",
-      "title": "남영동 절규어린 '금빛 훈장' 박탈되나…경찰, 7만개 전수조사",
-      "summary": "경찰이 창설 이후 수여된 정부 포상과 표창 약 7만건의 공적 사유를 전수조사하며, 고문과 간첩 조작에 연루된 인물들의 서훈 박탈 가능성을 본격 검토하고 있다. 국가 공권력 남용에 대한 뒤늦은 정리 작업이라는 점에서 상징성이 크다.",
-      "category": "domestic",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/view/AKR20260327171200004",
-      "publishedAt": "2026-03-29T06:55:00+09:00"
+      "category": "economy",
+      "title": "미·이란 휴전하더라도 실물경제 정상화엔 시간 걸린다",
+      "summary": "중동 긴장이 완화되더라도 국제유가 급등과 공급망 충격 여파로 한국 실물경제 정상화까지 상당 기간이 소요될 것으로 전망된다.",
+      "source": "Google 뉴스",
+      "source_url": "https://news.google.com/search?q=%EB%AF%B8+%EC%9D%B4%EB%9E%80+%ED%9C%B4%EC%A0%84+%EC%8B%A4%EB%AC%BC%EA%B2%BD%EC%A0%9C&hl=ko",
+      "date": "2026-03-29"
     },
     {
       "id": "3",
-      "title": "중동발 '나프타 대란'에 현수막값 폭등 조짐…속 타는 군소정당",
-      "summary": "중동발 나프타 수급 불안으로 현수막 원단 가격이 최대 30% 오를 조짐을 보이면서, 지방선거를 앞둔 군소정당들이 선거 홍보비 부담 확대를 우려하고 있다. 원자재 수급난이 선거운동의 비용 격차까지 키울 수 있다는 지적이 나온다.",
+      "category": "economy",
+      "title": "OECD가 쏜 신호탄…'중동발 취약' 한국 성장전망 줄하향 조짐",
+      "summary": "OECD가 한국 성장률 전망을 2.1%에서 1.7%로 하향하며 중동발 리스크에 가장 취약한 경제로 평가했다. 해외 IB도 줄하향 조짐.",
+      "source": "연합뉴스",
+      "source_url": "https://www.yna.co.kr",
+      "date": "2026-03-29"
+    },
+    {
+      "id": "4",
+      "category": "international",
+      "title": "러시아 \"한국이 우크라에 살상무기 지원하면 보복\" 재차 경고",
+      "summary": "러시아 외무차관이 한국이 우크라이나에 살상무기를 지원할 경우 보복할 수밖에 없다고 재차 경고했다.",
+      "source": "한국일보",
+      "source_url": "https://www.hankookilbo.com",
+      "date": "2026-03-29"
+    },
+    {
+      "id": "5",
       "category": "domestic",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/view/AKR20260328053500004",
-      "publishedAt": "2026-03-29T06:55:00+09:00"
-    },
-    {
-      "title": "생성형 AI 확산에도 검색은 죽지 않았다…오히려 시장 더 커져",
-      "summary": "생성형 AI가 기존 검색을 대체할 것이라는 예상과 달리, AI와 검색 엔진이 서로 보완되며 전체 검색 수요를 키웠다는 분석이다.\n구글 검색량이 늘고 네이버와 챗GPT 교차 이용자도 급증하면서, AI가 초안을 만들고 검색이 검증하는 이용 패턴이 굳어지고 있다.",
-      "category": "ai-tech",
+      "title": "한국 축구, 코트디부아르에 0-4 대패…월드컵 앞두고 충격",
+      "summary": "홍명보호가 친선경기에서 코트디부아르에 0-4로 대패했다. 월드컵 3개월을 앞둔 시점에 수비 조직력과 전술 문제가 도마에 올랐다.",
       "source": "뉴시스",
-      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260327_0003567392",
-      "publishedAt": "2026-03-29T08:00:00+09:00",
-      "id": "4"
+      "source_url": "https://www.newsis.com",
+      "date": "2026-03-29"
     },
     {
-      "title": "한국인 절반 가까이 AI 쓴다…월평균 사용시간 2시간 15분",
-      "summary": "와이즈앱 집계에 따르면 생성형 AI 앱 사용자 1인당 월평균 사용 시간이 2시간 15분으로 늘었고, 실행 횟수도 1년 새 60% 이상 증가했다.\n정부는 200만명 규모 AI 경진대회를, 카카오는 지역 AI 기업 100개 육성 계획을 내놓으며 AI 대중화 경쟁에 속도를 내고 있다.",
-      "category": "ai-tech",
-      "source": "연합뉴스",
-      "sourceUrl": "https://www.yna.co.kr/view/AKR20260327136300017",
-      "publishedAt": "2026-03-29T09:30:00+09:00",
-      "id": "5"
-    },
-    {
-      "title": "이란, 사우디 미군 공군기지 공습…부상자 속출",
-      "summary": "이란이 사우디 내 프린스술탄 미군 공군기지를 미사일과 드론으로 타격해 10여명 이상의 부상자가 발생하고 공중급유기 여러 대가 파손된 것으로 전해졌다.\n중동 분쟁이 주변국 미군 기지까지 번지면서 미국의 군사 부담과 역내 긴장이 더 커지고 있다.",
-      "category": "world",
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4406497",
-      "publishedAt": "2026-03-29T02:19:10+09:00",
-      "id": "6"
-    },
-    {
-      "title": "미·이란 대면 협상 조짐에도 공습 지속…국제유가 급등",
-      "summary": "미국과 이란이 직접 협상에 나설 가능성이 제기됐지만, 이스라엘의 이란 핵·에너지 시설 공습이 이어지며 협상 동력이 흔들리고 있다.\n분쟁 장기화 우려에 국제유가와 브렌트유 선물이 급등했고, 뉴욕 증시도 일제히 약세로 마감했다.",
-      "category": "world",
-      "source": "YTN",
-      "sourceUrl": "https://www.ytn.co.kr/_ln/0134_202603281350445154",
-      "publishedAt": "2026-03-28T13:50:00+09:00",
-      "id": "7"
-    },
-    {
-      "title": "정부 “WGBI 편입 땐 환율 안정·금리 하락 선순환 기대”",
-      "summary": "구윤철 부총리는 한국 국채의 세계국채지수(WGBI) 편입이 외국 자금 유입을 늘려 환율 안정과 국채금리 하락에 도움이 될 것이라고 밝혔다.\n정부는 4월부터 11월까지 순차 편입에 맞춰 외국인 투자 편의를 점검하며 성장률 제고 효과까지 기대하고 있다.",
+      "id": "6",
       "category": "economy",
-      "source": "연합인포맥스",
-      "sourceUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4406511",
-      "publishedAt": "2026-03-29T09:29:18+09:00",
-      "id": "8"
+      "title": "'고환율·고유가'에 한국 경제 '신음'…기업도 서민도 '멈췄다'",
+      "summary": "중동 사태로 유가가 급등하고 환율이 1,500원에 근접하면서 기업 투자와 서민 소비가 동시에 위축되고 있다.",
+      "source": "파이낸셜투데이",
+      "source_url": "https://www.ftoday.co.kr",
+      "date": "2026-03-29"
     },
     {
-      "title": "미·이란 휴전하더라도 실물경제 정상화엔 시간 걸린다",
-      "summary": "미국과 이란의 휴전이 성사되더라도 국지전 재발 가능성과 파손된 에너지·물류 인프라 때문에 실물경제가 빠르게 회복되긴 어렵다는 분석이 나왔다.\n호르무즈 해협 통행세와 보험료 급등 가능성까지 거론되면서 유가와 물류비 부담이 장기화할 수 있다는 우려가 커지고 있다.",
+      "id": "7",
+      "category": "ai_tech",
+      "title": "GPU 잡는 NPU 한국에 있다…AI반도체 2세대 승부사들",
+      "summary": "GPU 중심 AI 반도체 시장에서 한국 기업들이 NPU(신경망처리장치) 기반 2세대 AI 칩으로 틈새를 노리고 있다.",
+      "source": "중앙일보",
+      "source_url": "https://www.joongang.co.kr",
+      "date": "2026-03-29"
+    },
+    {
+      "id": "8",
+      "category": "ai_tech",
+      "title": "생성형 AI서 밀린 한국, 피지컬 AI 3년 승부수 통할까",
+      "summary": "생성형 AI 경쟁에서 뒤처진 한국이 로봇·자율주행 등 피지컬 AI 분야에 3년간 집중 투자하는 승부수를 던졌다.",
+      "source": "노컷뉴스",
+      "source_url": "https://www.nocutnews.co.kr",
+      "date": "2026-03-29"
+    },
+    {
+      "id": "9",
+      "category": "international",
+      "title": "G7 '호르무즈 통행료' 거부 공동성명…한국도 참관국 자격 참석",
+      "summary": "G7이 이란의 호르무즈해협 통행료 요구를 공식 거부하는 공동성명을 발표했다. 한국은 참관국 자격으로 참석했다.",
+      "source": "파이낸셜뉴스",
+      "source_url": "https://www.fnnews.com",
+      "date": "2026-03-29"
+    },
+    {
+      "id": "10",
       "category": "economy",
-      "source": "뉴시스",
-      "sourceUrl": "https://www.newsis.com/view/NISX20260327_0003567487",
-      "publishedAt": "2026-03-29T09:00:00+09:00",
-      "id": "9"
-    },
-    {
-      "title": "“앞으로 1년 부동산 시장, 보유세에 달렸다”",
-      "summary": "KBS 인터뷰에서 채상욱 대표는 서울 주택시장이 고가·중저가 구간으로 갈라져 움직이고 있으며, 향후 1년 시장 방향을 가르는 핵심 변수로 보유세를 지목했다.\n대출 규제와 공시가격, 세금 부담이 가격대별로 다르게 작용하면서 서울은 이미 ‘두 개의 시장’으로 분화됐다는 진단이다.",
-      "category": "realestate",
-      "source": "KBS",
-      "sourceUrl": "https://news.kbs.co.kr/news/view.do?ncd=8521085",
-      "publishedAt": "2026-03-29T07:02:00+09:00",
-      "id": "10"
-    },
-    {
-      "title": "이 대통령 “다주택 공직자에 매각 압박 안 해”…정책으로 집값 잡겠다",
-      "summary": "이재명 대통령이 다주택 공직자에게 주택 매각을 강요하지 않겠다고 밝히며, 세제·금융·규제만으로도 집값 안정을 이룰 수 있다고 강조했다.\n정부는 동시에 부동산 정책 결정 과정에서 이해관계가 개입되지 않도록 담당 공직자 보유 현황 파악과 배제 기준 정비에 들어갔다.",
-      "category": "realestate",
-      "source": "연합뉴스TV",
-      "sourceUrl": "https://www.yonhapnewstv.co.kr/news/MYH20260329085904Fp9",
-      "publishedAt": "2026-03-29T09:01:22+09:00",
-      "id": "11"
-    },
-    {
-      "title": "예스24 랜섬웨어 사고 9개월째 조사 지연…피해 전모 아직 안갯속",
-      "summary": "예스24 랜섬웨어 사고가 발생한 지 9개월이 지났지만, 개인정보위의 종합 조사 결과와 제재 수위 발표가 아직 나오지 않았다.\nKISA 기술지원 결과에 따르면 지원 종료 윈도 운영체계 사용과 백업 체계 미비가 사고 취약성을 키운 요인으로 지목됐다.",
-      "category": "security",
-      "source": "ZDNET Korea",
-      "sourceUrl": "https://zdnet.co.kr/view/?no=20260327164201",
-      "publishedAt": "2026-03-29T08:00:02+09:00",
-      "id": "12"
-    },
-    {
-      "title": "랜섬웨어 침투 방식 더 교묘해졌다…협업툴 사회공학·가짜 오류창 악용",
-      "summary": "아레테의 연례 보고서에 따르면 최근 랜섬웨어 조직은 네트워크 장비 취약점뿐 아니라 팀즈 같은 협업툴과 가짜 오류창을 활용한 사회공학 기법으로 초기 침투를 넓히고 있다.\n사용자가 직접 악성 명령을 실행하도록 유도하는 ‘클릭픽스’류 공격이 확산되면서 대응 전략 재정비가 시급하다는 경고가 나왔다.",
-      "category": "security",
-      "source": "GTT KOREA",
-      "sourceUrl": "https://www.gttkorea.com/news/articleView.html?idxno=25083",
-      "publishedAt": "2026-03-29T00:20:00+09:00",
-      "id": "13"
-    },
-    {
-      "title": "AI가 계속 칭찬하면 왜 위험한가…과학자가 본 ‘아첨형 챗봇’ 문제",
-      "summary": "동아사이언스는 AI가 사용자의 말에 과도하게 동조하고 칭찬하는 ‘아첨형 응답’이 오히려 판단을 흐리고 인간-AI 관계를 왜곡할 수 있다고 짚었다.\n정확성보다 기분 맞추기에 치우친 챗봇 설계가 정보 신뢰와 의사결정 품질을 떨어뜨릴 수 있다는 점이 핵심 문제로 제기됐다.",
-      "category": "science",
-      "source": "동아사이언스",
-      "sourceUrl": "https://www.dongascience.com/ko/news/77072",
-      "publishedAt": "2026-03-29T08:00:00+09:00",
-      "id": "14"
-    },
-    {
-      "title": "계란이 의약품 공장으로…유전자 조작 닭 상용화 경쟁",
-      "summary": "유전자 조작 닭이 낳는 달걀에서 치료용 단백질을 생산하는 기술이 상용화 단계로 다가서며 바이오 생산 플랫폼으로 주목받고 있다.\n기존 세포배양보다 생산 효율과 비용 경쟁력이 높을 수 있어, 희귀질환 치료제와 바이오의약품 제조 방식의 변화를 예고한다.",
-      "category": "science",
-      "source": "동아사이언스",
-      "sourceUrl": "https://www.dongascience.com/news/77069",
-      "publishedAt": "2026-03-29T08:00:00+09:00",
-      "id": "15"
-    },
-    {
-      "title": "Anthropic 유료 구독자 급증…Claude 소비자 확산 가속",
-      "summary": "TechCrunch 분석에 따르면 Claude의 미국 유료 구독자 수가 2026년 들어 두 배 이상 늘었고, 1~2월 신규 가입과 복귀 사용자 증가세가 특히 가팔랐다. Claude Code 인기와 광고 없는 제품 전략, 국방부와의 갈등으로 인한 주목도가 소비자 확산을 밀어올린 것으로 해석된다.",
-      "category": "ai-tech",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
-      "publishedAt": "2026-03-29T02:35:00Z",
-      "id": "16"
-    },
-    {
-      "title": "Anthropic, Google TPU 최대 100만개 확보…컴퓨팅 전쟁 본격화",
-      "summary": "AP에 따르면 Anthropic은 Google과 수십억 달러 규모 계약을 맺고 최대 100만개의 AI 칩과 2026년 중 1기가와트 이상급 컴퓨팅 용량을 확보하기로 했다. Claude 수요 확대에 맞춰 Nvidia·Amazon에 더해 Google 인프라까지 끌어들이며 초거대 모델 경쟁의 핵심이 자본보다 전력·칩 수급으로 이동하고 있다.",
-      "category": "ai-tech",
-      "source": "AP News",
-      "sourceUrl": "https://apnews.com/article/anthropic-google-275df9e291bbb361962dfc6ba868506c",
-      "publishedAt": "2026-03-27T00:00:00Z",
-      "id": "17"
-    },
-    {
-      "title": "Claude, 무료 사용자까지 메모리 개방…ChatGPT·Gemini 전환 유도",
-      "summary": "The Verge에 따르면 Anthropic은 Claude 메모리 기능을 무료 플랜까지 확대하고, 다른 챗봇의 대화 맥락을 옮겨오는 전용 임포트 도구를 추가했다. 경쟁 서비스에서 쌓인 개인화 문맥을 손쉽게 이전하게 만들어 전환 비용을 낮추고 사용자 락인을 강화하려는 전략으로 보인다.",
-      "category": "ai-tech",
-      "source": "The Verge",
-      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
-      "publishedAt": "2026-03-27T00:00:00Z",
-      "id": "18"
-    },
-    {
-      "title": "Claude Code 자동 모드 공개…승인 절차를 AI가 자체 판단",
-      "summary": "TechCrunch에 따르면 Anthropic은 Claude Code의 새 auto mode를 연구 프리뷰로 공개했다. 모델이 각 행동의 위험도를 자체 판단해 안전한 작업은 자동 실행하고 위험한 작업만 막거나 승인 요청하는 구조로, 개발 생산성을 높이되 프롬프트 인젝션과 과도한 권한 문제를 방어하려는 절충안이다.",
-      "category": "ai-tech",
-      "source": "TechCrunch",
-      "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
-      "publishedAt": "2026-03-24T21:00:00Z",
-      "id": "19"
-    },
-    {
-      "title": "Claude, 휴대폰 지시로 PC 작업 수행…에이전트 경쟁 전면전",
-      "summary": "CNBC에 따르면 Anthropic은 사용자가 휴대폰에서 지시하면 Claude가 데스크톱에서 앱 실행, 브라우저 조작, 스프레드시트 입력 같은 작업을 대신 수행하는 기능을 내놨다. 개인 비서형 AI가 실제 OS를 만지는 단계로 넘어가며, 에이전트 시장 경쟁이 채팅을 넘어 실행력으로 옮겨가고 있다.",
-      "category": "ai-tech",
-      "source": "CNBC",
-      "sourceUrl": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html",
-      "publishedAt": "2026-03-24T00:00:00Z",
-      "id": "20"
+      "title": "한국 WGBI 편입 본격화…금리·환율 안정 기대↑",
+      "summary": "세계국채지수(WGBI) 편입이 본격화되면서 외국인 채권 자금 유입으로 금리와 환율 안정에 기여할 것이란 기대가 커지고 있다.",
+      "source": "네이트",
+      "source_url": "https://news.nate.com",
+      "date": "2026-03-29"
     }
   ]
 }
