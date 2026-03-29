@@ -1,29 +1,41 @@
 [
   {
     "id": "pin-1",
-    "type": "research",
+    "type": "scrap",
     "title": "gstack 분석 — Claude Code를 가상 팀으로",
     "summary": "Y Combinator CEO Garry Tan의 gstack. 20개 스킬로 Claude Code를 CEO/디자이너/QA/릴리즈 팀으로 변환. CSO(보안감사)와 retro(회고) 스킬 선별 도입.",
     "url": "https://github.com/garrytan/gstack",
     "date": "2026-03-29",
-    "tags": ["AI", "개발도구", "Claude"]
+    "tags": [
+      "AI",
+      "개발도구",
+      "Claude"
+    ]
   },
   {
     "id": "pin-2",
-    "type": "research",
+    "type": "scrap",
     "title": "ClawRouter 검토 — 에이전트용 LLM 라우터",
     "summary": "15차원 요청 분석으로 55+ 모델 자동 라우팅. USDC 크립토 결제. 금융사 직접 도입 불가하지만 스마트 라우팅 개념은 자체 구현 가치 있음.",
     "url": "https://github.com/BlockRunAI/ClawRouter",
     "date": "2026-03-29",
-    "tags": ["인프라", "LLM", "비용최적화"]
+    "tags": [
+      "인프라",
+      "LLM",
+      "비용최적화"
+    ]
   },
   {
     "id": "pin-3",
-    "type": "research",
+    "type": "scrap",
     "title": "Codex 서브에이전트 136개 — VoltAgent 컬렉션",
     "summary": "VoltAgent의 awesome-codex-subagents. 10개 카테고리 136개 .toml 에이전트. security-auditor, reviewer, qa-expert 등 8개 선별 설치.",
     "url": "https://github.com/VoltAgent/awesome-codex-subagents",
     "date": "2026-03-29",
-    "tags": ["AI", "Codex", "에이전트"]
+    "tags": [
+      "AI",
+      "Codex",
+      "에이전트"
+    ]
   }
 ]

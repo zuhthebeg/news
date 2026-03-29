@@ -1,0 +1,14 @@
+{
+  "date": "2026-03-30",
+  "articles": [
+    {
+      "id": "1",
+      "category": "security",
+      "title": "[단독] \"설치형 보안 SW 다 빼!\"... 정부 지시에 여의도 금융권 '패닉'",
+      "summary": "정부가 금융권에 설치형 보안 소프트웨어(키보드보안, 방화벽, 백신) 전면 폐지를 지시했다. MFA+AI FDS로 서버 중심 보안 전환을 추진하지만, PC 환경 대안이 전무해 은행·증권사가 패닉에 빠졌다. 사고 시 배상 책임 전환이 최대 쟁점.",
+      "source": "보안뉴스",
+      "source_url": "https://m.boannews.com/html/detail.html?idx=142897&skind=6",
+      "date": "2026-03-30"
+    }
+  ]
+}
