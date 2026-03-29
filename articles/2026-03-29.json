@@ -135,6 +135,51 @@
       "sourceUrl": "https://www.dongascience.com/news/77069",
       "publishedAt": "2026-03-29T08:00:00+09:00",
       "id": "15"
+    },
+    {
+      "title": "Anthropic 유료 구독자 급증…Claude 소비자 확산 가속",
+      "summary": "TechCrunch 분석에 따르면 Claude의 미국 유료 구독자 수가 2026년 들어 두 배 이상 늘었고, 1~2월 신규 가입과 복귀 사용자 증가세가 특히 가팔랐다. Claude Code 인기와 광고 없는 제품 전략, 국방부와의 갈등으로 인한 주목도가 소비자 확산을 밀어올린 것으로 해석된다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "publishedAt": "2026-03-29T02:35:00Z",
+      "id": "16"
+    },
+    {
+      "title": "Anthropic, Google TPU 최대 100만개 확보…컴퓨팅 전쟁 본격화",
+      "summary": "AP에 따르면 Anthropic은 Google과 수십억 달러 규모 계약을 맺고 최대 100만개의 AI 칩과 2026년 중 1기가와트 이상급 컴퓨팅 용량을 확보하기로 했다. Claude 수요 확대에 맞춰 Nvidia·Amazon에 더해 Google 인프라까지 끌어들이며 초거대 모델 경쟁의 핵심이 자본보다 전력·칩 수급으로 이동하고 있다.",
+      "category": "ai-tech",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/anthropic-google-275df9e291bbb361962dfc6ba868506c",
+      "publishedAt": "2026-03-27T00:00:00Z",
+      "id": "17"
+    },
+    {
+      "title": "Claude, 무료 사용자까지 메모리 개방…ChatGPT·Gemini 전환 유도",
+      "summary": "The Verge에 따르면 Anthropic은 Claude 메모리 기능을 무료 플랜까지 확대하고, 다른 챗봇의 대화 맥락을 옮겨오는 전용 임포트 도구를 추가했다. 경쟁 서비스에서 쌓인 개인화 문맥을 손쉽게 이전하게 만들어 전환 비용을 낮추고 사용자 락인을 강화하려는 전략으로 보인다.",
+      "category": "ai-tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+      "publishedAt": "2026-03-27T00:00:00Z",
+      "id": "18"
+    },
+    {
+      "title": "Claude Code 자동 모드 공개…승인 절차를 AI가 자체 판단",
+      "summary": "TechCrunch에 따르면 Anthropic은 Claude Code의 새 auto mode를 연구 프리뷰로 공개했다. 모델이 각 행동의 위험도를 자체 판단해 안전한 작업은 자동 실행하고 위험한 작업만 막거나 승인 요청하는 구조로, 개발 생산성을 높이되 프롬프트 인젝션과 과도한 권한 문제를 방어하려는 절충안이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "publishedAt": "2026-03-24T21:00:00Z",
+      "id": "19"
+    },
+    {
+      "title": "Claude, 휴대폰 지시로 PC 작업 수행…에이전트 경쟁 전면전",
+      "summary": "CNBC에 따르면 Anthropic은 사용자가 휴대폰에서 지시하면 Claude가 데스크톱에서 앱 실행, 브라우저 조작, 스프레드시트 입력 같은 작업을 대신 수행하는 기능을 내놨다. 개인 비서형 AI가 실제 OS를 만지는 단계로 넘어가며, 에이전트 시장 경쟁이 채팅을 넘어 실행력으로 옮겨가고 있다.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/03/24/anthropic-claude-ai-agent-use-computer-finish-tasks.html",
+      "publishedAt": "2026-03-24T00:00:00Z",
+      "id": "20"
     }
   ]
 }
