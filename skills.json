@@ -153,6 +153,45 @@
         "배포"
       ],
       "addedAt": "2026-03-28"
+    },
+    {
+      "title": "OpenClaw 백업/복원",
+      "description": "워크스페이스, 메모리, 스킬, 자격증명, 세션 기록까지 한 번에 백업하고 복원하는 스킬.\n새 인스턴스로 옮길 때 재페어링 없이 복구 가능.",
+      "icon": "🗄️",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/myclaw-backup",
+      "tags": [
+        "백업",
+        "복원",
+        "마이그레이션"
+      ],
+      "addedAt": "2026-03-30"
+    },
+    {
+      "title": "최근 30일 트렌드 리서치",
+      "description": "Reddit, X, YouTube, HN 등에서 최근 30일 흐름을 모아 요약하는 스킬.\n지금 실제로 뭐가 뜨는지 확인할 때 유용하다.",
+      "icon": "📈",
+      "category": "data",
+      "url": "https://clawhub.com/skills/last30days-official",
+      "tags": [
+        "트렌드",
+        "리서치",
+        "소셜"
+      ],
+      "addedAt": "2026-03-30"
+    },
+    {
+      "title": "AI 이미지 프롬프트 추천",
+      "description": "10,000개 이상의 이미지 프롬프트 중에서 목적에 맞는 예시를 찾아 추천하는 스킬.\n썸네일, 캐릭터, 마케팅 이미지 프롬프트 탐색에 좋다.",
+      "icon": "🖼️",
+      "category": "media",
+      "url": "https://clawhub.com/skills/nano-banana-pro-prompts-recommend",
+      "tags": [
+        "이미지",
+        "프롬프트",
+        "Gemini"
+      ],
+      "addedAt": "2026-03-30"
     }
   ]
 }
