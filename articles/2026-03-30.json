@@ -126,6 +126,51 @@
       "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-transporter-16-rideshare-mission-launch",
       "publishedAt": "2026-03-30T07:00:00+09:00",
       "id": "14"
+    },
+    {
+      "id": "15",
+      "title": "Anthropic 유료 Claude 구독 급증…소비자 시장 존재감 확대",
+      "summary": "TechCrunch 분석에 따르면 미국 소비자 카드 결제 데이터 기준으로 Claude 유료 구독이 1~2월 사이 급증했고, 재방문 사용자도 크게 늘었다. 슈퍼볼 광고, 국방부와의 갈등 이슈, Claude Code·Computer Use 같은 기능이 맞물리며 Anthropic의 소비자 인지도가 빠르게 올라가는 흐름이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/28/anthropics-claude-popularity-with-paying-consumers-is-skyrocketing/",
+      "publishedAt": "2026-03-28T14:15:00+00:00"
+    },
+    {
+      "id": "16",
+      "title": "Anthropic, Claude 메모리 기능 무료 개방…타 챗봇 데이터 가져오기 지원",
+      "summary": "Anthropic이 Claude의 메모리 기능을 무료 사용자에게도 개방하고, ChatGPT·Gemini 등 다른 챗봇에서 축적한 정보를 옮겨올 수 있는 가져오기 도구를 추가했다. 사용자 락인을 깨고 전환 비용을 낮춰 점유율을 키우려는 전략으로 읽힌다.",
+      "category": "ai-tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/887885/anthropic-claude-memory-upgrades-importing",
+      "publishedAt": "2026-03-02T22:29:46+00:00"
+    },
+    {
+      "id": "17",
+      "title": "Claude Code에 자동 승인 모드 도입…개발 에이전트 자율성 확대",
+      "summary": "Anthropic이 Claude Code 연구 프리뷰에 안전 판단을 끼운 auto mode를 도입했다. 저위험 작업은 모델이 스스로 실행하고 위험 작업만 차단·승인 요청하는 구조로, 코딩 에이전트 경쟁이 수동 보조에서 반자동 실행으로 넘어가고 있다는 신호다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/24/anthropic-hands-claude-code-more-control-but-keeps-it-on-a-leash/",
+      "publishedAt": "2026-03-24T21:00:30+00:00"
+    },
+    {
+      "id": "18",
+      "title": "Google, Gemini 3.1 Flash Live 공개…실시간 음성 AI 인간화 가속",
+      "summary": "Ars Technica에 따르면 Gemini 3.1 Flash Live는 사람처럼 끊기고 망설이는 음성 대화 처리 능력을 끌어올렸고, Search Live·Gemini Live·API에 순차 반영된다. 음성 AI가 콜센터·고객응대까지 더 자연스럽게 파고들면서 합성 음성 식별과 워터마킹의 중요성도 같이 커지고 있다.",
+      "category": "ai-tech",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/03/the-debut-of-gemini-3-1-flash-live-could-make-it-harder-to-know-if-youre-talking-to-a-robot/",
+      "publishedAt": "2026-03-26T17:44:07+00:00"
+    },
+    {
+      "id": "19",
+      "title": "OpenAI, Sora 종료 수순…AI 비디오보다 업무·생산성으로 축 이동",
+      "summary": "OpenAI가 영상 생성 앱 Sora 종료 계획을 공식화했다. 대중 주목도는 컸지만 회사가 사업 우선순위를 생산성·비즈니스 애플리케이션 쪽으로 재정렬하는 흐름이 드러났고, 생성형 AI 시장에서도 무엇이 실제 수익 사업인지 다시 가려지는 단계에 들어갔다.",
+      "category": "ai-tech",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/03/openai-plans-to-shut-down-sora-just-15-months-after-its-launch/",
+      "publishedAt": "2026-03-24T21:19:50+00:00"
     }
   ]
 }
