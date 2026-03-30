@@ -36,6 +36,96 @@
       "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBaOEZPbEJ3M3BZQnhSZDM0V3dYVVFielphTzRNVUlRemk0cTVSUEJqS21FeGxlczVhaEZtcG1faUtBMFBtdkF0aTc3VHN1QkZBbDdTQTM0cTF5N21yc3ZCZGRjTDZ6WFFtYm91aw?oc=5",
       "publishedAt": "2026-03-27T09:27:13Z",
       "id": "4"
+    },
+    {
+      "category": "ai-tech",
+      "title": "블루스카이, AI로 맞춤형 피드 만드는 앱 ‘Attie’ 공개",
+      "summary": "블루스카이 팀이 자연어로 원하는 주제를 입력하면 맞춤형 피드를 생성해주는 AI 앱 ‘Attie’를 공개했다.\nAnthropic의 Claude와 AT Protocol 기반으로 동작하며, 장기적으로는 코딩 없이도 앱을 만드는 방향까지 확장하겠다는 계획이다.",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/903190/bluesky-attie-ai-custom-feeds",
+      "publishedAt": "2026-03-30T06:44:41+09:00",
+      "id": "5"
+    },
+    {
+      "category": "ai-tech",
+      "title": "오픈AI, Sora 앱과 영상 모델 정리…AI 비디오 시장 현실 점검론",
+      "summary": "오픈AI가 출시 6개월 만에 Sora 앱과 관련 영상 모델 정리에 들어가며 사업 우선순위를 기업용·생산성 중심으로 재편하고 있다.\n업계에서는 이번 결정이 AI 영상 도구가 당장 할리우드를 대체할 것이라는 과열 기대를 식히는 신호가 될 수 있다는 평가가 나온다.",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+      "publishedAt": "2026-03-30T01:30:00+09:00",
+      "id": "6"
+    },
+    {
+      "category": "world",
+      "title": "교황 “전쟁을 벌이는 이들의 기도는 거부될 것”",
+      "summary": "레오 14세 교황이 예수는 어떤 전쟁도 정당화하지 않았다며 폭력을 강하게 비판했다.\n특정 국가를 직접 언급하지는 않았지만, 최근 국방부 기도 모임 발언으로 논란이 된 미국 고위 당국자를 겨냥한 메시지라는 해석이 나온다.",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://www.yonhapnewstv.co.kr/news/MYH20260330094149LuM",
+      "publishedAt": "2026-03-30T09:42:03+09:00",
+      "id": "7"
+    },
+    {
+      "category": "world",
+      "title": "이란, 미군 지상전 가능성에 강경 대응 천명…호르무즈 재개방 논의 병행",
+      "summary": "이란 의회 지도부가 미군 지상전 가능성을 거론하며 강경 항전 의지를 재차 밝혔다.\n반면 미국 부통령은 조기 종전 가능성을 언급했고, 중동 각국은 호르무즈 해협 재개방을 위한 외교 협의를 이어가고 있다.",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://www.yonhapnewstv.co.kr/news/MYH20260330093711STY",
+      "publishedAt": "2026-03-30T09:37:45+09:00",
+      "id": "8"
+    },
+    {
+      "category": "economy",
+      "title": "서울 경유 평균 1,900원 돌파…전국 휘발유 2,000원 임박",
+      "summary": "국제유가 급등과 중동발 공급 불안 여파로 서울 평균 경유 가격이 리터당 1,900원을 넘어섰다.\n정부가 최고가격제를 시행 중이지만 상승세가 이어지며 전국 평균 휘발유 가격의 2,000원 돌파 가능성도 제기된다.",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/economy/12002011",
+      "publishedAt": "2026-03-30T09:51:43+09:00",
+      "id": "9"
+    },
+    {
+      "category": "realestate",
+      "title": "금호건설, 계양~강화 고속국도 4공구 수주…김포 핵심 구간 맡는다",
+      "summary": "금호건설이 계양~강화 고속국도 4공구를 수주해 김포 마산동~양촌읍 누산리 4.26km 구간을 시공한다.\n검단·김포한강·계양테크노밸리 등 수도권 서북부 주요 개발축을 잇는 사업으로, 완공 시 교통 혼잡 완화와 이동시간 단축이 기대된다.",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/realestate/12001998",
+      "publishedAt": "2026-03-30T09:42:42+09:00",
+      "id": "10"
+    },
+    {
+      "category": "realestate",
+      "title": "양도세 중과 D-40…서울 아파트 급매 소화 뒤 눈치보기 장세",
+      "summary": "다주택자 양도세 중과 재개를 앞두고 서울 아파트 시장에서 급매 거래가 한차례 소화된 뒤 관망세가 짙어지고 있다.\n업계는 최저가 매물이 줄어든 데다 토지거래허가 시차까지 겹쳐 거래 착시가 나타난다고 보고, 4월 초중순 추가 급매 가능성도 열어두고 있다.",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/realestate/12001997",
+      "publishedAt": "2026-03-30T09:42:22+09:00",
+      "id": "11"
+    },
+    {
+      "category": "security",
+      "title": "NIST DNS 보안 지침 개정·LiteLLM 악성 패키지 유포 주의",
+      "summary": "Help Net Security 주간 정리에 따르면 미국 NIST가 DNS 보안 가이드를 업데이트했고, 동시에 LiteLLM을 사칭한 악성 PyPI 패키지 이슈가 부각됐다.\n오픈소스 생태계 공급망 공격과 기본 인프라 보안 관리가 다시 핵심 리스크로 떠오르고 있다는 신호다.",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/03/29/week-in-review-nist-updates-dns-security-guidance-compromised-litellm-pypi-packages/",
+      "publishedAt": "2026-03-29T17:00:59+09:00",
+      "id": "12"
+    },
+    {
+      "category": "science",
+      "title": "제임스웹·허블 공동 관측으로 토성 대기층의 복잡한 구조 포착",
+      "summary": "제임스웹우주망원경과 허블우주망원경의 상호보완 관측으로 토성 대기의 층별 조성과 변화 양상이 더 선명하게 드러났다.\n연구진은 이번 데이터가 고리 행성의 기상 구조와 계절 변화 이해를 넓히는 데 도움이 될 것으로 보고 있다.",
+      "source": "Live Science",
+      "sourceUrl": "https://www.livescience.com/space/saturn/saturns-chaotic-atmosphere-revealed-in-most-comprehensive-view-yet-by-james-webb-and-hubble-telescopes",
+      "publishedAt": "2026-03-30T01:00:00+09:00",
+      "id": "13"
+    },
+    {
+      "category": "science",
+      "title": "스페이스X, 캘리포니아서 소형 탑재체 119기 동시 발사 예정",
+      "summary": "스페이스X가 캘리포니아에서 라이즈셰어 임무를 통해 위성과 각종 탑재체 119기를 한 번에 궤도로 올리는 발사를 진행한다.\n민간 우주 발사 시장에서 대량·저비용 수송 모델이 계속 확대되고 있음을 보여주는 사례다.",
+      "source": "Space",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/spacex-transporter-16-rideshare-mission-launch",
+      "publishedAt": "2026-03-30T07:00:00+09:00",
+      "id": "14"
     }
   ]
 }
