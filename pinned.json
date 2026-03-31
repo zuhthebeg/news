@@ -51,5 +51,19 @@
       "OpenAI",
       "플러그인"
     ]
+  },
+  {
+    "id": "pin-5",
+    "type": "scrap",
+    "title": "Understudy — 한 번 보여주면 배우는 데스크톱 AI 에이전트",
+    "summary": "GUI/브라우저/셸/메신저 통합 데스크톱 자동화. 한 번 시연하면 의도를 학습해서 스킬로 저장. Playbook(worker+skill 조합)으로 6단계 파이프라인 자동화 가능. macOS 전용, MIT.",
+    "url": "https://github.com/understudy-ai/understudy",
+    "date": "2026-03-31",
+    "tags": [
+      "데스크톱 자동화",
+      "GUI 에이전트",
+      "Teach-by-Demo",
+      "오픈소스"
+    ]
   }
 ]
