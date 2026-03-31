@@ -37,5 +37,19 @@
       "Codex",
       "에이전트"
     ]
+  },
+  {
+    "id": "pin-4",
+    "type": "scrap",
+    "title": "Codex Plugin for Claude Code — OpenAI 공식",
+    "summary": "Claude Code 안에서 Codex를 호출하는 공식 플러그인. /codex:review(리뷰), /codex:rescue(위임), /codex:adversarial-review(도전형). 백그라운드 실행 + 세션 이어하기 지원.",
+    "url": "https://github.com/openai/codex-plugin-cc",
+    "date": "2026-03-31",
+    "tags": [
+      "Codex",
+      "Claude Code",
+      "OpenAI",
+      "플러그인"
+    ]
   }
 ]
