@@ -126,6 +126,51 @@
       "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260330001156.htm",
       "publishedAt": "2026-03-30T21:33:20+09:00",
       "id": "14"
+    },
+    {
+      "id": "15",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Anthropic upgraded its flagship Claude model with stronger coding, longer-running agent workflows, 1M-token context beta, and improved tool use for research and office work.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-6",
+      "publishedAt": "2026-03-31T03:01:00.976Z"
+    },
+    {
+      "id": "16",
+      "title": "Anthropic invests $100 million into the Claude Partner Network",
+      "summary": "Anthropic launched a $100M partner program to speed up Claude enterprise adoption with certification, dedicated technical support, and co-marketing funds.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-partner-network",
+      "publishedAt": "2026-03-31T03:00:57.930Z"
+    },
+    {
+      "id": "17",
+      "title": "Introducing GPT-5.4",
+      "summary": "OpenAI released GPT-5.4 as its new frontier work model, highlighting better coding, native computer use, tool search, and 1M-token context for agentic workflows.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-5-4/",
+      "publishedAt": "2026-03-31T03:00:58.073Z"
+    },
+    {
+      "id": "18",
+      "title": "Introducing GPT-5.4 mini and nano",
+      "summary": "OpenAI introduced faster and cheaper GPT-5.4 mini and nano variants for high-volume coding, multimodal, and sub-agent workloads with stronger latency-cost efficiency.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-5-4-mini-and-nano/",
+      "publishedAt": "2026-03-31T03:00:57.978Z"
+    },
+    {
+      "id": "19",
+      "title": "Introducing the OpenAI Safety Bug Bounty program",
+      "summary": "OpenAI opened a public safety bug bounty that rewards reports on agentic abuse, prompt injection, data exfiltration, and other AI-specific misuse risks.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/safety-bug-bounty/",
+      "publishedAt": "2026-03-31T03:00:58.007Z"
     }
   ]
 }
