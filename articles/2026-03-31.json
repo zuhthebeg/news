@@ -16,7 +16,7 @@
       "summary": "연합뉴스 보도에 따르면 고급 주식 정보를 미끼로 투자금을 뜯어낸 조직의 현금 수거책이 구속됐다. 투자 리딩방 사기 피해가 이어지는 가운데 수사 당국이 추가 공범 추적에 나섰다.",
       "category": "domestic",
       "source": "연합뉴스",
-      "sourceUrl": "https://news.google.com/read/CBMiW0FVX3lxTE5ISWRPWEJqQVE5bDZQMXpCeXp0d1dJaDRKUzdVbG1GMWJLd3EtUmpac29IeDIwRFAxQkZMSC1JN2RTdzZSUTJfWHQ4MHE0YlZwZHpoaWhRR0hlVzDSAWBBVV95cUxNZU85TkZERDR4YWVMel9TcDVoeG5PcDFMSmxoMi1COFNOV0pVMWhjLXVXaEZPUE1ERmFoelNLQTdYR2o1UWd0ZWdzanVfMGpBWC11N0thSXJ2SlFTQjhSMU0?hl=ko&gl=KR&ceid=KR%3Ako",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260330086600064?input=1195m",
       "publishedAt": "2026-03-30T12:00:00+09:00"
     },
     {
@@ -25,8 +25,107 @@
       "summary": "연합뉴스는 종량제 봉투와 각종 포장재 공급 불안이 이어지면서 소상공인 부담이 커지고 있다고 전했다. 현장에서는 4월에 상황이 더 악화할 수 있다는 우려가 나온다.",
       "category": "economy",
       "source": "연합뉴스",
-      "sourceUrl": "https://news.google.com/read/CBMiW0FVX3lxTE1objhEUXlCZWRyN2gwWjJCeGlFM3lYTUZKZ3Y0S0VhM0RITXRlVmtOU056dkxDZFBreHNaRmxtaTduWHRQZkd3enFuMzdmdkNFOEh5LW5feER6d2fSAWBBVV95cUxPaEhLUTRCMjF3VkJVRkVQUnhfOVFlSnV0SmJtWkdrd1dYNVNWZnhUR3dRcC14ZGc5T1l3dTJiT3E0QlJwZnZ6cENmbDVSUGJGa0JuUTl6VWF4ejRQalVYMlA?hl=ko&gl=KR&ceid=KR%3Ako",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260330156100030?input=1195m",
       "publishedAt": "2026-03-31T07:00:00+09:00"
+    },
+    {
+      "title": "미국인 15%, “직속 상사가 AI여도 괜찮다” 조사 결과",
+      "summary": "퀴니피액대 여론조사에서 미국인 15%가 업무 지시와 일정 관리를 AI가 맡는 상사 체계를 받아들일 수 있다고 답했다. 생성형 AI 확산으로 업무 자동화 수용성은 커졌지만, 실제 조직 운영에 AI를 얼마나 맡길지는 여전히 논쟁거리로 남아 있다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/ai-work-boss-supervisor-us-quinnipiac-poll/",
+      "publishedAt": "2026-03-31T08:41:48+09:00",
+      "id": "4"
+    },
+    {
+      "title": "AI 게이트웨이 스타트업 LiteLLM, 논란 업체 Delve와 결별",
+      "summary": "LiteLLM은 보안 인증을 진행했던 Delve와 관계를 끊었다고 밝혔다. Delve를 둘러싼 논란과 최근 자격 증명 탈취 악성코드 피해가 겹치면서, AI 인프라 스타트업의 공급망·컴플라이언스 관리 리스크가 다시 부각되고 있다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+      "publishedAt": "2026-03-31T08:08:12+09:00",
+      "id": "5"
+    },
+    {
+      "title": "이란 전쟁 여파에 유가 배럴당 115달러…경기 둔화 우려 확대",
+      "summary": "뉴욕타임스는 이란 관련 전쟁 리스크가 커지면서 국제유가가 배럴당 115달러까지 뛰었다고 전했다. 시장에서는 전쟁 장기화 시 글로벌 성장 둔화는 물론 경기침체 가능성까지 가격에 반영하기 시작했다.",
+      "category": "economy",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/03/30/business/dealbook/iran-war-oil-economy.html",
+      "publishedAt": "2026-03-30T20:38:58+09:00",
+      "id": "6"
+    },
+    {
+      "title": "두바이 인근서 쿠웨이트 유조선 피격·화재…중동 긴장 고조",
+      "summary": "두바이 인근 해역에서 원유를 실은 쿠웨이트 유조선이 피격돼 화재와 선체 손상을 입었다. 유출 가능성까지 제기되면서, 트럼프 대통령의 대이란 경고 직후 중동 에너지 수송로 불안이 더 커지고 있다.",
+      "category": "world",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/live/2026/03/30/world/iran-war-trump-oil-news",
+      "publishedAt": "2026-03-31T09:57:57+09:00",
+      "id": "7"
+    },
+    {
+      "title": "이스라엘, 치명적 공격 가담 팔레스타인 사형법 통과",
+      "summary": "이스라엘 의회가 치명적 공격으로 유죄 판결을 받은 팔레스타인인에 대해 교수형을 가능하게 하는 법안을 통과시켰다. 전문가들은 법 문구상 유사 범죄를 저지른 유대계 극단주의자에게는 사실상 적용되기 어렵다고 지적했다.",
+      "category": "world",
+      "source": "The New York Times",
+      "sourceUrl": "https://www.nytimes.com/2026/03/30/world/middleeast/israel-death-penalty-palestinians-attacks.html",
+      "publishedAt": "2026-03-31T06:20:31+09:00",
+      "id": "8"
+    },
+    {
+      "title": "오스틴 시의회, 중간밀도 주택 확대 위한 새 용도지역 규제 추진",
+      "summary": "미국 텍사스 오스틴이 듀플렉스·포플렉스 같은 ‘미싱 미들’ 주택 공급을 늘리기 위한 토지 이용 규제 완화에 나섰다. 공급 부족을 줄이고 집값 상승세를 완화하려는 시도로, 대도시 주거정책 실험의 대표 사례로 주목된다.",
+      "category": "realestate",
+      "source": "HousingWire",
+      "sourceUrl": "https://www.housingwire.com/articles/austin-zoning-missing-middle/",
+      "publishedAt": "2026-03-31T05:30:10+09:00",
+      "id": "9"
+    },
+    {
+      "title": "미국 ROAD to Housing 법안, 주택 구매 부담 완화 해법으로 부상",
+      "summary": "HousingWire는 ROAD to Housing 법안이 공급 인센티브, 부속주거유닛(ADU) 지원, 소액 모기지 개선책을 통해 주택 구매 부담을 낮추는 데 초점을 맞추고 있다고 전했다. 미국의 주택 affordability 격차를 줄일 수 있을지 정책 효과가 주목된다.",
+      "category": "realestate",
+      "source": "HousingWire",
+      "sourceUrl": "https://www.housingwire.com/articles/how-the-road-to-housing-act-could-improve-home-affordability/",
+      "publishedAt": "2026-03-31T05:09:35+09:00",
+      "id": "10"
+    },
+    {
+      "title": "오픈AI, ChatGPT 데이터 유출 취약점과 Codex GitHub 토큰 문제 패치",
+      "summary": "체크포인트에 따르면 악성 프롬프트 하나만으로 대화 내용과 업로드 파일 등 민감 정보가 외부로 빠져나갈 수 있는 ChatGPT 취약점이 발견됐다. 오픈AI는 관련 데이터 유출 문제와 Codex의 GitHub 토큰 취약점을 모두 수정했다고 밝혔다.",
+      "category": "security",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/03/openai-patches-chatgpt-data.html",
+      "publishedAt": "2026-03-31T03:05:00+09:00",
+      "id": "11"
+    },
+    {
+      "title": "DeepLoad 악성코드, ClickFix·WMI 지속성으로 브라우저 자격 증명 탈취",
+      "summary": "새로 확인된 DeepLoad 캠페인은 ClickFix 사회공학 기법으로 악성 로더를 퍼뜨리고 WMI 기반 지속성을 확보한 뒤 브라우저 비밀번호와 세션 정보를 훔친다. 연구진은 AI 보조 난독화와 프로세스 인젝션까지 활용해 탐지를 회피했을 가능성을 지적했다.",
+      "category": "security",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/03/deepload-malware-uses-clickfix-and-wmi.html",
+      "publishedAt": "2026-03-31T00:47:00+09:00",
+      "id": "12"
+    },
+    {
+      "title": "무릎 관절염 통증, 약보다 보조기·수중치료·운동이 더 효과적",
+      "summary": "약 1만 명 환자 데이터를 분석한 결과, 무릎 보조기와 수중치료, 운동 같은 비약물 치료가 관절염 통증 완화와 기능 개선에 큰 효과를 보였다. 연구진은 흔한 진통제의 부작용 위험을 줄이면서도 비용 부담이 낮은 치료 전략이 될 수 있다고 봤다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260330084511.htm",
+      "publishedAt": "2026-03-30T21:52:03+09:00",
+      "id": "13"
+    },
+    {
+      "title": "웹 우주망원경, 기존 물리학으로 설명 어려운 7시간 폭발 포착",
+      "summary": "제임스 웹 우주망원경과 여러 관측망이 통상 1분 안팎에 끝나는 감마선 폭발과 달리 7시간이나 지속된 이례적 우주 폭발을 관측했다. 천문학자들은 기존 이론으로 설명하기 어려운 현상이라며 폭발 메커니즘 재검토가 필요하다고 보고 있다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/03/260330001156.htm",
+      "publishedAt": "2026-03-30T21:33:20+09:00",
+      "id": "14"
     }
   ]
 }
