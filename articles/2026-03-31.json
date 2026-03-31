@@ -1,0 +1,32 @@
+{
+  "date": "2026-03-31",
+  "articles": [
+    {
+      "id": "1",
+      "title": "김부겸 “대구가 국힘 버려야 보수 산다”…12년 만에 시장 재도전",
+      "summary": "김부겸 전 국무총리가 대구시장 출마를 공식 선언했다. 대구 경제 위기의 원인을 보수정당 독점 구조로 짚으며, 여당과 정부 지원을 끌어와 지역 현안을 풀겠다고 밝혔다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202603302041005",
+      "publishedAt": "2026-03-30T20:41:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "“고급 주식 정보 주겠다” 투자 사기 조직 현금수거책 구속",
+      "summary": "연합뉴스 보도에 따르면 고급 주식 정보를 미끼로 투자금을 뜯어낸 조직의 현금 수거책이 구속됐다. 투자 리딩방 사기 피해가 이어지는 가운데 수사 당국이 추가 공범 추적에 나섰다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/read/CBMiW0FVX3lxTE5ISWRPWEJqQVE5bDZQMXpCeXp0d1dJaDRKUzdVbG1GMWJLd3EtUmpac29IeDIwRFAxQkZMSC1JN2RTdzZSUTJfWHQ4MHE0YlZwZHpoaWhRR0hlVzDSAWBBVV95cUxNZU85TkZERDR4YWVMel9TcDVoeG5PcDFMSmxoMi1COFNOV0pVMWhjLXVXaEZPUE1ERmFoelNLQTdYR2o1UWd0ZWdzanVfMGpBWC11N0thSXJ2SlFTQjhSMU0?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-30T12:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "포장재 대란에 소상공인 시름…“4월이 더 문제”",
+      "summary": "연합뉴스는 종량제 봉투와 각종 포장재 공급 불안이 이어지면서 소상공인 부담이 커지고 있다고 전했다. 현장에서는 4월에 상황이 더 악화할 수 있다는 우려가 나온다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/read/CBMiW0FVX3lxTE1objhEUXlCZWRyN2gwWjJCeGlFM3lYTUZKZ3Y0S0VhM0RITXRlVmtOU056dkxDZFBreHNaRmxtaTduWHRQZkd3enFuMzdmdkNFOEh5LW5feER6d2fSAWBBVV95cUxPaEhLUTRCMjF3VkJVRkVQUnhfOVFlSnV0SmJtWkdrd1dYNVNWZnhUR3dRcC14ZGc5T1l3dTJiT3E0QlJwZnZ6cENmbDVSUGJGa0JuUTl6VWF4ejRQalVYMlA?hl=ko&gl=KR&ceid=KR%3Ako",
+      "publishedAt": "2026-03-31T07:00:00+09:00"
+    }
+  ]
+}
