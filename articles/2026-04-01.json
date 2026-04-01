@@ -126,6 +126,51 @@
       "source": "뉴시스",
       "sourceUrl": "https://www.newsis.com/view/NISX20260401_0003572566",
       "publishedAt": "2026-04-01T09:34:38+09:00"
+    },
+    {
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Anthropic가 Opus 4.6을 공개했다. 1M 토큰 컨텍스트 베타, 에이전트형 코딩/코드리뷰/디버깅 성능 강화, Claude Code용 agent teams·adaptive thinking·effort controls 등을 함께 내세웠다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-6",
+      "publishedAt": "2026-02-05T02:41:37Z",
+      "id": "15"
+    },
+    {
+      "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
+      "summary": "OpenAI가 1,220억 달러 규모의 대규모 자금 조달을 마감했다고 발표했다. 소비자·엔터프라이즈·개발자 플랫폼과 컴퓨트 확보를 묶어 AI 인프라 우위를 강화하겠다는 메시지다.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "publishedAt": "2026-03-31T23:32:21.541Z",
+      "id": "16"
+    },
+    {
+      "title": "Introducing GPT-5.3-Codex-Spark",
+      "summary": "OpenAI가 실시간 코딩용 소형 모델 GPT-5.3-Codex-Spark를 리서치 프리뷰로 공개했다. Cerebras 인프라에서 초저지연 응답을 목표로 하며, 즉시성 높은 코딩 편집과 인터랙티브 워크플로우를 겨냥한다.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/introducing-gpt-5-3-codex-spark/",
+      "publishedAt": "2026-04-01T02:37:17.457Z",
+      "id": "17"
+    },
+    {
+      "title": "Copilot Cowork: Now available in Frontier",
+      "summary": "Microsoft가 Frontier 프로그램을 통해 Copilot Cowork를 공개했다. 장기·다단계 업무를 계획하고 도구·파일을 넘나들며 수행하는 워크플로우형 AI를 Microsoft 365에 본격 접목하는 흐름이다.",
+      "category": "ai-tech",
+      "source": "Microsoft",
+      "sourceUrl": "https://www.microsoft.com/en-us/microsoft-365/blog/2026/03/30/copilot-cowork-now-available-in-frontier/",
+      "publishedAt": "2026-03-30T00:00:00Z",
+      "id": "18"
+    },
+    {
+      "title": "TurboQuant: Redefining AI efficiency with extreme compression",
+      "summary": "Google Research가 TurboQuant를 소개했다. 벡터 검색과 KV 캐시 병목을 겨냥한 압축 기법으로, 메모리 사용량을 크게 줄이면서 정확도 손실 없이 AI 효율을 끌어올리는 것이 핵심이다.",
+      "category": "ai-tech",
+      "source": "Google Research",
+      "sourceUrl": "https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/",
+      "publishedAt": "2026-03-24T00:00:00Z",
+      "id": "19"
     }
   ]
 }
