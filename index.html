@@ -223,10 +223,22 @@
     }
 
     async function loadData() {
-      const [pinnedRes, blogRes] = await Promise.all([
+      const [pinnedRaw, blogRaw] = await Promise.all([
         fetch('/pinned.json').then(r => r.json()).catch(() => []),
         fetch('/blog.json').then(r => r.json()).catch(() => [])
       ]);
+
+      const pinnedRes = Array.isArray(pinnedRaw)
+        ? pinnedRaw
+        : Array.isArray(pinnedRaw?.items)
+          ? pinnedRaw.items
+          : [];
+
+      const blogRes = Array.isArray(blogRaw)
+        ? blogRaw
+        : Array.isArray(blogRaw?.posts)
+          ? blogRaw.posts
+          : [];
 
       // Load all article files
       const today = new Date();
@@ -251,13 +263,13 @@
       }
 
       // Blog items
-      const blogItems = blogRes.map(b => ({
-        id: 'blog-' + b.id,
+      const blogItems = blogRes.map((b, idx) => ({
+        id: 'blog-' + (b.id || idx + 1),
         type: 'blog',
         title: b.title,
         summary: b.summary || b.description || '',
         url: b.url,
-        date: b.date,
+        date: b.date || b.publishedAt?.slice(0, 10) || '',
         tags: b.tags || []
       }));
 
