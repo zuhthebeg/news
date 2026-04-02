@@ -192,6 +192,71 @@
         "Gemini"
       ],
       "addedAt": "2026-03-30"
+    },
+    {
+      "title": "OpenClaw CLI",
+      "description": "OpenClaw를 설치·운영·점검할 때 쓰는 범용 CLI 스킬.\n게이트웨이, 노드, 채널, 모델, 플러그인까지 한 번에 다룬다.",
+      "icon": "🦞",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/openclaw-cli",
+      "tags": [
+        "OpenClaw",
+        "CLI",
+        "운영"
+      ],
+      "addedAt": "2026-04-02"
+    },
+    {
+      "title": "Google Calendar (via gcalcli)",
+      "description": "gcalcli로 Google Calendar 일정을 빠르게 읽고 만든다.\n오늘 일정 조회와 검증된 생성/삭제 흐름에 최적화됐다.",
+      "icon": "📅",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/gcalcli-calendar",
+      "tags": [
+        "Google Calendar",
+        "일정",
+        "gcalcli"
+      ],
+      "addedAt": "2026-04-02"
+    },
+    {
+      "title": "PDF Toolkit Pro",
+      "description": "PDF 병합, 분할, 압축, 변환을 한 번에 처리하는 실무형 스킬.\n문서 정리와 대량 PDF 작업을 자동화할 때 유용하다.",
+      "icon": "📄",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/pdf-toolkit-pro",
+      "tags": [
+        "PDF",
+        "문서",
+        "변환"
+      ],
+      "addedAt": "2026-04-02"
+    },
+    {
+      "title": "Social Media Scheduler",
+      "description": "플랫폼별 게시물을 미리 작성하고 발행 일정을 정리한다.\n콘텐츠 캘린더와 예약 발행 흐름을 잡는 데 좋다.",
+      "icon": "📣",
+      "category": "media",
+      "url": "https://clawhub.com/skills/social-media-scheduler",
+      "tags": [
+        "SNS",
+        "예약발행",
+        "콘텐츠"
+      ],
+      "addedAt": "2026-04-02"
+    },
+    {
+      "title": "local-media-cataloger",
+      "description": "로컬 사진과 영상 자산을 태그, 날짜, 메모 기준으로 색인한다.\n재사용 가능한 미디어를 빠르게 찾고 정리할 수 있다.",
+      "icon": "🗂️",
+      "category": "media",
+      "url": "https://clawhub.com/skills/local-media-cataloger",
+      "tags": [
+        "미디어",
+        "카탈로그",
+        "검색"
+      ],
+      "addedAt": "2026-04-02"
     }
   ]
 }
