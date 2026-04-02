@@ -223,42 +223,46 @@
     }
 
     async function loadData() {
-      const [pinnedRaw, blogRaw] = await Promise.all([
-        fetch('/pinned.json').then(r => r.json()).catch(() => []),
-        fetch('/blog.json').then(r => r.json()).catch(() => [])
-      ]);
+      let pinnedRes = [];
+      let blogRes = [];
+      const articles = [];
 
-      const pinnedRes = Array.isArray(pinnedRaw)
-        ? pinnedRaw
-        : Array.isArray(pinnedRaw?.items)
-          ? pinnedRaw.items
-          : [];
+      try {
+        const pinnedRaw = await fetch('/pinned.json').then(r => r.json());
+        pinnedRes = Array.isArray(pinnedRaw)
+          ? pinnedRaw
+          : Array.isArray(pinnedRaw?.items)
+            ? pinnedRaw.items
+            : [];
+      } catch {}
 
-      const blogRes = Array.isArray(blogRaw)
-        ? blogRaw
-        : Array.isArray(blogRaw?.posts)
-          ? blogRaw.posts
-          : [];
+      try {
+        const blogRaw = await fetch('/blog.json').then(r => r.json());
+        blogRes = Array.isArray(blogRaw)
+          ? blogRaw
+          : Array.isArray(blogRaw?.posts)
+            ? blogRaw.posts
+            : [];
+      } catch {}
 
       // Load all article files
       const today = new Date();
-      const articles = [];
       for (let i = 0; i < 30; i++) {
         const d = new Date(today - i * DAY_MS);
         const ds = d.toISOString().slice(0, 10);
         try {
           const res = await fetch(`/articles/${ds}.json`);
-          if (res.ok) {
-            const data = await res.json();
-            (data.articles || []).forEach(a => {
-              articles.push({
-                ...a,
-                type: 'news',
-                date: a.date || a.publishedAt?.slice(0, 10) || ds,
-                url: a.source_url || a.sourceUrl || '#'
-              });
+          if (!res.ok) continue;
+
+          const data = await res.json();
+          (data.articles || []).forEach(a => {
+            articles.push({
+              ...a,
+              type: 'news',
+              date: a.date || a.publishedAt?.slice(0, 10) || ds,
+              url: a.source_url || a.sourceUrl || '#'
             });
-          }
+          });
         } catch {}
       }
 
