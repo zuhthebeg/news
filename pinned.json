@@ -70,15 +70,30 @@
     "id": "pin-6",
     "type": "scrap",
     "title": "구글 터보퀀트(TurboQuant) 쇼크 — AI 메모리 6배 압축, 반도체 직격탄",
-    "summary": "구글 리서치가 KV 캐시를 3비트로 압축해 메모리 사용량 6배 최소화하는 알고리즘 발표. 코스피 -3.22%, 삼성전자 -4.7%, SK하이닉스 -6%. 딱시크 때처럼 단기 충격론 vs 메모리 고점론 팡팡. 제봄스 역설(효율화→수요확대) 시나리오도 주목.",
-    "url": "https://biz.newdaily.co.kr/site/data/html/2026/03/27/2026032700257.html",
-    "date": "2026-03-31",
+    "summary": "Google TurboQuant 오픈소스 구현 출시. pip install turboquant로 설치 가능. KV cache 2.5-4bit 압축으로 3.8-5.7x 메모리 절감. ICLR 2026. Gemma 4와 조합하면 4090 12GB에서 대형 모델 실행 가능성.",
+    "url": "https://pypi.org/project/turboquant/",
+    "date": "2026-04-01",
     "tags": [
-      "터보퀀트",
-      "반도체",
-      "AI",
-      "구글",
-      "메모리"
+      "TurboQuant",
+      "quantization",
+      "open-source",
+      "KV-cache",
+      "ICLR2026"
+    ]
+  },
+  {
+    "id": "pin-7",
+    "type": "scrap",
+    "title": "Gemma 4 출시 — 오픈 모델 역대 최강급",
+    "summary": "Google이 Gemma 4 발표. E2B/E4B/26B MoE/31B Dense 4종. Apache 2.0. Arena AI 오픈 3위(31B). 추론+에이전트 특화. vLLM Day 0 지원. 4090에 26B MoE 또는 TurboQuant+31B Dense 조합 검토 대상.",
+    "url": "https://blog.google/innovation-and-ai/technology/developers-tools/gemma-4/",
+    "date": "2026-04-02",
+    "tags": [
+      "Gemma4",
+      "Google",
+      "open-model",
+      "Apache2.0",
+      "on-device"
     ]
   }
 ]
