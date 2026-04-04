@@ -27,6 +27,51 @@
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260403095700052",
       "publishedAt": "2026-04-04T08:10:00+09:00",
       "id": "3"
+    },
+    {
+      "id": "4",
+      "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
+      "summary": "OpenAI announced a massive new funding round aimed at scaling the next phase of AI development, reinforcing demand for frontier-model infrastructure, products, and distribution.",
+      "category": "ai-tech",
+      "source": "openai.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92bDc0Y3Myc2RjdHlZVUNEdVN4SjMzZVJlcjRVR3V1UzRCT3NqRHdkbXp5dFdUdUpUcUdGYVVoNS1DX0xUbHJSYXpDbkRTYnpGbGVwMFl2RTFsWmp2N0RvYjhZOW1NWTg?oc=5",
+      "publishedAt": "2026-03-31T20:07:12Z"
+    },
+    {
+      "id": "5",
+      "title": "Anthropic leaked 500,000 lines of its own source code",
+      "summary": "A leak tied to Claude Code exposed a large chunk of Anthropic internal code, turning AI coding-agent security and privacy practices into the week's biggest Claude-related story.",
+      "category": "ai-tech",
+      "source": "Axios",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE51ZElGa3BBcHRrZ2E0U2libWlNN1BCT2U1bFhNaDExMVBjSE9WOHBjQjBkRjd3UTVEcTlOOHdISzlJYlpLWEtRdlJReHhUQWY4X1F6OFA1dm0xRlpaUVFmUDZheEdFOHBfdzBVeE1pT2txZw?oc=5",
+      "publishedAt": "2026-04-01T09:34:40Z"
+    },
+    {
+      "id": "6",
+      "title": "Emotion concepts and their function in a large language model",
+      "summary": "Anthropic published new interpretability research claiming it can trace how emotion-related concepts function inside a large language model, adding to the push for more inspectable frontier AI.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE5vSlN6dUswQTFqaDFEd3hzOTRkcDI5TlNWRUM2TzhiMEtVc3JZb3ZYLXJJZnRzYlU0UHg0T2YwNnhMQmtJQUhYZDd2YXpSSmdSWjhPd1F5WHBIZWhDVTVJWDJZN291NktrX2s5eQ?oc=5",
+      "publishedAt": "2026-04-02T16:50:28Z"
+    },
+    {
+      "id": "7",
+      "title": "California signs first-of-its-kind executive order to strengthen AI protections and responsible use",
+      "summary": "Governor Gavin Newsom signed a new executive order focused on AI protections and responsible deployment, signaling that U.S. state-level regulation is moving from principles into operating rules.",
+      "category": "ai-tech",
+      "source": "California State Portal | CA.gov",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNWUdqM2NTdE1BcENPWnNXTzJzcjVjOTJwc25fbVg3NEZOaTZKSTZubngwYWNLMDUzeS0tUDh3eVVrMnlIMHpPM3Naa2dWTUJkbUQ2LVp5Zm9fanNDMHBoVUx5YU12NDdnZDlCZG1aNHk1V0hQcmhDUERnc3Vkd2ZFV0w3eUVyVXlVTWlNMEFFVkR0RWhreTZMMnpDSHgwU0U1VmxlcFhhRHpTNjA1OVV0ak92ZWExb1kzeDV3RjJQc3Uxc3NXTHRMOVZuRHlfMnhNMDd6eXBNRnRXUzhUNndVVm4ydUd3c1hfaFIwZl9mX3dDMzBPQ0pHanpta1o4U0xG?oc=5",
+      "publishedAt": "2026-03-30T21:54:02Z"
+    },
+    {
+      "id": "8",
+      "title": "HHS aligns health technology leadership for an AI-enabled health care system",
+      "summary": "The U.S. Department of Health and Human Services said it is reorganizing health-tech leadership around data liquidity, affordability, and AI-enabled care, showing AI policy is now directly shaping public-sector infrastructure.",
+      "category": "ai-tech",
+      "source": "hhs.gov",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXloWTFUWFNxMndJaEdKR1pEWUNlTFlaemxRSU9Uc2ZSbVpFWl9RbnJvTUE0YXdTa0UtQmJpcXBHMHhRbFpJYWxTRjRiOThIT0ZDMk4tYzZOWlZUQU12Y2tZdEdFM2tkYmJyTFZQUEwzaG9HaHZwRnU4WnhWTXBMak80OEEwRGI5VnBVODBLVFgzcGY2c0Y1R0FRaEh0ZHNHTDNpUFFTc2FmUmFPdjZnTmV3eFhsU3hhdXA3dllGd3pFcEdaMk1SWQ?oc=5",
+      "publishedAt": "2026-03-31T12:50:00Z"
     }
   ]
 }
