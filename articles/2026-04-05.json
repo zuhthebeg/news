@@ -126,6 +126,51 @@
       "sourceUrl": "https://www.etnews.com/20260405000005",
       "publishedAt": "2026-04-05T08:31:58+09:00",
       "id": "14"
+    },
+    {
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "summary": "Anthropic가 Claude Code 구독자에게 OpenClaw 같은 서드파티 툴 경유 사용분에 추가 과금을 적용하겠다고 밝히며, 모델 사용 채널별 수익화와 비용 통제를 더 강하게 가져가는 흐름이 드러났다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakxlX1lJUklzd3JYNkp4Q2NGZlFPZ3NhcmVKYUJYcGprR3dxWWtYMUFrV0VXc1Yta1BNSUR5ZVEtZjdWY2hGeFRQZVNWeVhCX2RHeGtIY2k0ZVVRM1VmMlh2bFZjOWgwTTY2OXlSNTRGOHVNMGhiUkhoUnVHdGx3SHRlQ0Z1aWoyOUNDLXl2VXdMTXdldTVrZzFKSFhnMXJHTXZGXzItU1NnMnZ0aVl3UWp4eWxWRmdL?oc=5",
+      "publishedAt": "2026-04-04T16:32:22Z",
+      "id": "15"
+    },
+    {
+      "title": "Microsoft and Google Launch New AI Models",
+      "summary": "마이크로소프트와 구글이 각각 새 AI 모델을 내놓으며 기업용 AI 경쟁을 가속하고 있다. 모델 성능 자체보다도 클라우드·생산성 제품군과 얼마나 빠르게 묶어내는지가 승부처라는 점을 다시 보여준 소식이다.",
+      "category": "ai-tech",
+      "source": "Thurrott.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSkpYVXNyNnA2UWFVNjdsTWdRS3U3cHA3NEVnV1hsdjRGS0RRS0xLNnBTUDB0SlozMkhWcTNiWkg1SXM5bHNXRlBENkZ0TUZIN1JfVHk4ZUJQQnlmV2VQYWdaWDh6OU1QTTJvZEVZbUxYa05xX1AyMldzVEtxM2hlNXNzUQ?oc=5",
+      "publishedAt": "2026-04-04T22:50:35Z",
+      "id": "16"
+    },
+    {
+      "title": "Google's Gemma 4 Runs Frontier AI On A Single GPU",
+      "summary": "구글 Gemma 4가 단일 GPU 환경에서도 강한 성능을 낼 수 있다는 평가가 나오며, 대형 인프라 없이도 고성능 모델을 활용하려는 온디바이스·로컬 AI 수요를 자극하고 있다.",
+      "category": "ai-tech",
+      "source": "Forbes",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMlhMLWdFbjJIRGVkTVJMTmR4MTA4ekJST3BmSG1vUkpQNVE0djJmYXVUVlA5SXFWMXExNl93bTlsZklUOWlUMnBMTE1HOFhhc3N0R0FNdkpCQ1o3MWMyTnZmMzlzdXU0T2JENEktMHlvZ3pIZFBEVXRDZENFNDQtUjlSMjVkMFlCRGVNNmdCSS00cEh1ZUJISFJENk5hcUVlaTMxbw?oc=5",
+      "publishedAt": "2026-04-04T12:06:46Z",
+      "id": "17"
+    },
+    {
+      "title": "National Robotics Week — Latest Physical AI Research, Breakthroughs and Resources",
+      "summary": "NVIDIA가 Physical AI와 로보틱스 연구 동향을 묶어 소개하며, 생성형 AI의 다음 전장이 소프트웨어 에이전트에서 실제 세계를 다루는 로봇 시스템으로 이동하고 있음을 강조했다.",
+      "category": "ai-tech",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE96SXR2cGI3dHBReDYxbUw5bWZlUnhSTHY0Z3ZoYXlYVGRId0ZUQ0hrdWtNQlRtQTVEVlNmME1CZ0QtNWN5SHNqb0F4eHUtbVExcG5wNWZoaUdDcUNsRlFWeklSREFDNEl0UGc?oc=5",
+      "publishedAt": "2026-04-04T17:06:06Z",
+      "id": "18"
+    },
+    {
+      "title": "Meta freezes AI data work after breach puts training secrets at risk",
+      "summary": "Meta가 데이터 유출 리스크 때문에 일부 AI 데이터 작업을 동결했다는 보도가 나오며, 모델 경쟁력의 핵심인 학습 데이터와 파이프라인 보안이 곧 사업 리스크라는 점이 다시 부각됐다.",
+      "category": "ai-tech",
+      "source": "The Next Web",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBsb3o5OElrUjBJWTBhelZZYXBzak1VV3pFNEVhWGZjOWpzajBVV1R4UXl0Ukh5UldfLVJ5RDBqYTlMbGhYbjM0a0t4SkdoOTBzTTVwdHVYSDVkbFBzQm16TXRzeVZzTzE3ZkhTNXFpbXlGeHFaSzJRSkw1Yw?oc=5",
+      "publishedAt": "2026-04-04T18:31:00Z",
+      "id": "19"
     }
   ]
 }
