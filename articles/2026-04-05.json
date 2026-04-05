@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-05",
+  "articles": [
+    {
+      "title": "군 헬기, 지난달 산불 진화 중 실수로 DMZ 진입",
+      "summary": "(서울=연합뉴스) 김철선 기자 = 우리 군 헬기가 접경지역 산불 진화 작업에 투입됐다가 실수로 비무장지대(DMZ) 내부까지 진입한 일이 있었던 ...",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260405007500504",
+      "publishedAt": "2026-04-04T23:48:36Z",
+      "id": "1"
+    },
+    {
+      "title": "[게시판] 하나금융, 발달장애 예술가 협업 굿즈 출시",
+      "summary": "▲ 하나금융그룹은 발달장애 예술가들의 창작 활동과 경제적 자립 지원을 위해 협업한 굿즈를 출시했다고 5일 밝혔다. 하나금융이 발달장애 예술가를 ...",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260404046000002",
+      "publishedAt": "2026-04-04T23:30:00Z",
+      "id": "2"
+    },
+    {
+      "title": "TS, 고령운전자·전기차 등 현장 맞춤 교통안전 체험교육 시행",
+      "summary": "(서울=연합뉴스) 윤민혁 기자 = 한국교통안전공단(TS)은 고령 운전자·페달 오조작·전기차 특성 등 현장 맞춤형 교통안전 체험교육을 시행한다고 ...",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260405008400003",
+      "publishedAt": "2026-04-04T23:50:55Z",
+      "id": "3"
+    }
+  ]
+}
