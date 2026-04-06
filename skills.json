@@ -257,6 +257,71 @@
         "검색"
       ],
       "addedAt": "2026-04-02"
+    },
+    {
+      "title": "DocsBot AI",
+      "description": "DocsBot AI 문서 봇을 Membrane CLI로 연결하고 관리하는 스킬.\n문서 소스, 대화, 봇 설정을 빠르게 다룰 수 있다.",
+      "icon": "🤖",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/docsbot-ai",
+      "tags": [
+        "문서봇",
+        "지식베이스",
+        "자동화"
+      ],
+      "addedAt": "2026-04-06"
+    },
+    {
+      "title": "Spydra",
+      "description": "Spydra 연결을 Membrane CLI로 구성하고 액션을 실행하는 스킬.\n외부 서비스 연동과 원격 작업 자동화에 적합하다.",
+      "icon": "🕷️",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/spydra",
+      "tags": [
+        "연동",
+        "CLI",
+        "자동화"
+      ],
+      "addedAt": "2026-04-06"
+    },
+    {
+      "title": "Fullstory",
+      "description": "Fullstory 계정의 세션, 이벤트, 분석 기능을 Membrane CLI로 조회하는 스킬.\n사용자 행동 분석과 디버깅에 유용하다.",
+      "icon": "🔍",
+      "category": "data",
+      "url": "https://clawhub.com/skills/fullstory",
+      "tags": [
+        "분석",
+        "세션리플레이",
+        "이벤트"
+      ],
+      "addedAt": "2026-04-06"
+    },
+    {
+      "title": "Imgix",
+      "description": "Imgix 이미지 변환과 관련 액션을 Membrane CLI로 제어하는 스킬.\n썸네일, 리사이즈, 이미지 최적화 작업에 좋다.",
+      "icon": "🖼️",
+      "category": "media",
+      "url": "https://clawhub.com/skills/imgix",
+      "tags": [
+        "이미지",
+        "최적화",
+        "CDN"
+      ],
+      "addedAt": "2026-04-06"
+    },
+    {
+      "title": "LinkedIn Video Creator",
+      "description": "LinkedIn용 홍보 영상을 생성·조정하는 스킬.\n짧은 세일즈 영상이나 콘텐츠 배포용 클립 제작에 쓸 수 있다.",
+      "icon": "🎥",
+      "category": "media",
+      "url": "https://clawhub.com/skills/linkedin-video-creator",
+      "tags": [
+        "영상",
+        "LinkedIn",
+        "콘텐츠"
+      ],
+      "addedAt": "2026-04-06"
     }
   ]
 }
