@@ -126,6 +126,51 @@
       "sourceUrl": "https://www.reuters.com/world/middle-east/trump-says-tuesday-deadline-make-deal-with-iran-is-final-2026-04-06/",
       "publishedAt": "2026-04-07T08:58:17+09:00",
       "id": "14"
+    },
+    {
+      "id": "15",
+      "title": "Anthropic says Claude Code subscribers will need to pay extra for OpenClaw usage",
+      "summary": "Anthropic will stop letting Claude subscriptions cover third-party harnesses like OpenClaw and move those workloads to separate pay-as-you-go billing. The shift reflects capacity pressure and a push to separate native Claude usage from heavy agentic automation traffic.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "publishedAt": "2026-04-04T16:32:22+00:00"
+    },
+    {
+      "id": "16",
+      "title": "Introducing Claude Sonnet 4.6",
+      "summary": "Anthropic launched Claude Sonnet 4.6 as its new default Sonnet model, improving coding, computer use, long-context reasoning, and agent planning while keeping API pricing flat. The release also expands the practical reach of frontier-level reasoning with a 1M-token context window in beta.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-4-6",
+      "publishedAt": "2026-02-17T00:00:00+00:00"
+    },
+    {
+      "id": "17",
+      "title": "OpenAI’s vision for the AI economy: public wealth funds, robot taxes, and a four-day workweek",
+      "summary": "OpenAI published a policy blueprint arguing that AI-era prosperity should be broadened through tools like public wealth funds, capital-focused taxation, portable benefits, and even a subsidized four-day workweek. It signals OpenAI is trying to shape the policy debate around automation, redistribution, and infrastructure before regulation hardens.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/openais-vision-for-the-ai-economy-public-wealth-funds-robot-taxes-and-a-four-day-work-week/",
+      "publishedAt": "2026-04-06T15:55:55+00:00"
+    },
+    {
+      "id": "18",
+      "title": "Build with Veo 3.1 Lite, our most cost-effective video generation model",
+      "summary": "Google introduced Veo 3.1 Lite for developers, positioning it as a lower-cost text-to-video and image-to-video model with 720p and 1080p support. The pricing cut and new SKU make video generation more accessible for high-volume product use, not just demos.",
+      "category": "ai-tech",
+      "source": "Google",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/ai/veo-3-1-lite/",
+      "publishedAt": "2026-03-31T16:00:00+00:00"
+    },
+    {
+      "id": "19",
+      "title": "Introducing Claude Opus 4.6",
+      "summary": "Anthropic upgraded its flagship model with stronger coding, debugging, tool use, long-context retrieval, and a 1M-token context window in beta. The release shows Anthropic is still pushing premium frontier performance while also expanding everyday work features like Excel and PowerPoint integrations.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-6",
+      "publishedAt": "2026-02-05T00:00:00+00:00"
     }
   ]
 }
