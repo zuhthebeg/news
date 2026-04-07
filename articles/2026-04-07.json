@@ -27,6 +27,105 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260407026700003",
       "publishedAt": "2026-04-06T23:40:31Z"
+    },
+    {
+      "title": "LG U+, IBK시스템과 금융 특화 AI 서비스 개발 협력",
+      "summary": "LG유플러스와 IBK시스템이 여신 심사와 소상공인 지원 플랫폼에 적용할 금융 특화 AI 에이전트 개발에 나섰다.\nLG AI연구원 엑사원 기반 플랫폼과 지식관리·LLMOps 기능을 결합해 실제 금융 업무 자동화를 추진한다.",
+      "category": "ai-tech",
+      "source": "디일렉",
+      "sourceUrl": "https://www.thelec.kr/news/articleView.html?idxno=54714",
+      "publishedAt": "2026-04-07T09:47:28+09:00",
+      "id": "4"
+    },
+    {
+      "title": "무손상 절단 기술로 AI 반도체 패키징 공정 정밀도 높인다",
+      "summary": "아이티아이가 유리기판과 HBM 웨이퍼를 손상 없이 절단하는 열충격 기반 공정 기술을 공개했다.\n차세대 AI 반도체 패키징의 수율과 적층 고도화에 필요한 핵심 후공정 기술로 상용화 협력을 확대할 계획이다.",
+      "category": "ai-tech",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20260403000049",
+      "publishedAt": "2026-04-07T08:30:00+09:00",
+      "id": "5"
+    },
+    {
+      "title": "신현송 한은 총재 후보자 \"CBDC와 스테이블코인 공존 가능\"",
+      "summary": "신현송 한국은행 총재 후보자가 중앙은행 디지털화폐와 스테이블코인이 경쟁·보완 관계로 함께 존재할 수 있다고 밝혔다.\n원화 스테이블코인 도입에 원칙적으로 찬성하면서도, 디지털 통화 생태계의 중심은 중앙은행 신뢰 기반 인프라가 돼야 한다고 강조했다.",
+      "category": "economy",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/economy/finance/1252850.html",
+      "publishedAt": "2026-04-06T18:58:00+09:00",
+      "id": "6"
+    },
+    {
+      "title": "서울 아파트 1순위 청약 경쟁률, 13개 분기 만에 최저",
+      "summary": "올해 1분기 서울 아파트 1순위 청약 경쟁률이 38대 1로 떨어지며 13개 분기 만의 최저치를 기록했다.\n분양 물량과 수요 모두 위축되면서 청약 시장의 과열이 한풀 꺾였다는 해석이 나온다.",
+      "category": "realestate",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260407018300003?section=economy/all",
+      "publishedAt": "2026-04-07T08:03:41+09:00",
+      "id": "7"
+    },
+    {
+      "title": "서울 민간 아파트 분양가, ㎡당 2천198만원으로 역대 최고",
+      "summary": "서울 민간 아파트 평균 분양가가 ㎡당 2천198만원까지 올라 역대 최고 수준을 다시 썼다.\n공사비 상승과 공급 부담이 겹치며 실수요자의 자금 압박이 더 커질 수 있다는 전망이 나온다.",
+      "category": "realestate",
+      "source": "청년일보",
+      "sourceUrl": "https://www.youthdaily.co.kr/news/article.html?no=216926",
+      "publishedAt": "2026-04-07T08:50:32+09:00",
+      "id": "8"
+    },
+    {
+      "title": "통신 3사 해킹 사태, 집단소송제 도입 시 소급 적용 쟁점 부상",
+      "summary": "국회에서 집단소송법 논의가 본격화되며 SK텔레콤·KT·LG유플러스 해킹 사고에 소급 적용될 가능성이 주목받고 있다.\n법안이 통과되면 대규모 개인정보 유출 사건을 둘러싼 통신업계의 소송 리스크가 크게 커질 수 있다.",
+      "category": "security",
+      "source": "시사저널e",
+      "sourceUrl": "https://www.sisajournal-e.com/news/articleView.html?idxno=420299",
+      "publishedAt": "2026-04-07T09:30:00+09:00",
+      "id": "9"
+    },
+    {
+      "title": "롯데카드 개인정보 유출, 해킹 사유 첫 영업정지 제재 여부 주목",
+      "summary": "금감원이 롯데카드 고객정보 유출 사건을 제재심에 올리면서 외부 해킹으로 인한 첫 영업정지 사례가 나올지 관심이 쏠리고 있다.\n297만명 규모의 유출 사고를 계기로 금융권 사이버보안 책임 기준이 한층 강화될 가능성이 있다.",
+      "category": "security",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/amp/finance/2026/04/07/2026040620085357933",
+      "publishedAt": "2026-04-07T04:04:00+09:00",
+      "id": "10"
+    },
+    {
+      "title": "아르테미스 2호, 인류 최장거리 유인 우주비행 기록 경신",
+      "summary": "NASA의 아르테미스 2호 승무원이 달 근접비행 중 지구에서 40만6천km 이상 떨어진 지점을 지나며 새 기록을 세웠다.\n1970년 아폴로 13호 이후 55년 만에 최장거리 기록이 바뀌며 유인 달 탐사 복귀의 상징적 이정표가 됐다.",
+      "category": "science",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/science/science_general/1252976.html",
+      "publishedAt": "2026-04-07T08:33:00+09:00",
+      "id": "11"
+    },
+    {
+      "title": "이노스페이스, 위성사업부 신설로 우주 플랫폼 사업 확대",
+      "summary": "민간 발사체 기업 이노스페이스가 위성사업부를 신설하고 개발·발사·운용·데이터 서비스를 묶은 통합 우주 플랫폼 전략을 추진한다.\n발사체 단일 사업에서 벗어나 수직 통합형 우주 서비스 기업으로 사업 구조를 넓히겠다는 구상이다.",
+      "category": "science",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260407040100017",
+      "publishedAt": "2026-04-07T09:29:23+09:00",
+      "id": "12"
+    },
+    {
+      "title": "미국·이란, 즉각 휴전 포함한 종전 구상안 전달받아",
+      "summary": "로이터는 미국과 이란이 교전 종료와 즉각적인 휴전을 담은 중재안을 전달받았다고 보도했다.\n중동 긴장 완화 여부가 원유 시장과 글로벌 외교 지형에 직접적인 영향을 줄 수 있어 국제사회의 관심이 집중되고 있다.",
+      "category": "world",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/china/iran-us-receive-plan-end-hostilities-immediate-ceasefire-source-says-2026-04-06/",
+      "publishedAt": "2026-04-06T15:55:00+09:00",
+      "id": "13"
+    },
+    {
+      "title": "트럼프, 이란과의 합의 시한은 화요일이 최종이라고 압박",
+      "summary": "도널드 트럼프 미국 대통령이 이란과의 협상 마감 시한을 화요일로 못 박으며 추가 압박에 나섰다.\n협상 결렬 시 군사적 긴장과 제재 강화 가능성이 커져 중동 정세의 불확실성이 다시 확대되고 있다.",
+      "category": "world",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/trump-says-tuesday-deadline-make-deal-with-iran-is-final-2026-04-06/",
+      "publishedAt": "2026-04-07T08:58:17+09:00",
+      "id": "14"
     }
   ]
 }
