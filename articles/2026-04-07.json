@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-07",
+  "articles": [
+    {
+      "id": "1",
+      "title": "李대통령, 오늘 정청래·장동혁과 회담…중동발 위기 대응 논의",
+      "summary": "이재명 대통령이 여야 대표를 청와대로 초청해 중동발 민생경제 위기와 대응 방향을 논의할 예정이다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260406152300001",
+      "publishedAt": "2026-04-06T20:00:02Z"
+    },
+    {
+      "id": "2",
+      "title": "국회 예결위, 추경안 심사 시작…대정부 종합정책질의",
+      "summary": "국회 예결위가 추가경정예산안 심사를 위한 전체회의를 열고 대정부 종합정책질의를 시작한다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260406155100001",
+      "publishedAt": "2026-04-06T20:00:02Z"
+    },
+    {
+      "id": "3",
+      "title": "삼성전자, 반도체로만 50조 영업익…내년 엔비디아 넘어 세계 1위 전망도",
+      "summary": "삼성전자가 1분기 57조2천억원 영업이익을 기록했고, 반도체 부문 호조로 글로벌 선두권 전망이 제기됐다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260407026700003",
+      "publishedAt": "2026-04-06T23:40:31Z"
+    }
+  ]
+}
