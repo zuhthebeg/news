@@ -90,6 +90,51 @@
       "source": "CNN",
       "sourceUrl": "https://edition.cnn.com/2026/04/07/business/us-stocks-oil-trump-iran-ceasefire",
       "publishedAt": "2026-04-08T08:52:17+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Anthropic, Project Glasswing 공개…Claude Mythos로 핵심 소프트웨어 보안 강화",
+      "summary": "Anthropic이 AWS·Apple·Google·Microsoft·NVIDIA 등과 함께 Project Glasswing을 출범했다. 새 모델 Claude Mythos Preview를 활용해 운영체제·브라우저급 취약점을 방어 목적으로 찾아내고, 보안 생태계에 최대 1억달러 크레딧을 투입하겠다는 계획이다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/glasswing",
+      "publishedAt": "2026-04-07T00:00:00+00:00"
+    },
+    {
+      "id": "12",
+      "title": "OpenAI, 1220억달러 신규 자금 유치…기업가치 8520억달러",
+      "summary": "OpenAI가 1220억달러 규모의 대형 자금 조달을 마감했다. SoftBank·Amazon·NVIDIA·Microsoft 등이 참여했고, 확보한 자금은 AI 칩·데이터센터·인재 확보에 투입되며 IPO 서사도 한층 강화됐다는 평가다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/03/31/openai-not-yet-public-raises-3b-from-retail-investors-in-monster-122b-fund-raise/",
+      "publishedAt": "2026-03-31T21:25:04+00:00"
+    },
+    {
+      "id": "13",
+      "title": "OpenAI 출신 인사들, 최대 1억달러 규모 Zero Shot 펀드 조성",
+      "summary": "OpenAI 초기 멤버들이 중심이 된 Zero Shot 펀드가 첫 클로징을 마치고 AI 스타트업 투자에 나섰다. 생성형 AI 이후 인재·자본 네트워크가 다시 스타트업 생태계로 흘러들며 “포스트-OpenAI 마피아” 형성이 본격화되는 신호로 읽힌다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/06/openai-alums-have-been-quietly-investing-from-a-new-potentially-100m-fund/",
+      "publishedAt": "2026-04-06T21:54:26+00:00"
+    },
+    {
+      "id": "14",
+      "title": "Cognichip, AI로 반도체 설계 자동화 도전…6000만달러 투자 유치",
+      "summary": "Cognichip이 반도체 설계용 특화 모델 개발을 위해 6000만달러를 추가 조달했다. 회사는 칩 개발 비용을 75% 이상 줄이고 기간도 절반 이하로 단축하겠다고 주장하며, AI가 코딩을 넘어 EDA·칩 설계까지 침투하는 흐름을 보여줬다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/01/cognichip-wants-ai-to-design-the-chips-that-power-ai-and-just-raised-60m-to-try/",
+      "publishedAt": "2026-04-01T16:00:00+00:00"
+    },
+    {
+      "id": "15",
+      "title": "Intel, Musk의 Terafab 칩 프로젝트 합류…미국 내 AI 팹 경쟁 격화",
+      "summary": "Intel이 SpaceX·Tesla와 함께 텍사스 반도체 공장 프로젝트 Terafab에 합류했다. AI·로보틱스용 초고성능 칩 생산을 미국 내에서 확대하려는 움직임으로, 파운드리 경쟁과 AI 인프라 내재화 경쟁이 동시에 빨라지고 있다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/intel-signs-on-to-elon-musks-terafab-chips-project/",
+      "publishedAt": "2026-04-07T18:10:01+00:00"
     }
   ]
 }
