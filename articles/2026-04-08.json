@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-08",
+  "articles": [
+    {
+      "id": "1",
+      "title": "국민연금 적립금 1천540조원 돌파…수익금이 보험료 앞질렀다",
+      "summary": "서한기 기자 = 국민의 노후를 책임지는 국민연금 기금 적립금이 1천500조원 시대를 열었다. 특히 눈에 띄는 점은 기금의 절반",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260407141000530?section=society/all",
+      "publishedAt": "2026-04-08T06:11:01+09:00"
+    },
+    {
+      "id": "2",
+      "title": "20일부터 기내 160Wh↓ 보조배터리 2개로 제한…사용·충전 금지",
+      "summary": "임성호 기자 = 오는 20일부터는 항공기에 들고 탈 수 있는 보조배터리 개수가 최대 2개(용량 160Wh 이하)로 제한된다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260407109000003?section=industry/all",
+      "publishedAt": "2026-04-08T06:00:06+09:00"
+    },
+    {
+      "id": "3",
+      "title": "2월 경상흑자 232억달러…반도체 등 수출 호조에 '역대 최대'",
+      "summary": "신호경 기자 = 반도체 등 수출 호조 덕에 지난 2월 우리나라가 국제 교역에서 약 35조원에 이르는 역대 최대 흑자를 거뒀다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260408021600002?section=economy/all",
+      "publishedAt": "2026-04-08T08:00:00+09:00"
+    }
+  ]
+}
