@@ -27,6 +27,69 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260408021600002?section=economy/all",
       "publishedAt": "2026-04-08T08:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "인텔, 머스크와 '테라팹' 협력…차세대 AI 반도체 생산 본격화",
+      "summary": "인텔이 테슬라·스페이스X·xAI와 함께 텍사스 통합 반도체 공장 '테라팹' 프로젝트에 참여한다.\n칩 설계·제조·패키징을 한곳에 묶어 AI용 고성능 반도체 생산 속도를 끌어올리겠다는 구상이다.",
+      "category": "ai-tech",
+      "source": "EBN",
+      "sourceUrl": "https://www.ebn.co.kr/news/articleView.html?idxno=1704709",
+      "publishedAt": "2026-04-08T06:08:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "노타, AI 반도체 기업의 '최적화' 기술 수요 증가로 매출 확대",
+      "summary": "노타는 1분기 계약 금액이 118억원으로 전년 동기 대비 111% 늘었다고 밝혔다.\nAI 모델 최적화 플랫폼과 VLM 기반 영상 분석 솔루션 수요가 늘면서 반도체 기업 대상 사업이 빠르게 커지고 있다.",
+      "category": "ai-tech",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=208902",
+      "publishedAt": "2026-04-08T05:35:31+09:00"
+    },
+    {
+      "id": "6",
+      "title": "'대북송금 진술회유' 특검 수사, 윤석열 대통령실·국정원·기재부로 확대되나",
+      "summary": "종합특검팀이 쌍방울 대북송금 사건 수사와 공소 유지 과정에 국가기관 개입 정황이 있었다고 보고 수사를 넓히고 있다.\n대통령실과 국정원, 기획재정부까지 수사선상에 오를 가능성이 제기됐다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/society/society_general/1253122.html",
+      "publishedAt": "2026-04-08T09:39:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "경찰, 고의 교통사고 내고 보험금 챙겨온 30대 남성 구속",
+      "summary": "충남 천안 일대에서 106건의 고의 교통사고를 내고 약 1억9000만원의 보험금을 챙긴 30대 남성이 구속 송치됐다.\n경찰은 후방 블랙박스나 센서가 없는 차량을 노린 반복 범행으로 보고 있다.",
+      "category": "domestic",
+      "source": "오마이뉴스",
+      "sourceUrl": "https://www.ohmynews.com/NWS_Web/View/at_pg.aspx?CNTN_CD=A0003222353",
+      "publishedAt": "2026-04-08T09:50:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "미국·이란 '2주 휴전' 합의에 국제유가 12% 급락",
+      "summary": "미국과 이란이 호르무즈 해협 안전 확보를 조건으로 2주간 공격을 중단하기로 하면서 국제유가가 급락했다.\nWTI 선물은 장중 배럴당 100달러 아래로 내려갔고, 뉴욕 증시 선물도 동반 상승했다.",
+      "category": "world",
+      "source": "중앙일보",
+      "sourceUrl": "https://www.joongang.co.kr/article/25418409",
+      "publishedAt": "2026-04-08T09:31:32+09:00"
+    },
+    {
+      "id": "9",
+      "title": "김정은, 이재명 대통령의 드론 사과를 이례적으로 긍정 평가",
+      "summary": "CNN은 김정은 북한 국무위원장이 북측 영공 드론 침범과 관련한 이재명 대통령의 사과를 '정직하고 대담하다'고 평가했다고 전했다.\n남북 긴장 국면에서 북한 최고지도자가 한국 대통령을 공개적으로 치켜세운 드문 사례로 해석된다.",
+      "category": "world",
+      "source": "CNN",
+      "sourceUrl": "https://edition.cnn.com/2026/04/07/world/video/kim-jong-un-compliments-south-korean-president-drones-ripley-digvid-vrtc",
+      "publishedAt": "2026-04-07T23:51:04+09:00"
+    },
+    {
+      "id": "10",
+      "title": "트럼프 휴전 발표에 유가 급락·증시 랠리",
+      "summary": "미국의 대이란 공격 중단과 2주 휴전 소식이 전해지자 국제유가는 급락하고 글로벌 증시는 반등했다.\n에너지 공급 차질 우려가 완화되면서 위험자산 선호가 되살아나는 흐름이 나타났다.",
+      "category": "economy",
+      "source": "CNN",
+      "sourceUrl": "https://edition.cnn.com/2026/04/07/business/us-stocks-oil-trump-iran-ceasefire",
+      "publishedAt": "2026-04-08T08:52:17+09:00"
     }
   ]
 }
