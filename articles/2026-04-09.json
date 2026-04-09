@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-09",
+  "articles": [
+    {
+      "id": "1",
+      "title": "홍라희, 삼성전자 주식 3.1조원 매각…상속세 마무리",
+      "summary": "홍라희 리움미술관 명예관장이 삼성전자 주식 1천500만주를 블록딜로 매각했다. 약 3조800억원 규모로, 이건희 선대회장 상속세의 마지막 납부분 현금 확보 목적이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260409031300003?section=economy/all",
+      "publishedAt": "2026-04-09T08:46:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "학원비 꼼수인상·초과징수 무더기 적발…신고포상금 10배↑",
+      "summary": "교육부가 전국 학원 1만5천여곳을 특별점검한 결과 교습비 관련 위반 596건을 포함해 총 2천394건을 적발했다. 정부는 과징금 신설과 함께 신고포상금을 10배 올려 단속을 강화하기로 했다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260408125051530?section=society/all",
+      "publishedAt": "2026-04-09T08:36:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "李대통령, 첫 국민경제자문회의 주재…중동發 위기 극복 논의",
+      "summary": "이재명 대통령이 청와대에서 첫 국민경제자문회의를 열고 중동 전쟁에 따른 에너지 수급과 한국 경제 위기 대응책을 논의했다. 회의에서는 비상 경제상황 극복 전략과 지속 성장 과제가 함께 다뤄졌다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260408167051001?section=politics/all",
+      "publishedAt": "2026-04-09T08:32:00+09:00"
+    }
+  ]
+}
