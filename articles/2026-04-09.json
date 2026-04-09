@@ -27,6 +27,105 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260408167051001?section=politics/all",
       "publishedAt": "2026-04-09T08:32:00+09:00"
+    },
+    {
+      "title": "문자 한 통으로 자동화하는 AI 에이전트 ‘포크’ 공개",
+      "summary": "스타트업 포크가 iMessage·SMS·텔레그램 등 메신저에서 바로 쓰는 개인용 AI 에이전트를 공개했다. 일정 관리, 메일 알림, 건강 추적, 스마트홈 제어 같은 작업을 앱 설치나 복잡한 설정 없이 문자 대화만으로 처리하는 것이 핵심이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/poke-makes-ai-agents-as-easy-as-sending-a-text/",
+      "publishedAt": "2026-04-09T06:05:13+09:00",
+      "id": "4"
+    },
+    {
+      "title": "메타, 새 AI 체제 첫 모델 ‘뮤즈 스파크’ 출시",
+      "summary": "메타가 슈퍼인텔리전스 랩 출범 이후 첫 모델인 ‘뮤즈 스파크’를 공개했다. 웹과 메타 AI 앱에서 제공되며, 향후 여러 에이전트가 병렬로 협업해 더 복잡한 문제를 푸는 ‘Contemplating’ 모드도 추가할 계획이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/08/meta-debuts-the-muse-spark-model-in-a-ground-up-overhaul-of-its-ai/",
+      "publishedAt": "2026-04-09T03:53:19+09:00",
+      "id": "5"
+    },
+    {
+      "title": "미국·이란, 파키스탄에서 첫 평화 협상 추진",
+      "summary": "미 백악관은 미국과 이란이 오는 토요일 파키스탄에서 첫 평화 합의 협상을 열 예정이라고 밝혔다. 군사 충돌 이후 휴전 국면이 이어지는 가운데, 본격적인 외교 협상이 실제 긴장 완화로 이어질지 주목된다.",
+      "category": "world",
+      "source": "The Korea Times",
+      "sourceUrl": "https://www.koreatimes.co.kr/world/20260409/us-iran-to-hold-1st-round-of-talks-on-peace-deal-in-pakistan-on-saturday-white-house",
+      "publishedAt": "2026-04-09T09:57:03+09:00",
+      "id": "6"
+    },
+    {
+      "title": "트럼프, 이란에 무기 공급국에 50% 관세 검토",
+      "summary": "도널드 트럼프 미국 대통령이 이란에 무기를 공급하는 국가들에 대해 50% 관세를 부과하는 방안을 거론했다. 중동 분쟁이 무역 제재 카드로 번지면서 에너지·외교·통상 시장에 추가 불확실성을 키우는 흐름이다.",
+      "category": "world",
+      "source": "The Korea Times",
+      "sourceUrl": "https://www.koreatimes.co.kr/world/20260409/trump-threatens-50-tariffs-on-those-who-supply-iran-weapons",
+      "publishedAt": "2026-04-09T09:57:03+09:00",
+      "id": "7"
+    },
+    {
+      "title": "미·이란 휴전 뒤 금융시장 변동성 다소 진정",
+      "summary": "구윤철 부총리 겸 기획재정부 장관은 미국과 이란의 2주 휴전 이후 금융·외환시장 변동성이 다소 완화됐다고 평가했다. 다만 중동 변수와 에너지 가격 불확실성이 남아 있어 시장 모니터링은 계속 강화될 전망이다.",
+      "category": "economy",
+      "source": "The Korea Times",
+      "sourceUrl": "https://www.koreatimes.co.kr/economy/20260409/economic-volatility-somewhat-eases-after-us-iran-ceasefire-finance-minister",
+      "publishedAt": "2026-04-09T09:57:03+09:00",
+      "id": "8"
+    },
+    {
+      "title": "다주택자 양도세 중과 유예, 토허제 신청분까지 확대",
+      "summary": "정부가 5월 9일 종료 예정인 다주택자 양도소득세 중과 유예를 토지거래허가 신청 건에도 적용하기로 했다. 거래 허가 절차 때문에 생길 수 있는 불확실성을 줄여 매도 기회를 넓히겠다는 조치다.",
+      "category": "realestate",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://www.yonhapnewstv.co.kr/news/AKR20260409095020WyH",
+      "publishedAt": "2026-04-09T10:00:08+09:00",
+      "id": "9"
+    },
+    {
+      "title": "서울 아파트 매매 7건 중 1건 노원구 집중",
+      "summary": "부동산 정보 앱 집품 분석에 따르면 3월 서울 아파트 매매 2,995건 중 495건이 노원구에서 발생해 비중 1위를 기록했다. 반면 강남·송파는 매매보다 전세 비중이 높아 지역별 수요 흐름 차이가 뚜렷해졌다는 분석이다.",
+      "category": "realestate",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026040986586",
+      "publishedAt": "2026-04-09T08:59:00+09:00",
+      "id": "10"
+    },
+    {
+      "title": "카오스 악성코드 변종, 설정 오류 난 클라우드까지 노린다",
+      "summary": "보안 연구진은 카오스 악성코드의 새 변종이 설정이 잘못된 클라우드 배포 환경까지 공격 범위를 넓혔다고 경고했다. 이번 변종은 SOCKS 프록시 기능도 추가해 감염 장비를 우회 통신과 추가 공격 거점으로 활용할 가능성이 제기된다.",
+      "category": "security",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/04/new-chaos-variant-targets-misconfigured.html",
+      "publishedAt": "2026-04-09T02:51:00+09:00",
+      "id": "11"
+    },
+    {
+      "title": "‘마스제수’ 봇넷 확산…전 세계 IoT 겨냥한 DDoS 대행 서비스",
+      "summary": "텔레그램을 통해 홍보된 ‘마스제수’ 봇넷이 DDoS 공격 대행 서비스 형태로 운영되며 전 세계 IoT 기기를 노리고 있는 것으로 나타났다. 은밀한 운영 방식과 광범위한 기기 호환성 때문에 추가 확산 위험이 크다는 평가다.",
+      "category": "security",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/04/masjesu-botnet-emerges-as-ddos-for-hire.html",
+      "publishedAt": "2026-04-09T01:30:00+09:00",
+      "id": "12"
+    },
+    {
+      "title": "달 표면에 새 충돌구 확인…밝은 흔적 남겼다",
+      "summary": "과학자들이 시차를 두고 촬영한 궤도 사진을 비교한 결과, 지름 22m 규모의 새로운 달 충돌구를 확인했다. 직접 목격되진 않았지만 비교적 최근 충돌로 추정되며, 달 표면도 여전히 역동적으로 변하고 있음을 보여준다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260407193919.htm",
+      "publishedAt": "2026-04-08T21:43:43+09:00",
+      "id": "13"
+    },
+    {
+      "title": "생체·에너지 기술 핵심 ‘양성자 고속도로’ 작동 원리 규명",
+      "summary": "연구진이 인산이 전하를 매우 효율적으로 전달하는 분자 구조를 극저온 실험으로 규명했다. 생체 시스템과 차세대 에너지 소재에서 공통으로 중요한 ‘양성자 이동’의 핵심 메커니즘을 이해하는 단서가 될 전망이다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/04/260407193915.htm",
+      "publishedAt": "2026-04-08T11:20:03+09:00",
+      "id": "14"
     }
   ]
 }
