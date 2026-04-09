@@ -322,6 +322,58 @@
         "콘텐츠"
       ],
       "addedAt": "2026-04-06"
+    },
+    {
+      "title": "Notion",
+      "description": "Notion 페이지와 데이터베이스를 공식 API로 조회하고 작성하는 스킬.\n회의록, 위키, 작업 관리에 바로 쓸 수 있다.",
+      "icon": "🗒️",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/notion-skill",
+      "tags": [
+        "Notion",
+        "문서",
+        "데이터베이스"
+      ],
+      "addedAt": "2026-04-09"
+    },
+    {
+      "title": "Deep Research",
+      "description": "여러 출처를 묶어 깊게 조사하고 근거를 남기는 리서치 스킬.\n시장 조사, 제품 검토, 이슈 분석에 유용하다.",
+      "icon": "🔎",
+      "category": "data",
+      "url": "https://clawhub.com/skills/in-depth-research",
+      "tags": [
+        "리서치",
+        "조사",
+        "분석"
+      ],
+      "addedAt": "2026-04-09"
+    },
+    {
+      "title": "PDF OCR",
+      "description": "스캔 PDF를 OCR로 텍스트와 문서 형태로 변환하는 스킬.\n한국어 문서, 이미지 포함 PDF 처리에 특히 유용하다.",
+      "icon": "🧾",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/pdf-ocr",
+      "tags": [
+        "PDF",
+        "OCR",
+        "문서"
+      ],
+      "addedAt": "2026-04-09"
+    },
+    {
+      "title": "macOS Calendar",
+      "description": "AppleScript로 macOS 캘린더 일정을 생성·조회·정리하는 스킬.\n맥에서 일정 등록을 빠르게 자동화할 때 좋다.",
+      "icon": "📅",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/macos-calendar",
+      "tags": [
+        "캘린더",
+        "macOS",
+        "일정"
+      ],
+      "addedAt": "2026-04-09"
     }
   ]
 }
