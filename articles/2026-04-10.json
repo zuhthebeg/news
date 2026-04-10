@@ -27,6 +27,105 @@
       "source": "한국경제",
       "sourceUrl": "https://www.hankyung.com/article/202604101055i",
       "publishedAt": "2026-04-10T08:38:00+09:00"
+    },
+    {
+      "title": "앤스로픽, 자체 AI 칩 개발 검토",
+      "summary": "앤스로픽이 외부 공급망 의존도를 낮추고 장기 비용을 줄이기 위해 자체 AI 칩 설계를 검토 중인 것으로 전해졌다. AI 서비스 수요가 급증하면서 주요 모델 기업들이 반도체까지 수직 통합에 나서는 흐름이 더 뚜렷해지고 있다.",
+      "category": "ai-tech",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/business/anthropic-weighs-building-it-own-ai-chips-sources-say-2026-04-09/",
+      "publishedAt": "2026-04-10T08:06:49+09:00",
+      "id": "4"
+    },
+    {
+      "title": "머스크의 xAI, 콜로라도 AI 규제법에 소송 제기",
+      "summary": "일론 머스크의 xAI가 콜로라도주의 신규 AI 규제법을 상대로 소송에 나섰다. 생성형 AI 규제의 기준을 둘러싼 법적 충돌이 본격화되면서 미국 주 단위 규제의 파급력이 업계 전반으로 번지는 모습이다.",
+      "category": "ai-tech",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/legal/government/elon-musks-xai-sues-colorado-over-states-new-ai-law-2026-04-09/",
+      "publishedAt": "2026-04-10T08:03:23+09:00",
+      "id": "5"
+    },
+    {
+      "title": "부산 세계유산위원회 개최 100일 앞두고 홍보 본격화",
+      "summary": "부산에서 열리는 세계유산위원회 개막을 100일 앞두고 공식 홍보 영상과 포스터가 공개됐다. 정부와 부산시는 국제행사 관심을 끌어올리며 도시 브랜드와 관광 효과를 함께 노리고 있다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260410025600005",
+      "publishedAt": "2026-04-10T09:00:02+09:00",
+      "id": "6"
+    },
+    {
+      "title": "호르무즈 해협 선박 통항 급감…이란 경고에 긴장 고조",
+      "summary": "이란의 경고 속에 호르무즈 해협 해상 교통이 사실상 멈춰 서다시피 하며 중동 긴장이 다시 높아지고 있다. 세계 원유 수송의 핵심 병목 구간인 만큼 에너지 가격과 글로벌 물류 불안으로 이어질 가능성이 커졌다.",
+      "category": "world",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/middle-east/shipping-traffic-through-hormuz-virtual-standstill-despite-ceasefire-data-shows-2026-04-09/",
+      "publishedAt": "2026-04-10T07:06:48+09:00",
+      "id": "7"
+    },
+    {
+      "title": "세계은행, 전후 복구 지원에 최소 200억달러 동원 가능성",
+      "summary": "블룸버그 보도에 따르면 세계은행이 전후 복구 지원을 위해 최소 200억달러를 동원할 수 있는 방안을 검토 중이다. 실제 집행이 가시화되면 국제 원조와 재건 금융의 방향에도 적지 않은 영향을 줄 전망이다.",
+      "category": "world",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/world-bank-could-mobilize-least-20-billion-post-war-support-bloomberg-news-2026-04-09/",
+      "publishedAt": "2026-04-10T07:11:43+09:00",
+      "id": "8"
+    },
+    {
+      "title": "강북권 아파트 평균 매매가 첫 11억원 돌파",
+      "summary": "서울 강북권 아파트 평균 매매가격이 처음으로 11억원을 넘어섰다. 강남권 중심 상승세가 비강남권으로도 번지면서 서울 주택시장 전반의 가격 부담이 다시 커지고 있다는 신호로 해석된다.",
+      "category": "realestate",
+      "source": "뉴시스",
+      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260409_0003585009",
+      "publishedAt": "2026-04-10T06:03:42+09:00",
+      "id": "9"
+    },
+    {
+      "title": "한강 생활권 아파트, 최고가 거래 상위권 독식",
+      "summary": "최근 서울 아파트 최고가 거래 상위권을 한강 생활권 단지들이 사실상 휩쓴 것으로 나타났다. 입지와 조망, 교통 경쟁력이 결합된 핵심 지역 쏠림이 고가 주택 시장에서 더 강해지는 분위기다.",
+      "category": "realestate",
+      "source": "한스경제",
+      "sourceUrl": "http://www.hansbiz.co.kr/news/articleView.html?idxno=831987",
+      "publishedAt": "2026-04-10T08:45:42+09:00",
+      "id": "10"
+    },
+    {
+      "title": "중국 슈퍼컴퓨터 해킹 주장…10PB 데이터 유출 의혹",
+      "summary": "중국의 한 슈퍼컴퓨팅 시설이 해킹돼 10페타바이트 규모 데이터가 유출됐다는 주장이 제기됐다. 사실로 확인될 경우 국가급 인프라 보안과 군사·연구 데이터 보호 체계에 큰 파장을 줄 수 있다.",
+      "category": "security",
+      "source": "Security Magazine",
+      "sourceUrl": "https://www.securitymagazine.com/articles/102225-chinese-supercomputer-allegedly-hacked-10-petabytes-of-data-stolen",
+      "publishedAt": "2026-04-10T04:00:00+09:00",
+      "id": "11"
+    },
+    {
+      "title": "헝가리 정부 계정 비밀번호 대거 온라인 노출",
+      "summary": "벨링캣은 헝가리 정부 관련 계정의 취약한 비밀번호 다수가 온라인에 노출됐다고 보도했다. 기본적 계정 보안 실패가 국가기관 수준에서도 반복되고 있다는 점에서 사이버 위생의 중요성을 다시 보여준다.",
+      "category": "security",
+      "source": "Bellingcat",
+      "sourceUrl": "https://www.bellingcat.com/news/2026/04/09/the-hungarian-government-passwords-exposed-online/",
+      "publishedAt": "2026-04-09T21:30:14+09:00",
+      "id": "12"
+    },
+    {
+      "title": "침팬지들이 동료 집단 공격…과학자들 충격",
+      "summary": "과학자들이 침팬지 집단 사이의 극단적 공격과 연쇄 살해 양상을 관찰하며 행동 원인 분석에 나섰다. 영장류의 사회성, 영역 다툼, 공격성 진화에 대한 기존 이해를 다시 점검하게 만드는 사례로 평가된다.",
+      "category": "science",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/scientists-stunned-chimpanzees-turn-friends-killing-spree-2026-04-09/",
+      "publishedAt": "2026-04-10T07:01:43+09:00",
+      "id": "13"
+    },
+    {
+      "title": "세계 첫 영구 핵폐기물 저장소, 19억년 암반층에 들어선다",
+      "summary": "19억년 된 기반암 지층에 세계 최초의 영구 핵폐기물 저장소가 들어설 예정이라고 PBS가 전했다. 고준위 방사성 폐기물의 장기 처분 해법을 둘러싼 국제 논의에서 상징성이 큰 이정표가 될 수 있다.",
+      "category": "science",
+      "source": "PBS NewsHour",
+      "sourceUrl": "https://www.pbs.org/newshour/amp/science/this-1-9-billion-year-old-bedrock-will-soon-house-the-worlds-1st-permanent-nuclear-waste-site",
+      "publishedAt": "2026-04-10T05:51:29+09:00",
+      "id": "14"
     }
   ]
 }
