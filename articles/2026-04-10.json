@@ -126,6 +126,51 @@
       "sourceUrl": "https://www.pbs.org/newshour/amp/science/this-1-9-billion-year-old-bedrock-will-soon-house-the-worlds-1st-permanent-nuclear-waste-site",
       "publishedAt": "2026-04-10T05:51:29+09:00",
       "id": "14"
+    },
+    {
+      "id": "15",
+      "title": "앤스로픽, 구글·브로드컴과 TPU 컴퓨트 계약 확대",
+      "summary": "앤스로픽이 Claude 수요 급증에 대응하기 위해 구글 클라우드 TPU와 브로드컴 기반 컴퓨트 계약을 대폭 확대했다. 모델 경쟁이 알고리즘만이 아니라 전력·칩·데이터센터 확보전으로 이동하고 있다는 신호다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/07/anthropic-compute-deal-google-broadcom-tpus/",
+      "publishedAt": "2026-04-07T09:05:00-07:00"
+    },
+    {
+      "id": "16",
+      "title": "앤스로픽, Claude Code의 OpenClaw 사용에 별도 과금 도입",
+      "summary": "앤스로픽이 서드파티 하니스에서 Claude 구독 한도를 쓰지 못하게 하고 OpenClaw 등 외부 도구 사용에 종량 과금을 붙였다. 에이전트 생태계가 커지면서 모델 사업자가 유통 채널과 수익 배분을 직접 통제하려는 흐름이 더 선명해졌다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/04/anthropic-says-claude-code-subscribers-will-need-to-pay-extra-for-openclaw-support/",
+      "publishedAt": "2026-04-04T12:00:00-07:00"
+    },
+    {
+      "id": "17",
+      "title": "오픈AI, 1220억달러 신규 자금 조달 발표",
+      "summary": "오픈AI가 기업가치 8520억달러 기준으로 1220억달러 규모의 자금 조달을 마감했다고 밝혔다. 소비자·엔터프라이즈·개발자 플랫폼을 모두 키우는 동시에 막대한 컴퓨트 확보가 승부처라는 점을 시장에 다시 각인시켰다.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/accelerating-the-next-phase-ai/",
+      "publishedAt": "2026-04-10T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "구글·인텔, AI 인프라용 CPU·IPU 협력 확대",
+      "summary": "구글 클라우드와 인텔이 Xeon 6 기반 AI·클라우드·추론 인프라와 커스텀 IPU 공동 개발을 확대하기로 했다. GPU 일변도 경쟁에서 실제 서비스 운영에 필요한 CPU·네트워크 가속기 층의 중요성이 커지고 있다는 뜻이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
+      "publishedAt": "2026-04-09T11:27:00-07:00"
+    },
+    {
+      "id": "19",
+      "title": "구글, Gemma 4를 Apache 2.0으로 공개",
+      "summary": "구글이 Gemma 4를 Apache 2.0 라이선스로 전환하며 더 개방적인 오픈 모델 전략을 택했다. 성능 개선보다도 라이선스 장벽 완화가 개발자 채택과 생태계 확장에 직접적인 영향을 줄 포인트다.",
+      "category": "ai-tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/906062/googles-gemma-4-open-ai-model",
+      "publishedAt": "2026-04-02T19:32:00Z"
     }
   ]
 }
