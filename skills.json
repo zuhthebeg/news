@@ -374,6 +374,58 @@
         "일정"
       ],
       "addedAt": "2026-04-09"
+    },
+    {
+      "title": "Agent Browser",
+      "description": "헤드리스 브라우저를 통해 웹페이지를 자동 조작하는 스킬.\n로그인, 폼 입력, 데이터 추출, 세션 상태 유지까지 안정적으로 처리한다.",
+      "icon": "🌐",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/thesethrose-agent-browser",
+      "tags": [
+        "브라우저",
+        "자동화",
+        "테스트"
+      ],
+      "addedAt": "2026-04-16"
+    },
+    {
+      "title": "Google Workspace CLI",
+      "description": "Gmail, Calendar, Drive, Contacts, Sheets, Docs를 한 번에 다루는 CLI 스킬.\n구글 업무 자동화와 빠른 데이터 조회에 유용하다.",
+      "icon": "📬",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/steipete-gog",
+      "tags": [
+        "Google",
+        "Gmail",
+        "Calendar"
+      ],
+      "addedAt": "2026-04-16"
+    },
+    {
+      "title": "Auto Updater",
+      "description": "설치된 Clawdbot과 스킬들을 정기적으로 업데이트하는 스킬.\n버전 관리와 일일 업데이트 요약까지 자동화한다.",
+      "icon": "🔄",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/maximeprades-auto-updater",
+      "tags": [
+        "업데이트",
+        "크론",
+        "유지보수"
+      ],
+      "addedAt": "2026-04-16"
+    },
+    {
+      "title": "API Gateway",
+      "description": "여러 외부 서비스 호출을 하나의 OAuth 게이트웨이로 묶는 스킬.\n서비스별 인증을 줄이고 자동화 연동을 단순화한다.",
+      "icon": "🧩",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/byungkyu-api-gateway",
+      "tags": [
+        "API",
+        "OAuth",
+        "연동"
+      ],
+      "addedAt": "2026-04-16"
     }
   ]
 }
