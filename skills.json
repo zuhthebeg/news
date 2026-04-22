@@ -426,6 +426,71 @@
         "연동"
       ],
       "addedAt": "2026-04-16"
+    },
+    {
+      "title": "OpenClaw 버전 모니터",
+      "description": "OpenClaw GitHub 릴리스와 변경 사항을 주기적으로 확인하는 스킬.\n최신 버전과 핵심 업데이트를 빠르게 추적할 때 유용하다.",
+      "icon": "🔔",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/openclaw-version-monitor",
+      "tags": [
+        "OpenClaw",
+        "버전",
+        "릴리스"
+      ],
+      "addedAt": "2026-04-22"
+    },
+    {
+      "title": "로컬 파일 관리자",
+      "description": "현재 작업 디렉터리 안에서 파일을 읽고 쓰고 목록화하는 스킬.\n분석 결과 저장, 로그 누적, 간단한 파일 정리에 바로 쓸 수 있다.",
+      "icon": "📁",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/local-file-manager",
+      "tags": [
+        "파일",
+        "저장",
+        "정리"
+      ],
+      "addedAt": "2026-04-22"
+    },
+    {
+      "title": "이력서 분석",
+      "description": "이력서의 구조, 가독성, 성과 표현, 직무 적합성을 진단하는 스킬.\n어디를 먼저 고쳐야 할지 우선순위를 잡는 데 좋다.",
+      "icon": "🧭",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/resume-analysis",
+      "tags": [
+        "이력서",
+        "진단",
+        "취업"
+      ],
+      "addedAt": "2026-04-22"
+    },
+    {
+      "title": "이력서 리라이트",
+      "description": "개인 요약, 경력, 프로젝트 문구를 더 선명하고 결과 중심으로 다듬는 스킬.\n사실은 유지하면서 표현만 강하게 바꾸고 싶을 때 유용하다.",
+      "icon": "✍️",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/resume-rewrite",
+      "tags": [
+        "이력서",
+        "문장개선",
+        "요약"
+      ],
+      "addedAt": "2026-04-22"
+    },
+    {
+      "title": "JD-이력서 매칭",
+      "description": "채용 공고와 이력서를 비교해 강점, 부족한 키워드, 수정 방향을 알려주는 스킬.\n지원 전 적합도를 빠르게 점검할 때 유용하다.",
+      "icon": "🎯",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/job-match",
+      "tags": [
+        "채용",
+        "매칭",
+        "커리어"
+      ],
+      "addedAt": "2026-04-22"
     }
   ]
 }
