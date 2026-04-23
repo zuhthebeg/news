@@ -491,6 +491,71 @@
         "커리어"
       ],
       "addedAt": "2026-04-22"
+    },
+    {
+      "title": "token-aware-image",
+      "description": "디자인 토큰을 반영한 소셜/마케팅 이미지 컴포넌트를 생성하는 스킬.\nTSX로 만들어 바로 PNG 렌더링에 연결할 수 있다.",
+      "icon": "🖼️",
+      "category": "media",
+      "url": "https://clawhub.com/skills/token-image",
+      "tags": [
+        "이미지",
+        "디자인토큰",
+        "마케팅"
+      ],
+      "addedAt": "2026-04-23"
+    },
+    {
+      "title": "Mobile UX Audit",
+      "description": "모바일 쇼핑 경험의 병목을 점검하는 감사 스킬.\n터치하기 어려운 버튼, 느린 로딩, 결제 이탈 지점을 빠르게 찾는다.",
+      "icon": "📱",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/mobile-ux-audit",
+      "tags": [
+        "모바일",
+        "UX",
+        "이커머스"
+      ],
+      "addedAt": "2026-04-23"
+    },
+    {
+      "title": "pandas-ta-indicators",
+      "description": "pandas-ta로 RSI, MACD, 볼린저밴드 같은 기술지표를 계산하는 스킬.\n여러 종목 데이터를 한 번에 비교하고 시각화할 수 있다.",
+      "icon": "📊",
+      "category": "data",
+      "url": "https://clawhub.com/skills/pandas-ta-indicators",
+      "tags": [
+        "시계열",
+        "기술분석",
+        "파이썬"
+      ],
+      "addedAt": "2026-04-23"
+    },
+    {
+      "title": "portfolio-optimization",
+      "description": "균형잡힌 자산 배분을 돕는 포트폴리오 최적화 스킬.\n평균분산, Black-Litterman, HRP 전략을 비교해 리스크를 줄인다.",
+      "icon": "💹",
+      "category": "data",
+      "url": "https://clawhub.com/skills/portfolio-optimization",
+      "tags": [
+        "투자",
+        "포트폴리오",
+        "리스크관리"
+      ],
+      "addedAt": "2026-04-23"
+    },
+    {
+      "title": "Api Budget Guardian",
+      "description": "여러 AI API의 사용량과 비용을 감시하는 절감 스킬.\n비용이 새기 쉬운 구간을 찾아 호출 전략을 최적화한다.",
+      "icon": "🧾",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/api-budget-guardian",
+      "tags": [
+        "비용",
+        "API",
+        "최적화"
+      ],
+      "addedAt": "2026-04-23"
     }
   ]
 }
