@@ -135,6 +135,51 @@
       "source": "한겨레",
       "sourceUrl": "https://www.hani.co.kr/arti/science/science_general/1255703.html",
       "publishedAt": "2026-04-24T09:30:00+09:00"
+    },
+    {
+      "title": "Anthropic launches Claude Design, a new product for creating quick visuals",
+      "summary": "Anthropic가 비디자이너도 아이디어를 빠르게 시각화할 수 있도록 돕는 새 제품 Claude Design을 공개했다. 창업자·PM 같은 실무자가 디자인 리소스 없이도 콘셉트를 공유하는 용도를 겨냥한다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/17/anthropic-launches-claude-design-a-new-product-for-creating-quick-visuals/",
+      "publishedAt": "2026-04-17T15:00:00+00:00",
+      "id": "16"
+    },
+    {
+      "title": "OpenAI releases GPT-5.5, bringing company one step closer to an AI ‘super app’",
+      "summary": "OpenAI가 GPT-5.5를 공개하며 여러 작업 범주에서 성능 향상을 강조했다. 단일 앱 안에서 더 많은 업무를 처리하는 AI 슈퍼앱 전략을 한 단계 더 밀어붙이는 신호로 읽힌다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/23/openai-chatgpt-gpt-5-5-ai-model-superapp/",
+      "publishedAt": "2026-04-23T18:29:29+00:00",
+      "id": "17"
+    },
+    {
+      "title": "Google updates Workspace to make AI your new office intern",
+      "summary": "Google이 Workspace Intelligence 기반의 자동화 기능을 대거 추가했다. 문서·메일·협업 흐름 전반에서 AI를 실무 보조 인턴처럼 쓰게 하려는 방향이 더 선명해졌다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-updates-workspace-to-make-ai-your-new-office-intern/",
+      "publishedAt": "2026-04-22T22:44:26+00:00",
+      "id": "18"
+    },
+    {
+      "title": "Google Cloud launches two new AI chips to compete with Nvidia",
+      "summary": "Google Cloud가 엔비디아에 맞서는 새 TPU 2종을 발표했다. 이전 세대 대비 성능과 비용 효율을 개선하면서도, 당분간은 엔비디아 생태계와 병행하는 전략을 유지한다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/22/google-cloud-next-new-tpu-ai-chips-compete-with-nvidia/",
+      "publishedAt": "2026-04-22T18:39:27+00:00",
+      "id": "19"
+    },
+    {
+      "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+      "summary": "Meta가 사내 도구를 통해 직원들의 키 입력과 마우스 동작 데이터를 수집해 AI 학습에 활용할 계획이라고 전해졌다. 내부 생산성 데이터까지 모델 개선에 연결하는 공격적 접근이라 논란 가능성이 크다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+      "publishedAt": "2026-04-21T23:45:21+00:00",
+      "id": "20"
     }
   ]
 }
