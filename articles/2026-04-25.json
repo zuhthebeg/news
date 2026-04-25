@@ -126,6 +126,51 @@
       "sourceUrl": "https://www.medigatenews.com/news/704281321",
       "publishedAt": "2026-04-25T09:20:00+09:00",
       "id": "14"
+    },
+    {
+      "id": "15",
+      "title": "Anthropic releases Claude Opus 4.7: How to try it, benchmarks, safety",
+      "summary": "Anthropic의 최신 플래그십 Claude Opus 4.7이 공개됐다. 성능 벤치마크와 사용 방법, 안전성 보완이 함께 소개되며 고성능 코딩·추론 시장 경쟁이 다시 가열되는 흐름이다.",
+      "category": "ai-tech",
+      "source": "Mashable",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBoQkkwMnB2b0tyeFllX3Iwa2FrRXNZbW5Dem5ERGlLVzFkbGNycUN1UXVEMnhYVlVmaGNTNDZuSTVWZ3d3alpjN29LbkprZV9qTjg1QVFKdURnYk9FYlFTQWFReVRNdEJPaHdTWlhGUTM?oc=5",
+      "publishedAt": "2026-04-24T14:36:33+00:00"
+    },
+    {
+      "id": "16",
+      "title": "Anthropic says engineering missteps were behind Claude Code’s monthlong decline after weeks of user backlash",
+      "summary": "앤트로픽은 최근 수주간 제기된 Claude Code 품질 저하 논란이 모델 자체보다 엔지니어링 운영 실수에서 비롯됐다고 설명했다. 서비스 품질 회복과 배포 체계 개선이 핵심 과제로 떠올랐다.",
+      "category": "ai-tech",
+      "source": "Fortune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEdyc2dGVUtyNW90cFh5OGZmcnFvb0VmWU5iNjVJRlpWM1BndktEcnZaeGhxRU1kSnl4Qjg4MlRzU1pYUFBPZDMtZm9rTFdyLTNWTzFLU0dqU1AxWU5sUThVV2x4UXMwcVJhWlE1ODVRRlFFNFVqMUJFdUtpZ2ZlY1JIV0dLVWVwZ0tsOTFyYmZyQ2k5ZVBEZnpIYWp1V0psZHdUcnB4am1BWmN3?oc=5",
+      "publishedAt": "2026-04-24T17:21:00+00:00"
+    },
+    {
+      "id": "17",
+      "title": "Anthropic and NEC partner to build AI-native engineering at scale in Japan",
+      "summary": "앤트로픽과 NEC가 일본에서 대규모 AI-네이티브 엔지니어링 체계를 구축하기 위해 협력에 나섰다. Claude 기반 개발 워크플로를 기업 현장에 본격 이식하려는 전략적 제휴다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE56anVNWVpOWDBpaTRvdHNjV3lleFJVNTQ4UUt5b09KdmJUSzBNNTlfNDczTXlTUThaajc2cVprTWp4SW9EWVBRUFk1eTBBWl9Qc1ZTOHpURi04NXNPNWgwNkVLQXB1bDQ?oc=5",
+      "publishedAt": "2026-04-24T22:18:45+00:00"
+    },
+    {
+      "id": "18",
+      "title": "Google to invest up to $40 billion in Anthropic as search giant spreads its AI bets",
+      "summary": "구글이 앤트로픽에 최대 400억달러를 투자하는 방안을 추진하며 생성형 AI 판을 키우고 있다. 검색·클라우드·모델 생태계 주도권을 놓치지 않으려는 대형 베팅으로 해석된다.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOT2NxSktQaDVOV3FRckRrRGZ0TzJjX2NmWWUwQklqUERpZWxrRW9heVhDVHVaNU9yNjJlY2tpRTZyUzRhOEVOS3hxM3BuUks5LURYVlk2Nm1BVWpFRE9DaXNMcWZ4cUs0Y1BwQWpIVGlFTC00V216R0ItVFJUX0w4cy1qNzVTNHBQaVR2RVVZRkVrdTIzSDB4bEhhRm5FeGZlU18wTmFRZlZBNGhURWhUWGRrMjZweC1HR2Nv0gHAAUFVX3lxTFAzNjgyNC1ZdmE5aE9obWpnUldYTFBvRWhQME12Q05TbGN1RWs5LVM4R0FnRW9QNU9vUV8yV044OFdPaGh2QTlkZlo3R3NyYjZ4UzB1V2pJQ1RLRWJyQXpHX2p1VFhYaGRRZHhYZ3BUdnVabmxMWUNGWExhTkt1ckVZcTM5aVFfZTJHTDl0bktiYV92OHl5bWpJTDRYdWp1Vk1JRFBvUEpvZE85U3JiZVhfelpWeUZFN2ZqMTM3Nl9qNg?oc=5",
+      "publishedAt": "2026-04-24T17:30:55+00:00"
+    },
+    {
+      "id": "19",
+      "title": "Former OpenAI research scientist launches new AI model for Tencent",
+      "summary": "전 오픈AI 연구원이 텐센트와 함께 새로운 AI 모델을 내놓으며 중국 빅테크의 모델 경쟁이 더 치열해졌다. 미국 선도 연구 인력이 아시아 대형 플랫폼으로 이동하는 흐름도 드러난다.",
+      "category": "ai-tech",
+      "source": "Computerworld",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNUTlJNzlhcGFLQ1Y5TjZYdlRuRm1UN1JjOFhub2VnX0dSWUkzVjZiQ3BrX2hNdWZQekJ1WGtiWDJlTURZZkRfeThPdDdfYndpNEw4aVg1QXhvSmhHWl9KRFBGUXZkbm9ZZGI4MTUtTENXMl9yWFhfc2wtQVdqSFB5cmI5NXZpX2NYU3JON0NNVHJPX3R5UHpMU2ZmWlZEbjl4VU5CVzBWbXBYSF9kYWZUaDRwZ2JiQ3BuWHZ3?oc=5",
+      "publishedAt": "2026-04-24T23:47:02+00:00"
     }
   ]
 }
