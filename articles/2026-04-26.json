@@ -27,6 +27,114 @@
       "source": "연합뉴스TV",
       "sourceUrl": "https://www.yonhapnewstv.co.kr/news/MYH20260425152255vNc",
       "publishedAt": "2026-04-25T15:23:22+09:00"
+    },
+    {
+      "title": "스타게이트 자금 경고등…오라클 인프라 투자에 월가 부담 커져",
+      "summary": "AI 수요 확대에 맞춰 데이터센터 투자가 급증하면서 초대형 인프라 자금 조달 부담이 커지고 있다. 오라클이 추진하는 스타게이트 관련 투자도 금융시장의 수용 한계를 시험하는 사례로 거론됐다.",
+      "category": "ai-tech",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20260426092030",
+      "publishedAt": "2026-04-26T09:31:47+09:00",
+      "id": "4"
+    },
+    {
+      "title": "SKT, 베트남서 AI 데이터센터 첫발…에너지 결합 전략 승부수",
+      "summary": "SK텔레콤이 국내에서 쌓은 AI 데이터센터 역량을 바탕으로 베트남 시장 진출에 나섰다. 에너지 사업과 AI 인프라를 결합해 글로벌 데이터센터 사업 확장 가능성을 시험하겠다는 구상이다.",
+      "category": "ai-tech",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260424159600017",
+      "publishedAt": "2026-04-26T08:30:02+09:00",
+      "id": "5"
+    },
+    {
+      "title": "백악관 기자단 만찬서 큰 폭발음…트럼프 한때 피신",
+      "summary": "미국 백악관 기자단 만찬 도중 큰 폭발음이 발생해 도널드 트럼프 대통령이 현장을 벗어나는 상황이 벌어졌다. 정확한 원인은 아직 확인되지 않았지만 행사장 보안 체계 전반에 대한 점검이 불가피해졌다.",
+      "category": "world",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://news.kbs.co.kr/news/view.do?ncd=8545919",
+      "publishedAt": "2026-04-26T09:48:00+09:00",
+      "id": "6"
+    },
+    {
+      "title": "찰스 3세 미국 방문 추진…냉각된 영미관계 돌파구 될까",
+      "summary": "이란 전쟁 여파로 미묘해진 미국과 영국 관계 속에서 찰스 3세 국왕의 방미 일정이 주목받고 있다. 영국은 왕실 외교를 활용해 트럼프 행정부와의 관계를 완화하는 계기로 삼으려는 분위기다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260425045100085",
+      "publishedAt": "2026-04-26T07:11:00+09:00",
+      "id": "7"
+    },
+    {
+      "title": "기업대출 시장, 은행-기업 MOU 경쟁 확산…딜 선점전 치열",
+      "summary": "은행권에서 대기업·그룹사와의 업무협약을 통해 장기 거래를 선점하려는 흐름이 강해지고 있다. 생산적 금융 기조가 확산되면서 단건 영업보다 관계형 금융으로 무게중심이 이동하는 모습이다.",
+      "category": "economy",
+      "source": "연합인포맥스",
+      "sourceUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4411691",
+      "publishedAt": "2026-04-26T09:03:18+09:00",
+      "id": "8"
+    },
+    {
+      "title": "우리은행, 지방 기업 찾아가는 환율 세미나 확대",
+      "summary": "우리은행이 환율 변동성에 취약한 지방 수출입 기업을 직접 찾아가 환리스크 관리 방안을 설명하고 있다. 외환 서비스 접근성이 낮은 지역 기업의 실무 대응력을 높이려는 현장 밀착형 지원으로 해석된다.",
+      "category": "economy",
+      "source": "BBS 불교방송",
+      "sourceUrl": "https://news.bbsi.co.kr/news/articleView.html?idxno=4080404",
+      "publishedAt": "2026-04-26T09:00:00+09:00",
+      "id": "9"
+    },
+    {
+      "title": "서울 아파트 전세 부족 심화…수요·공급 격차 5년 만에 최대",
+      "summary": "서울 아파트 전세수급지수가 크게 오르며 전세 물건 부족 현상이 다시 심해지고 있다. 수요는 늘고 공급은 따라가지 못하면서 체감 전세난이 5년 만의 최고 수준으로 치솟았다는 분석이 나왔다.",
+      "category": "realestate",
+      "source": "중소기업신문",
+      "sourceUrl": "http://www.smedaily.co.kr/news/articleView.html?idxno=356179",
+      "publishedAt": "2026-04-26T09:42:06+09:00",
+      "id": "10"
+    },
+    {
+      "title": "수도권 주택 이상거래 746건 적발…편법 증여 의심 사례 포함",
+      "summary": "정부가 수도권 주택 거래를 점검한 결과 시세보다 싸게 가족 간 매매를 한 뒤 다시 전세를 주는 방식 등 이상거래 746건을 적발했다. 편법 증여와 탈세 가능성이 있는 사례를 중심으로 후속 조사도 이어질 전망이다.",
+      "category": "realestate",
+      "source": "문화일보",
+      "sourceUrl": "https://www.munhwa.com/article/11584970",
+      "publishedAt": "2026-04-26T08:24:12+09:00",
+      "id": "11"
+    },
+    {
+      "title": "병원 해킹 4년간 4배 급증…민감 의료정보 유출 우려",
+      "summary": "결혼정보업체 개인정보 유출 논란 속에서 병원 대상 해킹도 최근 4년간 4배 가까이 늘어난 것으로 나타났다. 건강정보처럼 민감한 데이터가 많은 만큼 의료기관 보안 투자와 점검 강화가 시급하다는 지적이 나온다.",
+      "category": "security",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://biz.heraldcorp.com/article/10725550",
+      "publishedAt": "2026-04-26T08:32:42+09:00",
+      "id": "12"
+    },
+    {
+      "title": "SKT 해킹 1년…정보보호 법·제도 재편 압박 커져",
+      "summary": "SK텔레콤 대규모 해킹 사태 이후 1년 사이 국내 정보보호 경각심이 크게 높아졌다는 평가가 나왔다. 개인정보보호 규제와 과징금 체계, 사고 대응 절차까지 전반적인 제도 개편 논의가 본격화되고 있다.",
+      "category": "security",
+      "source": "서울파이낸스",
+      "sourceUrl": "https://www.seoulfn.com/news/articleView.html?idxno=627379",
+      "publishedAt": "2026-04-26T09:00:00+09:00",
+      "id": "13"
+    },
+    {
+      "title": "우주산업 골든타임 왔다…투자사 협력해 생태계 키워야",
+      "summary": "우주산업이 과학 연구를 넘어 본격적인 사업화 단계에 진입하면서 지금이 투자 확대의 적기라는 진단이 나왔다. 민간 투자사들이 힘을 모아 초기 생태계를 키워야 국내 우주기업 성장도 빨라질 수 있다는 분석이다.",
+      "category": "science",
+      "source": "유니콘팩토리",
+      "sourceUrl": "https://www.unicornfactory.co.kr/article/2026042416014090584",
+      "publishedAt": "2026-04-26T09:17:30+09:00",
+      "id": "14"
+    },
+    {
+      "title": "우주 광통신은 새로운 고속도로…독자 기술 개발 필요",
+      "summary": "위성 간 대용량 데이터를 주고받는 우주 광통신이 미래 우주 인프라의 핵심 기술로 떠오르고 있다. 국내 연구진은 해외 의존도를 줄이기 위해 지금부터 독자 기술과 산업 기반을 함께 구축해야 한다고 강조했다.",
+      "category": "science",
+      "source": "유니콘팩토리",
+      "sourceUrl": "https://www.unicornfactory.co.kr/article/2026042415015830686",
+      "publishedAt": "2026-04-26T09:16:58+09:00",
+      "id": "15"
     }
   ]
 }
