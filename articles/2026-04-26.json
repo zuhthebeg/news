@@ -135,6 +135,51 @@
       "sourceUrl": "https://www.unicornfactory.co.kr/article/2026042415015830686",
       "publishedAt": "2026-04-26T09:16:58+09:00",
       "id": "15"
+    },
+    {
+      "id": "16",
+      "title": "Anthropic says Claude Opus 4.7 has a 92% honesty rate, less sycophancy",
+      "summary": "Anthropic says its latest Claude Opus 4.7 model reduces flattering or overly agreeable responses while scoring 92% on its internal honesty benchmark. The update is positioned as a trust and reliability improvement rather than a raw capability jump.",
+      "category": "ai-tech",
+      "source": "Mashable",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wN1RNSlBKcVFUWVpqVDFVV0YtU2NPajNHbWhKcnczRm56RS1qZk9pODFNRXRZTzhMU3F5UzJuV19LWE5FcWgtM0U4RWs0UnhkWmZyV0JNS21fZVVTNGFHRmZRRTIyUF8ybU91aGdTSngzX184V2puMTZWeGVRdw?oc=5",
+      "publishedAt": "2026-04-26T01:17:14Z"
+    },
+    {
+      "id": "17",
+      "title": "Claude can now connect with Spotify, Uber, and a lot more apps",
+      "summary": "Anthropic is expanding Claude's app connectivity so the assistant can work across consumer services including Spotify and Uber. The move pushes Claude further toward an action-taking assistant instead of a chat-only model.",
+      "category": "ai-tech",
+      "source": "Mashable",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOV3BhTkJiYlBzcVpPUkhjQWFjM3dDWDU0X3lEVktSSDZMUUVoRHRxQmxUZllQeE5Uc09WX1IzUzFBWnp1U05NOEp0SUFfS1ZRcTF5Zi1xVDVMQTgxQ2NHMEI2UE1ENEZrTkRMRUtTRnBhNXRDOXRKeWlEd3NId0JRSEkxMV90cjA?oc=5",
+      "publishedAt": "2026-04-25T19:32:59Z"
+    },
+    {
+      "id": "18",
+      "title": "AI talent war: Software industry is a new target as top executives jump ship to OpenAI",
+      "summary": "OpenAI's hiring pull is intensifying the executive talent war across the software sector, with senior leaders reportedly leaving established firms for frontier AI labs. The story underlines how competitive advantage is shifting from software distribution to model, compute, and research talent.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPbGpLcjJZNVVra21PUTJ1emVFZ1ZsWWlDa0dNeFZUN3RyQTlKcTZ4MVpkT0hnOHRtdW1PQ091SHdKT0NNSV9jQ2pnR0dzQ25oVUVaWTk2VVF4STJwVjNYRm9SU0VpNUNxbmt4SmhVTTFIa0htdnBuOS04VFpaZElYbHNsejB1YmhiaFBSNU9iM3A4NDDSAZgBQVVfeXFMT3ZIUFIxWnJ2a01tdmVqT1p2WWVnTFdOWHYxX09oY1ozMzB5R2tIcU5IbkJJejFrOVJQMFJJU2d2bElmVEcyZ2JrZ2tTNnVMNVNjODdxVkJsSkIzX2JGa3ZvczNsRS1EeW9vSEtLbktkUGtmcEdiYVU4cWxpQVVVazc1M3IwT09wM3RhRU1ZQWVTUVkyOUppWXU?oc=5",
+      "publishedAt": "2026-04-25T12:43:39Z"
+    },
+    {
+      "id": "19",
+      "title": "Nvidia and OpenAI both make US$20 billion bets on AI chip startups: what's the common factor?",
+      "summary": "A new Digitimes report says Nvidia and OpenAI are both backing AI chip startups with giant capital commitments, signaling that next-generation accelerator supply is becoming a strategic battleground. The common thread is securing compute optionality before hyperscale demand tightens further.",
+      "category": "ai-tech",
+      "source": "digitimes",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOX0ZwdHRMZlZaTm53T0l5M3hvYmJNY2wzQmpsV0ZDX1M3OWl0QXk4VHpSbi05Vmt0WGs4ekdlVktvN1pRd2lORjVtVDZlRlpDeldmYVhqLTN5V3VqSjJsenIwbXhxa3p6TGc1VG1FeC0zbXBNQ1FzaVNKVlVqdGM3VkI2dmVtZjFrX1ZySlhMNA?oc=5",
+      "publishedAt": "2026-04-26T00:40:01Z"
+    },
+    {
+      "id": "20",
+      "title": "Anthropic says engineering missteps were behind Claude Code’s monthlong decline after weeks of user backlash",
+      "summary": "Anthropic says recent Claude Code quality complaints traced back to engineering mistakes rather than a deliberate product downgrade. The acknowledgement matters because developer trust in coding agents now depends as much on operational stability as headline model scores.",
+      "category": "ai-tech",
+      "source": "Fortune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPTEdyc2dGVUtyNW90cFh5OGZmcnFvb0VmWU5iNjVJRlpWM1BndktEcnZaeGhxRU1kSnl4Qjg4MlRzU1pYUFBPZDMtZm9rTFdyLTNWTzFLU0dqU1AxWU5sUThVV2x4UXMwcVJhWlE1ODVRRlFFNFVqMUJFdUtpZ2ZlY1JIV0dLVWVwZ0tsOTFyYmZyQ2k5ZVBEZnpIYWp1V0psZHdUcnB4am1BWmN3?oc=5",
+      "publishedAt": "2026-04-24T17:21:00Z"
     }
   ]
 }
