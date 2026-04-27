@@ -556,6 +556,45 @@
         "최적화"
       ],
       "addedAt": "2026-04-23"
+    },
+    {
+      "title": "OpenClaw 코르텍스 메모리",
+      "description": "에이전트용 장기 메모리 저장·검색·요약을 돕는 스킬.\n세션을 넘겨도 기억을 유지하는 워크플로에 유용하다.",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/openclaw-cortex-memory",
+      "tags": [
+        "메모리",
+        "검색",
+        "OpenClaw"
+      ],
+      "addedAt": "2026-04-27"
+    },
+    {
+      "title": "Cortex Memory",
+      "description": "의미 기반 검색과 계층형 메모리 구조로 대화 맥락을 관리하는 스킬.\n장기 기억·프로필·세션 지식 정리에 적합하다.",
+      "icon": "🧠",
+      "category": "data",
+      "url": "https://clawhub.com/skills/cortex-mem",
+      "tags": [
+        "메모리",
+        "검색",
+        "벡터"
+      ],
+      "addedAt": "2026-04-27"
+    },
+    {
+      "title": "샤오홍슈 표지 생성",
+      "description": "샤오홍슈(小红书)용 매거진/커버 이미지를 빠르게 설계하는 스킬.\n썸네일과 콘텐츠용 표지 시안 제작에 유용하다.",
+      "icon": "🖼️",
+      "category": "media",
+      "url": "https://clawhub.com/skills/xiaohongshu-magazine-cover",
+      "tags": [
+        "표지",
+        "썸네일",
+        "이미지"
+      ],
+      "addedAt": "2026-04-27"
     }
   ]
 }
