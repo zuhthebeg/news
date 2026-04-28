@@ -1,0 +1,32 @@
+{
+  "date": "2026-04-28",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'5조원 혈세' ODA 중점협력국 비공개 고수…'투명성 후퇴' 논란",
+      "summary": "정부가 향후 5년 대외원조의 핵심 기준인 제4기 ODA 중점협력국 명단과 선정 지표를 비공개하기로 하면서 국회·개발협력계에서 투명성 후퇴 우려가 제기됐다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260427158200371",
+      "publishedAt": "2026-04-28T08:38:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "오늘 오후 3시 김건희 2심…‘주가조작·공천개입 무죄’ 1심 뒤집힐까",
+      "summary": "도이치모터스 주가조작, 통일교 금품수수, 공천개입 혐의와 관련한 김건희 여사의 항소심 선고가 오늘 오후 열린다. 특검은 1심 판단의 변경 가능성을 다투고 있다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/society/society_general/1256174.html",
+      "publishedAt": "2026-04-28T08:43:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "영남권·서울 무당층 30%대…지방선거 승패 가를 ‘변수’",
+      "summary": "6·3 지방선거를 앞두고 대구·경북, 부산·울산·경남, 서울의 무당층 비율이 30%대를 기록하면서 여야가 막판 표심 변화와 보수 성향 무당층 결집 여부를 주시하고 있다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/politics/politics_general/1256175.html",
+      "publishedAt": "2026-04-28T08:11:00+09:00"
+    }
+  ]
+}
