@@ -135,6 +135,51 @@
       "source": "사이언스타임즈",
       "sourceUrl": "https://www.sciencetimes.co.kr/nscvrg/view/menu/260?searchCategory=230&nscvrgSn=261781",
       "publishedAt": "2026-04-28T09:00:39+09:00"
+    },
+    {
+      "id": "16",
+      "title": "구글, 앤스로픽에 현금·컴퓨트 포함 최대 400억달러 투자 계획",
+      "summary": "TechCrunch는 구글이 앤스로픽에 최대 400억달러 규모의 현금·컴퓨트 투자를 추진한다고 보도했다. 대형 AI 모델 경쟁이 모델 성능뿐 아니라 장기 컴퓨트 확보전으로 더 강하게 이동하고 있다는 신호다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/24/google-to-invest-up-to-40b-in-anthropic-in-cash-and-compute/",
+      "publishedAt": "2026-04-24T11:00:00-07:00"
+    },
+    {
+      "id": "17",
+      "title": "앤스로픽, Claude Code 품질 저하 원인 3건 공개하고 수정 완료",
+      "summary": "앤스로픽은 Claude Code·Agent SDK·Claude Cowork 품질 저하 보고를 조사한 결과, 추론 노력 기본값 변경, 오래된 thinking 정리 버그, 과도한 간결화 프롬프트가 영향을 줬다고 밝혔다. 4월 20일 v2.1.116 기준 모두 수정됐다고 설명했다.",
+      "category": "ai-tech",
+      "source": "Anthropic Engineering",
+      "sourceUrl": "https://www.anthropic.com/engineering/april-23-postmortem",
+      "publishedAt": "2026-04-23T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "OpenAI, GPT-5.5 생물안전 ‘보편 탈옥’ 버그바운티 시작",
+      "summary": "OpenAI가 GPT-5.5의 생물안전 방어를 검증하기 위해 초청·신청 기반 버그바운티를 열었다. Codex Desktop의 GPT-5.5가 범위이며, 5개 비공개 생물안전 질문을 모두 우회하는 단일 프롬프트에 2만5000달러 보상이 걸렸다.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://openai.com/index/gpt-5-5-bio-bug-bounty/",
+      "publishedAt": "2026-04-23T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "앤스로픽, Claude Mythos Preview 사이버보안 평가 공개",
+      "summary": "Anthropic red team은 Claude Mythos Preview가 컴퓨터 보안 작업에서 두드러진 성능을 보였다고 평가했다. 제로데이 탐색·취약점 분석 역량이 커지면서 Project Glasswing 같은 방어 협력 체계의 필요성이 강조됐다.",
+      "category": "ai-tech",
+      "source": "Anthropic Red Team",
+      "sourceUrl": "https://red.anthropic.com/2026/mythos-preview/",
+      "publishedAt": "2026-04-07T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "Ars Technica: 앤스로픽, Claude Code Pro 플랜 제외 테스트로 개발자 반발",
+      "summary": "Ars Technica는 앤스로픽이 한때 월 20달러 Pro 플랜에서 Claude Code 지원을 제외하는 가격표 표시를 테스트해 개발자 커뮤니티가 반발했다고 보도했다. 높은 수요 속에서 AI 코딩 도구 접근권과 요금제가 핵심 쟁점으로 떠올랐다.",
+      "category": "ai-tech",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/ai/2026/04/anthropic-tested-removing-claude-code-from-the-pro-plan/",
+      "publishedAt": "2026-04-22T14:34:00-04:00"
     }
   ]
 }
