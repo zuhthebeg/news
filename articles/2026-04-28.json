@@ -27,6 +27,114 @@
       "source": "한겨레",
       "sourceUrl": "https://www.hani.co.kr/arti/politics/politics_general/1256175.html",
       "publishedAt": "2026-04-28T08:11:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "생성형 AI로 업무 생산성 향상…아이에스동서, 인공지능 도입 속도",
+      "summary": "아이에스동서가 본사·현장·공장 임직원을 대상으로 생성형 AI 활용 교육을 확대하고 있다. 건설·제조 현장의 업무 효율을 높이기 위한 기업 차원의 AI 도입 사례로 주목된다.",
+      "category": "ai-tech",
+      "source": "신아일보",
+      "sourceUrl": "https://www.shinailbo.co.kr/news/articleView.html?idxno=5015650",
+      "publishedAt": "2026-04-28T09:51:13+09:00"
+    },
+    {
+      "id": "5",
+      "title": "야놀자, 실시간 통역·일정 최적화 등 자체 AI 기술 공개",
+      "summary": "야놀자가 5월 코엑스 행사에서 실시간 통역, 일정 최적화, 숙소 이미지 기반 생성형 솔루션 등 독자 AI 기술을 선보인다. 숙박 예약 플랫폼을 넘어 글로벌 여행 기술 기업으로 전환하려는 전략이다.",
+      "category": "ai-tech",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/industry/hotel-tourism/6150839",
+      "publishedAt": "2026-04-28T09:28:26+09:00"
+    },
+    {
+      "id": "6",
+      "title": "미·이란 협상 교착 속 트럼프 5월 방중 조정 가능성",
+      "summary": "미국과 이란 협상이 교착 상태를 보이는 가운데 트럼프 대통령의 5월 중국 방문 가능성이 거론되고 있다. 중동 정세와 미·중 관계가 동시에 움직이며 국제 외교 일정의 변수로 떠올랐다.",
+      "category": "world",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/international/china/1256073.html",
+      "publishedAt": "2026-04-27T19:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "미국 의존 줄이는 유럽·아시아…군비 지출 16년 만에 최대 증가",
+      "summary": "스톡홀름국제평화연구소 보고서에 따르면 2025년 전 세계 군사비 지출이 2조 달러를 넘어서며 증가세를 이어갔다. 특히 아시아·태평양 지역의 지출 확대가 두드러져 각국의 안보 자립 흐름이 강해지고 있다.",
+      "category": "world",
+      "source": "서울경제",
+      "sourceUrl": "https://m.sedaily.com/amparticle/20037702",
+      "publishedAt": "2026-04-27T17:42:26+09:00"
+    },
+    {
+      "id": "8",
+      "title": "증시 활황에 백화점주 고공행진…1년 새 150% 폭등한 종목도",
+      "summary": "주식 수익과 성과급 증가, 외국인 관광객 매출 회복이 맞물리며 백화점 관련주가 크게 올랐다. 신세계백화점 주가는 1년간 150% 넘게 상승했고 현대백화점·롯데쇼핑도 강세를 보였다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/amp/2026042702141",
+      "publishedAt": "2026-04-28T06:00:09+09:00"
+    },
+    {
+      "id": "9",
+      "title": "롤러코스터 환율, 4월 들어 3.8% 급락",
+      "summary": "원화 가치가 4월 들어 빠르게 오르며 원·달러 환율이 큰 폭으로 내려갔다. 증시 호황과 세계국채지수 편입 효과가 영향을 줬지만, 고환율 흐름이 완전히 꺾였는지는 아직 불확실하다는 분석이다.",
+      "category": "economy",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/economy/economy_general/2026/04/28/7RBFEBMYCJAEDIGO6X4IBARQJE/",
+      "publishedAt": "2026-04-28T09:03:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "서울 아파트 전세 수급, 2021년 이후 가장 빡빡한 수준",
+      "summary": "서울 아파트 전세수급지수가 4월 셋째 주 108.4를 기록해 2021년 6월 이후 최고 수준에 근접했다. 전세 물량 부족이 이어지면서 전셋값 상승 압력이 커지고 있다.",
+      "category": "realestate",
+      "source": "한국부동산뉴스",
+      "sourceUrl": "https://www.karnews.or.kr/news/articleView.html?idxno=23565",
+      "publishedAt": "2026-04-27T17:33:40+09:00"
+    },
+    {
+      "id": "11",
+      "title": "SH, 장기전세주택 1154세대 모집…최장 20년 거주 가능",
+      "summary": "서울주택도시개발공사가 제50차 장기전세주택 1154세대 입주자를 모집한다. 신규 공급과 재공급 물량을 합친 규모로, 청약 접수는 5월 중 시작될 예정이다.",
+      "category": "realestate",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://biz.heraldcorp.com/article/10726717",
+      "publishedAt": "2026-04-27T17:59:33+09:00"
+    },
+    {
+      "id": "12",
+      "title": "메드트로닉 해킹 정황 확인…샤이니헌터스 “900만 건 탈취” 주장",
+      "summary": "글로벌 의료기기 기업 메드트로닉이 IT 시스템 침해 정황을 공식 확인했다. 해커 조직 샤이니헌터스는 대규모 데이터 탈취를 주장하고 있어 의료 분야 보안 리스크가 커지고 있다.",
+      "category": "security",
+      "source": "데일리시큐",
+      "sourceUrl": "https://www.dailysecu.com/news/articleView.html?idxno=206487",
+      "publishedAt": "2026-04-28T09:49:48+09:00"
+    },
+    {
+      "id": "13",
+      "title": "골프장 서버 해킹으로 10만 명 민감정보 유출",
+      "summary": "경기도 가평군 소재 골프장 서버가 해킹 조직의 악성코드에 감염돼 약 10만 명의 회원 정보가 유출된 것으로 전해졌다. 국내 레저 산업의 개인정보 보호와 서버 보안 수준이 다시 도마에 올랐다.",
+      "category": "security",
+      "source": "IT비즈뉴스",
+      "sourceUrl": "https://www.itbiznews.com/news/articleView.html?idxno=211008",
+      "publishedAt": "2026-04-28T07:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "구글 딥마인드, K-문샷 합류…AI 과학기술 협력 MOU",
+      "summary": "구글 딥마인드가 한국의 K-문샷 프로젝트에 참여해 AI 기반 과학기술, 인재 양성, AI 안전 분야에서 협력하기로 했다. 첨단 AI를 활용한 국가 난제 해결과 연구 생태계 확장이 핵심이다.",
+      "category": "science",
+      "source": "뉴스웍스",
+      "sourceUrl": "https://www.newsworks.co.kr/news/articleViewAmp.html?idxno=839049",
+      "publishedAt": "2026-04-27T16:01:08+09:00"
+    },
+    {
+      "id": "15",
+      "title": "과학축제 현장에서 본 AI 시대의 미래 일상",
+      "summary": "과학의 달을 맞아 열린 과학축제에서 AI 기술이 일상과 교육, 연구 현장에 접목되는 모습을 소개했다. 시민 체험형 전시를 통해 AI 시대의 미래 생활상을 쉽게 보여준 행사다.",
+      "category": "science",
+      "source": "사이언스타임즈",
+      "sourceUrl": "https://www.sciencetimes.co.kr/nscvrg/view/menu/260?searchCategory=230&nscvrgSn=261781",
+      "publishedAt": "2026-04-28T09:00:39+09:00"
     }
   ]
 }
