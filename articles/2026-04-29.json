@@ -135,6 +135,51 @@
       "source": "전자신문",
       "sourceUrl": "https://www.etnews.com/20260428000278",
       "publishedAt": "2026-04-28T14:04:12+09:00"
+    },
+    {
+      "id": "16",
+      "category": "ai-tech",
+      "title": "ChatGPT 이미지 2.0과 Claude Design의 등장",
+      "summary": "요즘IT가 ChatGPT 이미지 생성 고도화와 Claude Design 흐름을 함께 짚었다. 생성형 AI가 텍스트 응답을 넘어 디자인·시각 제작 워크플로까지 흡수하면서, 기획·개발·디자인 협업 방식이 더 빠르게 바뀌는 신호다.",
+      "source": "요즘IT",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZS19xNW1CQUhhYjFpTWxSNFR1ZUdzdF9ISVdlbHdadEg3VVFfbzhmR0tDNUc4bkZ5akhxOXZ4TldGMlFPTEVyVV9RakZtWVpMcWhVeXZWZ1lHdw?oc=5",
+      "publishedAt": "2026-04-29T11:10:45+09:00"
+    },
+    {
+      "id": "17",
+      "category": "ai-tech",
+      "title": "GitLab, 듀오 플랫폼에 Anthropic Claude 모델 통합",
+      "summary": "GitLab이 Duo 플랫폼에 Anthropic Claude 모델을 통합했다는 소식이 전해졌다. 코드 작성·리뷰·DevSecOps 자동화 영역에서 Claude 계열 모델 선택지가 넓어지며 기업 개발 플랫폼의 AI 모델 다변화가 이어지고 있다.",
+      "source": "Investing.com 한국어",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1xclJKSTUzaWNKcWpBWGpMaUNvd2FyTkd0c05KRU9ucHJ3ejJNTV9PN2pRbERGVHcwNm52Ykh6WEVWTlY3WjE3TFp4RkFRaDVtRE51Sm1XakR4dWlNR3FzZWJxbnlaa1pkc183aWZLUFA?oc=5",
+      "publishedAt": "2026-04-28T22:07:00+09:00"
+    },
+    {
+      "id": "18",
+      "category": "ai-tech",
+      "title": "구글, 임직원 반발에도 미국 국방부 기밀망 AI 계약",
+      "summary": "구글이 내부 반발에도 미국 국방부 기밀망에 AI 기술을 제공하는 계약을 추진한다는 보도가 나왔다. 빅테크 AI가 국방·안보 인프라로 확장되는 흐름이 뚜렷해지면서 윤리·거버넌스 논쟁도 커질 전망이다.",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10VDVRejBuN0FHakM2aU9zQ2RoV2tTU2NRVXNHbUFQMkNUamQ3aVNKNmdSMmsxN2d3Zy03UGhiUUI5dWtlT2NmUTBOQ01wQ016Wl9rT3ln?oc=5",
+      "publishedAt": "2026-04-29T10:15:11+09:00"
+    },
+    {
+      "id": "19",
+      "category": "ai-tech",
+      "title": "세일즈포스-구글 클라우드, AI 에이전트 플랫폼 통합 확대",
+      "summary": "세일즈포스와 구글 클라우드가 AI 에이전트 플랫폼 통합을 확대했다. CRM 데이터와 클라우드 AI 에이전트를 연결해 영업·고객지원 자동화 범위를 넓히려는 움직임으로, 엔터프라이즈 AI 경쟁이 플랫폼 연동 중심으로 재편되고 있다.",
+      "source": "디지털투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5xMVBUVDM5WjJQTXZYTC12Q1ZOVVh4cXlsSTYtUDYzeGxVQ0Q3TnVubkQ4NnFiNWotLW10UFFzNm5SSng0VzJvSUhqbXFJemMzX2Y4cEZaOGh1SWVaUl9GM2ozd0IzSHlNQ1BkU3FhMHoybGs?oc=5",
+      "publishedAt": "2026-04-29T09:38:51+09:00"
+    },
+    {
+      "id": "20",
+      "category": "ai-tech",
+      "title": "딥시크, 미국 반도체 수출 통제 속 엔비디아 의존 줄이기",
+      "summary": "딥시크가 미국 반도체 수출 통제 환경에서 엔비디아 의존도를 낮추려는 움직임이 보도됐다. 중국 AI 기업들이 모델 효율화와 대체 칩 생태계를 병행하면서 AI 인프라 경쟁이 GPU 공급망 전략으로 확장되고 있다.",
+      "source": "디지털투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB3OUt3LV80b0ZJOHMxTm9LT2dKbzdHWklQSHJWQ0FjaXVnRWpfMko0SkV4X01yYVhZbG5ydkNPUWNqaWR2QWpGM0U1aUllMEtLYUhzOEdRT2ZucXFiNkdEYlA1ZUU1YVRpLWZEb0h5Vk9YSlE?oc=5",
+      "publishedAt": "2026-04-29T11:18:32+09:00"
     }
   ]
 }
