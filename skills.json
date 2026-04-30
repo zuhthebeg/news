@@ -595,6 +595,71 @@
         "이미지"
       ],
       "addedAt": "2026-04-27"
+    },
+    {
+      "title": "Clawhub Search & Verify",
+      "description": "ClawHub 스킬을 키워드로 안전하게 검색하고 핵심 정보를 확인하는 스킬.\n설치 전에 위험도와 세부 내용을 한 번 더 검토할 때 유용하다.",
+      "icon": "🔎",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/clawhub-search-verify",
+      "tags": [
+        "검색",
+        "검증",
+        "안전"
+      ],
+      "addedAt": "2026-04-30"
+    },
+    {
+      "title": "Github Actions Optimizer",
+      "description": "GitHub Actions 워크플로의 속도·비용·안전성을 함께 점검하는 스킬.\n캐시, 병렬화, 러너 선택까지 손봐 CI 시간을 줄인다.",
+      "icon": "⚙️",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/github-actions-optimizer",
+      "tags": [
+        "GitHub Actions",
+        "CI/CD",
+        "최적화"
+      ],
+      "addedAt": "2026-04-30"
+    },
+    {
+      "title": "Prompt Evaluation",
+      "description": "AI 프롬프트를 품질·일관성·성능 기준으로 평가하고 비교하는 스킬.\n프롬프트 테스트와 벤치마크를 체계적으로 돌릴 때 좋다.",
+      "icon": "🧪",
+      "category": "data",
+      "url": "https://clawhub.com/skills/prompt-evaluation",
+      "tags": [
+        "프롬프트",
+        "평가",
+        "벤치마크"
+      ],
+      "addedAt": "2026-04-30"
+    },
+    {
+      "title": "Rag Chunking Optimizer",
+      "description": "RAG 파이프라인의 청킹 전략을 분석해 더 적절한 분할을 제안하는 스킬.\n청크 크기, 오버랩, 메타데이터 보강을 함께 다룬다.",
+      "icon": "🧩",
+      "category": "data",
+      "url": "https://clawhub.com/skills/rag-chunking-optimizer",
+      "tags": [
+        "RAG",
+        "청킹",
+        "검색증강"
+      ],
+      "addedAt": "2026-04-30"
+    },
+    {
+      "title": "drivectl - your command-line tool for interacting with Google Drive",
+      "description": "drivectl로 Google Drive, Docs, Sheets를 CLI에서 바로 다루는 스킬.\n파일 목록 조회, 다운로드, 시트 읽기·수정 작업을 빠르게 자동화한다.",
+      "icon": "📁",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/google-drive-cli",
+      "tags": [
+        "구글드라이브",
+        "문서",
+        "시트"
+      ],
+      "addedAt": "2026-04-30"
     }
   ]
 }
