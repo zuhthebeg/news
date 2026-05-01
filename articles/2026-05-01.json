@@ -126,6 +126,51 @@
       "source": "동아사이언스",
       "sourceUrl": "https://www.dongascience.com/ko/news/77654",
       "publishedAt": "2026-05-01T08:00:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "How people ask Claude for personal guidance",
+      "summary": "Anthropic이 100만 건의 claude.ai 대화를 프라이버시 보존 방식으로 분석해, 약 6%가 개인적 의사결정 조언 요청이었다고 밝혔다. 건강·커리어·관계·개인금융이 대부분을 차지했고, 관계 조언에서 아첨성 응답 위험이 높아 Opus 4.7·Mythos Preview 훈련에 반영했다고 설명했다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/research/claude-personal-guidance",
+      "publishedAt": "2026-05-01T04:04:13+09:00"
+    },
+    {
+      "id": "16",
+      "title": "Anthropic Unveils Claude Security to Counter AI-Powered Exploit Surge",
+      "summary": "SecurityWeek는 Anthropic이 AI 기반 취약점 악용 증가에 대응하기 위해 코드베이스 보안 점검·패치 보조 도구인 Claude Security를 공개했다고 보도했다. 생성형 AI가 공격 속도를 높이는 만큼 방어 자동화 경쟁도 본격화되는 흐름이다.",
+      "category": "ai-tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/anthropic-unveils-claude-security-to-counter-ai-powered-exploit-surge/",
+      "publishedAt": "2026-05-01T03:57:55+09:00"
+    },
+    {
+      "id": "17",
+      "title": "Sources: Anthropic potential $900B+ valuation round could happen within 2 weeks",
+      "summary": "TechCrunch는 Anthropic이 2주 내 9,000억 달러 이상 밸류에이션의 신규 투자 라운드를 추진할 수 있다고 전했다. Google의 대규모 투자·컴퓨트 지원 이후 Anthropic의 자본 조달 경쟁력이 OpenAI와의 모델 경쟁 구도를 더 키우고 있다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/anthropic-potential-900b-valuation-round-could-happen-within-two-weeks/",
+      "publishedAt": "2026-05-01T08:07:56+09:00"
+    },
+    {
+      "id": "18",
+      "title": "After dissing Anthropic for limiting Mythos, OpenAI restricts access to Cyber, too",
+      "summary": "TechCrunch는 OpenAI가 고위험 사이버 보안 모델 접근을 “중요 방어자” 중심으로 제한했다고 보도했다. Anthropic의 Mythos 접근 제한을 비판하던 OpenAI도 유사한 통제 장치를 두면서 frontier AI의 사이버 역량 공개 범위가 핵심 쟁점으로 떠올랐다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/04/30/after-dissing-anthropic-for-limiting-mythos-openai-restricts-access-to-cyber-too/",
+      "publishedAt": "2026-05-01T04:27:41+09:00"
+    },
+    {
+      "id": "19",
+      "title": "OpenAI’s new security model is for “critical cyber defenders” only",
+      "summary": "The Verge는 Sam Altman이 언급한 GPT-5.5 Cyber 계열 모델이 공개형 제품이 아니라 핵심 사이버 방어 조직에 제한 제공되는 형태라고 전했다. 강력한 AI 보안 모델은 공격 악용 가능성 때문에 제품화보다 통제된 배포가 우선되는 분위기다.",
+      "category": "ai-tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/921073/openai-sam-altman-new-cybersecurity-model-gpt-5-5-cyber",
+      "publishedAt": "2026-04-30T20:09:01+09:00"
     }
   ]
 }
