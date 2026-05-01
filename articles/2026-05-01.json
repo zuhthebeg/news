@@ -4,29 +4,128 @@
     {
       "id": "1",
       "title": "‘소년공’ 이 대통령, 청와대서 양대노총과 노동절 기념식…역대 처음",
-      "summary": "한겨레 보도 기준, ‘소년공’ 이 대통령, 청와대서 양대노총과 노동절 기념식…역대 처음 이슈가 국내 주요 뉴스로 올라왔다.",
+      "summary": "이 대통령이 노동절을 맞아 청와대에서 양대노총과 함께 기념식을 열었다. 노동 의제를 대통령실 차원에서 직접 다룬 사례로, 향후 노정 관계와 노동정책 방향에 관심이 쏠린다.",
       "category": "domestic",
       "source": "한겨레",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINmdaLUNqLWFESTIxNHBVM0NMUElMLWMzZHgzWkVSdkw1U1RSOEFNbFpNaV9MWnA3clpmSHY1NWFJRnZiekUwRVVjNXM3a2wyMHNkajdlMG5yWGhIVVladXpZQm1jNE5XTzFr?oc=5",
-      "publishedAt": "2026-04-30T12:17:00Z"
+      "sourceUrl": "https://www.hani.co.kr/arti/politics/bluehouse/1256676.html",
+      "publishedAt": "2026-04-30T21:17:00+09:00"
     },
     {
       "id": "2",
       "title": "이란전 공포 넘은 美 증시, S&P500·나스닥 사상 최고치 경신",
-      "summary": "조선일보 보도 기준, 이란전 공포 넘은 美 증시, S&P500·나스닥 사상 최고치 경신 관련 경제 흐름이 주요 이슈로 다뤄졌다.",
+      "summary": "미국 증시가 중동 리스크를 넘기며 S&P500과 나스닥이 사상 최고치를 경신했다. 빅테크 실적과 투자심리 회복이 시장을 밀어 올렸지만 유가·환율 변수는 남아 있다.",
       "category": "economy",
       "source": "조선일보",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXRkdWI0dWNNZUY0MnZENzJSRGdEaW9QR0VGVndRWUM5aGxSbHU4V091TnYxNWVFakF1eTFXUk85ZVY3S2MxZDF3VUdqWUs1Y29HbkxKTUMtUHNQS1ZWMmt0TnRHeTBkMGtEVWRrY01UVnI2TGZlSVJXRzZKNHNNcTZLeVFOZldleGZPYWQ2UWVqSDBnaTBleVQwMUF2QQ?oc=5",
-      "publishedAt": "2026-04-30T20:17:00Z"
+      "sourceUrl": "https://www.chosun.com/international/international_general/2026/05/01/3VDLSRULEFERDLZCPRA6WJQI5I/",
+      "publishedAt": "2026-05-01T05:17:00+09:00"
     },
     {
       "id": "3",
       "title": "트럼프, 이탈리아·스페인서도 미군감축 고려 질문에 \"아마도\"(종합)",
-      "summary": "연합뉴스 보도 기준, 트럼프, 이탈리아·스페인서도 미군감축 고려 질문에 \"아마도\"(종합) 사안이 국제 주요 뉴스로 보도됐다.",
+      "summary": "트럼프 대통령이 이탈리아·스페인 주둔 미군 감축 가능성을 묻는 질문에 “아마도”라고 답했다. 유럽 안보 분담과 미군 재배치 논의가 다시 국제 현안으로 떠올랐다.",
       "category": "world",
       "source": "연합뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WVEdmSC1JUlJyVEx5cXVlYXlhYXVsTjRhRWdvV0paT0lwREdkT1UwR3A3VW5Wd3hHeTRvdzZjLWlva0NRYWU5NDB3WVZweTZXMloxQW0yalF4MEHSAWBBVV95cUxNZ1F3dVl4ekU0RmFvUVpEMllxRlo0WHF3SmpCSEJFSlgyWmJEWVQ1N0JMR05uT3duY0oxS01maktMU3hSMlg1Q1BtU2VfeTZlUFo1UU13LTJNTlN6d21oNmg?oc=5",
-      "publishedAt": "2026-04-30T21:20:55Z"
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260501007551071",
+      "publishedAt": "2026-05-01T06:20:55+09:00"
+    },
+    {
+      "id": "4",
+      "title": "메모리 정확도 100배·처리속도 7.6배 개선할 최적 구조 찾았다",
+      "summary": "국내 연구진이 메모리 정확도와 처리 속도를 크게 끌어올릴 수 있는 최적 구조를 찾았다고 보도됐다. AI 연산과 차세대 반도체 성능 개선에 활용될 가능성이 주목된다.",
+      "category": "ai-tech",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20260430151933",
+      "publishedAt": "2026-04-30T15:37:32+09:00"
+    },
+    {
+      "id": "5",
+      "title": "반도체·이차전지·우주항공 소재, AI·로봇이 24시간 개발한다",
+      "summary": "반도체·이차전지·우주항공 소재 개발에 AI와 로봇을 결합한 자동화 실험 체계가 확대되고 있다. 연구 시간을 줄이고 신소재 탐색 속도를 높이는 전략으로 평가된다.",
+      "category": "ai-tech",
+      "source": "동아사이언스",
+      "sourceUrl": "https://www.dongascience.com/ko/news/77671",
+      "publishedAt": "2026-04-30T10:12:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "광해광업공단, 3조 투자한 멕시코 구리 광산 2달러에 매각",
+      "summary": "한국광해광업공단이 대규모 투자가 들어간 멕시코 구리 광산 지분을 사실상 헐값에 매각한 것으로 전해졌다. 해외 자원개발 실패와 공공기관 투자 관리 책임 논란이 커질 수 있다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/amp/view/AKR20260430208400003",
+      "publishedAt": "2026-04-30T20:14:03+09:00"
+    },
+    {
+      "id": "7",
+      "title": "대놓고 안보리 결의 위반 선언한 러 \"北은 가까운 이웃, 군사 협력 발전\"",
+      "summary": "러시아가 북한과의 군사 협력 확대를 공개적으로 언급하며 유엔 안보리 결의 위반 논란을 키웠다. 북러 밀착이 한반도와 동북아 안보 구도에 추가 압박으로 작용하고 있다.",
+      "category": "world",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/international/international_general/2026/05/01/PXEPB76RHFDLDFX53IXIRNKOSI/",
+      "publishedAt": "2026-05-01T06:03:57+09:00"
+    },
+    {
+      "id": "8",
+      "title": "[주간증시전망] 전쟁 리스크 넘은 코스피…실적 모멘텀 속 숨고르기 전망",
+      "summary": "코스피가 지정학적 리스크를 넘긴 뒤 기업 실적 기대를 바탕으로 흐름을 이어가고 있다. 다만 단기 급등 부담과 대외 변수로 숨 고르기 장세가 나타날 수 있다는 전망도 나온다.",
+      "category": "economy",
+      "source": "아주경제",
+      "sourceUrl": "https://www.ajunews.com/amp/20260501062637445",
+      "publishedAt": "2026-05-01T06:28:28+09:00"
+    },
+    {
+      "id": "9",
+      "title": "\"전셋집 구하려다 포기했어요\"…30대 신혼부부 '중대 결단' [돈앤톡]",
+      "summary": "전세 매물 부족과 가격 상승으로 30대 신혼부부들이 전세 대신 매매를 검토하는 사례가 늘고 있다. 서울 주거비 부담이 매매 수요를 자극하는 흐름으로 이어질지 주목된다.",
+      "category": "realestate",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026042958346",
+      "publishedAt": "2026-05-01T07:27:27+09:00"
+    },
+    {
+      "id": "10",
+      "title": "전세시장 흔들리는 서울···매물 줄고 가격 오름폭 확대",
+      "summary": "서울 전세시장에서 매물이 줄고 가격 상승폭이 커지고 있다는 분석이 나왔다. 전세 수급 불안이 장기화되면 임차인 부담과 매매시장 반등 압력으로 연결될 수 있다.",
+      "category": "realestate",
+      "source": "서울파이낸스",
+      "sourceUrl": "https://www.seoulfn.com/news/articleView.html?idxno=627845",
+      "publishedAt": "2026-04-30T18:23:39+09:00"
+    },
+    {
+      "id": "11",
+      "title": "\"미토스급 AI 모델, 빠르면 6개월 후 등장…해킹 막을 검증체계 필요\"",
+      "summary": "고성능 AI 모델이 빠르게 등장하면서 해킹과 악용을 막기 위한 검증 체계가 필요하다는 경고가 나왔다. AI 보안성 평가와 방어 자동화가 사이버보안의 핵심 과제로 떠오르고 있다.",
+      "category": "security",
+      "source": "디지털데일리",
+      "sourceUrl": "https://www.ddaily.co.kr/page/view/2026043017402420735",
+      "publishedAt": "2026-05-01T05:01:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "AI가 짠 코드, 검증이 못 따라간다…보안 결함 '경고등'",
+      "summary": "AI가 생성한 코드 사용이 늘고 있지만 보안 검증 체계는 속도를 따라가지 못한다는 지적이 제기됐다. 취약점이 포함된 코드가 서비스에 반영될 위험이 커져 개발 프로세스 개선이 요구된다.",
+      "category": "security",
+      "source": "블로터",
+      "sourceUrl": "https://www.bloter.net/news/articleView.html?idxno=661132",
+      "publishedAt": "2026-04-30T21:36:56+09:00"
+    },
+    {
+      "id": "13",
+      "title": "스트레스에도 '줄기세포 증식' 비밀 풀어…암세포 생존 막는 열쇠",
+      "summary": "스트레스 환경에서도 줄기세포가 증식하는 원리를 밝힌 연구가 소개됐다. 암세포 생존 메커니즘을 이해하고 새로운 치료 전략을 찾는 데 단서가 될 수 있다.",
+      "category": "science",
+      "source": "동아사이언스",
+      "sourceUrl": "https://www.dongascience.com/ko/news/77675",
+      "publishedAt": "2026-04-30T12:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "명왕성 다시 행성 되나…NASA 국장 \"재분류 논의 지지\"",
+      "summary": "NASA 국장이 명왕성의 행성 재분류 논의를 지지한다는 입장을 밝히며 천문학계 논쟁이 다시 주목받고 있다. 행성 정의와 태양계 교육 기준에 대한 재검토 가능성이 거론된다.",
+      "category": "science",
+      "source": "동아사이언스",
+      "sourceUrl": "https://www.dongascience.com/ko/news/77654",
+      "publishedAt": "2026-05-01T08:00:00+09:00"
     }
   ]
 }
