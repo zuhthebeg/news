@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-01",
+  "articles": [
+    {
+      "id": "1",
+      "title": "‘소년공’ 이 대통령, 청와대서 양대노총과 노동절 기념식…역대 처음",
+      "summary": "한겨레 보도 기준, ‘소년공’ 이 대통령, 청와대서 양대노총과 노동절 기념식…역대 처음 이슈가 국내 주요 뉴스로 올라왔다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBINmdaLUNqLWFESTIxNHBVM0NMUElMLWMzZHgzWkVSdkw1U1RSOEFNbFpNaV9MWnA3clpmSHY1NWFJRnZiekUwRVVjNXM3a2wyMHNkajdlMG5yWGhIVVladXpZQm1jNE5XTzFr?oc=5",
+      "publishedAt": "2026-04-30T12:17:00Z"
+    },
+    {
+      "id": "2",
+      "title": "이란전 공포 넘은 美 증시, S&P500·나스닥 사상 최고치 경신",
+      "summary": "조선일보 보도 기준, 이란전 공포 넘은 美 증시, S&P500·나스닥 사상 최고치 경신 관련 경제 흐름이 주요 이슈로 다뤄졌다.",
+      "category": "economy",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLXRkdWI0dWNNZUY0MnZENzJSRGdEaW9QR0VGVndRWUM5aGxSbHU4V091TnYxNWVFakF1eTFXUk85ZVY3S2MxZDF3VUdqWUs1Y29HbkxKTUMtUHNQS1ZWMmt0TnRHeTBkMGtEVWRrY01UVnI2TGZlSVJXRzZKNHNNcTZLeVFOZldleGZPYWQ2UWVqSDBnaTBleVQwMUF2QQ?oc=5",
+      "publishedAt": "2026-04-30T20:17:00Z"
+    },
+    {
+      "id": "3",
+      "title": "트럼프, 이탈리아·스페인서도 미군감축 고려 질문에 \"아마도\"(종합)",
+      "summary": "연합뉴스 보도 기준, 트럼프, 이탈리아·스페인서도 미군감축 고려 질문에 \"아마도\"(종합) 사안이 국제 주요 뉴스로 보도됐다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5WVEdmSC1JUlJyVEx5cXVlYXlhYXVsTjRhRWdvV0paT0lwREdkT1UwR3A3VW5Wd3hHeTRvdzZjLWlva0NRYWU5NDB3WVZweTZXMloxQW0yalF4MEHSAWBBVV95cUxNZ1F3dVl4ekU0RmFvUVpEMllxRlo0WHF3SmpCSEJFSlgyWmJEWVQ1N0JMR05uT3duY0oxS01maktMU3hSMlg1Q1BtU2VfeTZlUFo1UU13LTJNTlN6d21oNmg?oc=5",
+      "publishedAt": "2026-04-30T21:20:55Z"
+    }
+  ]
+}
