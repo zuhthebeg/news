@@ -135,6 +135,51 @@
       "source": "USA TODAY",
       "sourceUrl": "https://www.usatoday.com/story/tech/science/space/2026/05/01/spacex-launch-day-heres-information-on-todays-starlink-rocket-launch-from-cape-canaveral-florida--live/89871787007/",
       "publishedAt": "2026-05-01T18:01:11+09:00"
+    },
+    {
+      "id": "16",
+      "title": "Claude Opus 4.7 공개…코딩·에이전트·비전 성능 강화",
+      "summary": "Anthropic이 Claude Opus 4.7을 정식 출시했다. 고난도 소프트웨어 엔지니어링, 장시간 에이전트 작업, 고해상도 비전 처리 성능을 개선했고, 사이버 보안 오용을 감지·차단하는 안전장치도 함께 적용했다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-opus-4-7",
+      "publishedAt": "2026-04-16T00:00:00-07:00"
+    },
+    {
+      "id": "17",
+      "title": "Anthropic, Claude Design 리서치 프리뷰 출시",
+      "summary": "Anthropic Labs가 Claude와 함께 디자인, 프로토타입, 슬라이드, 원페이저를 만드는 Claude Design을 공개했다. Opus 4.7 기반으로 브랜드 시스템 적용, 문서·이미지 입력, Canva·PDF·PPTX·HTML 내보내기, Claude Code 핸드오프를 지원한다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-design-anthropic-labs",
+      "publishedAt": "2026-04-17T00:00:00-07:00"
+    },
+    {
+      "id": "18",
+      "title": "Claude, Adobe·Blender·Ableton 등 창작 도구 커넥터 확대",
+      "summary": "Anthropic이 Adobe Creative Cloud, Blender, Autodesk Fusion, SketchUp, Ableton, Splice 등 창작 워크플로에 연결되는 Claude 커넥터를 추가했다. Claude를 기존 제작 도구 안으로 붙여 반복 작업 자동화, 3D·영상·음악 작업 보조, 코드 기반 플러그인 제작까지 확장하려는 움직임이다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-for-creative-work",
+      "publishedAt": "2026-04-28T00:00:00-07:00"
+    },
+    {
+      "id": "19",
+      "title": "Microsoft-OpenAI 파트너십 개정…비독점 라이선스와 멀티클라우드 여지 확대",
+      "summary": "Microsoft가 OpenAI와의 계약을 개정해 2032년까지 모델·제품 IP 라이선스는 유지하되 비독점 구조로 바꿨다. OpenAI는 Azure 우선 원칙을 유지하면서도 다른 클라우드로 제품을 제공할 수 있게 됐고, 양측 수익 공유 구조도 단순화됐다.",
+      "category": "ai-tech",
+      "source": "Microsoft",
+      "sourceUrl": "https://blogs.microsoft.com/blog/2026/04/27/the-next-phase-of-the-microsoft-openai-partnership/",
+      "publishedAt": "2026-04-27T00:00:00-07:00"
+    },
+    {
+      "id": "20",
+      "title": "Google·Nvidia·SpaceX 등 8개 기술기업, 미 국방부 AI 협약 참여",
+      "summary": "LA Times는 Google, Nvidia, SpaceX 등 8개 기술기업이 미 국방부와 AI 활용 협약을 맺었다고 보도했다. 국방부는 이를 통해 미국 군을 “AI-first fighting force”로 전환하겠다는 목표를 내세웠고, 빅테크와 국방 AI의 결합이 더 노골화되는 흐름이다.",
+      "category": "ai-tech",
+      "source": "Los Angeles Times",
+      "sourceUrl": "https://www.latimes.com/business/story/2026-05-01/google-nvidia-other-tech-titans-sign-ai-deal-with-pentagon",
+      "publishedAt": "2026-05-01T15:31:00-07:00"
     }
   ]
 }
