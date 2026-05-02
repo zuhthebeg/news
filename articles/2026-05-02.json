@@ -27,6 +27,114 @@
       "source": "중앙일보",
       "sourceUrl": "https://www.joongang.co.kr/article/25425177",
       "publishedAt": "2026-05-02T00:24:16+09:00"
+    },
+    {
+      "id": "4",
+      "title": "오픈AI 위기론 재점화…성장 목표 미달 보도에 업계 긴장",
+      "summary": "경향신문은 오픈AI가 주간활성이용자 목표를 달성하지 못했다는 외신 보도 이후 위기론이 다시 부상했다고 전했다. 빠른 성장에 가려졌던 수익성, 인프라 비용, 경쟁 심화 문제가 AI 업계의 핵심 변수로 떠올랐다.",
+      "category": "ai-tech",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202605020700021",
+      "publishedAt": "2026-05-02T07:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "알파고 10년, 인간은 왜 AI에 밀렸나",
+      "summary": "연합뉴스는 알파고가 이세돌 9단을 꺾은 지 10년이 지나며 AI가 바둑을 넘어 산업 전반의 판단 체계로 확장됐다고 짚었다. 인간의 직관과 학습 방식이 AI 시대에 어떻게 재정의되는지도 함께 다뤘다.",
+      "category": "ai-tech",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260501045300017",
+      "publishedAt": "2026-05-02T06:33:01+09:00"
+    },
+    {
+      "id": "6",
+      "title": "중국 “호르무즈 해협 봉쇄, 미중 정상회담 핵심 의제 될 것”",
+      "summary": "뉴시스는 중국이 호르무즈 해협 봉쇄 가능성을 미중 정상회담의 핵심 안보·에너지 의제로 보고 있다고 보도했다. 당장은 휴전 유지가 중요하지만, 에너지 수송로 불안이 국제 정세의 압박 요인으로 커지고 있다.",
+      "category": "world",
+      "source": "뉴시스",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260502_0003614692",
+      "publishedAt": "2026-05-02T05:55:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "시진핑 외교 트렌드 변화…해외 순방보다 정상 초청 확대",
+      "summary": "연합뉴스는 중국을 찾는 외국 정상은 늘고 시진핑 국가주석의 해외 순방은 줄어드는 흐름을 분석했다. 중국이 안방 외교를 통해 의제 설정권과 협상 주도권을 강화하려는 전략으로 해석된다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260501037200009",
+      "publishedAt": "2026-05-01T13:18:10+09:00"
+    },
+    {
+      "id": "8",
+      "title": "전쟁 불안 속 주식시장 ‘나홀로 불장’…체감경기와 온도차",
+      "summary": "연합뉴스는 이란 전쟁과 유가 불안에도 주식시장이 강세를 보이는 배경을 분석했다. 반도체 실적 기대와 유동성 유입이 지수를 끌어올렸지만, 물가와 소비 부진 탓에 체감경기와의 괴리는 커지고 있다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260429187600008",
+      "publishedAt": "2026-05-02T08:30:15+09:00"
+    },
+    {
+      "id": "9",
+      "title": "코스피 4월 30.6% 상승…전쟁보다 강했던 ‘삼전닉스’의 힘",
+      "summary": "더스쿠프는 코스피가 4월 한 달 30.6% 급등하며 1998년 이후 이례적인 월간 상승률을 기록했다고 분석했다. 삼성전자와 SK하이닉스 중심의 반도체 랠리가 지정학 리스크를 압도한 흐름이다.",
+      "category": "economy",
+      "source": "더스쿠프",
+      "sourceUrl": "https://www.thescoop.co.kr/news/articleView.html?idxno=310088",
+      "publishedAt": "2026-05-02T09:44:08+09:00"
+    },
+    {
+      "id": "10",
+      "title": "“강남만 빼고 다 올라”…서울 집값 상승, 외곽으로 확산",
+      "summary": "머니투데이는 서울 아파트값 상승세가 강남권을 제외한 여러 지역으로 번지고 있다고 보도했다. 상승 폭은 둔화됐지만 중저가 지역의 키 맞추기 장세가 이어지며 실수요자 부담이 커지고 있다.",
+      "category": "realestate",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/estate/2026/05/02/2026043015205352015",
+      "publishedAt": "2026-05-02T05:10:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "올해 서울 집값 상승률 상위권, 성북·관악·강서가 주도",
+      "summary": "뉴시스는 올해 서울 아파트값 상승률 상위 지역에 성북·관악·강서 등 15억원 이하 단지가 많은 지역이 올랐다고 전했다. 대출 규제와 보유세 부담 속에서 외곽 중저가 단지로 수요가 이동한 결과로 풀이된다.",
+      "category": "realestate",
+      "source": "뉴시스",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260406_0003578975",
+      "publishedAt": "2026-05-02T07:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "GPT-5.5, 사이버 공격 평가서 클로드 미토스급 성능 평가",
+      "summary": "디지털포커스는 GPT-5.5가 영국 AI 안전 연구소의 사이버 공격 테스트에서 클로드 미토스와 비슷한 성능을 보였다고 전했다. 고성능 AI 모델이 공격 자동화에도 쓰일 수 있다는 점에서 보안 대응 체계의 재점검이 필요해졌다.",
+      "category": "security",
+      "source": "디지털포커스",
+      "sourceUrl": "https://www.digitalfocus.news/news/articleView.html?idxno=20589",
+      "publishedAt": "2026-05-02T08:39:23+09:00"
+    },
+    {
+      "id": "13",
+      "title": "리눅스 서버 유출 위험…티오리, 초고위험 취약점 ‘카피페일’ 발견",
+      "summary": "파이낸셜뉴스는 보안 기업 티오리가 리눅스 커널의 초고위험 취약점 ‘카피페일’을 발견했다고 보도했다. 오래된 보안 구멍이 AI 기반 분석으로 드러나며 서버 운영자의 긴급 패치 필요성이 커졌다.",
+      "category": "security",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202605011344514230",
+      "publishedAt": "2026-05-01T13:56:31+09:00"
+    },
+    {
+      "id": "14",
+      "title": "우주항공청 2년차, R&D 중심 한국 우주정책의 전환 과제 부상",
+      "summary": "머니투데이는 우주항공청 출범 이후 한국 우주정책이 연구개발 중심에서 민간 산업 생태계 육성으로 전환해야 한다고 짚었다. 스페이스X 성장 사례처럼 조달, 규제, 시장 창출이 함께 움직여야 한다는 지적이다.",
+      "category": "science",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/future/2026/05/01/2026042907114064706",
+      "publishedAt": "2026-05-01T14:30:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "스페이스X, 플로리다서 스타링크 위성 발사 진행",
+      "summary": "USA투데이는 스페이스X가 플로리다 케이프커내버럴에서 스타링크 위성 발사를 진행했다고 보도했다. 저궤도 위성망 확대가 계속되면서 우주 인터넷 인프라 경쟁과 발사 운용 역량이 다시 주목받고 있다.",
+      "category": "science",
+      "source": "USA TODAY",
+      "sourceUrl": "https://www.usatoday.com/story/tech/science/space/2026/05/01/spacex-launch-day-heres-information-on-todays-starlink-rocket-launch-from-cape-canaveral-florida--live/89871787007/",
+      "publishedAt": "2026-05-01T18:01:11+09:00"
     }
   ]
 }
