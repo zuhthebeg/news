@@ -27,6 +27,114 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260503011300065",
       "publishedAt": "2026-05-02T23:31:00Z"
+    },
+    {
+      "id": "4",
+      "title": "메타, 휴머노이드 스타트업 인수로 인간형 로봇 AI 경쟁 가세",
+      "summary": "메타가 휴머노이드 로봇 스타트업을 품으며 인간형 로봇용 AI 경쟁에 본격적으로 뛰어들었다. 빅테크의 AI 투자가 소프트웨어를 넘어 물리적 로봇 플랫폼으로 확장되는 흐름이다.",
+      "category": "ai-tech",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026050321157",
+      "publishedAt": "2026-05-03T07:04:42+09:00"
+    },
+    {
+      "id": "5",
+      "title": "국내 완성차 업계, 생성형 AI와 개방형 앱으로 SDV 전환 속도",
+      "summary": "국내 완성차 업체들이 차량 내 생성형 AI와 개방형 앱 생태계를 앞세워 소프트웨어 중심 차량(SDV) 전환을 서두르고 있다. 자동차 경쟁력이 하드웨어 성능에서 데이터·서비스 경험으로 이동하는 모습이다.",
+      "category": "ai-tech",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/industry/auto-industry/6155209",
+      "publishedAt": "2026-05-03T02:44:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "대서양 동맹·중동 질서 격변 예고…세계 각국 각자도생 가속",
+      "summary": "국제 질서가 안보·통상·에너지 충격 속에서 빠르게 재편되고 있다는 분석이 나왔다. 대서양 동맹과 중동 정세가 동시에 흔들리며 각국의 독자 생존 전략이 강해지고 있다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260502038851082",
+      "publishedAt": "2026-05-03T07:11:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "대만 총통, 중국 견제 속 아프리카 유일 수교국 방문",
+      "summary": "대만 총통이 중국의 외교적 압박에도 아프리카의 유일한 수교국에 도착했다. 대만을 둘러싼 외교전이 아프리카 지역에서도 이어지는 양상이다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260502048900083",
+      "publishedAt": "2026-05-02T22:57:08+09:00"
+    },
+    {
+      "id": "8",
+      "title": "선행·동행지수 격차 16년 만에 최대…경기 판단 착시 우려",
+      "summary": "선행지수와 동행지수의 간극이 16년 만에 가장 크게 벌어지며 경기 흐름 해석이 어려워지고 있다. 일부 지표 개선에도 실물 체감 경기와의 괴리가 커질 수 있다는 지적이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260502028100002",
+      "publishedAt": "2026-05-03T05:49:03+09:00"
+    },
+    {
+      "id": "9",
+      "title": "1분기 제조업, 반도체 제외하면 생산 증가 0.2% 그쳐",
+      "summary": "1분기 제조업 생산은 반도체를 빼면 증가율이 0.2%에 머물러 업종 간 양극화가 뚜렷했다. 반도체 중심 회복세가 전체 산업 회복으로 확산됐는지는 아직 불확실하다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260502030100002",
+      "publishedAt": "2026-05-03T05:49:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "대출 규제 이후 관악구 8% 상승…서울 집값 외곽부터 들썩",
+      "summary": "대출 규제 여파 속에서도 서울 외곽 지역 집값이 먼저 반응하고 있다. 관악구 등 상대적으로 가격 부담이 낮은 지역을 중심으로 매수세와 가격 상승이 나타나는 흐름이다.",
+      "category": "realestate",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/realestate/general/6154654",
+      "publishedAt": "2026-05-03T05:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "양도세 중과 이어 장기보유특별공제 축소·폐지 검토",
+      "summary": "부동산 세제 개편 논의에서 비거주 주택 보유자에 대한 장기보유특별공제 축소 또는 폐지 가능성이 거론되고 있다. 세금과 대출 규제가 맞물리며 주거 이동성 위축 우려도 커지고 있다.",
+      "category": "realestate",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260502041300002",
+      "publishedAt": "2026-05-03T05:55:31+09:00"
+    },
+    {
+      "id": "12",
+      "title": "며칠 걸리던 해킹을 AI가 몇 시간 만에…‘미토스 쇼크’ 확산",
+      "summary": "AI가 취약점 분석과 공격 자동화를 빠르게 수행하면서 기존 보안 대응 시간표가 흔들리고 있다. 이른바 ‘미토스 쇼크’로 방어 체계의 자동화와 검증 속도 강화가 과제로 떠올랐다.",
+      "category": "security",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/economy/tech_it/2026/05/03/6MWBICQMENCUROEDTWKF45QX4M/",
+      "publishedAt": "2026-05-03T05:36:37+09:00"
+    },
+    {
+      "id": "13",
+      "title": "“미토스보다 해킹 능력 뛰어난 AI 등장” 보안업계 긴장",
+      "summary": "미토스를 넘어서는 해킹 역량을 보인 AI 사례가 소개되며 사이버보안 업계의 긴장감이 높아지고 있다. 공격 자동화가 고도화될수록 기업의 탐지·대응 체계도 AI 기반으로 재설계될 필요가 커진다.",
+      "category": "security",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20260502225756",
+      "publishedAt": "2026-05-02T22:57:56+09:00"
+    },
+    {
+      "id": "14",
+      "title": "전북대 연구팀, 지구 재진입 열보호체 핵심기술 개발",
+      "summary": "전북대학교 최성만 교수팀이 우주비행체의 지구 재진입 과정에 필요한 열보호체 핵심기술 개발에 성공했다. 고온 환경을 견디는 소재·구조 기술은 우주 발사체와 재사용 시스템의 기반 기술로 꼽힌다.",
+      "category": "science",
+      "source": "한국강사신문",
+      "sourceUrl": "https://www.lecturernews.com/news/articleView.html?idxno=201526",
+      "publishedAt": "2026-05-03T06:05:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "차세대중형위성 2호, 4년 지연 끝에 발사 준비",
+      "summary": "지구관측 위성인 차세대중형위성 2호가 여러 차례 지연 끝에 발사를 앞두고 있다. 위성이 정상 궤도에 오르면 국내 지구관측 데이터 확보와 공공 활용 역량 강화에 기여할 전망이다.",
+      "category": "science",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260502025600017",
+      "publishedAt": "2026-05-02T17:29:23+09:00"
     }
   ]
 }
