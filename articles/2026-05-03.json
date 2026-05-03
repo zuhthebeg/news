@@ -135,6 +135,51 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260502025600017",
       "publishedAt": "2026-05-02T17:29:23+09:00"
+    },
+    {
+      "id": "16",
+      "title": "Anthropic, Claude Security 공개 베타 출시…코드 취약점 스캔·패치 지원",
+      "summary": "Anthropic이 Claude Enterprise 고객 대상으로 Claude Security를 공개 베타로 내놨다. Opus 4.7 기반으로 코드베이스의 데이터 흐름과 모듈 상호작용을 추론해 취약점을 찾고, 신뢰도·심각도·재현 방법·패치 지침까지 제시한다.",
+      "category": "ai-tech",
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
+      "publishedAt": "2026-05-01T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "미 국방부, Nvidia·Microsoft·AWS 등과 기밀망 AI 배포 계약 체결",
+      "summary": "미 국방부가 Nvidia, Microsoft, AWS, Reflection AI와 계약을 맺고 AI 기술과 모델을 기밀 네트워크에 배포할 수 있게 했다. Google, SpaceX, OpenAI 계약에 이어 Anthropic과의 사용 조건 갈등 이후 AI 벤더 다변화가 더 빨라지는 흐름이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "publishedAt": "2026-05-01T16:02:00Z"
+    },
+    {
+      "id": "18",
+      "title": "Google DeepMind “AI co-clinician”, 의사 블라인드 평가서 GPT-5.4 앞서",
+      "summary": "Google DeepMind가 진료 보조용 AI co-clinician 연구 결과를 공개했다. 98개 1차 진료 질의 블라인드 평가에서 기존 임상 AI와 GPT-5.4보다 선호도가 높았지만, 위험 신호 파악과 신체검사 영역에서는 숙련 의사가 여전히 우위라는 한계도 확인됐다.",
+      "category": "ai-tech",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/google-deepminds-ai-co-clinician-beats-gpt-5-4-in-blind-doctor-tests-but-still-trails-experienced-physicians/",
+      "publishedAt": "2026-05-01T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "OpenAI GPT-5.5, 에이전트 작업 성능 강화…API 비용 논쟁도 동반",
+      "summary": "OpenAI의 GPT-5.5는 코드 작성·웹 리서치·데이터 분석·소프트웨어 조작 같은 다중 도구 작업을 자율적으로 처리하도록 설계됐다. The Decoder는 GPT-5.5가 주요 벤치마크에서 Claude Opus 4.7·Gemini 3.1 Pro를 앞선 영역이 있지만 API 비용과 환각률 논쟁도 남았다고 짚었다.",
+      "category": "ai-tech",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/openai-unveils-gpt-5-5-claims-a-new-class-of-intelligence-at-double-the-api-price/",
+      "publishedAt": "2026-04-25T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "Anthropic, Claude용 크리에이티브 툴 커넥터 확장",
+      "summary": "Anthropic이 Claude for Creative Work를 발표하며 Adobe Creative Cloud, Blender, Autodesk Fusion, SketchUp, Ableton, Splice 등 창작 도구 커넥터를 추가했다. Claude를 디자인·음악·3D·영상 제작 파이프라인 안으로 넣어 반복 작업 자동화와 프로토타이핑을 지원하려는 전략이다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/claude-for-creative-work",
+      "publishedAt": "2026-04-28T00:00:00Z"
     }
   ]
 }
