@@ -660,6 +660,71 @@
         "시트"
       ],
       "addedAt": "2026-04-30"
+    },
+    {
+      "title": "OpenClaw Automation Architecture",
+      "description": "OpenClaw의 cron, HEARTBEAT.md, 세션 분기, 전문가 에이전트 조합으로 자동화 구조를 설계합니다. 반복 작업은 가장 단순한 실행면부터 잡고, 필요할 때만 외부 도구를 붙입니다.",
+      "icon": "⚙️",
+      "category": "productivity",
+      "url": "https://clawhub.ai/skills/openclaw-automation-architecture",
+      "tags": [
+        "자동화",
+        "cron",
+        "에이전트"
+      ],
+      "addedAt": "2026-05-04"
+    },
+    {
+      "title": "Super Router",
+      "description": "작업 복잡도를 기준으로 PRO와 FLASH 모델을 나누어 라우팅하는 스킬입니다. 비용과 품질을 함께 고려해 하위 작업별 모델 선택을 자동화합니다.",
+      "icon": "🧭",
+      "category": "dev",
+      "url": "https://clawhub.ai/skills/super-router",
+      "tags": [
+        "라우팅",
+        "LangGraph",
+        "모델선택"
+      ],
+      "addedAt": "2026-05-04"
+    },
+    {
+      "title": "clawhub-skill-installer",
+      "description": "ClawHub의 스킬을 명령 한 줄로 설치하고 관리하는 스킬입니다. 새 스킬을 빠르게 도입할 때 반복 작업을 줄여줍니다.",
+      "icon": "📦",
+      "category": "dev",
+      "url": "https://clawhub.ai/skills/clawhub-skill-installer",
+      "tags": [
+        "설치",
+        "관리",
+        "배포"
+      ],
+      "addedAt": "2026-05-04"
+    },
+    {
+      "title": "Design Review",
+      "description": "UI, 컴포넌트, 레이아웃, 화면 구성 전반의 품질 점검용 스킬입니다. 기존 디자인 시스템과 시각적 일관성을 먼저 확인하게 해줍니다.",
+      "icon": "🎨",
+      "category": "productivity",
+      "url": "https://clawhub.ai/skills/design-review",
+      "tags": [
+        "디자인",
+        "UX",
+        "품질"
+      ],
+      "addedAt": "2026-05-04"
+    },
+    {
+      "title": "Skill Security Scanner",
+      "description": "JS, TS, Python, Shell 기반 스킬에서 데이터 유출, 주입, 혼동, 백도어 위험을 점검합니다. 외부 스킬을 붙이기 전에 빠르게 안전성을 검토할 때 유용합니다.",
+      "icon": "🔒",
+      "category": "dev",
+      "url": "https://clawhub.ai/skills/skill-sec-scan-en",
+      "tags": [
+        "보안",
+        "스캔",
+        "위험"
+      ],
+      "addedAt": "2026-05-04"
     }
   ]
 }
