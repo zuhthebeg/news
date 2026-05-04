@@ -27,6 +27,114 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260504024300005",
       "publishedAt": "2026-05-03T23:51:16Z"
+    },
+    {
+      "id": "4",
+      "title": "TTA, IEEE 제조 피지컬 AI 국제표준화 작업반 의장직 확보",
+      "summary": "한국정보통신기술협회(TTA)가 IEEE 제조 피지컬 AI 국제표준화 작업반 의장직을 확보했다. 제조 현장의 AI 표준 경쟁에서 한국이 주도권을 넓힐 수 있는 계기가 될 전망이다.",
+      "category": "ai-tech",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20260504085341",
+      "publishedAt": "2026-05-04T08:53:41+09:00"
+    },
+    {
+      "id": "5",
+      "title": "“제조 AI 종주국 노린다”…TTA, 피지컬 AI 국제표준 의장직 확보",
+      "summary": "TTA가 피지컬 AI 분야 국제표준 논의의 핵심 의장직을 맡으며 제조 AI 표준화에 속도를 낸다. 로봇·제조 공정과 결합되는 AI 기술 경쟁에서 국내 산업계의 발언권이 커질 수 있다.",
+      "category": "ai-tech",
+      "source": "뉴시스",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260504_0003615724",
+      "publishedAt": "2026-05-04T08:57:48+09:00"
+    },
+    {
+      "id": "6",
+      "title": "호주, 다윈항 운영권 회수 추진…중국 기업과 국제소송 정면충돌",
+      "summary": "호주 정부가 전략 항만인 다윈항 운영권 회수를 추진하자 중국 기업이 국제소송으로 맞섰다. 안보와 투자 계약이 충돌하면서 호주·중국 관계의 새 갈등 요인으로 떠올랐다.",
+      "category": "world",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20260503000093",
+      "publishedAt": "2026-05-04T06:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "전승절 휴전 제안 속 러시아·우크라이나 드론 공방",
+      "summary": "러시아의 전승절 휴전 제안이 나온 가운데 양측의 드론 공격은 계속됐다. 민간 피해가 이어지며 임시 휴전 논의에도 전장 긴장은 낮아지지 않고 있다.",
+      "category": "world",
+      "source": "MBC 뉴스",
+      "sourceUrl": "https://imnews.imbc.com/replay/2026/nwtoday/article/6819783_37012.html",
+      "publishedAt": "2026-05-04T07:17:06+09:00"
+    },
+    {
+      "id": "8",
+      "title": "코스피, 장중 사상 최고치 재경신…SK하이닉스 역대 최고가",
+      "summary": "코스피가 외국인 매수세에 힘입어 장중 사상 최고치를 다시 갈아치웠다. SK하이닉스도 역대 최고가를 기록하며 반도체 대형주가 증시 상승을 이끌었다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026050437336",
+      "publishedAt": "2026-05-04T09:32:33+09:00"
+    },
+    {
+      "id": "9",
+      "title": "장외파생거래 2.6경원 시대…환율·증시 변동성에 역대 최대",
+      "summary": "국내 금융회사의 장외파생상품 거래 규모가 2경6000조원을 넘어서며 역대 최대치를 기록했다. 환율과 증시 변동성이 커지면서 헤지 수요와 거래가 동시에 늘어난 영향으로 분석된다.",
+      "category": "economy",
+      "source": "파이낸스투데이",
+      "sourceUrl": "https://www.fntoday.co.kr/news/articleView.html?idxno=383647",
+      "publishedAt": "2026-05-04T09:12:08+09:00"
+    },
+    {
+      "id": "10",
+      "title": "[부동산 인사이트] 전세, 월세가 사라지고 있다",
+      "summary": "전세 물량 부족과 임대차 시장 구조 변화로 기존 전월세 선택지가 줄어드는 흐름이 짚어졌다. 임차인 부담 확대와 주거 이동성 악화가 부동산 시장의 주요 변수로 부상하고 있다.",
+      "category": "realestate",
+      "source": "비즈한국",
+      "sourceUrl": "https://www.bizhankook.com/bk/article/32170",
+      "publishedAt": "2026-05-04T09:27:11+09:00"
+    },
+    {
+      "id": "11",
+      "title": "1100세대 대단지에 전세 5개뿐…전세난에 세입자 불안 커져",
+      "summary": "서울 주요 대단지에서도 전세 매물이 극히 부족한 사례가 이어지고 있다. 집주인 실거주와 월세 전환이 겹치며 세입자들의 선택지가 빠르게 줄어드는 모습이다.",
+      "category": "realestate",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/estate/2026/05/04/2026050319145845474",
+      "publishedAt": "2026-05-04T04:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "“해킹기업 3%도 신고 안 해…처벌만능론으론 AI시대 해킹 못 막아”",
+      "summary": "국내 해킹 피해 기업의 신고율이 매우 낮다는 지적이 나왔다. 전문가들은 처벌 중심 접근만으로는 AI 기반 공격 확산에 대응하기 어렵고, 신고 유인과 방어 체계 개선이 필요하다고 강조했다.",
+      "category": "security",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/society/12034442",
+      "publishedAt": "2026-05-04T00:45:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "중국 해킹그룹, 아시아 정부·국방·언론인 겨냥한 사이버 공격 확대",
+      "summary": "중국계 해킹그룹이 아시아 지역의 정부·국방 기관과 언론인, 활동가를 겨냥한 공격을 넓히고 있다는 분석이 나왔다. 지정학적 긴장과 정보 탈취 목적의 표적 공격 위험이 커지고 있다.",
+      "category": "security",
+      "source": "데일리시큐",
+      "sourceUrl": "https://www.dailysecu.com/news/articleView.html?idxno=206561",
+      "publishedAt": "2026-05-03T11:59:37+09:00"
+    },
+    {
+      "id": "14",
+      "title": "차세대중형위성 2호, 해외 지상국 교신 성공…발사 성공 확인",
+      "summary": "차세대중형위성 2호가 발사 후 해외 지상국과 교신에 성공하며 정상 궤도 진입을 확인했다. 국토 관측과 재난 대응 임무를 맡을 위성 자립 역량이 한 단계 강화됐다.",
+      "category": "science",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260503037754017",
+      "publishedAt": "2026-05-03T18:31:06+09:00"
+    },
+    {
+      "id": "15",
+      "title": "재료연-한화에어로스페이스, 항공 엔진용 핵심소재 협력 성과 공개",
+      "summary": "한국재료연구원과 한화에어로스페이스가 항공 엔진용 핵심소재 공동 연구 성과를 공개했다. 고온·고성능 소재 기술 확보가 항공우주 산업 경쟁력 강화로 이어질지 주목된다.",
+      "category": "science",
+      "source": "철강금속신문",
+      "sourceUrl": "https://www.eyard.net/news/view?id=568926",
+      "publishedAt": "2026-05-04T08:20:09+09:00"
     }
   ]
 }
