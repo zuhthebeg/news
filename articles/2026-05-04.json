@@ -135,6 +135,51 @@
       "source": "철강금속신문",
       "sourceUrl": "https://www.eyard.net/news/view?id=568926",
       "publishedAt": "2026-05-04T08:20:09+09:00"
+    },
+    {
+      "id": "16",
+      "title": "펜타곤, Nvidia·Microsoft·AWS 등 7개 빅테크와 기밀망 AI 도입 계약",
+      "summary": "미 국방부가 Anthropic과의 이용조건 갈등 이후 AI 벤더 다변화에 속도를 내며 주요 클라우드·칩 기업과 계약을 맺었다. 국방 AI 인프라가 단일 모델 의존에서 멀티벤더 구조로 이동하는 신호다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "publishedAt": "2026-05-01T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "Microsoft-OpenAI 파트너십 재구성…Anthropic·Google에도 문 열리나",
+      "summary": "Microsoft와 OpenAI의 독점적 성격이 완화되면서 양사 모두 다른 클라우드·모델 파트너와 협력할 여지가 커졌다. AI 플랫폼 경쟁은 단일 동맹보다 유연한 생태계 경쟁으로 재편되는 분위기다.",
+      "category": "ai-tech",
+      "source": "The New Stack",
+      "sourceUrl": "https://thenewstack.io/openai-microsoft-partnership-restructured/",
+      "publishedAt": "2026-04-27T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "Claude 기반 멀티에이전트 오케스트레이션 플랫폼 Ruflo 공개",
+      "summary": "Ruflo는 Claude Code와 Codex 연동, RAG 통합, 분산 클러스터 조율을 내세운 엔터프라이즈형 에이전트 오케스트레이션 프로젝트다. Claude 생태계가 단순 챗봇을 넘어 워크플로 자동화 인프라로 확장되는 흐름을 보여준다.",
+      "category": "ai-tech",
+      "source": "AIToolly",
+      "sourceUrl": "https://github.com/ruvnet/ruflo",
+      "publishedAt": "2026-05-04T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "Browserbase, Claude Code에 웹 브라우징 기능 붙이는 Skills SDK 공개",
+      "summary": "Browserbase가 Claude Code 기반 에이전트가 실제 웹을 탐색·해석·조작할 수 있게 하는 Skills SDK를 내놨다. 코드 생성 중심 에이전트가 라이브 웹 자동화까지 수행하는 방향으로 도구 계층이 넓어지고 있다.",
+      "category": "ai-tech",
+      "source": "AIToolly",
+      "sourceUrl": "https://github.com/browserbase/skills",
+      "publishedAt": "2026-05-04T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "DeepClaude, DeepSeek V4 Pro로 Claude Code 에이전트 비용 17배 절감 주장",
+      "summary": "DeepClaude는 Claude Code의 사용 경험과 도구 루프를 유지하면서 백엔드 모델을 DeepSeek V4 Pro 등으로 바꿔 비용을 낮추는 접근을 제시했다. 개발자용 에이전트 시장에서 성능뿐 아니라 토큰 단가와 백엔드 교체성이 핵심 경쟁축이 되고 있다.",
+      "category": "ai-tech",
+      "source": "AIToolly",
+      "sourceUrl": "https://github.com/aattaran/deepclaude",
+      "publishedAt": "2026-05-03T00:00:00Z"
     }
   ]
 }
