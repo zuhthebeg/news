@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-05",
+  "articles": [
+    {
+      "id": "1",
+      "title": "호르무즈 한국 HMM 선박, 폭발·화재 발생... 피격 확인 중",
+      "summary": "호르무즈 해역에서 한국 HMM 선박에 폭발과 화재가 발생해 당국이 피격 여부와 피해 상황을 확인 중이라는 보도다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNb1hxaVpLNjRIblBTbnlUU0hjYmJLTDZseE9sRTE2Z0NXY0ZLckFOSGU3WXAwYnMtU1NQSGlYRnVNNjdaRFEwbl95ZlZLTFBIWTU0OE0xNHdmNm1ZSEt3OHlFNHNvRzlVeHhMQTUwQTVtNUwyRUpsejlTU0lubVdOTnBUU0psLU85RWRSQlR3?oc=5",
+      "publishedAt": "2026-05-04T13:08:00Z"
+    },
+    {
+      "id": "2",
+      "title": "이 대통령, 여당에 조작기소 특검법 ‘선거 이후 처리’ 요청 모양새",
+      "summary": "이 대통령이 여당에 조작기소 특검법 처리 시점을 선거 이후로 미뤄달라고 요청한 모양새라는 정치권 보도다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5MZ29raVNUYVEzWVE3eHNSWDdVV25PTmdndWNjZk90Y0haVWdRSlVyNkp5NVRhNTRLV2ZDcm5JUXZ5TlUyUDBNSFNWWS1MUURmVDlYT2hFOUNuZU55YURMTHA4Q0U2eXdlam5J?oc=5",
+      "publishedAt": "2026-05-04T13:17:00Z"
+    },
+    {
+      "id": "3",
+      "title": "광주 길거리에서 청소년 2명 흉기 피습…1명 사망·1명 부상",
+      "summary": "광주 길거리에서 청소년 2명이 흉기에 피습돼 1명이 숨지고 1명이 다쳤으며 경찰이 사건 경위를 조사 중이라는 보도다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5DSDBtb2FCMmVyb2VydlZlSDJGYmFGbW9OekVIaXRZeXZZVUIzTFN4dWxLdzFFWTM2SUNYWHZ2S0N0RjNjbkc3Mkk2dUpOaXFvV2tWX3duSnFoelZfcmJzbw?oc=5",
+      "publishedAt": "2026-05-04T23:05:00Z"
+    }
+  ]
+}
