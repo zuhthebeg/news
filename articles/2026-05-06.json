@@ -27,6 +27,105 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260506029500065",
       "publishedAt": "2026-05-05T23:31:40Z"
+    },
+    {
+      "id": "4",
+      "title": "한국전기연구원, 사람 말 이해하는 자율제조 AI 기술 개발",
+      "summary": "한국전기연구원과 국립창원대 연구팀이 제조 현장에서 사람의 명령을 이해하고 판단·행동하는 자율제조 다중 에이전트 AI를 개발했다.\n기존 규칙 기반 자동화보다 유연하게 공정을 수행할 수 있어 제조 현장 AI 전환 속도를 높일 기술로 평가된다.",
+      "category": "ai-tech",
+      "source": "뉴시스",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260505_0003617509",
+      "publishedAt": "2026-05-06T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "KAIST, 코엑스서 AI 기술설명회 2026 개최",
+      "summary": "KAIST 김재철AI대학원이 7일 서울 코엑스에서 AI 기술설명회 2026을 연다.\n행사에서는 KAIST의 주요 인공지능 연구 성과와 산업 적용 가능성이 소개될 예정이다.",
+      "category": "ai-tech",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/local/daejeon-chungnam/6157704",
+      "publishedAt": "2026-05-06T09:31:38+09:00"
+    },
+    {
+      "id": "6",
+      "title": "트럼프 “한국 화물선, 미국 보호 없이 혼자 행동하다 피격”",
+      "summary": "도널드 트럼프 미국 대통령이 호르무즈 해협 인근 한국 화물선 피격과 관련해 “미국 보호를 받지 않고 단독 행동하다 공격당했다”고 말했다.\n중동 긴장이 고조되는 가운데 한국 선박 안전과 국제 항로 보호 문제가 다시 쟁점으로 떠올랐다.",
+      "category": "world",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/international/america/1257311.html",
+      "publishedAt": "2026-05-06T07:59:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "중동 전쟁 장기화에 국제유가 평균 100달러 전망도",
+      "summary": "중동 전쟁이 두 달 이상 이어지면서 올해 국제유가 평균이 배럴당 100달러에 이를 수 있다는 전망이 나왔다.\n단기적으로는 공급 불안이 커질 경우 유가가 더 급등할 수 있다는 경고도 함께 제기됐다.",
+      "category": "world",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/economy/trend/6156928",
+      "publishedAt": "2026-05-06T06:10:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "무보, K-콘텐츠 수출기업 금융지원 확대",
+      "summary": "한국무역보험공사가 K-콘텐츠 기업의 금융비용 부담을 낮추기 위해 이차보전사업을 본격 시행한다.\n대출금리 지원을 통해 콘텐츠 수출기업의 자금 조달 부담을 줄이고 해외 진출 경쟁력을 높이겠다는 계획이다.",
+      "category": "economy",
+      "source": "인더스트리뉴스",
+      "sourceUrl": "https://www.industrynews.co.kr/news/articleView.html?idxno=80685",
+      "publishedAt": "2026-05-06T09:46:58+09:00"
+    },
+    {
+      "id": "9",
+      "title": "오피스텔 입주 절벽에 신고가 속출…아파트 규제 대체수요 유입",
+      "summary": "아파트 대출 규제와 오피스텔 공급 감소가 맞물리며 주거용 오피스텔 시장이 반등 조짐을 보이고 있다.\n입주 물량이 역대 최저권으로 줄어든 가운데 실수요가 유입되며 거래와 가격이 함께 움직이고 있다.",
+      "category": "realestate",
+      "source": "뉴시스",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260504_0003616323",
+      "publishedAt": "2026-05-06T06:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "서울 외곽도 월세 300만원…전세 품귀가 고가 월세 자극",
+      "summary": "서울 외곽 지역에서도 월 300만원대 아파트 월세가 나타나는 등 월세 부담이 빠르게 커지고 있다.\n실거주 의무 강화와 신규 공급 감소로 전세 물량이 줄면서 월세 상승세가 당분간 이어질 수 있다는 분석이 나온다.",
+      "category": "realestate",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/estate/2026/05/06/2026050519451547631",
+      "publishedAt": "2026-05-06T04:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "국내 사이버 보안 기업들, AI 에이전트로 솔루션 고도화",
+      "summary": "국내 사이버 보안 기업들이 AI 에이전트를 활용해 탐지·대응 솔루션 고도화에 속도를 내고 있다.\n보안 위협이 자동화·고속화되는 흐름에 맞춰 AI 기반 분석과 대응 역량 확보가 핵심 경쟁력으로 떠오르고 있다.",
+      "category": "security",
+      "source": "IT조선",
+      "sourceUrl": "https://it.chosun.com/news/articleView.html?idxno=2023092161450",
+      "publishedAt": "2026-05-06T06:33:28+09:00"
+    },
+    {
+      "id": "12",
+      "title": "정보통신 분야 해킹 5년 새 4배 폭증",
+      "summary": "최근 5년간 국내 정보통신 분야 해킹 사고가 4배 가까이 증가한 것으로 나타났다.\n유통·여행·레저·패션 등 산업 전반으로 침해 사고가 확산되면서 사전 예방과 피해 차단 체계 강화가 요구된다.",
+      "category": "security",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/it-science/security-hacking/6156570",
+      "publishedAt": "2026-05-06T05:30:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "명왕성 너머 천체에서 대기 흔적 확인",
+      "summary": "태양에서 약 57억㎞ 떨어진 명왕성 너머 천체에서 대기 흔적이 관측됐다는 연구 결과가 나왔다.\n외곽 태양계 천체의 진화와 구성 성분을 이해하는 데 중요한 단서가 될 수 있다는 평가다.",
+      "category": "science",
+      "source": "서울신문",
+      "sourceUrl": "https://www.seoul.co.kr/news/plan/science-story/2026/05/04/20260504500192",
+      "publishedAt": "2026-05-05T14:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "UNIST·경북대, 통신 반도체 회로 설계 하루 만에 끝내는 AI 개발",
+      "summary": "UNIST와 경북대 연구팀이 통신 반도체 회로 설계를 자동화하는 AI 모델을 개발했다.\n회로 설계와 물리적 레이아웃을 함께 최적화해 설계 시간을 76% 이상 줄이고 성능 개선 가능성도 보였다.",
+      "category": "science",
+      "source": "IT타임스",
+      "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=84663",
+      "publishedAt": "2026-05-06T00:32:30+09:00"
     }
   ]
 }
