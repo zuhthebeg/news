@@ -126,6 +126,51 @@
       "source": "IT타임스",
       "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=84663",
       "publishedAt": "2026-05-06T00:32:30+09:00"
+    },
+    {
+      "id": "15",
+      "title": "Code with Claude San Francisco 2026, 오늘 개최",
+      "summary": "Anthropic의 Claude 개발자 행사 Code with Claude가 5월 6일 샌프란시스코에서 열린다. Claude Platform, Claude Code, 장기 작업·멀티레포·병렬 에이전트 운영, Managed Agents 등 개발자 생산성 중심 세션이 배치됐다.",
+      "category": "ai-tech",
+      "source": "Claude",
+      "sourceUrl": "https://claude.com/code-with-claude/san-francisco",
+      "publishedAt": "2026-05-06T00:00:00-07:00"
+    },
+    {
+      "id": "16",
+      "title": "Anthropic, Blackstone·Goldman Sachs와 엔터프라이즈 AI 서비스 회사 설립",
+      "summary": "Anthropic이 Blackstone, Hellman & Friedman, Goldman Sachs와 중견기업 대상 AI 서비스 회사를 만든다고 발표했다. Anthropic Applied AI 엔지니어가 참여해 Claude 기반 맞춤형 업무 시스템을 구축하고 장기 운영을 지원하는 구조다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "publishedAt": "2026-05-04T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "Anthropic·OpenAI, 엔터프라이즈 AI 서비스 JV 경쟁 본격화",
+      "summary": "TechCrunch는 Anthropic과 OpenAI가 각각 자산운용사·PE 파트너와 손잡고 기업용 AI 서비스 합작법인을 추진한다고 보도했다. 모델 판매를 넘어 구축·운영·컨설팅까지 묶는 엔터프라이즈 AI 유통 경쟁이 커지는 흐름이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "publishedAt": "2026-05-04T15:59:00Z"
+    },
+    {
+      "id": "18",
+      "title": "미 국방부, Nvidia·Microsoft·AWS와 기밀망 AI 배포 계약",
+      "summary": "TechCrunch는 미 국방부가 Nvidia, Microsoft, AWS 등과 기밀 네트워크용 AI 배포 계약을 체결했다고 전했다. Anthropic과의 사용 조건 갈등 이후 국방 AI 공급망을 다변화하려는 움직임으로 해석된다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/01/pentagon-inks-deals-with-nvidia-microsoft-and-aws-to-deploy-ai-on-classified-networks/",
+      "publishedAt": "2026-05-01T16:02:00Z"
+    },
+    {
+      "id": "19",
+      "title": "Google·Microsoft, 미국 기관에 AI 모델 조기 접근 제공",
+      "summary": "Google과 Microsoft가 미국 정부 기관에 최신 AI 모델 조기 접근을 제공하기로 했다는 보도가 나왔다. frontier 모델 출시 전 안전성·위험 평가를 제도권과 연결하려는 움직임이 강화되고 있다.",
+      "category": "ai-tech",
+      "source": "The Mercury News",
+      "sourceUrl": "https://www.mercurynews.com/2026/05/05/google-microsoft-to-give-us-agency-early-access-to-ai-models/",
+      "publishedAt": "2026-05-05T00:00:00-07:00"
     }
   ]
 }
