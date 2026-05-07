@@ -725,6 +725,71 @@
         "위험"
       ],
       "addedAt": "2026-05-04"
+    },
+    {
+      "title": "WebTorrent — Streaming Torrent Client",
+      "description": "브라우저와 Node.js에서 토렌트 스트리밍, 시드, 마그넷 링크를 다루는 스킬입니다.\n동영상 미리보기나 대용량 파일 배포 작업에 유용합니다.",
+      "icon": "🌊",
+      "category": "media",
+      "url": "https://clawhub.com/skills/webtorrent",
+      "tags": [
+        "토렌트",
+        "스트리밍",
+        "Node.js"
+      ],
+      "addedAt": "2026-05-07"
+    },
+    {
+      "title": "Data Validator Pro",
+      "description": "표 형태 데이터의 결측치, 스키마, 이상치를 점검하는 데이터 품질 스킬입니다.\nCSV, 엑셀, DB 내보내기 전 검증과 프로파일링에 적합합니다.",
+      "icon": "🧪",
+      "category": "data",
+      "url": "https://clawhub.com/skills/data-validator-pro",
+      "tags": [
+        "데이터",
+        "검증",
+        "프로파일링"
+      ],
+      "addedAt": "2026-05-07"
+    },
+    {
+      "title": "Vector DB Toolkit",
+      "description": "Qdrant, Chroma, 인메모리 벡터 저장소를 다루는 RAG·임베딩 도구 모음입니다.\n벡터 검색, 적재, 색인 실험을 빠르게 붙일 수 있습니다.",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/vector-db-toolkit",
+      "tags": [
+        "벡터DB",
+        "RAG",
+        "임베딩"
+      ],
+      "addedAt": "2026-05-07"
+    },
+    {
+      "title": "GitHub Workflow",
+      "description": "gh CLI로 저장소, 브랜치, PR, CI/CD, 릴리스, 시크릿을 다루는 GitHub 작업 스킬입니다.\n반복적인 협업과 배포 흐름을 자동화하기 좋습니다.",
+      "icon": "🔧",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/github-workflow-main",
+      "tags": [
+        "GitHub",
+        "PR",
+        "자동화"
+      ],
+      "addedAt": "2026-05-07"
+    },
+    {
+      "title": "Upstage Studio",
+      "description": "Upstage Document Agent API(v2)로 문서 추출, 분류, 파이프라인을 실행하는 스킬입니다.\n계약서, 보고서, 대량 문서 처리를 워크플로로 묶을 때 유용합니다.",
+      "icon": "📄",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/upstage-studio",
+      "tags": [
+        "문서",
+        "추출",
+        "자동화"
+      ],
+      "addedAt": "2026-05-07"
     }
   ]
 }
