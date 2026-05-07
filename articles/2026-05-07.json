@@ -135,6 +135,51 @@
       "source": "뉴시스",
       "sourceUrl": "https://www.newsis.com/view/NISX20260506_0003618005",
       "publishedAt": "2026-05-06T12:00:00+09:00"
+    },
+    {
+      "id": "16",
+      "title": "Anthropic, Blackstone·Goldman Sachs와 엔터프라이즈 AI 서비스 회사 설립",
+      "summary": "Anthropic이 Blackstone, Hellman & Friedman, Goldman Sachs와 중견 기업 대상 AI 서비스 회사를 만든다고 발표했다. Claude를 기업 핵심 업무에 붙이는 실전 엔지니어링 수요가 시스템통합 파트너만으로 감당하기 어려울 만큼 커졌다는 신호다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/enterprise-ai-services-company",
+      "publishedAt": "2026-05-04T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "Anthropic, Claude Security 공개 베타로 취약점 스캔 강화",
+      "summary": "Anthropic이 Claude Enterprise 고객을 대상으로 Claude Security 공개 베타를 시작했다. 코드베이스를 읽고 데이터 흐름과 모듈 상호작용을 추론해 취약점 설명, 심각도, 재현 방법, 패치 지침까지 제시하는 보안 워크플로우다.",
+      "category": "ai-tech",
+      "source": "Infosecurity Magazine",
+      "sourceUrl": "https://www.infosecurity-magazine.com/news/anthropic-claude-security-for-ai/",
+      "publishedAt": "2026-05-01T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "Anthropic, Claude용 금융 에이전트 공개",
+      "summary": "Anthropic이 금융 업무에 특화된 Claude 에이전트 흐름을 내놨다고 보도됐다. 자산운용·리서치·기업금융처럼 규제와 정확성이 중요한 영역에서도 생성형 AI가 단순 챗봇을 넘어 업무 실행 레이어로 이동하고 있다.",
+      "category": "ai-tech",
+      "source": "The Register",
+      "sourceUrl": "https://www.theregister.com/software/2026/05/05/anthropic-unleashes-finance-agents-for-claude/5225868",
+      "publishedAt": "2026-05-05T20:44:00Z"
+    },
+    {
+      "id": "19",
+      "title": "OpenAI, ChatGPT 기본 모델로 GPT-5.5 Instant 배포",
+      "summary": "OpenAI가 GPT-5.5 Instant를 공개하고 ChatGPT 기본 모델을 교체했다. TechCrunch는 법률·의료·금융 같은 민감 영역에서 환각을 줄이면서 기존 Instant 계열의 낮은 지연시간을 유지하는 것이 핵심이라고 전했다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "publishedAt": "2026-05-05T17:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "Google·Meta, 개인 AI 에이전트 경쟁 가속",
+      "summary": "Google은 Gemini 내부판에 연결되는 개인 에이전트 ‘Remy’를, Meta는 ‘Hatch’와 인스타그램 쇼핑 에이전트를 준비 중이라고 보도됐다. OpenAI·Anthropic이 앞서간 에이전트 시장에 빅테크가 본격적으로 추격하는 흐름이다.",
+      "category": "ai-tech",
+      "source": "The Decoder",
+      "sourceUrl": "https://the-decoder.com/google-and-meta-race-to-build-personal-ai-agents-as-anthropic-and-openai-pull-further-ahead/",
+      "publishedAt": "2026-05-06T00:00:00Z"
     }
   ]
 }
