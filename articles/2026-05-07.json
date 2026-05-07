@@ -27,6 +27,114 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260507029600005",
       "publishedAt": "2026-05-06T23:49:07Z"
+    },
+    {
+      "id": "4",
+      "title": "\"中企 AI 윤리 확산\"…기보, 공공기관 최초 AI윤리준수기관 지정",
+      "summary": "기술보증기금이 한국지능정보사회진흥원으로부터 공공기관 최초 AI윤리준수기관으로 지정됐다.\n정부의 책임 있는 AI 활용 정책에 맞춰 중소기업 영역의 AI 윤리 확산을 추진한다.",
+      "category": "ai-tech",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/amp/industry/sb-founded/6158914",
+      "publishedAt": "2026-05-07T08:48:26+09:00"
+    },
+    {
+      "id": "5",
+      "title": "한국전기연구원, 제조 AI 에이전트 개발…로봇 간 협업으로 공정 분담",
+      "summary": "한국전기연구원과 국립창원대 연구진이 여러 AI 로봇이 협업해 공정을 운영하는 자율제조 기술을 개발했다.\n숙련공 부족 문제를 줄이고 제조 현장의 자동화 수준을 높일 기술로 주목된다.",
+      "category": "ai-tech",
+      "source": "FA저널",
+      "sourceUrl": "https://www.fajournal.com/news/articleView.html?idxno=20922",
+      "publishedAt": "2026-05-07T09:25:12+09:00"
+    },
+    {
+      "id": "6",
+      "title": "트럼프 “이란, 핵무기 포기 동의”…1주일 내 협상 타결 시사",
+      "summary": "도널드 트럼프 미국 대통령이 이란이 핵무기 포기에 동의했다고 밝히며 협상 타결 가능성을 언급했다.\n중동 긴장 완화 기대가 커졌지만 실제 합의 조건과 이행 여부는 여전히 불확실하다.",
+      "category": "world",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/international/us/2026/05/07/XVBUUSHG4JFUBGX43VSEKHW5PE/",
+      "publishedAt": "2026-05-07T05:45:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "러시아, 휴전 제안 직후 대규모 공습…구조대까지 시차 폭격",
+      "summary": "러시아가 휴전 제안 직후 우크라이나를 상대로 올해 최악 수준의 공습을 벌였다고 보도됐다.\n출동한 구조대까지 겨냥한 시차 폭격 정황이 전해지며 민간 피해 우려가 커지고 있다.",
+      "category": "world",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/international/international_general/1257382.html",
+      "publishedAt": "2026-05-06T16:12:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "파죽지세 코스피, 7500선도 돌파…코스닥은 약세",
+      "summary": "국내 증시에서 코스피가 강한 상승세를 이어가며 7500선을 넘어섰다.\n대형주 중심의 매수세가 이어진 반면 코스닥은 약세를 보이며 시장 간 온도 차가 나타났다.",
+      "category": "economy",
+      "source": "조선비즈",
+      "sourceUrl": "https://biz.chosun.com/stock/stock_general/2026/05/07/TUSUFMJZGFHBRIZG7RICEYZIHY/",
+      "publishedAt": "2026-05-07T09:11:15+09:00"
+    },
+    {
+      "id": "9",
+      "title": "4월 소비자물가 2.6% 상승…21개월 만에 최고",
+      "summary": "4월 소비자물가 상승률이 2.6%를 기록하며 21개월 만에 가장 높은 수준으로 올라섰다.\n석유류 가격이 21.9% 뛰면서 물가 부담을 키운 주요 요인으로 지목됐다.",
+      "category": "economy",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/economy/economy_general/1257316.html",
+      "publishedAt": "2026-05-06T10:36:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "10년 장기 보유 주택 매도 역대 최대…강남권 절세 매물 증가",
+      "summary": "10년 이상 보유한 주택을 매도하려는 움직임이 역대 최대 수준으로 늘었다.\n강남권을 중심으로 세금 부담을 줄이려는 절세 매물이 증가하며 시장 흐름에 영향을 주고 있다.",
+      "category": "realestate",
+      "source": "뉴시스",
+      "sourceUrl": "https://mobile.newsis.com/view_amp.html?ar_id=NISX20260506_0003618578",
+      "publishedAt": "2026-05-07T06:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "전국 공동주택 공시가격 40%가 서울에…강남3구 쏠림 심화",
+      "summary": "전국 공동주택 공시가격 총액의 40.8%가 서울에 집중된 것으로 나타났다.\n서울 안에서도 강남3구 비중이 커지며 수도권과 핵심 지역 쏠림 현상이 더 뚜렷해졌다.",
+      "category": "realestate",
+      "source": "한국부동산뉴스",
+      "sourceUrl": "https://www.karnews.or.kr/news/articleView.html?idxno=23684",
+      "publishedAt": "2026-05-06T17:31:06+09:00"
+    },
+    {
+      "id": "12",
+      "title": "크로커스, 헥사랩스 인수로 통신·인프라 보안 사업 확대",
+      "summary": "AI 기반 에너지 기업 크로커스가 사이버 보안 전문기업 헥사랩스를 인수했다.\nAI·에너지·데이터 인프라 분야의 보안 수요 확대에 대응하기 위한 전략적 행보다.",
+      "category": "security",
+      "source": "공감신문",
+      "sourceUrl": "https://www.gokorea.kr/news/articleView.html?idxno=865486",
+      "publishedAt": "2026-05-07T09:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "KT, 정보보안실 중심 고강도 보안 혁신 본격화",
+      "summary": "KT가 정보보안 조직을 개편하고 제로트러스트 기반 통합 보안 체계 구축에 나섰다.\n개인정보 보호와 사이버 보안 신뢰 회복을 위한 전사적 보안 혁신으로 풀이된다.",
+      "category": "security",
+      "source": "이코노뉴스",
+      "sourceUrl": "http://www.econonews.co.kr/news/articleView.html?idxno=437628",
+      "publishedAt": "2026-05-07T09:05:56+09:00"
+    },
+    {
+      "id": "14",
+      "title": "암세포 3차원 실험으로 신약 성공률 높인다…지방병원 연구 주목",
+      "summary": "화순전남대병원이 3차원 암세포 배양과 미세중력 실험을 활용해 항암 신약 개발 가능성을 높이는 연구를 진행하고 있다.\n미국 연구진도 주목한 성과로, 향후 우주 환경을 활용한 의료 연구로 확장할 계획이다.",
+      "category": "science",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/thebio/2026/05/06/2026050610571444057",
+      "publishedAt": "2026-05-06T16:03:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "양자컴퓨터도 못 뚫는 차세대 보안 방패, 국방 드론·우주 위성에 적용",
+      "summary": "정부가 양자컴퓨팅 시대의 보안 위협에 대비해 양자내성암호 시범 전환을 확대한다.\n국방 드론, 우주 위성, 금융 등 국가 핵심 인프라에 차세대 암호 체계를 적용하는 계획이다.",
+      "category": "science",
+      "source": "뉴시스",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260506_0003618005",
+      "publishedAt": "2026-05-06T12:00:00+09:00"
     }
   ]
 }
