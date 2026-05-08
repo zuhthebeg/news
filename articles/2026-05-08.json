@@ -126,6 +126,51 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260508000300017",
       "publishedAt": "2026-05-08T09:01:59+09:00"
+    },
+    {
+      "id": "15",
+      "title": "Anthropic, SpaceX compute 계약으로 Claude Code·API 사용 한도 확대",
+      "summary": "Anthropic이 SpaceX의 Colossus 1 데이터센터 컴퓨트 용량을 활용하는 계약을 발표하고 Claude Code 5시간 사용 한도와 Claude Opus API rate limit을 올렸다. Claude 사용량 병목이 실제 인프라 확보 경쟁으로 이어지고 있다는 신호다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://www.anthropic.com/news/higher-limits-spacex",
+      "publishedAt": "2026-05-06T14:36:27Z"
+    },
+    {
+      "id": "16",
+      "title": "OpenAI, ChatGPT 기본 모델로 GPT-5.5 Instant 출시",
+      "summary": "OpenAI가 ChatGPT의 새 기본 모델 GPT-5.5 Instant를 공개했다. TechCrunch는 이 모델이 법률·의료·금융 같은 민감 영역의 환각을 줄이면서 기존 저지연 특성을 유지하는 방향이라고 전했다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/openai-releases-gpt-5-5-instant-a-new-default-model-for-chatgpt/",
+      "publishedAt": "2026-05-05T17:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "Anthropic·OpenAI, 기업 AI 서비스 합작법인 경쟁 가속",
+      "summary": "Anthropic과 OpenAI가 각각 자산운용사·투자사와 손잡고 엔터프라이즈 AI 도입을 밀어붙이는 합작법인 모델을 추진한다. 모델 성능 경쟁이 대기업 업무 전환·컨설팅·배포 역량 경쟁으로 확장되는 흐름이다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/04/anthropic-and-openai-are-both-launching-joint-ventures-for-enterprise-ai-services/",
+      "publishedAt": "2026-05-04T15:59:00Z"
+    },
+    {
+      "id": "18",
+      "title": "Apple, iOS 27에서 서드파티 AI 모델 선택권 확대 추진",
+      "summary": "Bloomberg 보도를 인용한 TechCrunch에 따르면 Apple은 iOS 27·iPadOS 27·macOS 27에서 사용자가 Apple Intelligence 기능에 연결할 서드파티 AI 모델을 선택하는 방식을 테스트 중이다. Google과 Anthropic 모델도 시험 대상에 포함된 것으로 전해졌다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/05/apple-plans-to-make-ios-27-a-choose-your-own-adventure-of-ai-models/",
+      "publishedAt": "2026-05-05T20:56:00Z"
+    },
+    {
+      "id": "19",
+      "title": "중국 Moonshot AI, 20억달러 조달·200억달러 가치평가 보도",
+      "summary": "TechCrunch는 중국 Moonshot AI가 오픈소스 AI 수요 확대 속에 20억달러를 조달하고 200억달러 가치평가를 받았다고 보도했다. 4월 연환산 반복매출이 2억달러를 넘었다는 점도 함께 언급됐다.",
+      "category": "ai-tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/05/07/chinas-moonshot-ai-raises-2b-at-20b-valuation-as-demand-for-open-source-ai-skyrockets/",
+      "publishedAt": "2026-05-07T13:44:00Z"
     }
   ]
 }
