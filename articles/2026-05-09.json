@@ -27,6 +27,105 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260508105700052",
       "publishedAt": "2026-05-09T08:45:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "오픈AI, 사이버보안 특화 모델 ‘GPT-5.5-사이버’ 공개",
+      "summary": "오픈AI가 미소스 계열 위협에 대응하기 위한 사이버보안 특화 AI 모델을 공개했다. 전용 보안 모델과 범용 모델을 병행하는 투트랙 전략으로 보안 업무 자동화와 방어 역량 강화를 노린다.",
+      "category": "ai-tech",
+      "source": "AI타임스",
+      "sourceUrl": "https://www.aitimes.com/news/articleView.html?idxno=210280",
+      "publishedAt": "2026-05-09T08:13:58+09:00"
+    },
+    {
+      "id": "5",
+      "title": "빅테크, SK하이닉스 HBM 선점 위해 생산라인 확보 경쟁",
+      "summary": "글로벌 빅테크 기업들이 AI 반도체 수요 급증에 맞춰 SK하이닉스 HBM 생산 물량 확보에 나섰다. 수조 원 규모 선지급까지 거론되며 고대역폭메모리 공급망 경쟁이 더 치열해지고 있다.",
+      "category": "ai-tech",
+      "source": "글로벌이코노믹",
+      "sourceUrl": "https://www.g-enews.com/article/Global-Biz/2026/05/2026050909203041fbbec65dfb_1",
+      "publishedAt": "2026-05-09T09:29:25+09:00"
+    },
+    {
+      "id": "6",
+      "title": "미국 화석연료 회귀에 중국·유럽 탄소 동맹 강화",
+      "summary": "미국이 화석연료 중심 정책으로 돌아서는 가운데 중국과 유럽이 탄소 감축 협력을 강화하고 있다. 글로벌 기후 규범과 친환경 산업 주도권을 둘러싼 국제 질서 재편 신호로 해석된다.",
+      "category": "world",
+      "source": "임팩트온",
+      "sourceUrl": "http://www.impacton.net/news/articleViewAmp.html?idxno=18798",
+      "publishedAt": "2026-05-08T16:08:08+09:00"
+    },
+    {
+      "id": "7",
+      "title": "미중 회담 앞둔 트럼프, 관세 위법 판단으로 협상 변수",
+      "summary": "미중 회담을 앞두고 트럼프 행정부의 관세 조치가 위법이라는 판단이 나오며 협상 구도에 변수가 생겼다. 즉각적인 정책 영향은 제한적이라는 분석이지만 통상 압박 전략의 법적 부담은 커졌다.",
+      "category": "world",
+      "source": "세계일보",
+      "sourceUrl": "https://www.segye.com/newsView/20260508506265",
+      "publishedAt": "2026-05-08T13:48:09+09:00"
+    },
+    {
+      "id": "8",
+      "title": "기업 자금, 은행 파킹통장에 111조 원 몰렸다",
+      "summary": "기업들이 불확실한 경기와 투자 환경 속에서 단기 대기성 자금을 은행 파킹통장에 쌓아두고 있다. 잔액이 111조 원 규모로 불어나며 투자 지연과 유동성 쏠림 현상이 동시에 드러났다.",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/economy/12041323",
+      "publishedAt": "2026-05-08T17:45:02+09:00"
+    },
+    {
+      "id": "9",
+      "title": "전국 주택 절반 이상 노후주택…신축 아파트 희소성 커져",
+      "summary": "전국 주택 10채 중 5채 이상이 노후주택으로 분류되며 신축 아파트의 희소성이 커지고 있다. 정비사업 지연과 공급 부족이 맞물리면서 새 아파트 선호와 가격 압력이 이어질 가능성이 제기된다.",
+      "category": "realestate",
+      "source": "시사저널e",
+      "sourceUrl": "https://www.sisajournal-e.com/news/articleView.html?idxno=421005",
+      "publishedAt": "2026-05-09T08:10:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "서울 아파트 매물 7만 건 붕괴…전월세 시장도 흔들",
+      "summary": "서울 아파트 매물이 7만 건 아래로 줄어들며 매매 시장의 공급 부족 우려가 커지고 있다. 공급 절벽 전망까지 겹치면서 전월세 시장의 불안도 함께 확대될 수 있다는 분석이 나온다.",
+      "category": "realestate",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/amp/estate/2026/05/09/2026050715272963543",
+      "publishedAt": "2026-05-09T06:45:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "클릭 한 번에 기업 마비…사이버 침해사고 급증",
+      "summary": "기업을 겨냥한 사이버 침해사고가 빠르게 늘며 단순 클릭 한 번으로 업무가 마비되는 사례가 잇따르고 있다. 랜섬웨어와 피싱 등 공격 방식이 정교해지면서 사전 대응 체계의 중요성이 커졌다.",
+      "category": "security",
+      "source": "KNN",
+      "sourceUrl": "https://news.knn.co.kr/news/article/187566",
+      "publishedAt": "2026-05-08T17:34:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "자동차 해킹, 개별 차량 넘어 ‘차량 군집’ 공격으로 진화",
+      "summary": "아우토크립트는 자동차 해킹 위협이 개별 차량 침입을 넘어 연결된 차량 군집을 겨냥하는 방향으로 진화하고 있다고 분석했다. 커넥티드카 확산에 따라 차량 보안과 인증 체계 고도화가 핵심 과제로 떠올랐다.",
+      "category": "security",
+      "source": "대한경제",
+      "sourceUrl": "https://www.dnews.co.kr/uhtml/view.jsp?idxno=202605081420372460031",
+      "publishedAt": "2026-05-08T14:20:37+09:00"
+    },
+    {
+      "id": "13",
+      "title": "국가연구데이터법 국회 통과…R&D 데이터 국가자산으로 관리",
+      "summary": "연구개발 과정에서 생산되는 데이터를 국가 차원의 자산으로 관리하기 위한 국가연구데이터법이 국회 본회의를 통과했다. 공공 연구데이터의 축적·공유 기반이 강화되며 과학기술 경쟁력 확보에 속도가 붙을 전망이다.",
+      "category": "science",
+      "source": "헬로디디",
+      "sourceUrl": "https://www.hellodd.com/news/articleView.html?idxno=111697",
+      "publishedAt": "2026-05-08T17:30:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "기술주권 확보 위한 국가 미래소재 혁신 4대 전략 제시",
+      "summary": "국가 차원의 미래소재 혁신 전략이 제시되며 첨단 산업의 기술주권 확보가 핵심 과제로 부상했다. 소재 연구개발과 공급망 안정성을 함께 강화해 반도체·배터리 등 전략 산업 기반을 넓히겠다는 방향이다.",
+      "category": "science",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20260508160121",
+      "publishedAt": "2026-05-08T20:40:49+09:00"
     }
   ]
 }
