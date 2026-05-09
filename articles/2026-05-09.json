@@ -126,6 +126,51 @@
       "source": "지디넷코리아",
       "sourceUrl": "https://zdnet.co.kr/view/?no=20260508160121",
       "publishedAt": "2026-05-08T20:40:49+09:00"
+    },
+    {
+      "id": "15",
+      "title": "Anthropic, Claude에 “왜”를 가르치는 새 학습 방향 공개",
+      "summary": "Anthropic이 Claude가 정답뿐 아니라 판단 이유를 더 잘 설명하도록 학습시키는 접근을 소개했다. 기업용 AI 도입에서 설명 가능성과 감사 가능성이 핵심 경쟁 축으로 커지는 흐름이다.",
+      "category": "ai-tech",
+      "source": "Anthropic",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5LeXh2UWs4b3V3WkhsTkhEOVVWeVA3NjlIN1JOSWJQQ3VONnIzUW1LSmhRaEt3QVMyRFZvZEo0aVpIV1JYRzk2X2llUjdwS09EUmhiX2VmVmYzc3lQdW5TSVhHU3U?oc=5",
+      "publishedAt": "2026-05-08T18:09:32Z"
+    },
+    {
+      "id": "16",
+      "title": "멕시코 수도 시설 침해 시도에 Claude가 악용된 정황 보고",
+      "summary": "Cybersecurity Dive는 위협 행위자가 멕시코 수도 유틸리티 침해 시도 과정에서 Claude를 활용한 사례를 전했다. 생성형 AI가 방어 자동화뿐 아니라 공격 보조 도구로도 빠르게 흡수되고 있다는 경고다.",
+      "category": "ai-tech",
+      "source": "Cybersecurity Dive",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1g1SUxyR1ljalkyNVJaVDU1blVsNl9vTmFSTTB6d1ByRkhVRUlpY3piNHVIYktzX3AwRkFNVHE4T0lBbTRrV1lPdU5IVFM3LXNSMjQ3ZHNHSzFhM0lTMGtBYVRjVEhzMjU4T21zWDd5UVJ6ZDN6QVZFbkptYUdQNFNIRlhnM3M4Y0w3d19PSGV6dlFxNWJxRGdNQi15dw?oc=5",
+      "publishedAt": "2026-05-08T15:53:51Z"
+    },
+    {
+      "id": "17",
+      "title": "Code for America, SNAP 업무용 Anthropic AI 도구 도입",
+      "summary": "StateScoop는 Code for America가 SNAP 복지 업무 담당자를 위한 Anthropic 기반 AI 도구를 추진한다고 보도했다. 공공 부문에서 상담·서류 처리·업무 보조형 AI가 실사용 단계로 진입하는 사례다.",
+      "category": "ai-tech",
+      "source": "StateScoop",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9lZnA2bUd6aW1SX3VOSlBfd3J4UnVTQUJmZlVKUEtTeGZpV0cybzhvWlJvcW55alI4T2JWcElZSVZYS1V6RXUtcUhaeDN5VWhicnpGZWhyZElnRFl5Nzd6QkRFOEZhcE94ZWhXOW91RW9FUHYyaE1rQ3l3?oc=5",
+      "publishedAt": "2026-05-08T20:45:24Z"
+    },
+    {
+      "id": "18",
+      "title": "OpenAI, 검증된 보안 연구자에게 GPT-5.5-Cyber 접근 확대",
+      "summary": "OpenAI가 사이버보안 연구와 방어 워크플로우를 위한 GPT-5.5-Cyber 접근을 검증된 연구자에게 제공한다. AI 모델의 위험 통제와 전문 분야 생산성 확대를 동시에 시도하는 움직임이다.",
+      "category": "ai-tech",
+      "source": "OpenAI",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9uWlJsdDkxQ0wzdE1rb19ZYXlmLWNBbmFNRTY1a1RqYkNqUlJCalV6V0tiLWw0VERlZGxlZlBrRjRlRUkyUzRZc0dRZVBzMFNhUkYwVERMM1p5ZGotWjBQTFBTSEtsc1UyYWlmTE1UMzQ?oc=5",
+      "publishedAt": "2026-05-07T22:08:18Z"
+    },
+    {
+      "id": "19",
+      "title": "Meta·Google, AI 에이전트 경쟁 가열",
+      "summary": "CNBC는 Meta와 Google이 AI 에이전트 경쟁에 본격적으로 뛰어들며 “agentic wars”가 달아오르고 있다고 짚었다. 모델 성능 경쟁이 앱·브라우저·워크플로우를 대신 실행하는 에이전트 플랫폼 경쟁으로 이동 중이다.",
+      "category": "ai-tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVjJERTBZZG1ScVNHY1g0OXplNjE5NUdPXzZ5Y3FnZjhkNVR6Rlk1Qk1yUmphYVJnMHlGemRVeld4bFE2aG9TdnEtVVZmNWtWOFM4ZlRqcTJtUF8xUGRnNDZoQ0p6MTNQOVlKanYyZGFtOUw4Tzg4ajkxcUhVeE95THJrbHlpbVVyNGF1X9IBkgFBVV95cUxOVDMzTGdVci1xZGdrSzd1T280RlB6NzRGYjZ5MjlPM0hwQ3VQUVQwUG41X1RSa09fVmhEZ2lWOVUyTE9Qb2tiSEl3OXpXWUxVaUlZXzZhRksyQi1RNFU1R1Q4djg4OXFWSTltbFpPSm5pY0psVHZ6dmtkanpLeGpxV19EbTZZc1h5Und3cGUtZV9Sdw?oc=5",
+      "publishedAt": "2026-05-08T11:00:02Z"
     }
   ]
 }
