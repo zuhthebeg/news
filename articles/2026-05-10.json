@@ -72,6 +72,51 @@
       "source": "GitHub Releases",
       "sourceUrl": "https://github.com/huggingface/transformers.js/releases/tag/4.2.0",
       "publishedAt": "2026-04-23T21:49:47+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Resonate, GRPO까지 포함한 Text-to-Audio 학습 파이프라인 공개",
+      "summary": "[Audio] Resonate는 텍스트-오디오 생성을 위한 pre-training, SFT, DPO, GRPO 파이프라인을 한 저장소로 묶은 프로젝트다.\ncocy.io에서 쓸모: TangoFlux 품질을 넘어 게임 SFX 도메인에 맞춘 프롬프트·보상 튜닝 실험의 참고 구현으로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/xiquan-li/Resonate",
+      "publishedAt": "2026-04-17T18:07:23+09:00"
+    },
+    {
+      "id": "10",
+      "title": "kesha-voice-kit, Rust 기반 STT/TTS 로컬 음성 툴킷",
+      "summary": "[Audio] kesha-voice-kit은 Kokoro·Vosk-TTS·macOS 시스템 보이스, VAD, 언어 감지, ONNX CPU fallback을 묶은 오픈소스 음성 툴킷이다.\ncocy.io에서 쓸모: Asset Studio의 TTS/음성 프리뷰를 외부 API 없이 로컬 Rust 엔진으로 묶는 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/drakulavich/kesha-voice-kit",
+      "publishedAt": "2026-05-10T01:30:24+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Hallo-Live, 실시간 스트리밍 오디오-비디오 아바타 생성 공개",
+      "summary": "[Video] Hallo-Live는 음성과 비디오를 결합해 실시간 스트리밍 가능한 말하는 아바타 생성을 목표로 하는 Fudan Generative Vision 프로젝트다.\ncocy.io에서 쓸모: 캐릭터 NPC 안내 영상이나 튜토리얼 아바타를 사전 렌더가 아닌 실시간 파이프라인으로 만들 때 참고 가치가 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/fudan-generative-vision/Hallo-Live",
+      "publishedAt": "2026-05-09T23:30:25+09:00"
+    },
+    {
+      "id": "12",
+      "title": "FLUX.2 klein 4B ONNX WebGPU Q4 변환 모델 등장",
+      "summary": "[Edge] FLUX.2-klein-4B를 ONNX Runtime WebGPU/Vulkan용 Q4 형태로 패키징한 Hugging Face 모델이 공개됐다.\ncocy.io에서 쓸모: 서버 GPU 없이 브라우저·로컬에서 저비용 이미지 생성 실험을 돌리는 Edge 후보로 테스트할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/MarkShark2/flux2-klein-4b-onnx-webgpu-q4",
+      "publishedAt": "2026-05-01T11:59:55+09:00"
+    },
+    {
+      "id": "13",
+      "title": "ERNIE-Image, Baidu의 8B DiT 오픈 텍스트-이미지 모델 공개",
+      "summary": "[Image] ERNIE-Image는 Baidu가 공개한 8B DiT 기반 오픈 텍스트-이미지 생성 모델로, 오픈웨이트 T2I 성능 경쟁을 겨냥한다.\ncocy.io에서 쓸모: SDXL/LuminarQMix 외에 중국어·영어 프롬프트 기반 고품질 게임 배너·캐릭터 생성 후보로 벤치마크할 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/baidu/ERNIE-Image",
+      "publishedAt": "2026-04-17T11:32:44+09:00"
     }
   ]
 }
