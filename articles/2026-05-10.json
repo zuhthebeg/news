@@ -27,6 +27,51 @@
       "source": "연합뉴스",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBWYmZiRjdwM2N6ZHpHSXdoT3VvQjJXN0d5TDRMeExKdUNSS2hOLTI3Y1VJSW1uanRGZ3o4NzFRR0d5Njd5NEl4aUFTX3l0dkFSeW9PanJMSXlZbmNzWW9lZdIBYEFVX3lxTFBWYmZiRjdwM2N6ZHpHSXdoT3VvQjJXN0d5TDRMeExKdUNSS2hOLTI3Y1VJSW1uanRGZ3o4NzFRR0d5Njd5NEl4aUFTX3l0dkFSeW9PanJMSXlZbmNzWW9lZQ?oc=5",
       "publishedAt": "2026-05-09T20:07:09+09:00"
+    },
+    {
+      "id": "4",
+      "title": "KittenTTS, 25MB 이하 CPU 친화 TTS 모델로 재부상",
+      "summary": "[Audio] KittenTTS 저장소가 5월 10일 갱신됐고, 15M 파라미터·25MB 이하 크기를 앞세운 온디바이스/경량 서버용 TTS 모델을 제공한다.\ncocy.io에서 쓸모: Asset Studio의 로컬 TTS 옵션이나 모바일/브라우저용 음성 미리듣기 파이프라인 후보로 바로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/soldier444xd/KittenTTS",
+      "publishedAt": "2026-05-10T09:28:25+09:00"
+    },
+    {
+      "id": "5",
+      "title": "mold, FLUX·SDXL·Z-Image를 로컬 GPU에서 돌리는 Rust 이미지/짧은 영상 CLI",
+      "summary": "[Image] mold는 Python 없이 로컬 GPU에서 FLUX, SD 1.5, SDXL, Z-Image 계열 생성 모델을 실행하는 CLI로, 자동 모델 다운로드와 짧은 영상 클립 생성을 표방한다.\ncocy.io에서 쓸모: 게임 배너·아이콘·프로토타입 이미지를 서버 의존 없이 로컬 배치 생성하는 보조 도구로 테스트 가치가 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/utensils/mold",
+      "publishedAt": "2026-05-10T06:52:15+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Absentmind Studio, 레트로 게임 스프라이트·칩튠 생성 파이프라인 공개",
+      "summary": "[Tool] AM Studio는 텍스트 기반 스프라이트 생성, 캐릭터 DNA 유지, 타일셋·전투 배경·효과 애니메이션·칩튠 제작을 한 묶음으로 다루는 인디 게임용 에셋 생성 스위트다.\ncocy.io에서 쓸모: game.cocy.io의 미니게임 아트 파이프라인을 “캐릭터 일관성 + 스프라이트시트 관리” 중심으로 설계할 때 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Absentmind86/absentmind-studio",
+      "publishedAt": "2026-05-06T02:27:21+09:00"
+    },
+    {
+      "id": "7",
+      "title": "AudioX, 텍스트·이미지·비디오 조건을 한 모델로 묶는 Anything-to-Audio 프레임워크",
+      "summary": "[Audio] AudioX는 ICLR 2026 채택 프레임워크로 텍스트-오디오, 텍스트-음악, 비디오-오디오, 오디오 인페인팅을 하나의 멀티모달 조건 생성 구조로 다룬다.\ncocy.io에서 쓸모: TangoFlux 다음 단계로 “장면 영상 → 효과음/BGM” 자동 생성 기능을 Asset Studio에 붙일 때 방향성이 좋다.",
+      "category": "ai-tech",
+      "source": "AudioX Project",
+      "sourceUrl": "https://zeyuet.github.io/AudioX/",
+      "publishedAt": "2026-05-09T11:25:13+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Transformers.js 4.x, 브라우저·Node에서 서버 없이 모델 실행하는 WebGPU/로컬 추론 기반 강화",
+      "summary": "[Edge] Hugging Face Transformers.js는 브라우저와 Node.js에서 모델을 직접 실행하는 라이브러리로 4월 말 4.x 릴리즈가 이어졌고 저장소도 계속 갱신 중이다.\ncocy.io에서 쓸모: admin.cocy.io나 tool.cocy.io에서 이미지 분류·임베딩·소형 LLM 보조 기능을 서버 비용 없이 클라이언트 WebGPU로 옮기는 후보가 된다.",
+      "category": "ai-tech",
+      "source": "GitHub Releases",
+      "sourceUrl": "https://github.com/huggingface/transformers.js/releases/tag/4.2.0",
+      "publishedAt": "2026-04-23T21:49:47+09:00"
     }
   ]
 }
