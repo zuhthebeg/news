@@ -72,6 +72,51 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
       "publishedAt": "2026-04-28T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Qwen3-TTS 오픈소스 음성 생성·보이스 클로닝 레포 활성화",
+      "summary": "[Audio] Qwen3-TTS는 스트리밍 음성 생성, 자유형 보이스 디자인, 생생한 voice cloning을 표방하는 오픈소스 TTS 시리즈로 GitHub 레포가 계속 갱신 중이다.\ncocy.io에서 쓸모: 캐릭터 보이스, 튜토리얼 내레이션, 짧은 게임 대사 생성 파이프라인에서 Kokoro/edge-tts 다음 후보로 비교할 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/QwenLM/Qwen3-TTS",
+      "publishedAt": "2026-05-11T03:01:54Z"
+    },
+    {
+      "id": "10",
+      "title": "ACE-Step 1.5, 저VRAM 상업용 음악 생성 후보로 업데이트",
+      "summary": "[Audio] ACE-Step 1.5는 상업용 사용을 의식한 오픈소스 음악 생성 모델로, RTX 3090에서 10초 이내·4GB 미만 VRAM 실행을 내세운다.\ncocy.io에서 쓸모: 현재 로컬 ACE-Step/TangoFlux 파이프라인에 바로 붙여 게임 BGM 루프와 짧은 스테이지 음악 후보를 싸게 뽑을 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lk2525/Ace-Step1.5",
+      "publishedAt": "2026-05-10T08:34:50Z"
+    },
+    {
+      "id": "11",
+      "title": "Qualcomm MeloTTS-ZH, Snapdragon용 실시간 TTS 패키지 공개",
+      "summary": "[Edge] Qualcomm이 MeloTTS-ZH를 Snapdragon 8 Elite Gen 5·X2 Elite 등 기기용으로 pre-exported asset과 함께 공개했다.\ncocy.io에서 쓸모: 서버 TTS 비용 없이 모바일/엣지 기기에서 중국어·다국어 음성 기능을 돌릴 수 있는 방향을 검증할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/qualcomm/MeloTTS-ZH",
+      "publishedAt": "2026-05-05T04:59:09Z"
+    },
+    {
+      "id": "12",
+      "title": "LTX-2.3 ComfyUI 워크플로우, GGUF·분리 모델로 로컬 영상 실험 쉬워짐",
+      "summary": "[Video] RuneXX의 LTX-2.3 워크플로우는 image-to-video/text-to-video/audio-to-video 태그와 GGUF 경로를 제공해 ComfyUI 로컬 구성이 쉬운 편이다.\ncocy.io에서 쓸모: SDXL 캐릭터 이미지나 게임 스크린샷을 짧은 홍보 클립·움직이는 배너로 변환하는 실험에 바로 넣을 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+      "publishedAt": "2026-05-10T16:29:43Z"
+    },
+    {
+      "id": "13",
+      "title": "Transformers.js 4.x, 브라우저 내 WebGPU 추론 스택 후보로 계속 갱신",
+      "summary": "[Tool] Transformers.js는 서버 없이 브라우저에서 모델을 돌리는 JS 런타임이고, 4.x 릴리즈 이후 WebGPU 기반 로컬 추론 실험에 적합하다.\ncocy.io에서 쓸모: tool.cocy.io에 이미지 태깅·텍스트 분류·간단한 임베딩 기능을 서버 비용 없이 붙일 때 우선 검토할 프론트엔드 추론 스택이다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/huggingface/transformers.js",
+      "publishedAt": "2026-05-09T19:37:23Z"
     }
   ]
 }
