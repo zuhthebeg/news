@@ -790,6 +790,71 @@
         "자동화"
       ],
       "addedAt": "2026-05-07"
+    },
+    {
+      "title": "Repo Agent Brief",
+      "description": "깃허브 저장소를 빠르게 훑어 작업 전용 브리핑을 만듭니다.\nREADME, 구조, 핵심 파일, 주의점을 정리해 코딩 에이전트 투입 전에 쓰기 좋습니다.",
+      "icon": "📚",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/repo-agent-brief",
+      "tags": [
+        "GitHub",
+        "브리핑",
+        "코딩"
+      ],
+      "addedAt": "2026-05-11"
+    },
+    {
+      "title": "Agent Work Receipts",
+      "description": "명령, 결과, 근거를 남기는 안전한 코딩 작업 기록 스킬입니다.\nPR, CI 대응, 인수인계용 증적을 정리할 때 유용합니다.",
+      "icon": "🧾",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/agent-work-receipts",
+      "tags": [
+        "로그",
+        "증적",
+        "인수인계"
+      ],
+      "addedAt": "2026-05-11"
+    },
+    {
+      "title": "Skillnote Doctor",
+      "description": "스킬 레지스트리 연결, AGENTS.md, 설정 유효성을 점검합니다.\nOpenClaw 스킬이 안 보이거나 깨졌을 때 빠르게 진단합니다.",
+      "icon": "🩺",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/skillnote-doctor",
+      "tags": [
+        "진단",
+        "레지스트리",
+        "설정"
+      ],
+      "addedAt": "2026-05-11"
+    },
+    {
+      "title": "Wc Tool",
+      "description": "텍스트 파일의 줄 수, 단어 수, 글자 수, 바이트 수를 한 번에 셉니다.\n로그·문서·코드 양을 빠르게 파악할 때 간단하고 실용적입니다.",
+      "icon": "🔢",
+      "category": "data",
+      "url": "https://clawhub.com/skills/wc-tool",
+      "tags": [
+        "집계",
+        "텍스트",
+        "분석"
+      ],
+      "addedAt": "2026-05-11"
+    },
+    {
+      "title": "AI Workflow ROI Prioritizer",
+      "description": "AI 자동화 후보를 비용, 빈도, 위험도, 데이터 민감도로 비교합니다.\n어떤 업무부터 자동화할지 우선순위를 잡는 데 도움이 됩니다.",
+      "icon": "📈",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/ai-workflow-roi-prioritizer",
+      "tags": [
+        "자동화",
+        "우선순위",
+        "ROI"
+      ],
+      "addedAt": "2026-05-11"
     }
   ]
 }
