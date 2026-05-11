@@ -27,6 +27,51 @@
       "source": "연합뉴스",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TNlBkWldQUlNNTi1kVk9aeU5MYVBqSUo1ZDVac0tDam96TlVRcHc2OGNWS05YbWVTcFduTmwyOUI3LWNjT0FmZUJJUjlFVkhUQnE4ekxwbWNIU2_SAWBBVV95cUxQdFg3Q19GUEdJZ0lmNWhLSTRUN3FRYkVuOVNoeGpRU0k4d0EyMGNadkpiRjhKMGVIR1RnOXY0azF4NmV0d3htMkNGNzdkX05EeG1OZl8yR2ZrY0JhYU02LTE?oc=5",
       "publishedAt": "2026-05-10T23:02:50Z"
+    },
+    {
+      "id": "4",
+      "title": "HeartMuLa 음악 생성 모델 묶음이 허깅페이스에 공개",
+      "summary": "[Audio] HeartMuLa 계열 음악·가사 기반 생성 모델 묶음이 Apache-2.0 라이선스로 올라왔고, 한국어를 포함한 다국어 태그와 HeartCodec 기반 구성이 확인된다.\ncocy.io에서 쓸모: ACE-Step/TangoFlux 옆에 BGM 후보군으로 붙여 게임 배경음·짧은 루프 음악 생성 품질을 비교할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/AEmotionStudio/heartmula-models",
+      "publishedAt": "2026-05-10T11:00:18+09:00"
+    },
+    {
+      "id": "5",
+      "title": "LTX-2.3 양자화 모델, 로컬 영상 생성 파이프라인 후보로 부상",
+      "summary": "[Video] Lightricks LTX-2.3 기반 양자화 모델이 이미지→비디오, 텍스트→비디오, 오디오 연계 태그까지 포함해 갱신됐다.\ncocy.io에서 쓸모: 게임 캐릭터 일러스트를 짧은 홍보 영상이나 움직이는 배너로 바꾸는 로컬/저비용 실험 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/silveroxides/LTX-2.3-Quants",
+      "publishedAt": "2026-05-11T07:21:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "HiDream-O1-Image 4비트 SDNQ 양자화 모델 공개",
+      "summary": "[Image] WaveCut이 HiDream-O1-Image 기반 4비트 SDNQ 양자화 변형을 공개했다. Qwen3-VL/이미지 생성 태그와 MIT 라이선스가 붙어 있어 로컬 테스트 진입 장벽이 낮다.\ncocy.io에서 쓸모: SDXL/LuminarQMix 외에 저VRAM 이미지 생성 후보로 캐릭터 시안·아이콘·프로모션 이미지 A/B 테스트에 넣을 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/WaveCut/HiDream-O1-Image-SDNQ-uint4-svd-r32",
+      "publishedAt": "2026-05-11T08:09:06+09:00"
+    },
+    {
+      "id": "7",
+      "title": "ONNX Runtime 1.26.0 릴리즈로 엣지 추론 기반 업데이트",
+      "summary": "[Edge] Microsoft가 ONNX Runtime 1.26.0을 릴리즈했다. 브라우저·데스크톱·모바일 쪽 ONNX 기반 추론 스택을 최신화할 때 기준점으로 볼 만하다.\ncocy.io에서 쓸모: WebGPU/ONNX 기반 도구를 만들 때 서버 비용 없이 클라이언트 추론으로 분리할 후보를 평가하는 기준 버전이 된다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/microsoft/onnxruntime/releases/tag/v1.26.0",
+      "publishedAt": "2026-05-09T04:24:39+09:00"
+    },
+    {
+      "id": "8",
+      "title": "NVIDIA Nemotron 3 Nano Omni, 오디오·비디오까지 보는 경량 멀티모달 모델 공개",
+      "summary": "[Edge] NVIDIA가 문서, 이미지, 오디오, 비디오 이해를 한 모델에서 처리하는 Nemotron 3 Nano Omni를 Hugging Face 블로그에 공개했다. Parakeet 계열 오디오 인코더와 긴 멀티모달 컨텍스트가 핵심이다.\ncocy.io에서 쓸모: 게임 플레이 영상 QA, 음성 로그 요약, 에셋 문서 자동 태깅 같은 멀티모달 운영 자동화 후보로 볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/nemotron-3-nano-omni-multimodal-intelligence",
+      "publishedAt": "2026-04-28T00:00:00+09:00"
     }
   ]
 }
