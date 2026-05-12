@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-12",
+  "articles": [
+    {
+      "title": "영등포구, 1인 가구에 안전장치·스마트 초인종·CCTV 지원",
+      "summary": "서울 영등포구는 관내 1인 가구의 주거 불안을 해소하고 범죄 예방 환경을 강화하기 위한 '안심홈세트' 지원 대...",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260512027300004",
+      "publishedAt": "2026-05-12T08:55:05+09:00",
+      "id": "1"
+    },
+    {
+      "title": "권익위, 국민권익·청렴문화 위해 4개 민간단체 지원",
+      "summary": "국민권익위원회는 국민 권익 증진과 청렴 문화 확산을 위한 민간보조사업 수행기관 4개 단체를 최종 선정했다고 1...",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260512031400001",
+      "publishedAt": "2026-05-12T08:51:35+09:00",
+      "id": "2"
+    },
+    {
+      "title": "경기도, '철도안전정보 시스템' 무상 활용…219억원 절감",
+      "summary": "경기도는 정부의 '철도안전정보 종합관리시스템'을 무상으로 활용할 수 있게 돼 219억원의 예산을 절감하게 됐...",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260512031700060",
+      "publishedAt": "2026-05-12T08:48:36+09:00",
+      "id": "3"
+    }
+  ]
+}
