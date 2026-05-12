@@ -27,6 +27,51 @@
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260512031700060",
       "publishedAt": "2026-05-12T08:48:36+09:00",
       "id": "3"
+    },
+    {
+      "title": "소니 Woosh, 효과음용 텍스트·비디오→오디오 모델 카드 공개",
+      "summary": "[Audio] Sony AI의 Woosh 모델이 Hugging Face에 올라왔다. 텍스트→오디오와 비디오→오디오를 모두 지원하고, 4스텝 증류 모델은 약 4~6GB VRAM에서도 빠르게 돌릴 수 있다.\ncocy.io에서 쓸모: Line Rush·웹툰형 게임 컷신에 맞는 짧은 충돌음, 스와이프음, 배경 Foley를 로컬 ComfyUI 파이프라인으로 붙일 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nikosan2026/Woosh",
+      "publishedAt": "2026-05-11T19:33:57+09:00",
+      "id": "4"
+    },
+    {
+      "title": "ACE-Step 1.5, 4GB 미만 VRAM 지향 오픈소스 음악 생성 모델 등록",
+      "summary": "[Audio] ACE-Step 1.5 모델 카드가 갱신됐다. 상업 사용을 염두에 둔 학습 데이터 구성과 소비자 GPU 친화 실행을 내세우며, RTX 3090 기준 10초 안팎의 곡 생성 속도를 제시한다.\ncocy.io에서 쓸모: 이미 로컬 BGM 후보로 쓰는 ACE-Step 계열을 게임 로비·스테이지별 짧은 루프 BGM 생성 파이프라인으로 강화할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lk2525/Ace-Step1.5",
+      "publishedAt": "2026-05-10T17:34:50+09:00",
+      "id": "5"
+    },
+    {
+      "title": "LTX 2.3 ComfyUI 워크플로우, GGUF·분리 모델 구성으로 로컬 비디오 생성 접근성 개선",
+      "summary": "[Video] LTX-2.3용 ComfyUI 워크플로우가 Hugging Face에서 활발히 갱신됐다. 이미지→비디오, 텍스트→비디오, 오디오→비디오 구성을 제공하고 GGUF 텍스트 인코더와 분리 모델 로딩을 안내한다.\ncocy.io에서 쓸모: admin.cocy.io의 이미지→짧은 애니메이션 생성에서 FramePack이 무거울 때 대체 로컬 비디오 백엔드 후보로 시험할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/RuneXX/LTX-2.3-Workflows",
+      "publishedAt": "2026-05-12T08:15:59+09:00",
+      "id": "6"
+    },
+    {
+      "title": "Zeta-Chroma, Z-Image 기반 ComfyUI용 텍스트→이미지 파인튜닝 모델 갱신",
+      "summary": "[Image] Zeta-Chroma는 Tongyi-MAI/Z-Image 기반 파인튜닝 모델로, Apache-2.0 라이선스와 ComfyUI 사용 가능성을 명시했다. 아직 WIP지만 워크플로우와 학습 진행 시각화가 공개돼 있다.\ncocy.io에서 쓸모: SDXL/Flux 외에 다른 오픈 이미지 계열을 캐릭터·배경 스타일 테스트에 붙여볼 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lodestones/Zeta-Chroma",
+      "publishedAt": "2026-05-12T09:03:13+09:00",
+      "id": "7"
+    },
+    {
+      "title": "Neodragon, 모바일 비디오 생성을 겨냥한 경량 DiT 모델 카드 공개",
+      "summary": "[Edge] Qualcomm AI Research 계열 Neodragon 모델 카드가 올라왔다. “mobile video generation”을 전면에 둔 Diffusion Transformer·pyramidal diffusion 기반 텍스트→비디오 모델로 소개된다.\ncocy.io에서 쓸모: 웹/모바일에서 짧은 게임 이펙트 영상을 가볍게 생성하거나 엣지 추론 가능성을 보는 실험 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/karnewar/Neodragon",
+      "publishedAt": "2026-05-11T23:29:46+09:00",
+      "id": "8"
     }
   ]
 }
