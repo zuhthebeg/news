@@ -72,6 +72,51 @@
       "sourceUrl": "https://huggingface.co/karnewar/Neodragon",
       "publishedAt": "2026-05-11T23:29:46+09:00",
       "id": "8"
+    },
+    {
+      "id": "9",
+      "title": "Qwen3-TTS, 스트리밍·음색 설계·보이스 클로닝 지원 오픈소스 TTS 저장소 활발 업데이트",
+      "summary": "[Audio] Qwen3-TTS는 안정적이고 표현력 있는 스트리밍 음성 생성, free-form voice design, vivid voice cloning을 지원하는 오픈소스 TTS 시리즈다. cocy.io에서 쓸모: admin/게임 캐릭터 보이스 후보로 두고, 한국어 품질과 라이선스만 확인하면 로컬 음성 파이프라인 확장에 바로 연결할 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub - QwenLM/Qwen3-TTS",
+      "sourceUrl": "https://github.com/QwenLM/Qwen3-TTS",
+      "publishedAt": "2026-05-12T02:52:37Z"
+    },
+    {
+      "id": "10",
+      "title": "Kyutai Pocket TTS, CPU·브라우저 실행 가능한 저지연 경량 TTS 모델 카드 갱신",
+      "summary": "[Audio] Pocket TTS는 100M 파라미터 규모, CPU 2코어 기준 첫 오디오 청크 약 200ms, 스트리밍과 Python/CLI를 지원하는 경량 TTS다. cocy.io에서 쓸모: GPU 없이 서버/브라우저 사이드 내레이션을 붙이는 저비용 TTS 백업으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face - kyutai/pocket-tts-without-voice-cloning",
+      "sourceUrl": "https://huggingface.co/kyutai/pocket-tts-without-voice-cloning",
+      "publishedAt": "2026-05-04T13:12:53.000Z"
+    },
+    {
+      "id": "11",
+      "title": "FLUX.2 Klein 4B ONNX WebGPU q4 번들, CUDA 없이 로컬 이미지 생성 실험 가능",
+      "summary": "[Edge] FLUX.2 Klein 4B를 ONNX Runtime WebGPU용 q4 MatMulNBits로 쪼갠 번들로, headless Chromium 기반 로컬 API에서 순차 로딩해 VRAM 상주 부담을 줄인다. cocy.io에서 쓸모: tool.cocy.io/admin 쪽에 WebGPU 이미지 생성 PoC를 붙일 때 CUDA 없는 클라이언트 경로를 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face - MarkShark2/flux2-klein-4b-onnx-webgpu-q4",
+      "sourceUrl": "https://huggingface.co/MarkShark2/flux2-klein-4b-onnx-webgpu-q4",
+      "publishedAt": "2026-05-01T02:59:55.000Z"
+    },
+    {
+      "id": "12",
+      "title": "Wan2.2 I2V A14B GGUF 변환본, ComfyUI-GGUF로 이미지→비디오 로컬 실행 경로 제공",
+      "summary": "[Video] Wan-AI/Wan2.2-I2V-A14B의 GGUF 변환본으로 Q2_K 5.3GB부터 Q8_0 15.4GB까지 양자화 파일을 제공하며 ComfyUI-GGUF 노드 사용을 안내한다. cocy.io에서 쓸모: FramePack 대안으로 캐릭터 카드/게임 일러스트의 짧은 I2V 로컬 생성 후보를 하나 더 확보할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face - gpt-horse/Copy-Wan2.2-I2V-A14B-GGUF",
+      "sourceUrl": "https://huggingface.co/gpt-horse/Copy-Wan2.2-I2V-A14B-GGUF",
+      "publishedAt": "2026-05-12T02:52:51.000Z"
+    },
+    {
+      "id": "13",
+      "title": "Apple SHARP WebGPU ONNX 파생 번들, 단안 이미지→3D/뷰 합성 연구용 경로 공개",
+      "summary": "[Edge] needle-tools의 Sharp-webgpu는 Apple SHARP 체크포인트를 WebGPU/Transformers.js 친화적인 staged ONNX 구조로 내보낸 image-to-3D/view-synthesis 번들이다. cocy.io에서 쓸모: 상업 사용 제한이 있어 제품 투입은 금지지만, 게임/포털용 2.5D 카드 연출 연구 레퍼런스로는 가치가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face - needle-tools/Sharp-webgpu",
+      "sourceUrl": "https://huggingface.co/needle-tools/Sharp-webgpu",
+      "publishedAt": "2026-04-29T08:30:51.000Z"
     }
   ]
 }
