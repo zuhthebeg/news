@@ -27,6 +27,51 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260513016800051",
       "publishedAt": "2026-05-13T07:40:22+09:00"
+    },
+    {
+      "title": "슈퍼토닉 3, 31개 언어 온디바이스 TTS 오픈웨이트 공개",
+      "summary": "[Audio] Supertonic 3는 ONNX Runtime으로 기기 안에서 합성되는 경량 TTS로, 지원 언어가 5개에서 31개로 늘고 반복·누락 안정성이 개선됐다.\n한국어 태그와 온디바이스 구조가 있어 클라우드 호출 없이 짧은 게임 내레이션·UI 음성 실험에 적합하다. cocy.io에서 쓸모: tool/game 서비스에 개인정보를 서버로 보내지 않는 로컬 음성 안내 파이프라인을 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/JohnnyHustle/supertonic-3",
+      "publishedAt": "2026-05-13T09:07:19+09:00",
+      "id": "4"
+    },
+    {
+      "title": "소니 AI의 Woosh, 텍스트·영상 기반 효과음 생성 모델과 ComfyUI 노드 제공",
+      "summary": "[Audio] Woosh는 Sony AI가 공개한 효과음 생성 모델군으로, 텍스트→오디오와 영상→오디오를 모두 지원하고 4스텝 증류 모델도 포함한다.\nComfyUI-Woosh 노드가 있어 기존 이미지·영상 제작 플로우에 바로 연결하기 쉽다. cocy.io에서 쓸모: 게임 프로토타입의 충돌음·전환음·환경음을 영상/프롬프트 기반으로 빠르게 뽑는 SFX 파이프라인 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nikosan2026/Woosh",
+      "publishedAt": "2026-05-11T19:33:57+09:00",
+      "id": "5"
+    },
+    {
+      "title": "ACE-Step 1.5, 4GB 미만 VRAM 목표의 상업용 친화 오픈소스 음악 생성 모델",
+      "summary": "[Audio] ACE-Step 1.5는 소비자 GPU에서 동작하도록 설계된 오픈소스 음악 생성 모델로, 모델 카드 기준 RTX 3090에서 10초 이내 전곡 생성과 4GB 미만 VRAM 구동을 내세운다.\n라이선스·학습 데이터 설명도 창작자 사용을 의식해 정리돼 있다. cocy.io에서 쓸모: 로컬 BGM 생성 워크플로우를 더 가볍게 만들고 게임별 짧은 루프 음악을 빠르게 양산하는 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lk2525/Ace-Step1.5",
+      "publishedAt": "2026-05-10T17:34:50+09:00",
+      "id": "6"
+    },
+    {
+      "title": "Zeta-Chroma, Z-Image 기반 ComfyUI용 이미지 파인튜닝 모델 급부상",
+      "summary": "[Image] Zeta-Chroma는 Tongyi-MAI의 Z-Image를 기반으로 한 텍스트→이미지 파인튜닝 모델이며, Hugging Face에서 WIP 상태지만 ComfyUI 사용 가능 워크플로우를 함께 공개했다.\n좋아요와 커뮤니티 반응이 빠르게 붙고 있어 최신 이미지 스타일 실험용 후보로 볼 만하다. cocy.io에서 쓸모: SDXL/Flux 외의 캐릭터·프로모션 이미지 스타일 소스를 확보해 게임 썸네일 A/B 테스트에 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lodestones/Zeta-Chroma",
+      "publishedAt": "2026-05-13T09:45:27+09:00",
+      "id": "7"
+    },
+    {
+      "title": "FLUX.2 Klein 4B ONNX WebGPU q4 번들, CUDA 없는 로컬 이미지 생성 실험 경로 제시",
+      "summary": "[Edge] FLUX.2 Klein 4B를 ONNX Runtime WebGPU용 q4 번들로 내보낸 저장소가 공개됐다. headless Chromium 안의 WebGPU 런타임과 로컬 API를 통해 CUDA/ROCm 없이 256px 기본 이미지 생성을 목표로 한다.\n아직 실험적이지만 브라우저 기반 로컬 추론 구조가 명확하다. cocy.io에서 쓸모: 향후 tool.cocy.io에 서버 비용 없는 클라이언트/엣지 이미지 생성 데모를 붙일 때 구조 참고자료가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/MarkShark2/flux2-klein-4b-onnx-webgpu-q4",
+      "publishedAt": "2026-05-01T11:59:55+09:00",
+      "id": "8"
     }
   ]
 }
