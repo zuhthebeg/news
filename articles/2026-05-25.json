@@ -27,6 +27,42 @@
       "source": "매일경제",
       "sourceUrl": "https://www.mk.co.kr/news/economy/12056585",
       "publishedAt": "2026-05-25T09:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Stability AI, Stable Audio 3.0 오픈웨이트 공개 — 6분 이상 BGM·SFX 생성 지원",
+      "summary": "[Audio] Stability AI가 5월 20일 Stable Audio 3.0을 출시하며 Small SFX·Small·Medium 3종 모델 가중치를 HuggingFace에 즉시 공개했다. 최대 6분 20초 길이의 오디오 생성, LoRA 파인튜닝, 정밀 길이 제어를 지원하며 학습 데이터는 전량 라이선스 취득 데이터다. 연 매출 100만 달러 미만 팀은 무료 상업 라이선스 적용 가능. cocy.io에서 쓸모: game.cocy.io 게임의 BGM·SFX를 로컬에서 생성하는 TangoFlux 대체·보완 파이프라인으로 즉시 투입 가능.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-20T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Google LiteRT-LM v0.12, WebGPU JS API 공개 — 브라우저에서 76 tok/s 온디바이스 추론",
+      "summary": "[Edge] Google AI Edge가 5월 19일 LiteRT-LM v0.12를 발표했다. 신규 JavaScript API로 서버 없이 브라우저에서 Gemma 4·Llama·Phi-4·Qwen 계열을 WebGPU로 구동할 수 있으며, MacBook Pro 기준 76 tok/s 디코딩 속도를 달성했다. iOS·Android·웹 크로스플랫폼 지원. cocy.io에서 쓸모: game.cocy.io 인게임 AI NPC·힌트 시스템을 서버 비용 없이 브라우저 온디바이스로 구현하는 핵심 인프라로 활용 가능.",
+      "category": "ai-tech",
+      "source": "Google Developers Blog",
+      "sourceUrl": "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/",
+      "publishedAt": "2026-05-19T09:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "HappyHorse 1.0, AI 영상 리더보드 전 부문 1위 — 알리바바의 15B 오픈소스 비디오 모델",
+      "summary": "[Video] 알리바바 개발 HappyHorse 1.0이 Artificial Analysis Video Arena에서 익명으로 텍스트-투-비디오·이미지-투-비디오 전 카테고리 1위를 기록한 뒤 4월 30일 공식 공개됐다. 15B 파라미터 통합 트랜스포머로 1080p 영상과 동기화 오디오를 동시 생성하며, Kling 3.0·Seedance 2.0을 모두 상회하는 Elo 1,414 점수를 획득했다. cocy.io에서 쓸모: game.cocy.io 게임 트레일러·컷신·홍보 영상을 텍스트 프롬프트 한 줄로 생성하는 에셋 파이프라인에 바로 연결 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace Discussion",
+      "sourceUrl": "https://discuss.huggingface.co/t/happy-horse-1-0-the-ai-video-model-that-topped-benchmarks-before-it-was-even-announced/175150",
+      "publishedAt": "2026-04-30T09:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "ONNX Runtime 1.25 WebGPU 강화 — Qwen3.5·GridSample·Split-K 최적화 추가",
+      "summary": "[Edge] Microsoft가 4월 27일 ONNX Runtime 1.25를 릴리즈했다. WebGPU Execution Provider에 Qwen3.5 모델 지원, GridSample 연산자, Split-K 최적화(배치 >1)를 추가해 브라우저 LLM·Diffusion 추론 성능을 크게 향상시켰다. `onnxruntime-webgpu` PyPI 패키지로 즉시 설치 가능. cocy.io에서 쓸모: tool.cocy.io·game.cocy.io의 브라우저 기반 AI 기능을 서버리스 WebGPU로 구동할 때 핵심 추론 백엔드로 사용 가능.",
+      "category": "ai-tech",
+      "source": "Microsoft / ONNX Runtime GitHub",
+      "sourceUrl": "https://github.com/microsoft/onnxruntime/releases",
+      "publishedAt": "2026-04-27T09:00:00+09:00"
     }
   ]
 }
