@@ -27,6 +27,42 @@
       "source": "매일경제",
       "sourceUrl": "https://www.mk.co.kr/news/society/12058016",
       "publishedAt": "2026-05-27T04:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "OmniVoice Studio — ElevenLabs 대체 로컬 오픈소스 음성 클로닝, 3초 샘플로 600개 언어",
+      "summary": "[Audio] 2026년 5월 26일 공개된 OmniVoice Studio는 macOS·Windows·Linux에서 완전히 로컬로 동작하는 오픈소스 음성 클로닝 데스크탑 앱이다. 3초짜리 오디오 클립만으로 제로샷 음성 복제가 가능하고, 600개 이상 언어 간 크로스링구얼 클로닝을 지원한다. GPU 없이 CPU로도 실행 가능하며(TTS 속도 약 3배 저하), 개인·교육·비상업 목적은 무료, 2년 후 Apache 2.0으로 자동 전환되는 FSL-1.1 라이선스다. cocy.io에서 쓸모: 게임 캐릭터 한국어 음성 더빙이나 cocy.io 서비스 TTS를 ElevenLabs 구독 없이 로컬 서버에서 운영하는 데 즉시 적용 가능.",
+      "category": "ai-tech",
+      "source": "MarkTechPost / GitHub (debpalash/OmniVoice-Studio)",
+      "sourceUrl": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+      "publishedAt": "2026-05-26T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Google LiteRT-LM v0.12.0 — WebGPU로 브라우저에서 Gemma 4 로컬 추론, 76 tok/s",
+      "summary": "[Edge] Google AI Edge가 2026년 5월 19일 공개한 LiteRT-LM v0.12.0은 WebGPU 가속 JavaScript/TypeScript API를 탑재해 브라우저에서 서버 없이 LLM을 실행한다. MacBook Pro 기준 Gemma 4 E2B 모델을 76 tokens/s로 디코딩하며, MTP(Multi-Token Prediction) 활성화 시 최대 2.2배 속도 향상이 가능하다. Android·iOS·Web·Desktop·IoT를 모두 지원하는 크로스플랫폼 프레임워크로, Chrome·Pixel Watch 등 Google 제품에 이미 탑재 중이다. cocy.io에서 쓸모: tool.cocy.io AI 기능을 서버 비용 없이 클라이언트 온디바이스로 실행하거나 game.cocy.io 오프라인 NPC 대화 시스템 구현에 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "Google Developers Blog",
+      "sourceUrl": "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/",
+      "publishedAt": "2026-05-19T09:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "ACE-Step 1.5 XL — 4B DiT 파라미터 오픈소스 음악 생성, LoRA·커버·편집 통합",
+      "summary": "[Music] 2026년 4월 공개된 ACE-Step 1.5는 50개 이상 언어의 음악과 가사를 상업용 품질로 생성하는 오픈소스 파운데이션 모델이다. XL 시리즈(4B DiT)가 추가돼 더 높은 오디오 품질을 제공하며, LoRA 기반 스타일 개인화·커버 생성·편집·스타일 트랜스퍼를 단일 파이프라인에서 지원한다. 소비자 GPU에서 상업급 음악을 로컬 생성할 수 있어 인디 게임 개발자들에게 주목받고 있다. cocy.io에서 쓸모: game.cocy.io BGM 파이프라인에서 ACE-Step 1.5 XL로 업그레이드하면 기존 대비 더 긴 구조의 장르별 BGM을 로컬에서 생성 가능.",
+      "category": "ai-tech",
+      "source": "GitHub (ace-step/ACE-Step)",
+      "sourceUrl": "https://github.com/ace-step/ACE-Step",
+      "publishedAt": "2026-04-20T09:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Fish Audio S2 — ElevenLabs v3 블라인드 테스트 압도한 오픈웨이트 TTS, 80개 언어",
+      "summary": "[Audio] Fish Audio가 2026년 3월 공개한 Fish Speech S2는 80개 이상 언어를 지원하는 오픈웨이트 TTS 모델로, 블라인드 A/B 테스트에서 ElevenLabs v3을 음질 면에서 앞선 것으로 평가받았다. 인라인 감정 제어 태그를 자유 형식으로 삽입할 수 있으며, 크로스링구얼 음성 복제 품질이 높다. 상업 이용은 유료 라이선스가 필요하지만 모델 가중치 자체는 공개돼 로컬 추론이 가능하다. cocy.io에서 쓸모: 고품질 한국어 게임 캐릭터 음성 생성이나 cocy.io 서비스 내 감정 표현이 필요한 TTS 레이어에 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub (fishaudio/fish-speech)",
+      "sourceUrl": "https://github.com/fishaudio/fish-speech",
+      "publishedAt": "2026-03-15T09:00:00+09:00"
     }
   ]
 }
