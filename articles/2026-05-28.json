@@ -1,0 +1,59 @@
+{
+  "date": "2026-05-28",
+  "articles": [
+    {
+      "id": "1",
+      "title": "글로벌 반도체 랠리…SK하이닉스·마이크론도 시총 '1조 달러 클럽'",
+      "summary": "글로벌 반도체 업황 호조에 힘입어 SK하이닉스와 미국 마이크론이 시가총액 1조 달러 클럽에 진입했다. AI 인프라 투자 확대와 HBM 수요 급증이 반도체 대형주 랠리를 이끌고 있다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202605271855i",
+      "publishedAt": "2026-05-27T18:55:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "삼전닉스 레버리지 첫날…개미 2.1조원 '폭풍매수'",
+      "summary": "삼성전자와 SK하이닉스를 묶은 레버리지 ETF 출시 첫날 개인 투자자들이 2조1천억원 규모의 폭풍매수에 나섰다. 반도체 주가 상승 기대감이 반영된 것으로 분석된다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026052725671",
+      "publishedAt": "2026-05-27T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "찬밥 신세였는데 '대반전'…삼전닉스 주가 폭등한 진짜 이유",
+      "summary": "한동안 소외됐던 삼성전자·SK하이닉스 주가가 동반 급등한 배경에는 AI 반도체 수요 확대와 외국인 대규모 순매수가 있다. 글로벌 빅테크 설비투자 확대 발표가 촉매가 됐다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026052725211",
+      "publishedAt": "2026-05-28T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "연봉 1억인데 성과급 5.7억…갈등 최고조로 치달은 삼성",
+      "summary": "삼성전자 임직원 성과급 격차 문제가 수면 위로 떠올랐다. 일부 직군의 성과급이 연봉의 5배를 넘어 노조와 사측 갈등이 최고조에 달했다. 성과급 산정 기준 투명성 요구가 거세지고 있다.",
+      "category": "domestic",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026052725261",
+      "publishedAt": "2026-05-27T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "삼성重, LNG운반선 등 5척 패키지 수주",
+      "summary": "삼성중공업이 LNG운반선을 포함한 선박 5척을 패키지로 수주했다. 글로벌 에너지 전환 수요와 LNG 운반 물동량 증가로 조선업계 수주 호황이 이어지고 있다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026052725461",
+      "publishedAt": "2026-05-27T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "디앤디파마텍, 지방간염 치료물질 美 2상 성공…상한가 직행",
+      "summary": "디앤디파마텍이 비알코올성 지방간염(NASH) 치료 후보물질의 미국 임상 2상에서 긍정적 결과를 발표하며 주가가 상한가에 직행했다. 국내 바이오 신약 개발 성과로 주목받고 있다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026052725831",
+      "publishedAt": "2026-05-27T00:00:00+09:00"
+    }
+  ]
+}
