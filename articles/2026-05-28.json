@@ -54,6 +54,42 @@
       "source": "한국경제",
       "sourceUrl": "https://www.hankyung.com/article/2026052725831",
       "publishedAt": "2026-05-27T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Stable Audio 3.0: SFX·6분 음악 생성 오픈웨이트 모델 공개",
+      "summary": "[Audio] Stability AI가 2026년 5월 20일 Stable Audio 3.0을 출시했다. Small SFX, Small, Medium 세 가지 오픈웨이트 버전이 HuggingFace에서 무료로 제공되며, 최대 6분 분량의 악기 음악과 효과음을 텍스트 프롬프트로 생성할 수 있다. 전체 학습 데이터가 라이선스 기반이며 상업적 배포가 가능하다. cocy.io에서 쓸모: 게임 배경음악·SFX 파이프라인을 TangoFlux 대신 Stable Audio 3.0 Small SFX로 교체해 품질 향상 가능.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-20T09:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "OmniVoice Studio: ElevenLabs 대체 로컬 보이스 클로닝 오픈소스 앱",
+      "summary": "[Audio] 2026년 5월 26일 공개된 OmniVoice Studio는 600개 이상 언어를 지원하는 k2-fsa의 OmniVoice 모델 기반 데스크톱 앱이다. 3초 음성 클립만으로 제로샷 목소리 복제가 가능하며 CPU에서도 동작한다. MIT 라이선스로 로컬에서 완전 무료로 실행된다. cocy.io에서 쓸모: 게임 캐릭터 더빙·내레이션 제작 시 API 비용 없이 로컬에서 다양한 목소리 생성 가능.",
+      "category": "ai-tech",
+      "source": "Marktechpost",
+      "sourceUrl": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+      "publishedAt": "2026-05-26T10:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "LlamaWeb: llama.cpp WebGPU 백엔드로 브라우저에서 LLM 추론",
+      "summary": "[Edge] 2026년 5월 21일 arXiv에 공개된 논문 'Llamas on the Web'은 llama.cpp에 WebGPU 백엔드를 통합해 브라우저에서 GGUF 모델을 직접 실행하는 방법을 제시한다. 기존 대비 VRAM 사용량 30% 이상 절감, Intel·Apple·NVIDIA GPU에서 디코딩 처리량 45~69% 향상을 달성했다. wllama 래퍼와 통합되어 브라우저 OPFS에 모델 캐싱도 지원한다. cocy.io에서 쓸모: game.cocy.io 등 웹 게임에 서버 없이 클라이언트사이드 AI NPC·텍스트 생성 기능 탑재 가능.",
+      "category": "ai-tech",
+      "source": "arXiv",
+      "sourceUrl": "https://arxiv.org/abs/2605.20706",
+      "publishedAt": "2026-05-21T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Google LiteRT-LM: 브라우저에서 Gemma 4로 76 토큰/초 온디바이스 AI",
+      "summary": "[Edge] Google이 2026년 5월 19일 LiteRT-LM의 WebGPU 지원 강화를 발표했다. MacBook Pro 기준 Gemma 4 E2B 모델로 76 tokens/sec 추론 속도를 기록하며, WASM JavaScript API로 서버 없이 브라우저에서 완전한 LLM 추론을 구현한다. Gemma, Llama, Phi-4, Qwen 등 다양한 모델을 지원하고 Android·iOS·Web 크로스플랫폼 배포가 가능하다. cocy.io에서 쓸모: 모바일 웹 게임에 서버리스 AI 대화·힌트 시스템을 빠르게 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "Google Developers Blog",
+      "sourceUrl": "https://developers.googleblog.com/en/blazing-fast-on-device-genai-with-litert-lm/",
+      "publishedAt": "2026-05-19T09:00:00+09:00"
     }
   ]
 }
