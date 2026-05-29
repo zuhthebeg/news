@@ -72,6 +72,51 @@
       "source": "Hugging Face / Stability AI",
       "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-medium",
       "publishedAt": "2026-05-21T09:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "MOSS-TTS v1.5: 다국어 음성 복제·장문 클로닝·포즈 제어 강화 TTS 오픈소스 공개",
+      "summary": "[Audio] OpenMOSS 팀이 MOSS-TTS v1.5를 공개했다. 안정적인 다국어 음성 합성, 짧은 참조 오디오로 장문 클로닝, 구두점 기반 운율 자동 조정, 명시적 포즈(pause) 삽입 제어가 주요 개선점이다. 한국어·중국어·영어를 포함한 다국어 지원 및 감정 표현 강화로 게임 캐릭터 보이스에 직접 활용 가능하다. cocy.io에서 쓸모: game.cocy.io 캐릭터 대사 생성 파이프라인에서 다국어 NPC 음성을 로컬에서 무료로 뽑을 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub / OpenMOSS",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-26T12:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "WanGP 최신 업데이트: 낮은 VRAM에서 Wan·HunyuanVideo·Flux 비디오 생성, 음성 클로닝까지",
+      "summary": "[Video] DeepBeepMeep의 WanGP가 5월 업데이트로 음성 클로닝 기능을 비디오 생성 파이프라인에 통합하고, 이미지-to-이미지 편집 모델도 강화됐다. Wan, HunyuanVideo, Flux, Qwen 등 여러 오픈소스 비디오 모델을 저사양 GPU에서 웹 UI로 실행 가능하다. 6GB VRAM에서도 동작하는 양자화 경로 지원. cocy.io에서 쓸모: RTX 3080 Ti(12GB)에서 게임 트레일러·컷씬용 영상을 로컬 생성하는 즉시 사용 가능한 올인원 도구.",
+      "category": "ai-tech",
+      "source": "GitHub / deepbeepmeep",
+      "sourceUrl": "https://github.com/deepbeepmeep/Wan2GP",
+      "publishedAt": "2026-05-27T10:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Lance 3B: ByteDance Research, 이미지·비디오 생성·편집·이해 통합 오픈소스 멀티모달 모델",
+      "summary": "[Image][Video] ByteDance Research가 공개한 Lance는 3B 파라미터 규모의 네이티브 통합 멀티모달 모델이다. 텍스트-to-이미지, 이미지 편집, 텍스트-to-비디오를 단일 모델로 처리하며 5월 26일 Gradio 인터페이스까지 배포됐다. HuggingFace에서 가중치 공개 상태. cocy.io에서 쓸모: 이미지 생성과 비디오 생성을 하나의 모델 로드로 처리해 game.cocy.io 에셋 파이프라인 메모리 효율을 높일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / ByteDance Research",
+      "sourceUrl": "https://huggingface.co/bytedance-research/Lance",
+      "publishedAt": "2026-05-26T09:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Google LiteRT-LM: WebGPU 기반 브라우저 온디바이스 Gemma 추론 라이브러리 공개",
+      "summary": "[Edge] Google AI Edge가 LiteRT-LM을 공개했다. WebGPU 가속 JS API로 브라우저 내에서 Gemma-3n 멀티모달(텍스트·이미지·오디오 입력) 추론을 실행할 수 있다. 서버 왕복 없이 클라이언트에서 직접 모델을 구동하며, MediaPipe LLM Inference API와 연동된다. cocy.io에서 쓸모: game.cocy.io나 tool.cocy.io에 서버리스 AI 기능을 추가할 때 API 비용 없이 브라우저에서 직접 추론 가능한 엣지 AI 레이어로 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Google AI Blog",
+      "sourceUrl": "https://developers.googleblog.com/blazing-fast-on-device-genai-with-litert-lm/",
+      "publishedAt": "2026-05-20T09:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Microsoft MAI-Image-2-Efficient: 프로덕션 워크로드 최적화 텍스트-to-이미지 모델 출시",
+      "summary": "[Image] Microsoft Foundry Labs가 MAI-Image-2-Efficient를 출시했다. MAI-Image-2 아키텍처 기반으로 프로덕션 배치에 최적화된 속도·효율성을 제공한다. Azure AI Foundry를 통해 API 접근 가능하며 고품질 이미지 생성과 빠른 응답속도가 특징이다. cocy.io에서 쓸모: 로컬 SDXL 대비 클라우드 백업 이미지 생성 옵션으로, 배치 에셋 생성 시 API 호출 비용 대비 품질 벤치마크로 비교 테스트할 수 있다.",
+      "category": "ai-tech",
+      "source": "Microsoft Tech Community",
+      "sourceUrl": "https://techcommunity.microsoft.com/blog/azure-ai-foundry-blog/whats-new-in-microsoft-foundry-labs-may-2026/4520310",
+      "publishedAt": "2026-05-22T09:00:00+09:00"
     }
   ]
 }
