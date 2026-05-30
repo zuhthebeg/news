@@ -1,1 +1,68 @@
-{"date":"2026-05-30","articles":[{"id":"1","title":"6·3 지방선거 사전투표 이틀째…민주당 정청래 유세 총력","summary":"더불어민주당 정청래 총괄 선대위원장이 6·3 지방선거 사전투표 이틀째인 30일 독려 유세에 나섰다. 전북지사 선거에서는 민주당 지도부가 무소속 김관영 후보를 강하게 비판하며 선거가 과열 양상을 보였고, 김관영 후보는 '정청래 대표를 심판하자'고 맞섰다.","category":"domestic","source":"연합뉴스","sourceUrl":"https://www.yna.co.kr/view/AKR20260529152200001","publishedAt":"2026-05-30T00:00:00+09:00"},{"id":"2","title":"한국은행, 올해 경제성장률 2.6%로 상향…반도체 수출 호조","summary":"한국은행이 반도체 수출 호조에 힘입어 올해 국내 경제성장률 전망치를 기존 2.0%에서 2.6%로 상향 조정했다. AI 활용 확대와 빅테크 투자로 글로벌 반도체 산업 성장세는 당분간 지속될 전망이다.","category":"economy","source":"연합뉴스","sourceUrl":"https://www.yna.co.kr/view/AKR20260530001351072","publishedAt":"2026-05-30T00:00:00+09:00"},{"id":"3","title":"전자담배 피우는 청소년 천식 위험 최대 14배…세계 금연의 날 앞두고 경고","summary":"세계 금연의 날(5월 31일)을 앞두고 전자담배가 일반 담배보다 덜 해롭다는 인식이 잘못됐다는 연구 결과가 발표됐다. 전자담배를 사용하는 청소년의 천식 위험이 최대 14배까지 높아지는 것으로 나타났다.","category":"domestic","source":"연합뉴스","sourceUrl":"https://www.yna.co.kr/view/AKR20260529100200530","publishedAt":"2026-05-30T00:00:00+09:00"}]}
+{
+  "date": "2026-05-30",
+  "articles": [
+    {
+      "id": "1",
+      "title": "6·3 지방선거 사전투표 이틀째…민주당 정청래 유세 총력",
+      "summary": "더불어민주당 정청래 총괄 선대위원장이 6·3 지방선거 사전투표 이틀째인 30일 독려 유세에 나섰다. 전북지사 선거에서는 민주당 지도부가 무소속 김관영 후보를 강하게 비판하며 선거가 과열 양상을 보였고, 김관영 후보는 '정청래 대표를 심판하자'고 맞섰다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260529152200001",
+      "publishedAt": "2026-05-30T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "한국은행, 올해 경제성장률 2.6%로 상향…반도체 수출 호조",
+      "summary": "한국은행이 반도체 수출 호조에 힘입어 올해 국내 경제성장률 전망치를 기존 2.0%에서 2.6%로 상향 조정했다. AI 활용 확대와 빅테크 투자로 글로벌 반도체 산업 성장세는 당분간 지속될 전망이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260530001351072",
+      "publishedAt": "2026-05-30T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "전자담배 피우는 청소년 천식 위험 최대 14배…세계 금연의 날 앞두고 경고",
+      "summary": "세계 금연의 날(5월 31일)을 앞두고 전자담배가 일반 담배보다 덜 해롭다는 인식이 잘못됐다는 연구 결과가 발표됐다. 전자담배를 사용하는 청소년의 천식 위험이 최대 14배까지 높아지는 것으로 나타났다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260529100200530",
+      "publishedAt": "2026-05-30T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "MOSS-SoundEffect-v2.0 출시 — 게임용 효과음 48kHz 이중언어 생성",
+      "summary": "[Audio] OpenMOSS 팀이 5월 26일 MOSS-SoundEffect-v2.0을 공개했다. DiT 백본에 Flow Matching 기법을 사용해 자연환경·도시·생체음·인간동작 등 다양한 카테고리의 효과음을 48kHz 품질로 최대 30초까지 생성하며, 한국어·영어 이중언어 프롬프트를 지원한다. cocy.io에서 쓸모: game.cocy.io 게임에 텍스트 한 줄로 즉시 맞춤 SFX를 생성해 TangoFlux 파이프라인의 대안으로 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub / OpenMOSS",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Bonsai Image 4B — iPhone에서 돌아가는 초경량 Flux 이미지 생성 모델",
+      "summary": "[Image] PrismML이 FLUX.2 Klein 4B 기반의 1-bit·Ternary 양자화 이미지 생성 모델 Bonsai Image 4B를 5월 26일 공개했다. 디퓨전 트랜스포머 용량을 FP16 대비 최대 8.3배 압축(0.93GB)해 아이폰·노트북에서 오프라인 이미지 생성이 가능하며, 오픈 가중치로 배포된다. cocy.io에서 쓸모: 로컬 SDXL 파이프라인 대신 모바일 기기에서도 게임 에셋 이미지 생성을 운용할 수 있어 외부 API 비용 제거에 유리.",
+      "category": "ai-tech",
+      "source": "PrismML",
+      "sourceUrl": "https://prismml.com/news/bonsai-image-4b",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "MOSS-TTS-Nano — 100M 파라미터로 4개 CPU 코어에서 실시간 스트리밍 TTS",
+      "summary": "[Edge] OpenMOSS가 4월 출시한 MOSS-TTS-Nano는 약 100M 파라미터의 초소형 TTS 모델로, 48kHz 스테레오 입출력과 다국어 음성 클로닝을 지원하며 GPU 없이 CPU 4코어만으로 실시간 스트리밍이 가능하다. 오픈소스(GitHub)로 로컬 환경에서 즉시 실행할 수 있다. cocy.io에서 쓸모: game.cocy.io 캐릭터 나레이션·대사 TTS를 서버 비용 없이 WSL 환경에서 직접 구동할 수 있어 게임 내 음성 파이프라인 구축에 적합.",
+      "category": "ai-tech",
+      "source": "GitHub / OpenMOSS",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+      "publishedAt": "2026-04-13T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "game-asset-mcp — Flux LoRA 기반 MCP 서버로 2D·3D 게임 에셋 자동 생성",
+      "summary": "[Tool] gokaygokay의 Flux 게임에셋 LoRA 모델을 활용하는 MCP 서버 game-asset-mcp가 GitHub에 공개됐다. 텍스트 프롬프트로 픽셀아트 스프라이트·3D 오브젝트(OBJ/GLB)를 생성하며, InstantMesh·Hunyuan3D-2 등으로 이미지→3D 변환도 지원한다. cocy.io에서 쓸모: game.cocy.io 신규 게임의 에셋 초안을 Claude Code에서 MCP 툴 호출 한 번으로 뽑아낼 수 있어 에셋 제작 파이프라인 속도를 크게 단축할 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub / MubarakHAlketbi",
+      "sourceUrl": "https://github.com/MubarakHAlketbi/game-asset-mcp",
+      "publishedAt": "2026-05-01T00:00:00+09:00"
+    }
+  ]
+}
