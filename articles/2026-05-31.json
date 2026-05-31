@@ -1,0 +1,32 @@
+{
+  "date": "2026-05-31",
+  "articles": [
+    {
+      "id": "1",
+      "title": "한국, 2030년대 중반 핵추진 잠수함 건조 계획 추진",
+      "summary": "국방부가 저농축 우라늄 기반 핵추진 잠수함 기본 전략을 발표했다. 2030년대 말 해군 인도를 목표로 하며, 안규백 국방장관은 한미동맹 유지와 자주국방 강화 병행을 강조했다.",
+      "category": "domestic",
+      "source": "코리아타임스",
+      "sourceUrl": "https://www.koreatimes.co.kr/southkorea/defense/20260531/how-will-south-korean-nuclear-submarines-alter-underwater-balance-near-first-island-chain",
+      "publishedAt": "2026-05-31T06:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "삼성전자, 노조와 임금 합의 타결…반도체 영업이익 10.5% 특별 보너스",
+      "summary": "삼성전자가 노조와 임금 협상을 타결하며 대규모 파업을 피했다. 반도체 부문 영업이익의 10.5%를 특별 상여금으로 배분하고 성과 보너스 상한선을 폐지하는 내용으로, 여타 대기업 임금 협상에도 영향을 줄 전망이다.",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/en/politics/12061883",
+      "publishedAt": "2026-05-31T07:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "26~50세 성인 약 100만 명, 부모 건강보험 피부양자로 등록",
+      "summary": "최근 조사에 따르면 26~50세 성인 약 100만 명이 부모의 건강보험 피부양자로 남아 있는 것으로 나타났다. '캥거루족' 현상이 성인 중장년층으로 확산되고 있다는 분석이다.",
+      "category": "domestic",
+      "source": "중앙일보",
+      "sourceUrl": "https://koreajoongangdaily.joins.com/news/2026-05-31/national/socialAffairs/Nearly-1-million-kangaroo-children-tethered-to-parents-health-insurance-well-into-adulthood/2604279",
+      "publishedAt": "2026-05-31T08:00:00+09:00"
+    }
+  ]
+}
