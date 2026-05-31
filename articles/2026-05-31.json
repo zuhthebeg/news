@@ -63,6 +63,51 @@
       "source": "OpenMOSS / GitHub",
       "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
       "publishedAt": "2026-05-28T09:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Sony AI, 영상·텍스트 기반 SFX 생성 파운데이션 모델 Woosh 공개",
+      "summary": "[Audio] Sony AI가 사운드 이펙트 전용 파운데이션 모델 Woosh를 2026년 5월 20일 공개했다. 텍스트 설명으로 SFX를 생성하는 text-to-audio와 영상 시퀀스에서 자동으로 사운드를 생성하는 video-to-audio를 모두 지원한다. 연구용 공개 모델이 GitHub에 배포됐다. cocy.io에서 쓸모: game.cocy.io 게임 영상 클립에서 직접 SFX를 추출·생성하는 video-to-audio 파이프라인으로 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "Sony AI / MixOnline",
+      "sourceUrl": "https://www.mixonline.com/post-and-broadcast/sony-ai-announces-sfx-generation-model-woosh",
+      "publishedAt": "2026-05-20T18:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "MOSS-SoundEffect-v2.0 출시 — 48kHz 이중언어 SFX 최대 30초 생성",
+      "summary": "[Audio] OpenMOSS가 MOSS-SoundEffect-v2.0을 2026년 5월 26일 공개했다. 텍스트 프롬프트로 48kHz 고품질 이중언어(한/영) 사운드 이펙트를 최대 30초까지 생성한다. 오픈소스이며 로컬 실행 가능. cocy.io에서 쓸모: 기존 TangoFlux 대비 고해상도(48kHz)·이중언어 지원으로 한국어 게임 사운드 제작 파이프라인 업그레이드 가능.",
+      "category": "ai-tech",
+      "source": "OpenMOSS / GitHub",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-26T09:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "OmniVoice Studio — ElevenLabs 대체 로컬 TTS, 3초 음성 클로닝 지원",
+      "summary": "[Tool] OmniVoice Studio가 2026년 5월 오픈소스 데스크탑 앱으로 출시됐다. 3초 클립으로 즉석 음성 클로닝, CosyVoice 3·Kokoro·Qwen3-TTS 등 6개 엔진 내장, 600개 이상 언어, CPU만으로도 전체 파이프라인 구동 가능. cocy.io에서 쓸모: ElevenLabs API 비용 없이 로컬에서 게임 NPC 음성·더빙을 고품질로 생산하는 완전 자립 TTS 파이프라인 구축.",
+      "category": "ai-tech",
+      "source": "MarkTechPost",
+      "sourceUrl": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
+      "publishedAt": "2026-05-26T12:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "ByteDance Lance — 3B 파라미터 통합 이미지·영상 생성·편집 모델 HuggingFace 공개",
+      "summary": "[Image][Video] ByteDance가 3B 파라미터 통합 멀티모달 모델 Lance를 2026년 5월 18일 HuggingFace에 공개했다. 이미지 생성·편집·영상 생성을 단일 모델로 처리하며, Gradio UI로 즉시 사용 가능. cocy.io에서 쓸모: 게임 캐릭터 이미지 생성부터 프로모션 영상 클립 제작까지 하나의 경량 모델로 커버 가능.",
+      "category": "ai-tech",
+      "source": "ByteDance / HuggingFace",
+      "sourceUrl": "https://huggingface.co/bytedance-research/Lance",
+      "publishedAt": "2026-05-18T09:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "LlamaWeb — llama.cpp WebGPU 백엔드로 브라우저 내 LLM 추론 구현",
+      "summary": "[Edge] llama.cpp의 WebGPU 백엔드 LlamaWeb이 2026년 5월 공개됐다. 서버 없이 브라우저에서 LLM을 직접 추론하며, 기존 브라우저 AI 프레임워크 대비 메모리 오버헤드 감소·처리량 향상. W3C WebGPU CR 달성(2026년 3월)으로 Chrome·Edge·Firefox 84% 이상 지원. cocy.io에서 쓸모: game.cocy.io 게임에 서버 비용 0원으로 AI NPC·힌트 시스템을 브라우저 온디바이스로 바로 탑재 가능.",
+      "category": "ai-tech",
+      "source": "LlamaWeb / arXiv",
+      "sourceUrl": "https://huggingface.co/papers/2605.30263",
+      "publishedAt": "2026-05-27T09:00:00+09:00"
     }
   ]
 }
