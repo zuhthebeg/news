@@ -27,6 +27,42 @@
       "source": "중앙일보",
       "sourceUrl": "https://koreajoongangdaily.joins.com/news/2026-05-31/national/socialAffairs/Nearly-1-million-kangaroo-children-tethered-to-parents-health-insurance-well-into-adulthood/2604279",
       "publishedAt": "2026-05-31T08:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Stability AI, 오픈 웨이트 음악 생성 모델 Stable Audio 3.0 공개",
+      "summary": "[Audio] Stability AI가 Stable Audio 3.0 패밀리를 오픈 웨이트로 공개했다. 라이선스 데이터로 학습되어 상업적 활용이 가능하며, LoRA 파인튜닝 지원, 최대 6분 이상의 가변 길이 음악 생성, 그리고 3.0 Small은 최초로 기기 내(온디바이스) 완전 음악 작곡이 가능하다. cocy.io에서 쓸모: game.cocy.io 게임용 BGM을 로컬에서 LoRA로 장르·스타일 파인튜닝하여 직접 생산하는 파이프라인 구축에 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-20T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Black Forest Labs, 이미지 편집 오픈 웨이트 모델 FLUX.1 Kontext [dev] 공개",
+      "summary": "[Image] Black Forest Labs가 120억 파라미터 이미지 편집 모델 FLUX.1 Kontext [dev]를 오픈 웨이트로 공개했다. 텍스트 지시만으로 기존 이미지를 편집하고, 파인튜닝 없이 캐릭터·스타일·오브젝트 일관성을 유지하며 다단계 편집에도 시각적 드리프트가 거의 없다. 개인·과학·상업적 용도로 출력물 활용이 가능하다. cocy.io에서 쓸모: 게임 캐릭터 아트의 일관성 유지 및 반복 수정 워크플로우에 로컬에서 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs / Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev",
+      "publishedAt": "2026-05-01T09:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "WebGPU, W3C Candidate Recommendation 달성…브라우저 AI 추론 시대 본격화",
+      "summary": "[Edge] WebGPU가 2026년 3월 W3C Candidate Recommendation 단계에 도달하며 Chrome, Edge, Firefox에서 안정적으로 지원된다. Transformers.js, WebLLM, ONNX Runtime Web 등 라이브러리와 결합해 브라우저 내에서 Phi-4 Mini·Gemma 3 등 소형 모델을 30ms 이하로 추론하는 것이 가능해졌다. cocy.io에서 쓸모: game.cocy.io 게임에 서버 비용 없이 온디바이스 AI NPC·절차적 콘텐츠 생성 기능을 직접 탑재 가능.",
+      "category": "ai-tech",
+      "source": "Zircon Tech / W3C",
+      "sourceUrl": "https://zircon.tech/blog/webgpu-just-got-real-what-firefox-141-and-upcoming-safari-mean-for-ai-in-the-browser/",
+      "publishedAt": "2026-05-15T09:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "MOSS-TTS, 환경음 SFX 포함 오픈소스 음성·사운드 생성 모델 패밀리 업데이트",
+      "summary": "[Audio] OpenMOSS가 MOSS-TTS 패밀리를 2026년 5월 업데이트했다. 복잡한 실세계 시나리오와 환경 사운드 이펙트(SFX)를 포함한 음성·오디오 생성을 지원하며, MOSS-SoundEffect 컴포넌트가 텍스트 기반 SFX 생성을 담당한다. 오픈소스로 로컬 실행이 가능하다. cocy.io에서 쓸모: 기존 TangoFlux SFX 파이프라인의 대안 또는 보완재로 게임 사운드 이펙트 생성에 활용 가능.",
+      "category": "ai-tech",
+      "source": "OpenMOSS / GitHub",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-28T09:00:00+09:00"
     }
   ]
 }
