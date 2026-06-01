@@ -72,6 +72,51 @@
       "source": "Hugging Face Papers",
       "sourceUrl": "https://huggingface.co/papers/2605.30263",
       "publishedAt": "2026-05-29T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "1-bit 멀티모달 AI, WebGPU로 브라우저 직접 실행 — 설치 없는 로컬 이미지 생성",
+      "summary": "[Edge/Image] 1-bit 양자화 멀티모달 모델이 WebGPU를 통해 브라우저 내에서 직접 구동 가능해졌다. 별도 서버·설치 없이 사용자 GPU에서 이미지 생성 추론을 실행하며, Safari·Chrome·Firefox 모두 지원하는 W3C 표준 WebGPU 위에서 동작한다. Ollama v0.30.0도 llama.cpp GGUF 디렉토리 직접 참조 기능을 추가해 로컬 모델 관리가 크게 단순화됐다. cocy.io에서 쓸모: game.cocy.io에서 서버 없이 브라우저 내 실시간 에셋 생성 기능 추가가 가능한 핵심 기반 기술이다.",
+      "category": "ai-tech",
+      "source": "explore.n1n.ai",
+      "sourceUrl": "https://explore.n1n.ai/blog/ollama-v030-qwen35-webgpu-1bit-ai-2026-05-27",
+      "publishedAt": "2026-05-27T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Cartesia Sonic 3.5 — SSM 기반 초저지연 TTS, 42개 언어·500+ 보이스",
+      "summary": "[Audio/TTS] Cartesia가 5월 공개한 Sonic 3.5는 State Space Model(SSM) 아키텍처로 Transformer 대비 추론 지연을 대폭 줄인 TTS 모델이다. 42개 언어, 500개 이상 프리셋 보이스를 지원하며 실시간 스트리밍 출력에 최적화됐다. cocy.io에서 쓸모: 게임 내 실시간 NPC 대사·알림음 스트리밍에 적합하며, 기존 파이프라인 대비 응답 지연 없는 즉각적 보이스 출력이 가능하다.",
+      "category": "ai-tech",
+      "source": "Cartesia AI",
+      "sourceUrl": "https://cartesia.ai/sonic",
+      "publishedAt": "2026-05-01T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "FLUX.2 [dev] — 32B 오픈웨이트 이미지 생성 모델, RTX 3080급에서 FP8 구동",
+      "summary": "[Image] Black Forest Labs의 FLUX.2 [dev]는 32B 파라미터 오픈웨이트 이미지 생성 모델이다. NVIDIA와 협력해 FP8 양자화 버전을 제공하며 VRAM 요구량을 40% 줄였다. 2K 이미지를 10초 이내 생성하고 최대 10장 레퍼런스 이미지를 통한 일관된 캐릭터 유지, 정확한 텍스트 렌더링, 포즈 직접 제어를 지원한다. HuggingFace에서 non-commercial 라이선스로 배포 중. cocy.io에서 쓸모: 로컬 RTX 3080 Ti에서 고품질 게임 캐릭터·배경 에셋 생성에 기존 SDXL 파이프라인 대체 검토 가치가 높다.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs / GitHub",
+      "sourceUrl": "https://github.com/black-forest-labs/flux2",
+      "publishedAt": "2025-11-01T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Hume AI TADA — 오픈소스 제로 할루시네이션 TTS, 실시간 속도 초과 출력",
+      "summary": "[Audio/TTS] Hume AI가 3월 공개한 TADA(Text-Acoustic Dual Alignment)는 오픈소스 TTS 모델로 hallucination(발음 오류·이상 출력)이 없다고 주장한다. 실시간 재생 속도보다 훨씬 빠르게 생성되며 장문 오디오 지원. GitHub·HuggingFace에서 완전 오픈소스로 배포 중이다. cocy.io에서 쓸모: 긴 게임 스토리 내레이션이나 대사 배치 생성 시 발음 오류 없는 안정적 파이프라인 구성에 유리하다.",
+      "category": "ai-tech",
+      "source": "Hume AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/hume-ai/tada",
+      "publishedAt": "2026-03-01T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Fish Audio S2 Pro — 1000만 시간 학습 오픈웨이트 TTS, TTS-Arena2 1위",
+      "summary": "[Audio/TTS] Fish Audio의 S2 Pro는 1,000만 시간 이상의 다국어 오디오로 학습된 오픈웨이트 TTS 모델로, 인지 품질 기준 TTS-Arena2 리더보드 1위를 기록 중이다. 고품질 제어 가능한 음성 합성과 뛰어난 화자 유사도를 제공한다. cocy.io에서 쓸모: 게임 캐릭터 더빙 품질이 최우선일 때 현재 파이프라인 대비 체감 품질을 끌어올리는 드롭인 업그레이드로 적합하다.",
+      "category": "ai-tech",
+      "source": "Fish Audio / HuggingFace",
+      "sourceUrl": "https://huggingface.co/fishaudio/fish-speech-1.5",
+      "publishedAt": "2026-04-01T00:00:00+09:00"
     }
   ]
 }
