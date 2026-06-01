@@ -855,6 +855,71 @@
         "ROI"
       ],
       "addedAt": "2026-05-11"
+    },
+    {
+      "title": "Agent Transcript",
+      "description": "OpenClaw 세션 로그를 정리해 PR이나 이슈 본문에 넣을 수 있는 익명화된 전사본을 만듭니다.\n민감정보를 걸러내고, 검토자가 빠르게 맥락을 파악할 수 있게 요약합니다.",
+      "icon": "📝",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/agent-transcript",
+      "tags": [
+        "전사",
+        "PR",
+        "이력"
+      ],
+      "addedAt": "2026-06-01"
+    },
+    {
+      "title": "AutoReview",
+      "description": "로컬 변경 사항을 구조화된 기준으로 점검하는 코드 리뷰 보조 스킬입니다.\n버그, 회귀, 테스트 공백을 먼저 찾는 closeout 점검에 적합합니다.",
+      "icon": "🔍",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/autoreview",
+      "tags": [
+        "코드리뷰",
+        "검토",
+        "품질"
+      ],
+      "addedAt": "2026-06-01"
+    },
+    {
+      "title": "Crabbox",
+      "description": "Linux, macOS, Windows, WSL2에서 원격 검증과 테스트를 수행하는 실행 래퍼입니다.\nCI 비슷한 환경에서 실제 동작을 확인해야 할 때 유용합니다.",
+      "icon": "🦀",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/crabbox",
+      "tags": [
+        "원격검증",
+        "테스트",
+        "CI"
+      ],
+      "addedAt": "2026-06-01"
+    },
+    {
+      "title": "Handoff",
+      "description": "다른 에이전트나 사람에게 작업 맥락을 넘기기 좋은 인수인계 프롬프트를 만듭니다.\n경계, 제약, 검증 기준을 정리해 협업 품질을 높입니다.",
+      "icon": "🤝",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/handoff",
+      "tags": [
+        "인수인계",
+        "협업",
+        "프롬프트"
+      ],
+      "addedAt": "2026-06-01"
+    },
+    {
+      "title": "Session Viewer",
+      "description": "Codex, Claude Code, OpenClaw, Pi 세션 로그를 한 파일 HTML 뷰어로 변환합니다.\n세션 검색, 공유, 회고를 빠르게 하려는 작업에 잘 맞습니다.",
+      "icon": "👀",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/session-viewer",
+      "tags": [
+        "세션",
+        "전사",
+        "뷰어"
+      ],
+      "addedAt": "2026-06-01"
     }
   ]
 }
