@@ -1,1 +1,77 @@
-{"date":"2026-06-03","articles":[{"id":"1","title":"제9회 전국동시지방선거 본투표 실시…오전 8시 투표율 4.5%","summary":"6월 3일 오전 6시부터 오후 6시까지 제9회 전국동시지방선거 본투표가 전국 투표소에서 일제히 진행 중이다. 광역단체장·교육감·기초단체장 등 총 4,227명의 지역 일꾼을 선출하며, 14개 지역구 국회의원 재보궐선거도 함께 치러진다. 오전 8시 기준 투표율은 4.5%로 직전 선거 대비 0.7%p 높은 수준이며, 지상파 3사 공동 출구조사는 오후 6시 발표 예정이다.","category":"domestic","source":"연합뉴스","sourceUrl":"https://www.yna.co.kr/view/AKR20260603020200061","publishedAt":"2026-06-03T08:00:00+09:00"},{"id":"2","title":"엔비디아 젠슨 황 CEO 방한…재계 총수들과 'AI 팩토리' 협력 논의","summary":"글로벌 AI 반도체 1위 엔비디아의 젠슨 황 CEO가 한국을 방문해 삼성·SK·LG 등 국내 주요 대기업 총수들과 'AI 팩토리' 시대 선점 및 기술 협력 방안을 논의했다. 엔비디아는 한국 기업과의 AI 인프라 구축·반도체 공급망 협력을 강화할 계획이다.","category":"economy","source":"중앙일보","sourceUrl":"https://www.joongang.co.kr/issue","publishedAt":"2026-06-03T07:00:00+09:00"},{"id":"3","title":"K-조선 글로벌 수주 릴레이…삼성중공업 4.3조 FLNG·한화오션 캐나다 잠수함 수주전","summary":"삼성중공업이 4조3000억 원 규모의 FLNG(부유식 액체천연가스 생산설비)를 수주한 데 이어, 한화오션과 HD현대중공업이 캐나다 해군 잠수함 교체 수주전에 총력을 기울이고 있다. K-조선이 친환경 선박부터 방산까지 글로벌 수주 행진을 이어가고 있다.","category":"economy","source":"연합뉴스","sourceUrl":"https://www.yna.co.kr/","publishedAt":"2026-06-03T06:30:00+09:00"}]}
+{
+  "date": "2026-06-03",
+  "articles": [
+    {
+      "id": "1",
+      "title": "제9회 전국동시지방선거 본투표 실시…오전 8시 투표율 4.5%",
+      "summary": "6월 3일 오전 6시부터 오후 6시까지 제9회 전국동시지방선거 본투표가 전국 투표소에서 일제히 진행 중이다. 광역단체장·교육감·기초단체장 등 총 4,227명의 지역 일꾼을 선출하며, 14개 지역구 국회의원 재보궐선거도 함께 치러진다. 오전 8시 기준 투표율은 4.5%로 직전 선거 대비 0.7%p 높은 수준이며, 지상파 3사 공동 출구조사는 오후 6시 발표 예정이다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260603020200061",
+      "publishedAt": "2026-06-03T08:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "엔비디아 젠슨 황 CEO 방한…재계 총수들과 'AI 팩토리' 협력 논의",
+      "summary": "글로벌 AI 반도체 1위 엔비디아의 젠슨 황 CEO가 한국을 방문해 삼성·SK·LG 등 국내 주요 대기업 총수들과 'AI 팩토리' 시대 선점 및 기술 협력 방안을 논의했다. 엔비디아는 한국 기업과의 AI 인프라 구축·반도체 공급망 협력을 강화할 계획이다.",
+      "category": "economy",
+      "source": "중앙일보",
+      "sourceUrl": "https://www.joongang.co.kr/issue",
+      "publishedAt": "2026-06-03T07:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "K-조선 글로벌 수주 릴레이…삼성중공업 4.3조 FLNG·한화오션 캐나다 잠수함 수주전",
+      "summary": "삼성중공업이 4조3000억 원 규모의 FLNG(부유식 액체천연가스 생산설비)를 수주한 데 이어, 한화오션과 HD현대중공업이 캐나다 해군 잠수함 교체 수주전에 총력을 기울이고 있다. K-조선이 친환경 선박부터 방산까지 글로벌 수주 행진을 이어가고 있다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/",
+      "publishedAt": "2026-06-03T06:30:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "NVIDIA Cosmos 3 공개 — 물리 AI용 통합 옴니 모델",
+      "summary": "[Video] NVIDIA가 로봇·자율주행·스마트공간을 위한 오픈 월드 파운데이션 모델 Cosmos 3를 공개했다. 텍스트·이미지·비디오·주변음·행동을 하나의 모델로 통합 생성하며, Cosmos 3 Super·Nano 웨이트가 Hugging Face에 공개됐다. Diffusers 통합 및 파인튜닝 스크립트도 GitHub에 제공. cocy.io에서 쓸모: 게임 배경 영상·환경음 자동 생성 파이프라인에 물리 기반 월드 시뮬레이터로 바로 연결 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog (NVIDIA)",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Stability AI, Stable Audio 3.0 오픈웨이트 공개 — 6분짜리 음악 생성",
+      "summary": "[Audio] Stability AI가 Stable Audio 3.0 패밀리를 5월 말 공개했다. Small SFX(모바일 SFX), Small(온디바이스 음악), Medium(최대 6분 20초 BGM) 세 모델이 오픈웨이트로 HuggingFace에서 내려받을 수 있다. 라이선스 데이터로 학습되어 출력물의 상업 사용 가능. cocy.io에서 쓸모: game.cocy.io 게임의 BGM과 SFX를 로컬에서 라이선스 걱정 없이 생성하는 파이프라인으로 TangoFlux 대안 후보.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "AudioX — 텍스트·영상·이미지 → 오디오 통합 생성 모델 (ICLR 2026)",
+      "summary": "[Audio] 홍콩과기대(HKUSTAudio)가 ICLR 2026에 발표한 AudioX는 텍스트, 비디오, 이미지, 음악 등 다양한 모달리티를 입력받아 오디오·음악을 생성하는 Diffusion Transformer 모델이다. text-to-audio와 text-to-music 두 태스크 모두에서 SOTA 달성. 웨이트와 데모가 GitHub·HuggingFace에 공개돼 있다. cocy.io에서 쓸모: 게임 씬 영상 클립을 입력해 자동으로 어울리는 배경음·효과음을 뽑아내는 파이프라인 구성에 핵심 모델로 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub (ZeyueT/AudioX)",
+      "sourceUrl": "https://github.com/ZeyueT/AudioX",
+      "publishedAt": "2026-05-01T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Chatterbox-Turbo — 350M 파라미터 초고속 오픈소스 TTS · 보이스 클로닝",
+      "summary": "[Audio] Resemble AI가 공개한 Chatterbox-Turbo는 350M 파라미터로 75ms 레이턴시, 실시간 대비 6배 속도를 구현하는 오픈소스 TTS 모델이다. 5초 샘플만으로 보이스 클로닝이 가능하며 감정 태그(paralinguistic tags)도 지원한다. 상업 오픈소스 대비 블라인드 테스트에서 선호도 높음. cocy.io에서 쓸모: 게임 캐릭터 대사·내레이션을 로컬에서 실시간에 가깝게 생성하거나, 플레이어 목소리를 5초 샘플로 캐릭터화하는 기능에 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub (resemble-ai/chatterbox)",
+      "sourceUrl": "https://github.com/resemble-ai/chatterbox",
+      "publishedAt": "2026-05-15T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "ByteDance Bernini-R 오픈소스 — 영상 생성·편집 통합 프레임워크",
+      "summary": "[Video] ByteDance가 6월 1일 Bernini Renderer(Bernini-R)를 오픈소스로 공개했다. MLLM 기반 시맨틱 플래너 + DiT 기반 렌더러를 결합한 통합 영상 생성·편집 프레임워크로, 추론 코드와 모델 웨이트 모두 HuggingFace에서 제공된다. cocy.io에서 쓸모: 게임 트레일러·홍보 영상을 스크립트 입력만으로 자동 생성하거나, 기존 게임 플레이 영상을 스타일 편집하는 파이프라인에 적용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face (ByteDance/Bernini-R)",
+      "sourceUrl": "https://huggingface.co/ByteDance/Bernini-R",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    }
+  ]
+}
