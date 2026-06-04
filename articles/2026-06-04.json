@@ -63,6 +63,51 @@
       "source": "GitHub — ace-step/ACE-Step-1.5",
       "sourceUrl": "https://github.com/ace-step/ACE-Step-1.5",
       "publishedAt": "2026-04-02T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Sony AI, 파운데이션 SFX 모델 Woosh 공개 — 텍스트·영상→스튜디오급 음향 효과",
+      "summary": "[Audio] Sony AI가 5월 2026년 텍스트-투-오디오 및 비디오-투-오디오 기반 사운드 이펙트 생성 파운데이션 모델 Woosh를 공개했다. 스튜디오 최적화 비공개 모델과 연구용 공개 버전으로 이원화되며, 영상의 움직임을 분석해 시각-음향 동기화를 자동 처리한다. cocy.io에서 쓸모: 게임 내 UI 클릭음·폭발·이동 효과음을 영상 레퍼런스로 즉시 생성, TangoFlux 파이프라인 보완 또는 대체 후보.",
+      "category": "ai-tech",
+      "source": "Mix Online",
+      "sourceUrl": "https://www.mixonline.com/post-and-broadcast/sony-ai-announces-sfx-generation-model-woosh",
+      "publishedAt": "2026-05-28T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Ideogram 4.0 오픈웨이트 공개 — 네이티브 2K, 상업급 타이포그래피·포토리얼",
+      "summary": "[Image] Ideogram이 6월 3일 텍스트-투-이미지 모델 Ideogram 4.0을 오픈웨이트(HuggingFace: ideogram-ai/ideogram-4-nf4, GitHub: ideogram-oss/ideogram4)로 출시했다. 네이티브 2K 해상도, 정밀 타이포그래피, 상업급 포토리얼리즘을 특징으로 하며 레이아웃 제어와 프롬프트 충실도가 크게 향상됐다. cocy.io에서 쓸모: 게임 프로모션 이미지·썸네일·로고 합성에 고해상도 텍스트 포함 이미지를 로컬 SDXL 파이프라인 대신 또는 병행으로 사용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / ideogram-oss GitHub",
+      "sourceUrl": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
+      "publishedAt": "2026-06-03T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "ByteDance, 비디오 생성·편집 통합 모델 Bernini-R 오픈소스 공개",
+      "summary": "[Video] ByteDance가 6월 1일 텍스트-투-비디오 및 영상 편집을 통합 처리하는 Bernini Renderer(Bernini-R)의 추론 코드와 모델 웨이트를 GitHub(bytedance/Bernini) 및 HuggingFace(ByteDance/Bernini-R)에 공개했다. 단일 프레임워크에서 생성·편집 태스크를 모두 처리하며 Apache 2.0 라이선스로 상업 활용이 가능하다. cocy.io에서 쓸모: 게임 트레일러·컷신 생성, 기존 게임 스크린샷을 영상 에셋으로 자동 확장하는 파이프라인 구축 가능.",
+      "category": "ai-tech",
+      "source": "GitHub — bytedance/Bernini",
+      "sourceUrl": "https://github.com/bytedance/Bernini",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Google LiteRT-LM — 웹 브라우저 WebGPU/CPU 위에서 LLM 엣지 추론, 오픈소스",
+      "summary": "[Edge] Google AI Edge가 6월 2일 LiteRT-LM을 공개했다. 크로스플랫폼 고성능 LLM 엣지 추론 프레임워크로, Web JS API를 통해 브라우저 내 WebGPU/CPU 가속 추론을 지원한다. 서버 없이 브라우저에서 직접 LLM을 실행할 수 있으며 오픈소스로 제공된다. cocy.io에서 쓸모: game.cocy.io 웹게임에 서버 비용 없는 AI NPC 대화·힌트 시스템을 WebGPU 기반으로 구현 가능, llama.cpp WebGPU와 함께 브라우저 ML 스택의 핵심 옵션.",
+      "category": "ai-tech",
+      "source": "Google AI Edge 공식 문서",
+      "sourceUrl": "https://developers.google.com/edge/litert-lm/overview",
+      "publishedAt": "2026-06-02T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Microsoft MAI-Voice-2 — 최고 표현력 TTS 모델, 다국어·감정 범위 대폭 강화",
+      "summary": "[Audio] Microsoft가 6월 2일 MAI-Voice-2를 출시했다. 현재까지 가장 자연스러운 TTS 모델로 소개되며 음질, 언어 커버리지, 화자 일관성, 감정 범위를 대폭 개선했다. 어시스턴트·오디오북·접근성 분야 프로덕션 환경을 주요 타깃으로 한다. cocy.io에서 쓸모: 맞고/마작 NPC 콜 더빙 및 게임 UI 내레이션을 감정 풍부한 음성으로 자동 생성, OmniVoice 대비 즉시 API 연동 가능한 상용 옵션.",
+      "category": "ai-tech",
+      "source": "Microsoft AI Blog",
+      "sourceUrl": "http://microsoft.ai/news/mai-voice-2/",
+      "publishedAt": "2026-06-02T00:00:00+09:00"
     }
   ]
 }
