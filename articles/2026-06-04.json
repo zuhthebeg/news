@@ -27,6 +27,42 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260604063400003",
       "publishedAt": "2026-06-04T08:55:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "llama.cpp, WebGPU 공식 통합 — 브라우저에서 VRAM 30% 절감·처리량 45~69% 향상",
+      "summary": "[Edge] llama.cpp가 2026년 5월 WebGPU 백엔드를 공식 통합해 브라우저에서 GGUF 포맷 LLM을 GPU 가속으로 실행할 수 있게 됐다. VRAM 사용량 30% 감소, 디코딩 처리량 45~69% 향상(Intel/Apple/NVIDIA 실측)으로 기존 WebAssembly 방식 대비 압도적 성능을 보여준다. 서버 없이 브라우저 안에서 완전한 로컬 추론이 가능해 프라이버시가 중요한 앱에 적합하다. cocy.io에서 쓸모: game.cocy.io 게임에 서버 비용 없이 브라우저 내 AI NPC·채팅 기능을 붙일 수 있는 실용적인 기반.",
+      "category": "ai-tech",
+      "source": "arXiv / Microsoft Research",
+      "sourceUrl": "https://arxiv.org/abs/2605.20706",
+      "publishedAt": "2026-05-27T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Black Forest Labs, FLUX.1 Kontext [dev] 오픈웨이트 공개 — 텍스트+이미지로 정밀 편집",
+      "summary": "[Image] FLUX 개발사 Black Forest Labs가 12B 파라미터 이미지 편집 모델 FLUX.1 Kontext [dev]를 오픈웨이트로 공개했다. 텍스트와 참조 이미지를 함께 입력해 스타일 변환, 배경 교체, 캐릭터 일관성 유지 등 세밀한 편집이 가능하며, ComfyUI와 Hugging Face에서 즉시 사용할 수 있다. 소비자 GPU에서 동작하며 비상업적 연구·개인 제작에 자유롭게 활용 가능하다. cocy.io에서 쓸모: 게임 캐릭터 스프라이트 배경 제거·재색, 프로모션 이미지 일관된 스타일 편집 파이프라인에 바로 투입 가능.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs 공식 블로그",
+      "sourceUrl": "https://bfl.ai/blog/flux-1-kontext-dev",
+      "publishedAt": "2026-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "OmniVoice — 600개 언어 제로샷 음성 클로닝 모델, HuggingFace 공개",
+      "summary": "[Audio] k2-fsa 팀이 600개 이상의 언어를 지원하는 제로샷 음성 클로닝·TTS 모델 OmniVoice를 HuggingFace에 공개했다(2026년 4월). 짧은 참조 오디오 하나만으로 화자의 목소리를 복제해 원하는 텍스트를 합성할 수 있으며, 다국어 게임 내레이션·NPC 대사 더빙에 최적화된 구조다. 오픈소스라 로컬 실행이 가능하다. cocy.io에서 쓸모: 맞고/마작 NPC 콜 더빙, 다국어 게임 나레이션 자동 생성에 외부 API 없이 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face — k2-fsa/OmniVoice",
+      "sourceUrl": "https://huggingface.co/k2-fsa/OmniVoice",
+      "publishedAt": "2026-04-01T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "ACE-Step v1.5 XL — 소비자 GPU에서 상업급 음악 생성, 50개 언어 지원",
+      "summary": "[Audio] ACE-Step v1.5 XL이 2026년 4월 2일 공개됐다. 오픈소스 음악 파운데이션 모델로, RTX 3080급 소비자 GPU에서 상업 수준의 BGM을 생성할 수 있으며 50개 이상의 언어 텍스트 프롬프트를 지원한다. 멜로디 편집·스타일 전이 기능도 포함돼 있어 기존 v1.5 대비 품질과 프롬프트 정확도가 크게 향상됐다. cocy.io에서 쓸모: 로컬 RTX 3080 Ti 환경(TOOLS.md 기준)에서 바로 실행 가능, 게임 BGM 파이프라인 품질 업그레이드에 즉시 적용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub — ace-step/ACE-Step-1.5",
+      "sourceUrl": "https://github.com/ace-step/ACE-Step-1.5",
+      "publishedAt": "2026-04-02T00:00:00+09:00"
     }
   ]
 }
