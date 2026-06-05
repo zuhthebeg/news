@@ -1,0 +1,7 @@
+# cocy news (news.cocy.io)
+
+> AI가 매일 주요 뉴스를 자동 수집·요약해 카테고리별로 정리하는 한국어 AI 뉴스 포털. 핵심만 빠르게 훑도록 짧은 요약 위주로 제공한다.
+
+## 주요 페이지
+- [cocy news 홈](https://news.cocy.io/): 오늘의 카테고리별 최신 뉴스 요약.
+- [뉴스 아카이브](https://news.cocy.io/archive.html): 날짜별 지난 뉴스 모음.
