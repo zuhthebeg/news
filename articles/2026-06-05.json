@@ -45,6 +45,42 @@
       "source": "머니투데이",
       "sourceUrl": "https://www.mt.co.kr/society/2026/06/05/2026060417260661091",
       "publishedAt": "2026-06-05T08:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Higgs Audio v3 TTS: 100개 언어 감정 제어 제로샷 음성 복제 모델 출시",
+      "summary": "[Audio] BosonAI가 6월 4일 Higgs Audio v3 TTS를 공개했다. 4B 자동회귀 디코더 기반으로 100개 언어를 지원하며, 레퍼런스 오디오만으로 제로샷 음성 복제가 가능하다. 텍스트 인라인으로 감정·속도·발음·효과음까지 제어할 수 있어 대화형 AI 에이전트에 최적화돼 있다. cocy.io에서 쓸모: 게임 NPC 성우 더빙·고스톱 콜 효과음 파이프라인 대체제로 즉시 테스트 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / BosonAI",
+      "sourceUrl": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+      "publishedAt": "2026-06-04T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "PrismML Bonsai Image 4B: 1비트 이미지 생성 모델, 브라우저·아이폰에서 WebGPU 로컬 추론",
+      "summary": "[Image][Edge] PrismML이 1비트/삼진 양자화 텍스트→이미지 모델 Bonsai Image 4B를 공개했다. FLUX.2 Klein 4B 기반으로 1비트 변형은 0.93GB, 삼진 변형은 1.21GB로 압축됐으며, WebGPU를 통해 서버 없이 브라우저·iPhone·MacBook에서 직접 동작한다. 오픈웨이트 제공. cocy.io에서 쓸모: game.cocy.io의 게임 썸네일·아이템 아이콘을 클라이언트에서 즉석 생성하는 게임 내 에셋 파이프라인 구축 가능.",
+      "category": "ai-tech",
+      "source": "PrismML",
+      "sourceUrl": "https://prismml.com/news/bonsai-image-4b",
+      "publishedAt": "2026-05-28T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "AudioX: 텍스트·영상·이미지·음악 멀티모달 → 오디오 통합 생성 프레임워크 (ICLR 2026)",
+      "summary": "[Audio] HKUST 연구팀이 AudioX를 ICLR 2026에서 발표하고 모델·코드·데이터셋을 전면 오픈소스로 공개했다. 단일 Diffusion Transformer로 텍스트, 비디오, 이미지, 음악 등 모든 모달리티 입력을 고품질 범용 오디오·음악으로 변환한다. Hugging Face에서 사전학습 모델 즉시 사용 가능. cocy.io에서 쓸모: 게임 플레이 영상을 입력해 배경음·효과음을 자동 생성하는 파이프라인 구축에 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub / ZeyueT",
+      "sourceUrl": "https://github.com/zeyuet/AudioX",
+      "publishedAt": "2026-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "OmniVoice: 600개 이상 언어 지원 제로샷 TTS, Diffusion LM 아키텍처 기반",
+      "summary": "[TTS] k2-fsa 팀이 OmniVoice를 공개했다. 600개 이상 언어를 지원하는 초다국어 제로샷 TTS로, 새로운 Diffusion Language Model 아키텍처를 통해 높은 음질과 빠른 추론 속도를 동시에 달성했다. 짧은 레퍼런스 오디오 클립만으로 화자 음색을 즉시 복제한다. cocy.io에서 쓸모: 국내외 사용자 대상 게임 나레이션·공지 TTS를 다국어로 통일된 파이프라인에서 처리 가능.",
+      "category": "ai-tech",
+      "source": "GitHub / k2-fsa",
+      "sourceUrl": "https://github.com/k2-fsa/OmniVoice",
+      "publishedAt": "2026-04-01T00:00:00+09:00"
     }
   ]
 }
