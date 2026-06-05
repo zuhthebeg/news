@@ -81,6 +81,51 @@
       "source": "GitHub / k2-fsa",
       "sourceUrl": "https://github.com/k2-fsa/OmniVoice",
       "publishedAt": "2026-04-01T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Sony AI Woosh: 전문가용 SFX 파운데이션 모델 — 텍스트·영상→효과음, DAW 플러그인 예정",
+      "summary": "[Audio] Sony AI가 게임·영화·인터랙티브 미디어 전용 사운드이펙트 파운데이션 모델 Woosh를 공개했다. 텍스트→오디오, 영상→오디오(선택적 텍스트 가이드) 두 가지 생성 태스크를 지원하며, 공개 모델(연구용)과 스튜디오급 프라이빗 모델로 이원화됐다. DAW 플러그인(루프 생성·시간 제어·오디오 샘플 퍼스널라이제이션)도 로드맵에 있다. cocy.io에서 쓸모: 게임 플레이 클립을 영상으로 넣으면 효과음을 자동 생성하는 video-to-SFX 파이프라인 구축에 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "Sony AI / Mix Online",
+      "sourceUrl": "https://ai.sony/publications/woosh-a-sound-effects-foundation-model",
+      "publishedAt": "2026-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "NVIDIA Cosmos 3: 물리 AI용 월드 파운데이션 모델 — 16B Nano·64B Super HuggingFace 공개",
+      "summary": "[Video] NVIDIA가 6월 1일 물리적으로 그럴듯한 비디오 월드를 생성하는 Cosmos 3를 HuggingFace에 공개했다. 텍스트·이미지·영상·액션 입력으로 사실적 동영상 월드를 생성하며, 물리 추론과 액션 생성까지 단일 모델로 통합했다. Cosmos 3 Nano(16B, 8B리즈너+8B제너레이터)는 효율적 추론용, Cosmos 3 Super(64B)는 대규모 합성 데이터 생성용. Diffusers 라이브러리 통합. cocy.io에서 쓸모: 게임 트레일러·배경 월드 영상을 프롬프트로 즉석 생성해 마케팅 에셋으로 활용 가능.",
+      "category": "ai-tech",
+      "source": "NVIDIA / Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos-3-for-physical-ai",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "ByteDance Bernini-R: 영상 생성+편집 통합 프레임워크 오픈소스 공개 (HuggingFace)",
+      "summary": "[Video] ByteDance가 MLLM 기반 시맨틱 플래너 + DiT 기반 렌더러를 결합한 Bernini-R을 6월 1일 오픈소스로 공개했다(모델 가중치+추론 코드). 텍스트→비디오 생성과 영상 편집을 단일 통합 프레임워크에서 처리한다. cocy.io에서 쓸모: 게임 캐릭터/장면 영상을 텍스트 프롬프트로 생성하거나 기존 영상을 직접 편집해 프로모 컨텐츠 제작 비용 절감 가능.",
+      "category": "ai-tech",
+      "source": "ByteDance / Hugging Face",
+      "sourceUrl": "https://huggingface.co/ByteDance/Bernini-R",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Transformers.js v4: WebGPU 완전 재작성 — 브라우저·Node·Deno에서 100% 로컬 AI 추론",
+      "summary": "[Edge] HuggingFace가 2026년 2월 Transformers.js v4를 릴리스했다. ONNX Runtime WebGPU 백엔드로 전면 재작성해 브라우저·Node.js·Deno·Bun에서 동일 코드로 GPU 가속 로컬 추론이 가능하다. 일부 모델 최대 4x 성능 향상, GPT-OSS 20B를 M4 Pro Max에서 ~60 tok/s. GPT-OSS·Chatterbox·Olmo3 등 최신 아키텍처 지원. cocy.io에서 쓸모: game.cocy.io 클라이언트에서 서버 없이 AI 모델을 WebGPU로 직접 구동해 레이턴시 제로·서버비 절감 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / GitHub",
+      "sourceUrl": "https://github.com/huggingface/transformers.js/releases",
+      "publishedAt": "2026-02-11T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "Qwen3-TTS (0.6B~1.7B): 오픈소스 제로샷 음성 복제 — CPU 구동, 10개 언어+방언 지원",
+      "summary": "[TTS] Alibaba Qwen팀이 2026년 1월 Qwen3-TTS 패밀리(0.6B·1.7B)를 오픈소스로 공개했다. 제로샷 음성 복제, 낮은 첫오디오까지시간(TTFA), 10개 주요 언어+9개 방언 효과적 현지화를 갖추고 있다. 소형 파라미터 덕분에 CPU 전용 환경에서도 실시간 추론이 가능하며, 오픈소스 TTS 중 광범위하게 채택됐다. cocy.io에서 쓸모: 로컬 머신(RTX 3080 Ti)에서 GPU 할당 없이 NPC 음성·공지 나레이션을 생성하는 경량 TTS 파이프라인으로 즉시 사용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Qwen",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS-1.7B",
+      "publishedAt": "2026-01-15T00:00:00+09:00"
     }
   ]
 }
