@@ -63,6 +63,51 @@
       "source": "NVIDIA Newsroom",
       "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
       "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Boson AI, 'Higgs Audio v3 TTS' 출시 — 100+ 언어·제로샷 음성 클로닝·인라인 감정 제어",
+      "summary": "[Audio] Boson AI가 6월 4일 Higgs Audio v3 TTS를 공개했다. 100개 이상 언어를 지원하는 제로샷 음성 클로닝 모델로, 감정·스타일·속도·피치·효과음을 생성 중 인라인 태그로 제어할 수 있는 '대화형 TTS'가 핵심이다. 텍스트 낭독이 아닌 실제 대화 맥락에 최적화된 설계. cocy.io에서 쓸모: 고스톱 등 게임 내 AI NPC 음성·튜토리얼 내레이션에 다국어 음색을 즉시 추가할 수 있다.",
+      "category": "ai-tech",
+      "source": "Boson AI Blog",
+      "sourceUrl": "https://www.boson.ai/blog/higgs-audio-v3-tts",
+      "publishedAt": "2026-06-04T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Microsoft, 'MAI-Voice-2' TTS 모델 공개 — 15개 언어·제로샷 음성 프롬프팅",
+      "summary": "[Audio] Microsoft가 6월 2일 가장 자연스럽고 표현력이 뛰어난 TTS 모델 MAI-Voice-2를 발표했다. 15개 언어를 지원하며 음성 품질·화자 일관성·감정 범위 면에서 이전 대비 큰 향상을 보인다. 제로샷 음성 프롬프팅과 세밀한 감정 제어를 지원. cocy.io에서 쓸모: 영어·한국어 포함 멀티랭귀지 게임 음성 생성 시 품질 기준점으로 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "Microsoft AI",
+      "sourceUrl": "https://microsoft.ai/news/mai-voice-2/",
+      "publishedAt": "2026-06-02T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "ByteDance, 'Bernini-R' 비디오 생성·편집 통합 프레임워크 오픈소스 공개",
+      "summary": "[Video] ByteDance가 6월 1일 Bernini-R의 추론 코드와 모델 가중치를 HuggingFace에 공개했다. MLLM 기반 시맨틱 플래너와 DiT 기반 렌더러를 결합한 통합 비디오 생성·편집 프레임워크로, 텍스트·이미지 입력에서 고품질 영상을 생성하고 기존 영상을 편집할 수 있다. cocy.io에서 쓸모: 게임 프로모션 영상이나 컷씬 소재를 텍스트 프롬프트로 빠르게 제작하는 에셋 파이프라인 실험에 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face – ByteDance",
+      "sourceUrl": "https://huggingface.co/ByteDance/Bernini-R",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "JoyAI-Echo, 분 단위 오디오-비디오 동시 생성 오픈모델 HuggingFace 출시",
+      "summary": "[Video] jdopensource가 JoyAI-Echo를 HuggingFace에 공개했다. DMD 증류 생성기 + 페어드 크로스모달 메모리 구조로 5분 길이 멀티샷 스토리 영상과 동기화 오디오를 동시에 생성한다. 씬 간 일관성이 유지되는 스토리 레벨 코히어런스가 특징. cocy.io에서 쓸모: 게임 스토리 인트로·엔딩 컷씬을 텍스트 시나리오 하나로 영상+음악 동시 제작하는 자동화 파이프라인에 연결할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face – jdopensource",
+      "sourceUrl": "https://huggingface.co/jdopensource/JoyAI-Echo",
+      "publishedAt": "2026-06-06T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "WebGPU W3C 후보 권고안 확정 — 브라우저 AI 추론 84% 글로벌 지원 돌파",
+      "summary": "[Edge] WebGPU API가 2026년 3월 W3C 후보 권고안(CR) 지위를 획득하고 6월 현재 글로벌 브라우저 지원율 84%를 돌파했다. Hugging Face Transformers.js·WebLLM 등을 통해 Llama 3·Gemma·Phi 등 LLM을 서버 없이 브라우저에서 실행할 수 있으며, 소형 모델 기준 20~60 tok/s 달성. cocy.io에서 쓸모: game.cocy.io 게임 내 AI NPC 추론이나 이미지 분류·시맨틱 검색을 서버 비용 없이 클라이언트 사이드에서 구현할 수 있다.",
+      "category": "ai-tech",
+      "source": "W3C / WebLLM",
+      "sourceUrl": "https://www.programming-helper.com/tech/webllm-2026-running-large-language-models-entirely-in-browser-webgpu",
+      "publishedAt": "2026-06-07T00:00:00+09:00"
     }
   ]
 }
