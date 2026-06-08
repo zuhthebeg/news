@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-08",
+  "articles": [
+    {
+      "id": "1",
+      "title": "시진핑, 7년 만에 북한 국빈 방문…중북 우호조약 65주년·김정은과 정상회담",
+      "summary": "중국 시진핑 국가주석이 중북 우호협조 및 상호원조조약 체결 65주년을 맞아 7년 만에 북한을 2일간 국빈 방문했다. 양측은 경제·안보 협력 확대를 논의하며 북미 3차 정상회담 가능성도 높아졌다. 방문에 앞서 김정은은 핵물질 생산시설을 시찰하고 해군 핵억지력 강화를 지시하는 등 핵 능력을 과시했다.",
+      "category": "world",
+      "source": "Korea JoongAng Daily",
+      "sourceUrl": "https://www.koreajoongangdaily.com/news/2026-06-08/opinion/editorials/Xis-Pyongyang-visit-raises-concerns/2610410",
+      "publishedAt": "2026-06-08T07:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "이재명 대통령 취임 1주년 기자회견…'없어선 안 될 대한민국' 비전 제시",
+      "summary": "이재명 대통령이 취임 1주년을 맞아 기자회견을 열고 2년차 국정 비전을 밝혔다. '없어선 안 될 대한민국'을 슬로건으로 경제·외교·사회문화 분야 정책 방향을 발표했다. 지방선거 후 2028년 총선까지 선거가 없는 '정책 골든타임'을 맞아 6대 구조개혁 가속화가 예상된다.",
+      "category": "domestic",
+      "source": "Korea Herald",
+      "sourceUrl": "https://www.koreaherald.com/article/10765603",
+      "publishedAt": "2026-06-08T10:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "6.3 재선거 요구 시위 확산…2030 청년층 '주거·소득 불평등' 불만 분출",
+      "summary": "6·3 지방선거 투표용지 부족 사태를 계기로 재선거를 요구하는 시위가 서울에서 계속되고 있다. 시위는 단순한 선거 불복을 넘어 소득 감소·집값 폭등·기회 박탈에 분노한 20~30대 청년층의 시스템 불신을 반영하고 있다는 분석이 나온다.",
+      "category": "domestic",
+      "source": "Seoul Economy Daily",
+      "sourceUrl": "https://en.sedaily.com/finance/2026/06/08/re-election-protests-spread-among-koreas-young-exposing",
+      "publishedAt": "2026-06-08T08:00:00+09:00"
+    }
+  ]
+}
