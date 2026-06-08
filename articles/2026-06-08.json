@@ -27,6 +27,42 @@
       "source": "Seoul Economy Daily",
       "sourceUrl": "https://en.sedaily.com/finance/2026/06/08/re-election-protests-spread-among-koreas-young-exposing",
       "publishedAt": "2026-06-08T08:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Google, 실시간 로컬 음악 생성 오픈 모델 'Magenta RealTime 2' 공개",
+      "summary": "[Audio] Google DeepMind가 2.4B 파라미터 규모의 실시간 음악 생성 오픈 모델 Magenta RealTime 2(MRT2)를 공개했다. MIDI·텍스트·오디오 입력을 동시에 처리해 저지연 온디바이스 스트리밍 생성이 가능하며, Apple Silicon MacBook에서 로컬 실행 가능하다. 코드는 Apache 2.0, 가중치는 CC-BY 4.0으로 공개됐고 DAW 플러그인 연동도 지원한다. cocy.io에서 쓸모: 게임 BGM을 실시간·인터랙티브하게 변화시키는 적응형 사운드트랙 파이프라인 구축에 직접 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "Google Magenta",
+      "sourceUrl": "https://magenta.withgoogle.com/magenta-realtime-2",
+      "publishedAt": "2026-06-05T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Stability AI, 'Stable Audio 3' 패밀리 오픈 — SFX 특화 소형 모델도 동시 출시",
+      "summary": "[Audio] Stability AI가 Stable Audio 3 패밀리(small/medium/large, SFX 특화 small-sfx·small-music)를 HuggingFace에 공개했다. 고속 잠재 확산 모델로 가변 길이 오디오·음악 생성과 인페인팅(구간 편집)을 지원하며, MacBook M4에서 수 초 이내 생성이 가능하다. 게임 효과음용 small-sfx(0.6B)는 소비자 GPU에서도 충분히 실행된다. cocy.io에서 쓸모: game.cocy.io 게임에 로컬 SFX 생성 파이프라인 적용 시 TangoFlux 대체재로 검토할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face – stabilityai",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-medium",
+      "publishedAt": "2026-05-21T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "OpenMOSS, 한영 이중언어 SFX 생성 모델 'MOSS-SoundEffect v2.0' 공개",
+      "summary": "[Audio] 복단대 MOSS 팀이 DiT + Flow Matching 아키텍처 기반 1.3B 파라미터 효과음 생성 모델 MOSS-SoundEffect v2.0을 HuggingFace에 공개했다. 자연환경·도시·동물·인간 행동 SFX를 48kHz, 최대 30초 길이로 생성하며 영어·중국어 이중언어 프롬프트를 지원한다. Qwen3 텍스트 인코더를 채택해 프롬프트 이해도가 높다. cocy.io에서 쓸모: 한국어 혼용 프롬프트로 게임 효과음을 생성하는 실험적 파이프라인에 바로 적용해볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face – OpenMOSS-Team",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "NVIDIA Cosmos 3 공개 — 텍스트·이미지·비디오·앰비언트 사운드 동시 생성 옴니모델",
+      "summary": "[Tool] NVIDIA가 GTC Taipei에서 물리 AI용 오픈 파운데이션 모델 Cosmos 3를 출시했다. Mixture-of-Transformers 아키텍처로 텍스트·이미지·비디오·앰비언트 사운드·액션을 하나의 모델에서 네이티브로 생성·이해한다. Black Forest Labs, Runway, LTX 등이 참여하는 Cosmos Coalition도 함께 발표됐다. cocy.io에서 쓸모: 게임 씬 설명 텍스트 하나로 배경 이미지·환경음·애니메이션을 동시에 뽑는 풀스택 에셋 파이프라인의 핵심 모델로 주목할 만하다.",
+      "category": "ai-tech",
+      "source": "NVIDIA Newsroom",
+      "sourceUrl": "https://nvidianews.nvidia.com/news/nvidia-launches-cosmos-3-the-open-frontier-foundation-model-for-physical-ai",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
     }
   ]
 }
