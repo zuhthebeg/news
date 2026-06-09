@@ -27,6 +27,51 @@
       "source": "코리아헤럴드",
       "sourceUrl": "https://www.koreaherald.com/article/10766631",
       "publishedAt": "2026-06-09T07:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Google DeepMind, 온디바이스 실시간 음악 생성 모델 'Magenta RealTime 2' 오픈소스 공개",
+      "summary": "[Audio] Google DeepMind가 텍스트·오디오·MIDI로 실시간 음악을 스트리밍 생성하는 Magenta RealTime 2를 오픈소스(Apache 2.0 + CC-BY 4.0)로 공개했다. 청크 단위가 아닌 프레임 단위 자기회귀 구조로 지연 시간을 최소화해 온디바이스 스트리밍에 최적화됐으며, MIDI 및 오디오 예시로 곡 분위기를 실시간 제어할 수 있다. cocy.io에서 쓸모: 게임 BGM을 플레이어 행동에 반응해 실시간으로 변조하는 인터랙티브 사운드트랙 파이프라인 구성에 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Google DeepMind",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-06-05T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Stability AI, SFX 특화 경량 모델 'Stable Audio 3 Small SFX' (0.6B) 공개 — 맥북·소비자 GPU에서 2초 이내",
+      "summary": "[Audio] Stability AI가 효과음(SFX) 생성에 특화된 0.6B 경량 잠재 확산 모델 Stable Audio 3 Small SFX를 오픈소스로 공개했다. MacBook M4와 소비자 GPU에서 2초 이내로 가변 길이 오디오를 생성하며, 인페인팅과 오디오 이어붙이기도 지원한다. 학습 데이터는 라이선스 및 크리에이티브 커먼즈 소스로만 구성됐다. cocy.io에서 쓸모: 현재 TangoFlux 파이프라인을 보완해 발사음·충돌음 등 짧은 게임 SFX를 로컬에서 빠르게 생성하는 경량 대안으로 테스트 가치 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Stability AI",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
+      "publishedAt": "2026-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Ideogram 4 오픈웨이트 공개 — 타이포그래피·레이아웃 제어 지원, 오픈웨이트 이미지 모델 1위",
+      "summary": "[Image] Ideogram이 9.3B 오픈웨이트 이미지 모델 Ideogram 4를 2026년 6월 3일 공개했다. NF4·FP8 양자화 버전을 제공해 소비자 CUDA GPU에서 로컬 추론이 가능하며, 바운딩박스 레이아웃 제어·컬러 팔레트 지정·다국어 텍스트 렌더링 등 디자인 특화 기능을 갖췄다. Design Arena 오픈웨이트 부문 1위, 타이포그래피 전문가 평가에서도 GPT·Gemini 다음 위치. cocy.io에서 쓸모: 게임 캐릭터 카드·UI 배너 등 텍스트 포함 에셋을 고품질로 로컬 생성하는 SDXL 대체 모델로 즉시 테스트 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Ideogram",
+      "sourceUrl": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
+      "publishedAt": "2026-06-03T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Prism ML, 1.21GB 4B 이미지 모델 'Bonsai Image' 공개 — RTX 3080에서 1024px 4.5초",
+      "summary": "[Edge] Prism ML이 FLUX.2 Klein 4B를 1.58비트 3진(ternary) 양자화해 트랜스포머를 1.21GB로 압축한 Bonsai Image를 Apache 2.0으로 공개했다. RTX 3080에서 1024×1024 이미지를 4.5초에 생성하며, Gemlite 저비트 GEMM 커널로 Windows와 Linux 모두 네이티브 지원된다. 전체 CUDA 배포 페이로드는 4.55GB. cocy.io에서 쓸모: 현재 RTX 3080 Ti 환경에서 SDXL 대비 빠른 고해상도 게임 에셋 생성 파이프라인 후보로, 한 명령어 셋업으로 즉시 벤치마크 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Prism ML",
+      "sourceUrl": "https://huggingface.co/prism-ml/bonsai-image-ternary-4B-gemlite-2bit",
+      "publishedAt": "2026-06-02T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Stability AI, 음악 생성 경량 모델 'Stable Audio 3 Small Music' (0.6B) 동시 공개",
+      "summary": "[Audio] Stability AI가 SFX 모델과 함께 음악 생성 특화 버전 Stable Audio 3 Small Music도 공개했다. 동일한 0.6B 경량 잠재 확산 아키텍처 기반으로, 소비자 하드웨어에서 수 초 내 배경음악(BGM)을 생성한다. 인페인팅으로 기존 오디오를 이어붙이거나 특정 구간만 재생성하는 편집 기능도 지원한다. cocy.io에서 쓸모: 현재 ACE-Step 5B 대비 훨씬 가벼워, 빠른 BGM 프로토타입 생성이나 짧은 루프 반복 구간 편집 파이프라인 보조 도구로 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Stability AI",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-music",
+      "publishedAt": "2026-05-20T00:00:00+09:00"
     }
   ]
 }
