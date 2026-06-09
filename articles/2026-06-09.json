@@ -72,6 +72,51 @@
       "source": "Hugging Face / Stability AI",
       "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-music",
       "publishedAt": "2026-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "NVIDIA Cosmos 3 오픈 출시 — 텍스트/이미지/비디오/오디오/액션 통합 World Foundation Model",
+      "summary": "[Video] NVIDIA가 옴니모달 월드 파운데이션 모델 Cosmos 3를 오픈소스(Apache 2.0)로 공개했다. 텍스트·이미지·비디오·오디오·로봇 액션 트라젝토리를 단일 아키텍처로 처리하며, HuggingFace에 Cosmos3-Super-Image2Video(65B)를 포함해 여러 스케일 체크포인트를 공개했다. 이전 Cosmos 1·2 대비 멀티모달 이해+생성이 하나로 통합된 것이 핵심. cocy.io에서 쓸모: 게임 스크린샷 → 짧은 시네마틱 클립 변환, 또는 레벨 이미지 → 움직이는 배경 영상 자동 생성 파이프라인 프로토타입에 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "NVIDIA / Hugging Face",
+      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Super-Image2Video",
+      "publishedAt": "2026-06-02T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Qwen3-TTS 공개 — 3초 레퍼런스 오디오로 음성 복제, 로컬 완전 구동",
+      "summary": "[Audio] Alibaba Cloud Qwen팀이 오픈소스 TTS 모델 시리즈 Qwen3-TTS를 2026년 1월 공개했다. 3초 레퍼런스 오디오만으로 목소리를 복제하고 10개 이상 언어를 지원하며, 실시간 스트리밍 생성도 가능하다. Rust 기반 Crane 프레임워크와 결합하면 서버 없이 로컬에서 완전 구동된다. ElevenLabs(2/월) 대비 완전 무료·온프레미스. cocy.io에서 쓸모: 고스톱 콜 음성 및 게임 캐릭터 보이스를 cocy 목소리로 클로닝해 추가 녹음 없이 새 대사 생성하는 파이프라인에 바로 투입 가능.",
+      "category": "ai-tech",
+      "source": "GitHub / QwenLM",
+      "sourceUrl": "https://github.com/QwenLM/Qwen3-TTS",
+      "publishedAt": "2026-01-22T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Chrome 148 Prompt API 정식 안정화 — Gemini Nano 브라우저 내 온디바이스 추론",
+      "summary": "[Edge] Google Chrome 148(2026년 5월)에서 Prompt API가 안정(stable)으로 전환됐다. Gemini Nano를 브라우저 내 온디바이스로 실행하며 멀티모달 입력과 구조화된 출력을 지원, 서버 호출 없이 게임 내 AI 기능 구현이 가능해졌다. Microsoft Edge도 Phi-4 기반 동일 API를 제공 중. WebGPU 데스크톱 지원률 70% 초과. cocy.io에서 쓸모: game.cocy.io 게임에 외부 API 비용 없이 힌트·튜토리얼 생성, 텍스트 분류, 경량 NPC 대화 등 인게임 AI 기능을 브라우저 단에서 구현 가능.",
+      "category": "ai-tech",
+      "source": "Chrome Developers",
+      "sourceUrl": "https://developer.chrome.com/blog/chrome-at-io26",
+      "publishedAt": "2026-05-01T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Transformers.js v4 출시 — HuggingFace 생태계 WebGPU 네이티브 지원",
+      "summary": "[Edge] Hugging Face가 2026년 2월 Transformers.js v4를 출시했다. WebGPU와 ONNX Runtime Web을 네이티브로 지원해 Llama, Phi, Whisper 등 수백 개 HF 모델을 브라우저 내에서 GPU 가속으로 실행할 수 있다. WebAssembly 대비 3~15배 빠른 추론 성능. OpenAI 호환 API 제공으로 기존 코드 거의 그대로 사용 가능. cocy.io에서 쓸모: game.cocy.io 웹게임에 Whisper 음성인식(음성 명령), Phi-3 텍스트 생성(NPC 대화)을 서버리스로 추가하는 엣지 AI 기반 기능 레이어 구성에 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/docs/transformers.js",
+      "publishedAt": "2026-02-01T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "MOSS-SoundEffect 오픈소스 공개 — 텍스트 제어 가능한 게임/영상 SFX 특화 모델",
+      "summary": "[Audio] OpenMOSS 팀이 MOSS-TTS 패밀리에 SFX 특화 모델 MOSS-SoundEffect를 추가 공개했다. 텍스트 프롬프트와 지속 시간(duration)을 직접 제어할 수 있어 게임·영화·인터랙티브 콘텐츠에 최적화됐으며, 넓은 카테고리의 효과음을 커버한다. Apache 2.0 라이선스로 상업적 사용 가능. cocy.io에서 쓸모: 현재 TangoFlux 파이프라인의 duration 제어 한계를 보완할 대안으로, 특히 정해진 애니메이션 타이밍에 맞는 길이의 SFX를 생성하는 용도에 비교 테스트 권장.",
+      "category": "ai-tech",
+      "source": "GitHub / OpenMOSS",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-15T00:00:00+09:00"
     }
   ]
 }
