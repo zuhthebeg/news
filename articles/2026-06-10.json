@@ -63,6 +63,51 @@
       "source": "TechBytes",
       "sourceUrl": "https://techbytes.app/posts/edge-ai-inference-2026-llms-on-wasm-mobile-and-iot/",
       "publishedAt": "2026-04-08T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Sony AI 'Woosh' — 게임·영화 전문 SFX 파운데이션 모델, 텍스트→음향·비디오→음향 듀얼 지원",
+      "summary": "[Audio] Sony AI가 2026년 5월 20일 Woosh를 공개했다. 전문 사운드 디자인을 위한 최초의 SFX 파운데이션 모델로, 텍스트 설명으로 효과음을 생성하는 text-to-audio와 영상에서 직접 사운드를 생성하는 video-to-audio 두 가지를 지원한다. Pro Sound Effects·BOOM 등 라이선스 전문 라이브러리로 학습한 프라이빗 모델과 공개 데이터셋 기반 오픈 리서치 버전 두 가지를 동시 출시했다. FoleyBench 벤치마크에서 video-to-audio 품질이 기존 오픈소스를 크게 앞섰다. cocy.io에서 쓸모: 게임 플레이 영상에서 자동으로 SFX를 생성하는 파이프라인을 만들 수 있어, Foley 작업 자동화에 즉시 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "Mix Online / Sony AI",
+      "sourceUrl": "https://www.mixonline.com/post-and-broadcast/sony-ai-announces-sfx-generation-model-woosh",
+      "publishedAt": "2026-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Stable Audio 3.0 출시 — Small SFX 오픈웨이트 모델로 모바일·노트북에서 효과음 생성",
+      "summary": "[Audio] Stability AI가 2026년 5월 20일 Stable Audio 3.0 패밀리를 출시했다. 4개 모델 중 3개는 오픈웨이트로 무료 제공되며, Small SFX는 모바일·일반 노트북 수준에서 효과음을 생성하는 경량 모델이다. Small은 온디바이스 전곡 작곡, Medium은 최대 6분 20초 트랙, Large는 뮤직 플랫폼용 최고급 모델이다. 전량 라이선스 데이터로 학습해 저작권 우려를 해소했다. cocy.io에서 쓸모: RTX 3080 Ti 없이 노트북에서도 Small SFX로 게임 효과음을 즉시 생성할 수 있어, 에셋 파이프라인 하드웨어 의존도를 낮출 수 있다.",
+      "category": "ai-tech",
+      "source": "Music Business Worldwide / Stability AI",
+      "sourceUrl": "https://www.musicbusinessworldwide.com/stability-ai-launches-new-audio-models-that-can-generate-6-minute-music-tracks/",
+      "publishedAt": "2026-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Higgs Audio v3 TTS — 인라인 태그로 발화 중 감정·스타일·SFX 실시간 제어, 111개 언어",
+      "summary": "[Audio] Boson AI가 2026년 6월 4일 Higgs Audio v3 TTS를 출시했다. 대화형 AI에 특화된 TTS로, 텍스트 스트림 안에 인라인 태그를 삽입해 감정·스타일·속도·피치·일시정지·효과음을 발화 중에 바꿀 수 있다. 111개 언어 Seed-TTS/CV3/MiniMax-Multilingual 벤치마크에서 Fish Audio S2 Pro·Qwen3-TTS 등을 제치고 최저 WER을 기록했다. cocy.io에서 쓸모: 고스톱 등 게임 캐릭터 음성에서 상황별 감정 변화를 코드 수정 없이 태그로 제어할 수 있어, 다국어 음성 더빙 파이프라인의 표현력을 크게 높일 수 있다.",
+      "category": "ai-tech",
+      "source": "Boson AI Blog",
+      "sourceUrl": "https://www.boson.ai/blog/higgs-audio-v3-tts",
+      "publishedAt": "2026-06-04T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "CosyVoice2-0.5B — 스트리밍 150ms 초저지연 TTS, 다국어·방언·감정 파인그레인 제어",
+      "summary": "[Audio] Alibaba DAMO Academy의 CosyVoice2-0.5B는 스트리밍 모드에서 150ms 초저지연을 달성하면서도 고품질을 유지하는 0.5B 파라미터 경량 TTS 모델이다. 다국어·교차 언어 시나리오와 방언·감정·발화 스타일을 세밀하게 제어할 수 있으며, HuggingFace에 오픈소스로 공개됐다. cocy.io에서 쓸모: 게임 내 실시간 NPC 대화나 스트리밍 음성 응답이 필요한 인터랙티브 씬에 서버 부담 없이 바로 투입 가능한 경량 로컬 TTS로 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Alibaba DAMO",
+      "sourceUrl": "https://huggingface.co/FunAudioLLM/CosyVoice2-0.5B",
+      "publishedAt": "2026-05-01T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Google Lyria 3 — Gemini API로 48kHz 스테레오 음악 생성, 보컬+반주 전곡 지원",
+      "summary": "[Audio] Google의 Lyria 3 뮤직 생성 모델 패밀리가 Gemini API를 통해 공개됐다. 텍스트 프롬프트나 이미지에서 48kHz 스테레오 고음질 오디오를 생성하며, 보컬과 반주를 포함한 풀트랙 음악 작곡을 지원한다. 이미지를 입력으로 받는 멀티모달 음악 생성도 가능하다. cocy.io에서 쓸모: game.cocy.io BGM 파이프라인에서 ACE-Step과 병렬로 활용하거나, 게임 씬 스크린샷을 입력으로 받아 분위기에 맞는 배경음악을 자동 생성하는 이미지→BGM 워크플로를 구성할 수 있다.",
+      "category": "ai-tech",
+      "source": "Google / Gemini API",
+      "sourceUrl": "https://blog.google/technology/google-deepmind/lyria-3-music-generation/",
+      "publishedAt": "2026-05-15T00:00:00+09:00"
     }
   ]
 }
