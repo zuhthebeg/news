@@ -27,6 +27,42 @@
       "source": "조선일보",
       "sourceUrl": "https://www.chosun.com/national/people/2026/06/10/XUFN25JYN5FJJF72E6CUPOYOEA/",
       "publishedAt": "2026-06-10T09:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "MOSS-SoundEffect v2.0 출시 — DiT+Flow Matching 기반 고품질 게임 효과음 생성 오픈소스",
+      "summary": "[Audio] OpenMOSS팀이 2026년 5월 26일 MOSS-SoundEffect v2.0을 공개했다. Diffusion Transformer(DiT) + Flow Matching 구조에 Qwen3 텍스트 인코더와 DAC VAE를 결합해, 자연환경·도시·동물·인간 동작 등 다양한 효과음을 48kHz, 최대 30초까지 텍스트 프롬프트 한 줄로 생성한다. 한국어·영어 바이링궐을 지원하며 오픈소스로 HuggingFace에 공개됐다. cocy.io에서 쓸모: game.cocy.io 효과음 파이프라인에서 TangoFlux 대체/보완재로 즉시 활용 가능하며, 텍스트 한 줄로 게임 SFX를 자동 생성하는 파이프라인 구축에 최적이다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / OpenMOSS",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "MOSS-TTS v1.5 — 다국어 음성 합성·음성 복제 통합 오픈소스 툴체인 업데이트",
+      "summary": "[Audio] OpenMOSS팀이 2026년 5월 26일 MOSS-TTS v1.5를 공개했다. 언어 태그 제공 시 다국어 합성 안정성이 크게 향상됐으며, 음성 복제 정확도도 개선됐다. MOSS-TTS Family는 TTS·음성 복제·멀티스피커 대화·효과음(MOSS-SoundEffect)·실시간 스트리밍을 단일 툴체인으로 제공한다. cocy.io에서 쓸모: 고스톱 게임 한국어 더빙이나 다국어 게임 캐릭터 음성 생성에 적용 가능하며, 하나의 레포로 TTS와 SFX를 모두 커버할 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub / OpenMOSS",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Microsoft Edge에 Aion-1.0-Instruct 도입 — GPU 없는 기기에서도 브라우저 내 온디바이스 AI",
+      "summary": "[Edge] Microsoft가 2026년 6월 2일 Edge Canary/Dev 채널에 Aion-1.0-Instruct 소형 언어 모델 개발자 프리뷰를 추가했다. 기존 Phi-4-mini(4B)보다 작고 빠르며, GPU가 없는 CPU-only 기기까지 지원 범위를 대폭 넓혔다. 언어 감지·번역 API(Edge 148)와 온디바이스 음성인식(Web Speech API)도 함께 추가됐다. 7월 HuggingFace 오픈소스 공개 예정이다. cocy.io에서 쓸모: 브라우저 게임에서 서버 API 호출 없이 로컬에서 AI 힌트 생성·대화형 NPC를 구현할 수 있는 Web AI 기반이 마련된다.",
+      "category": "ai-tech",
+      "source": "Microsoft Edge Dev Blog",
+      "sourceUrl": "https://blogs.windows.com/msedgedev/2026/06/02/expanding-on-device-ai-in-microsoft-edge-new-models-and-apis-for-the-web/",
+      "publishedAt": "2026-06-02T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "엣지 AI 추론 2026 현황 — WASM·WebGPU·모바일 런타임으로 로컬 LLM이 일급 배포 타깃 됐다",
+      "summary": "[Edge] 2026년 4월 기준 엣지 추론이 클라우드 AI의 보조 레이어를 넘어 독립적인 배포 타깃으로 자리잡았다. 브라우저에서는 WASM(범용 폴백)과 WebGPU(가속), 모바일에서는 LiteRT와 Android AICore(Gemini Nano), IoT에서는 llama.cpp 계열 경량 모델이 실제 프로덕션에 쓰인다. '모델이 온디바이스에서 돌릴 수 있냐'가 아니라 '어떤 파이프라인 단계를 온디바이스에 둬야 하냐'로 질문이 바뀌었다는 점이 핵심 전환이다. cocy.io에서 쓸모: game.cocy.io 웹 게임에 WebGPU 기반 소형 모델을 임베딩해 서버 비용 없이 AI 게임플레이를 구현하는 아키텍처 설계에 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "TechBytes",
+      "sourceUrl": "https://techbytes.app/posts/edge-ai-inference-2026-llms-on-wasm-mobile-and-iot/",
+      "publishedAt": "2026-04-08T00:00:00+09:00"
     }
   ]
 }
