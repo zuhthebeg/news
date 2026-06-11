@@ -1,1 +1,122 @@
-{"date":"2026-06-11","articles":[{"id":"1","title":"[속보] 외교부 \"한국 선박 1척 호르무즈 해협 통과 항행 중\"","summary":"외교부가 한국 선박 1척이 호르무즈 해협을 통과하여 항행 중이라고 밝혔다. 중동 지역 긴장이 고조되는 가운데 한국 선박의 안전 항행 여부에 관심이 쏠리고 있다.","category":"world","source":"한겨레","sourceUrl":"https://www.hani.co.kr","publishedAt":"2026-06-10T22:55:00+09:00"},{"id":"2","title":"역대급 월드컵 하루 앞으로…한국, 체코와 운명의 첫판","summary":"FIFA 월드컵 개막을 하루 앞두고 한국 대표팀이 체코와 조별 첫 경기를 치른다. 광달라하라에서 열리는 이번 경기에서 홍명보 감독이 이끄는 태극전사의 첫 승부가 시작된다.","category":"domestic","source":"JTBC","sourceUrl":"https://news.jtbc.co.kr","publishedAt":"2026-06-10T09:48:00+09:00"},{"id":"3","title":"코스피 외면한 외인, 코스닥은 6조 샀다","summary":"외국인 투자자들이 코스피는 외면하면서도 코스닥 시장에서는 6조 원어치를 순매수한 것으로 나타났다. 중소형 성장주 중심의 코스닥에 외국인 자금이 유입되며 주목받고 있다.","category":"economy","source":"머니투데이","sourceUrl":"https://www.mt.co.kr","publishedAt":"2026-06-11T04:00:00+09:00"},{"id":"4","title":"Google DeepMind, 온디바이스 실시간 음악 생성 모델 'Magenta RealTime 2' 공개","summary":"[Audio] Google DeepMind가 저지연 실시간 스트리밍 음악 생성 모델 Magenta RealTime 2를 오픈소스로 공개했다. 코드 Apache 2.0, 모델 웨이트 CC-BY 4.0 라이선스로 상업 활용 가능하며, 온디바이스 스트리밍 제어와 라이브 인터랙티브 음악 생성에 최적화되어 있다. cocy.io에서 쓸모: 게임 BGM 실시간 생성·적응형 사운드트랙 파이프라인의 오픈소스 기반으로 활용 가능.","category":"ai-tech","source":"HuggingFace / Google DeepMind","sourceUrl":"https://huggingface.co/google/magenta-realtime-2","publishedAt":"2026-06-11T09:00:00+09:00"},{"id":"5","title":"Microsoft, 300ms 초저지연 실시간 TTS 'VibeVoice Realtime 0.5B' 오픈소스 공개","summary":"[TTS] Microsoft가 0.5B 파라미터 경량 실시간 TTS 모델 VibeVoice Realtime을 Apache 2.0으로 공개했다. 스트리밍 텍스트 입력을 지원하고 첫 오디오 출력까지 약 300ms로 게임·챗봇 실시간 음성 합성에 적합하다. Qwen2.5-0.5B 기반으로 로컬 GPU에서 구동 가능. cocy.io에서 쓸모: 고스톱 등 게임 캐릭터 대사 실시간 TTS나 AI 게임 해설 음성 생성에 바로 적용 가능.","category":"ai-tech","source":"HuggingFace / Microsoft","sourceUrl":"https://huggingface.co/VibeVoice/VibeVoice-Realtime-0.5B","publishedAt":"2026-06-11T09:00:00+09:00"},{"id":"6","title":"Alibaba Qwen3-TTS 1.7B 출시 — 한국어 포함 10개 언어·97ms 레이턴시 커스텀 보이스","summary":"[TTS] Alibaba의 Qwen3-TTS-1.7B-CustomVoice가 한국어를 포함한 10개 언어를 지원하는 오픈소스 TTS 모델로 공개됐다. 97ms 초저지연 스트리밍 생성을 지원하고, 자연어 명령으로 톤·감정·속도를 제어하는 커스텀 보이스 클로닝 기능을 내장했다. Apache 2.0 라이선스. cocy.io에서 쓸모: 게임 캐릭터별 한국어 커스텀 보이스 생성 및 cocy 녹음 보이스 파인튜닝 파이프라인 대체재로 검토 가치 있음.","category":"ai-tech","source":"HuggingFace / Alibaba Qwen","sourceUrl":"https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice","publishedAt":"2026-06-11T09:00:00+09:00"},{"id":"7","title":"Stable Audio 3, 스냅드래곤 NPU에서 온디바이스 SFX 생성 — ExecuTorch QNN 포팅 공개","summary":"[Edge] Stable Audio 3 Small-SFX 모델이 ExecuTorch + Qualcomm QNN으로 포팅되어 Snapdragon 8 Elite(SM8750) 기기에서 완전 온디바이스 실행이 가능해졌다. DiT 디노이저는 NPU, 인코더/디코더는 CPU(XNNPACK)로 분산 처리하며 16초 SFX를 약 6초에 생성한다. cocy.io에서 쓸모: 모바일 게임에서 서버 없이 사운드 이펙트를 실시간 생성하는 엣지 파이프라인 레퍼런스로 활용 가능.","category":"ai-tech","source":"HuggingFace","sourceUrl":"https://huggingface.co/acul3/stable-audio-3-executorch-qnn-sm8750","publishedAt":"2026-06-11T09:00:00+09:00"},{"id":"8","title":"DreamLite-Mobile ONNX WebGPU — 브라우저에서 4스텝 이미지 생성 번들 공개","summary":"[Image] ByteVision의 DreamLite-Mobile 모델이 ONNX fp16 + WebGPU 브라우저 번들로 공개됐다. 4스텝 증류 UNet + VAE 구성(~750MB)으로, ONNX Runtime Web과 WebGPU만으로 브라우저 내 이미지 생성이 가능하다. 정적 호스팅 배포 가능. cocy.io에서 쓸모: game.cocy.io 게임 내 아이템/캐릭터 이미지 즉석 생성 기능을 서버리스로 구현할 수 있는 브라우저 내장 파이프라인 후보.","category":"ai-tech","source":"HuggingFace","sourceUrl":"https://huggingface.co/dror201031/DreamLite-mobile-ONNX-WebGPU","publishedAt":"2026-06-11T09:00:00+09:00"}]}
+{
+  "date": "2026-06-11",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[속보] 외교부 \"한국 선박 1척 호르무즈 해협 통과 항행 중\"",
+      "summary": "외교부가 한국 선박 1척이 호르무즈 해협을 통과하여 항행 중이라고 밝혔다. 중동 지역 긴장이 고조되는 가운데 한국 선박의 안전 항행 여부에 관심이 쏠리고 있다.",
+      "category": "world",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr",
+      "publishedAt": "2026-06-10T22:55:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "역대급 월드컵 하루 앞으로…한국, 체코와 운명의 첫판",
+      "summary": "FIFA 월드컵 개막을 하루 앞두고 한국 대표팀이 체코와 조별 첫 경기를 치른다. 광달라하라에서 열리는 이번 경기에서 홍명보 감독이 이끄는 태극전사의 첫 승부가 시작된다.",
+      "category": "domestic",
+      "source": "JTBC",
+      "sourceUrl": "https://news.jtbc.co.kr",
+      "publishedAt": "2026-06-10T09:48:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "코스피 외면한 외인, 코스닥은 6조 샀다",
+      "summary": "외국인 투자자들이 코스피는 외면하면서도 코스닥 시장에서는 6조 원어치를 순매수한 것으로 나타났다. 중소형 성장주 중심의 코스닥에 외국인 자금이 유입되며 주목받고 있다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr",
+      "publishedAt": "2026-06-11T04:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Google DeepMind, 온디바이스 실시간 음악 생성 모델 'Magenta RealTime 2' 공개",
+      "summary": "[Audio] Google DeepMind가 저지연 실시간 스트리밍 음악 생성 모델 Magenta RealTime 2를 오픈소스로 공개했다. 코드 Apache 2.0, 모델 웨이트 CC-BY 4.0 라이선스로 상업 활용 가능하며, 온디바이스 스트리밍 제어와 라이브 인터랙티브 음악 생성에 최적화되어 있다. cocy.io에서 쓸모: 게임 BGM 실시간 생성·적응형 사운드트랙 파이프라인의 오픈소스 기반으로 활용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Google DeepMind",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Microsoft, 300ms 초저지연 실시간 TTS 'VibeVoice Realtime 0.5B' 오픈소스 공개",
+      "summary": "[TTS] Microsoft가 0.5B 파라미터 경량 실시간 TTS 모델 VibeVoice Realtime을 Apache 2.0으로 공개했다. 스트리밍 텍스트 입력을 지원하고 첫 오디오 출력까지 약 300ms로 게임·챗봇 실시간 음성 합성에 적합하다. Qwen2.5-0.5B 기반으로 로컬 GPU에서 구동 가능. cocy.io에서 쓸모: 고스톱 등 게임 캐릭터 대사 실시간 TTS나 AI 게임 해설 음성 생성에 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Microsoft",
+      "sourceUrl": "https://huggingface.co/VibeVoice/VibeVoice-Realtime-0.5B",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Alibaba Qwen3-TTS 1.7B 출시 — 한국어 포함 10개 언어·97ms 레이턴시 커스텀 보이스",
+      "summary": "[TTS] Alibaba의 Qwen3-TTS-1.7B-CustomVoice가 한국어를 포함한 10개 언어를 지원하는 오픈소스 TTS 모델로 공개됐다. 97ms 초저지연 스트리밍 생성을 지원하고, 자연어 명령으로 톤·감정·속도를 제어하는 커스텀 보이스 클로닝 기능을 내장했다. Apache 2.0 라이선스. cocy.io에서 쓸모: 게임 캐릭터별 한국어 커스텀 보이스 생성 및 cocy 녹음 보이스 파인튜닝 파이프라인 대체재로 검토 가치 있음.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Alibaba Qwen",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Stable Audio 3, 스냅드래곤 NPU에서 온디바이스 SFX 생성 — ExecuTorch QNN 포팅 공개",
+      "summary": "[Edge] Stable Audio 3 Small-SFX 모델이 ExecuTorch + Qualcomm QNN으로 포팅되어 Snapdragon 8 Elite(SM8750) 기기에서 완전 온디바이스 실행이 가능해졌다. DiT 디노이저는 NPU, 인코더/디코더는 CPU(XNNPACK)로 분산 처리하며 16초 SFX를 약 6초에 생성한다. cocy.io에서 쓸모: 모바일 게임에서 서버 없이 사운드 이펙트를 실시간 생성하는 엣지 파이프라인 레퍼런스로 활용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/acul3/stable-audio-3-executorch-qnn-sm8750",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "DreamLite-Mobile ONNX WebGPU — 브라우저에서 4스텝 이미지 생성 번들 공개",
+      "summary": "[Image] ByteVision의 DreamLite-Mobile 모델이 ONNX fp16 + WebGPU 브라우저 번들로 공개됐다. 4스텝 증류 UNet + VAE 구성(~750MB)으로, ONNX Runtime Web과 WebGPU만으로 브라우저 내 이미지 생성이 가능하다. 정적 호스팅 배포 가능. cocy.io에서 쓸모: game.cocy.io 게임 내 아이템/캐릭터 이미지 즉석 생성 기능을 서버리스로 구현할 수 있는 브라우저 내장 파이프라인 후보.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/dror201031/DreamLite-mobile-ONNX-WebGPU",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Higgs Audio v3 TTS 4B — 100개 언어·인라인 감정 태그·24kHz 오픈소스 TTS",
+      "summary": "[Audio] Boson AI의 Higgs Audio v3 TTS 4B가 100개 이상 언어를 지원하는 4B 파라미터 TTS 모델로 공개됐다. 텍스트 내 <whisper>, <shout>, <sing> 등 인라인 감정·스타일 태그를 직접 삽입해 세밀한 발화 제어가 가능하며 첫 오디오 출력까지 1초 미만, 24kHz 고품질 출력을 지원한다. 8-코드북 AR 디코더 구조. cocy.io에서 쓸모: 게임 캐릭터별 다국어 보이스 생성 및 고스톱 콜 음성 대체·보완 파이프라인으로 즉시 테스트 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Boson AI",
+      "sourceUrl": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "dots.tts — 코덱 토큰 없는 연속 AR TTS, 48kHz 출력, Apache 2.0",
+      "summary": "[Audio] rednote hilab의 dots.tts는 기존 TTS와 달리 이산 코덱 토큰 없이 완전 연속(continuous) AR 방식으로 오디오를 생성하는 2B 파라미터 모델이다. 48kHz AudioVAE 기반이며 Qwen2.5-1.5B 언어모델 백본을 사용. Apache 2.0으로 상업 활용 가능. cocy.io에서 쓸모: 기존 TangoFlux/ACE-Step 파이프라인 대비 고음질 TTS 대안으로 로컬 테스트 가치 있음.",
+      "category": "ai-tech",
+      "source": "GitHub / rednote-hilab",
+      "sourceUrl": "https://github.com/rednote-hilab/dots.tts",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Ideogram 4 오픈 웨이트 출시 — 9.3B DiT, 텍스트 삽입 이미지 오픈소스 1위",
+      "summary": "[Image] Ideogram이 9.3B 파라미터 Flow-Matching DiT 아키텍처 기반의 오픈 웨이트를 최초 공개했다. 네이티브 2K 해상도, JSON 기반 구조적 프롬프트(바운딩 박스·색상 팔레트 지정)를 지원하며 텍스트 삽입 포스터·UI 목업·라벨 다이어그램 생성에서 오픈소스 1위 평가. NF4/FP8 변형 제공. cocy.io에서 쓸모: 게임 UI 자산·프로모션 포스터 생성 파이프라인의 오픈소스 업그레이드 후보.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Ideogram",
+      "sourceUrl": "https://huggingface.co/ideogram-ai",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "MAI-Voice-2 — Microsoft Build 공개 TTS, 제로샷 음성 복제·15개 언어",
+      "summary": "[TTS] Microsoft가 Build 2026에서 공개한 MAI-Voice-2는 5~60초 참조 오디오만으로 제로샷 음성 복제가 가능한 TTS 모델이다. 15개 언어 지원, 인라인 감정 태그(sad/whispered/excited), 힌디-영어·스페인-영어 코드스위칭, 장문 콘텐츠 화자 일관성 유지 기능을 제공. Azure Speech REST API 및 Microsoft Foundry 통해 접근 가능. cocy.io에서 쓸모: cocy 녹음 샘플을 참조 오디오로 사용해 API 기반 게임 캐릭터 보이스 제작 파이프라인 구성 가능.",
+      "category": "ai-tech",
+      "source": "Microsoft AI",
+      "sourceUrl": "https://microsoft.ai/news/mai-voice-2/",
+      "publishedAt": "2026-06-02T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Gemma 4 12B — 구글 엔코더리스 멀티모달 엣지 모델, MLX/ONNX 23종 체크포인트",
+      "summary": "[Edge] Google의 Gemma 4 12B는 텍스트·이미지·오디오·비디오를 모두 처리하는 인코더 없는 Any-to-Any 멀티모달 모델이다. 256k 컨텍스트, 140개 이상 언어, 랩톱 클래스 하드웨어에서 실행 가능한 QAT 기반 MLX/ONNX 체크포인트 23종 동시 공개, Apache 2.0. AIME 2026 77.5 달성. cocy.io에서 쓸모: 로컬 PC에서 게임 자산 설명 생성·다국어 i18n 자동화·유저 입력 분석 등 다목적 엣지 AI 백엔드로 활용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Google",
+      "sourceUrl": "https://huggingface.co/google/gemma-4-12B",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    }
+  ]
+}
