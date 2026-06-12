@@ -1,1 +1,122 @@
-{"date": "2026-06-12", "articles": [{"id": "1", "title": "한화에어로스페이스 대전 사업장 세 번째 폭발사고…사망자 13명", "summary": "한화에어로스페이스 대전 사업장에서 또다시 폭발 사고가 발생했다. 이번이 세 번째 사고로 사망자가 13명에 달한다. 방산업체의 보안 우선 특성이 안전 관리에 부정적으로 작용했다는 지적이 나온다.", "category": "domestic", "source": "KBS 뉴스", "sourceUrl": "https://news.kbs.co.kr/news/pc/main/main.html", "publishedAt": "2026-06-12T00:00:00+09:00"}, {"id": "2", "title": "이재명 대통령 국정지지도 50.6%…민주·국힘 40%대 접전", "summary": "이재명 대통령 국정지지도가 50.6%를 기록했다. 정당 지지율은 민주당 40.4%, 국민의힘 41.6%로 오차범위 내 접전 양상이다. 대통령은 지지율 하락 여론조사를 언급하며 '더 낮은 자세로' 임하겠다고 밝혔다.", "category": "domestic", "source": "연합뉴스", "sourceUrl": "https://www.yna.co.kr/", "publishedAt": "2026-06-12T00:00:00+09:00"}, {"id": "3", "title": "BTS, 부산 'ARIRANG' 월드투어 콘서트 개막…전역 후 첫 그룹 공연", "summary": "BTS가 부산 아시아드 주경기장에서 'ARIRANG' 월드투어 부산 공연을 시작했다. 멤버 전원 전역 후 약 4년 만의 그룹 공연으로, 총 34개 도시 85회 일정이다. 전 세계 팬들이 해운대에 몰리며 도시 전체가 들썩이고 있다.", "category": "domestic", "source": "The Korea Times", "sourceUrl": "https://www.koreatimes.co.kr/", "publishedAt": "2026-06-12T00:00:00+09:00"}, {"id": "4", "title": "MOSS-SoundEffect v2.0: DiT 기반 48kHz 고품질 효과음 생성 모델 오픈소스 공개", "summary": "[Audio] OpenMOSS 팀이 Flow Matching 기법을 적용한 DiT 백본의 텍스트-투-오디오 모델 MOSS-SoundEffect v2.0을 출시했다. 48kHz 스테레오, 최대 30초 한·영 이중언어 효과음 생성을 지원하며 Apache 2.0 라이선스로 무료 사용 가능하다. cocy.io에서 쓸모: TangoFlux 대비 더 긴 SFX 생성(30초)과 한국어 텍스트 프롬프트 지원으로 게임 효과음 파이프라인 업그레이드 후보.", "category": "ai-tech", "source": "GitHub - OpenMOSS/MOSS-TTS", "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS", "publishedAt": "2026-05-26T00:00:00+09:00"}, {"id": "5", "title": "MOSS-TTS v1.5: 다국어 음성 클로닝 안정성 강화·일시정지 마커 지원", "summary": "[Audio] OpenMOSS의 TTS 모델 v1.5 업데이트로 언어 태그 기반 다국어 합성이 강화되고 목소리 클로닝 안정성이 높아졌다. [pause X.Ys] 인라인 마커로 발화 중 명시적 정지 제어가 가능해졌으며 mlx-audio 통한 Apple Silicon 지원도 추가됐다. cocy.io에서 쓸모: 게임 나레이션·NPC 음성 제작 시 한국어 억양과 발화 타이밍을 정밀 제어하는 데 직접 활용 가능.", "category": "ai-tech", "source": "GitHub - OpenMOSS/MOSS-TTS", "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS", "publishedAt": "2026-05-26T00:00:00+09:00"}, {"id": "6", "title": "MOSS-Audio 8B: 음성·환경음·음악 통합 이해 파운데이션 모델, 30B 이상 오픈소스 압도", "summary": "[Audio] OpenMOSS·MOSI.AI·상하이혁신원이 공동 개발한 MOSS-Audio는 음성·환경음·음악을 단일 모델로 이해하는 4B/8B 오픈소스 파운데이션 모델이다. 타임스탬프 인식, 오디오 QA, 복잡한 추론 등을 지원하며 8B Thinking 변형이 30B+ 오픈소스 대비 우수한 성능을 기록했다. cocy.io에서 쓸모: 게임 녹음 오디오 품질 자동 검수, 효과음 캡션 자동 생성, 음성 감정 분류 등 QA 파이프라인에 활용.", "category": "ai-tech", "source": "GitHub - OpenMOSS/MOSS-Audio", "sourceUrl": "https://github.com/OpenMOSS/MOSS-Audio", "publishedAt": "2026-06-01T00:00:00+09:00"}, {"id": "7", "title": "JoyAI-Echo: 5분 분량 멀티샷 비디오+동기화 오디오 동시 생성 오픈소스 공개", "summary": "[Video] JD.com Future Academy가 LTX-2.3 기반 장편 오디오-비주얼 생성 프레임워크 JoyAI-Echo를 GitHub에 공개했다. Cross-modal 메모리 뱅크로 캐릭터 외형·목소리 일관성을 유지하면서 최대 5분 멀티샷 영상을 오디오와 함께 생성한다. ComfyUI 노드도 지원한다. cocy.io에서 쓸모: 게임 트레일러·컷씬 프리프로덕션 영상을 오디오 싱크까지 포함해 한 번에 생성 가능.", "category": "ai-tech", "source": "GitHub - jd-opensource/JoyAI-Echo", "sourceUrl": "https://github.com/jd-opensource/JoyAI-Echo", "publishedAt": "2026-06-06T00:00:00+09:00"}, {"id": "8", "title": "MOSS-TTS-Nano: CPU 4코어로 실시간 TTS 구동하는 ~100M 경량 엣지 음성 모델", "summary": "[Edge] OpenMOSS의 초경량 TTS 모델 MOSS-TTS-Nano(약 100M 파라미터)가 공개됐다. GPU 없이 CPU 4코어만으로 48kHz 스테레오 스트리밍 출력과 다국어 음성 클로닝을 지원해 엣지·모바일 환경에서 바로 쓸 수 있다. cocy.io에서 쓸모: 서버 비용 없이 브라우저/로컬 게임에서 NPC 실시간 TTS를 구동하는 클라이언트사이드 음성 파이프라인 구축에 적합.", "category": "ai-tech", "source": "GitHub - OpenMOSS/MOSS-TTS-Nano", "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS-Nano", "publishedAt": "2026-04-13T00:00:00+09:00"}]}
+{
+  "date": "2026-06-12",
+  "articles": [
+    {
+      "id": "1",
+      "title": "한화에어로스페이스 대전 사업장 세 번째 폭발사고…사망자 13명",
+      "summary": "한화에어로스페이스 대전 사업장에서 또다시 폭발 사고가 발생했다. 이번이 세 번째 사고로 사망자가 13명에 달한다. 방산업체의 보안 우선 특성이 안전 관리에 부정적으로 작용했다는 지적이 나온다.",
+      "category": "domestic",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://news.kbs.co.kr/news/pc/main/main.html",
+      "publishedAt": "2026-06-12T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "이재명 대통령 국정지지도 50.6%…민주·국힘 40%대 접전",
+      "summary": "이재명 대통령 국정지지도가 50.6%를 기록했다. 정당 지지율은 민주당 40.4%, 국민의힘 41.6%로 오차범위 내 접전 양상이다. 대통령은 지지율 하락 여론조사를 언급하며 '더 낮은 자세로' 임하겠다고 밝혔다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/",
+      "publishedAt": "2026-06-12T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "BTS, 부산 'ARIRANG' 월드투어 콘서트 개막…전역 후 첫 그룹 공연",
+      "summary": "BTS가 부산 아시아드 주경기장에서 'ARIRANG' 월드투어 부산 공연을 시작했다. 멤버 전원 전역 후 약 4년 만의 그룹 공연으로, 총 34개 도시 85회 일정이다. 전 세계 팬들이 해운대에 몰리며 도시 전체가 들썩이고 있다.",
+      "category": "domestic",
+      "source": "The Korea Times",
+      "sourceUrl": "https://www.koreatimes.co.kr/",
+      "publishedAt": "2026-06-12T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "MOSS-SoundEffect v2.0: DiT 기반 48kHz 고품질 효과음 생성 모델 오픈소스 공개",
+      "summary": "[Audio] OpenMOSS 팀이 Flow Matching 기법을 적용한 DiT 백본의 텍스트-투-오디오 모델 MOSS-SoundEffect v2.0을 출시했다. 48kHz 스테레오, 최대 30초 한·영 이중언어 효과음 생성을 지원하며 Apache 2.0 라이선스로 무료 사용 가능하다. cocy.io에서 쓸모: TangoFlux 대비 더 긴 SFX 생성(30초)과 한국어 텍스트 프롬프트 지원으로 게임 효과음 파이프라인 업그레이드 후보.",
+      "category": "ai-tech",
+      "source": "GitHub - OpenMOSS/MOSS-TTS",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "MOSS-TTS v1.5: 다국어 음성 클로닝 안정성 강화·일시정지 마커 지원",
+      "summary": "[Audio] OpenMOSS의 TTS 모델 v1.5 업데이트로 언어 태그 기반 다국어 합성이 강화되고 목소리 클로닝 안정성이 높아졌다. [pause X.Ys] 인라인 마커로 발화 중 명시적 정지 제어가 가능해졌으며 mlx-audio 통한 Apple Silicon 지원도 추가됐다. cocy.io에서 쓸모: 게임 나레이션·NPC 음성 제작 시 한국어 억양과 발화 타이밍을 정밀 제어하는 데 직접 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub - OpenMOSS/MOSS-TTS",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "MOSS-Audio 8B: 음성·환경음·음악 통합 이해 파운데이션 모델, 30B 이상 오픈소스 압도",
+      "summary": "[Audio] OpenMOSS·MOSI.AI·상하이혁신원이 공동 개발한 MOSS-Audio는 음성·환경음·음악을 단일 모델로 이해하는 4B/8B 오픈소스 파운데이션 모델이다. 타임스탬프 인식, 오디오 QA, 복잡한 추론 등을 지원하며 8B Thinking 변형이 30B+ 오픈소스 대비 우수한 성능을 기록했다. cocy.io에서 쓸모: 게임 녹음 오디오 품질 자동 검수, 효과음 캡션 자동 생성, 음성 감정 분류 등 QA 파이프라인에 활용.",
+      "category": "ai-tech",
+      "source": "GitHub - OpenMOSS/MOSS-Audio",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-Audio",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "JoyAI-Echo: 5분 분량 멀티샷 비디오+동기화 오디오 동시 생성 오픈소스 공개",
+      "summary": "[Video] JD.com Future Academy가 LTX-2.3 기반 장편 오디오-비주얼 생성 프레임워크 JoyAI-Echo를 GitHub에 공개했다. Cross-modal 메모리 뱅크로 캐릭터 외형·목소리 일관성을 유지하면서 최대 5분 멀티샷 영상을 오디오와 함께 생성한다. ComfyUI 노드도 지원한다. cocy.io에서 쓸모: 게임 트레일러·컷씬 프리프로덕션 영상을 오디오 싱크까지 포함해 한 번에 생성 가능.",
+      "category": "ai-tech",
+      "source": "GitHub - jd-opensource/JoyAI-Echo",
+      "sourceUrl": "https://github.com/jd-opensource/JoyAI-Echo",
+      "publishedAt": "2026-06-06T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "MOSS-TTS-Nano: CPU 4코어로 실시간 TTS 구동하는 ~100M 경량 엣지 음성 모델",
+      "summary": "[Edge] OpenMOSS의 초경량 TTS 모델 MOSS-TTS-Nano(약 100M 파라미터)가 공개됐다. GPU 없이 CPU 4코어만으로 48kHz 스테레오 스트리밍 출력과 다국어 음성 클로닝을 지원해 엣지·모바일 환경에서 바로 쓸 수 있다. cocy.io에서 쓸모: 서버 비용 없이 브라우저/로컬 게임에서 NPC 실시간 TTS를 구동하는 클라이언트사이드 음성 파이프라인 구축에 적합.",
+      "category": "ai-tech",
+      "source": "GitHub - OpenMOSS/MOSS-TTS-Nano",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
+      "publishedAt": "2026-04-13T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "AudioX: 텍스트·비디오·이미지→SFX+음악 통합 생성 DiT 프레임워크 (ICML 2026)",
+      "summary": "[Audio] AudioX는 텍스트, 영상, 이미지, 오디오 등 멀티모달 입력을 하나의 DiT 모델로 받아 효과음과 음악을 동시에 생성하는 통합 프레임워크다. 기존 단일 모달 특화 모델들을 제치고 텍스트-투-오디오·텍스트-투-뮤직 벤치마크를 동시에 압도하며 ICML 2026에 채택됐다. cocy.io에서 쓸모: 게임 씬 영상 캡처→자동 SFX+BGM 동시 생성 파이프라인 구축에 바로 활용 가능.",
+      "category": "ai-tech",
+      "source": "arXiv / OpenReview",
+      "sourceUrl": "https://arxiv.org/abs/2503.10522",
+      "publishedAt": "2026-03-13T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Bonsai Image 4B: 1-bit/Ternary 이미지 생성 모델, 브라우저 WebGPU로 실행",
+      "summary": "[Image][Edge] PrismML의 Bonsai Image 4B는 FLUX.2 Klein 기반의 1-bit(1.1bpw) 및 Ternary(1.7bpw) 이미지 생성 모델이다. DiT 가중치를 8.3배 압축해 1GB 미만으로 만들었으며, HuggingFace Spaces에서 WebGPU 브라우저 데모로 직접 실행 가능하다. cocy.io에서 쓸모: 서버 없이 브라우저 게임 안에서 직접 인게임 이미지/아이템 생성을 사용자에게 제공할 수 있는 클라이언트사이드 파이프라인 가능.",
+      "category": "ai-tech",
+      "source": "PrismML",
+      "sourceUrl": "https://prismml.com/news/bonsai-image-4b",
+      "publishedAt": "2026-06-01T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "FLUX.2 [klein]: 소비자 GPU에서 1초 미만 이미지 생성, 오픈소스 4B 모델",
+      "summary": "[Image] Black Forest Labs가 2026년 1월 공개한 FLUX.2 [klein]은 4B 파라미터로 소비자급 GPU에서 1초 미만 추론을 달성하는 오픈 웨이트 이미지 생성 모델이다. 텍스트-투-이미지, 단일 참조 이미지 편집, 다중 참조 이미지 편집을 단일 아키텍처로 통합했다. cocy.io에서 쓸모: RTX 3080 Ti 환경에서 sub-second 게임 에셋 생성 파이프라인 구축, 현재 SDXL 파이프라인 대체 후보.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs / GitHub",
+      "sourceUrl": "https://github.com/black-forest-labs/flux2",
+      "publishedAt": "2026-01-15T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "Qwen3-TTS: Alibaba 오픈소스 다국어 TTS, 제로샷 음성 클로닝 + 스트리밍 지원",
+      "summary": "[Audio] Alibaba Qwen팀이 공개한 Qwen3-TTS는 멀티링구얼 스트리밍 TTS 모델로, 프리폼 보이스 디자인과 제로샷 음성 클로닝을 지원한다. 감정 표현력이 높고 상업 폐쇄형 TTS에 필적하는 품질을 오픈소스로 제공한다. cocy.io에서 쓸모: 고스톱·게임 NPC 한국어 음성 클로닝 파이프라인에 현재 MOSS-TTS 대비 폭넓은 감정 제어 옵션으로 즉시 교체 검토 가능.",
+      "category": "ai-tech",
+      "source": "GitHub - QwenLM/Qwen3-TTS",
+      "sourceUrl": "https://github.com/QwenLM/Qwen3-TTS",
+      "publishedAt": "2026-01-20T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "Ollama v0.30.0: Flash-Attention 기본 활성화, Qwen3.5 35B MTP 지원",
+      "summary": "[Tool] Ollama v0.30.0에서 Qwen/Gemma 계열에 Flash-Attention이 기본 활성화되어 추론 속도가 크게 향상됐다. Qwen3.5 35B(Native MTP), Kimi-K2.6, GLM-5.1, gpt-oss 등 최신 모델 지원도 추가됐다. cocy.io에서 쓸모: 로컬 Ollama 기반 LLM 파이프라인(번역·요약·게임 AI) 속도 최적화를 위한 즉시 업그레이드 대상.",
+      "category": "ai-tech",
+      "source": "explore.n1n.ai / GitHub Ollama",
+      "sourceUrl": "https://explore.n1n.ai/blog/ollama-v030-qwen35-webgpu-1bit-ai-2026-05-27",
+      "publishedAt": "2026-05-27T00:00:00Z"
+    }
+  ]
+}
