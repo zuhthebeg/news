@@ -1,0 +1,50 @@
+{
+  "date": "2026-06-15",
+  "articles": [
+    {
+      "id": "1",
+      "title": "Stable Audio 3.0 — 오픈웨이트 SFX·음악 생성 모델 패밀리 공개",
+      "summary": "[Audio] Stability AI가 5월 20일 Stable Audio 3.0을 출시했다. Small-SFX(효과음 특화), Small, Medium 3종이 오픈웨이트로 공개됐으며 모두 완전 라이선스 데이터로 학습했다. Small-SFX는 GPU 없이 CPU만으로도 구동되고, Medium은 최대 6분 20초 길이 트랙을 생성한다. 수익 $1M 미만 사업자는 Stability AI Community License로 상업 배포 가능. cocy.io에서 쓸모: 게임 SFX·BGM을 로컬에서 GPU 없이 생성하거나, ACE-Step 대신 Small-SFX로 경량 효과음 파이프라인을 구성할 수 있다.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-20T09:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "dots.tts — Apache 2.0 코덱-프리 TTS, 음성 클로닝 첫 토큰 54ms",
+      "summary": "[Audio] 중국 레드노트(小红书) 산하 Hilab이 6월 9일 dots.tts를 공개했다. 2B 파라미터의 완전 연속형(코덱 토큰 없음) AR TTS로, 48kHz AudioVAE 위에 의미 인코더·LLM·플로우매칭 어쿠스틱 헤드를 결합한다. 짧은 레퍼런스 클립만으로 제로샷 음성 클로닝이 가능하며, 스트리밍 첫 토큰 지연은 54ms다. Apache 2.0으로 상업 이용 가능. cocy.io에서 쓸모: 게임 NPC 대사나 고스톱 콜 음성을 자체 목소리로 클로닝·생성하는 로컬 TTS 파이프라인에 바로 투입 가능하다.",
+      "category": "ai-tech",
+      "source": "GitHub rednote-hilab",
+      "sourceUrl": "https://github.com/rednote-hilab/dots.tts",
+      "publishedAt": "2026-06-09T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "Magenta RealTime 2 — 로컬 실시간 음악 생성, 200ms 레이턴시 오픈웨이트",
+      "summary": "[Audio] Google이 6월 4일 Magenta RealTime 2(MRT2)를 공개했다. 2.4B 기본 모델과 230M 경량 모델 두 종류로, MIDI·텍스트·오디오 입력에 반응해 200ms 미만 레이턴시로 음악을 실시간 합성한다. Small 모델은 MacBook Air급 기기에서 구동된다. pip install magenta-rt로 JAX/MLX 추론 가능. 라이선스 미확인(오픈웨이트 표기만 있음, HuggingFace 페이지 확인 권장). cocy.io에서 쓸모: 게임 플레이 중 분위기에 따라 BGM을 실시간으로 변형하는 인터랙티브 사운드트랙 기능에 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "Google Magenta",
+      "sourceUrl": "https://magenta.withgoogle.com/magenta-realtime-2",
+      "publishedAt": "2026-06-04T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Gemma 4 12B — Apache 2.0 텍스트·이미지·오디오·비디오 any-to-any 로컬 모델",
+      "summary": "[Edge] Google이 6월 3일 Gemma 4 12B를 Apache 2.0으로 공개했다. 별도 인코더 없이 텍스트·이미지·오디오·비디오 패치를 단일 트랜스포머로 처리하는 any-to-any 구조이며, 256K 컨텍스트를 지원한다. 16GB RAM/VRAM 노트북에서 구동 가능하며, QAT 모바일 최적화 버전도 포함된다. Hugging Face, Kaggle, Ollama를 통해 즉시 설치 가능. cocy.io에서 쓸모: 게임 내 스크린샷을 입력해 설명·캡션·사운드 힌트를 생성하는 멀티모달 파이프라인을 클라우드 없이 로컬에서 구성할 수 있다.",
+      "category": "ai-tech",
+      "source": "TechTimes",
+      "sourceUrl": "https://www.techtimes.com/articles/317758/20260604/google-gemma-4-12b-brings-multimodal-ai-16gb-laptops-free-under-apache-20.htm",
+      "publishedAt": "2026-06-03T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "TripoSplat — 이미지 1장으로 3D 가우시안 스플랫 생성, MIT 라이선스",
+      "summary": "[Image] VAST AI(ByteDance)가 TripoSplat를 MIT 라이선스로 공개했다. 단일 2D 이미지를 최대 262,144개 3D 가우시안으로 변환하며, 의존성이 거의 없는 약 2,000줄 경량 코드베이스(transformers·diffusers 불필요)로 설계됐다. ComfyUI v0.23.0에서 바로 사용 가능하고, HuggingFace Space에서 PLY/.splat 파일로 다운로드할 수 있다. cocy.io에서 쓸모: 게임 캐릭터 스프라이트나 오브젝트 이미지를 3D 스플랫으로 변환해 web 기반 3D 뷰어에 임베드하거나 게임 에셋 파이프라인에 통합할 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub VAST-AI-Research",
+      "sourceUrl": "https://github.com/VAST-AI-Research/TripoSplat",
+      "publishedAt": "2026-06-10T00:00:00+09:00"
+    }
+  ]
+}
