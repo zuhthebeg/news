@@ -45,6 +45,51 @@
       "source": "GitHub VAST-AI-Research",
       "sourceUrl": "https://github.com/VAST-AI-Research/TripoSplat",
       "publishedAt": "2026-06-10T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Chatterbox-Turbo — MIT 오픈소스 실시간 TTS, 23개 언어 제로샷 클로닝",
+      "summary": "[TTS] Resemble AI가 공개한 Chatterbox-Turbo(MIT)는 350M 파라미터 경량 모델로 첫 음성 출력까지 200ms 미만이다. 5초 오디오 샘플만으로 제로샷 보이스 클로닝을 지원하며 한국어 포함 23개 언어, 감정 강도 슬라이더, AI 워터마킹(PerTh)을 내장한다. Hugging Face: ResembleAI/chatterbox. cocy.io에서 쓸모: 고스톱 콜 음성 추가 녹음 없이 기존 샘플에서 클로닝해 새 대사를 즉시 생성하거나, NPC 실시간 대사 TTS 파이프라인에 투입 가능하다.",
+      "category": "ai-tech",
+      "source": "Resemble AI",
+      "sourceUrl": "https://github.com/resemble-ai/chatterbox",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "LTX-2.3 — Apache 2.0 로컬 비디오 생성, 오디오 동기화·세로 포맷 지원",
+      "summary": "[Video] Lightricks가 3월 5일 LTX-2.3을 Apache 2.0으로 공개했다. VAE 재설계로 고주파 디테일 보존이 강화됐고, 텍스트 인코더 4배 확장으로 카메라워크·구도 지시 정확도가 올랐다. 최초로 세로 영상(1080×1920) 네이티브 생성을 지원하며, 개선된 HiFi-GAN 보코더(24kHz 스테레오)로 음성·오음 동기화가 타이트해졌다. 연 매출 $10M 미만 사업자 상업 이용 무료. cocy.io에서 쓸모: 게임 프로모 클립·시네마틱 컷씬 로컬 생성, 세로 포맷으로 숏폼 SNS 직출 가능하다.",
+      "category": "ai-tech",
+      "source": "Lightricks / Hugging Face",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3",
+      "publishedAt": "2026-03-05T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "JoyAI-Echo — 5분 멀티샷 오디오-비디오 생성, JD.com 오픈소스",
+      "summary": "[Video] JD.com이 6월 8일 JoyAI-Echo를 HuggingFace에 공개했다. Cross-modal 오디오-비전 메모리 뱅크로 5분 분량 멀티샷 영상 전체에서 캐릭터 외형·목소리를 일관되게 유지하며, DMD 증류로 기존 대비 7.5배 추론 속도를 달성했다. 48GB+ GPU 기준 실시간에 근접한 속도. 라이선스 미확인(오픈소스 공개 명시됐으나 HF 카드 직접 확인 권장). cocy.io에서 쓸모: 게임 스토리 시네마틱을 JSON 샷 리스트로 자동 생성하거나 프로모 영상 다중 씬 일괄 제작 가능하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace jdopensource",
+      "sourceUrl": "https://huggingface.co/jdopensource/JoyAI-Echo",
+      "publishedAt": "2026-06-08T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Wan 2.7 — Alibaba 비디오 생성 Thinking Mode, 퍼스트·라스트 프레임 제어",
+      "summary": "[Video] Alibaba가 4월 출시한 Wan 2.7은 \"Thinking Mode\"를 탑재한 비디오 생성 모델이다. 첫 프레임·끝 프레임 동시 지정, 9-그리드 이미지 입력, 5000자 프롬프트, 영상 편집(InstructEdit) 기능을 포함한다. 라이선스 미확인(Wan 시리즈는 버전마다 상이, HF 카드 직접 확인 권장). cocy.io에서 쓸모: 캐릭터 시작/끝 포즈를 고정하고 자연스러운 모션 중간 영상을 생성하거나 게임 인트로 애니메이션 제작에 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "Alibaba Wan-AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.7-T2V-14B",
+      "publishedAt": "2026-04-06T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "MioTTS-2.6B — Apache 2.0 경량 LLM-기반 TTS, 영어·일본어 제로샷 클로닝",
+      "summary": "[TTS] Aratako가 2월 공개한 MioTTS-2.6B는 Apache 2.0 라이선스의 LLM 기반 TTS로 영어·일본어 제로샷 보이스 클로닝을 지원한다. 경량 구조라 RTX 3080급 GPU에서 실시간에 근접한 속도로 추론 가능하며, 게임·앱 현지화에 적합하다. Hugging Face: Aratako/MioTTS-2.6B. cocy.io에서 쓸모: 지하철주사위 일본어 로컬라이제이션이나 향후 일본 앱스토어 출시 시 NPC/UI 음성을 일본어 TTS로 자동 생성하는 파이프라인에 바로 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace Aratako",
+      "sourceUrl": "https://huggingface.co/Aratako/MioTTS-2.6B",
+      "publishedAt": "2026-02-14T00:00:00+09:00"
     }
   ]
 }
