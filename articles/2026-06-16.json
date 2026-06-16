@@ -27,6 +27,33 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260616029800530",
       "publishedAt": "2026-06-16T08:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Stability AI, Stable Audio 3.0 공개 — SFX·음악 생성 오픈웨이트 패밀리",
+      "summary": "[Audio] Stability AI가 5월 20일 Stable Audio 3.0 패밀리를 공개했다. Small SFX(온디바이스 효과음), Small(단편 음악), Medium(6분 이상 작곡) 3종이 오픈웨이트로 제공되며, 전량 라이선스 취득 데이터로 학습됐다. Stability AI Community License 하에 출력물 상업 이용 가능(연매출 $1M 이하 무료). cocy.io에서 쓸모: Small SFX 모델로 게임 효과음·UI 사운드를 로컬 생성 파이프라인에 바로 투입 가능, TangoFlux 대체 후보로 검토 가치 있음.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-20T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Chatterbox TTS — MIT 라이선스 제로샷 음성 복제, HuggingFace 2만5천 스타",
+      "summary": "[TTS] Resemble AI가 공개한 Chatterbox는 MIT 라이선스 오픈소스 TTS로, 5초 샘플만으로 제로샷 음성 복제가 가능하고 감정 강도 조절이 업계 최초로 지원된다. 500M 파라미터 Llama 백본 기반으로 ElevenLabs 대비 우수한 평가를 받고 있으며, 6월 11일 기준 GitHub 25k 스타로 HuggingFace 트렌딩 상위권. `pip install chatterbox-tts` 한 줄로 설치 가능. cocy.io에서 쓸모: 고스톱·게임 캐릭터 목소리 커스텀 생성 및 다국어 나레이션에 즉시 활용 가능, 상업 이용 제한 없음.",
+      "category": "ai-tech",
+      "source": "GitHub / Resemble AI",
+      "sourceUrl": "https://github.com/resemble-ai/chatterbox",
+      "publishedAt": "2026-06-11T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Microsoft Edge에 온디바이스 AI 내장 — Aion 모델·번역·음성인식 API 공개",
+      "summary": "[Edge] Microsoft가 6월 2일 Edge 148에서 온디바이스 소형 언어 모델 Aion-1.0-Instruct와 번역(Translator)·언어 감지(Language Detector)·음성인식(Web Speech API) 기능을 공개했다. Aion은 Phi-4-mini보다 작고 빠르며 저사양 GPU 및 CPU에서도 동작하는 것을 목표로 한다. Build 2026 발표로 WSL3 NPU 패스스루도 포함. 라이선스 미확인: Aion 모델 오픈소스 공개는 2026년 7월 예정. cocy.io에서 쓸모: game.cocy.io 등 웹게임에 서버리스 온디바이스 추론(번역·챗봇)을 붙일 수 있는 브라우저 내장 AI API 사전 검토 가치 있음.",
+      "category": "ai-tech",
+      "source": "Microsoft Edge Dev Blog",
+      "sourceUrl": "https://blogs.windows.com/msedgedev/2026/06/02/expanding-on-device-ai-in-microsoft-edge-new-models-and-apis-for-the-web/",
+      "publishedAt": "2026-06-02T09:00:00+09:00"
     }
   ]
 }
