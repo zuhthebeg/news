@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-17",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, G7 정상회의 참석…캐나다 카니 총리와 양자회담",
+      "summary": "이재명 대통령이 프랑스에서 열리는 G7 정상회의에 참석해 캐나다 마크 카니 총리와 양자회담을 가졌다. 정상회담에서는 통상·공급망·AI 협력 등 현안을 논의한 것으로 알려졌다.",
+      "category": "domestic",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://www.yonhapnewstv.co.kr/news?ct=1",
+      "publishedAt": "2026-06-17T06:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "이란 재건기금 3천억달러…韓기업 등 절반 이상 출자 약속",
+      "summary": "미국·이란 종전 MOU 합의안에 3천억 달러(약 454조원) 규모의 이란 재건 민간기금 조성 방안이 포함됐으며, 한국 기업을 포함한 글로벌 기업들이 절반 이상의 자금에 출자를 약정한 상태라고 로이터가 보도했다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260617004400071?section=international/all",
+      "publishedAt": "2026-06-17T07:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "종합특검, '김건희 수사무마' 의혹 이창수 전 서울중앙지검장 첫 소환",
+      "summary": "2차 종합특검이 도이치모터스 주가조작 수사 무마 의혹과 관련해 이창수 전 서울중앙지검장을 허위공문서 작성 등 혐의 피의자 신분으로 첫 소환 조사했다.",
+      "category": "domestic",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://www.yonhapnewstv.co.kr/news?ct=1",
+      "publishedAt": "2026-06-17T10:00:00+09:00"
+    }
+  ]
+}
