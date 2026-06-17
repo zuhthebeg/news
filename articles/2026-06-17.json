@@ -45,6 +45,33 @@
       "source": "JD.com / GitHub",
       "sourceUrl": "https://github.com/jd-opensource/JoyAI-VL-Interaction",
       "publishedAt": "2026-06-17T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Qwen3-TTS — Apache-2.0 제로샷 음성 복제, 한국어 포함 10개 언어 로컬 구동",
+      "summary": "[Audio] Alibaba Qwen 팀이 공개한 0.6B~1.7B 경량 TTS 모델. 3초 레퍼런스 오디오만으로 제로샷 음성 복제가 가능하며, 한국어·일본어·중국어 등 10개 언어를 지원한다. 자연어 인스트럭션으로 감정(분노·기쁨·슬픔)을 제어할 수 있고, Apache-2.0 라이선스로 상업 이용이 가능하다. cocy.io에서 쓸모: 고스톱 캐릭터 음성·게임 내 내레이션을 별도 녹음 없이 로컬에서 제로샷 생성할 수 있는 현실적 대안.",
+      "category": "ai-tech",
+      "source": "Qwen / Alibaba",
+      "sourceUrl": "https://github.com/QwenLM/Qwen3-TTS",
+      "publishedAt": "2026-01-22T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Transformers.js v4 — WebGPU C++ 재작성, 브라우저에서 20B 모델 60 tokens/sec",
+      "summary": "[Edge] Hugging Face가 WebGPU 런타임을 C++로 전면 재작성한 Transformers.js v4를 출시했다. 200개 이상 모델 아키텍처를 GPU 가속으로 브라우저에서 실행 가능하며 M4 Pro 기준 20B 모델이 약 60 tokens/sec를 기록했다. Node.js·Bun·Deno도 동일 코드베이스로 지원하며 Apache-2.0 라이선스다. cocy.io에서 쓸모: game.cocy.io 웹 게임에 서버 없이 AI 기능(텍스트 생성·이미지 처리·오디오)을 브라우저 인라인으로 내장할 수 있는 핵심 라이브러리.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/transformersjs-v4",
+      "publishedAt": "2026-02-09T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Microsoft VibeVoice — MIT, 4인 화자 90분 연속 TTS + 실시간 0.5B 변형",
+      "summary": "[Audio] Microsoft가 MIT 라이선스로 공개한 장형(長形) 멀티스피커 TTS 프레임워크. 1.5B 모델로 4명 화자 90분 분량 음성을 단일 패스로 생성하며, 실시간 변형 VibeVoice-Realtime-0.5B는 첫 음성 출력까지 300ms 이하를 달성한다. 영어·중국어 기반이나 교차 언어 합성도 지원한다. cocy.io에서 쓸모: 고스톱 멀티플레이어 게임 해설·NPC 다화자 대사·게임 팟캐스트형 콘텐츠 파이프라인에 바로 붙일 수 있는 MIT 오픈소스.",
+      "category": "ai-tech",
+      "source": "Microsoft / Hugging Face",
+      "sourceUrl": "https://huggingface.co/microsoft/VibeVoice-1.5B",
+      "publishedAt": "2025-08-25T00:00:00+09:00"
     }
   ]
 }
