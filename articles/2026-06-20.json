@@ -27,6 +27,42 @@
       "source": "SBS",
       "sourceUrl": "https://news.sbs.co.kr/",
       "publishedAt": "2026-06-19T22:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "MOSS-SoundEffect-v2.0: Apache 2.0 오픈소스 효과음 생성 모델 출시",
+      "summary": "[Audio] OpenMOSS가 48kHz 양언어(영·중) 효과음을 최대 30초까지 텍스트로 생성하는 MOSS-SoundEffect-v2.0을 2026년 5월 26일 공개했다. DiT 백본과 Flow Matching 기법을 사용하며, MLX 양자화 버전(4-bit)도 HuggingFace에 제공된다. Apache 2.0 상업 허용 라이선스로, cocy.io 게임 SFX 파이프라인에 TangoFlux 대체재로 바로 투입 가능하다.",
+      "category": "ai-tech",
+      "source": "OpenMOSS GitHub",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-05-26T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Chatterbox-Turbo: MIT 라이선스 경량 TTS, 파라언어 태그 지원",
+      "summary": "[TTS] Resemble AI가 350M 파라미터 경량 TTS 모델 Chatterbox-Turbo를 HuggingFace에 공개했다. [laugh], [cough], [chuckle] 등 파라언어 태그를 네이티브 지원하며, 디코더를 10스텝→1스텝으로 증류해 초저지연 응답이 가능하다. MIT 라이선스 상업 허용으로, cocy.io 게임 캐릭터 더빙·고스톱 콜 음성 생성 등에 로컬 TTS 파이프라인으로 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace - ResembleAI/chatterbox-turbo",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox-turbo",
+      "publishedAt": "2026-05-01T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "FLUX.2 Klein 4B: Apache 2.0 이미지 생성, RTX 3080에서 1초 이내",
+      "summary": "[Image] Black Forest Labs가 2026년 1월 15일 출시한 FLUX.2 Klein 4B는 Apache 2.0 라이선스의 경량 이미지 생성 모델이다. RTX 3080 기준 약 1.2초 만에 4MP 이미지를 생성하며 VRAM 8.4GB로 동작한다. T2I·I2I·멀티레퍼런스 편집을 단일 모델로 지원해, cocy.io 게임 에셋·프로모션 이미지 파이프라인에 현재 LuminarQMix SDXL 대비 빠른 대안이 된다. (단, 9B 모델은 비상업 라이선스이므로 4B만 사용할 것)",
+      "category": "ai-tech",
+      "source": "Black Forest Labs",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "publishedAt": "2026-01-15T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "LFM2.5: 온디바이스·브라우저 에이전트용 경량 하이브리드 모델",
+      "summary": "[Edge] Liquid AI가 공개한 LFM2.5 시리즈는 에지 배포를 위한 하이브리드 아키텍처 모델이다. 1.2B~8B 라인업을 갖추며, 브라우저에서 WebGPU로 실행 가능한 1.2B 버전은 transformers-js 플레이그라운드에서 WebMCP 툴 콜링(navigator.modelContext)까지 지원한다. 라이선스 미확인(HuggingFace 카드에서 반드시 직접 확인 필요). cocy.io 게임의 클라이언트사이드 AI NPC·추천 기능에 서버 없이 적용 가능한 후보다.",
+      "category": "ai-tech",
+      "source": "Liquid AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
+      "publishedAt": "2026-01-06T00:00:00+09:00"
     }
   ]
 }
