@@ -63,6 +63,51 @@
       "source": "Liquid AI / HuggingFace",
       "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-8B-A1B",
       "publishedAt": "2026-01-06T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "ByteDance Bernini 전체 오픈소스화 — Apache 2.0 통합 비디오 생성·편집 프레임워크",
+      "summary": "[Video] ByteDance가 6월 11일 Bernini 전체 코드·가중치를 Apache 2.0으로 공개했다(렌더러 Bernini-R은 6월 1일 선공개). MLLM 시맨틱 플래너 + DiT 렌더러 구조로 text-to-image, text-to-video, 인스트럭션 편집, 레퍼런스 기반 편집(의상교체·피사체 삽입)을 단일 모델로 처리하며 신원 보존 품질이 강점이다. 기본 출력 480p/16fps. cocy.io에서 쓸모: 게임 캐릭터 레퍼런스 기반 홍보 영상·트레일러 자동 생성 파이프라인 구축에 활용 가능.",
+      "category": "ai-tech",
+      "source": "ByteDance / GitHub",
+      "sourceUrl": "https://github.com/bytedance/Bernini",
+      "publishedAt": "2026-06-11T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "LocalAI June 2026 — CrispASR 백엔드·Piper TTS 60보이스·리얼타임 음성 데모 대형 업데이트",
+      "summary": "[Tool] 로컬 올인원 AI 엔진 LocalAI가 6월에 음성 스택을 대폭 강화했다. 신규 CrispASR 백엔드(멀티아키텍처 ASR+TTS), parakeet.cpp 동적배치·CUDA 그래프 최적화, 42개 언어 60개 Piper TTS 보이스 갤러리 추가, 리얼타임 WebRTC 음성 어시스턴트 데모 공개가 포함된다. Apache 2.0. cocy.io에서 쓸모: RTX 3080 Ti 로컬 서버에서 SFX/TTS/ASR 전 파이프라인을 API 비용 없이 단일 LocalAI 인스턴스로 통합 운영 가능.",
+      "category": "ai-tech",
+      "source": "LocalAI GitHub",
+      "sourceUrl": "https://github.com/mudler/LocalAI",
+      "publishedAt": "2026-06-15T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Chatterbox Multilingual 2.0 — MIT 라이선스 TTS 23개 언어 지원으로 확장",
+      "summary": "[TTS] Resemble AI의 Chatterbox가 Multilingual 2.0으로 업데이트되며 아랍어·중국어·힌디어 등 23개 언어 지원을 추가했다. 5초 레퍼런스 음성으로 제로샷 보이스 클로닝, <200ms 지연, 감정 강도 파라미터 유지. ElevenLabs 블라인드 테스트 63.75% 선호. MIT 라이선스. cocy.io에서 쓸모: 고스톱 음성 더빙 파이프라인에 한국어(기존)+추가 언어 병행 생성, 다국어 게임 현지화 TTS 로컬 대체재로 즉시 투입 가능.",
+      "category": "ai-tech",
+      "source": "Resemble AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "MiniMax Music-2.6 — BGM 생성 API 업데이트, 커버·베이스 강화",
+      "summary": "[Audio] MiniMax가 4월 Music-2.6을 출시하며 커버곡 생성(Cover Reborn)과 베이스 표현력(Bass Redefined)을 강화했다. 텍스트·음악·이미지·영상 사용량이 동일 토큰 풀로 통합 과금되며, API는 platform.minimax.io에서 즉시 사용 가능. 상업 허용(유료 API 플랜). cocy.io에서 쓸모: ACE-Step 로컬 생성이 여의치 않을 때 게임 BGM을 API로 빠르게 프로토타이핑, 동일 플랜에서 TTS(Speech-2.8)와 비디오(Hailuo)까지 묶어 쓸 수 있어 비용 효율적.",
+      "category": "ai-tech",
+      "source": "MiniMax",
+      "sourceUrl": "https://platform.minimax.io/docs/api-reference/music-generation",
+      "publishedAt": "2026-04-01T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Wan 2.1 (Alibaba) — Apache 2.0 T2V·I2V 오픈소스, HuggingFace Diffusers 지원",
+      "summary": "[Video] Alibaba의 Wan 2.1이 Apache 2.0 라이선스로 GitHub·HuggingFace에 공개됐다. 텍스트-투-비디오·이미지-투-비디오를 모두 지원하며 HuggingFace Diffusers와 네이티브 통합돼 파이프라인 구성이 간단하다. 상업 허용 라이선스. cocy.io에서 쓸모: 게임 스크린샷(이미지)을 입력으로 짧은 클립 자동 생성, 스토어 프로모션 영상 I2V 파이프라인에 로컬 GPU로 비용 없이 활용 가능.",
+      "category": "ai-tech",
+      "source": "Alibaba / HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.1-T2V-14B",
+      "publishedAt": "2026-05-01T00:00:00+09:00"
     }
   ]
 }
