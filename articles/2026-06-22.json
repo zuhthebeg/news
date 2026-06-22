@@ -72,6 +72,51 @@
       "source": "Hugging Face / Princeton",
       "sourceUrl": "https://huggingface.co/zlab-princeton/i1-3B",
       "publishedAt": "2026-06-13T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Zyphra, MoE TTS 모델 'ZONOS2' 공개 — 6M 시간 학습, 한국어 Tier 2 지원",
+      "summary": "[Audio] Zyphra가 600만 시간 다국어 음성으로 학습한 MoE 구조의 TTS 모델 ZONOS2를 Apache 2.0으로 공개했다. 한국어는 Tier 2(WER 5% 이하)로 지원하며, 로컬 NVIDIA GPU에서 Mini-SGLang 기반 고성능 추론 서버를 직접 실행할 수 있다. 상업 이용 가능(Apache 2.0). cocy.io에서 쓸모: 고스톱·게임 캐릭터 한국어 음성 합성을 로컬 GPU로 돌릴 수 있는 TTS 백엔드 후보로, 기존 ElevenLabs API 의존도를 줄일 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Zyphra",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS2",
+      "publishedAt": "2026-06-13T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "OpenMOSS, 48kHz 스테레오 로컬 TTS 'MOSS-TTS-Local-Transformer-v1.5' 공개",
+      "summary": "[Audio] 복단대학교 OpenMOSS팀이 제로샷 음성 클로닝·장문 생성·한국어 등 40+ 언어를 48kHz 네이티브 스테레오로 지원하는 MOSS-TTS-Local-Transformer-v1.5(5B)를 공개했다. v1.5에서 MOSS-Audio-Tokenizer-v2로 업그레이드해 공간감 있는 오디오 품질을 제공한다. 라이선스 미확인 — 상업 이용 전 HuggingFace 카드 확인 필요. cocy.io에서 쓸모: 게임 NPC 대사를 48kHz 스테레오로 생성하고 토큰 레벨 듀레이션 컨트롤로 입 모양 싱크를 맞추는 고품질 로컬 TTS 파이프라인 구축 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / OpenMOSS",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-Local-Transformer-v1.5",
+      "publishedAt": "2026-06-18T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "zai-org, 엔드투엔드 캐릭터 애니메이션 모델 'SCAIL-2' MIT로 공개",
+      "summary": "[Video] zai-org가 중간 포즈 표현 없이 드라이빙 영상만으로 레퍼런스 캐릭터를 애니메이션하는 SCAIL-2를 MIT 라이선스로 공개했다. 크로스 아이덴티티 캐릭터 교체, 동물 드라이빙, SAM3D 메시 렌더링 연동 등 이머전트 능력을 보이며 512p·704p 해상도를 지원한다. 상업 이용 가능(MIT). cocy.io에서 쓸모: 2D 캐릭터 이미지에서 짧은 레퍼런스 영상만으로 게임 컷신·SNS 프로모 영상을 자동 생성하는 파이프라인 구축에 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / zai-org",
+      "sourceUrl": "https://huggingface.co/zai-org/SCAIL-2",
+      "publishedAt": "2026-06-19T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "fal.ai, LTX-2.3용 오디오 리액티브 영상 LoRA v2 공개 — 박자·베이스에 동기화",
+      "summary": "[Video] fal.ai가 킥·베이스·스네어·신스 변화에 반응해 파티클·카메라·조명이 음악에 맞게 움직이는 LTX-2.3 Audio Reactive LoRA v2를 공개했다. v2에서 비트 충격 강도·모션 응답성이 대폭 개선됐으며 diffusers 호환 safetensors로 로컬에서도 적용 가능하다. 라이선스 미확인(license:other) — 상업 이용 전 fal.ai 약관 확인 필요. cocy.io에서 쓸모: BeatTap·리듬 게임 결과 화면에 음악 반응형 영상 이펙트를 자동 생성하는 트레일러/SNS 콘텐츠 파이프라인에 적합.",
+      "category": "ai-tech",
+      "source": "Hugging Face / fal.ai",
+      "sourceUrl": "https://huggingface.co/fal/ltx2.3-audio-reactive-lora",
+      "publishedAt": "2026-06-15T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "MiniT2I: MIT 라이선스 경량 텍스트→이미지 디퓨전 모델 (B/16·L/16 duet)",
+      "summary": "[Image] MiniT2I팀이 diffusers 호환 텍스트→이미지 모델 MiniT2I-B/16(소형)·L/16(대형)을 MIT 라이선스로 공개했다. DiffusionPipeline 한 줄로 로드할 수 있으며 두 사이즈를 동일 체크포인트에서 model_type 인자만 바꿔 전환 가능하다. 상업 이용 가능(MIT). cocy.io에서 쓸모: game.cocy.io 게임용 아이콘·UI 아트 등 소량 에셋을 빠르게 프로토타이핑하는 로컬 SDXL 대안으로, MIT라 파생 파이프라인 배포도 자유로움.",
+      "category": "ai-tech",
+      "source": "Hugging Face / MiniT2I",
+      "sourceUrl": "https://huggingface.co/MiniT2I/MiniT2I",
+      "publishedAt": "2026-06-16T00:00:00+09:00"
     }
   ]
 }
