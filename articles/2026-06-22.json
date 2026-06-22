@@ -27,6 +27,51 @@
       "source": "MBN",
       "sourceUrl": "https://www.mbn.co.kr/news/society/5201101",
       "publishedAt": "2026-06-22T08:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Google DeepMind, 온디바이스 실시간 음악 생성 모델 'Magenta RealTime 2' 공개",
+      "summary": "[Audio] Google DeepMind가 기기 내에서 저지연 스트리밍 음악 생성이 가능한 Magenta RealTime 2를 공개했다. 텍스트·오디오·MIDI로 음악을 실시간 제어할 수 있으며, Apache 2.0(코드) + CC-BY 4.0(가중치) 라이선스로 상업 이용 가능. cocy.io에서 쓸모: 웹 게임 BGM을 브라우저에서 실시간으로 생성·전환하는 인터랙티브 사운드트랙 시스템 구현에 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Google DeepMind",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-06-05T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Stability AI, Stable Audio 3 Medium·SFX 모델 가중치 공개 — 소비자 GPU서 수초 만에 생성",
+      "summary": "[Audio] Stability AI가 음악·SFX·오디오 편집이 가능한 Stable Audio 3 패밀리(Small/Medium) 가중치를 오픈소스 공개했다. 2B 파라미터 Medium 모델이 MacBook M4 기준 수초, H200 기준 2초 이내로 생성하며 인페인팅(구간 편집)도 지원한다. 연 매출 $1M 미만은 Stability AI Community 라이선스로 무료 상업 이용 가능. cocy.io에서 쓸모: 기존 ACE-Step 파이프라인 대신 SFX 전용 0.6B Small 모델로 게임 효과음 생성 비용을 대폭 줄일 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Stability AI",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-medium",
+      "publishedAt": "2026-06-17T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "AudioX-Turbo: 텍스트·영상→오디오 4스텝 초고속 생성 프레임워크 (HKUST/NoizAI)",
+      "summary": "[Audio] HKUST·NoizAI 연구팀이 텍스트, 영상, 오디오를 복합 입력으로 받아 단 4스텝에 오디오를 생성하는 AudioX-Turbo를 공개했다. 기존 멀티스텝 베이스라인 대비 최대 25배 빠른 추론 속도를 달성한다. 라이선스 미확인 — 상업 이용 전 GitHub 확인 필요. cocy.io에서 쓸모: 게임 영상 클립에서 자동으로 효과음·BGM을 합성하는 V2A(Video-to-Audio) 파이프라인 구축에 적합.",
+      "category": "ai-tech",
+      "source": "arXiv / GitHub",
+      "sourceUrl": "https://github.com/NoizAI/AudioX-Turbo",
+      "publishedAt": "2026-06-17T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Xiaomi Research, 음성·음악·SFX·환경음 통합 생성 모델 'Dasheng-AudioGen' 공개",
+      "summary": "[Audio] Xiaomi Research의 mispeech팀이 음성·음악·SFX·환경음을 단일 모델에서 구조적 프롬프트 태그(<|speech|>, <|sfx|>, <|music|>, <|env|>)로 혼합 생성하는 Dasheng-AudioGen(2B)을 공개했다. 다국어 TTS와 장면 전체 오디오 믹스를 한 번에 처리할 수 있다. 라이선스 미확인 — 상업 이용 전 GitHub 확인 필요. cocy.io에서 쓸모: 게임 씬 설명 하나로 배경음·효과음·캐릭터 목소리를 동시에 생성하는 통합 오디오 에셋 파이프라인 구축에 유용.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Xiaomi Research",
+      "sourceUrl": "https://huggingface.co/mispeech/Dasheng-AudioGen",
+      "publishedAt": "2026-06-16T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Princeton, 3B 완전공개 텍스트→이미지 모델 'i1' 공개 — FLUX급 성능",
+      "summary": "[Image] Princeton University zlab이 3B 파라미터 텍스트→이미지 디퓨전 모델 i1을 모델·코드·학습 데이터 전부 공개했다. GenEval·DPG-Bench 등 5개 벤치마크 평균에서 주요 오픈웨이트 모델들과 경쟁하는 성능을 보인다. 라이선스 미확인 — \"fully open\" 명시했으나 공식 라이선스 파일 확인 권장. cocy.io에서 쓸모: 로컬 RTX 3080 Ti에서 가볍게 돌릴 수 있는 게임 캐릭터·아이템 이미지 생성 파이프라인 후보로 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Princeton",
+      "sourceUrl": "https://huggingface.co/zlab-princeton/i1-3B",
+      "publishedAt": "2026-06-13T00:00:00+09:00"
     }
   ]
 }
