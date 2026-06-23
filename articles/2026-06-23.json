@@ -27,6 +27,42 @@
       "source": "한국경제",
       "sourceUrl": "https://n.news.naver.com/mnews/article/015/0005301665?sid=101",
       "publishedAt": "2026-06-23T09:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Chatterbox V3 — MIT 라이선스 다국어 TTS·보이스 클로닝 모델 업데이트",
+      "summary": "[TTS] Resemble AI가 오픈소스 TTS 패밀리 Chatterbox의 최신작 Multilingual V3를 공개했다. 0.5B 파라미터로 23개 이상 언어를 지원하며, 이전 버전 대비 화자 유사도 향상·환각 감소·자연스러운 감정 표현이 개선됐다. 저지연 영어 특화 Chatterbox-Turbo도 함께 릴리즈. 라이선스: MIT. cocy.io에서 쓸모: 게임 NPC 대사·UI 음성 안내를 서버리스로 로컬 생성하거나, 고스톱 콜 음성 추가 녹음 대신 AI TTS 파이프라인으로 대체 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / ResembleAI",
+      "sourceUrl": "https://github.com/resemble-ai/chatterbox",
+      "publishedAt": "2026-06-10T21:16:06+09:00"
+    },
+    {
+      "id": "5",
+      "title": "DreamX-World-5B — 게임 영상 기반 인터랙티브 월드 생성 모델 오픈소스 공개",
+      "summary": "[Video] AMAP-ML(알리바바)이 게임플레이 영상·Unreal Engine 데이터로 학습한 인터랙티브 월드 생성 모델 DreamX-World를 6월 15일 오픈소스화했다. 5B 파라미터 모델이 키보드 방향키 액션+텍스트 프롬프트로 최대 1분 분량의 고화질 게임 월드 영상을 생성한다. Wan2.2-TI2V(Apache-2.0) 기반 파인튜닝, 모델 자체는 MIT 라이선스. cocy.io에서 쓸모: 게임 트레일러·홍보용 플레이 영상을 실제 게임 없이 프롬프트만으로 생성하는 파이프라인 실험 가능.",
+      "category": "ai-tech",
+      "source": "GitHub / AMAP-ML",
+      "sourceUrl": "https://github.com/AMAP-ML/DreamX-World",
+      "publishedAt": "2026-06-15T09:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Wan2.2 — MoE 아키텍처 탑재 오픈소스 영상 생성 모델, Apache-2.0 공개",
+      "summary": "[Video] 알리바바 Wan 팀이 Wan2.2를 공개했다. 기존 Wan2.1 대비 학습 데이터를 이미지 +65%, 영상 +83% 확대하고 Mixture-of-Experts 구조를 도입해 계산 비용 유지하면서 모델 용량을 키웠다. Text-to-Video·Image-to-Video 모두 지원하며, 오픈소스 모델 중 최상위 성능을 자체 평가. 라이선스: Apache-2.0. cocy.io에서 쓸모: game.cocy.io 신규 게임 홍보 컷신·배너 영상을 텍스트 프롬프트로 직접 생성하는 로컬 파이프라인 구축에 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub / Wan-Video",
+      "sourceUrl": "https://github.com/Wan-Video/Wan2.2",
+      "publishedAt": "2026-06-20T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "TRELLIS — 이미지 한 장으로 PBR 3D 게임 에셋 생성, MIT 오픈소스",
+      "summary": "[Image] Microsoft가 공개한 TRELLIS는 단일 이미지를 입력받아 Production-grade PBR(Physical Based Rendering) 3D 메시를 출력하는 이미지-to-3D 모델이다. HuggingFace에서 다운로드 수 111만을 넘겼으며 게임 에셋 파이프라인에 바로 투입 가능한 포맷으로 내보낸다. 라이선스: MIT. cocy.io에서 쓸모: 2D 게임 캐릭터나 아이템 스프라이트를 TRELLIS로 3D화해 WebGL 기반 3D 게임이나 홍보 썸네일에 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Microsoft",
+      "sourceUrl": "https://huggingface.co/microsoft/TRELLIS-image-large",
+      "publishedAt": "2024-12-06T16:39:24+09:00"
     }
   ]
 }
