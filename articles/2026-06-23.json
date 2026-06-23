@@ -63,6 +63,51 @@
       "source": "HuggingFace / Microsoft",
       "sourceUrl": "https://huggingface.co/microsoft/TRELLIS-image-large",
       "publishedAt": "2024-12-06T16:39:24+09:00"
+    },
+    {
+      "id": "8",
+      "title": "ZONOS2 — Apache-2.0 MoE TTS, 6백만 시간 학습, 한국어 포함 40+ 언어 보이스 클로닝",
+      "summary": "[TTS] Zyphra가 ZONOS2를 공개했다. 6백만 시간의 다국어 음성으로 학습한 MoE 기반 TTS로 상위 상용 TTS 수준의 음질을 로컬에서 구현한다. 한국어는 Tier 2로 지원되며 ECAPA-TDNN 임베딩 기반 보이스 클로닝, Mini-SGLang 서버로 저지연 인퍼런스 가능. 라이선스: Apache-2.0. cocy.io에서 쓸모: 고스톱 한국어 콜 음성 추가 생성, 게임 NPC 음성 파이프라인 구축에 상업적으로 바로 투입 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Zyphra",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS2",
+      "publishedAt": "2026-06-23T03:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "PRXPixel — Photoroom, Apache-2.0 픽셀 스페이스 7B 텍스트→이미지 모델 공개",
+      "summary": "[Image] Photoroom이 VAE 없는 픽셀 스페이스 diffusion 모델 PRXPixel을 공개했다. 7B 파라미터, Qwen3-VL 텍스트 인코더, FlowMatch 스케줄러로 구성. 별도 VAE 없이 RGB 직접 디노이즈하는 구조라 추론 파이프라인이 단순하다. 라이선스: Apache-2.0. cocy.io에서 쓸모: 게임 캐릭터 아트·프로모션 이미지 생성 파이프라인에 SDXL 대체 또는 보완용으로 테스트 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Photoroom",
+      "sourceUrl": "https://huggingface.co/Photoroom/prxpixel-t2i",
+      "publishedAt": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Stable Audio 3 Medium — 2B 오디오 생성·인페인팅, M4 MacBook에서 수 초 내 완성",
+      "summary": "[Audio] StabilityAI가 Stable Audio 3 패밀리(small/medium)를 오픈 웨이트로 공개했다. 2B 모델이 H200에서 2초 내, M4 MacBook에서도 수 초 내 생성 완료. 음악·SFX·인페인팅·분 단위 가변 길이 생성 지원. CC 및 라이선스 음원으로 학습. 라이선스: stability.ai 상업 라이선스 별도 agreement 필요(라이선스 미확인). cocy.io에서 쓸모: RTX 3080 Ti 로컬에서 게임 BGM·SFX 생성, 기존 ACE-Step/TangoFlux 파이프라인 비교 실험.",
+      "category": "ai-tech",
+      "source": "HuggingFace / StabilityAI",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-medium",
+      "publishedAt": "2026-06-17T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "Dasheng-AudioGen — XiaoMi Research, 2B 통합 오디오 생성(음성+음악+SFX+환경음)",
+      "summary": "[Audio] XiaoMi Research mispeech 팀이 Dasheng-AudioGen을 공개했다. 단일 2B 모델로 스피치·음악·SFX·환경음을 구조화 태그(<|caption|>, <|sfx|>, <|music|> 등)로 동시 제어 생성. 다국어 지원, transformers 4.x 기반. 라이선스 미확인(XiaoMi Research 공개 레포, HF 라이선스 메타 미기재). cocy.io에서 쓸모: 배경음+SFX+보이스를 태그 하나로 믹싱 출력하는 게임 오디오 파이프라인 가능성 실험.",
+      "category": "ai-tech",
+      "source": "HuggingFace / mispeech",
+      "sourceUrl": "https://huggingface.co/mispeech/Dasheng-AudioGen",
+      "publishedAt": "2026-06-16T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "google/magenta-realtime-2 — 구글, 실시간 오디오 생성 모델 2세대 HF 공개",
+      "summary": "[Audio/Edge] Google Magenta 팀이 magenta-realtime-2를 HuggingFace에 공개했다. 실시간 오디오 생성에 특화된 경량 모델로 2B 크기. 18일 전 업데이트, 다운로드 3.3만. 라이선스 미확인(Google 모델, Apache-2.0 가능성 높으나 HF 메타 미기재). cocy.io에서 쓸모: 브라우저 또는 엣지에서 게임 리얼타임 오디오 반응 생성 실험 기회, WebAudio API 연동 가능성 탐색.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Google Magenta",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-06-05T00:00:00Z"
     }
   ]
 }
