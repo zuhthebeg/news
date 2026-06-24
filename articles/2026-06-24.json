@@ -1,0 +1,32 @@
+{
+  "date": "2026-06-24",
+  "articles": [
+    {
+      "id": "1",
+      "title": "정청래 이르면 오늘 사퇴…당권 레이스 개막",
+      "summary": "더불어민주당 정청래 대표가 이르면 24일 대표직을 사퇴하고 8·17 전당대회 연임 도전에 나설 것으로 보이며, 당내 견제 움직임도 커지고 있다.",
+      "category": "domestic",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/422/0000877800",
+      "publishedAt": "2026-06-24T06:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "내년 최저임금 인상률 본격 논의…노사 최초 요구안 공개",
+      "summary": "최저임금위원회가 제8차 전원회의를 열고 2027년 최저임금 인상률 논의에 착수했다. 노동계는 올해 1만 32원 대비 인상안을 제출했으며 노사 간 본격 협상이 시작됐다.",
+      "category": "economy",
+      "source": "MBC",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/214/0001507245",
+      "publishedAt": "2026-06-24T07:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "김민석 총리, 리창에 \"남북·북미대화에 중국 역할 필요\"",
+      "summary": "중국을 방문 중인 김민석 국무총리가 리창 중국 국무원 총리에게 한반도 대화 재개를 위한 중국의 역할을 요청했고, 리 총리는 공감을 표했다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/014/0005538744",
+      "publishedAt": "2026-06-24T07:30:00+09:00"
+    }
+  ]
+}
