@@ -27,6 +27,42 @@
       "source": "파이낸셜뉴스",
       "sourceUrl": "https://n.news.naver.com/mnews/article/014/0005538744",
       "publishedAt": "2026-06-24T07:30:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Stable Audio 3.0 오픈웨이트 출시 — SFX·음악 온디바이스 생성",
+      "summary": "[Audio] Stability AI가 2026년 5월 20일 Stable Audio 3.0을 공개했다. Small SFX·Small·Medium 3종이 오픈웨이트로 제공되며, 라이선스 취득 데이터로 학습해 출력물 상업 사용이 가능하다(Stability AI Community License). Small SFX는 모바일·노트북 온디바이스에서 텍스트 프롬프트로 게임 효과음부터 앰비언트 사운드까지 생성 가능하며 LoRA 파인튜닝도 지원된다. cocy.io에서 쓸모: 고스톱·jokerrun 등 게임의 SFX를 TangoFlux 없이 온디바이스로 빠르게 생성하는 대안 파이프라인으로 검토 가능.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-20T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Gemma 4 12B — Apache 2.0 멀티모달 온디바이스 모델 공개",
+      "summary": "[Edge] Google DeepMind가 2026년 6월 3일 Gemma 4 12B를 발표했다. Apache 2.0 라이선스로 상업 활용 가능하며 텍스트·이미지·비디오·오디오를 단일 디코더 아키텍처로 처리한다. 16GB VRAM 노트북에서 로컬 추론이 가능하고 llama.cpp·vLLM·Transformers.js를 통한 WebGPU 브라우저 실행도 지원된다. cocy.io에서 쓸모: game.cocy.io 게임 내 AI NPC·힌트 시스템을 외부 API 없이 클라이언트 사이드로 구현하는 엣지 모델 후보.",
+      "category": "ai-tech",
+      "source": "Google DeepMind Blog",
+      "sourceUrl": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
+      "publishedAt": "2026-06-03T09:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Dia2 — 한국 스타트업 Nari Labs의 스트리밍 TTS·보이스 클로닝 (Apache 2.0)",
+      "summary": "[Audio] 한국 대학생 스타트업 Nari Labs가 Dia2를 오픈소스로 공개했다. Apache 2.0 라이선스로 상업 사용 가능하며, 5초 레퍼런스 오디오만으로 제로샷 보이스 클로닝이 가능하다. 실시간 스트리밍 TTS·감정·웃음·기침 등 비언어 표현도 지원하고, 10GB VRAM GPU 단일 노드에서 실행된다. cocy.io에서 쓸모: 고스톱 캐릭터 음성 더빙 자동화나 게임 NPC 대화 음성을 로컬에서 직접 생성하는 파이프라인 대체재.",
+      "category": "ai-tech",
+      "source": "GitHub - nari-labs/dia2",
+      "sourceUrl": "https://github.com/nari-labs/dia2",
+      "publishedAt": "2026-06-10T09:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Chatterbox Multilingual V3 — MIT 라이선스 보이스 클로닝 TTS",
+      "summary": "[Audio] Resemble AI가 오픈소스 TTS 패밀리 Chatterbox의 최신 버전 Multilingual V3를 공개했다. MIT 라이선스로 완전 상업 사용 가능하며, 0.5B 모델 크기를 유지하면서 다국어 보이스 클로닝과 화자 유사도를 개선했다. 언어별 전용 파인튜닝인 Single Language Pack도 함께 배포된다. cocy.io에서 쓸모: 한국어 포함 다국어 게임 NPC 음성 생성을 로컬에서 실행하거나 고스톱 음성 더빙 파이프라인의 TTS 엔진으로 대체 검토 가능.",
+      "category": "ai-tech",
+      "source": "GitHub - resemble-ai/chatterbox",
+      "sourceUrl": "https://github.com/resemble-ai/chatterbox",
+      "publishedAt": "2026-06-15T09:00:00+09:00"
     }
   ]
 }
