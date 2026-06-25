@@ -1,1 +1,113 @@
-{"date":"2026-06-25","articles":[{"id":"1","title":"북한군 1명 화천 중부전선 넘어 귀순","summary":"북한군 1명이 지난 23일 밤 강원 화천 일대 중부전선 군사분계선(MDL)을 넘어 귀순했다. 합동참모본부는 24일 '전날 밤 중부전선에서 북한군 1명을 식별한 뒤 신병을 확보했다'고 밝혔다.","category":"domestic","source":"국민일보","sourceUrl":"https://n.news.naver.com/mnews/article/005/0001856951","publishedAt":"2026-06-24T00:00:00+09:00"},{"id":"2","title":"장동혁 국민의힘 대표 퇴원 후 사퇴론 정면돌파 \"거취는 당원이 결정\"","summary":"장동혁 국민의힘 대표가 엿새 만에 퇴원한 뒤 '당대표의 거취는 당원들이 결정할 문제'라며 사퇴론에 선을 그었다. 당직 개편 가능성을 시사하며 쇄신 의지를 밝혔다.","category":"domestic","source":"세계일보","sourceUrl":"https://n.news.naver.com/mnews/article/022/0004137968","publishedAt":"2026-06-25T00:00:00+09:00"},{"id":"3","title":"SK하이닉스 프리마켓 10% 급등, 삼성전자도 5% 강세","summary":"마이크론테크놀로지의 깜짝 실적 발표에 힘입어 SK하이닉스가 25일 프리마켓에서 10% 급등하고 있다. 삼성전자도 5% 강세를 보이며 반도체 업종 전반에 수급이 유입되고 있다.","category":"economy","source":"뉴시스","sourceUrl":"https://n.news.naver.com/mnews/article/003/0014026503","publishedAt":"2026-06-25T09:00:00+09:00"},{"id":"4","title":"RedNote dots.tts: 48kHz 제로샷 음성 클로닝 TTS 오픈소스 공개 (Apache 2.0)","summary":"[Audio] RedNote(샤오홍슈) AI 연구팀이 2B 파라미터 완전 연속형 자기회귀 TTS 모델 dots.tts를 Apache 2.0으로 공개했다. 48kHz AudioVAE 기반으로 대부분의 오픈소스 TTS(24kHz)보다 두 배 높은 음질을 제공하며, 24개 언어 제로샷 화자 클로닝을 지원한다. 사전학습 체크포인트(base), 자기교정 정렬 모델(soar), 저지연 증류 모델(mf) 세 가지 변형으로 제공된다. cocy.io에서 쓸모: game.cocy.io 게임 캐릭터 음성을 실제 화자 샘플 몇 초만으로 고음질 클로닝해 더빙 비용 없이 양산 가능.","category":"ai-tech","source":"GitHub rednote-hilab/dots.tts","sourceUrl":"https://github.com/rednote-hilab/dots.tts","publishedAt":"2026-06-10T00:00:00+09:00"},{"id":"5","title":"Google Magenta RealTime 2: 200ms 지연 실시간 게임 BGM AI 생성, 오픈소스 공개","summary":"[Audio] Google이 2.4B(base) / 230M(small) 파라미터의 실시간 음악 생성 모델 Magenta RealTime 2를 2026년 6월 4일 공개했다. 텍스트 프롬프트·오디오 예시·MIDI로 연속 음악을 실시간 제어하며 약 200ms 지연으로 라이브 인터랙션이 가능하다. 코드 Apache 2.0, 가중치 CC-BY 4.0으로 상업 이용 허용. DAW 플러그인·악기 앱도 무료 제공. cocy.io에서 쓸모: game.cocy.io 게임 내 상황에 따라 반응하는 동적 BGM 생성 파이프라인에 소형 모델(230M)로 로컬 적용 가능.","category":"ai-tech","source":"HuggingFace google/magenta-realtime-2","sourceUrl":"https://huggingface.co/google/magenta-realtime-2","publishedAt":"2026-06-04T00:00:00+09:00"},{"id":"6","title":"TripoSplat: 이미지 1장으로 3D 가우시안 스플랫 즉시 생성, MIT 라이선스","summary":"[Image] VAST AI가 단일 2D 이미지를 고품질 3D Gaussian Splat으로 변환하는 TripoSplat을 MIT 라이선스로 공개했다. 디테일 영역에 가우시안을 집중 배치해 효율적인 3D 표현을 생성하며, PLY/.splat 파일로 내보낼 수 있다. ComfyUI v0.23.0에서 네이티브 지원이 추가되어 기존 이미지 생성 파이프라인과 즉시 연동 가능. cocy.io에서 쓸모: game.cocy.io 2D 게임 아트에서 3D 에셋을 자동 생성해 WebGL/Three.js 게임에 바로 적용 가능.","category":"ai-tech","source":"GitHub VAST-AI-Research/TripoSplat","sourceUrl":"https://github.com/VAST-AI-Research/TripoSplat","publishedAt":"2026-06-01T00:00:00+09:00"},{"id":"7","title":"NVIDIA Cosmos 3: 텍스트·영상·사운드 동시 생성 오픈 물리 AI 모델 출시","summary":"[Video] NVIDIA가 2026년 5월 31일 GTC Taipei에서 Cosmos 3 Super(64B)·Nano를 OpenMDW-1.1 라이선스로 공개했다. 텍스트, 이미지, 영상, 주변음, 물리적 행동을 동시에 이해·생성하는 옴니모달 월드 모델로, HuggingFace에서 가중치 다운로드 가능. 상업 이용 허용(\"Built on NVIDIA Cosmos\" 표시 필요). cocy.io에서 쓸모: 게임 트레일러·홍보 영상에서 배경음이 동기화된 영상 콘텐츠를 한 번에 생성하거나, 게임 환경 시뮬레이션 데이터 합성에 활용 가능.","category":"ai-tech","source":"NVIDIA Blog","sourceUrl":"https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/","publishedAt":"2026-05-31T00:00:00+09:00"}]}
+{
+  "date": "2026-06-25",
+  "articles": [
+    {
+      "id": "1",
+      "title": "북한군 1명 화천 중부전선 넘어 귀순",
+      "summary": "북한군 1명이 지난 23일 밤 강원 화천 일대 중부전선 군사분계선(MDL)을 넘어 귀순했다. 합동참모본부는 24일 '전날 밤 중부전선에서 북한군 1명을 식별한 뒤 신병을 확보했다'고 밝혔다.",
+      "category": "domestic",
+      "source": "국민일보",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/005/0001856951",
+      "publishedAt": "2026-06-24T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "장동혁 국민의힘 대표 퇴원 후 사퇴론 정면돌파 \"거취는 당원이 결정\"",
+      "summary": "장동혁 국민의힘 대표가 엿새 만에 퇴원한 뒤 '당대표의 거취는 당원들이 결정할 문제'라며 사퇴론에 선을 그었다. 당직 개편 가능성을 시사하며 쇄신 의지를 밝혔다.",
+      "category": "domestic",
+      "source": "세계일보",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/022/0004137968",
+      "publishedAt": "2026-06-25T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "SK하이닉스 프리마켓 10% 급등, 삼성전자도 5% 강세",
+      "summary": "마이크론테크놀로지의 깜짝 실적 발표에 힘입어 SK하이닉스가 25일 프리마켓에서 10% 급등하고 있다. 삼성전자도 5% 강세를 보이며 반도체 업종 전반에 수급이 유입되고 있다.",
+      "category": "economy",
+      "source": "뉴시스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/003/0014026503",
+      "publishedAt": "2026-06-25T09:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "RedNote dots.tts: 48kHz 제로샷 음성 클로닝 TTS 오픈소스 공개 (Apache 2.0)",
+      "summary": "[Audio] RedNote(샤오홍슈) AI 연구팀이 2B 파라미터 완전 연속형 자기회귀 TTS 모델 dots.tts를 Apache 2.0으로 공개했다. 48kHz AudioVAE 기반으로 대부분의 오픈소스 TTS(24kHz)보다 두 배 높은 음질을 제공하며, 24개 언어 제로샷 화자 클로닝을 지원한다. 사전학습 체크포인트(base), 자기교정 정렬 모델(soar), 저지연 증류 모델(mf) 세 가지 변형으로 제공된다. cocy.io에서 쓸모: game.cocy.io 게임 캐릭터 음성을 실제 화자 샘플 몇 초만으로 고음질 클로닝해 더빙 비용 없이 양산 가능.",
+      "category": "ai-tech",
+      "source": "GitHub rednote-hilab/dots.tts",
+      "sourceUrl": "https://github.com/rednote-hilab/dots.tts",
+      "publishedAt": "2026-06-10T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Google Magenta RealTime 2: 200ms 지연 실시간 게임 BGM AI 생성, 오픈소스 공개",
+      "summary": "[Audio] Google이 2.4B(base) / 230M(small) 파라미터의 실시간 음악 생성 모델 Magenta RealTime 2를 2026년 6월 4일 공개했다. 텍스트 프롬프트·오디오 예시·MIDI로 연속 음악을 실시간 제어하며 약 200ms 지연으로 라이브 인터랙션이 가능하다. 코드 Apache 2.0, 가중치 CC-BY 4.0으로 상업 이용 허용. DAW 플러그인·악기 앱도 무료 제공. cocy.io에서 쓸모: game.cocy.io 게임 내 상황에 따라 반응하는 동적 BGM 생성 파이프라인에 소형 모델(230M)로 로컬 적용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace google/magenta-realtime-2",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-06-04T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "TripoSplat: 이미지 1장으로 3D 가우시안 스플랫 즉시 생성, MIT 라이선스",
+      "summary": "[Image] VAST AI가 단일 2D 이미지를 고품질 3D Gaussian Splat으로 변환하는 TripoSplat을 MIT 라이선스로 공개했다. 디테일 영역에 가우시안을 집중 배치해 효율적인 3D 표현을 생성하며, PLY/.splat 파일로 내보낼 수 있다. ComfyUI v0.23.0에서 네이티브 지원이 추가되어 기존 이미지 생성 파이프라인과 즉시 연동 가능. cocy.io에서 쓸모: game.cocy.io 2D 게임 아트에서 3D 에셋을 자동 생성해 WebGL/Three.js 게임에 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub VAST-AI-Research/TripoSplat",
+      "sourceUrl": "https://github.com/VAST-AI-Research/TripoSplat",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "NVIDIA Cosmos 3: 텍스트·영상·사운드 동시 생성 오픈 물리 AI 모델 출시",
+      "summary": "[Video] NVIDIA가 2026년 5월 31일 GTC Taipei에서 Cosmos 3 Super(64B)·Nano를 OpenMDW-1.1 라이선스로 공개했다. 텍스트, 이미지, 영상, 주변음, 물리적 행동을 동시에 이해·생성하는 옴니모달 월드 모델로, HuggingFace에서 가중치 다운로드 가능. 상업 이용 허용(\"Built on NVIDIA Cosmos\" 표시 필요). cocy.io에서 쓸모: 게임 트레일러·홍보 영상에서 배경음이 동기화된 영상 콘텐츠를 한 번에 생성하거나, 게임 환경 시뮬레이션 데이터 합성에 활용 가능.",
+      "category": "ai-tech",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/cosmos-3-physical-ai-open-world-foundation-model/",
+      "publishedAt": "2026-05-31T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Stable Audio 3 Small SFX: 0.6B SFX 특화 로컬 모델 공개 (Stability AI 상업 허용)",
+      "summary": "[Audio/SFX] Stability AI가 게임·미디어 효과음 생성에 특화된 0.6B 파라미터 diffusion 모델을 공개. SFX만 집중 훈련해 MacBook Pro M4에서 2초 내 생성 가능. 라이선스: Stability AI Creator Plan (연매출 1M USD 미만 무료 상업 사용). cocy.io에서 쓸모: 현재 TangoFlux 기반 SFX 파이프라인의 로컬 대체 후보—RTX 3080 Ti에서 즉시 테스트 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace stabilityai/stable-audio-3-small-sfx",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
+      "publishedAt": "2026-05-19T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Zyphra ZONOS2: 600만 시간 훈련 다국어 MoE TTS, Apache 2.0 공개",
+      "summary": "[Audio] Zyphra가 600만 시간 다국어 음성으로 훈련한 MoE 기반 TTS 모델 ZONOS2를 Apache 2.0으로 공개(2일 전). 한국어(Tier 2) 포함 40개 언어 지원, 제로샷 음성 클로닝 특화. ECAPA-TDNN 임베딩 기반 화자 인식, Mini-SGLang 로컬 추론 서버 제공. cocy.io에서 쓸모: game.cocy.io 게임 캐릭터 한국어 TTS를 로컬 제로샷 클로닝해 ElevenLabs 비용 절감.",
+      "category": "ai-tech",
+      "source": "HuggingFace Zyphra/ZONOS2",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS2",
+      "publishedAt": "2026-06-23T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "SCAIL-2: 포즈 없이 드라이빙 비디오만으로 캐릭터 애니메이션 end-to-end 생성, MIT 라이선스",
+      "summary": "[Video] HKUST·zai-org 팀이 스켈레톤·포즈 없이 드라이빙 영상만으로 레퍼런스 캐릭터를 애니메이션화하는 SCAIL-2를 MIT 라이선스로 공개(3일 전, 262 다운로드). 60K 모션 페어 합성 훈련, 동물·다중 캐릭터·교차 정체성 교체까지 emergent 지원. cocy.io에서 쓸모: game.cocy.io 캐릭터 프로모션 영상을 별도 리깅 없이 드라이빙 클립 하나로 자동 생성.",
+      "category": "ai-tech",
+      "source": "HuggingFace zai-org/SCAIL-2",
+      "sourceUrl": "https://huggingface.co/zai-org/SCAIL-2",
+      "publishedAt": "2026-06-22T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "NVIDIA Cosmos3-Super-Image2Video: 이미지 1장에서 물리 일관성 고품질 비디오 생성, 상업 허용",
+      "summary": "[Video] NVIDIA가 이미지+텍스트 입력으로 물리적으로 일관된 고품질 영상을 생성하는 Cosmos3-Super-Image2Video 가중치를 HuggingFace에 공개(9일 전). 65B Omnimodal 월드 모델, 비디오·오디오·액션 동시 생성. 'Built on NVIDIA Cosmos' 표기 조건으로 상업 사용 허용. cocy.io에서 쓸모: game.cocy.io 게임 스크린샷 1장에서 프로모션 영상 클립을 자동 생성해 마케팅 에셋 양산.",
+      "category": "ai-tech",
+      "source": "HuggingFace nvidia/Cosmos3-Super-Image2Video",
+      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Super-Image2Video",
+      "publishedAt": "2026-06-16T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "LTX 2.3 Audio-Reactive LoRA: 오디오 비트 동기화 영상 자동 생성 파인튜닝 가중치",
+      "summary": "[Tool] fal-ai가 LTX-Video 2.3 기반으로 오디오 파형·비트에 맞춰 영상 모션이 자동 동기화되는 Audio-Reactive LoRA를 공개(9일 전, 2.2k 다운로드). 음악·SFX를 입력하면 영상 모션이 리듬에 반응. 라이선스 미확인(베이스 LTX 2.3은 Apache 2.0, fal.ai 조건 별도 확인 권장). cocy.io에서 쓸모: game.cocy.io BGM·SFX 산출물을 입력해 음악에 반응하는 게임 트레일러·소셜 클립 자동 생성.",
+      "category": "ai-tech",
+      "source": "HuggingFace fal/ltx2.3-audio-reactive-lora",
+      "sourceUrl": "https://huggingface.co/fal/ltx2.3-audio-reactive-lora",
+      "publishedAt": "2026-06-16T00:00:00+09:00"
+    }
+  ]
+}
