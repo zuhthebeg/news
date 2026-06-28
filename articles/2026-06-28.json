@@ -27,6 +27,51 @@
       "source": "노컷뉴스",
       "sourceUrl": "https://n.news.naver.com/mnews/article/079/0004162396",
       "publishedAt": "2026-06-28T06:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Stability AI, 로컬 실행 가능한 Stable Audio 3 SFX·Music 모델 오픈 릴리즈",
+      "summary": "[Audio] Stability AI가 Stable Audio 3 패밀리(small-sfx 0.6B, small-music 0.6B, medium 2B)를 오픈 릴리즈했다. 소비자급 GPU에서 수 초 내 음악·효과음 생성이 가능하며, 가변 길이 생성과 인페인팅을 지원한다. CC 라이선스 데이터로 학습. 라이선스는 Stability AI Community License(연 매출 $1M 미만 조직 상업 사용 허용). cocy.io에서 쓸모: RTX 로컬에서 게임 SFX·BGM을 프롬프트 한 줄로 생성하는 파이프라인에 즉시 투입 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
+      "publishedAt": "2026-06-17T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Google DeepMind, 온디바이스 실시간 스트리밍 음악 생성 모델 Magenta RealTime 2 공개",
+      "summary": "[Audio] Google DeepMind가 Magenta RealTime 2를 Apache 2.0 + CC-BY 4.0으로 완전 오픈했다. 저지연 스트리밍 음악 생성 특화 모델로 온디바이스 실행을 염두에 두고 설계됐으며, 실시간 컨트롤이 가능하다. 코드베이스 Apache 2.0, 가중치 CC-BY 4.0으로 상업 사용 완전 허용. cocy.io에서 쓸모: 게임 플레이 중 분위기에 따라 BGM을 실시간으로 변형·생성하는 동적 사운드트랙 시스템 구현에 적합.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-06-05T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Krea.ai, 12B 파라미터 텍스트-이미지 모델 Krea-2-Turbo 오픈 웨이트 공개",
+      "summary": "[Image] Krea.ai가 12B DiT 기반 텍스트-이미지 모델 Krea-2-Turbo를 2026년 6월 22일 오픈 웨이트로 공개했다. 8스텝 추론, diffusers 및 SGLang 지원, 최대 2048×2048 해상도 생성. 라이선스 미확인(Krea 2 Community License — 상업 사용 조건 별도 확인 필요). cocy.io에서 쓸모: 게임 캐릭터·배경·프로모션 이미지 생성에 현존 오픈웨이트 중 최상위 품질 옵션으로 검토 가치 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/krea/Krea-2-Turbo",
+      "publishedAt": "2026-06-22T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Zyphra, 600만 시간 학습 다국어 TTS·보이스 클로닝 모델 ZONOS2 출시",
+      "summary": "[TTS] Zyphra가 ZONOS2를 공개했다. 600만 시간의 다국어 음성 데이터로 학습한 MoE 아키텍처 TTS로, 한국어를 포함한 Tier 2 언어 지원과 고품질 제로샷 보이스 클로닝을 제공한다. 로컬 추론은 Mini-SGLang 서버로 GPU 위에서 실행. 라이선스 미확인(ZONOS v1은 Apache 2.0이었으나 v2 상업 조건 별도 확인 필요). cocy.io에서 쓸모: 게임 캐릭터 목소리를 녹음 샘플 한 개로 즉석 복제해 대사 자동 생성하는 더빙 파이프라인에 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS2",
+      "publishedAt": "2026-06-23T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "YuE 기반 가사→완성곡 생성 모델 zen-musician, Apache 2.0으로 재패키징 공개",
+      "summary": "[Audio] Hanzo AI·Zoo Labs Foundation이 M-A-P의 YuE 7B 모델(Apache 2.0)을 게임·앱 개발자가 바로 쓸 수 있게 재패키징한 zen-musician을 공개했다. 가사와 장르 프롬프트를 입력하면 보컬 포함 완성곡을 생성하며, Apache 2.0 라이선스로 상업 사용 자유롭게 가능. cocy.io에서 쓸모: 게임 스토리 분기별 테마곡이나 레벨 클리어 BGM을 가사 기반으로 자동 생성하는 콘텐츠 파이프라인에 바로 통합 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/zenlm/zen-musician",
+      "publishedAt": "2026-06-27T00:00:00+09:00"
     }
   ]
 }
