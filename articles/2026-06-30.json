@@ -27,6 +27,33 @@
       "source": "뉴스1",
       "sourceUrl": "https://n.news.naver.com/mnews/article/421/0009030725?sid=100",
       "publishedAt": "2026-06-30T09:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Stable Audio 3.0 출시 — 최대 6분 음악·SFX 생성, LoRA 지원 오픈 웨이트 모델",
+      "summary": "[Audio] Stability AI가 오픈 웨이트 오디오 생성 모델 Stable Audio 3.0을 출시했다. Small SFX·Small·Medium 세 모델이 HuggingFace에 공개됐으며, 최대 6분 이상 가변 길이 음악 및 효과음 생성이 가능하다. 세계 최초로 온디바이스 전곡 생성을 지원하며, LoRA 파인튜닝 문서도 공개됐다. 라이선스: Stability AI Community License — 연매출 $1M 미만 상업 사용 무료, 출력물 소유권 사용자 귀속. cocy.io에서 쓸모: 게임 BGM·SFX 로컬 생성 파이프라인에 TangoFlux와 함께 또는 대체제로 즉시 투입 가능하며, 특히 Small SFX 모델이 온디바이스 효과음 생성에 최적.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-20T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Higgs Audio V2 — Apache 2.0 오픈소스 다국어 TTS·음성 복제 모델, 50개 언어 지원",
+      "summary": "[Audio] BosonAI가 공개한 Higgs Audio V2는 50개 이상 언어를 지원하는 오픈소스 TTS 및 음성 복제 모델이다. 제로샷 음성 클로닝, 감정 합성, 멀티 스피커 생성이 가능하며, 이후 출시된 V2.5(1B)는 3B 전작을 능가하는 성능을 보인다. 라이선스: Apache 2.0 기반이나 Meta Llama 3 의존으로 연간 활성 유저 100k 초과 시 Meta 상업 라이선스 별도 필요. cocy.io에서 쓸모: 게임 내 다국어 NPC 음성 자동 생성 또는 고스톱 콜 음성 확장 작업에 로컬 추론으로 활용 가능.",
+      "category": "ai-tech",
+      "source": "BosonAI / Reddit LocalLLaMA",
+      "sourceUrl": "https://www.reddit.com/r/LocalLLaMA/comments/1m7lj3x/higgs_audio_v2_open_multispeaker_tts_model/",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "WebLLM — WebGPU로 브라우저에서 서버 없이 LLM 완전 로컬 추론 (Apache 2.0)",
+      "summary": "[Edge] MLC AI의 WebLLM은 WebGPU 하드웨어 가속을 통해 서버 없이 브라우저 내에서 LLM 추론을 실행하는 오픈소스 엔진이다. Llama 3, Phi 3, Gemma, Mistral, Qwen 등 주요 모델을 지원하며 OpenAI API와 완전 호환된다. 2026년 WebGPU가 Chrome·Firefox·Safari 전 브라우저에서 기본 활성화되며 WebLLM 실사용 환경이 크게 개선됐다(20~60 tok/s). 라이선스: Apache 2.0. cocy.io에서 쓸모: game.cocy.io 게임에 별도 서버 비용 없이 AI NPC·힌트 시스템을 클라이언트 사이드에서 직접 구현하거나, 오프라인 게임 내 AI 기능을 추가하는 데 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "mlc-ai / GitHub",
+      "sourceUrl": "https://github.com/mlc-ai/web-llm",
+      "publishedAt": "2026-06-30T10:00:00+09:00"
     }
   ]
 }
