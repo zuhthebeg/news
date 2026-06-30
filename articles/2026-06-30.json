@@ -54,6 +54,51 @@
       "source": "mlc-ai / GitHub",
       "sourceUrl": "https://github.com/mlc-ai/web-llm",
       "publishedAt": "2026-06-30T10:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Dia-1.6B — Apache 2.0 다화자 TTS, 웃음·기침 등 비언어 음성 생성",
+      "summary": "[TTS] Nari Labs의 Dia-1.6B는 텍스트 스크립트에서 리얼한 다화자 대화를 직접 생성하는 1.6B 파라미터 TTS 모델. [S1]/[S2] 태그로 화자를 전환하며, 웃음·기침·목청 가다듬기 등 비언어 사운드를 자연스럽게 삽입할 수 있다. 오디오 조건화로 감정·톤 제어 지원. 라이선스: Apache-2.0 (상업 사용 허용). cocy.io에서 쓸모: 고스톱 콜 음성 확장 및 멀티플레이어 게임 NPC 대화 음성을 비언어 반응까지 포함해 로컬로 생성 가능.",
+      "category": "ai-tech",
+      "source": "Nari Labs / HuggingFace",
+      "sourceUrl": "https://huggingface.co/nari-labs/Dia-1.6B",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Chatterbox Multilingual V3 — MIT 오픈소스 다국어 음성 복제 TTS (0.5B)",
+      "summary": "[TTS] Resemble AI의 Chatterbox Multilingual V3는 단일 0.5B 모델로 폭넓은 다국어 음성 클로닝을 지원하는 오픈소스 TTS. V3는 화자 유사도 개선, 환각 감소, 자연스러운 대화체 생성에 중점. 단일 언어 집중 파인튜닝 팩도 별도 출시. 라이선스: MIT (상업 사용 허용). cocy.io에서 쓸모: 게임 내 한국어·영어·일본어 동시 지원 NPC 음성 생성에 ElevenLabs 대체제로 로컬 구동 가능.",
+      "category": "ai-tech",
+      "source": "Resemble AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-06-20T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "LFM2.5-230M — LiquidAI 초경량 엣지 LLM, Galaxy S25에서 213 tok/s",
+      "summary": "[Edge] LiquidAI의 LFM2.5-230M은 온디바이스 배포 전용으로 설계된 230M 파라미터 하이브리드 LLM. Galaxy S25 Ultra에서 213 tok/s, Raspberry Pi 5에서 42 tok/s 추론 속도를 기록. 다단계 강화학습으로 툴 사용·데이터 추출에 특화. 한국어·일본어·중국어 등 10개 언어 지원. 라이선스 미확인 (lfm1.0 커스텀 라이선스 — 상업 허용 여부 LiquidAI 확인 필요). cocy.io에서 쓸모: game.cocy.io 모바일 웹뷰에서 서버 없이 AI 힌트·NPC 대화 실행 가능성 검토 대상.",
+      "category": "ai-tech",
+      "source": "LiquidAI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-230M",
+      "publishedAt": "2026-06-26T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Krea-2-Turbo — 8스텝 고해상도 텍스트-이미지 모델, diffusers 지원",
+      "summary": "[Image] Krea AI의 Krea-2-Turbo는 8 추론 스텝으로 최대 2048x2048 해상도 이미지를 생성하는 오픈 웨이트 이미지 생성 모델. HuggingFace diffusers, SGLang, 공식 codebase 모두 지원. guidance_scale=0.0으로 빠른 생성 가능. Raw 버전도 별도 공개. 라이선스 미확인 (krea-2-community-license — 상업 사용 허용 여부 Krea 라이선스 원문 확인 필요). cocy.io에서 쓸모: 게임 카드·캐릭터 아트 생성 시 FLUX.1-dev 대체 또는 빠른 프로토타이핑용으로 로컬 테스트 가능.",
+      "category": "ai-tech",
+      "source": "Krea AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/krea/Krea-2-Turbo",
+      "publishedAt": "2026-06-24T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Transformers.js v3 — WebGPU 가속 브라우저 ML 추론 엔진 (Apache 2.0)",
+      "summary": "[Edge] HuggingFace Transformers.js v3는 Whisper·Qwen·Florence·SmolLM 등 200개 이상 모델을 브라우저·Node.js·Deno·Bun에서 WebGPU 가속으로 실행 가능한 JS 추론 라이브러리. 서버 없이 클라이언트에서 STT·이미지분류·텍스트생성·임베딩 처리. WASM 폴백으로 GPU 없는 환경도 지원. 라이선스: Apache-2.0 (상업 사용 허용). cocy.io에서 쓸모: game.cocy.io 게임 내 AI 기능(힌트 생성, 음성인식, 이미지분류)을 Cloudflare Pages에서 서버리스로 구현 가능 — llm.cocy.io 호출 불필요.",
+      "category": "ai-tech",
+      "source": "HuggingFace / GitHub",
+      "sourceUrl": "https://github.com/huggingface/transformers.js",
+      "publishedAt": "2026-06-30T00:00:00+09:00"
     }
   ]
 }
