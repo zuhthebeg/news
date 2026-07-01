@@ -27,6 +27,51 @@
       "source": "MBN",
       "sourceUrl": "https://n.news.naver.com/mnews/article/057/0001956319",
       "publishedAt": "2026-07-01T07:38:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "ThinkSound: 영상→음향 체인오브소트 생성 모델 공개 (Apache-2.0)",
+      "summary": "[Audio] FunAudioLLM(알리바바)이 공개한 ThinkSound는 CoT(체인오브소트) 추론으로 영상의 시각적 동작·환경·타이밍을 분석해 고품질 폴리/SFX를 생성하는 오픈소스 모델이다. 영상→음향 3단계(폴리 생성→객체별 정밀 편집→씬 완성)로 분해하며, GGUF 변환 버전도 이미 등장해 llama.cpp/audiogen.cpp로 로컬 실행 가능하다. 라이선스: Apache-2.0 (상업 사용 가능). cocy.io에서 쓸모: 게임 영상 클립에서 효과음·배경 환경음을 자동 생성하는 파이프라인 구축에 바로 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / FunAudioLLM",
+      "sourceUrl": "https://huggingface.co/FunAudioLLM/ThinkSound",
+      "publishedAt": "2026-07-01T10:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "샤오미 Dasheng-AudioGen: 음성·음악·SFX·환경음 통합 생성 모델 (Apache-2.0)",
+      "summary": "[Audio] 샤오미 리서치가 오픈소스로 공개한 Dasheng-AudioGen은 단일 모델로 음성(TTS)·음악·효과음·환경음을 텍스트 프롬프트로 동시 생성하는 통합 오디오 생성 모델이다. <|speech|><|sfx|><|music|><|env|> 구조화 태그로 레이어별 세밀하게 제어하며, GGUF 양자화 버전(Q4/Q8, Metal·CUDA 지원)도 함께 배포됐다. 라이선스: Apache-2.0. cocy.io에서 쓸모: TangoFlux+ACE-Step 2개 파이프라인을 이 모델 하나로 대체해 게임 오디오 생성 스택을 단순화할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / mispeech",
+      "sourceUrl": "https://huggingface.co/mispeech/Dasheng-AudioGen",
+      "publishedAt": "2026-07-01T10:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Google Magenta RealTime 2: 스트리밍 실시간 음악 생성 모델 PyTorch 포트 공개",
+      "summary": "[Audio] Google DeepMind의 Magenta RealTime 2가 Apache-2.0(코드) + CC-BY 4.0(웨이트) 라이선스로 공개됐고, 커뮤니티에서 즉시 PyTorch 포트를 제작해 JAX/TFLite 없이 로컬 실행이 가능해졌다. DepthFormer LLM + SpectroStream RVQ 코덱 구조로 40ms 단위 청크를 실시간 스트리밍 생성하며, 'lo-fi hip hop'→'drum and bass' 식으로 스타일을 실시간 전환할 수 있다. cocy.io에서 쓸모: 게임 내 상황 변화에 따라 BGM을 실시간으로 전환하는 adaptive music 시스템 구현에 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / magenta-community",
+      "sourceUrl": "https://huggingface.co/magenta-community/magenta-realtime-2",
+      "publishedAt": "2026-07-01T10:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Black Forest Labs FLUX.2 Klein 4B: 소비자 GPU에서 1초 미만 이미지 생성 (Apache-2.0)",
+      "summary": "[Image] Black Forest Labs가 공개한 FLUX.2 [klein] 4B는 13GB VRAM으로 1초 이하 이미지 생성이 가능한 4B 파라미터 Rectified Flow 트랜스포머다. 단일 아키텍처에서 텍스트→이미지 생성과 멀티레퍼런스 편집을 모두 지원하며, 언디스틸드 베이스 모델로 LoRA 파인튜닝·커스텀 파이프라인에 최적화됐다. 이미 ecocoro(애니풍) 등 커뮤니티 파인튜닝 모델이 잇따라 등장 중. 라이선스: Apache-2.0. cocy.io에서 쓸모: 현재 사용 중인 SDXL/FLUX.1-dev 파이프라인을 이 모델로 교체하면 같은 GPU에서 훨씬 빠른 게임 에셋·카드 아트 생성이 가능하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / black-forest-labs",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-base-4B",
+      "publishedAt": "2026-07-01T10:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "OpenMontage: AI 에이전트로 전체 영상 제작 자동화하는 오픈소스 시스템 (GitHub 주간 1위)",
+      "summary": "[Tool] calesthio/OpenMontage는 이번 주 GitHub 트렌딩 1위(15,000+ 별)를 기록한 오픈소스 에이전틱 영상 제작 시스템이다. Claude/GPT 등 AI 코딩 어시스턴트를 통해 12개 파이프라인·52개 툴·500개 이상의 에이전트 스킬로 리서치→스크립트→에셋 생성→편집→최종 렌더링까지 자동화한다. 무료 스톡 영상·오픈 아카이브를 활용해 실제 모션 클립 영상도 제작 가능. 라이선스: AGPL-3.0 (상업용 사용 시 소스 공개 의무). cocy.io에서 쓸모: game.cocy.io 게임 트레일러·홍보 영상 제작 파이프라인을 에이전트로 자동화하는 데 참고 가능, 단 AGPL 조건 검토 필요.",
+      "category": "ai-tech",
+      "source": "GitHub / calesthio",
+      "sourceUrl": "https://github.com/calesthio/OpenMontage",
+      "publishedAt": "2026-07-01T10:00:00+09:00"
     }
   ]
 }
