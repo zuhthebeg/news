@@ -27,6 +27,42 @@
       "source": "세계일보",
       "sourceUrl": "https://n.news.naver.com/mnews/article/022/0004139901",
       "publishedAt": "2026-07-02T07:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Krea-2 Turbo: 8스텝 초고속 이미지 생성 오픈웨이트 모델 공개",
+      "summary": "[Image] Krea AI가 자체 개발한 텍스트→이미지 모델 Krea-2 Turbo·Raw를 HuggingFace에 오픈웨이트로 공개했다(6월 24일). 8스텝 만에 2048×2048 해상도 생성이 가능하며 diffusers·SGLang과 바로 연동된다. Realism LoRA, RetroAnime LoRA 등 커뮤니티 파생 LoRA도 즉시 등장했다. ⚠️라이선스 미확인 — 상업 사용 전 Krea 공식 라이선스 확인 필수. cocy.io에서 쓸모: 기존 SDXL/FLUX 게임 아트 파이프라인의 속도·품질 대안으로 평가 가치 높음.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/krea/Krea-2-Turbo",
+      "publishedAt": "2026-06-24T09:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Stable Audio 3 Medium: 가변 길이 음악·SFX 생성 2B 오픈웨이트",
+      "summary": "[Audio] Stability AI가 Stable Audio 3 Medium(2B) 오픈웨이트를 6월 17일 공개했다. MacBook M4 기준 수 초 내 생성, 가변 길이·인페인팅·오디오 편집 지원. 학습 데이터는 라이선스 취득 CC 데이터만 사용. 라이선스: Stability Community License(연매출 $1M 미만 상업 사용 무료). cocy.io에서 쓸모: 기존 ACE-Step BGM 파이프라인 보완용으로 SFX·짧은 루프 음악 혼합 생성, 인페인팅으로 인게임 오디오 편집 자동화에 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Stability AI",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-medium",
+      "publishedAt": "2026-06-17T09:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Chatterbox Multilingual V3: MIT 오픈소스 0.5B 다국어 제로샷 보이스 클로닝",
+      "summary": "[TTS] ResembleAI가 Chatterbox Multilingual V3를 6월 11일 업데이트했다. 0.5B 경량 모델로 23개 언어 제로샷 보이스 클로닝 지원, 한국어(ko) 공식 포함. V3에서 화자 유사도·억양 보존 개선 및 환각(반복/탈선) 감소. 라이선스: MIT(상업 무료). cocy.io에서 쓸모: 게임 캐릭터 음성을 참조 클립 한 개만으로 다국어 TTS로 확장하거나, 고스톱 캐릭터 음성 녹음 없이 빠르게 프로토타이핑 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / ResembleAI",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-06-11T09:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Magenta RealTime 2: 구글의 2.4B 온디바이스 실시간 라이브 뮤직 모델",
+      "summary": "[Audio] Google DeepMind가 6월 5일 Magenta RealTime 2(MRT2)를 공개했다. MIDI·텍스트·오디오 입력으로 저지연 온디바이스 실시간 음악 생성 지원, Apple Silicon MacBook에서 DAW 플러그인으로 동작. 라이선스: Apache 2.0(코드) + CC-BY 4.0(웨이트), 상업 사용 무료. cocy.io에서 쓸모: 게임 씬 전환 시 MIDI 트리거로 BGM을 즉시 변조하는 인터랙티브 적응형 사운드트랙 프로토타이핑에 활용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Google DeepMind",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-06-05T09:00:00+09:00"
     }
   ]
 }
