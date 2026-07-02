@@ -63,6 +63,51 @@
       "source": "HuggingFace / Google DeepMind",
       "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
       "publishedAt": "2026-06-05T09:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "HuggingFace + Cerebras: Gemma 4 기반 실시간 음성-to-음성 오픈 스택 공개",
+      "summary": "[TTS/Audio] HuggingFace와 Cerebras가 7월 1일 완전 오픈 실시간 S2S(Speech-to-Speech) 파이프라인을 공개했다. Nvidia Parakeet(ASR) → Gemma 4 31B(LLM, Apache 2.0) → Qwen3TTS(TTS) 모듈형 구조로, 각 컴포넌트를 교체 가능. Cerebras의 초고속 추론으로 P95 지연도 안정적. 9,000대 이상 Reachy Mini 로봇에 이미 적용 중. 라이선스: Gemma 4 Apache 2.0, 전체 스택 오픈소스(github.com/huggingface/speech-to-speech). cocy.io에서 쓸모: 게임 내 실시간 AI NPC 대화나 고스톱 캐릭터 음성 응답 프로토타이핑에 바로 활용 가능한 end-to-end 파이프라인.",
+      "category": "ai-tech",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "publishedAt": "2026-07-01T09:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Transformers.js Cross-Origin Storage: 브라우저 WebGPU 모델 캐시 사이트 간 공유 실험",
+      "summary": "[Edge] HuggingFace가 6월 23일 Transformers.js에 Chrome 제안 Cross-Origin Storage API 실험을 도입했다. Whisper tiny 등 on-device 모델 가중치를 서로 다른 도메인이 공유해 재다운로드 없이 재사용 가능(Cache API). WebGPU device='webgpu' 옵션 그대로 사용. 라이선스: MIT. cocy.io에서 쓸모: game.cocy.io 게임들이 같은 캐시에서 AI 모델을 공유하면 초기 로딩 지연 없이 브라우저 내 추론(OCR/음성/경량 LLM) 실험 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/cross-origin-storage",
+      "publishedAt": "2026-06-23T09:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "FFASR Leaderboard: 실세계 원거리 음성인식 공개 벤치마크 런칭",
+      "summary": "[Tool] Treble Technologies와 HuggingFace가 6월 24일 FFASR(Far-Field ASR) Leaderboard를 공개했다. 14개 시뮬레이션 룸 기반 근거리 대비 원거리 WER 격차를 정량화하며, RTFx(실시간 배율)와 정확도 Pareto 플롯 제공. 에코 캔슬레이션·마이크 어레이 지원 로드맵. 라이선스: 오픈 벤치마크(모델별 라이선스 각자 확인). cocy.io에서 쓸모: 게임 인게임 보이스챗 ASR 모델 선택 시 노이즈·잔향 환경 실성능을 사전 비교해 최적 모델 선정 근거 확보.",
+      "category": "ai-tech",
+      "source": "HuggingFace Blog / Treble Technologies",
+      "sourceUrl": "https://huggingface.co/blog/ffasr-leaderboard",
+      "publishedAt": "2026-06-24T09:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Wan 2.7 T2V: Alibaba 오픈소스 텍스트-to-비디오 모델 (Apache 2.0)",
+      "summary": "[Video] Alibaba Tongyi Lab이 4월 2026년 Wan 2.7 텍스트-to-비디오 모델을 Apache 2.0으로 공개했다. 720P 고화질 비디오 생성 지원, RTX 3080 Ti급 GPU에서 로컬 실행 가능. Text-to-video·Image-to-video 멀티태스크, ComfyUI 네이티브 지원. 라이선스: Apache 2.0(상업 무료). cocy.io에서 쓸모: 게임 프로모 영상·트레일러·게임 내 컷씬 초안을 텍스트 프롬프트만으로 빠르게 생성, 기존 RTX 3080 Ti 로컬 GPU로 즉시 실험 가능.",
+      "category": "ai-tech",
+      "source": "Alibaba Tongyi Lab / HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI",
+      "publishedAt": "2026-04-15T09:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Gemma 4 31B: 구글 오픈웨이트 멀티모달 256K 컨텍스트 모델 (Apache 2.0)",
+      "summary": "[Image/Edge] Google DeepMind의 Gemma 4 31B Dense 모델이 Apache 2.0으로 공개됐다. 텍스트+이미지 입력, 256K 토큰 컨텍스트, 140개 이상 언어 지원. E2B~31B 4가지 크기로 고사양 폰부터 서버까지 배포 가능. MoE 변형(26B A4B)도 포함. 라이선스: Apache 2.0(상업 무료). cocy.io에서 쓸모: 게임 카드 이미지 분류·OCR 대체, log.cocy.io 재고관리 사진→텍스트 파이프라인을 로컬 모델로 전환해 API 비용 절감 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Google DeepMind",
+      "sourceUrl": "https://huggingface.co/google/gemma-4-31B",
+      "publishedAt": "2026-06-01T09:00:00+09:00"
     }
   ]
 }
