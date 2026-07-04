@@ -63,6 +63,51 @@
       "source": "HuggingFace / Krea.ai",
       "sourceUrl": "https://huggingface.co/krea/Krea-2-Turbo",
       "publishedAt": "2026-06-22T12:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Chatterbox Multilingual V3: 0.5B 보이스 클로닝 TTS 신버전 출시",
+      "summary": "[TTS] ResembleAI가 Chatterbox Multilingual V3를 공개했다. 동일한 0.5B 모델 크기를 유지하면서 화자 유사도·할루시네이션 감소·자연스러운 대화체 발화를 개선했다. 단일 참조 오디오로 보이스 클로닝이 가능하며 광범위한 다국어를 지원한다. HF 누적 다운로드 228만 건으로 TTS 분야 최다 수준. 라이선스: 미확인(상업 허용으로 알려짐—github.com/resemble-ai/chatterbox에서 확인 필요). cocy.io에서 쓸모: ElevenLabs 유료 TTS 대체로 게임 캐릭터 음성을 로컬에서 무료로 클로닝 가능.",
+      "category": "ai-tech",
+      "source": "ResembleAI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-07-04T12:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "LTX-2.3: 오디오+비디오를 한 번에 생성하는 22B 오픈 영상 모델",
+      "summary": "[Video] Lightricks가 공개한 LTX-2.3은 단일 모델로 동기화된 오디오와 영상을 함께 생성하는 DiT 기반 22B 모델이다. 8스텝 distilled 버전으로 빠른 추론을 지원하며 로컬 실행 초점으로 설계됐다. 이미지→영상 변환 및 텍스트→오디오+영상 동시 생성을 지원한다. HF 누적 다운로드 180만 건. 라이선스: 미확인(LTX Video License—사용 전 직접 확인 필요). cocy.io에서 쓸모: 게임 트레일러를 텍스트 프롬프트 하나로 BGM까지 포함해 자동 생성하는 파이프라인 구축에 유력 후보.",
+      "category": "ai-tech",
+      "source": "Lightricks / HuggingFace",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3",
+      "publishedAt": "2026-07-04T12:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "LTX-2.3 Audio-Reactive LoRA: 음악 비트에 반응하는 영상 생성 도구",
+      "summary": "[Tool] fal이 LTX-2.3 기반으로 음악 비트에 반응하는 영상을 생성하는 audio-reactive LoRA를 공개했다. 오디오의 박자·에너지에 맞춰 영상 움직임이 자동 동기화되는 방식이다. LTX-2.3 파이프라인에 LoRA로 추가해 바로 사용 가능하며 Diffusers 호환이다. 라이선스: 미확인(사용 전 HF 페이지 확인 필요). cocy.io에서 쓸모: 게임 BGM에 자동 싱크되는 홍보 영상·광고 클립 제작에 직접 활용 가능.",
+      "category": "ai-tech",
+      "source": "fal / HuggingFace",
+      "sourceUrl": "https://huggingface.co/fal/ltx2.3-audio-reactive-lora",
+      "publishedAt": "2026-07-04T12:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "video-use: 코딩 에이전트로 영상 편집하는 오픈소스 파이썬 프레임워크",
+      "summary": "[Tool] browser-use 팀이 공개한 video-use는 자연어 명령+코딩 에이전트로 영상을 편집하는 Python 오픈소스 도구다. 주간 GitHub 트렌딩 4,056 stars. browser-use와 같은 에이전트 기반 아키텍처로 스크립트 없이 자연어로 클립 편집·병합·자막 추가 등을 처리한다. 라이선스: Apache 2.0 계열(github 확인). cocy.io에서 쓸모: 게임 스크린샷→트레일러 자동 편집, 에이전트로 BGM 합성+클립 생성 파이프라인 완전 자동화.",
+      "category": "ai-tech",
+      "source": "browser-use / GitHub",
+      "sourceUrl": "https://github.com/browser-use/video-use",
+      "publishedAt": "2026-07-04T12:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "MOSS-SoundEffect: 8B 파라미터 텍스트→게임 효과음 전용 생성 모델",
+      "summary": "[SFX] OpenMOSS 팀이 공개한 MOSS-SoundEffect는 8B 파라미터의 텍스트→효과음(SFX) 전용 생성 모델이다. 기존 TangoFlux(0.6B) 대비 대형 모델로 복잡한 환경음·효과음 생성 품질을 높였다. HF 다운로드 2.2k, 2026년 3월 공개. 라이선스: 미확인(상업 사용 전 HF 페이지 직접 확인 필요). cocy.io에서 쓸모: 게임 충돌음·아이템 획득음·마법 효과음 등 게임 전용 SFX를 현재 TangoFlux 파이프라인 대안으로 평가해볼 가치 있음.",
+      "category": "ai-tech",
+      "source": "OpenMOSS-Team / HuggingFace",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect",
+      "publishedAt": "2026-07-04T12:00:00+09:00"
     }
   ]
 }
