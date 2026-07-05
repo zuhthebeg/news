@@ -27,6 +27,42 @@
       "source": "뉴스1",
       "sourceUrl": "https://news.naver.com/section/100",
       "publishedAt": "2026-07-05T06:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "dots.tts: 완전 연속 AR TTS 2B 파라미터 모델, Apache 2.0 공개",
+      "summary": "[Audio] rednote hilab이 이산 토큰 없이 48kHz AudioVAE 위에서 작동하는 2B 완전 연속 AR TTS 모델 dots.tts를 Apache 2.0으로 공개했다. 24개 언어 zero-shot 음성 복제 지원, Seed-TTS-Eval에서 SOTA 달성. cocy.io에서 쓸모: 고스톱·마작 등 게임 캐릭터 음성 합성 파이프라인 구축에 바로 사용 가능하며, 라이선스가 상업적으로 완전 열려 있어 서버 내 배포 부담이 없다.",
+      "category": "ai-tech",
+      "source": "GitHub / rednote-hilab",
+      "sourceUrl": "https://github.com/rednote-hilab/dots.tts",
+      "publishedAt": "2026-06-20T12:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Magenta RealTime 2: 200ms 레이턴시 실시간 음악 생성, Apache 2.0 오픈웨이트",
+      "summary": "[Audio] Google DeepMind가 텍스트·오디오·MIDI 조건으로 200ms 이하 레이턴시에 실시간 음악을 생성하는 Magenta RealTime 2를 공개했다. 코드 Apache 2.0, 모델 가중치 CC BY 4.0으로 상업 사용 가능. JAX·MLX 백엔드 및 Apple Silicon C++ 엔진 포함. cocy.io에서 쓸모: 게임 플레이 상황에 반응하는 적응형 배경음악 시스템을 기존 ACE-Step 파이프라인 대신 낮은 레이턴시로 구현할 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub / magenta",
+      "sourceUrl": "https://github.com/magenta/magenta-realtime",
+      "publishedAt": "2026-06-10T12:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Gemma 4 12B: 멀티모달 엣지 추론 모델, Apache 2.0으로 노트북급 배포 가능",
+      "summary": "[Edge] Google이 텍스트·이미지·오디오·비디오를 모두 입력받는 12B any-to-any 멀티모달 모델 Gemma 4 12B를 Apache 2.0으로 공개했다. 256k 컨텍스트, 140개 언어 지원, QAT 양자화로 모바일 ONNX/MLX 배포 가능. cocy.io에서 쓸모: log.cocy.io 재고 사진 인식, game.cocy.io NPC 대화, 로컬 서버에서 무료 멀티모달 추론 등 다양한 서비스에 API 비용 없이 적용 가능하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / google",
+      "sourceUrl": "https://huggingface.co/google/gemma-4-12B",
+      "publishedAt": "2026-05-23T12:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Irodori-TTS GGUF: 일본어 TTS 500M 모델 로컬 llama.cpp 추론 지원",
+      "summary": "[Audio] 500M 파라미터 RF-DiT 구조의 일본어 특화 TTS 모델 Irodori-TTS v3이 GGUF 형식(Q4_K ~852MB)으로 공개됐다. zero-shot 음성 복제, 48kHz 출력, MIT 라이선스로 상업 활용 가능. cocy.io에서 쓸모: 마작 파이트 등 일본어 지원 게임에 로컬 GPU 없이 캐릭터 음성 합성을 추가할 수 있고, 현재 고스톱 음성 파이프라인의 일본어 확장 기반으로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / cstr",
+      "sourceUrl": "https://huggingface.co/cstr/irodori-tts-GGUF",
+      "publishedAt": "2026-07-04T12:00:00+09:00"
     }
   ]
 }
