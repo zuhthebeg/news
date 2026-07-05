@@ -63,6 +63,51 @@
       "source": "Hugging Face / cstr",
       "sourceUrl": "https://huggingface.co/cstr/irodori-tts-GGUF",
       "publishedAt": "2026-07-04T12:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "ACE-Step v1.5 XL Turbo: 4B DiT 음악 생성 모델, 8스텝 고속 추론",
+      "summary": "[Audio] ACE-Step v1.5의 XL(4B) 터보 변형이 HuggingFace에 등록됐다. 8-step distilled 추론, CFG 없음, VRAM 12GB+CPU offload로 실행 가능(≥20GB 권장). Apache 2.0(원본 ACE-Step 프로젝트 기준). cocy.io에서 쓸모: 현재 사용 중인 ACE-Step 1.5 Standard 파이프라인을 XL 4B 터보로 교체해 게임 BGM 품질을 높이면서 생성 속도도 유지할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / frenchfrai",
+      "sourceUrl": "https://huggingface.co/frenchfrai/acestep-v15-xl-turbo",
+      "publishedAt": "2026-07-05T03:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "IndexTTS2: 감정 표현·지속시간 제어 가능한 AR 제로샷 TTS",
+      "summary": "[Audio] bilibili IndexTeam이 감정 제어와 음절 단위 duration 조정이 가능한 AR zero-shot TTS IndexTTS2를 공개했다(arXiv 2506.21619). 원본 IndexTTS와 동일한 Apache 2.0 라이선스 계열(GitHub 재확인 권장). 다국어, 자연스러운 억양 표현 강화. cocy.io에서 쓸모: 고스톱 콜 음성·게임 NPC 감정 표현에 라이선스 부담 없이 적용 가능하며, 현재 녹음 보조 파이프라인의 TTS 대안으로 즉시 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / IndexTeam",
+      "sourceUrl": "https://huggingface.co/IndexTeam/IndexTTS-2",
+      "publishedAt": "2026-07-05T03:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Krea 2 Turbo: 8스텝 고품질 이미지 생성, 독립 랩 1위 (Artificial Analysis)",
+      "summary": "[Image] Krea AI가 8-step distilled 이미지 생성 모델 Krea 2 Turbo를 오픈 가중치로 공개했다. 2048×2048 지원, diffusers/SGLang 호환, Artificial Analysis 독립 평가에서 독립 랩 1위. 라이선스 미확인(GitHub krea-ai/krea-2 확인 필요). cocy.io에서 쓸모: 현재 FLUX.1-dev로 생성 중인 게임 카드/보스 아트에 aesthetic 비교용 후보 모델로, 8스텝이라 SDXL-turbo 속도로 고해상도 생성 가능.",
+      "category": "ai-tech",
+      "source": "GitHub / krea-ai",
+      "sourceUrl": "https://github.com/krea-ai/krea-2",
+      "publishedAt": "2026-07-05T03:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "LTX-Video 2.3 MLX: Apple Silicon 최적화 비디오 생성, Q4/Q8 로컬 추론",
+      "summary": "[Video] Lightricks LTX-Video 2.3(Apache 2.0)의 MLX 번들이 공개됐다. Gemma-3-12B 텍스트 인코더 포함, Q4/Q8 양자화, Apple Silicon에서 llama.cpp 없이 네이티브 실행. cocy.io에서 쓸모: macOS 환경에서 게임 트레일러·컷씬 비디오를 로컬에서 생성 가능하며, LTX-Video 원본은 Apache 2.0으로 상업 배포 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / SceneWorks",
+      "sourceUrl": "https://huggingface.co/SceneWorks/ltx-2.3-mlx",
+      "publishedAt": "2026-07-05T03:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Neodragon: Qualcomm, 모바일 온디바이스 DiT 비디오 생성 연구 공개",
+      "summary": "[Edge] Qualcomm AI Research가 모바일 NPU에서 실행되는 Diffusion Transformer 기반 비디오 생성 모델 Neodragon을 HuggingFace에 공개했다(arXiv 2511.06055). 라이선스 미확인(Qualcomm 연구용 가능성). cocy.io에서 쓸모: 미래 모바일 게임 내 실시간 영상 생성 R&D 레퍼런스로 참고; 온디바이스 비디오 gen 구현 가능성의 업계 신호로 트래킹 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Qualcomm-AI-Research",
+      "sourceUrl": "https://huggingface.co/Qualcomm-AI-Research/Neodragon",
+      "publishedAt": "2026-07-05T03:00:00+09:00"
     }
   ]
 }
