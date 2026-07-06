@@ -1,1 +1,68 @@
-{"date":"2026-07-06","articles":[{"id":"1","title":"정부, 반도체·AI 3대 메가 프로젝트에 1500조 민간투자 집중","summary":"한국 정부가 반도체 호황 세수를 활용해 미래대응기금을 신설하고, 반도체·AI·로봇 3대 메가 프로젝트에 약 1500조 원 규모의 민간 투자를 집중한다고 발표했다. 신규 반도체 팹 건설, AI 데이터센터 구축 등이 호남 지역을 중심으로 추진될 예정이다.","category":"economy","source":"연합뉴스","sourceUrl":"https://www.yna.co.kr/view/AKR20260706009000011","publishedAt":"2026-07-06T08:00:00+09:00"},{"id":"2","title":"한국, 7월 6일부터 24시간 외환시장 개장…MSCI 선진국 편입 목표","summary":"한국이 7월 6일부터 24시간 외환 거래를 허용하며 외환시장을 개장했다. MSCI 선진국 지수 편입을 위한 원화 글로벌화 조치로, 오프쇼어 거래 새 규정은 9월부터 적용된다.","category":"economy","source":"Korea Herald","sourceUrl":"https://www.koreaherald.com/article/10798501","publishedAt":"2026-07-06T07:00:00+09:00"},{"id":"3","title":"홈플러스, 사실상 파산 수순…충청 지역 상권·고용 파장 우려","summary":"유통 대기업 홈플러스가 사실상 파산 절차를 밟을 가능성이 제기되면서 충청 지역 상권과 고용에 미칠 파장에 대한 우려가 커지고 있다. 지역 상권 붕괴와 대규모 실직 우려가 동시에 제기됐다.","category":"domestic","source":"조선일보","sourceUrl":"https://www.joseilbo.com/news/view.htm?newsid=571321","publishedAt":"2026-07-06T06:30:00+09:00"}]}
+{
+  "date": "2026-07-06",
+  "articles": [
+    {
+      "id": "1",
+      "title": "정부, 반도체·AI 3대 메가 프로젝트에 1500조 민간투자 집중",
+      "summary": "한국 정부가 반도체 호황 세수를 활용해 미래대응기금을 신설하고, 반도체·AI·로봇 3대 메가 프로젝트에 약 1500조 원 규모의 민간 투자를 집중한다고 발표했다. 신규 반도체 팹 건설, AI 데이터센터 구축 등이 호남 지역을 중심으로 추진될 예정이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260706009000011",
+      "publishedAt": "2026-07-06T08:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "한국, 7월 6일부터 24시간 외환시장 개장…MSCI 선진국 편입 목표",
+      "summary": "한국이 7월 6일부터 24시간 외환 거래를 허용하며 외환시장을 개장했다. MSCI 선진국 지수 편입을 위한 원화 글로벌화 조치로, 오프쇼어 거래 새 규정은 9월부터 적용된다.",
+      "category": "economy",
+      "source": "Korea Herald",
+      "sourceUrl": "https://www.koreaherald.com/article/10798501",
+      "publishedAt": "2026-07-06T07:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "홈플러스, 사실상 파산 수순…충청 지역 상권·고용 파장 우려",
+      "summary": "유통 대기업 홈플러스가 사실상 파산 절차를 밟을 가능성이 제기되면서 충청 지역 상권과 고용에 미칠 파장에 대한 우려가 커지고 있다. 지역 상권 붕괴와 대규모 실직 우려가 동시에 제기됐다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.joseilbo.com/news/view.htm?newsid=571321",
+      "publishedAt": "2026-07-06T06:30:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Audio-Omni: 음악·음성·효과음 통합 생성/편집 AI 프레임워크 (Tencent·HKUST)",
+      "summary": "[Audio] Tencent WeChat Vision과 HKUST가 공동 개발한 Audio-Omni는 일반 사운드·음악·음성 도메인의 생성과 편집을 단일 엔드투엔드 프레임워크로 통합한 최초의 모델이다. 멀티모달 LLM(고수준 추론)과 Diffusion Transformer(고품질 합성)를 결합했으며, 100만 건 이상의 편집 쌍으로 구성된 AudioEdit 데이터셋을 함께 공개 예정이다. 다국어 제로샷 제어, 인컨텍스트 생성 등 다양한 기능을 갖췄고, 주요 벤치마크에서 SOTA 성능을 달성했다. cocy.io에서 쓸모: 게임 효과음·BGM·음성 편집을 하나의 모델로 처리할 수 있어 오디오 파이프라인 단순화에 유리하다. ⚠️라이선스 미확인(코드·모델 출시 예정, 상업 허용 여부 미발표).",
+      "category": "ai-tech",
+      "source": "arXiv / HuggingFace Papers",
+      "sourceUrl": "https://arxiv.org/abs/2604.10708",
+      "publishedAt": "2026-07-01T12:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "video-use: Claude Code 기반 오픈소스 영상 자동 편집 에이전트",
+      "summary": "[Tool] browser-use 팀이 공개한 video-use는 원본 영상 폴더를 가리키면 Claude Code 에이전트가 자동으로 필러 단어 제거·색보정·자막 삽입·애니메이션 오버레이 생성까지 처리해 최종 mp4를 출력하는 오픈소스 파이프라인이다. ffmpeg, ElevenLabs, HyperFrames/Remotion 등 다양한 툴을 병렬 서브에이전트로 구동하며, 컷 경계 자가 평가와 세션 메모리(project.md) 기능도 갖췄다. GitHub 이번 주 트렌딩 4위(주간 4,288 star). 라이선스: 오픈소스(MIT 계열). cocy.io에서 쓸모: 게임 트레일러·스크린샷 영상 자동 편집 파이프라인을 에이전트 기반으로 구성하는 데 바로 적용 가능하다.",
+      "category": "ai-tech",
+      "source": "GitHub (browser-use/video-use)",
+      "sourceUrl": "https://github.com/browser-use/video-use",
+      "publishedAt": "2026-07-05T10:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "LTX-Video 13B v0.9.8: 실시간 DiT 기반 영상 생성 모델 최신 업데이트",
+      "summary": "[Video] Lightricks의 LTX-Video가 13B 파라미터 규모의 v0.9.8 버전으로 업데이트됐다. 1216×704 해상도·30FPS 영상을 실시간보다 빠르게 생성하는 DiT 아키텍처를 채택했으며, 고품질(dev)·균형(mix)·속도(distilled) 세 가지 추론 모드를 ComfyUI 워크플로우로 지원한다. 이미지투비디오(I2V) 기능도 포함됨. 라이선스: Lightricks LTXV 커스텀 라이선스(상업적 사용 허용, 세부 조건 확인 권장). cocy.io에서 쓸모: 게임 소개 영상·캐릭터 애니메이션 프리뷰를 로컬에서 빠르게 생성할 때 SDXL 대체로 검토 가능하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace (Lightricks/LTX-Video)",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-Video",
+      "publishedAt": "2026-07-06T10:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Meetily: Parakeet·Whisper 기반 100% 로컬 AI 회의 전사 툴 (주간 3천 star)",
+      "summary": "[Edge] Meetily는 NVIDIA Parakeet(또는 Whisper)로 실시간 음성 전사, Ollama로 요약을 처리하는 완전 로컬·오프라인 AI 회의 어시스턴트로, macOS·Windows 지원한다. 클라우드 전송 없이 17,000 star를 돌파하며 GitHub 이번 주 트렌딩에 올랐다. Rust 기반 백엔드로 4배 빠른 전사 속도를 구현했다. 라이선스: 오픈소스(저장소 확인됨, MIT 계열). cocy.io에서 쓸모: 게임 대사 녹음·QA 피드백 세션의 음성 기록 자동화, 로컬 파이프라인 구축에 참고 가능하다.",
+      "category": "ai-tech",
+      "source": "GitHub (Zackriya-Solutions/meetily)",
+      "sourceUrl": "https://github.com/Zackriya-Solutions/meetily",
+      "publishedAt": "2026-07-05T10:00:00+09:00"
+    }
+  ]
+}
