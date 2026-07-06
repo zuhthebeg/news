@@ -63,6 +63,51 @@
       "source": "GitHub (Zackriya-Solutions/meetily)",
       "sourceUrl": "https://github.com/Zackriya-Solutions/meetily",
       "publishedAt": "2026-07-05T10:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Stable Audio 3 Small SFX — 게임 효과음 전용 0.6B 오디오 diffusion 모델",
+      "summary": "[SFX] Stability AI의 게임·효과음 특화 소형 diffusion 모델. 짧은 효과음(충돌·UI·환경음)을 빠르게 생성하며 인페인팅·가변 길이 지원. MacBook M4 기준 수 초 내 완료, H200은 2초 미만. 상업 학습 데이터(라이선스드+CC) 기반. 라이선스: stable-audio-community(연매출 $1M 미만 상업 사용 무료, 초과 시 Enterprise). cocy.io에서 쓸모: 현재 TangoFlux 기반 SFX 파이프라인의 상업 라이선스 대체 후보 — 로컬 RTX 3080 Ti에서 배치 생성 테스트 우선.",
+      "category": "ai-tech",
+      "source": "HuggingFace (stabilityai/stable-audio-3-small-sfx)",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
+      "publishedAt": "2026-05-19T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Stable Audio 3 Optimized — 특정 하드웨어 가속용 실험 체크포인트 (4일 전 업데이트)",
+      "summary": "[Audio] Stable Audio 3 Medium 기반으로 H100 등 특정 GPU에서 추론 속도를 극대화하는 최적화 체크포인트. 4일 전 업데이트된 따끈한 버전. 표준 추론엔 Medium 권장이며 이 레포는 하드웨어별 가속 실험용. 라이선스: stable-audio-community(상업 $1M 미만 무료). cocy.io에서 쓸모: ACE-Step BGM 파이프라인과 병행 벤치마크 대상 — 서버 GPU에서 BGM 배치 속도가 관건일 때 비교 테스트.",
+      "category": "ai-tech",
+      "source": "HuggingFace (stabilityai/stable-audio-3-optimized)",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-optimized",
+      "publishedAt": "2026-07-02T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Chatterbox Multilingual V3 — MIT 0.5B 다국어 제로샷 보이스 클로닝 TTS",
+      "summary": "[TTS] ResembleAI의 오픈소스(MIT) 다국어 TTS. 0.5B 파라미터로 23개 언어 제로샷 보이스 클로닝 지원. V3에서 화자 유사도 향상·환각 감소·자연스러운 대화체 개선. 단일 언어 특화 파인튜닝 팩(6개 언어)도 동시 출시. 라이선스: MIT(완전 상업 허용). cocy.io에서 쓸모: 게임 캐릭터 한국어·영어 대화 음성 생성, 고스톱 다국어 음성 파이프라인 확장에 즉시 적용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace (ResembleAI/chatterbox)",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-06-11T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "OmniVoice — 600개 언어 제로샷 TTS, RTF 0.025로 실시간 40배 속도",
+      "summary": "[TTS] k2-fsa(Kaldi 팀)의 다국어 zero-shot TTS. 현존 최다인 600+ 언어 커버, Qwen3-0.6B 기반 diffusion language model 아키텍처로 실시간 대비 40배 속도(RTF 0.025). 보이스 클로닝 + 성별·나이·억양 등 속성 기반 보이스 디자인 내장. 비언어 심볼([laughter] 등) 제어 지원. 3일 전 업데이트. ⚠️라이선스 미확인(HF 명시 없음, GitHub 확인 필요). cocy.io에서 쓸모: 글로벌 게임 다국어 UI 음성을 단일 모델로 처리 — 한국어 포함 확인 후 도입 검토.",
+      "category": "ai-tech",
+      "source": "HuggingFace (k2-fsa/OmniVoice)",
+      "sourceUrl": "https://huggingface.co/k2-fsa/OmniVoice",
+      "publishedAt": "2026-07-03T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "Qwen-Image-Edit-2511 — Apache-2.0 인스트럭션 기반 이미지 편집 diffusion (20B)",
+      "summary": "[Image] Alibaba Qwen 팀의 20B 이미지 편집 모델. 자연어 인스트럭션으로 배경 교체·오브젝트 추가·제거·스타일 변환 등 복합 편집 지원. Diffusers 호환, unsloth GGUF 경량화 버전 제공(로컬 실행 가능). 164k 다운로드. 라이선스: Apache-2.0(완전 상업 허용). cocy.io에서 쓸모: 게임 캐릭터 HP 손상 아트 배치 편집(60%/30% variant 생성), FLUX Kontext의 non-commercial 한계를 대체하는 상업 라이선스 이미지 편집 옵션.",
+      "category": "ai-tech",
+      "source": "HuggingFace (Qwen/Qwen-Image-Edit-2511)",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen-Image-Edit-2511",
+      "publishedAt": "2025-12-23T00:00:00Z"
     }
   ]
 }
