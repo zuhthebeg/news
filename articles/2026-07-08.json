@@ -1,1 +1,113 @@
-{"date":"2026-07-08","articles":[{"id":"1","title":"한미일 외교장관, NATO서 회동…북중러 3각 연대 견제","summary":"한국·미국·일본 외교장관이 튀르키예 앙카라에서 열리는 NATO 정상회의를 계기로 3자 회동을 갖는다. 북한·중국·러시아 3각 연대 강화를 견제하는 외교 이벤트가 될 전망이며, 이재명 대통령의 첫 NATO 참석에 맞춰 한미일 공조 메시지를 발신할 계획이다.","category":"domestic","source":"한국일보","sourceUrl":"https://n.news.naver.com/mnews/article/469/0000940902","publishedAt":"2026-07-08T06:00:00+09:00"},{"id":"2","title":"美 반도체주 급락·이란 공습 여파…코스피 하락 출발","summary":"미국 반도체주 급락과 이란의 이스라엘 공습 위협이 겹치며 코스피가 하락 출발할 것으로 전망된다. 전날 '검은 화요일'에 이어 하락세가 이어지는 가운데, 코스피는 오전 7,403선에서 출발(-3.30%), 코스닥도 812선에서 -2.28% 하락 출발했다.","category":"economy","source":"아시아경제","sourceUrl":"https://n.news.naver.com/mnews/article/277/0005786904","publishedAt":"2026-07-08T08:07:00+09:00"},{"id":"3","title":"미 국방부, HD현대중공업·한화오션에 전투함 건조 역량 첫 공식 타진","summary":"미국 국방부와 해군이 HD현대중공업, 한화오션 등 국내 주요 조선사에 전투함·급유함 건조·설계 역량을 공식 질의한 것으로 확인됐다. 트럼프 대통령의 '10척 건조 가능한가' 발언과 맞물려 실무 검토에 착수한 것으로 분석된다.","category":"economy","source":"연합뉴스","sourceUrl":"https://n.news.naver.com/mnews/article/001/0016181479","publishedAt":"2026-07-08T06:30:00+09:00"},{"id":"4","title":"Stable Audio 3 Small SFX — 온디바이스 SFX 생성 오픈웨이트 모델 출시","summary":"[Audio] Stability AI가 공개한 0.6B 파라미터 경량 SFX 생성 모델. CPU만으로도 최대 2분짜리 효과음을 텍스트 프롬프트에서 바로 생성할 수 있으며, 라이선스 클린 데이터로 학습됐다. LoRA 파인튜닝 문서도 함께 공개. cocy.io에서 쓸모: 게임 효과음·환경음을 로컬에서 무료로 양산하는 파이프라인으로 즉시 투입 가능 — TangoFlux 대체 후보.","category":"ai-tech","source":"Stability AI","sourceUrl":"https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models","publishedAt":"2026-05-19T00:00:00+09:00"},{"id":"5","title":"Google Magenta RealTime 2 — 온디바이스 스트리밍 음악 생성 모델 (Apache 2.0)","summary":"[Audio] Google DeepMind가 공개한 온디바이스 실시간 음악 생성 모델. 낮은 레이턴시로 스트리밍 생성이 가능하며, 코드(Apache 2.0) + 웨이트(CC-BY 4.0)로 상업 활용 가능. HuggingFace 트렌딩 상위권. cocy.io에서 쓸모: ACE-Step 대비 실시간 인터랙티브 BGM 생성 옵션으로 게임 내 동적 사운드트랙 실험 가능.","category":"ai-tech","source":"Google DeepMind / HuggingFace","sourceUrl":"https://magenta.withgoogle.com/magenta-realtime-2","publishedAt":"2026-06-04T00:00:00+09:00"},{"id":"6","title":"StableGen — Blender 내에서 TRELLIS.2 + FLUX로 3D 에셋 생성하는 오픈소스 애드온","summary":"[Tool] Blender에서 단일 이미지나 텍스트 프롬프트로 완전 텍스처 3D 메쉬를 생성하는 오픈소스 애드온. Microsoft TRELLIS.2(4B) + SDXL/FLUX.1-dev/Qwen Image Edit를 ComfyUI 백엔드로 연결. GPL-3.0 라이선스. cocy.io에서 쓸모: 게임 3D 오브젝트·배경 에셋을 로컬에서 빠르게 프로토타이핑할 수 있는 파이프라인 구성 가능.","category":"ai-tech","source":"GitHub / sakalond","sourceUrl":"https://github.com/sakalond/StableGen","publishedAt":"2026-06-01T00:00:00+09:00"},{"id":"7","title":"SpriteSage — AI 픽셀아트 스프라이트·애니메이션 생성 툴 (Godot 4 export 지원)","summary":"[Image] 인디 게임 개발자용 오픈소스 AI 스프라이트 생성 툴. 텍스트·이미지 프롬프트로 픽셀 캐릭터·아이템 생성, 3D GLB 애니메이션 → 스프라이트 프레임 베이크, Godot 4 .tres/.tscn 익스포트 내장. GPL-3.0. cocy.io에서 쓸모: 조커런·마작 등 캐주얼 게임에 필요한 픽셀 캐릭터·아이콘 에셋을 프롬프트 한 줄로 생성해 에셋 제작 비용 절감.","category":"ai-tech","source":"GitHub / keystoneintelligence","sourceUrl":"https://github.com/keystoneintelligence/spritesage","publishedAt":"2026-06-15T00:00:00+09:00"}]}
+{
+  "date": "2026-07-08",
+  "articles": [
+    {
+      "id": "1",
+      "title": "한미일 외교장관, NATO서 회동…북중러 3각 연대 견제",
+      "summary": "한국·미국·일본 외교장관이 튀르키예 앙카라에서 열리는 NATO 정상회의를 계기로 3자 회동을 갖는다. 북한·중국·러시아 3각 연대 강화를 견제하는 외교 이벤트가 될 전망이며, 이재명 대통령의 첫 NATO 참석에 맞춰 한미일 공조 메시지를 발신할 계획이다.",
+      "category": "domestic",
+      "source": "한국일보",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/469/0000940902",
+      "publishedAt": "2026-07-08T06:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "美 반도체주 급락·이란 공습 여파…코스피 하락 출발",
+      "summary": "미국 반도체주 급락과 이란의 이스라엘 공습 위협이 겹치며 코스피가 하락 출발할 것으로 전망된다. 전날 '검은 화요일'에 이어 하락세가 이어지는 가운데, 코스피는 오전 7,403선에서 출발(-3.30%), 코스닥도 812선에서 -2.28% 하락 출발했다.",
+      "category": "economy",
+      "source": "아시아경제",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/277/0005786904",
+      "publishedAt": "2026-07-08T08:07:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "미 국방부, HD현대중공업·한화오션에 전투함 건조 역량 첫 공식 타진",
+      "summary": "미국 국방부와 해군이 HD현대중공업, 한화오션 등 국내 주요 조선사에 전투함·급유함 건조·설계 역량을 공식 질의한 것으로 확인됐다. 트럼프 대통령의 '10척 건조 가능한가' 발언과 맞물려 실무 검토에 착수한 것으로 분석된다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/001/0016181479",
+      "publishedAt": "2026-07-08T06:30:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Stable Audio 3 Small SFX — 온디바이스 SFX 생성 오픈웨이트 모델 출시",
+      "summary": "[Audio] Stability AI가 공개한 0.6B 파라미터 경량 SFX 생성 모델. CPU만으로도 최대 2분짜리 효과음을 텍스트 프롬프트에서 바로 생성할 수 있으며, 라이선스 클린 데이터로 학습됐다. LoRA 파인튜닝 문서도 함께 공개. cocy.io에서 쓸모: 게임 효과음·환경음을 로컬에서 무료로 양산하는 파이프라인으로 즉시 투입 가능 — TangoFlux 대체 후보.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
+      "publishedAt": "2026-05-19T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Google Magenta RealTime 2 — 온디바이스 스트리밍 음악 생성 모델 (Apache 2.0)",
+      "summary": "[Audio] Google DeepMind가 공개한 온디바이스 실시간 음악 생성 모델. 낮은 레이턴시로 스트리밍 생성이 가능하며, 코드(Apache 2.0) + 웨이트(CC-BY 4.0)로 상업 활용 가능. HuggingFace 트렌딩 상위권. cocy.io에서 쓸모: ACE-Step 대비 실시간 인터랙티브 BGM 생성 옵션으로 게임 내 동적 사운드트랙 실험 가능.",
+      "category": "ai-tech",
+      "source": "Google DeepMind / HuggingFace",
+      "sourceUrl": "https://magenta.withgoogle.com/magenta-realtime-2",
+      "publishedAt": "2026-06-04T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "StableGen — Blender 내에서 TRELLIS.2 + FLUX로 3D 에셋 생성하는 오픈소스 애드온",
+      "summary": "[Tool] Blender에서 단일 이미지나 텍스트 프롬프트로 완전 텍스처 3D 메쉬를 생성하는 오픈소스 애드온. Microsoft TRELLIS.2(4B) + SDXL/FLUX.1-dev/Qwen Image Edit를 ComfyUI 백엔드로 연결. GPL-3.0 라이선스. cocy.io에서 쓸모: 게임 3D 오브젝트·배경 에셋을 로컬에서 빠르게 프로토타이핑할 수 있는 파이프라인 구성 가능.",
+      "category": "ai-tech",
+      "source": "GitHub / sakalond",
+      "sourceUrl": "https://github.com/sakalond/StableGen",
+      "publishedAt": "2026-06-01T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "SpriteSage — AI 픽셀아트 스프라이트·애니메이션 생성 툴 (Godot 4 export 지원)",
+      "summary": "[Image] 인디 게임 개발자용 오픈소스 AI 스프라이트 생성 툴. 텍스트·이미지 프롬프트로 픽셀 캐릭터·아이템 생성, 3D GLB 애니메이션 → 스프라이트 프레임 베이크, Godot 4 .tres/.tscn 익스포트 내장. GPL-3.0. cocy.io에서 쓸모: 조커런·마작 등 캐주얼 게임에 필요한 픽셀 캐릭터·아이콘 에셋을 프롬프트 한 줄로 생성해 에셋 제작 비용 절감.",
+      "category": "ai-tech",
+      "source": "GitHub / keystoneintelligence",
+      "sourceUrl": "https://github.com/keystoneintelligence/spritesage",
+      "publishedAt": "2026-06-15T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Dasheng-AudioGen — 통합 오디오 생성 모델 (Apache 2.0, Xiaomi Research)",
+      "summary": "[Audio] Xiaomi Research 공개. 음성·음악·SFX·환경음을 단일 2B 모델에서 구조화 태그(<|sfx|>, <|music|>, <|speech|> 등)로 혼합 생성. Apache 2.0 상업 허용 ✅. cocy.io에서 쓸모: 게임 씬 한 프롬프트에 배경음악+SFX+환경음을 동시에 생성해 TangoFlux+ACE-Step 이중 파이프라인을 단일 모델로 통합 가능.",
+      "category": "ai-tech",
+      "source": "Xiaomi Research / HuggingFace",
+      "sourceUrl": "https://huggingface.co/mispeech/Dasheng-AudioGen",
+      "publishedAt": "2026-07-08T03:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Stable Audio 3 Optimized — 하드웨어 최적화 오디오 생성 가중치 (Stability AI, 2026-07-08 신규)",
+      "summary": "[Audio] Stability AI가 오늘(7/8) 업데이트한 SA3 하드웨어 최적화 체크포인트. H200/M4에서 수 초 이내 생성, M4 MacBook도 지원. SA3 Medium 기반으로 inference 가속에 초점. 상업 사용 시 stability.ai/license 확인 필요 (개인·연 $1M 미만 기업 무료). cocy.io에서 쓸모: 기존 SA3 파이프라인에 드롭인 교체로 생성 속도 단축, 게임 SFX 대량 생산에 유리.",
+      "category": "ai-tech",
+      "source": "Stability AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-optimized",
+      "publishedAt": "2026-07-08T03:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Krea-2-Turbo — 12B 텍스트-이미지 모델 HF 트렌딩 1위 (Community License, 라이선스 미확인)",
+      "summary": "[Image] Krea.ai 공개. 12B DiT 아키텍처, 8-step 생성(2048×2048 지원), diffusers/SGLang 통합. Turbo(파인튜닝)·Raw(베이스) 두 체크포인트 제공. Community License — 상업 사용 가능 여부 krea.ai 라이선스 페이지 직접 확인 필요(라이선스 미확인). cocy.io에서 쓸모: FLUX.1-dev 대비 8-step 초고속, 상업 허용 확인 시 게임 캐릭터·배경 아트 파이프라인 대체 후보.",
+      "category": "ai-tech",
+      "source": "Krea.ai / HuggingFace",
+      "sourceUrl": "https://huggingface.co/krea/Krea-2-Turbo",
+      "publishedAt": "2026-06-22T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "AlayaWorld — 오픈소스 인터랙티브 비디오 월드 생성 프레임워크 (HF 데일리 페이퍼 1위)",
+      "summary": "[Video] 오늘 HF 데일리 페이퍼 1위(27업보트). 게임플레이 영상+실사 영상 혼합 학습으로 실시간 인터랙티브 세계 생성. 전투·마법·몬스터 소환 등 오픈엔드 액션 지원. 풀스택 오픈소스(데이터 준비→학습→추론→배포). cocy.io에서 쓸모: 게임 세계관 실시간 시각화·프로토타이핑 및 향후 게임 엔진 대체 실험 기반으로 활용 가능.",
+      "category": "ai-tech",
+      "source": "AlayaWorld / arXiv",
+      "sourceUrl": "https://huggingface.co/papers/2607.06291",
+      "publishedAt": "2026-07-07T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Nemotron-Labs-Diffusion — NVIDIA AR+Diffusion 통합 LM, Qwen3 대비 4배 처리량 (라이선스 미확인)",
+      "summary": "[Tool] NVIDIA 공개. AR+Diffusion+자가투기(Self-Speculation) 3모드 통합. 8B 기준 Qwen3-8B 대비 6배 많은 토큰/패스, 4배 높은 실처리량(GB200 기준). 3B/8B/14B 패밀리, VLM 포함. 라이선스 미확인(HF 컬렉션 확인 필요). cocy.io에서 쓸모: llm.cocy.io 백엔드 추론 속도 개선 후보 — Qwen3 대비 비용 대비 속도 우위 검증 가치 있음.",
+      "category": "ai-tech",
+      "source": "NVIDIA / arXiv",
+      "sourceUrl": "https://huggingface.co/papers/2607.05722",
+      "publishedAt": "2026-07-08T03:00:00+09:00"
+    }
+  ]
+}
