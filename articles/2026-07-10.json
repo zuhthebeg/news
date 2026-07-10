@@ -63,6 +63,51 @@
       "source": "HuggingFace - wikeeyang",
       "sourceUrl": "https://huggingface.co/wikeeyang/Flux2-Klein-9B-True-V3",
       "publishedAt": "2026-07-10T10:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Chatterbox (Resemble AI): MIT 라이선스 제로샷 음성 복제 TTS 오픈소스",
+      "summary": "[TTS] Resemble AI가 Chatterbox를 MIT 라이선스로 공개했다. 레퍼런스 오디오 수 초만으로 제로샷 보이스 클로닝이 가능하며, 감정 강도 컨트롤(exaggeration/cfg_weight 파라미터)을 지원한다. 웃음·탄식 등 비언어 사운드도 생성 가능해 기존 GPT-SoVITS 대비 파인튜닝 없이 즉시 사용 가능하다. cocy.io에서 쓸모: 고스톱/조커런 게임 내 캐릭터 콜 음성 추가 녹음 없이 기존 샘플로 다국어 음성 자동 생성(MIT, 상업 무제한).",
+      "category": "ai-tech",
+      "source": "Resemble AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-07-01T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Dia (Nari Labs): Apache 2.0 멀티스피커 대화 TTS, 비언어음 포함",
+      "summary": "[TTS] Nari Labs가 Dia를 Apache 2.0으로 공개했다. 단일 패스로 멀티스피커 대화를 생성하며 웃음·기침·한숨 등 비언어 사운드를 텍스트 태그([laughs] 등)로 제어할 수 있다. 1.6B 파라미터로 로컬 GPU에서 실시간 근접 속도 구동 가능. cocy.io에서 쓸모: 게임 컷씬 대화 오디오를 녹음 없이 멀티캐릭터 TTS로 한 번에 생성하는 파이프라인 구축(Apache 2.0, 상업 OK).",
+      "category": "ai-tech",
+      "source": "Nari Labs / HuggingFace",
+      "sourceUrl": "https://huggingface.co/nari-labs/Dia-1.6B",
+      "publishedAt": "2026-06-15T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Wan 2.7 (Alibaba Tongyi Lab): Apache 2.0 오픈소스 1080p 비디오 생성, 오디오 싱크 내장",
+      "summary": "[Video] Alibaba Tongyi Lab이 Wan 2.7을 Apache 2.0으로 공개했다. 27B MoE 아키텍처로 텍스트→영상·이미지→영상·인스트럭션 편집을 지원하며, 네이티브 오디오 싱크(립싱크/비트 매칭)·멀티레퍼런스 일관성(최대 9개 참조)·퍼스트-라스트 프레임 컨트롤을 포함한다. VBench에서 Sora를 상회. 최소 16GB VRAM, ComfyUI 지원. cocy.io에서 쓸모: 게임 트레일러·쇼케이스 영상을 로컬 RTX 3080 Ti로 생성 가능(Apache 2.0, 상업 OK).",
+      "category": "ai-tech",
+      "source": "Alibaba Tongyi Lab / HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.7-T2V-14B",
+      "publishedAt": "2026-04-01T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "LTX-2.3 (Lightricks): 오픈웨이트 상업용 4K/50fps 오디오-비디오 파운데이션 모델",
+      "summary": "[Video] Lightricks가 LTX-2.3을 오픈웨이트 상업 라이선스로 공개했다. 4K 50fps + 스테레오 24kHz 오디오를 단일 모델에서 생성하는 최초 오픈소스 오디오-비디오 파운데이션 모델이다. 22B 파라미터이나 경량 버전인 LTX-Video는 8GB VRAM GPU에서 구동 가능하다. 세로(portrait) 네이티브 트레이닝으로 모바일 콘텐츠 최적화. cocy.io에서 쓸모: 게임 홍보 숏폼 세로영상 자동 생성·BGM 동기화 원스톱 파이프라인(상업 오픈웨이트).",
+      "category": "ai-tech",
+      "source": "Lightricks / HuggingFace",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-Video",
+      "publishedAt": "2026-03-05T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "FLUX.2 [klein] 4B: Apache 2.0 초경량 실시간 이미지 생성, 6GB VRAM 지원",
+      "summary": "[Image] Black Forest Labs가 FLUX.2 [klein] 4B를 Apache 2.0으로 공개했다. 4B 파라미터로 6~8GB VRAM에서 서브-초(sub-second) 이미지 생성이 가능하며 FLUX.1-dev 수준의 품질을 유지한다. 엣지 디바이스·실시간 편집 파이프라인을 타겟으로 설계됐다. 9B 버전은 비상업 라이선스이므로 상업 사용 시 반드시 4B 버전 선택. cocy.io에서 쓸모: 로컬 RTX 3080 Ti에서 게임 카드·아이콘 아트를 실시간 배치 생성, 기존 SDXL 대체 가속(Apache 2.0, 상업 OK).",
+      "category": "ai-tech",
+      "source": "Black Forest Labs / HuggingFace",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein",
+      "publishedAt": "2025-11-01T00:00:00+09:00"
     }
   ]
 }
