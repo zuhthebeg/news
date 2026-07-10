@@ -920,6 +920,66 @@
         "뷰어"
       ],
       "addedAt": "2026-06-01"
+    },
+    {
+      "title": "Ghost Eye",
+      "description": "텍스트 전용 LLM이 비전 모델을 통해 이미지를 볼 수 있게 해주는 브릿지 스킬. OCR과 시각 요약을 한 번에 처리.",
+      "icon": "👁️",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/ghost-eye",
+      "tags": [
+        "vision",
+        "OCR"
+      ],
+      "addedAt": "2026-07-10"
+    },
+    {
+      "title": "X Hot Topics",
+      "description": "X(트위터) 실시간 트렌딩 토픽을 수집·분석. 자연어로 관심사를 말하면 관련 인기 화제를 뽑아 요약해준다.",
+      "icon": "📈",
+      "category": "data",
+      "url": "https://clawhub.com/skills/x-hots",
+      "tags": [
+        "트렌드",
+        "SNS"
+      ],
+      "addedAt": "2026-07-10"
+    },
+    {
+      "title": "GitBeacon",
+      "description": "GitHub 신규 트렌딩 레포를 매일 스캔해 LLM 분석 리포트로 정리. AI 에이전트용 구조화 피드 제공.",
+      "icon": "🛰️",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/gitbeacon",
+      "tags": [
+        "github",
+        "트렌드"
+      ],
+      "addedAt": "2026-07-10"
+    },
+    {
+      "title": "Snip Compressor",
+      "description": "긴 대화 히스토리를 핵심 결정·사실을 보존하며 시맨틱 요약해 컨텍스트 토큰을 절약하는 압축기.",
+      "icon": "🗜️",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/snip-compressor",
+      "tags": [
+        "토큰절약",
+        "컨텍스트"
+      ],
+      "addedAt": "2026-07-10"
+    },
+    {
+      "title": "Exec Guard",
+      "description": "셸 명령 실행 전에 위험 명령을 자동 분류해 차단하는 퍼미션 가드. 에이전트의 위험한 rm/curl 실행 사고 예방.",
+      "icon": "🛡️",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/exec-guard",
+      "tags": [
+        "보안",
+        "안전장치"
+      ],
+      "addedAt": "2026-07-10"
     }
   ]
 }
