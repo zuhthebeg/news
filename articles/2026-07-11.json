@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-11",
+  "articles": [
+    {
+      "id": "1",
+      "title": "SK하이닉스 나스닥 ADR 상장 첫날 13% 급등…외국기업 역대 최대 규모",
+      "summary": "SK하이닉스가 7월 10일(현지시간) 미국 나스닥에 ADR(미국주식예탁증서)를 상장해 첫날 13.1% 급등, 168.49달러로 마감했다. 약 265억 달러(40조 원)를 조달해 외국 기업의 미국 증시 ADR 상장 사상 최대 규모를 기록했다. 최태원 SK그룹 회장은 오프닝벨 행사에서 5년 내 생산능력 두 배 확대 계획을 밝혔다.",
+      "category": "economy",
+      "source": "동아일보",
+      "sourceUrl": "https://www.donga.com/news/Economy/article/all/20260711/134278606/1",
+      "publishedAt": "2026-07-11T08:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "IMF, 한국 성장률 2.6%로 상향…주요 30개국 중 최대 상향폭",
+      "summary": "국제통화기금(IMF)이 반도체·AI 하드웨어 수출 호조를 이유로 한국 경제성장률 전망치를 기존 1.9%에서 2.6%로 0.7%포인트 상향 조정했다. 이는 IMF가 발표한 주요 30개국 가운데 가장 큰 상향폭이다. 여러 국내외 금융기관들도 3.0% 이상 성장을 전망하며 반도체 중심의 AI 특수를 핵심 동력으로 꼽았다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260711002300072",
+      "publishedAt": "2026-07-11T07:30:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "HLB 간암 신약, FDA 3차 승인 거부…주가 9개월 최저",
+      "summary": "국내 바이오기업 HLB의 간암 치료제가 FDA로부터 세 번째 허가 거부 통보를 받았다. 이에 HLB 주가는 9개월래 최저 수준으로 급락했다. 업계에서는 임상 데이터 보완 과정이 길어질 경우 상업화 시점이 크게 지연될 수 있다고 우려하고 있다.",
+      "category": "domestic",
+      "source": "KED Global",
+      "sourceUrl": "https://www.kedglobal.com/bio-pharma/newsView/ked202607100004",
+      "publishedAt": "2026-07-10T23:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "ShinyHunters, Amazon·KDDI 등 연쇄 공격…2026 상반기 '메가 브리치' 절반 차지",
+      "summary": "사이버범죄 그룹 ShinyHunters가 Amazon 계열 One Medical(환자 데이터 8.8TB), KDDI(이메일 1220만 건), Medtronic(개인정보 380만 명) 등을 연달아 해킹해 2026년 상반기 확인된 대규모 데이터 유출 사건의 절반 이상을 차지했다. 공통 패턴은 서드파티 저장소·레거시 시스템 취약점 악용이다.",
+      "category": "tech",
+      "source": "Security Boulevard",
+      "sourceUrl": "https://securityboulevard.com/2026/07/top-10-breaches-of-the-week/",
+      "publishedAt": "2026-07-11T01:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "EU, Meta에 알고리즘 추천·무한스크롤 기본 비활성화 촉구…DSA 조사 2년 결과",
+      "summary": "유럽위원회가 디지털서비스법(DSA) 기반 2년 조사 결과, Meta가 Facebook·Instagram의 개인화 추천·오토플레이·무한스크롤 기능의 위험성을 충분히 평가하지 않았다고 결론 내렸다. Meta에 이 기능들을 기본 비활성화하고 실질적인 화면 이용시간 제한 도구를 도입할 것을 촉구했다.",
+      "category": "tech",
+      "source": "Pakistan Today / EU Commission",
+      "sourceUrl": "https://www.pakistantoday.com.pk/2026/07/10/eu-tells-meta-to-change-instagram-and-facebook-features-or-face-fines",
+      "publishedAt": "2026-07-10T20:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "ESA 유클리드 망원경, 역대 최고령 퀘이사 31개 발견…우주 최초의 빛에 근접",
+      "summary": "유럽우주국(ESA)의 유클리드 우주망원경이 관측 사상 가장 오래된 퀘이사 31개를 발견했으며, 그 중 2개는 우주 초기에 해당하는 역대 최고령으로 확인됐다. 이 발견은 초기 우주에서 초대질량 블랙홀이 어떻게 형성되고 성장했는지를 이해하는 데 중요한 단서를 제공한다.",
+      "category": "science",
+      "source": "NASA / ESA Science",
+      "sourceUrl": "https://science.nasa.gov/blogs/science-news/2026/07/06/esas-euclid-space-telescope-finds-universes-most-ancient-quasars/",
+      "publishedAt": "2026-07-06T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "중국 탐사선 톈원-2, 소행성 카모오알레와 도착…샘플 채취 시작",
+      "summary": "중국의 소행성 탐사선 톈원-2가 지구 근접 소행성 카모오알레와(Kamoʻoalewa)에 도착해 본격적인 샘플 채취에 들어갔다. 카모오알레와는 지구의 준위성(quasi-satellite)으로 분류되는 특이한 궤도를 가진 소행성으로, 이번 채취 샘플은 소행성 기원과 구성을 밝히는 데 핵심 자료가 될 전망이다.",
+      "category": "science",
+      "source": "Spaceflight Now",
+      "sourceUrl": "https://spaceflightnow.com/2026/07/",
+      "publishedAt": "2026-07-10T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Castle.com, 도박과 비디오게임 결합 플랫폼 공식 출시…게임 내 코인 경제 통합",
+      "summary": "Castle.com이 전통적인 도박 메커니즘과 비디오게임 요소를 결합한 하이브리드 플랫폼을 정식 출시했다. 게임 플레이로 획득한 코인을 실제 경품으로 교환하는 모델을 도입해 게임·카지노 경계를 허무는 신규 시장을 개척한다. 규제 환경과의 충돌 여부가 향후 관심사다.",
+      "category": "gaming",
+      "source": "GlobeNewswire",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/07/10/3325430/0/en/castle-com-is-bridging-gambling-and-video-games-and-building-an-entire-world-around-it.html",
+      "publishedAt": "2026-07-10T00:00:00+09:00"
+    }
+  ]
+}
