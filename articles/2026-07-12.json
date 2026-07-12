@@ -126,6 +126,51 @@
       "source": "Summer Engine",
       "sourceUrl": "https://www.summerengine.com",
       "publishedAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "Bark TTS MIT 라이선스 전환: 비언어음(웃음·한숨·SFX) 포함 상업 무료 오픈소스",
+      "summary": "[Audio] Suno AI의 Bark 트랜스포머 TTS가 MIT 라이선스로 전환되면서 완전 상업 무료 사용 가능. 비언어음(웃음, 한숨, 울음, 배경 노이즈)을 텍스트 스크립트로 제어 가능. 4GB VRAM GPU에서도 구동. 라이선스: MIT. cocy.io에서 쓸모: 게임 캐릭터 감정 대사 녹음 대체 및 SFX 혼합 음성을 로컬에서 무료 생성 가능.",
+      "category": "ai-tech",
+      "source": "Suno AI / GitHub",
+      "sourceUrl": "https://github.com/suno-ai/bark",
+      "publishedAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "Chatterbox-Turbo (MIT): 5초 샘플로 제로샷 음성 클로닝, 23개 언어 실시간 지원",
+      "summary": "[Voice] Resemble AI의 Chatterbox-Turbo가 MIT 라이선스로 공개. 약 5초 오디오 샘플만으로 제로샷 음성 클로닝 및 감정 제어 지원, 23개 언어 커버. 실시간 음성 에이전트 시나리오에 최적화된 저지연 설계. 라이선스: MIT. cocy.io에서 쓸모: 고스톱·멀티플레이어 게임 AI 캐릭터 음성을 샘플 한 클립으로 복제해 다국어 더빙 파이프라인 구축 가능.",
+      "category": "ai-tech",
+      "source": "Resemble AI",
+      "sourceUrl": "https://github.com/resemble-ai/chatterbox",
+      "publishedAt": "2026-06-20T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "Qwen3-TTS (Apache 2.0): 3초 음성 샘플로 감정·억양 분리 제어 클로닝",
+      "summary": "[Voice] Alibaba Qwen 팀의 TTS 모델. 3초 음성 샘플만으로 화자 클로닝 가능, 감정 표현과 화자 정체성을 독립 제어(disentanglement). Apache 2.0 라이선스로 상업 제한 없음. HuggingFace에서 가중치 공개. 라이선스: Apache 2.0. cocy.io에서 쓸모: cocy 녹음 음성 3초만으로 고스톱 미구현 콜 음성을 자동 생성해 더빙 세션 절감 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / QwenLM",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS",
+      "publishedAt": "2026-07-05T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "FLUX.2 [klein] Apache 2.0: 4B 파라미터 이미지 생성 8GB VRAM 로컬 구동",
+      "summary": "[Image] Black Forest Labs의 FLUX.2 klein 변형 모델. 4B 파라미터로 약 8GB VRAM에서 로컬 실행 가능, 기존 FLUX.1-dev 대비 메모리 절반. Apache 2.0 라이선스로 상업 무제한. HuggingFace Diffusers 통합. 라이선스: Apache 2.0. cocy.io에서 쓸모: RTX 3080 Ti(12GB)에서 현재 FLUX.1-dev(GGUF) 대비 더 빠르게 게임 카드·배경 아트 생성 가능, 파이프라인 전환 검토 대상.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs / HuggingFace",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein",
+      "publishedAt": "2026-07-08T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "Orpheus-TTS (Apache 2.0): Llama 기반 감정 태그 제어 표현력 높은 TTS",
+      "summary": "[Voice] Canopy Labs의 Orpheus TTS. Llama 아키텍처 기반으로 <laugh>, <sigh>, <cough>, <groan> 등 감정 태그를 텍스트에 삽입해 세밀한 표현 제어 가능. Apache 2.0 라이선스, HuggingFace 가중치 공개. 라이선스: Apache 2.0. cocy.io에서 쓸모: 게임 캐릭터 대사에 감정 태그를 넣어 웃음·한숨이 섞인 자연스러운 음성을 ACE-Step BGM과 합성해 시네마틱 장면 구성 가능.",
+      "category": "ai-tech",
+      "source": "Canopy Labs / HuggingFace",
+      "sourceUrl": "https://huggingface.co/canopylabs/orpheus-3b-0.1-ft",
+      "publishedAt": "2026-06-15T00:00:00Z"
     }
   ]
 }
