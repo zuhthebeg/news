@@ -980,6 +980,45 @@
         "안전장치"
       ],
       "addedAt": "2026-07-10"
+    },
+    {
+      "title": "Capability Evolver",
+      "description": "에이전트의 런타임 로그를 분석해 오류·비효율을 탐지하고 개선 제안을 자동 생성. 로컬에서 완전 실행, 에이전트 자기개선 루프 구현.",
+      "icon": "🔄",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/capability-evolver",
+      "tags": [
+        "자기개선",
+        "에이전트",
+        "로그분석"
+      ],
+      "addedAt": "2026-07-12"
+    },
+    {
+      "title": "n8n Workflow",
+      "description": "400개 이상 앱과 OpenClaw를 연결하는 n8n 워크플로 통합. Gmail·Slack·Notion·GitHub 등 복잡한 크로스 플랫폼 자동화를 에이전트로 오케스트레이션.",
+      "icon": "🔗",
+      "category": "productivity",
+      "url": "https://clawhub.com/skills/n8n-workflow",
+      "tags": [
+        "자동화",
+        "통합",
+        "n8n"
+      ],
+      "addedAt": "2026-07-12"
+    },
+    {
+      "title": "Tavily Search",
+      "description": "실시간 AI 최적화 웹 검색 API 기반 딥 리서치 스킬. 팩트체크·최신 정보 조회에 특화, 일반 검색 대비 LLM 친화적 구조화 결과 반환.",
+      "icon": "🔍",
+      "category": "dev",
+      "url": "https://clawhub.com/skills/tavily-search",
+      "tags": [
+        "검색",
+        "리서치",
+        "API"
+      ],
+      "addedAt": "2026-07-12"
     }
   ]
 }
