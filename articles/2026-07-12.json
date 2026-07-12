@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-12",
+  "articles": [
+    {
+      "id": "1",
+      "title": "\"한국도 39.9도 찍었다\" 경산 '최악 더위'…이중 열돔에 갇혔다",
+      "summary": "경상북도 경산에서 39.9도를 기록하며 역대급 폭염이 계속되고 있다. 이중 열돔 현상으로 한반도 전역에 극심한 더위가 이어지고 있으며, 서울의 경우 7월 12일 최고 35도가 예상된다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr",
+      "publishedAt": "2026-07-11T12:15:48Z"
+    },
+    {
+      "id": "2",
+      "title": "美하원 규칙위, '한국의 美기업 차별 보고' NDAA 반영에 제동",
+      "summary": "미국 하원 규칙위원회가 한국의 미국 기업 차별 보고를 국방수권법(NDAA)에 반영하는 조항에 제동을 걸었다. 한미 무역 관계에 영향을 줄 수 있는 이슈로 주목된다.",
+      "category": "world",
+      "source": "다음뉴스",
+      "sourceUrl": "https://v.daum.net",
+      "publishedAt": "2026-07-11T17:01:54Z"
+    },
+    {
+      "id": "3",
+      "title": "IMF, 한국 성장률 2.6%로 상향…주요 30개국 중 최대폭 조정",
+      "summary": "국제통화기금(IMF)이 한국의 2026년 경제 성장률 전망을 2.6%로 상향 조정했다. 이는 주요 30개국 중 가장 큰 폭의 상향 조정으로, 한국 경제의 강한 회복세를 반영한 것이다.",
+      "category": "economy",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com",
+      "publishedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "아두나, 미국 주요 이동통신사와 SMS 코드 대신 네트워크 기반 인증 도입",
+      "summary": "보안 스타트업 아두나(Aduna)가 미국 주요 이동통신사와 협력해 SMS 인증 코드를 대체하는 네트워크 기반 인증 시스템을 도입한다. SIM 스와핑 등 SMS 기반 공격을 원천 차단하는 방식으로 보안 업계의 주목을 받고 있다.",
+      "category": "tech",
+      "source": "KIPOST",
+      "sourceUrl": "https://www.kipost.net",
+      "publishedAt": "2026-07-08T13:26:00Z"
+    },
+    {
+      "id": "5",
+      "title": "AI 플랫폼 '국경 전쟁'…알리바바, 클로드 코드 대체재로 급부상",
+      "summary": "중국 알리바바의 AI 개발 플랫폼이 클로드 코드를 대체하는 도구로 부상하면서, AI 플랫폼 시장이 국경을 넘는 경쟁 구도로 재편되고 있다. 빅테크 간 AI 생태계 주도권 다툼이 지정학적 갈등으로 확산되는 모습이다.",
+      "category": "tech",
+      "source": "테크42",
+      "sourceUrl": "https://www.tech42.co.kr",
+      "publishedAt": "2026-07-06T00:39:35Z"
+    },
+    {
+      "id": "6",
+      "title": "최고과학기술인상에 천진우 연세대 교수…뇌과학 난제 해결할 나노의학 개척자",
+      "summary": "연세대학교 천진우 특훈교수가 2026년 최고과학기술인상을 수상했다. 나노 기술을 의학에 접목해 뇌과학 난제 해결에 도전하고 있는 나노의학 분야의 개척자로 평가받는다.",
+      "category": "science",
+      "source": "동아사이언스",
+      "sourceUrl": "https://www.dongascience.com",
+      "publishedAt": "2026-07-06T05:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "빅파마는 왜 우주로 가나…신약 개발 판 바꾸는 미세중력",
+      "summary": "글로벌 제약사들이 우주 환경의 미세중력을 활용한 신약 개발에 나서고 있다. 지상에서 불가능한 단백질 결정 성장이 우주에서 가능해 신약 후보물질 발굴이 기대된다는 분석이다.",
+      "category": "science",
+      "source": "이데일리",
+      "sourceUrl": "https://www.edaily.co.kr",
+      "publishedAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "2026년 7월 무료 게임 배포 총정리…PS Plus·Xbox·Epic 대형 타이틀 대거 포함",
+      "summary": "PS Plus, Xbox Game Pass, Epic Games 등 주요 플랫폼에서 2026년 7월 무료 제공하는 게임 목록이 공개됐다. 대형 AAA 타이틀이 다수 포함돼 게이머들의 주목을 받고 있다.",
+      "category": "gaming",
+      "source": "games.gg",
+      "sourceUrl": "https://games.gg",
+      "publishedAt": "2026-07-01T07:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "메가텐 아트 디렉터 카네코 카즈마 신작 'TSUKUYOMI', 7월 24일 Steam 출시",
+      "summary": "여신전생 시리즈 아트 디렉터 카네코 카즈마의 신작 RPG 'KAZUMA KANEKO'S TSUKUYOMI'가 7월 24일 Steam을 통해 출시된다. 독특한 신화적 세계관과 악마 디자인으로 시리즈 팬들의 기대를 모으고 있다.",
+      "category": "gaming",
+      "source": "Google News",
+      "sourceUrl": "https://news.google.com",
+      "publishedAt": "2026-07-10T00:00:00Z"
+    }
+  ]
+}
