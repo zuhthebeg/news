@@ -1019,6 +1019,45 @@
         "API"
       ],
       "addedAt": "2026-07-12"
+    },
+    {
+      "title": "Self-Improving Agent",
+      "description": "에이전트의 능력을 자동으로 분석해 부족한 스킬을 찾고, 새 스킬을 생성·설치하는 자기개선 루프. 2026년 ClawHub 최다 다운로드(419K+) 스킬로 에이전트 자율성을 높인다.",
+      "icon": "🚀",
+      "category": "dev",
+      "url": "https://clawhub.ai/skills/self-improving-agent",
+      "tags": [
+        "자기개선",
+        "에이전트",
+        "성능"
+      ],
+      "addedAt": "2026-07-14"
+    },
+    {
+      "title": "Clawhub Skill Optimizer",
+      "description": "ClawHub 스킬 설치 환경과 성능을 분석해 최적 조합을 제안하는 도구. 불필요한 스킬 정리, 충돌 감지, 업데이트 일정 제안.",
+      "icon": "⚙️",
+      "category": "productivity",
+      "url": "https://clawhub.ai/gechengling/clawhub-skill-optimizer",
+      "tags": [
+        "최적화",
+        "스킬관리",
+        "설정"
+      ],
+      "addedAt": "2026-07-14"
+    },
+    {
+      "title": "Career Path & Education Intelligence",
+      "description": "커리어 현황을 분석해 학습 경로, 기술 갭, 유망 직무를 제안하는 스킬. 교육 리소스 추천과 진로 로드맵 자동 생성.",
+      "icon": "🎓",
+      "category": "productivity",
+      "url": "https://clawhub.ai/ai-gaoqian/skills/career-path-intel",
+      "tags": [
+        "커리어",
+        "교육",
+        "진로"
+      ],
+      "addedAt": "2026-07-14"
     }
   ]
 }

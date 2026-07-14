@@ -101,6 +101,42 @@
       "source": "게임뉴스",
       "sourceUrl": "https://www.gametrics.com/news/News01_View.aspx?seqid=67896",
       "publishedAt": "2026-07-14T07:45:00"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] MOSS-TTS 패밀리 Apache 2.0 오픈소스: 8B 음성합성 + SoundEffect v2.0 SFX 생성",
+      "summary": "[Audio] OpenMOSS 팀이 MOSS-TTS 패밀리를 Apache 2.0 라이선스로 공개(5월 26일 릴리스). 8B 매개변수 음성생성, MOSS-SoundEffect v2.0은 1.3B 확산 모델로 텍스트에서 타겟 사운드 이펙트/환경음 생성(48kHz 브로드캐스트 품질). 로컬 Transformer 4B/1.7B 경량 모델도 제공. cocy.io 리듬게임/라운드 코인 라벨 음성 생성에 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub - OpenMOSS/MOSS-TTS",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-07-14T09:00:00"
+    },
+    {
+      "id": "11",
+      "title": "[Image] FLUX.2 [klein] 4B Apache 2.0 상업용 오픈소스 릴리스(1월 15일)",
+      "summary": "[Image] Black Forest Labs FLUX.2 [klein] 4B 모델을 Apache 2.0으로 공개(2026년 1월 15일). 소비자 GPU(RTX 3090/4070)에서 1초 이내 텍스트→이미지 생성, 이미지 편집·다중 참조 생성 통합. 상업 사용·커스터마이징 완전 자유. FLUX.2 autoencoder도 Apache 2.0 공개. cocy.io 게임 카드/캐릭터 아트 로컬 생성 파이프라인 대체 가능.",
+      "category": "ai-tech",
+      "source": "GitHub - black-forest-labs/flux2",
+      "sourceUrl": "https://github.com/black-forest-labs/flux2",
+      "publishedAt": "2026-07-14T09:15:00"
+    },
+    {
+      "id": "12",
+      "title": "[Edge] Transformers.js v4 WebGPU 백엔드 + Llama 3.2 3B 브라우저 로컬 추론(2월 2026)",
+      "summary": "[Edge] Transformers.js v4(2026년 2월 릴리스)에서 WebGPU 백엔드 추가로 이전 대비 3~10배 속도 향상. Llama 3.2 3B이 웹브라우저에서 초당 60토큰 생성. 게임 임베딩, AI 번역, 에이전트 추론을 클라이언트 GPU로 가속(네트워크 지연·프라이버시 개선). cocy.io 포탈/도구 페이지의 에이전트 상담, 게임 내 AI 동반자에 최적.",
+      "category": "ai-tech",
+      "source": "WebGPU Browser AI Inference: Cut Client-Side LLM Costs in 2026",
+      "sourceUrl": "https://www.programming-helper.com/tech/webgpu-2026-browser-gpu-api-wgsl-ai-inference",
+      "publishedAt": "2026-07-14T09:30:00"
+    },
+    {
+      "id": "13",
+      "title": "[Image] ComfyUI 인디 게임 에셋 파이프라인 2026 표준화: 텍스처·리페어·업스케일 무인화",
+      "summary": "[Tool] ComfyUI가 2026년 인디 게임 프로덕션 파이프라인 표준이 됨. 로컬 GPU 실행(API 업로드 없음), 텍스처 변형/리페어/스프라이트 프레임/업스케일 배치 자동화. FLUX.1 Kontext [dev]·ControlNet·LoRA 지원으로 프리프로덕션 속도 극적 개선. cocy.io 게임(조커런/마작/음악게임) 카드·캐릭터·배경 에셋 배치 생성에 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "ComfyUI for Game Asset Pipelines: The Indie 2026 Playbook",
+      "sourceUrl": "https://www.strayspark.studio/blog/comfyui-game-asset-pipeline-indie-2026",
+      "publishedAt": "2026-07-14T09:45:00"
     }
   ]
 }
