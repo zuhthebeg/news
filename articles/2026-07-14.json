@@ -1,0 +1,106 @@
+{
+  "date": "2026-07-14",
+  "weather": {
+    "temp": "27℃",
+    "condition": "흐림",
+    "icon": "☁️",
+    "feelsLike": "30℃",
+    "humidity": "100%",
+    "windspeed": "13km/h"
+  },
+  "indices": {
+    "kospi": {
+      "value": "6828.58",
+      "change": "+21.65",
+      "changePercent": "+0.32%"
+    },
+    "kosdaq": {
+      "value": "799.23",
+      "change": "+0.13",
+      "changePercent": "-0.02%"
+    }
+  },
+  "articles": [
+    {
+      "id": "1",
+      "title": "국제유가 10% 급등...트럼프 이란 해상 봉쇄 재개",
+      "summary": "트럼프 미국 대통령의 이란 해상 봉쇄 재개 선언으로 국제유가가 하루 만에 9.6% 급등, 배럴당 83.30달러 기록",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/world/12097848",
+      "publishedAt": "2026-07-14T07:00:00"
+    },
+    {
+      "id": "2",
+      "title": "은행 ETF 판매 63조원 역대 최대...증시 조정에 투자자 비상",
+      "summary": "증시 조정 국면에서 은행권 ETF 판매액이 63조원으로 역대 최대를 기록, 투자자들의 불안감이 고조되고 있음",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/economy/12097806",
+      "publishedAt": "2026-07-14T06:30:00"
+    },
+    {
+      "id": "3",
+      "title": "경기도 국평 8.5억 시대...비규제 반세권 관심 증가",
+      "summary": "경기도 국민평형이 8.5억원대에 진입하면서 규제가 적은 반세권 지역에 대한 수요가 증가하는 추세",
+      "category": "domestic",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/realestate/12097863",
+      "publishedAt": "2026-07-14T08:00:00"
+    },
+    {
+      "id": "4",
+      "title": "TSMC 6월 매출 68% 급증...AI 반도체 수요 역대급 성장",
+      "summary": "TSMC의 6월 매출이 전월 대비 68% 급증하며 AI 반도체에 대한 글로벌 수요가 폭발적으로 증가하는 것으로 나타남",
+      "category": "tech",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/it/12097830",
+      "publishedAt": "2026-07-14T07:15:00"
+    },
+    {
+      "id": "5",
+      "title": "Microsoft Edge 검색 매출 40% 증가...AI 검색 엔진 경쟁 심화",
+      "summary": "마이크로소프트 엣지의 검색 관련 매출이 40% 증가하면서 구글·OpenAI와의 AI 검색 시장 경쟁이 심화 중",
+      "category": "tech",
+      "source": "한경비즈",
+      "sourceUrl": "https://www.hankyung.com/news/article/202607144537",
+      "publishedAt": "2026-07-14T07:45:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA 우주비행사 소유즈 미세중력 의학 연구 수행",
+      "summary": "NASA 우주비행사 아닐 메논이 ISS에서 8개월간 미세중력이 정맥 구조와 혈액에 미치는 영향을 연구할 예정",
+      "category": "science",
+      "source": "뉴스스페이스",
+      "sourceUrl": "https://www.newsspace.kr/news/article.html?no=14737",
+      "publishedAt": "2026-07-14T06:45:00"
+    },
+    {
+      "id": "7",
+      "title": "국내 우주의약 연구 본격화...스페이스린텍 ISS 단백질 실험 추진",
+      "summary": "스페이스린텍이 올해 국내 최초 우주 의약 연구모듈 'BEE-PC1'을 ISS에 탑재하여 단백질 결정화 실험을 진행 중",
+      "category": "science",
+      "source": "뉴스스페이스",
+      "sourceUrl": "https://www.newsspace.kr",
+      "publishedAt": "2026-07-14T06:50:00"
+    },
+    {
+      "id": "8",
+      "title": "한국 게임사 2026년 도쿄게임쇼 신작 대거 공개 예정",
+      "summary": "넥슨·엔씨소프트·넷마블 등 주요 게임사들이 9월 도쿄게임쇼 2026에서 신작 'Project RX', '아스트레아 오라토리오' 등을 선보일 예정",
+      "category": "gaming",
+      "source": "게임뉴스",
+      "sourceUrl": "https://game.donga.com/120966/",
+      "publishedAt": "2026-07-14T07:30:00"
+    },
+    {
+      "id": "9",
+      "title": "크래프톤 8월 게임스컴에 신작 5종 출품 확정",
+      "summary": "크래프톤이 독일 쾰른 게임스컴(8월 26-30일)에 펍지스튜디오 미공개 신작 포함 5종의 타이틀 출품을 확정했음",
+      "category": "gaming",
+      "source": "게임뉴스",
+      "sourceUrl": "https://www.gametrics.com/news/News01_View.aspx?seqid=67896",
+      "publishedAt": "2026-07-14T07:45:00"
+    }
+  ]
+}
