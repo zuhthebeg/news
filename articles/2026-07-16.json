@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-16",
+  "articles": [
+    {
+      "id": "1",
+      "title": "South Korea Forecasts 3.0% Economic Growth in 2026, Highest in Five Years",
+      "summary": "South Korea's government revised its 2026 economic growth forecast to 3.0%, driven by a semiconductor boom and AI infrastructure investments. The nation aims to become a top-four export power with $50,000 per capita income.",
+      "category": "economy",
+      "source": "Seoul Economic Daily",
+      "sourceUrl": "https://en.sedaily.com/finance/2026/07/14/korea-returns-to-3-percent-growth-after-5-years-government",
+      "publishedAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "South Korea Enacts 'Fake News' Law Amid Journalist Concerns",
+      "summary": "New legislation enacted in early July allows for substantial punitive damages against news outlets spreading false information, but journalist groups warn of potential censorship and chilling effects on critical reporting.",
+      "category": "domestic",
+      "source": "CP24",
+      "sourceUrl": "https://www.cp24.com/news/world/2026/07/07/south-korean-law-targeting-fake-news-takes-effect-as-journalists-groups-raise-concerns/",
+      "publishedAt": "2026-07-07T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "South Korea Launches Comprehensive Plan to Halve Teen Suicide Rate",
+      "summary": "The government initiated a comprehensive plan to reduce the teen suicide rate over the next decade, as suicide remains the leading cause of death among young South Koreans.",
+      "category": "domestic",
+      "source": "Al Jazeera",
+      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis",
+      "publishedAt": "2026-07-13T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Cribl Acquires CardinalOps to Expand AI-Powered Security Platform",
+      "summary": "Cribl announced the acquisition of CardinalOps on July 14 to expand its AI platform into security operations, offering a flexible alternative to traditional SIEM architectures.",
+      "category": "tech",
+      "source": "Cribl",
+      "sourceUrl": "https://cribl.io/news/cribl-acquires-cardinalops-to-expand-its-ai-platform-into-security-operations/",
+      "publishedAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Tenable Expands Exposure Management Platform with Application Security Integration",
+      "summary": "Tenable announced expansion of its Exposure Management Platform on July 15 to integrate application security risks with other exposure data, providing visibility across the entire attack surface.",
+      "category": "tech",
+      "source": "Business Insider",
+      "sourceUrl": "https://markets.businessinsider.com/news/stocks/tenable-expands-exposure-management-platform-to-contextualize-and-prioritize-application-security-risk-1036327745",
+      "publishedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "First Diagnostic X-ray Images Successfully Taken in Space",
+      "summary": "Scientists achieved a breakthrough with the first diagnostic-quality X-ray images captured in space during the SpaceX Fram2 mission, demonstrated to be comparable to Earth-based imaging and opening new possibilities for astronaut health monitoring.",
+      "category": "science",
+      "source": "Physics World",
+      "sourceUrl": "https://physicsworld.com/a/first-medical-x-ray-images-taken-in-space-achieve-diagnostic-quality/",
+      "publishedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "NASA Astronaut Dr. Anil Menon Launches to ISS for Eight-Month Medical Research Mission",
+      "summary": "NASA astronaut and U.S. Space Force Col. Dr. Anil Menon launched to the International Space Station on July 14, 2026, to conduct research on blood flow, augmented reality ultrasound, and bioprinting vascular constructs.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/07/14/new-station-crew-counts-down-to-soyuz-launch-live-on-nasa/",
+      "publishedAt": "2026-07-14T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Halo: Campaign Evolved Remake Launches with Modern Graphics and New Missions",
+      "summary": "Halo: Campaign Evolved, a complete remake of Bungie's 2001 classic, launched on July 28 across PC, PS5, and Xbox Series X|S with enhanced graphics, gameplay improvements, and three new missions.",
+      "category": "gaming",
+      "source": "Game Space",
+      "sourceUrl": "https://gamespace.com/featured/what-will-we-be-playing-in-july-2026-this-months-game-releases/",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Palworld Reaches 1.0 Full Release with Major Content Update",
+      "summary": "The creature-collecting survival crafter Palworld reached its 1.0 debut on July 10 across multiple platforms, adding new weapons, gear, Wing Pack content, and expanded story elements.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com/games/new-pc-games-2026/",
+      "publishedAt": "2026-07-10T00:00:00Z"
+    }
+  ]
+}
