@@ -81,6 +81,51 @@
       "source": "PC Gamer",
       "sourceUrl": "https://www.pcgamer.com/games/new-pc-games-2026/",
       "publishedAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] Bark와 Woosh: 오픈소스 텍스트-투-오디오 모델의 진화",
+      "summary": "Suno AI의 Bark (MIT 라이선스)와 Sony AI의 Woosh는 음성·효과음 생성의 오픈소스 표준이 되고 있다. Bark는 다국어 음성+웃음·숨소리 등 비언어음 생성, Woosh는 게임·영화 폴리용 텍스트-투-SFX 특화다. cocy.io에서 게임 배경음/효과음 자동생성 파이프라인 구축에 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Sony AI",
+      "sourceUrl": "https://huggingface.co/suno/bark",
+      "publishedAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "[TTS] OmniVoice: 600개 언어 지원하는 제로샷 음성합성",
+      "summary": "K2-FSA의 OmniVoice가 2026년 4월 공개. 600개 이상 언어를 단일 모델로 지원, 짧은 음성 클론 + 음성 설계(성별·나이·억양 제어) 가능. 실시간계수(RTF) 0.025로 초고속(실시간의 40배). 다국어 게임 대사·음성 로컬라이제이션 자동화에 cocy.io 서비스 통합 용이.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/k2-fsa/OmniVoice",
+      "publishedAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "[Edge] WebGPU 전 브라우저 지원+llama.cpp 커널 개선으로 로컬 AI 가속화",
+      "summary": "2026년 7월, WebGPU가 Chrome·Firefox·Safari·Edge 모두에서 안정화. 데스크톱 90%+ 지원. llama.cpp의 WebGPU 커널 리라이트(6월 머지)로 k-quant 모델 프리필 1.33~3.78배 가속. ONNX Runtime Web과 조합으로 브라우저 내 Stable Diffusion·LLM 로컬 추론. cocy.io 포털·게임의 온디바이스 AI 기능(드래프트, 이미지 생성) 구현 기반 완성.",
+      "category": "ai-tech",
+      "source": "ByteIOTA / ONNX Runtime",
+      "sourceUrl": "https://byteiota.com/webgpu-2026-70-browser-support-15x-performance-gains/",
+      "publishedAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "[Image] FLUX.1 schnell: Apache 2.0 상업 라이선스의 고품질 텍스트-투-이미지",
+      "summary": "Black Forest Labs의 FLUX.1 [schnell]은 12B 파라미터 모델로 Apache 2.0 라이선스(상업 허용). SDXL 대비 이미지 품질·프롬프트 추종도 우수, 확산 증류로 추론 속도 증가. cocy.io 게임 아트(카드·배경·캐릭터) 자동생성+배치 파이프라인의 핵심 백엔드로 SDXL 대체 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
+      "publishedAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "[Video] LTX-Video: 실시간 고품질 영상 생성의 오픈소스 모델",
+      "summary": "Lightricks의 LTX-Video는 첫 번째 DiT 기반 비디오 생성 모델로, 1216×704 30FPS 영상을 실시간보다 빠르게 생성. 텍스트·이미지·오디오-투-비디오 8개 프로덕션 파이프라인 지원, RTX 5090 단일 GPU 로컬 실행 가능. cocy.io 게임 광고·예고편·스토리텔링 영상 자동화 및 게임 내 씬 프리비주얼라이제이션에 활용 기반 마련.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-Video",
+      "publishedAt": "2026-07-16T00:00:00Z"
     }
   ]
 }
