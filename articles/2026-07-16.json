@@ -126,6 +126,51 @@
       "source": "Iterathon Blog",
       "sourceUrl": "https://iterathon.tech/blog/edge-ai-on-device-inference-2026-implementation-guide",
       "publishedAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "[Audio] MuScriptor: Kyutai 오픈웨이트 다악기 음악 → MIDI 전사 모델",
+      "summary": "[Audio] Kyutai 오픈사이언스 랩이 공개한 MuScriptor는 실제 녹음된 음악을 MIDI로 변환하는 다악기 자동 전사 모델. 합성 데이터 사전학습 + 실음악 파인튜닝 + RL 후처리로 기존 단악기 모델의 한계를 극복. 악기 조건 지정 가능. CC-BY 4.0(상업 이용 가능). cocy.io에서 쓸모: BGM을 MIDI로 변환해 리듬게임 채보 자동생성 파이프라인(rhythmproto)에 직접 투입 가능.",
+      "category": "ai-tech",
+      "source": "Kyutai / HuggingFace Papers",
+      "sourceUrl": "https://arxiv.org/abs/2607.08168",
+      "publishedAt": "2026-07-10T00:25:04Z"
+    },
+    {
+      "id": "16",
+      "title": "[TTS] Kyutai Pocket TTS: CPU 실시간 100M 파라미터 음성합성 + 음성복제",
+      "summary": "[TTS] Kyutai의 Pocket TTS는 100M 파라미터로 10배 큰 모델과 동등한 품질을 내는 TTS. CPU 실시간 추론 가능, 음성 복제 지원. Moshi·Unmute 파이프라인의 구성요소로 오픈소스 공개. Kyutai 모델 라이선스 CC-BY 4.0(상업 이용 가능). cocy.io에서 쓸모: 로컬 서버 부하 없이 CPU에서 캐릭터 음성 생성, 고스톱 콜 음성 보완 및 NPC 대사 실시간 TTS.",
+      "category": "ai-tech",
+      "source": "Kyutai",
+      "sourceUrl": "https://kyutai.org/",
+      "publishedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "[Tool] Inkling: 1T MoE 멀티모달 모델 — 이미지·텍스트·오디오 동시 입력, 1M 컨텍스트",
+      "summary": "[Tool] Thinking Machines의 Inkling은 975B 총 파라미터(41B active) MoE 모델. 이미지·텍스트·오디오 동시 입력, 1M 컨텍스트, BF16/NVFP4 2종. vLLM·SGLang·transformers·llama.cpp 동시 지원. 라이선스 미확인(Acceptable Use Policy 확인 필요). cocy.io에서 쓸모: 게임 에셋 생성 멀티모달 체인(오디오+이미지+텍스트 동시), log 재고 이미지→한글 JSON 파이프라인 업그레이드 검토.",
+      "category": "ai-tech",
+      "source": "HuggingFace Blog / Thinking Machines",
+      "sourceUrl": "https://huggingface.co/blog/thinkingmachines-inkling",
+      "publishedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "[Voice] HF+Cerebras 오픈 음성 파이프라인: Parakeet→Gemma 4→Qwen3TTS 모듈형 스택",
+      "summary": "[Voice] Hugging Face와 Cerebras가 공개한 오픈 음성-음성 파이프라인. Nvidia Parakeet(ASR) → Gemma 4 31B(LLM) → Alibaba Qwen3TTS(TTS) 완전 교체형 구조. Cerebras 초고속 추론으로 인간 대화 지연 구현. Qwen3TTS Apache 2.0(상업 이용 가능). cocy.io에서 쓸모: 게임 AI NPC 실시간 대화 시스템 참조 아키텍처, Qwen3TTS 단독 추출해 TTS 파이프라인 교체.",
+      "category": "ai-tech",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
+      "publishedAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "[Edge] vLLM transformers 백엔드 네이티브 속도 달성 — --model-impl transformers 단일 플래그",
+      "summary": "[Edge] HuggingFace가 vLLM의 transformers 모델링 백엔드를 네이티브 구현 대비 동등~초과 속도로 끌어올림.  플래그 하나로 450+ 아키텍처 자동 지원, 텐서 병렬·전문가 병렬 조합 가능. Apache 2.0(상업 이용 가능). cocy.io에서 쓸모: llm-proxy 서버에서 새 HF 모델을 포팅 없이 즉시 고속 서빙, 로컬 Qwen/Gemma 모델 추론 속도 개선.",
+      "category": "ai-tech",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
+      "publishedAt": "2026-07-08T00:00:00Z"
     }
   ]
 }
