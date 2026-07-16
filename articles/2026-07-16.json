@@ -81,6 +81,51 @@
       "source": "메디칼타임즈",
       "sourceUrl": "https://www.medicaltimes.co.kr",
       "publishedAt": "2026-07-16T07:15:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] MOSS-TTS v1.5: Apache 2.0 음성 합성 프레임워크 업데이트",
+      "summary": "[Audio] 오픈 소스 음성 합성 모음(MOSS-TTS) 시리즈가 최신 버전으로 업그레이드. 제로샷 음성 복제·실시간 에이전트 응답(180ms)·환경음 생성 포함. Apache 2.0 라이선스로 상업 이용 가능. cocy.io에서 쓸모: 게임 NPC 대사 실시간 생성, 멀티플레이 보이스 합성에 직접 적용 가능.",
+      "category": "ai-tech",
+      "source": "OpenMOSS GitHub",
+      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
+      "publishedAt": "2026-06-18T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "[Audio] Stable Audio Open: 47초 음향 효과 생성 모델",
+      "summary": "[Audio] Stability AI가 공개 음향 생성 모델 Stable Audio Open 배포. 텍스트 프롬프트로 드럼비트, 악기 리프, 환경음, 폴리 등 전문 오디오 요소 생성. 47초 길이 제한, Freesound/Free Music Archive 학습 데이터. 커스텀 학습 지원. cocy.io에서 쓸모: 게임 배경음, 사운드 이펙트 자동 생성 파이프라인 구축 가능.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news-updates/introducing-stable-audio-open",
+      "publishedAt": "2026-06-05T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "[Voice] Chatterbox Multilingual v3: MIT 라이선스 음성 복제 모델",
+      "summary": "[Voice] Resemble AI의 Chatterbox 음성 합성 모델이 v3 출시(2026-06-10). MIT 라이선스, ElevenLabs 대비 63.75% 선호도 A/B 테스트 통과. 다국어 지원, 감정·방언 제어. 로컬 추론 가능. cocy.io에서 쓸모: 게임 캐릭터 다국어 음성 더빙, 플레이어 이름 기반 개인화 음성 생성.",
+      "category": "ai-tech",
+      "source": "Resemble AI",
+      "sourceUrl": "https://www.resemble.ai/learn/models/chatterbox",
+      "publishedAt": "2026-06-10T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "[Image] FLUX.2 [klein] 4B: 4단계 고속 이미지 생성 모델",
+      "summary": "[Image] Black Forest Labs의 FLUX.2 [klein] 4B(2026-01) Apache 2.0 라이선스 오픈 소스 출시. 단 4단계로 이미지 생성, 13GB VRAM에서 동작. 프롬프트 정확도·텍스트 렌더링 우수. Z-Image Turbo와 함께 경량 이미지 생성 선택지. cocy.io에서 쓸모: 게임 카드/캐릭터 아트 빠른 프로토타입, 포탈 히어로 이미지 자동 생성 파이프라인.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs GitHub",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.1-dev",
+      "publishedAt": "2026-01-15T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "[Edge] WebGPU 로컬 AI 추론: 브라우저에서 LLM 실행 성숙",
+      "summary": "[Edge] 2026년 WebGPU·ONNX·WASM 기술 성숙으로 브라우저에서 경량 모델 로컬 실행 가능. Phi-3.5-mini 4bit 71 tokens/sec, Llama-3.1 8B 41 tokens/sec 성능. Chrome 4GB VRAM 제약. cocy.io에서 쓸모: 게임 포털 클라이언트 AI 검색, 오프라인 게임 AI 에이전트, 사용자 기기에서 개인정보 보호 추론.",
+      "category": "ai-tech",
+      "source": "Iterathon Blog",
+      "sourceUrl": "https://iterathon.tech/blog/edge-ai-on-device-inference-2026-implementation-guide",
+      "publishedAt": "2026-07-10T00:00:00Z"
     }
   ]
 }

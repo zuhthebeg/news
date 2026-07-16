@@ -1058,6 +1058,45 @@
         "진로"
       ],
       "addedAt": "2026-07-14"
+    },
+    {
+      "title": "Skill Vetter",
+      "description": "ClawHub 스킬을 설치하기 전에 보안 위험을 자동으로 스캔. 미검증 의존성, 광범위 퍼미션, 의심 네트워크 호출 탐지. 256K+ 다운로드, 최고 신뢰 스킬.",
+      "icon": "✅",
+      "category": "dev",
+      "url": "https://clawhub.ai/skills/skill-vetter",
+      "tags": [
+        "보안",
+        "검증",
+        "스킬관리"
+      ],
+      "addedAt": "2026-07-16"
+    },
+    {
+      "title": "Ontology Memory",
+      "description": "OpenClaw의 가장 큰 약점인 세션 간 메모리 부재를 해결. 구조화된 장기 메모리 저장·검색으로 컨텍스트 지속성 제공. 188K+ 다운로드.",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://clawhub.ai/skills/ontology-memory",
+      "tags": [
+        "메모리",
+        "지속성",
+        "컨텍스트"
+      ],
+      "addedAt": "2026-07-16"
+    },
+    {
+      "title": "hengheng-system-time",
+      "description": "다양한 형식과 타임존의 정확한 시스템 시간을 제공. cron·일정·타이머 작업에서 시간 표준화가 필요할 때 유용.",
+      "icon": "⏰",
+      "category": "productivity",
+      "url": "https://clawhub.ai/skills/hengheng-system-time",
+      "tags": [
+        "시간",
+        "타임존",
+        "cron"
+      ],
+      "addedAt": "2026-07-16"
     }
   ]
 }
