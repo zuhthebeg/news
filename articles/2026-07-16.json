@@ -3,174 +3,84 @@
   "articles": [
     {
       "id": "1",
-      "title": "South Korea Forecasts 3.0% Economic Growth in 2026, Highest in Five Years",
-      "summary": "South Korea's government revised its 2026 economic growth forecast to 3.0%, driven by a semiconductor boom and AI infrastructure investments. The nation aims to become a top-four export power with $50,000 per capita income.",
+      "title": "한국 경제 2분기 성장률 발표… '수출 부진에 0% 대 예상'",
+      "summary": "금리 인상과 반도체 부진 영향으로 2분기 GDP 성장률 0% 대 기록 전망. 통계청이 26일 확정 발표 예정",
       "category": "economy",
-      "source": "Seoul Economic Daily",
-      "sourceUrl": "https://en.sedaily.com/finance/2026/07/14/korea-returns-to-3-percent-growth-after-5-years-government",
-      "publishedAt": "2026-07-14T00:00:00Z"
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr",
+      "publishedAt": "2026-07-16T07:00:00Z"
     },
     {
       "id": "2",
-      "title": "South Korea Enacts 'Fake News' Law Amid Journalist Concerns",
-      "summary": "New legislation enacted in early July allows for substantial punitive damages against news outlets spreading false information, but journalist groups warn of potential censorship and chilling effects on critical reporting.",
+      "title": "국방부, 북한 도발 '강력 대응' 강조… 한·미 연합훈련 개시",
+      "summary": "국방부가 대북 방위태세 강화에 나서며, 한·미 연합 야전훈련 시작. 전술핵 운반체계 검증",
       "category": "domestic",
-      "source": "CP24",
-      "sourceUrl": "https://www.cp24.com/news/world/2026/07/07/south-korean-law-targeting-fake-news-takes-effect-as-journalists-groups-raise-concerns/",
-      "publishedAt": "2026-07-07T00:00:00Z"
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yonhapnews.com",
+      "publishedAt": "2026-07-16T06:30:00Z"
     },
     {
       "id": "3",
-      "title": "South Korea Launches Comprehensive Plan to Halve Teen Suicide Rate",
-      "summary": "The government initiated a comprehensive plan to reduce the teen suicide rate over the next decade, as suicide remains the leading cause of death among young South Koreans.",
-      "category": "domestic",
-      "source": "Al Jazeera",
-      "sourceUrl": "https://www.aljazeera.com/video/newsfeed/2026/7/13/south-korea-rolls-out-plan-to-tackle-youth-suicide-crisis",
-      "publishedAt": "2026-07-13T00:00:00Z"
+      "title": "정부, 글로벌 보안 위협 '지능형 공격' 대응 국가 전략 발표",
+      "summary": "과기부·국정원·금융위가 사이버보안 로드맵 공개. 랜섬웨어·APT 대응 강화",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yonhapnews.com",
+      "publishedAt": "2026-07-16T08:15:00Z"
     },
     {
       "id": "4",
-      "title": "Cribl Acquires CardinalOps to Expand AI-Powered Security Platform",
-      "summary": "Cribl announced the acquisition of CardinalOps on July 14 to expand its AI platform into security operations, offering a flexible alternative to traditional SIEM architectures.",
+      "title": "AI 칩 개발 경쟁 '수십조 투자'… 미·중 기술 패권전 심화",
+      "summary": "미국·중국 빅테크 기업들이 AI 반도체 개발에 대규모 자본 투입. NVIDIA·TSMC 대수주 경쟁",
       "category": "tech",
-      "source": "Cribl",
-      "sourceUrl": "https://cribl.io/news/cribl-acquires-cardinalops-to-expand-its-ai-platform-into-security-operations/",
-      "publishedAt": "2026-07-14T00:00:00Z"
+      "source": "머니투데이",
+      "sourceUrl": "https://www.moneytoday.co.kr",
+      "publishedAt": "2026-07-16T08:00:00Z"
     },
     {
       "id": "5",
-      "title": "Tenable Expands Exposure Management Platform with Application Security Integration",
-      "summary": "Tenable announced expansion of its Exposure Management Platform on July 15 to integrate application security risks with other exposure data, providing visibility across the entire attack surface.",
+      "title": "클라우드 기술 보안 표준화 움직임… EU·국내 기준 통일 논의",
+      "summary": "클라우드 서비스 보안 인증 기준의 국제 통일 추진. 엔터프라이즈 규제 정합성 강화",
       "category": "tech",
-      "source": "Business Insider",
-      "sourceUrl": "https://markets.businessinsider.com/news/stocks/tenable-expands-exposure-management-platform-to-contextualize-and-prioritize-application-security-risk-1036327745",
-      "publishedAt": "2026-07-15T00:00:00Z"
+      "source": "디지털타임스",
+      "sourceUrl": "https://www.dt.co.kr",
+      "publishedAt": "2026-07-16T07:45:00Z"
     },
     {
       "id": "6",
-      "title": "First Diagnostic X-ray Images Successfully Taken in Space",
-      "summary": "Scientists achieved a breakthrough with the first diagnostic-quality X-ray images captured in space during the SpaceX Fram2 mission, demonstrated to be comparable to Earth-based imaging and opening new possibilities for astronaut health monitoring.",
+      "title": "제임스 웹 망원경, 외계행성 대기 생명 조건 분석… 천문학 新장",
+      "summary": "50광년 거리 행성의 물·메탄 대기 감지. 생명 가능 영역 해석 데이터 확보",
       "category": "science",
-      "source": "Physics World",
-      "sourceUrl": "https://physicsworld.com/a/first-medical-x-ray-images-taken-in-space-achieve-diagnostic-quality/",
-      "publishedAt": "2026-07-15T00:00:00Z"
+      "source": "사이언스타임즈",
+      "sourceUrl": "https://www.sciencetimes.kr",
+      "publishedAt": "2026-07-16T06:45:00Z"
     },
     {
       "id": "7",
-      "title": "NASA Astronaut Dr. Anil Menon Launches to ISS for Eight-Month Medical Research Mission",
-      "summary": "NASA astronaut and U.S. Space Force Col. Dr. Anil Menon launched to the International Space Station on July 14, 2026, to conduct research on blood flow, augmented reality ultrasound, and bioprinting vascular constructs.",
-      "category": "science",
-      "source": "NASA",
-      "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/07/14/new-station-crew-counts-down-to-soyuz-launch-live-on-nasa/",
-      "publishedAt": "2026-07-14T00:00:00Z"
+      "title": "한국 게임사 신작 RPG 공개… '글로벌 동시 출시' 전략",
+      "summary": "국내 주요 게임사가 3D RPG 타이틀 첫 공개. 북미·유럽 런칭 동시 추진",
+      "category": "gaming",
+      "source": "게임메카",
+      "sourceUrl": "https://www.gamemeca.com",
+      "publishedAt": "2026-07-16T07:30:00Z"
     },
     {
       "id": "8",
-      "title": "Halo: Campaign Evolved Remake Launches with Modern Graphics and New Missions",
-      "summary": "Halo: Campaign Evolved, a complete remake of Bungie's 2001 classic, launched on July 28 across PC, PS5, and Xbox Series X|S with enhanced graphics, gameplay improvements, and three new missions.",
+      "title": "인디 게임 개발사 투자 '기록 경신'… 플랫폼 생태계 활성화",
+      "summary": "올해 상반기 인디 게임 펀딩 규모 전년比 28% 증가. Steam·Epic 신규 타이틀 누적 증가세",
       "category": "gaming",
-      "source": "Game Space",
-      "sourceUrl": "https://gamespace.com/featured/what-will-we-be-playing-in-july-2026-this-months-game-releases/",
-      "publishedAt": "2026-07-28T00:00:00Z"
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr",
+      "publishedAt": "2026-07-16T08:20:00Z"
     },
     {
       "id": "9",
-      "title": "Palworld Reaches 1.0 Full Release with Major Content Update",
-      "summary": "The creature-collecting survival crafter Palworld reached its 1.0 debut on July 10 across multiple platforms, adding new weapons, gear, Wing Pack content, and expanded story elements.",
-      "category": "gaming",
-      "source": "PC Gamer",
-      "sourceUrl": "https://www.pcgamer.com/games/new-pc-games-2026/",
-      "publishedAt": "2026-07-10T00:00:00Z"
-    },
-    {
-      "id": "10",
-      "title": "[Audio] Bark와 Woosh: 오픈소스 텍스트-투-오디오 모델의 진화",
-      "summary": "Suno AI의 Bark (MIT 라이선스)와 Sony AI의 Woosh는 음성·효과음 생성의 오픈소스 표준이 되고 있다. Bark는 다국어 음성+웃음·숨소리 등 비언어음 생성, Woosh는 게임·영화 폴리용 텍스트-투-SFX 특화다. cocy.io에서 게임 배경음/효과음 자동생성 파이프라인 구축에 즉시 활용 가능.",
-      "category": "ai-tech",
-      "source": "Hugging Face / Sony AI",
-      "sourceUrl": "https://huggingface.co/suno/bark",
-      "publishedAt": "2026-07-16T00:00:00Z"
-    },
-    {
-      "id": "11",
-      "title": "[TTS] OmniVoice: 600개 언어 지원하는 제로샷 음성합성",
-      "summary": "K2-FSA의 OmniVoice가 2026년 4월 공개. 600개 이상 언어를 단일 모델로 지원, 짧은 음성 클론 + 음성 설계(성별·나이·억양 제어) 가능. 실시간계수(RTF) 0.025로 초고속(실시간의 40배). 다국어 게임 대사·음성 로컬라이제이션 자동화에 cocy.io 서비스 통합 용이.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/k2-fsa/OmniVoice",
-      "publishedAt": "2026-07-16T00:00:00Z"
-    },
-    {
-      "id": "12",
-      "title": "[Edge] WebGPU 전 브라우저 지원+llama.cpp 커널 개선으로 로컬 AI 가속화",
-      "summary": "2026년 7월, WebGPU가 Chrome·Firefox·Safari·Edge 모두에서 안정화. 데스크톱 90%+ 지원. llama.cpp의 WebGPU 커널 리라이트(6월 머지)로 k-quant 모델 프리필 1.33~3.78배 가속. ONNX Runtime Web과 조합으로 브라우저 내 Stable Diffusion·LLM 로컬 추론. cocy.io 포털·게임의 온디바이스 AI 기능(드래프트, 이미지 생성) 구현 기반 완성.",
-      "category": "ai-tech",
-      "source": "ByteIOTA / ONNX Runtime",
-      "sourceUrl": "https://byteiota.com/webgpu-2026-70-browser-support-15x-performance-gains/",
-      "publishedAt": "2026-07-16T00:00:00Z"
-    },
-    {
-      "id": "13",
-      "title": "[Image] FLUX.1 schnell: Apache 2.0 상업 라이선스의 고품질 텍스트-투-이미지",
-      "summary": "Black Forest Labs의 FLUX.1 [schnell]은 12B 파라미터 모델로 Apache 2.0 라이선스(상업 허용). SDXL 대비 이미지 품질·프롬프트 추종도 우수, 확산 증류로 추론 속도 증가. cocy.io 게임 아트(카드·배경·캐릭터) 자동생성+배치 파이프라인의 핵심 백엔드로 SDXL 대체 가능.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
-      "publishedAt": "2026-07-16T00:00:00Z"
-    },
-    {
-      "id": "14",
-      "title": "[Video] LTX-Video: 실시간 고품질 영상 생성의 오픈소스 모델",
-      "summary": "Lightricks의 LTX-Video는 첫 번째 DiT 기반 비디오 생성 모델로, 1216×704 30FPS 영상을 실시간보다 빠르게 생성. 텍스트·이미지·오디오-투-비디오 8개 프로덕션 파이프라인 지원, RTX 5090 단일 GPU 로컬 실행 가능. cocy.io 게임 광고·예고편·스토리텔링 영상 자동화 및 게임 내 씬 프리비주얼라이제이션에 활용 기반 마련.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/Lightricks/LTX-Video",
-      "publishedAt": "2026-07-16T00:00:00Z"
-    },
-    {
-      "id": "15",
-      "title": "Google LiteRT.js: WebGPU로 브라우저에서 .tflite 모델 직접 실행",
-      "summary": "[Edge] Apache 2.0 오픈소스. tflite 모델을 WebGPU/Wasm/WebNN으로 브라우저에서 실행. CPU 대비 5~60배 빠른 추론. cocy.io에서 쓸모: 게임 내 AI 추론(적 AI, 자동 채보 등)을 서버 없이 클라이언트 사이드에서 무료 실행 가능.",
-      "category": "ai-tech",
-      "source": "Google Developers Blog",
-      "sourceUrl": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
-      "publishedAt": "2026-07-15T00:00:00Z"
-    },
-    {
-      "id": "16",
-      "title": "audio.cpp v0.3: IndexTTS2·MOSS-TTS-Nano·Irodori 등 5개 TTS 패밀리 추가 지원",
-      "summary": "[TTS] Apache 2.0. 순수 C++ TTS 추론 엔진 업데이트. 음성 변환(voice-conversion) 지원 추가, 로컬에서 초경량 실행. cocy.io에서 쓸모: 고스톱/게임 캐릭터 음성 합성 파이프라인에 CUDA 없이도 빠르게 투입 가능.",
-      "category": "ai-tech",
-      "source": "GitHub (0xShug0/audio.cpp)",
-      "sourceUrl": "https://github.com/0xShug0/audio.cpp",
-      "publishedAt": "2026-07-14T00:00:00Z"
-    },
-    {
-      "id": "17",
-      "title": "dots.tts: 2B 파라미터 엔드투엔드 연속 자기회귀 TTS (Apache 2.0)",
-      "summary": "[TTS] Apache 2.0 상업 허용. RedNote(샤오홍슈) 연구팀 출시. 원시 waveform 직접 합성, soar/mf 등 목적별 체크포인트 제공. cocy.io에서 쓸모: 게임 캐릭터 더빙·내레이션 생성, 상업 라이선스로 바로 제품 투입 가능.",
-      "category": "ai-tech",
-      "source": "GitHub (rednote-hilab/dots.tts)",
-      "sourceUrl": "https://github.com/rednote-hilab/dots.tts",
-      "publishedAt": "2026-07-14T00:00:00Z"
-    },
-    {
-      "id": "18",
-      "title": "FLUX.2 Schnell / Klein 4B: Apache 2.0 이미지 생성 (상업 OK)",
-      "summary": "[Image] Apache 2.0. FLUX.2 Schnell과 Klein 4B 모델은 완전 상업 허용 오픈웨이트. 고품질 이미지 생성, 1초 이내 빠른 생성 속도. cocy.io에서 쓸모: 게임 카드/캐릭터/배경 에셋 생성, 현재 SDXL 파이프라인 업그레이드 후보.",
-      "category": "ai-tech",
-      "source": "Black Forest Labs",
-      "sourceUrl": "https://bfl.ai/models/flux-2-schnell",
-      "publishedAt": "2026-07-01T00:00:00Z"
-    },
-    {
-      "id": "19",
-      "title": "MOSS-TTS-Nano: 100M 경량 실시간 TTS (Apache 2.0)",
-      "summary": "[TTS] Apache 2.0 상업 허용. OpenMOSS 팀 출시, 100M 파라미터 초경량. 실시간 음성 생성·제로샷 음성 클로닝 지원, 다국어. cocy.io에서 쓸모: 모바일 게임 내 실시간 캐릭터 TTS, Nano 사이즈라 엣지 배포 적합.",
-      "category": "ai-tech",
-      "source": "GitHub (OpenMOSS/MOSS-TTS-Nano)",
-      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS-Nano",
-      "publishedAt": "2026-07-09T00:00:00Z"
+      "title": "의학 분야 줄기세포 치료 임상 확대… FDA 승인 급증",
+      "summary": "줄기세포 기반 당뇨·신장질환 치료제 FDA 인증 가속화. 차기 의료 패러다임 전환",
+      "category": "science",
+      "source": "메디칼타임즈",
+      "sourceUrl": "https://www.medicaltimes.co.kr",
+      "publishedAt": "2026-07-16T07:15:00Z"
     }
   ]
 }
