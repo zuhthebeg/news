@@ -90,6 +90,87 @@
       "source": "Resemble AI - Chatterbox",
       "sourceUrl": "https://www.resemble.ai/learn/models/chatterbox",
       "publishedAt": "2026-06-01T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "이재명 대통령 지지율 52%…2주 연속 소폭 하락",
+      "summary": "한국갤럽 7월 셋째 주 조사에서 이재명 대통령 국정 지지율이 52%로 2주 연속 하락했다. 환율·부동산 관련 불만이 부정평가 주요 이유로 꼽혔다.",
+      "category": "domestic",
+      "source": "서울경제",
+      "sourceUrl": "https://www.sedaily.com/article/20068864",
+      "publishedAt": "2026-07-17T02:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "최태원 SK그룹 회장 \"메모리 수요 계속 늘어…SK하이닉스 주가 우상향\"",
+      "summary": "최태원 회장은 AI 산업 성장에 따라 메모리 수요가 기하급수적으로 늘 것이라며 장기 보유를 조언했다. 미·중 AI 패권 경쟁 속 한국의 생존 전략으로 '틈새시장 공략'을 제시했다.",
+      "category": "economy",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202607171047001",
+      "publishedAt": "2026-07-17T01:47:00Z"
+    },
+    {
+      "id": "13",
+      "title": "정은경 복지부 장관 \"청년 소득보장 필요…내년 시범사업 목표\"",
+      "summary": "정은경 장관은 AI 시대 고용구조 변화에 대응하는 청년 특화 소득보장 제도를 구상 중이라며 하반기 논의 후 내년 시범사업 도입을 목표로 한다고 밝혔다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202607171225405895",
+      "publishedAt": "2026-07-17T03:25:00Z"
+    },
+    {
+      "id": "14",
+      "title": "MS, 역대 최다 570개 취약점 패치…제로데이 3건 포함",
+      "summary": "마이크로소프트가 2026년 7월 패치 튜즈데이에서 역대 최다인 570개 보안 취약점을 수정했다. 이 중 3건은 제로데이로, AI 기반 취약점 탐지 시스템 도입이 발견 건수 급증의 배경으로 지목됐다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+      "publishedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "빅테크도 뛰어든 새 전장 'NHI 보안' 시장 급부상",
+      "summary": "비인간 정체성(NHI) 보안이 글로벌 보안업계 차세대 격전지로 떠오르며 2031년까지 시장 규모가 약 35조원에 이를 전망이다. MS는 'Entra' 플랫폼에 AI 에이전트 전용 'Agent ID' 개념을 도입했다.",
+      "category": "tech",
+      "source": "디지털데일리",
+      "sourceUrl": "https://m.ddaily.co.kr/page/view/2026070614224649927",
+      "publishedAt": "2026-07-06T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "JAXA, 화성 위성 탐사선 MMX 2026년 발사…포보스 샘플 2031년 귀환",
+      "summary": "일본우주항공연구개발기구(JAXA)가 화성의 위성 포보스에서 샘플을 채취해 2031년 지구로 귀환하는 MMX 미션을 준비 중이다. NASA·ESA 등이 참여하는 국제 협력 프로젝트로, 화성 위성 샘플 귀환은 세계 최초다.",
+      "category": "science",
+      "source": "사이언스타임즈",
+      "sourceUrl": "https://www.sciencetimes.co.kr/nscvrg/view/menu/248?searchCategory=220&nscvrgSn=261321",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "췌장암 신약 다락손라십, 임상시험서 생존기간 두 배로 연장",
+      "summary": "미국임상종양학회(ASCO)에서 발표된 임상 3상 결과, 다락손라십 투여군의 중앙 생존기간이 13.2개월로 기존 항암화학요법(6.7개월) 대비 두 배 가까이 늘었다. 췌장암 환자 90%에 나타나는 유전자 변이를 표적으로 한다.",
+      "category": "science",
+      "source": "사이언스타임즈",
+      "sourceUrl": "https://www.sciencetimes.co.kr/nscvrg/view/menu/251?searchCategory=223&nscvrgSn=261983",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "호요버스 '젠레스 존 제로', 3.0 버전 17일 업데이트…신규 지역·에이전트 공개",
+      "summary": "젠레스 존 제로가 천공의 섬 '로스캘리퍼'와 신규 에이전트 '벨리나'·'노르마'를 추가하는 3.0 버전을 17일 정식 출시했다. 정식 출시 2주년을 맞아 더벤티 콜라보 이벤트도 함께 진행된다.",
+      "category": "gaming",
+      "source": "경향게임스",
+      "sourceUrl": "https://www.khgames.co.kr/news/articleView.html?idxno=305128",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "그랜드 썬라이즈, 오픈월드 판타지 MMORPG '꿈의 여행자: 별빛 여정' 정식 출시",
+      "summary": "그랜드 썬라이즈가 구글플레이·앱스토어에서 모바일 MMORPG 신작을 출시했다. '수호자 변신' 전투 시스템과 결혼·펫 포획 등 생활 콘텐츠를 지원하며, 10인의 크리에이터가 홍보대사로 참여한다.",
+      "category": "gaming",
+      "source": "베타뉴스",
+      "sourceUrl": "https://www.betanews.net/article/view/beta202607150073",
+      "publishedAt": "2026-07-15T00:00:00Z"
     }
   ]
 }
