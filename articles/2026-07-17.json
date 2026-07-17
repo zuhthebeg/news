@@ -45,6 +45,51 @@
       "source": "GitHub mudler/LocalAI",
       "sourceUrl": "https://github.com/mudler/LocalAI",
       "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "[Edge] Google LiteRT.js: WebGPU로 브라우저에서 tflite 모델 직접 실행",
+      "summary": "[Edge] Google이 2026-07-09 LiteRT.js 공개. .tflite 모델을 브라우저에서 WebGPU/WASM으로 실행(서버 없음). 5~60x CPU 대비 GPU 가속, XNNPACK 멀티스레드 CPU, WebNN NPU 지원. TensorFlow.js 대비 3x 성능 향상. Chrome/Edge/Firefox/Safari 지원. cocy.io에서 쓸모: game.cocy.io 게임 내 클라이언트-사이드 AI 서버비용 0으로 구현.",
+      "category": "ai-tech",
+      "source": "Google Developers Blog",
+      "sourceUrl": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "publishedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "[Image] FLUX.2 klein 4B: 500ms 서브세컨드 이미지 생성, Apache 2.0 상업용",
+      "summary": "[Image] Black Forest Labs의 FLUX.2 klein 4B(Apache 2.0). 4B 파라미터로 500ms 이내 이미지 생성·편집·멀티레퍼런스 합성 단일 아키텍처. 소비자 GPU 13GB VRAM에서 동작. text2img + img2img 통합. cocy.io에서 쓸모: 게임 아트 파이프라인 속도 향상(FLUX.1-dev 대비 약 8배 빠름), 라이브 NPC 아트 생성 프로토타입 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face - black-forest-labs",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "publishedAt": "2026-01-17T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "[Image] Krea 2 Turbo: 창작·상업·개발자 허용 이미지 생성 모델",
+      "summary": "[Image] Krea.ai의 Krea 2 Turbo(2026-06-22). Krea 2 Community License로 창작·상업·연구 이용 허용, 생성물 IP 사용자 귀속. Raw(고품질)와 Turbo(고속) 2종 HuggingFace 공개. cocy.io에서 쓸모: 게임 커버·카드아트·UI 에셋 실험, 상업 배포 가능한 게임 일러스트 파이프라인 대안 검토.",
+      "category": "ai-tech",
+      "source": "Hugging Face - krea/Krea-2-Turbo",
+      "sourceUrl": "https://huggingface.co/krea/Krea-2-Turbo",
+      "publishedAt": "2026-06-22T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "[TTS] Qwen3-TTS: Apache 2.0, 10개 언어·한국어 지원·3초 음성 클로닝",
+      "summary": "[TTS] Alibaba Qwen팀의 Qwen3-TTS(Apache 2.0). 10개 언어(한국어 포함), 3초 오디오로 제로샷 음성 클로닝, 자연어로 보이스 디렉션 가능. 로컬 추론 지원. cocy.io에서 쓸모: 고스톱 NPC 음성·다국어 게임 나레이션 자동화, 기존 녹음 베이스 클론으로 추가 콜 음성 확장.",
+      "category": "ai-tech",
+      "source": "Hugging Face - Qwen/Qwen3-TTS",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS",
+      "publishedAt": "2026-01-01T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[TTS] Chatterbox (Resemble AI): MIT, 제로샷 음성 클로닝·감정 제어 프로덕션 TTS",
+      "summary": "[TTS] Resemble AI의 Chatterbox(MIT 라이선스). 짧은 오디오 샘플로 제로샷 음성 클로닝, 감정 강도 슬라이더, 웃음·기침 등 paralinguistic 태그. Chatterbox-Turbo 350M 파라미터로 저사양 CPU 실시간 가능. cocy.io에서 쓸모: game.cocy.io NPC 대화 실시간 TTS, cocy 목소리 클론으로 게임 나레이션 자동 생성.",
+      "category": "ai-tech",
+      "source": "Resemble AI - Chatterbox",
+      "sourceUrl": "https://www.resemble.ai/learn/models/chatterbox",
+      "publishedAt": "2026-06-01T00:00:00Z"
     }
   ]
 }
