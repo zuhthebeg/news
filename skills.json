@@ -1097,6 +1097,45 @@
         "cron"
       ],
       "addedAt": "2026-07-16"
+    },
+    {
+      "title": "ClawSec",
+      "description": "OpenClaw·Hermes 에이전트의 보안 완전 체크리스트 스킬. SOUL.md 드리프트 감지, 라이브 보안 권고, 자동 감시, 스킬 무결성 검증. 권한 누수·프롬프트 인젝션 방지.",
+      "icon": "🔒",
+      "category": "dev",
+      "url": "https://github.com/prompt-security/clawsec",
+      "tags": [
+        "보안",
+        "감시",
+        "감사"
+      ],
+      "addedAt": "2026-07-17"
+    },
+    {
+      "title": "Browser Act",
+      "description": "AI 에이전트용 고급 브라우저 자동화 CLI. 안티봇 우회, 멀티 세션·멀티 계정 격리, 병렬 멀티태스크, 막힐 땐 휴먼 핸드오프.",
+      "icon": "🌐",
+      "category": "dev",
+      "url": "https://github.com/browser-act/skills",
+      "tags": [
+        "자동화",
+        "브라우저",
+        "에이전트"
+      ],
+      "addedAt": "2026-07-17"
+    },
+    {
+      "title": "Nano Banana Pro Prompts Recommender",
+      "description": "10,000+ Nano Banana Pro(Gemini 이미지) 프롬프트 스마트 추천. 사용례별 검색, 콘텐츠 리믹스, 샘플 이미지 자동 생성.",
+      "icon": "🍌",
+      "category": "media",
+      "url": "https://github.com/YouMind-OpenLab/nano-banana-pro-prompts-recommend-skill",
+      "tags": [
+        "이미지",
+        "프롬프트",
+        "생성"
+      ],
+      "addedAt": "2026-07-17"
     }
   ]
 }

@@ -1,1 +1,50 @@
-{"date":"2026-07-17","articles":[{"id":"1","title":"제헌절 공휴일 확정, 7월 17-19일 3일 연휴","summary":"2026년 7월 17일 제헌절이 공휴일로 확정되어 금요일부터 일요일까지 3일 연휴가 된다.","category":"domestic","source":"경향신문","sourceUrl":"https://www.khan.co.kr/","publishedAt":"2026-07-17T00:00:00Z"},{"id":"2","title":"더불어민주당 8.17 전당대회 관련 긴급 최고위원회의 개최","summary":"민주당이 16일 밤 긴급 최고위원회의를 열어 전당대회 당대표 선거 출마자들의 피선거권 자격 문제를 논의했으며, 17일 오전에도 회의를 계속한다.","category":"domestic","source":"이투데이","sourceUrl":"https://www.etoday.co.kr/news/view/2602724","publishedAt":"2026-07-17T00:00:00Z"},{"id":"3","title":"한은 신현송 총재, 금리 인상에 따른 주가 영향 약화 주장","summary":"한은 신현송 총재는 기준금리 인상이 주가에 미치는 영향은 절대적이지 않다며 통화정책의 신중성을 강조했다.","category":"economy","source":"재정경제부","sourceUrl":"https://www.mofe.go.kr/","publishedAt":"2026-07-17T00:00:00Z"},{"id":"4","title":"한국 반도체 인재, AI 전쟁에서 200억 몸값 가능","summary":"AI 기술 경쟁 심화에 따라 한국 반도체 전문 인재들의 몸값이 급상승하고 있다. 빅테크 기업들의 AI 기술 확보 경쟁이 핵심 인재 확보 경쟁으로 전개되고 있다.","category":"tech","source":"더밀크","sourceUrl":"https://www.themiilk.com/articles/ac5ab08ec","publishedAt":"2026-07-17T00:00:00Z"},{"id":"5","title":"2026 빅테크 전략: AI 에이전트와 실전 기술 중심","summary":"2026년 빅테크 기업들은 AI 에이전트의 기업용 애플리케이션 탑재(40% 목표)와 토큰 비용 최적화 전략에 집중하고 있다. 엔비디아 독점 체제에 구글·아마존이 도전 중이다.","category":"tech","source":"BESPIN GLOBAL","sourceUrl":"https://www.bespinglobal.com/trend-letter/2026-bigtech-ai-investment-strategy/","publishedAt":"2026-07-17T00:00:00Z"},{"id":"6","title":"2026년 우주 탐사 대격변: 일본 화성 위성 탐사선 발사","summary":"일본우주항공연구개발기구(JAXA)가 2026년 화성 위성 탐사선 MMX를 발사하여 포보스에서 샘플을 채취하고 2031년 귀환할 예정이다. 인도의 Aditya-L1도 태양 활동 극대기를 관측한다.","category":"science","source":"사이언스타임즈","sourceUrl":"https://www.sciencetimes.co.kr/nscvrg/view/menu/248?searchCategory=220&nscvrgSn=261321","publishedAt":"2026-07-17T00:00:00Z"},{"id":"7","title":"헌팅턴병 진행 75% 늦추는 유전자 치료 개발","summary":"영국 유니버시티 칼리지 런던 연구팀이 헌팅턴병 진행을 75% 늦추는 유전자 치료 AMT-130을 개발했다.","category":"science","source":"사이언스타임즈","sourceUrl":"https://www.sciencetimes.co.kr/nscvrg/view/menu/255?searchCategory=226&nscvrgSn=261384","publishedAt":"2026-07-17T00:00:00Z"},{"id":"8","title":"2026 게임산업, AI 도입과 수익 모델 재편 가속","summary":"게임산업이 AI 기술 도입, 비용 압박 구조조정, 그리고 예측 가능한 과금 구조(배틀패스·구독형) 전환을 추진 중이다. 스톱 킬링 게임즈 법안도 주목받고 있다.","category":"gaming","source":"게임메카","sourceUrl":"https://www.ekoreanews.co.kr/news/articleView.html?idxno=84089","publishedAt":"2026-07-17T00:00:00Z"},{"id":"9","title":"게임 이용 양극화: PC·콘솔 시간 증가, 모바일 감소","summary":"국내 게임 이용률 감소 속에 PC·콘솔 이용률과 체류 시간이 증가하면서 게임이 대중적 여가에서 핵심 이용자 취미로 재편되고 있다.","category":"gaming","source":"게임메카","sourceUrl":"https://www.gamemeca.com/news.php","publishedAt":"2026-07-17T00:00:00Z"}]}
+{
+  "date": "2026-07-17",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[Audio] TangoFlux: ICLR 2026 3초 고속 텍스트→오디오 생성 모델",
+      "summary": "[Audio] Declare Lab의 TangoFlux가 ICLR 2026 논문으로 채택됨. 텍스트 프롬프트에서 44.1kHz 스테레오 오디오 최대 30초를 단 3초에 생성(A40 GPU). Flow matching 확산 트랜스포머, 3단계 학습(사전학습+파인튜닝+CRPO), CLI·Python·웹UI 제공. Apache 2.0(상업 이용 가능). cocy.io에서 쓸모: 게임 효과음/배경음/음성 프롬프트 즉시 생성, 게임 에셋 파이프라인 최종 음향 단계 자동화.",
+      "category": "ai-tech",
+      "source": "GitHub declare-lab/TangoFlux",
+      "sourceUrl": "https://github.com/declare-lab/TangoFlux",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "[Audio] ThinkSound: NeurIPS 2025 Chain-of-Thought 오디오 생성 프레임워크",
+      "summary": "[Audio] Fun Audio LLM의 ThinkSound가 NeurIPS 2025 논문으로 발표. 동영상→오디오 생성에 CoT(Chain-of-Thought) 추론 적용, Foley + 객체 정제 + 동기화 3단계 파이프라인. 멀티모달 LLM의 단계적 사고로 영상 뉘앙스를 고품질 음향으로 표현. Hugging Face Spaces·ModelScope 라이브 데모 제공. cocy.io에서 쓸모: 게임 영상→동기 음향 자동 생성, 게임트레일러 Foley 프로덕션 가속화.",
+      "category": "ai-tech",
+      "source": "GitHub FunAudioLLM/ThinkSound",
+      "sourceUrl": "https://github.com/FunAudioLLM/ThinkSound",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "[Audio] Amphion 3.2: 오디오/음악/음성 생성 완전 통합 툴킷 업데이트",
+      "summary": "[Audio] Open MMLab의 Amphion이 v3.2로 업데이트. 음악 생성, 음성 합성, Foley 효과음, 오디오-텍스트 정렬을 통합하는 완전 연구 프레임워크. 사전학습 모델·데이터셋·벤치마크·Docker 환경 포함. GitHub Trending 순위 상승. cocy.io에서 쓸모: 게임 BGM/SFX/NPC 음성 연구 프로토타입 빠른 구성, ACE-Step 파이프라인 통합 벤치마크 검토.",
+      "category": "ai-tech",
+      "source": "GitHub open-mmlab/Amphion",
+      "sourceUrl": "https://github.com/open-mmlab/Amphion",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "[Tool] OpenMontage v2: 에이전트 기반 영상 제작 자동화 시스템(12개 파이프라인, 52개 도구)",
+      "summary": "[Tool] Calesthio의 OpenMontage가 v2로 진화. 순순 프롬프트→영상 프로덕션(기획·스크립트·자산생성·편집·합성)을 12개 파이프라인 + 52개 도구 + 500+ 에이전트 스킬로 자동화. Veo·Sora·MovieGen·Google Chirp3 등 다중 백엔드, 스톡 영상 검색·편집·Remotion 렌더링 통합. 무료 오픈 소스. cocy.io에서 쓸모: game.cocy.io 게임 트레일러·프로모션 영상 자동 생성, 게임 에셋 시각화 파이프라인 참조 구조.",
+      "category": "ai-tech",
+      "source": "GitHub calesthio/OpenMontage",
+      "sourceUrl": "https://github.com/calesthio/OpenMontage",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "[Edge] LocalAI v2.3: 로컬 추론 통합 엔진 — 모든 모델, 모든 하드웨어, 구성 가능 백엔드",
+      "summary": "[Edge] Mudler의 LocalAI v2.3 업데이트. LLM(llama.cpp)·비전·음성·이미지·영상을 로컬 CPU/GPU에서 실행하는 통합 엔진. OpenAI/Anthropic/ElevenLabs API 호환성, 백엔드 온디맨드 풀링(필요한 것만 설치), 멀티사용자·할당량·RBAC. MCP·RAG·에이전트 도구 포함. 모든 OS, GPU(NVIDIA/AMD/Intel/Apple Silicon)·Vulkan 지원. cocy.io에서 쓸모: llm.cocy.io 로컬 추론 대체 스택 검토, 게임 클라이언트 오프라인 AI 에이전트 임베딩.",
+      "category": "ai-tech",
+      "source": "GitHub mudler/LocalAI",
+      "sourceUrl": "https://github.com/mudler/LocalAI",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    }
+  ]
+}
