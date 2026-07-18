@@ -81,6 +81,51 @@
       "source": "경향게임스",
       "sourceUrl": "https://www.khgames.co.kr/news/articleView.html?idxno=305128",
       "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] 구글, 로컬 AI 추론 런타임 LiteRT.js 공개…브라우저에서 3배 빠른 음성/오디오 처리",
+      "summary": "구글이 7월 9일 공개한 LiteRT.js는 WebGPU를 활용해 브라우저에서 음성 처리 AI 모델을 TensorFlow.js보다 3배 빠르게 실행한다. cocy.io에서 쓸모: 게임 내 실시간 음성 효과, 음악게임 음성 분석을 서버 API 없이 클라이언트에서 처리 가능.",
+      "category": "ai-tech",
+      "source": "Google Developers Blog",
+      "sourceUrl": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "publishedAt": "2026-07-09T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "[Audio] Stable Audio 3.0 오픈소스 버전 공개…로컬 배포로 6분 음악 생성",
+      "summary": "Stability AI가 Stable Audio 3.0의 오픈웨이트 모델을 공개했다. 최대 6분 길이의 악기음악을 로컬 GPU에서 생성할 수 있으며, 상업 라이선스(Apache 2.0 호환)로 게임 BGM 파이프라인에 직접 적용 가능하다. cocy.io에서 쓸모: 게임 배경음악 무인 생성 파이프라인의 HeartMuLa 대체재로 고려 가치.",
+      "category": "ai-tech",
+      "source": "Stability AI Blog",
+      "sourceUrl": "https://www.mindstudio.ai/blog/stable-audio-3-open-weight-music-generation",
+      "publishedAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "[Image] FLUX.2 [klein] 4B 상업 라이선스 버전 확산…SDXL 완전 대체",
+      "summary": "Black Forest Labs의 FLUX.2 [klein] 4B가 Apache 2.0 라이선스로 상업 이용 가능하면서 소형 모델 생태계 재편 중이다. LoRA 파인튜닝과 ControlNet 지원으로 게임 캐릭터/아트 일관성 파이프라인에 적합. cocy.io에서 쓸모: 조커런·마작 카드 아트, 타로/행성 일러스트 로컬 생성의 SDXL-turbo 상위 버전.",
+      "category": "ai-tech",
+      "source": "HuggingFace Model Hub",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein",
+      "publishedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "[Edge] 브라우저 AI 2026년 대전환: WebGPU 모든 브라우저 탑재, LLM·음성처리 클라이언트 실행",
+      "summary": "WebGPU W3C 후보 권장안 확정 및 주요 브라우저 탑재로 브라우저 로컬 AI 추론이 '데모'에서 '프로덕션'으로 전환. 100M-3B 규모 모델의 음성/이미지 처리가 서버 비용 없이 실시간 처리 가능. cocy.io에서 쓸모: 게임 음악게임 음성 인식, 로그 사진 분류 AI를 로컬 edge inference로 전환하여 운영비 절감.",
+      "category": "ai-tech",
+      "source": "알렉세이 알레이니코프 AI 블로그",
+      "sourceUrl": "https://www.alekseialeinikov.com/en/blog/topics/ai/browser-ai-webgpu-litert-js-2026",
+      "publishedAt": "2026-07-16T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "[Tool] 게임 에셋 생성 AI 현황: Meshy, 3D AI Studio, Tripo 로컬 생성까지 정식화",
+      "summary": "게임 3D/2D 에셋 생성 AI 도구들이 자동 리토폴로지, 리깅, PBR 텍스처 패킹 등 게임 엔진 export까지 완전 자동화. Hero asset은 여전히 수작업 필요하나, 프로토타입·환경소품 배치 속도 10배 단축. cocy.io에서 쓸모: 조커런 새 스테이지 환경 에셋, 타로/행성 카드 배경, 마작 테마별 타일 텍스처 배치 생성 파이프라인.",
+      "category": "ai-tech",
+      "source": "Techsy.io AI 게임개발 가이드",
+      "sourceUrl": "https://techsy.io/en/blog/best-ai-game-asset-generators",
+      "publishedAt": "2026-07-18T00:00:00Z"
     }
   ]
 }
