@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-18",
+  "articles": [
+    {
+      "id": "1",
+      "title": "애플, 시가총액 1위 탈환…엔비디아 제쳐",
+      "summary": "애플이 7월 17일(현지 시각) 엔비디아를 제치고 글로벌 시가총액 1위 기업 지위를 1년 3개월 만에 되찾았다. AI 반도체 업종 매도세 속에서 AI 인프라 투자보다 효율적 경영으로 재평가받았다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260717063900072",
+      "publishedAt": "2026-07-17T06:39:00Z"
+    },
+    {
+      "id": "2",
+      "title": "최태원 SK회장 \"메모리 수요 계속 늘어…SK하이닉스 우상향\"",
+      "summary": "최태원 회장이 AI 산업 성장에 따른 메모리 수요 기하급수적 증가를 언급하며, 한국의 생존 전략으로 '틈새시장 공략'을 제시했다. 업계 장기 낙관론을 강조했다.",
+      "category": "economy",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202607171047001",
+      "publishedAt": "2026-07-17T10:47:00Z"
+    },
+    {
+      "id": "3",
+      "title": "정은경 복지부 장관 \"청년 소득보장 필요…내년 시범사업 목표\"",
+      "summary": "정은경 장관이 AI 시대 고용구조 변화에 대응하는 청년 특화 소득보장 제도를 구상 중이라고 밝혔다. 하반기 논의 후 내년 시범사업 도입을 목표로 한다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202607171225405895",
+      "publishedAt": "2026-07-17T12:25:00Z"
+    },
+    {
+      "id": "4",
+      "title": "중국 '키미 K3' AI 모델 공개…OpenAI·Anthropic 추격",
+      "summary": "중국 AI 스타트업 문샷AI가 세계인공지능대회(WAIC)에서 차세대 고성능 오픈소스 모델 '키미 K3'를 공개했다. 벤치마크 점수 57점으로 글로벌 3위를 차지하며 압도적 가격 대비 성능을 강점으로 내세웠다.",
+      "category": "tech",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/economy/tech_it/2026/07/18/VJJHS3A6DNGUJBNJA5OLWEVCUQ/",
+      "publishedAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "구글 '2026 책임감있는AI X 앱생태계 포럼' 개최…Gemini 3.5 Flash 공개",
+      "summary": "구글코리아가 최신 AI 기술과 개발자 도구, 인텔리전트 아이웨어의 국내 앱 생태계 영향을 논의했다. Google I/O 2026 공개 'Gemini 3.5 Flash'와 'Antigravity 2.0' 업데이트를 소개했다.",
+      "category": "tech",
+      "source": "구글 블로그",
+      "sourceUrl": "https://blog.google/intl/ko-kr/company-news/technology/responsible-ai-app-ecosystem-forum-202607/",
+      "publishedAt": "2026-07-13T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "마이크로소프트, 역대 최다 570개 취약점 패치…제로데이 3건 포함",
+      "summary": "MS가 2026년 7월 패치 튜즈데이에서 역대 최다인 570개 보안 취약점을 수정했다. 제로데이 3건이 포함되었으며, AI 기반 취약점 탐지 시스템 도입이 발견 건수 급증의 배경으로 지목됐다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
+      "publishedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "JAXA, 화성 위성 탐사선 MMX 2026년 발사…포보스 샘플 2031년 귀환",
+      "summary": "일본우주항공연구개발기구(JAXA)가 화성의 위성 포보스에서 샘플을 채취해 2031년 지구로 귀환하는 MMX 미션을 준비 중이다. NASA·ESA 등 국제 협력 프로젝트로 화성 위성 샘플 귀환은 세계 최초다.",
+      "category": "science",
+      "source": "사이언스타임즈",
+      "sourceUrl": "https://www.sciencetimes.co.kr/nscvrg/view/menu/248?searchCategory=220&nscvrgSn=261321",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "췌장암 신약 다락손라십, 임상 3상에서 생존기간 두 배 연장",
+      "summary": "미국임상종양학회(ASCO)에서 발표된 임상 3상 결과, 다락손라십 투여군의 중앙 생존기간이 13.2개월로 기존 항암화학요법(6.7개월) 대비 두 배 가까이 늘었다. 췌장암 환자 90%에 나타나는 유전자 변이를 표적으로 한다.",
+      "category": "science",
+      "source": "사이언스타임즈",
+      "sourceUrl": "https://www.sciencetimes.co.kr/nscvrg/view/menu/251?searchCategory=223&nscvrgSn=261983",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "호요버스 '젠레스 존 제로' 3.0 버전 출시…신규 지역·에이전트 추가",
+      "summary": "'젠레스 존 제로'가 천공의 섬 '로스캘리퍼'와 신규 에이전트 '벨리나'·'노르마'를 추가하는 3.0 버전을 정식 출시했다. 정식 출시 2주년을 맞아 콜라보 이벤트도 진행 중이다.",
+      "category": "gaming",
+      "source": "경향게임스",
+      "sourceUrl": "https://www.khgames.co.kr/news/articleView.html?idxno=305128",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    }
+  ]
+}
