@@ -1136,6 +1136,58 @@
         "생성"
       ],
       "addedAt": "2026-07-17"
+    },
+    {
+      "title": "Capability Evolver",
+      "description": "AI 에이전트를 자동으로 진화시키는 자아 개선 엔진. 런타임 히스토리 분석으로 능력 개선 식별 및 자동 적용. ClawHub 1위 스킬(35,581+ 다운로드).",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://clawhub.ai/autogame-17/capability-evolver",
+      "tags": [
+        "에이전트",
+        "자동진화",
+        "성능개선"
+      ],
+      "addedAt": "2026-07-19"
+    },
+    {
+      "title": "Felo Search",
+      "description": "실시간 웹 검색 + AI 답변 생성. 검색결과 대신 인용과 함께 구조화된 답변 반환. 뉴스, 가격, 마켓리서치, 문서 변경사항 추적용.",
+      "icon": "🔍",
+      "category": "dev",
+      "url": "https://felo.ai/skills",
+      "tags": [
+        "검색",
+        "웹",
+        "실시간"
+      ],
+      "addedAt": "2026-07-19"
+    },
+    {
+      "title": "Felo Slides",
+      "description": "텍스트 설명으로 전문가 수준 PPT 자동 생성. HTML 기반 렌더링으로 각 요소(텍스트, 이미지, 도형) 독립 편집 가능.",
+      "icon": "📊",
+      "category": "productivity",
+      "url": "https://felo.ai/skills/openclaw/felo-slides",
+      "tags": [
+        "프레젠테이션",
+        "자동생성",
+        "PPT"
+      ],
+      "addedAt": "2026-07-19"
+    },
+    {
+      "title": "Web Search EXA v2.0",
+      "description": "심층 리서치, 구조화된 추출, 고급 필터링 지원. 최신 웹 정보 수집 및 지식 베이스 구축용 검색 스킬(2026년 6월 업데이트).",
+      "icon": "🌐",
+      "category": "dev",
+      "url": "https://clawhub.ai/exa-search",
+      "tags": [
+        "검색",
+        "리서치",
+        "데이터수집"
+      ],
+      "addedAt": "2026-07-19"
     }
   ]
 }
