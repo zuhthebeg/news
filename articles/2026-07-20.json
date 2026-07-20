@@ -126,6 +126,51 @@
       "source": "Meta",
       "sourceUrl": "https://github.com/facebookresearch/audiocraft",
       "publishedAt": "2026-03-01T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "[Audio/TTS] Chatterbox Turbo — MIT 라이선스 제로샷 음성 클로닝, 75ms 지연",
+      "summary": "[Audio] Resemble AI의 Chatterbox TTS가 MIT 라이선스로 공개된 상업용 TTS 모델이다. 5초 샘플로 제로샷 음성 클로닝을 지원하며, Turbo 버전은 75ms 지연으로 실시간 TTS 가능. 23개 언어 지원, ElevenLabs 대비 blind test에서 우위. cocy.io에서 쓸모: 고스톱 콜 음성·게임 캐릭터 TTS를 API 비용 없이 로컬에서 생성·클로닝 가능.",
+      "category": "ai-tech",
+      "source": "Resemble AI / GitHub",
+      "sourceUrl": "https://github.com/resemble-ai/chatterbox",
+      "publishedAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "[Audio/TTS] Step-Audio-TTS-3B — Apache 2.0 감정 제어 TTS, 업계 1위 Elo 1,118",
+      "summary": "[Audio] StepFun의 Step-Audio EditX(3B 파라미터)는 Apache 2.0 라이선스 오픈소스 TTS/음성편집 모델로, 감정·스타일·준언어적 요소(웃음/한숨 등) 편집 지원. 오픈웨이트 블라인드 테스트 Elo 1,118로 1위. step-tts-2는 6월 기준 제로샷 클로닝 업계 최고 수준. cocy.io에서 쓸모: 고스톱 멀티플레이 음성 이벤트(서버 lastEvent 연동)·리듬게임 내레이션 자동 생성.",
+      "category": "ai-tech",
+      "source": "StepFun AI / GitHub",
+      "sourceUrl": "https://github.com/stepfun-ai/Step-Audio-EditX",
+      "publishedAt": "2026-01-29T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "[Edge] Google LiteRT.js — WebGPU 브라우저 추론 런타임, TF.js 대비 3배 빠름",
+      "summary": "[Edge] Google이 7월 출시한 LiteRT.js는 .tflite 모델을 브라우저에서 WebGPU로 실행하는 고성능 추론 런타임이다. CPU 대비 5~60배 속도, TF.js 대비 3배 빠르며 Chrome/Firefox/Safari 전 브라우저 지원. 오브젝트 감지·오디오 처리·이미지 분류를 서버 없이 클라이언트에서 실행 가능. cocy.io에서 쓸모: game.cocy.io 웹게임에 서버 API 없이 온디바이스 AI 피처(치트 감지·동작 예측) 추가.",
+      "category": "ai-tech",
+      "source": "Google Developers Blog",
+      "sourceUrl": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "publishedAt": "2026-07-10T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "[Audio/TTS] Bark TTS (Suno AI) — MIT 전환, SFX·음악·비언어 소리 통합 생성",
+      "summary": "[Audio] Suno AI의 Bark TTS가 최근 MIT 라이선스로 전환됐다. 텍스트에서 현실적인 다국어 음성뿐 아니라 웃음·한숨·배경소음·단순 음악까지 비언어 소리를 직접 생성한다. 4GB 미만 VRAM에서 실행 가능. cocy.io에서 쓸모: 게임 효과음(SFX) 파이프라인 보완—TangoFlux 대신 Bark로 감정 포함 게임 캐릭터 사운드 일괄 생성.",
+      "category": "ai-tech",
+      "source": "Suno AI / GitHub",
+      "sourceUrl": "https://github.com/suno-ai/bark",
+      "publishedAt": "2026-07-01T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "[TTS] OmniVoice (k2-fsa) — Apache 2.0, 600개 언어 제로샷 TTS",
+      "summary": "[Audio] k2-fsa의 OmniVoice는 Apache 2.0 라이선스로 600개 이상 언어를 지원하는 대규모 제로샷 TTS 모델이다. 소수 샘플로 신규 언어·화자를 즉시 추가 가능하며, 상업적 사용이 자유롭다. cocy.io에서 쓸모: subway-dice i18n 4개 도시 확장 또는 voicematch 다국어 TTS 파이프라인에 비용 없이 통합—한국어 포함 아시아 언어 커버리지 우수.",
+      "category": "ai-tech",
+      "source": "k2-fsa / GitHub",
+      "sourceUrl": "https://github.com/k2-fsa/OmniVoice",
+      "publishedAt": "2026-07-01T00:00:00Z"
     }
   ]
 }
