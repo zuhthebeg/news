@@ -1,75 +1,159 @@
-[
-  {
-    "id": 1,
-    "title": "[Audio] Hume AI TADA: 할루시네이션 없는 긴 형식의 오디오 생성",
-    "summary": "Hume AI가 공개한 TADA는 최대 700초의 오디오를 한 번에 생성하며 할루시네이션이 없는 고성능 모델로, cocy.io에서 게임 NPC 음성 대화 생성 및 장시간 배경 오디오 제작에 활용 가능.",
-    "sourceUrl": "https://github.com/HumeAI/TADA",
-    "category": "ai-tech"
-  },
-  {
-    "id": 2,
-    "title": "[Edge] LiteRT.js: 브라우저 환경을 위한 차세대 TFLite 런타임",
-    "summary": "Google이 공개한 LiteRT.js는 WebGPU 가속을 활용해 이전 웹 런타임보다 3배 빠른 성능을 제공하며, cocy.io의 WebGPU 기반 웹 게임에서 온디바이스 AI 추론 성능 향상에 적합.",
-    "sourceUrl": "https://github.com/google/mediapipe/tree/liteRT-js",
-    "category": "ai-tech"
-  },
-  {
-    "id": 3,
-    "title": "[Image] FLUX.2 [klein]: Apache-2.0 상업용 고품질 이미지 생성 모델",
-    "summary": "Black Forest Labs의 FLUX.2 시리즈 중 상업적 이용이 가능한 경량화 버전으로, cocy.io의 게임 에셋 및 UI 디자인 요소 생성에 최적화된 고품질 이미지 모델.",
-    "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein",
-    "category": "ai-tech"
-  },
-  {
-    "id": 4,
-    "title": "[Tool] ai-game-studio: 2D 스프라이트 및 애니메이션 자동 생성 로컬 웹 앱",
-    "summary": "텍스트 프롬프트로 2D 게임 스프라이트와 애니메이션을 로컬에서 생성할 수 있는 웹 기반 도구로, cocy.io의 빠른 게임 에셋 프로토타이핑 및 파이프라인 자동화에 유용.",
-    "sourceUrl": "https://github.com/acatovic/ai-game-studio",
-    "category": "ai-tech"
-  },
-  {
-    "id": 5,
-    "title": "[Video] AnimeGen I2V: 애니 전용 이미지→비디오 생성 (Apache-2.0)",
-    "summary": "[Video] AIdeaLab이 Wan 2.2 I2V 기반으로 개발한 애니메이션 특화 I2V 모델. 캐릭터 색감·모션 일관성 대폭 강화, Apache-2.0 상업 허용. cocy.io에서 쓸모: 게임 캐릭터 인트로 애니·웹툰 패널 전환 영상 자동 생성.",
-    "source": "HuggingFace",
-    "sourceUrl": "https://huggingface.co/aidealab/AnimeGen-I2V",
-    "publishedAt": "2026-07-12T00:00:00Z",
-    "category": "ai-tech"
-  },
-  {
-    "id": 6,
-    "title": "[Video] NVIDIA Cosmos 3 Edge: 4B 엣지 멀티모달 월드 모델 (Apache-2.0)",
-    "summary": "[Video] NVIDIA의 4B 파라미터 경량 엣지 월드 모델. 텍스트·이미지·오디오 입력 → 비디오·이미지·오디오·액션 동시 생성. NeMo 파인튜닝 파이프라인 Apache-2.0 완전 오픈. cocy.io에서 쓸모: 로컬 RTX로 게임 배경 영상+효과음 동시 제작.",
-    "source": "HuggingFace Blog",
-    "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
-    "publishedAt": "2026-07-20T00:00:00Z",
-    "category": "ai-tech"
-  },
-  {
-    "id": 7,
-    "title": "[Edge] Transformers.js v4: WebGPU C++ 런타임, WASM 대비 최대 100배 속도",
-    "summary": "[Edge] HuggingFace Transformers.js v4가 C++로 재작성된 WebGPU 런타임을 탑재, WASM 대비 최대 100×, 실용 5~10× 향상. HF Hub 3,000+ 모델 지원, MIT 라이선스. cocy.io에서 쓸모: game.cocy.io 내 온디바이스 AI 추론 — 서버 비용 없이 브라우저에서 직접 실행.",
-    "source": "HuggingFace Blog",
-    "sourceUrl": "https://huggingface.co/blog/transformersjs-v4",
-    "publishedAt": "2026-02-01T00:00:00Z",
-    "category": "ai-tech"
-  },
-  {
-    "id": 8,
-    "title": "[Audio] Fish Audio S2 Pro: 1000만 시간 학습, 80개 언어 TTS (유료 상업 라이선스)",
-    "summary": "[Audio] 1,000만 시간 오디오·80개 언어 지원 고성능 TTS. 감정 컨트롤 풍부, API 제공. 라이선스: 유료 상업 플랜 필요(무료 플랜 제한). cocy.io에서 쓸모: 게임 NPC 다국어 음성 및 gnom 보이스피싱 데모 외국어 확장.",
-    "source": "Fish Audio",
-    "sourceUrl": "https://fish.audio/",
-    "publishedAt": "2026-07-01T00:00:00Z",
-    "category": "ai-tech"
-  },
-  {
-    "id": 9,
-    "title": "[Audio] Hume AI Octave 2: 감정 인식 대화형 TTS 에이전트 (라이선스 미확인)",
-    "summary": "[Audio] 맥락·감정 상태에 따라 억양·속도·톤을 실시간으로 조절하는 대화형 TTS. 라이선스 미확인 — 상업 사용 전 공식 확인 필요. cocy.io에서 쓸모: page.cocy.io 인터랙티브 페이지에 감정 반응형 음성 대화 프로토타이핑.",
-    "source": "Hume AI",
-    "sourceUrl": "https://www.hume.ai/",
-    "publishedAt": "2026-03-01T00:00:00Z",
-    "category": "ai-tech"
-  }
-]
+{
+  "date": "2026-07-21",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[Audio] Hume AI TADA: 할루시네이션 없는 긴 형식의 오디오 생성",
+      "summary": "Hume AI가 공개한 TADA는 최대 700초의 오디오를 한 번에 생성하며 할루시네이션이 없는 고성능 모델로, cocy.io에서 게임 NPC 음성 대화 생성 및 장시간 배경 오디오 제작에 활용 가능.",
+      "sourceUrl": "https://github.com/HumeAI/TADA",
+      "category": "ai-tech"
+    },
+    {
+      "id": "2",
+      "title": "[Edge] LiteRT.js: 브라우저 환경을 위한 차세대 TFLite 런타임",
+      "summary": "Google이 공개한 LiteRT.js는 WebGPU 가속을 활용해 이전 웹 런타임보다 3배 빠른 성능을 제공하며, cocy.io의 WebGPU 기반 웹 게임에서 온디바이스 AI 추론 성능 향상에 적합.",
+      "sourceUrl": "https://github.com/google/mediapipe/tree/liteRT-js",
+      "category": "ai-tech"
+    },
+    {
+      "id": "3",
+      "title": "[Image] FLUX.2 [klein]: Apache-2.0 상업용 고품질 이미지 생성 모델",
+      "summary": "Black Forest Labs의 FLUX.2 시리즈 중 상업적 이용이 가능한 경량화 버전으로, cocy.io의 게임 에셋 및 UI 디자인 요소 생성에 최적화된 고품질 이미지 모델.",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein",
+      "category": "ai-tech"
+    },
+    {
+      "id": "4",
+      "title": "[Tool] ai-game-studio: 2D 스프라이트 및 애니메이션 자동 생성 로컬 웹 앱",
+      "summary": "텍스트 프롬프트로 2D 게임 스프라이트와 애니메이션을 로컬에서 생성할 수 있는 웹 기반 도구로, cocy.io의 빠른 게임 에셋 프로토타이핑 및 파이프라인 자동화에 유용.",
+      "sourceUrl": "https://github.com/acatovic/ai-game-studio",
+      "category": "ai-tech"
+    },
+    {
+      "id": "5",
+      "title": "[Video] AnimeGen I2V: 애니 전용 이미지→비디오 생성 (Apache-2.0)",
+      "summary": "[Video] AIdeaLab이 Wan 2.2 I2V 기반으로 개발한 애니메이션 특화 I2V 모델. 캐릭터 색감·모션 일관성 대폭 강화, Apache-2.0 상업 허용. cocy.io에서 쓸모: 게임 캐릭터 인트로 애니·웹툰 패널 전환 영상 자동 생성.",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/aidealab/AnimeGen-I2V",
+      "publishedAt": "2026-07-12T00:00:00Z",
+      "category": "ai-tech"
+    },
+    {
+      "id": "6",
+      "title": "[Video] NVIDIA Cosmos 3 Edge: 4B 엣지 멀티모달 월드 모델 (Apache-2.0)",
+      "summary": "[Video] NVIDIA의 4B 파라미터 경량 엣지 월드 모델. 텍스트·이미지·오디오 입력 → 비디오·이미지·오디오·액션 동시 생성. NeMo 파인튜닝 파이프라인 Apache-2.0 완전 오픈. cocy.io에서 쓸모: 로컬 RTX로 게임 배경 영상+효과음 동시 제작.",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
+      "publishedAt": "2026-07-20T00:00:00Z",
+      "category": "ai-tech"
+    },
+    {
+      "id": "7",
+      "title": "[Edge] Transformers.js v4: WebGPU C++ 런타임, WASM 대비 최대 100배 속도",
+      "summary": "[Edge] HuggingFace Transformers.js v4가 C++로 재작성된 WebGPU 런타임을 탑재, WASM 대비 최대 100×, 실용 5~10× 향상. HF Hub 3,000+ 모델 지원, MIT 라이선스. cocy.io에서 쓸모: game.cocy.io 내 온디바이스 AI 추론 — 서버 비용 없이 브라우저에서 직접 실행.",
+      "source": "HuggingFace Blog",
+      "sourceUrl": "https://huggingface.co/blog/transformersjs-v4",
+      "publishedAt": "2026-02-01T00:00:00Z",
+      "category": "ai-tech"
+    },
+    {
+      "id": "8",
+      "title": "[Audio] Fish Audio S2 Pro: 1000만 시간 학습, 80개 언어 TTS (유료 상업 라이선스)",
+      "summary": "[Audio] 1,000만 시간 오디오·80개 언어 지원 고성능 TTS. 감정 컨트롤 풍부, API 제공. 라이선스: 유료 상업 플랜 필요(무료 플랜 제한). cocy.io에서 쓸모: 게임 NPC 다국어 음성 및 gnom 보이스피싱 데모 외국어 확장.",
+      "source": "Fish Audio",
+      "sourceUrl": "https://fish.audio/",
+      "publishedAt": "2026-07-01T00:00:00Z",
+      "category": "ai-tech"
+    },
+    {
+      "id": "9",
+      "title": "[Audio] Hume AI Octave 2: 감정 인식 대화형 TTS 에이전트 (라이선스 미확인)",
+      "summary": "[Audio] 맥락·감정 상태에 따라 억양·속도·톤을 실시간으로 조절하는 대화형 TTS. 라이선스 미확인 — 상업 사용 전 공식 확인 필요. cocy.io에서 쓸모: page.cocy.io 인터랙티브 페이지에 감정 반응형 음성 대화 프로토타이핑.",
+      "source": "Hume AI",
+      "sourceUrl": "https://www.hume.ai/",
+      "publishedAt": "2026-03-01T00:00:00Z",
+      "category": "ai-tech"
+    },
+    {
+      "id": "10",
+      "title": "與 주도 2차 종합특검 연장법, 필리버스터 종료 후 국회 통과",
+      "summary": "국민의힘이 저지에 나섰던 24시간 필리버스터가 재석 183명 전원 찬성으로 종결되며, 3대 특검 수사기한을 8월 23일까지 한 달 연장하는 2차 종합특검법이 재석 173명 전원 찬성으로 통과됐다. 국민의힘 의원들은 최종 표결에는 불참했다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/politics/2026/07/21/2026072115053636545",
+      "publishedAt": "2026-07-21T15:05:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "코스피 3.56% 급등 6747선 마감...매수 사이드카에 이재명 대통령 레버리지ETF 대책 지시",
+      "summary": "코스피가 삼성전자·SK하이닉스 강세에 힘입어 전 거래일 대비 231.68포인트(3.56%) 오른 6747.95에 마감했다. 장중 코스피200 선물이 5% 넘게 급등하며 매수 사이드카가 발동됐고, 이재명 대통령은 두 종목 단일종목 레버리지 ETF를 둘러싼 시장 논란과 관련해 금융당국에 신속한 보완대책 마련을 지시했다.",
+      "category": "economy",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/2605774",
+      "publishedAt": "2026-07-21T16:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "5일간 이어진 전국 집중호우 피해 1124건...569명 일시 대피",
+      "summary": "지난 17일부터 21일까지 닷새간 이어진 집중호우로 전국에서 주택·도로 침수 269건, 토사·낙석 유출 등 안전조치 820건을 포함해 총 1124건의 피해 신고가 접수됐다. 569명이 한때 대피했으며 인명피해는 없었고, 21일 오전에는 인천 강화군에 호우경보가 발효됐다.",
+      "category": "domestic",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20260721001119",
+      "publishedAt": "2026-07-21T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "ServiceNow AI 플랫폼 치명적 취약점, 실제 공격에 악용...샌드박스 우회로 원격코드실행",
+      "summary": "포춘 500대 기업의 85%가 사용하는 ServiceNow AI 플랫폼의 인증 없이 원격코드실행이 가능한 취약점(CVE-2026-6875)이 공개 직후 실제 공격에 악용됐다. 위협 인텔리전스 업체 Defused는 공개된 PoC를 우회하는 두 번째 샌드박스 탈출 공격 경로도 확인했으며, 자체 호스팅 고객은 직접 패치를 적용해야 한다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/critical-servicenow-code-execution-flaw-now-exploited-in-attacks/",
+      "publishedAt": "2026-07-20T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "워드프레스 코어 취약점 2건 연쇄 악용 'wp2shell'...CVSS 9.8 무인증 원격코드실행",
+      "summary": "워드프레스 6.9~7.0.1 버전에 존재하는 SQL 인젝션(CVE-2026-60137)과 REST API 취약점(CVE-2026-63030)을 연쇄 악용하면 인증 없이 관리자 비밀번호 해시를 탈취하고 웹셸을 심어 원격코드실행까지 가능하다. 취약점 공개 직후 실제 악용 사례가 확인되어 워드프레스는 6.9.5·7.0.2 버전으로 긴급 패치를 배포했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/07/new-wp2shell-wordpress-core-flaw-lets.html",
+      "publishedAt": "2026-07-18T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "'생명체 가능성' 외계행성 K2-18b, VLA·MeerKAT 33일 전파 감시했지만 신호는 없었다",
+      "summary": "천문학자들이 초대형 전파망원경 VLA와 MeerKAT을 동원해 하이션 세계 후보 K2-18b를 공전주기(33일)만큼 관측하며 인공 전파 신호를 찾는 사상 최대 규모 테크노시그니처 탐사를 진행했으나 뚜렷한 신호는 발견되지 않았다. 다만 이번 관측으로 해당 행성계에 존재할 수 있는 송신기 세기의 상한선을 설정하는 성과를 거뒀다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260712011748.htm",
+      "publishedAt": "2026-07-12T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "회전 없이 블랙홀 에너지 추출 이론 실험실서 최초 구현...펜로즈 과정 재현",
+      "summary": "CUNY 첨단과학연구센터 물리학자들이 실제로는 회전하지 않는 고리형 전자 공진기 네트워크를 정밀하게 변조해 '합성 초고속 회전'을 만들어내는 방식으로, 반세기 전 로저 펜로즈가 제안한 회전 블랙홀 에너지 추출 이론을 실험실에서 재현하는 데 성공했다. 이 장치를 통과한 파동이 실제로 증폭되며 펜로즈-젤도비치 과정의 핵심 물리를 입증했다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260711010120.htm",
+      "publishedAt": "2026-07-11T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "위메이드, 중국계 자본 네오펄스에 경영권 매각...22년 만에 대주주 교체",
+      "summary": "위메이드 박관호 창업자 겸 의장이 보유 지분 39.33%를 알리바바 등 중국 게임사와 관계가 깊은 홍콩 투자사 네오펄스에 매각하는 계약을 체결했다. 거래가 10월 30일 최종 대금 지급과 함께 종료되면 네오펄스는 기존 지분을 합쳐 총 40.25%를 보유한 최대주주가 되며, 이는 중국 자본이 국내 주요 게임사 경영권을 확보하는 첫 사례다.",
+      "category": "gaming",
+      "source": "PocketGamer.biz",
+      "sourceUrl": "https://www.pocketgamer.biz/wemade-founder-sells-controlling-stake-to-neopulse-in-593m-deal/",
+      "publishedAt": "2026-06-30T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "옵시디언 엔터테인먼트, 인력 4분의 1 감원...'어보우드' 속편 취소하고 폴아웃 신작 착수",
+      "summary": "마이크로소프트의 엑스박스 대규모 구조조정 일환으로 옵시디언 엔터테인먼트에서 아트 디렉터 2명, 내러티브 디자이너 등 최소 52명이 감원 대상에 올랐다는 캘리포니아주 WARN 통지가 확인됐다. 블룸버그에 따르면 스튜디오는 '어보우드' 속편 개발을 취소하고 대신 신규 폴아웃 타이틀 개발에 착수했으며, 감원은 9월 4일 공식 발효된다.",
+      "category": "gaming",
+      "source": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/07/bloomberg-obsidian-entertainment-cancels-avowed-sequel-starts-work-on-fallout-title-amid-layoffs",
+      "publishedAt": "2026-07-20T00:00:00Z"
+    }
+  ]
+}
