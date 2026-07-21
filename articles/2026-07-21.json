@@ -26,5 +26,50 @@
     "summary": "텍스트 프롬프트로 2D 게임 스프라이트와 애니메이션을 로컬에서 생성할 수 있는 웹 기반 도구로, cocy.io의 빠른 게임 에셋 프로토타이핑 및 파이프라인 자동화에 유용.",
     "sourceUrl": "https://github.com/acatovic/ai-game-studio",
     "category": "ai-tech"
+  },
+  {
+    "id": 5,
+    "title": "[Video] AnimeGen I2V: 애니 전용 이미지→비디오 생성 (Apache-2.0)",
+    "summary": "[Video] AIdeaLab이 Wan 2.2 I2V 기반으로 개발한 애니메이션 특화 I2V 모델. 캐릭터 색감·모션 일관성 대폭 강화, Apache-2.0 상업 허용. cocy.io에서 쓸모: 게임 캐릭터 인트로 애니·웹툰 패널 전환 영상 자동 생성.",
+    "source": "HuggingFace",
+    "sourceUrl": "https://huggingface.co/aidealab/AnimeGen-I2V",
+    "publishedAt": "2026-07-12T00:00:00Z",
+    "category": "ai-tech"
+  },
+  {
+    "id": 6,
+    "title": "[Video] NVIDIA Cosmos 3 Edge: 4B 엣지 멀티모달 월드 모델 (Apache-2.0)",
+    "summary": "[Video] NVIDIA의 4B 파라미터 경량 엣지 월드 모델. 텍스트·이미지·오디오 입력 → 비디오·이미지·오디오·액션 동시 생성. NeMo 파인튜닝 파이프라인 Apache-2.0 완전 오픈. cocy.io에서 쓸모: 로컬 RTX로 게임 배경 영상+효과음 동시 제작.",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
+    "publishedAt": "2026-07-20T00:00:00Z",
+    "category": "ai-tech"
+  },
+  {
+    "id": 7,
+    "title": "[Edge] Transformers.js v4: WebGPU C++ 런타임, WASM 대비 최대 100배 속도",
+    "summary": "[Edge] HuggingFace Transformers.js v4가 C++로 재작성된 WebGPU 런타임을 탑재, WASM 대비 최대 100×, 실용 5~10× 향상. HF Hub 3,000+ 모델 지원, MIT 라이선스. cocy.io에서 쓸모: game.cocy.io 내 온디바이스 AI 추론 — 서버 비용 없이 브라우저에서 직접 실행.",
+    "source": "HuggingFace Blog",
+    "sourceUrl": "https://huggingface.co/blog/transformersjs-v4",
+    "publishedAt": "2026-02-01T00:00:00Z",
+    "category": "ai-tech"
+  },
+  {
+    "id": 8,
+    "title": "[Audio] Fish Audio S2 Pro: 1000만 시간 학습, 80개 언어 TTS (유료 상업 라이선스)",
+    "summary": "[Audio] 1,000만 시간 오디오·80개 언어 지원 고성능 TTS. 감정 컨트롤 풍부, API 제공. 라이선스: 유료 상업 플랜 필요(무료 플랜 제한). cocy.io에서 쓸모: 게임 NPC 다국어 음성 및 gnom 보이스피싱 데모 외국어 확장.",
+    "source": "Fish Audio",
+    "sourceUrl": "https://fish.audio/",
+    "publishedAt": "2026-07-01T00:00:00Z",
+    "category": "ai-tech"
+  },
+  {
+    "id": 9,
+    "title": "[Audio] Hume AI Octave 2: 감정 인식 대화형 TTS 에이전트 (라이선스 미확인)",
+    "summary": "[Audio] 맥락·감정 상태에 따라 억양·속도·톤을 실시간으로 조절하는 대화형 TTS. 라이선스 미확인 — 상업 사용 전 공식 확인 필요. cocy.io에서 쓸모: page.cocy.io 인터랙티브 페이지에 감정 반응형 음성 대화 프로토타이핑.",
+    "source": "Hume AI",
+    "sourceUrl": "https://www.hume.ai/",
+    "publishedAt": "2026-03-01T00:00:00Z",
+    "category": "ai-tech"
   }
 ]
