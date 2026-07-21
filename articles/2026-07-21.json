@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-21",
+  "articles": [
+    {
+      "id": 1,
+      "title": "대전시 웹 예능, 유튜브 넘어 국내외 TV 채널 탄다",
+      "summary": "대전시의 웹 예능 '얼마면 돼? 같은 하루, 다른 대전'이 케이블 TV와 아리랑TV 등 국내외 TV 채널 편성을 확정하고 방송을 시작했다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260721025300063",
+      "publishedAt": "2026-07-21T08:57:00"
+    },
+    {
+      "id": 2,
+      "title": "검경, '장윤기 증거인멸 규명' 경찰청 국수본 동시 압수수색",
+      "summary": "검찰과 경찰이 장윤기 사건 관련 부실 수사와 증거인멸 의혹을 규명하기 위해 경찰청 국가수사본부를 동시에 압수수색했다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260721022851004",
+      "publishedAt": "2026-07-21T08:56:00"
+    },
+    {
+      "id": 3,
+      "title": "신한은행, 예·적금 금리 최고 0.4%p 인상",
+      "summary": "신한은행이 한국은행 기준금리 인상에 따른 시장금리 변동을 반영하여 정기예금과 적금 금리를 일제히 인상했다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260721033500002",
+      "publishedAt": "2026-07-21T08:56:00"
+    },
+    {
+      "id": 4,
+      "title": "Wowza, 라이브 비디오 스트림용 Video Intelligence Framework (VIF) 출시",
+      "summary": "Wowza가 라이브 비디오 스트림을 실시간 감지, 경고 및 자동화된 조치가 가능한 인텔리전스로 전환하는 VIF를 출시했다.",
+      "category": "tech",
+      "source": "GlobeNewswire",
+      "sourceUrl": "https://www.globenewswire.com/news-release/2026/07/20/3329907/0/en/wowza-launches-video-intelligence-framework-to-turn-any-live-stream-into-real-time-action-on-your-terms.html",
+      "publishedAt": "2026-07-20"
+    },
+    {
+      "id": 5,
+      "title": "OnePlus, 글로벌 스마트폰 수요 둔화로 미·유럽 운영 중단 가능성",
+      "summary": "글로벌 스마트폰 출하량 감소 예측에 따라 OnePlus가 미국과 유럽에서의 사업 운영을 중단할 수 있다는 보도가 나왔다.",
+      "category": "tech",
+      "source": "Indian Express",
+      "sourceUrl": "https://indianexpress.com/article/technology/tech-news-technology/oneplus-may-shut-down-operations-in-us-and-europe-amid-slowing-demand-10789172/",
+      "publishedAt": "2026-07-21"
+    },
+    {
+      "id": 6,
+      "title": "시뮬레이션된 미세 중력이 생쥐 연골 퇴행 유발 연구 결과",
+      "summary": "우주 비행 환경이 생쥐 무릎의 연골 퇴행을 유발한다는 연구 결과가 발표되어 장기 우주 임무에서 관절 건강 관리의 중요성이 강조되었다.",
+      "category": "science",
+      "source": "Astrobiology",
+      "sourceUrl": "https://astrobiology.com/2026/07/13/nasa-spaceline-current-awareness-list-1207-10-july-2026-space-life-science-research-results/",
+      "publishedAt": "2026-07-13"
+    },
+    {
+      "id": 7,
+      "title": "유니티, 글로벌 개발자 컨퍼런스 '유나이트 서울 2026' 개최",
+      "summary": "유니티가 코엑스에서 AI 기반 개발 워크플로 등 50여 개의 기술 세션을 포함한 개발자 컨퍼런스를 개최한다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=317480",
+      "publishedAt": "2026-07-21"
+    },
+    {
+      "id": 8,
+      "title": "붉은사막(Crimson Desert)에 '크로스 세이브' 기능 추가",
+      "summary": "펄어비스가 오픈월드 액션 어드벤처 '붉은사막'에 플랫폼 제약 없이 게임 플레이를 이어갈 수 있는 크로스 세이브 기능을 업데이트했다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=317299&site=futurefight",
+      "publishedAt": "2026-07-21"
+    }
+  ]
+}
