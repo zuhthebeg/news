@@ -1,0 +1,77 @@
+{
+  "date": "2026-07-22",
+  "articles": [
+    {
+      "id": "1",
+      "title": "국민의힘, 선관위 특검 합의안 승인 논의 시작",
+      "summary": "국민의힘이 의원총회를 열고 민주당과 합의한 6·3 참정권 훼손 관련 선관위 특검안을 승인할지 논의했다. 정점식 원내대표는 야당 추천 특검 요구 대신 객관성·공정성을 담보할 추천절차를 확보했다고 밝혔다.",
+      "category": "domestic",
+      "source": "MBC",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/214/0001512931?sid=100",
+      "publishedAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "6월 생산자물가 10개월 만에 상승세 멈춰",
+      "summary": "국제유가 하락으로 석유·화학제품 가격이 내리며 6월 생산자물가지수가 전월 대비 보합(130.03)을 기록, 지난해 9월부터 이어진 상승세가 멈췄다. 다만 전년동월대비로는 8.6% 올라 2022년 7월 이후 최고 상승률을 유지했다.",
+      "category": "economy",
+      "source": "한국일보",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/079/0004170648?sid=101",
+      "publishedAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "英 버넘 총리, 취임 이틀만에 전기료 부가세 폐지",
+      "summary": "앤디 버넘 신임 영국 총리가 가정용 전기요금 부가가치세(5%)를 10월부터 0%로 낮추기로 했다. 스타머 전 정부가 취임 초 굼뜬 대응으로 지지율을 잃은 전철을 밟지 않으려는 행보로 풀이된다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/001/0016206817?sid=104",
+      "publishedAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "AMD, MS 애저에 AI랙 '헬리오스' 공급 확보",
+      "summary": "AMD의 첫 AI 랙 시스템 '헬리오스'가 마이크로소프트를 신규 고객으로 확보했다. 메타·오픈AI·오라클에 이어 MS까지 도입하며 엔비디아가 95% 이상 장악한 데이터센터 GPU 시장에 실질적 경쟁 구도가 형성됐다는 평가다.",
+      "category": "tech",
+      "source": "매일경제",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/009/0005710297?sid=105",
+      "publishedAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "구글, 22일부터 美 플레이스토어에 제3자 앱스토어 개방",
+      "summary": "에픽게임즈와의 반독점 소송 결과에 따라 구글이 7월 22일부터 미국 내 플레이스토어에서 경쟁 앱스토어 접근을 허용한다. 기존 30% 수수료 체계도 매출 규모·결제 방식별 차등 구조로 개편된다.",
+      "category": "tech",
+      "source": "게임와이",
+      "sourceUrl": "http://www.gamey.kr/news/articleView.html?idxno=3017892",
+      "publishedAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "IBS 연구진, 뇌척수액 배출 경로 세계 최초 규명",
+      "summary": "기초과학연구원(IBS) 혈관연구단이 뇌척수액이 뇌막(지주막)을 통과해 뇌막 림프관으로 흡수·배출되는 핵심 경로를 동물실험으로 규명, 국제학술지 '셀'에 발표했다. UCSF 연구진도 공동저자로 참여했다.",
+      "category": "science",
+      "source": "동아사이언스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/028/0002815157?sid=105",
+      "publishedAt": "2026-07-22T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "니콘 Z9, 아르테미스 II 임무서 태양 코로나 신구조 규명 기여",
+      "summary": "도쿄도시대 연구진이 아르테미스 II 우주비행사가 니콘 Z9으로 촬영한 태양 코로나 이미지를 분석, 'F 코로나'가 태양 상하 방향에서 기존 예측보다 훨씬 넓게 확장된 구조를 가진다는 사실을 밝혀냈다.",
+      "category": "science",
+      "source": "뉴스1",
+      "sourceUrl": "https://v.daum.net/v/20260721114841661",
+      "publishedAt": "2026-07-21T02:48:00Z"
+    },
+    {
+      "id": "8",
+      "title": "크래프톤, 게임스컴 2026서 신작 5종 첫 공개",
+      "summary": "크래프톤이 8월 26~30일 독일 쾰른 게임스컴 2026에 참가해 펍지 스튜디오 미공개작을 포함한 'NO LAW', '프로젝트 제타', '에이지 트위스터', '타래: 언바운드' 등 5종 신작을 공개하고 현장 시연을 진행한다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=317706",
+      "publishedAt": "2026-07-16T00:00:00Z"
+    }
+  ]
+}
