@@ -17,6 +17,33 @@
       "url": "https://github.com/black-forest-labs/flux",
       "tags": ["flux", "image-gen", "game-asset"],
       "addedAt": "2026-07-21"
+    },
+    {
+      "title": "ClawVid",
+      "description": "OpenClaw용 단락형 비디오 생성 스킬. 텍스트 프롬프트에서 TTS 나레이션, 타이밍 계산, 이미지/영상/효과음 생성까지 6단계 파이프라인 자동화. YouTube Shorts/TikTok/Instagram Reels 제작.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://github.com/neur0map/clawvid",
+      "tags": ["video-gen", "short-form", "tts", "openclaw"],
+      "addedAt": "2026-07-23"
+    },
+    {
+      "title": "Agent Sprite Forge",
+      "description": "프롬프트에서 게임 스프라이트 시트와 맵 생성 스킬. 투명 PNG 프레임 추출, 애니메이션 GIF 자동 생성. Godot/Unity 호환성 구조.",
+      "icon": "🎮",
+      "category": "dev",
+      "url": "https://github.com/0x0funky/agent-sprite-forge",
+      "tags": ["sprite-gen", "game-asset", "2d-art"],
+      "addedAt": "2026-07-23"
+    },
+    {
+      "title": "3D-Pipeline",
+      "description": "AI 기반 3D 자산 생성 파이프라인. 텍스트 또는 이미지에서 게임 엔진 준비 완료 GLB 포맷 모델 자동 변환. 게임 개발 워크플로우 통합.",
+      "icon": "🧊",
+      "category": "dev",
+      "url": "https://github.com/dweigend/3D-Pipeline",
+      "tags": ["3d-gen", "glb", "game-asset"],
+      "addedAt": "2026-07-23"
     }
   ]
 }
