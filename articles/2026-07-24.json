@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-24",
+  "articles": [
+    {
+      "id": "1",
+      "title": "코스피 4.40% 급등 7096.89 마감, 종가 기준 사상 최고",
+      "summary": "23일 코스피가 전 거래일보다 299.19포인트(4.40%) 오른 7096.89에 마감했다. 코스닥도 39.19포인트(5.22%) 오른 790.28에 거래를 마쳤고, 원/달러 환율은 13.3원 내린 1466.8원을 기록했다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/stock/2026/07/23/2026072315015067484",
+      "publishedAt": "2026-07-23T15:33:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "민주당 당대표 예비경선 통과, 김민석·정청래·송영길 3파전",
+      "summary": "더불어민주당이 23일 8·17 전당대회 예비경선 결과를 발표해 김민석·정청래·송영길 후보가 당대표 본경선에 진출했다. 최고위원 선거는 친명계 5명·친청계 3명이 맞붙는 구도로, 8월 1일부터 순회 경선을 거쳐 17일 전당대회에서 최종 확정된다.",
+      "category": "domestic",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20260723001268",
+      "publishedAt": "2026-07-23T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "노바티스, 국내 방사성치료제(RLT) 생태계에 1400억원 투자",
+      "summary": "보건복지부와 노바티스가 21일 국내 방사성 리간드 치료제(RLT) 생태계 조성을 위한 양해각서를 체결했다. 노바티스는 국내 제조시설 건립과 콜드체인 물류망 구축, RLT 투여 가능 병원을 10곳에서 30곳으로 확대하는 데 약 1400억원을 투자할 계획이다.",
+      "category": "domestic",
+      "source": "아시아투데이",
+      "sourceUrl": "https://www.asiatoday.co.kr/kn/view.php?key=20260721010007458",
+      "publishedAt": "2026-07-21T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "메타, 전 페이팔·퀄트릭스 보안총괄 아사프 케렌을 신임 CISO로 영입",
+      "summary": "메타가 22일 페이팔과 퀄트릭스에서 최고보안책임자를 지낸 아사프 케렌을 새 최고정보보안책임자(CISO)로 선임했다고 확인했다. 전임 가이 로젠은 이임 발표 후 수개월간 인수인계를 진행하며, 케렌은 메타의 AI 인프라 보안 강화에 주력할 예정이다.",
+      "category": "tech",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-07-22/meta-taps-new-chief-security-officer-from-qualtrics-paypal",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "id": "5",
+      "title": "SharePoint 치명적 RCE 취약점(CVE-2026-50522) PoC 공개 후 실공격 급증",
+      "summary": "CVSS 9.8의 SharePoint 원격코드실행 취약점 CVE-2026-50522에 대한 PoC 코드가 7월 20일 공개된 이후 실제 공격이 급증했다. 공격자들은 이를 악용해 서버의 머신 키를 탈취, 패치 이후에도 위조 인증 토큰으로 장기간 접근 권한을 유지할 수 있어 자격 증명 교체가 권고된다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/07/critical-sharepoint-rce-cve-2026-50522.html",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "id": "6",
+      "title": "우주 최초 진단용 X선 촬영 성공, 우주의학 새 지평",
+      "summary": "상업 우주비행 승무원들이 휴대용 방사선 촬영 장비로 궤도 비행 중 최초의 진단용 X선 촬영에 성공했다. 4시간의 훈련만으로 지상 수준의 영상 품질을 확보해, 달·화성 임무에서 초음파에 이은 두 번째 의료 영상 진단 수단이 될 전망이다.",
+      "category": "science",
+      "source": "Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-07-diagnostic-rays-space-era-astronaut.html",
+      "publishedAt": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "id": "7",
+      "title": "미세중력·우주방사선, 간 노화 촉진 분자 변화 유발 연구 결과",
+      "summary": "우주의 미세중력과 방사선이 간에서 노화와 유사한 분자적 변화를 일으킨다는 연구 결과가 발표됐다. 연구진은 이 발견이 지구상 노화 관련 질환 치료법 개발에도 활용될 수 있을 것으로 기대했다.",
+      "category": "science",
+      "source": "Medical Xpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-07-linking-microgravity-space-aging-yield.html",
+      "publishedAt": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "닌텐도 스위치2, 배터리 교체형 모델 출시…초대 스위치는 단종",
+      "summary": "닌텐도가 EU 배터리 규정에 맞춰 사용자가 직접 배터리를 교체할 수 있는 개정판 스위치2를 2026년 가을 유럽에 출시한다고 발표했다. 이와 함께 기존 오리지널 스위치 패밀리는 유럽에서 단종되며, 기능상 차이는 없다고 밝혔다.",
+      "category": "gaming",
+      "source": "TechRadar",
+      "sourceUrl": "https://www.techradar.com/gaming/a-new-switch-2-with-a-replaceable-battery-will-be-available-soon-as-nintendo-announces-that-it-will-no-longer-sell-original-switch-consoles-in-europe",
+      "publishedAt": "2026-07-06T00:00:00+00:00"
+    },
+    {
+      "id": "9",
+      "title": "번지 '마라톤' 디렉터 조 지글러, 출시 4개월 만에 퇴사",
+      "summary": "번지의 신작 '마라톤' 게임 디렉터 조 지글러가 출시 4개월 만에 회사를 떠난다고 발표했다. 후임은 부디렉터 델 체이프 3세와 크리에이티브 디렉터 줄리아 나딘이 맡으며, 지글러는 새로운 곳에서의 행보를 예고했다.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com/games/fps/marathon-game-director-leaves-bungie-just-4-months-after-launch-ill-be-heading-to-something-new-somewhere-else/",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    }
+  ]
+}
