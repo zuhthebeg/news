@@ -135,6 +135,51 @@
       "source": "GitHub (MubarakHAlketbi/game-asset-mcp)",
       "sourceUrl": "https://github.com/MubarakHAlketbi/game-asset-mcp",
       "publishedAt": "2026-07-01T00:00:00+00:00"
+    },
+    {
+      "id": "16",
+      "title": "Chatterbox-Nano — CPU 실시간 3배, 110M TTS (MIT 라이선스)",
+      "summary": "[TTS] Resemble AI가 공개한 MIT 라이선스 경량 TTS 모델. 110M 파라미터로 CPU 8코어에서 실시간 대비 3배 속도 생성, 1-step 디코더로 지연 최소화. [laugh][cough] 등 paralinguistic 태그 네이티브 지원. cocy.io에서 쓸모: 게임 NPC 대사·보이스에이전트를 서버리스 CPU 환경에서 저비용 생성 가능.",
+      "category": "ai-tech",
+      "source": "Resemble AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox-nano",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "id": "17",
+      "title": "NeuTTS-2E — 온디바이스 감정 TTS, GGUF Q4/Q8 지원 (라이선스 미확인)",
+      "summary": "[TTS] Neuphonic이 공개한 초고속 온디바이스 감정 TTS 알파 모델. 분노·슬픔·기쁨 등 6감정 + 중립 지원, 4 고정 화자, GGUF Q4/Q8 양자화판 제공으로 엣지 추론 가능. 라이선스 미확인(상업 사용 전 확인 필요). cocy.io에서 쓸모: 게임 캐릭터 감정 대사·알림 음성을 로컬 추론으로 처리 가능.",
+      "category": "ai-tech",
+      "source": "Neuphonic / HuggingFace",
+      "sourceUrl": "https://huggingface.co/neuphonic/neutts-2e",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "id": "18",
+      "title": "LTX-2.3 — 오디오+비디오 동시 생성 22B I2V 모델 (커뮤니티 라이선스)",
+      "summary": "[Video] Lightricks의 22B 오디오-비디오 동시 생성 모델 최신 업데이트. 8-step 디스틸드 버전 제공, 이미지→영상+사운드 동시 생성(단일 모델). 커뮤니티 라이선스(연 매출 $10M 미만 상업 사용 가능). cocy.io에서 쓸모: 게임 트레일러·소개영상의 BGM+영상을 한 번에 생성, Wan2.x I2V 대체 검토.",
+      "category": "ai-tech",
+      "source": "Lightricks / HuggingFace",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3",
+      "publishedAt": "2026-07-09T00:00:00+00:00"
+    },
+    {
+      "id": "19",
+      "title": "NVIDIA Cosmos3-Super-Image2Video-4Step — 4스텝 초고속 I2V (OpenMDW1.1 상업용)",
+      "summary": "[Video] NVIDIA가 2026-07-20 공개한 Physical AI용 4-step 초고속 이미지→비디오 변환 모델. 비디오+이미지+오디오+액션 멀티모달 지원, 자연어 프롬프트 및 JSON 업샘플링 지원. OpenMDW1.1 라이선스(상업 사용 가능). cocy.io에서 쓸모: 게임 컷씬·소셜 미디어 콘텐츠 빠른 프로토타이핑, 기존 Wan2 파이프라인과 품질 비교 실험 적합.",
+      "category": "ai-tech",
+      "source": "NVIDIA / HuggingFace",
+      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Super-Image2Video-4Step",
+      "publishedAt": "2026-07-20T00:00:00+00:00"
+    },
+    {
+      "id": "20",
+      "title": "ABot-World-0-5B-LF — 0.5B 실시간 인터랙티브 월드 시뮬레이터 (Apache 2.0)",
+      "summary": "[Edge] Alibaba AMAP CVLab의 Apache 2.0 오픈소스 0.5B 인터랙티브 월드 모델. 액션 입력→720p/16FPS 실시간 월드 생성, 무한 롤아웃 지원. 현재 RTX 5090(19GB) 필요로 3080Ti 기준 미적용. cocy.io에서 쓸모: 소형화 진행 시 모바일·브라우저 게임 환경 월드 생성 파이프라인 선행 연구 가치 있음.",
+      "category": "ai-tech",
+      "source": "Alibaba AMAP CVLab / HuggingFace",
+      "sourceUrl": "https://huggingface.co/acvlab/ABot-World-0-5B-LF",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
     }
   ]
 }
