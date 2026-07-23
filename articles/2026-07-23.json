@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-23",
+  "articles": [
+    {
+      "id": "1",
+      "title": "오세훈 1심 벌금 1000만원, 시장직 상실형",
+      "summary": "정치브로커 명태균씨에게서 여론조사 결과를 제공받고 후원자에게 비용을 대납시킨 혐의(정치자금법 위반)로 재판에 넘겨진 오세훈 서울시장이 서울중앙지법 1심에서 벌금 1000만원, 추징금 2100만원을 선고받았다. 확정 시 시장직을 상실하는 형량으로, 오 시장은 항소 의사를 밝혔다.",
+      "category": "domestic",
+      "source": "중앙일보",
+      "sourceUrl": "https://www.joongang.co.kr/article/25447342",
+      "publishedAt": "2026-07-22T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "2분기 GDP 0.6% 성장 깜짝 실적…반도체 수출이 중동 악재 상쇄",
+      "summary": "한국은행이 발표한 2026년 2분기 실질 GDP 속보치가 전분기 대비 0.6% 증가해 한은 전망치(0.2%)와 시장 예상치(0.4%)를 모두 상회했다. 중동 정세 불안에 따른 유가 상승 속에서도 반도체·기계 수출 호조가 성장을 견인했다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026072306837",
+      "publishedAt": "2026-07-23T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "인천 쿠팡물류센터 화재 109시간여만에 완진…조만간 합동감식",
+      "summary": "지난 18일 발생한 인천 서구 석남동 쿠팡 32물류센터 화재가 22일 오후 8시 35분 완전 진화됐다. 109시간 40여분 만으로 국내 물류센터 화재 중 두 번째로 긴 진화 시간이며, 인명피해는 없었다. 당국은 합동조사단을 꾸려 발화 원인을 조사할 계획이다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260722149051065",
+      "publishedAt": "2026-07-22T20:35:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Microsoft admits SMS and voice MFA can't stop AI attacks, mandates passkeys in Entra by February 2027",
+      "summary": "Microsoft has acknowledged that SMS and voice-based multi-factor authentication can no longer withstand AI-driven attacks, and will require passkey authentication across Entra ID by February 2027, phasing out weaker verification methods.",
+      "category": "tech",
+      "source": "Windows Latest",
+      "sourceUrl": "https://www.windowslatest.com/2026/07/22/microsoft-admits-sms-and-voice-mfa-cant-stop-ai-attacks-mandates-passkeys-in-entra-by-february-2027/",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "id": "5",
+      "title": "Apple reportedly working on Mac leasing program in partnership with Klarna to fight RAM price increases",
+      "summary": "Apple is said to be developing 'Apple Upgrade,' a Mac leasing program with Klarna that would let customers finance midrange and high-end devices over up to 36 months, as the company works to offset rising RAM and hardware costs. Budget models would be excluded.",
+      "category": "tech",
+      "source": "Tom's Hardware",
+      "sourceUrl": "https://www.tomshardware.com/tech-industry/apple-reportedly-working-on-mac-leasing-program-in-partnership-with-klarna-to-fight-ram-price-increases-apple-upgrade-would-let-users-finance-hardware-over-36-months-budget-models-excluded",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "id": "6",
+      "title": "Astronomers find the first atmosphere on a rocky world in the habitable zone",
+      "summary": "Astronomers have detected an atmosphere around LHS 1140 b, a rocky exoplanet 48 light-years away sitting in its star's habitable zone, via leaking helium signatures. It marks the first confirmed atmosphere on a rocky habitable-zone world, a major milestone in the search for potentially habitable exoplanets.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260721000825.htm",
+      "publishedAt": "2026-07-21T00:00:00+00:00"
+    },
+    {
+      "id": "7",
+      "title": "Robotic Servicing Mission Launches with NASA Support",
+      "summary": "A robotic satellite-servicing mission carrying the NASA-supported Robotic Servicing of Geosynchronous Satellites (RSGS) payload launched July 21 aboard a SpaceX Falcon 9 from Cape Canaveral, heading to geosynchronous orbit to inspect and refuel aging satellites and extend their operational life.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/technology/robotic-servicing-mission-launches-with-nasa-support/",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "PlayStation says it will stop making physical games – and that should worry us all",
+      "summary": "Sony quietly announced it will end physical disc production for new PlayStation games starting January 2028, shifting new releases to digital-only. The move, driven by digital sales now topping 80% of PS5 revenue, has sparked backlash over game ownership and preservation of the second-hand market.",
+      "category": "gaming",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/games/2026/jul/07/playstation-sony-ending-physical-game-production",
+      "publishedAt": "2026-07-07T00:00:00+00:00"
+    },
+    {
+      "id": "9",
+      "title": "Microsoft is cutting 3,200 Xbox jobs and spinning off four game studios",
+      "summary": "Microsoft is laying off roughly 3,200 employees across its Xbox division, hitting studios including Bethesda, id Software, Obsidian, and ZeniMax Online, while spinning off four game studios to operate independently as the company restructures its gaming business.",
+      "category": "gaming",
+      "source": "TechSpot",
+      "sourceUrl": "https://www.techspot.com/news/113017-microsoft-cutting-3200-xbox-jobs-spinning-off-four.html",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    }
+  ]
+}
