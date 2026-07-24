@@ -44,6 +44,42 @@
       "url": "https://github.com/dweigend/3D-Pipeline",
       "tags": ["3d-gen", "glb", "game-asset"],
       "addedAt": "2026-07-23"
+    },
+    {
+      "title": "ONNX-Runtime-Web-GPU",
+      "description": "WebGPU 백엔드를 통한 브라우저 GPU 가속 AI 추론. ONNX 모델 자동 변환, FP16 최적화, WASM CPU 폴백. 게임 클라이언트 내 온디바이스 AI.",
+      "icon": "⚡",
+      "category": "dev",
+      "url": "https://onnxruntime.ai/docs/tutorials/web/",
+      "tags": ["webgpu", "onnx", "edge-ai", "browser"],
+      "addedAt": "2026-07-24"
+    },
+    {
+      "title": "TangoFlux-Audio-Gen",
+      "description": "텍스트에서 44.1kHz 고품질 오디오 생성. A40 카드 3.7초 성능. 게임 SFX·보스전 음향효과 자동 생성 파이프라인.",
+      "icon": "🎵",
+      "category": "media",
+      "url": "https://github.com/declare-lab/TangoFlux",
+      "tags": ["audio-gen", "sfx", "text-to-audio"],
+      "addedAt": "2026-07-24"
+    },
+    {
+      "title": "Stable-Diffusion-3.5-Pipeline",
+      "description": "상업 허용 Stable Diffusion 3.5 로컬 생성 파이프라인. 연수입 $1M 이하 무료. 게임 카드·캐릭터·환경 텍스처 배치 생성.",
+      "icon": "🎨",
+      "category": "media",
+      "url": "https://huggingface.co/stabilityai/stable-diffusion-3.5-large",
+      "tags": ["image-gen", "stable-diffusion", "game-asset"],
+      "addedAt": "2026-07-24"
+    },
+    {
+      "title": "Qwen2.5-VL-Analysis",
+      "description": "초장문 비디오·차트 분석 비전언어모델. 게임 스크린샷 자동분석, UI 레이아웃 생성, 다국어 지원(Apache 2.0).",
+      "icon": "👀",
+      "category": "dev",
+      "url": "https://qwenlm.github.io/blog/qwen2-vl/",
+      "tags": ["vision-language", "video-analysis", "multimodal"],
+      "addedAt": "2026-07-24"
     }
   ]
 }
