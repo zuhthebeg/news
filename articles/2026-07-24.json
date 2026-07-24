@@ -135,6 +135,51 @@
       "source": "Qwen AI",
       "sourceUrl": "https://qwenlm.github.io/blog/qwen2-vl/",
       "publishedAt": "2026-07-24T01:00:00+00:00"
+    },
+    {
+      "id": "16",
+      "title": "[Video] NVIDIA Cosmos3-Edge: 4B 멀티모달 온디바이스 월드모델, 7월 20일 HF 공개",
+      "summary": "[Video] NVIDIA가 2026-07-20 HuggingFace에 공개한 4B 파라미터 엣지 월드모델. 텍스트·이미지·비디오 입력→비디오+오디오+로봇 제어신호 동시 출력. Mixture-of-Transformers 아키텍처(AR 트랜스포머+Diffusion 트랜스포머). RTX GPU·DGX·Jetson 전부 지원. 라이선스: NVIDIA Open Model License(상업 허용) + Apache 2.0 학습 스크립트. cocy.io에서 쓸모: 게임 컷신 자동생성·카메라 앵글 변환·엣지 환경 AI NPC 시각화.",
+      "category": "ai-tech",
+      "source": "NVIDIA / HuggingFace",
+      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Edge",
+      "publishedAt": "2026-07-20T00:00:00+00:00"
+    },
+    {
+      "id": "17",
+      "title": "[Voice] Chatterbox Multilingual v3: MIT 라이선스 25개국어 음성복제+감정제어 TTS",
+      "summary": "[Voice] Resemble AI가 2026-06-10 출시한 오픈소스 TTS. MIT 라이선스(완전 상업 허용). 25개 언어 지원, 짧은 참조 음성으로 제로샷 음성복제, 텍스트 태그로 감정/강조 제어. HuggingFace 배포. cocy.io에서 쓸모: 게임 NPC 다국어 음성·고스톱 콜음성 자동생성·멀티랭귀지 나레이션 파이프라인 완전 로컬화.",
+      "category": "ai-tech",
+      "source": "Resemble AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-06-10T00:00:00+00:00"
+    },
+    {
+      "id": "18",
+      "title": "[Audio] Seed Audio 1.0 (ByteDance): 음성+SFX+BGM 동시 풀씬 오디오 생성",
+      "summary": "[Audio] ByteDance Seed가 2026-06~07월 공개한 풀씬 오디오 생성 모델. 멀티캐릭터 대화·배경음악·효과음·환경음을 단일 패스로 최대 2분 생성. 영화급 오디오 품질 목표. API: Volcano Engine(상업 API). 오픈소스 가중치 미공개, 라이선스 미확인. cocy.io에서 쓸모: 게임 분기별 씬 오디오 자동생성 파이프라인 탐색(API 비용 사전 확인 필요).",
+      "category": "ai-tech",
+      "source": "ByteDance Seed",
+      "sourceUrl": "https://seed.bytedance.com/en/seedaudio1_0",
+      "publishedAt": "2026-07-20T00:00:00+00:00"
+    },
+    {
+      "id": "19",
+      "title": "[Voice] Qwen-Audio-3.0-TTS: 알리바바 16개국어 표현력 높은 TTS, Flash/Plus 2티어",
+      "summary": "[Voice] 알리바바 Tongyi Lab이 2026-07-20 출시한 호스티드 TTS 서비스. Flash(속도 우선)·Plus(품질 우선) 2티어, 16개 언어 지원. 감정·스타일 제어. 라이선스 미확인(호스티드 API, 로컬 가중치 미공개). 요금 정책 별도 확인 필요. cocy.io에서 쓸모: 목소리-가수 유사도 서비스 나레이션·다국어 게임 인트로 음성 빠른 프로토타이핑.",
+      "category": "ai-tech",
+      "source": "Alibaba Tongyi / marktechpost.com",
+      "sourceUrl": "https://www.marktechpost.com/2026/07/20/alibabas-tongyi-lab-releases-qwen-audio-3-0-tts-a-hosted-text-to-speech-model-in-flash-and-plus-tiers-across-16-languages/",
+      "publishedAt": "2026-07-20T00:00:00+00:00"
+    },
+    {
+      "id": "20",
+      "title": "[Video] Wan2.2-TI2V-5B: Apache 2.0 텍스트+이미지→영화급 비디오, 소비자 GPU 지원",
+      "summary": "[Video] Alibaba Cloud Wan-AI팀의 오픈소스 비디오 생성 모델. Apache 2.0(상업 허용). Text+Image→Video, 5B 파라미터 MoE 아키텍처. RTX 4090 수준 소비자 GPU에서 로컬 실행 가능. HuggingFace 배포. cocy.io에서 쓸모: 게임 인트로 컷신·캐릭터 모션 클립·리듬게임 배경 영상 자동생성(로컬 RTX 3080Ti에서 실행 가능 검증 필요).",
+      "category": "ai-tech",
+      "source": "Wan-AI / HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B",
+      "publishedAt": "2026-07-28T00:00:00+00:00"
     }
   ]
 }
