@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-25",
+  "articles": [
+    {
+      "id": "1",
+      "title": "코스피 5.72% 급락, 6690.62 마감…반도체 대형주 낙폭 주도",
+      "summary": "24일 코스피 지수가 중동發 지정학적 리스크로 전 거래일보다 5.72% 급락한 6690.62에 마감했다. 삼성전자(-7.59%)와 SK하이닉스(-8.34%) 등 반도체 대형주가 낙폭을 주도했으며, 외국인과 기관이 각각 3조2685억원, 1조9513억원을 순매도했다.",
+      "category": "economy",
+      "source": "EBN",
+      "sourceUrl": "https://www.ebn.co.kr/news/articleView.html?idxno=1717715",
+      "publishedAt": "2026-07-24T15:30:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "최태원·노소영 재산분할 파기환송심, 9440억원 지급 선고",
+      "summary": "서울고법이 24일 최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 이혼 재산분할 파기환송심에서 최 회장이 노 관장에게 9440억원과 지연이자를 지급하라고 선고했다. 2017년 시작된 소송은 1심 665억원, 2심 1조3808억원을 거쳐 대법원 파기환송 끝에 최종 액수가 정해졌다.",
+      "category": "domestic",
+      "source": "서울신문",
+      "sourceUrl": "https://www.seoul.co.kr/news/society/2026/07/24/20260724500203",
+      "publishedAt": "2026-07-24T14:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "정성호 법무부 장관 사의 표명…이재명 대통령 만류",
+      "summary": "정성호 법무부 장관이 24일 검찰의 보완수사권을 전면 폐지하는 형사소송법 개정에 반대 입장을 밝혀온 가운데 이재명 대통령에게 사의를 표명했다. 이 대통령은 중대범죄수사청이 안착할 때까지 직을 유지해달라며 만류한 것으로 전해졌다.",
+      "category": "domestic",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20260724001196",
+      "publishedAt": "2026-07-24T21:09:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "MS, 역대 최다 622개 취약점 패치…SharePoint 제로데이 실공격 확인",
+      "summary": "마이크로소프트가 2026년 7월 패치 튜즈데이에서 역대 최다인 622개의 취약점을 수정했으며, 이 중 SharePoint의 원격코드실행 제로데이 등 2건이 실제 공격에 악용된 것으로 확인됐다. CISA는 해당 취약점을 악성코드 상시위협목록(KEV)에 등재하고 연방기관에 긴급 패치를 지시했다.",
+      "category": "tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/microsoft-patches-record-622-vulnerabilities-including-two-exploited-zero-days/",
+      "publishedAt": "2026-07-14T00:00:00+00:00"
+    },
+    {
+      "id": "5",
+      "title": "애플, 클라나와 손잡고 기기 리스 프로그램 'Apple Upgrade' 28일 출시",
+      "summary": "애플이 핀테크 기업 클라나와 협력해 아이폰·아이패드·맥·애플워치를 최장 36개월간 분할 임대할 수 있는 'Apple Upgrade' 프로그램을 오는 28일 미국에서 출시한다. 메모리 반도체 공급난에 따른 기기 가격 상승 속에서 구매 부담을 낮추려는 조치로 풀이된다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/07/21/apple-teams-up-with-klarna-to-launch-a-lease-to-own-program-for-iphones-ipads-and-macs/",
+      "publishedAt": "2026-07-21T00:00:00+00:00"
+    },
+    {
+      "id": "6",
+      "title": "中 톈원 1호, 화성 인근서 성간 혜성 '3I/ATLAS' 근접 포착",
+      "summary": "중국의 화성 탐사선 톈원 1호가 화성 인근을 스쳐 지나가는 3번째 성간 천체 '3I/ATLAS' 혜성의 코마와 꼬리를 포착했다. 약 3000만km 거리에서 촬영된 이번 관측은 태양계 밖에서 유입된 물질을 연구하는 데 중요한 자료를 제공할 것으로 기대된다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260723084052.htm",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "id": "7",
+      "title": "ISS 승무원, 시력·혈관·인지능력 검사 등 생체의학 연구 수행",
+      "summary": "국제우주정거장(ISS)에서 21일 승무원들이 시력 검사, 혈관 초음파, 인지능력 측정 등 다양한 생체의학 연구를 수행했다. 장기 우주비행 적응 연구 데이터는 지구 중력에서는 얻을 수 없는 독자적 통찰을 제공해 향후 첨단 치료법 개발에 활용될 전망이다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/07/21/biomedical-research-crew-swap-operations-pack-busy-day-aboard-station/",
+      "publishedAt": "2026-07-21T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "Xbox, 광고 기반 무료 클라우드 스트리밍 시범 서비스 시작",
+      "summary": "마이크로소프트 Xbox가 23일부터 인사이더 프로그램을 통해 보유 게임을 광고 기반으로 무료 스트리밍할 수 있는 시범 서비스를 시작했다. 세션당 1시간으로 제한되며 게임 시작 전에만 광고가 노출되고, 기존 다운로드 및 유료 스트리밍 방식과 병행 제공된다.",
+      "category": "gaming",
+      "source": "Xbox Wire",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/07/23/game-streaming-ad-supported-xbox-insiders/",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "id": "9",
+      "title": "락스타 게임 워커스 유니언, 사측과 첫 공식 협상서 로드맵 확보",
+      "summary": "락스타 게임 워커스 유니언이 22일 사측과 첫 공식 협상을 갖고 신속한 협상 절차를 위한 로드맵을 확보했다고 밝혔다. 노조는 초과근무 수당, 크런치 근절, 급여 투명성 등을 요구하고 있으며 'GTA 6' 출시를 앞두고 노사 협상에 관심이 쏠리고 있다.",
+      "category": "gaming",
+      "source": "GodisaGeek",
+      "sourceUrl": "https://godisageek.com/2026/07/rockstar-union-negotiation-roadmap/",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    }
+  ]
+}
