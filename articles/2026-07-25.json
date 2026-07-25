@@ -135,6 +135,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/charm-research/Charmed-TileMap",
       "publishedAt": "2026-06-10T00:00:00+00:00"
+    },
+    {
+      "id": "16",
+      "title": "[Video] NVIDIA Cosmos3-Edge — 텍스트·이미지→동영상·오디오 통합 생성 (OpenMDW1.1 상업OK)",
+      "summary": "[Video] NVIDIA Cosmos 3 컬렉션 중 엣지 최적화 모델. 텍스트/이미지/비디오/액션 입력 → 동영상+이미지+오디오 동시 생성. Cosmos3-Super-Image2Video-4Step·Text2Image-4Step 특화 변형 포함. 라이선스: OpenMDW1.1 (상업·비상업 모두 허용). cocy.io에서 쓸모: 게임 컷씬·배경 루프 영상 자동 생성, 캐릭터 모션 이미지 배치 대체.",
+      "category": "ai-tech",
+      "source": "Hugging Face / NVIDIA",
+      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Edge",
+      "publishedAt": "2026-07-20T00:00:00+00:00"
+    },
+    {
+      "id": "17",
+      "title": "[Image] NVIDIA Qwen-Image-Flash — 4스텝 초고속 Text2Image (Apache 2.0)",
+      "summary": "[Image] Qwen-Image의 경량 증류 버전. 4스텝으로 고품질 이미지 생성, 레이턴시 민감 앱 타깃. Apache 2.0 완전 상업 허용, HuggingFace에서 직접 로컬 실행 가능. cocy.io에서 쓸모: 게임 카드·NPC 아트 배치 생성을 기존 SDXL 대비 4~5배 빠르게, RTX 3080 Ti 로컬에서 바로 돌릴 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face / NVIDIA",
+      "sourceUrl": "https://huggingface.co/nvidia/Qwen-Image-Flash",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "id": "18",
+      "title": "[Audio] Chatterbox Multilingual v3 — 25개 언어 제로샷 음성 복제 (MIT)",
+      "summary": "[Audio] Resemble AI의 Chatterbox 최신버전(6/10). 25개 언어 제로샷 보이스 클로닝, MIT 라이선스 완전 상업 허용. 참조 오디오 3~10초로 새 언어 발화 생성. cocy.io에서 쓸모: 고스톱·전략게임 캐릭터 한/영/일 음성 자동화, 기존 cocy 녹음 복제로 멀티플레이 음성 확장.",
+      "category": "ai-tech",
+      "source": "Resemble AI",
+      "sourceUrl": "https://www.resemble.ai/chatterbox/",
+      "publishedAt": "2026-06-10T00:00:00+00:00"
+    },
+    {
+      "id": "19",
+      "title": "[Audio] Higgs Audio V2 (Higgs TTS 2) — 1000만 시간 학습 멀티스피커 TTS (Llama3 라이선스, 소규모 상업OK)",
+      "summary": "[Audio] Boson AI의 멀티스피커·멀티감정 TTS 기반모델. 1000만 시간 오디오 학습, 파인튜닝 없이 제로샷 음성 생성. 라이선스: Llama 3 Community (100만 MAU 이하 상업 무료, 초과 시 계약 필요). cocy.io에서 쓸모: 게임 내 NPC 대사 자동 더빙, 멀티플레이 캐릭터 음성 다양화 (cocy 규모에서는 사실상 무료).",
+      "category": "ai-tech",
+      "source": "Boson AI / Hugging Face",
+      "sourceUrl": "https://huggingface.co/bosonai/higgs-tts-2-3b-base",
+      "publishedAt": "2026-07-15T00:00:00+00:00"
+    },
+    {
+      "id": "20",
+      "title": "[Edge] Google LiteRT.js — WebGPU 온디바이스 AI 추론 프레임워크 (Apache 2.0)",
+      "summary": "[Edge] WebGPU 전 브라우저 표준화 확정에 맞춰 Google이 공개한 브라우저용 경량 추론 런타임. TensorFlow Lite 후속, Gemma 2B/4B 엣지 변형 공식 지원. 라이선스: Apache 2.0 (상업 허용). cocy.io에서 쓸모: gnom 보이스피싱 판별·음감 게임 음정 분석을 서버 없이 클라이언트에서 처리, API 비용 0으로.",
+      "category": "ai-tech",
+      "source": "Google Developers",
+      "sourceUrl": "https://developers.google.com/ai-edge/litert/web",
+      "publishedAt": "2026-07-10T00:00:00+00:00"
     }
   ]
 }
