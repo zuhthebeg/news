@@ -81,6 +81,60 @@
       "source": "GodisaGeek",
       "sourceUrl": "https://godisageek.com/2026/07/rockstar-union-negotiation-roadmap/",
       "publishedAt": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] Black Forest Labs, FLUX 3 멀티모달 생성 모델 조기 공개 (7/23)",
+      "summary": "[Audio] FLUX 3은 이미지·비디오·오디오를 통합 아키텍처로 생성하는 차세대 기초모델. FLUX 3 Dev 오픈소스 릴리스 예정, 복잡한 프롬프트 처리·다국어 텍스트 렌더링 대폭 개선. cocy.io에서 쓸모: 게임 배경음악·효과음·카드 아트를 통합 파이프라인으로 생성 가능할 예정.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs",
+      "sourceUrl": "https://bfl.ai/blog/flux-3",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "id": "11",
+      "title": "[Audio] Stable Audio 3 업데이트 - SFX 전문 모델 (5월 릴리즈)",
+      "summary": "[Audio] Stability AI의 Stable Audio 3 SFX 모델(459M 파라미터)은 게임 효과음과 원샷 SFX 전문 생성. 상업용 라이선스 허용(fully licensed data 학습), 44.1kHz 스테레오 지원, 라이선스: Apache 2.0(SFX 모델). cocy.io에서 쓸모: 현재 Stable Audio 3 distilled 기반 로컬 파이프라인에서 직접 경쟁 모델로 대체 테스트 가능.",
+      "category": "ai-tech",
+      "source": "Stability AI",
+      "sourceUrl": "https://stability.ai/news/stable-audio-3",
+      "publishedAt": "2026-05-15T00:00:00+00:00"
+    },
+    {
+      "id": "12",
+      "title": "[Audio] Higgs TTS 3 - 영시·한국어 음성생성 (MIT/상업용 허용)",
+      "summary": "[Audio] bosonai/higgs-tts-3-4b는 100+ 언어 지원 TTS, zero-shot 음성복제(음성톤 전이), 감정/운율/쉼 인라인 제어. 라이선스: Creator Use Grant(크리에이터 무료, 크레딧 표기). 6월 4일 업데이트. cocy.io에서 쓸모: 고스톱·우동음 멀티플레이 음성 더빙 자동화, 음성톤 유지 간단히 적용.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/bosonai/higgs-tts-3-4b",
+      "publishedAt": "2026-06-04T00:00:00+00:00"
+    },
+    {
+      "id": "13",
+      "title": "[Image] FLUX 1.2 Klein - 경량 오픈웨이트 생성모델 (Apache 2.0)",
+      "summary": "[Image] Black Forest Labs, FLUX.2 Klein은 경량화 FLUX 모델로 Apache 2.0 라이선스 100% 상업 허용. 복잡 프롬프트·다국어·멀티스타일 생성. cocy.io에서 쓸모: 게임 카드 일괄 생성, 기존 SDXL LoRA 대체 후보, 로컬 GGUF로 4090 소비 절감.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
+      "publishedAt": "2026-01-20T00:00:00+00:00"
+    },
+    {
+      "id": "14",
+      "title": "[Edge] WebGPU 브라우저 온디바이스 AI 추론 상용화 (84.68% 글로벌 지원)",
+      "summary": "[Edge] WebGPU가 3월 2026 W3C 권고 확정. 브라우저에서 5~60배 속도 개선. LiteRT.js·WebLLM·Transformers.js로 음성인식·객체검출·이미지처리를 기기 내 완전 오프라인으로 실행. cocy.io에서 쓸모: 게임 AI 플레이어·음음 분석을 클라단에 옮겨 지연 소거, API 비용 제거.",
+      "category": "ai-tech",
+      "source": "Google Developers",
+      "sourceUrl": "https://developers.google.com/web/updates/2026/03/webgpu",
+      "publishedAt": "2026-03-15T00:00:00+00:00"
+    },
+    {
+      "id": "15",
+      "title": "[Tool] Charmed Tilemap Generator - 2D 타일맵 자동생성 (오픈소스)",
+      "summary": "[Tool] 텍스트 프롬프트에서 타일맵 레이아웃 자동생성. 오픈소스·무료. cocy.io에서 쓸모: 리듬게임 스테이지·퍼즐 맵 프로토타입 빠른 생성, 아트웍 수동 작업 절감.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/charm-research/Charmed-TileMap",
+      "publishedAt": "2026-06-10T00:00:00+00:00"
     }
   ]
 }

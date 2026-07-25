@@ -80,6 +80,33 @@
       "url": "https://qwenlm.github.io/blog/qwen2-vl/",
       "tags": ["vision-language", "video-analysis", "multimodal"],
       "addedAt": "2026-07-24"
+    },
+    {
+      "title": "Higgs-TTS-3-Voice-Dub",
+      "description": "bosonai/higgs-tts-3-4b 기반 멀티플레이 음성 더빙 자동화. 감정/운율/음성톤 인라인 제어, 100+ 언어. 크리에이터 무료 라이선스(MIT 호환).",
+      "icon": "🎙️",
+      "category": "media",
+      "url": "https://huggingface.co/bosonai/higgs-tts-3-4b",
+      "tags": ["tts", "voice-clone", "audio-gen", "multilingual"],
+      "addedAt": "2026-07-25"
+    },
+    {
+      "title": "Stable-Audio-3-SFX-Pipeline",
+      "description": "Stable Audio 3 SFX 전문 모델로 게임 효과음·원샷 생성. 44.1kHz 스테레오, 상업용 Apache 2.0 라이선스. 현재 Stable Audio 3 distilled 기반 파이프라인에서 모델 대체 최적화용.",
+      "icon": "🎵",
+      "category": "media",
+      "url": "https://stability.ai/news/stable-audio-3",
+      "tags": ["audio-gen", "sfx", "sound-effects", "game-audio"],
+      "addedAt": "2026-07-25"
+    },
+    {
+      "title": "WebGPU-Browser-AI-Inference",
+      "description": "LiteRT.js·WebLLM로 브라우저에서 5~60배 가속 온디바이스 AI 추론. 음성인식·객체검출·이미지처리 오프라인 실행, API 비용 제거.",
+      "icon": "⚡",
+      "category": "dev",
+      "url": "https://developers.google.com/web/updates/2026/03/webgpu",
+      "tags": ["webgpu", "edge-ai", "browser", "inference-optimization"],
+      "addedAt": "2026-07-25"
     }
   ]
 }
