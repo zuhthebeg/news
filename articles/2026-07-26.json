@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-26",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 美서 '세일즈 외교'…젠슨 황 등 빅테크 CEO 연쇄 면담",
+      "summary": "이재명 대통령이 24일(현지시간) 미국 순방 중 엔비디아 젠슨 황 CEO 등 빅테크 최고경영자들과 잇달아 면담하며 AI 분야 협력 방안을 논의했다. 이 대통령은 국가 전반을 AI에 맞게 전환해 'AI 황금시대'의 기회를 국민이 누릴 수 있도록 정부가 뒷받침하겠다고 밝혔다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202607251030013032",
+      "publishedAt": "2026-07-25T10:30:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "구윤철 부총리 \"7월 물가 2%대 진입 총력…유류세 인하 9월 말까지 연장\"",
+      "summary": "구윤철 경제부총리가 24일 민생물가 특별관리 관계장관 TF 13차 회의를 주재하고 2분기 GDP가 전기 대비 0.6% 증가하는 등 성장 모멘텀이 이어지고 있다고 밝혔다. 중동 정세에 따른 물가·공급망 대응책으로 유류세 인하 조치를 9월 말까지 연장하고 계란·고등어 수급 대책도 논의했다.",
+      "category": "economy",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20260724000316",
+      "publishedAt": "2026-07-24T09:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "인천 쿠팡 제32물류센터 화재 사흘째…붕괴 우려에 대피령까지",
+      "summary": "인천 쿠팡 제32물류센터에서 발생한 화재가 사흘째 이어지며 건물 내부 온도가 최고 300도까지 치솟아 진화에 어려움을 겪었다. 구조 안전 우려로 물류센터 반경 116m 내 상가·사무실에 대피령이 내려졌으며, 이후 불길이 잡히며 대피령은 해제됐다.",
+      "category": "domestic",
+      "source": "YTN",
+      "sourceUrl": "https://www.ytn.co.kr/_ln/0103_202607201349462874",
+      "publishedAt": "2026-07-20T13:49:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "오라클, 역대 최대 규모 7월 패치…쉬니헌터스發 PeopleSoft 제로데이 포함",
+      "summary": "오라클이 7월 정기 보안 패치(CPU)에서 1455건의 취약점을 수정하며 역대 최대 규모를 기록했다. 이 중 해커 그룹 쉬니헌터스가 5월 말부터 2주간 제로데이로 악용해 100곳 넘는 기관(68%가 고등교육기관)을 침해한 PeopleSoft 권한상승 취약점(CVE-2026-35273, CVSS 9.8)의 영구 수정판도 포함됐다.",
+      "category": "tech",
+      "source": "HNGN",
+      "sourceUrl": "https://www.hngn.com/articles/272336/20260725/oracle-patches-critical-peoplesoft-flaw-behind-shinyhunters-breach-100-plus-organizations.htm",
+      "publishedAt": "2026-07-25T00:00:00+00:00"
+    },
+    {
+      "id": "5",
+      "title": "연구자, 6주 전 조용히 패치된 깃랩 RCE 취약점 공개 익스플로잇 코드 게시",
+      "summary": "보안 연구업체 depthfirst가 24일 깃랩이 6월 10일 패치했지만 보안 취약점으로 공개하지 않은 원격코드실행(RCE) 취약점의 실동작 익스플로잇 코드를 공개했다. CVE 번호나 CVSS 점수 없이 버그 수정으로만 표기돼 있었으며, 인증된 사용자가 프로젝트에 푸시 권한만 있으면 관리자 권한 없이도 git 권한으로 명령을 실행할 수 있다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/07/researcher-publishes-gitlab-rce-poc.html",
+      "publishedAt": "2026-07-24T00:00:00+00:00"
+    },
+    {
+      "id": "6",
+      "title": "스페인 산불로 나사 마드리드 심우주통신단지 대피…안테나 6기 위험",
+      "summary": "1964년부터 운영돼 온 나사의 마드리드 심우주통신단지(MDSCC)가 24일 대형 산불에 휩쓸려 근무 인력 90명 전원이 대피했다. 전 세계 단 3곳뿐인 심우주 통신 거점 중 하나가 타격을 입으면서 임무 운영은 캔버라·골드스톤 등 나머지 두 곳으로 이관됐다.",
+      "category": "science",
+      "source": "Spaceflight Now",
+      "sourceUrl": "https://spaceflightnow.com/2026/07/24/critical-nasa-deep-space-ground-station-in-spain-evacuated-due-to-wildfires/",
+      "publishedAt": "2026-07-24T00:00:00+00:00"
+    },
+    {
+      "id": "7",
+      "title": "스페이스X 스타십 13차 시험비행 성공…스타링크 위성 배치·인도양 연착륙",
+      "summary": "스페이스X가 24일 실시한 스타십 13차 시험비행에서 슈퍼헤비 부스터의 걸프만 착수, 신형 스타링크 V3 위성 20기 궤도 배치, 우주 재점화 엔진 시험까지 모두 성공했다. 상단 우주선은 인도양에 온전한 형태로 연착륙해 처음으로 손상되지 않은 내열판을 확인했다.",
+      "category": "science",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/07/24/spacex-launches-massive-starship-rocket-in-first-test-flight-since-ipo.html",
+      "publishedAt": "2026-07-24T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "사우디 국부펀드의 550억달러 EA 인수, EU 반독점 승인",
+      "summary": "사우디아라비아 국부펀드(PIF)와 재러드 쿠슈너의 어피니티 파트너스, 실버레이크가 추진 중인 550억달러 규모 일렉트로닉아츠(EA) 인수가 23일 EU 경쟁당국의 반독점 승인을 받았다. 사상 최대 규모 차입매수인 이번 거래는 미국 외국인투자심의위원회(CFIUS) 등 추가 규제 승인이 남아 있다.",
+      "category": "gaming",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://ca.finance.yahoo.com/news/saudi-pifs-55-billion-ea-112640750.html",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "id": "9",
+      "title": "'크리솔' 개발사 베르밀라 스튜디오, 전 직원 정리해고…폐쇄 가능성",
+      "summary": "블룸하우스 퍼블리싱 호러게임 '크리솔: 시어터 오브 아이돌스' 개발사 베르밀라 스튜디오가 23일 재정난을 이유로 전 직원 19명을 정리해고했다고 밝혔다. 게임 출시 6개월도 안 돼 벌어진 일로, CEO 다비드 카라스코는 스튜디오 완전 폐쇄도 '향후 몇 달 안에 실현 가능한 시나리오'라고 밝혔다.",
+      "category": "gaming",
+      "source": "Insider Gaming",
+      "sourceUrl": "https://insider-gaming.com/vermila-studios-closed/",
+      "publishedAt": "2026-07-23T00:00:00+00:00"
+    }
+  ]
+}
