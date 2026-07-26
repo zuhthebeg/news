@@ -81,6 +81,51 @@
       "source": "Insider Gaming",
       "sourceUrl": "https://insider-gaming.com/vermila-studios-closed/",
       "publishedAt": "2026-07-23T00:00:00+00:00"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] Bark: MIT 라이선스 멀티링글 음성·효과음 생성 모델",
+      "summary": "Suno AI의 Bark는 MIT 라이선스 오픈소스 텍스트-오디오 모델로, 다국어 음성, 음악, 효과음, 웃음·한숨 등 비음성 사운드를 생성할 수 있다. 4GB 이하 GPU에서 실행 가능하며 상업 용도 허용. cocy.io에서 게임 배경음·NPC 음성·SFX를 로컬에서 생성할 때 즉시 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/suno-ai/bark",
+      "publishedAt": "2026-07-26T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "[Video] Wan2.2-I2V: Apache 2.0 이미지-동영상 생성 모델(MoE 아키텍처)",
+      "summary": "Alibaba Tongyi의 Wan2.2는 Apache 2.0 라이선스 오픈소스 이미지-투-비디오 모델로, 720p/24fps로 고품질 동영상을 생성한다. Mixture-of-Experts 구조로 효율성 극대화. cocy.io 게임 배경·캐릭터 애니메이션 생성, 컷신 자동화에 직결 가능.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Wan-Video/Wan2.2",
+      "publishedAt": "2026-07-26T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "[Image] FLUX 3 Early Access: 멀티모달 이미지·영상·음성 생성 모델",
+      "summary": "[Image] FLUX 3: 멀티모달 이미지·영상·음성 생성. 복잡한 프롬프트 처리 능력 향상, 다국어 텍스트 생성 정확도 높음. Dev 가중치(상업 라이선스 필요) 추후 공개 예정. cocy.io 게임 카드·캐릭터·배경 일괄 생성, 컷신 음성 동기화에 활용 가능.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs",
+      "sourceUrl": "https://bfl.ai/blog/flux-3",
+      "publishedAt": "2026-07-26T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "[Edge] WebGPU + ONNX Runtime: 브라우저 로컬 추론 성숙 (10-50배 고속화)",
+      "summary": "WebGPU 표준화 완성으로 브라우저 로컬 AI 추론이 CPU 대비 10-50배 고속화. ONNX Runtime Web이 WebGPU 백엔드로 FP16 최적화 지원. TensorFlow.js·WebLLM·Transformers.js 지원. cocy.io 게임 클라이언트에서 채점·STT·이미지 분류 100% 로컬 실행 가능.",
+      "category": "ai-tech",
+      "source": "web.dev",
+      "sourceUrl": "https://web.dev/learn/ai/client-side",
+      "publishedAt": "2026-07-26T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "[Tool] Infinigen 2.0: 절차 생성 3D 에셋/씬 (BSD 3-Clause, 상업 허용)",
+      "summary": "Princeton Vision Lab의 Infinigen 2.0은 BSD 3-Clause 라이선스로 Blender 내 절차 생성 3D 애셋·씬을 만든다. 게임 개발·렌더링·데이터 생성 용도. cocy.io 3D 게임 배경·객체·텍스처를 절차적으로 생성, 대량 학습 데이터 자동 제작 가능.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/princeton-vl/infinigen",
+      "publishedAt": "2026-07-26T00:00:00+09:00"
     }
   ]
 }

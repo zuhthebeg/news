@@ -107,6 +107,24 @@
       "url": "https://developers.google.com/web/updates/2026/03/webgpu",
       "tags": ["webgpu", "edge-ai", "browser", "inference-optimization"],
       "addedAt": "2026-07-25"
+    },
+    {
+      "title": "Infinigen-Procedural-3D-Gen",
+      "description": "Princeton-VL의 Infinigen 2.0 Blender 플러그인. 절차 생성 3D 에셋·환경·텍스처·씬 자동 생성. BSD 3-Clause 상업 허용. 게임 백그라운드 대량 생성, 학습 데이터셋 자동화.",
+      "icon": "🧊",
+      "category": "dev",
+      "url": "https://github.com/princeton-vl/infinigen",
+      "tags": ["3d-gen", "procedural", "blender", "game-asset"],
+      "addedAt": "2026-07-26"
+    },
+    {
+      "title": "Wan2.2-I2V-Animation-Gen",
+      "description": "Alibaba Wan2.2 이미지→동영상 생성. 720p/24fps 고품질, MoE 아키텍처 효율성. Apache 2.0 상업 허용. 게임 캐릭터 드로우/애니메이션 프레임, 컷신 자동 생성.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://github.com/Wan-Video/Wan2.2",
+      "tags": ["video-gen", "i2v", "animation", "game-asset"],
+      "addedAt": "2026-07-26"
     }
   ]
 }
