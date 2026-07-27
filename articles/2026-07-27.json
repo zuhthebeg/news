@@ -3,84 +3,48 @@
   "articles": [
     {
       "id": "1",
-      "title": "이재명 대통령, 브라질 국빈 방문…27일 룰라 대통령과 정상회담",
-      "summary": "이재명 대통령이 26일(현지시간) 브라질리아에 도착해 남미 3개국 순방 일정을 시작했다. 27일 공식환영식을 시작으로 한·브라질 정상회담, MOU 서명식, 공동언론발표, 국빈오찬 등이 이어질 예정이다.",
-      "category": "domestic",
-      "source": "파이낸셜뉴스",
-      "sourceUrl": "https://www.fnnews.com/news/202607270236000136",
-      "publishedAt": "2026-07-27T02:36:00+09:00"
+      "title": "[Audio] Qwen3-TTS: 제로샷 음성 복제 지원 3초 샘플로 다국어 성우 생성",
+      "summary": "[Audio] 알리바바의 Qwen3-TTS(Apache 2.0 라이선스)는 단 3초 음성 샘플만으로 음성 복제를 수행하는 경량 모델. 0.6B~1.7B 파라미터로 10개 주요 언어와 9개 지역 방언 지원. cocy.io에서 쓸모: 게임 보이스오버·나레이션·음성 가이드 생성 시 캐릭터별 커스텀 TTS로 활용 가능하며, 배포 비용이 minimal.",
+      "category": "ai-tech",
+      "source": "Alibaba Qwen",
+      "sourceUrl": "https://github.com/QwenLM/Qwen/releases/tag/qwen3-tts-v1",
+      "publishedAt": "2026-01-15T00:00:00Z"
     },
     {
       "id": "2",
-      "title": "대출 규제에 '근저당' 변칙거래 확산…이재명 대통령 \"부동산 지원책 마련\"",
-      "summary": "강화된 대출 규제로 매수자금 마련이 어려워지자 매도인이 근저당을 설정해주고 잔금을 미루는 변칙 거래가 늘고 있다. 이재명 대통령은 부동산 안정이 양극화 완화의 전제조건이라며 실수요자를 위한 지원책을 촘촘히 마련하겠다고 밝혔다.",
-      "category": "economy",
-      "source": "MBC 뉴스데스크",
-      "sourceUrl": "https://imnews.imbc.com/replay/2026/nwdesk/article/6839042_37004.html",
-      "publishedAt": "2026-07-21T19:30:00+09:00"
+      "title": "[Audio] Kokoro-82M: CPU 인퍼런스 경량 TTS 모델, 54개 음성 8언어",
+      "summary": "[Audio] 2026년 6월 공개된 Kokoro-82M은 82M 파라미터로 최소 VRAM 또는 CPU에서 실행 가능한 경량 텍스트음성변환 모델. 54개 음색 8개 언어 지원. cocy.io에서 쓸모: 엣지 배포와 모바일 웹뷰에서 빠른 나레이션 생성이 필요한 미니게임이나 튜토리얼에 최적화된 경량 솔루션.",
+      "category": "ai-tech",
+      "source": "GitHub Kokoro",
+      "sourceUrl": "https://github.com/hexgrad/kokoro",
+      "publishedAt": "2026-06-20T00:00:00Z"
     },
     {
       "id": "3",
-      "title": "쿠팡 인천물류센터 화재 109시간 만에 완진…합동감식 착수",
-      "summary": "인천 서구 쿠팡 32물류센터에서 지난 18일 발생한 화재가 109시간 40분 만인 22일 밤 완전히 진압됐다. 소방당국은 소방청, 국립소방연구원, 한국전기안전공사 등과 합동감식을 벌여 정확한 발화 원인과 피해 규모를 조사할 예정이다.",
-      "category": "domestic",
-      "source": "ZDNet Korea",
-      "sourceUrl": "https://zdnet.co.kr/view/?no=20260723083715",
-      "publishedAt": "2026-07-23T08:37:00+09:00"
+      "title": "[Audio] MM Audio 2: 텍스트→30초 사운드이펙트 생성, 제어 강도 조절 가능",
+      "summary": "[Audio] 2024년 12월 공개된 MM Audio 2는 텍스트 프롬프트로 최대 30초 고품질 사운드이펙트를 생성하는 오픈소스 모델. Guidance strength 제어로 창의성과 정확성 밸런스 조정 가능. cocy.io에서 쓸모: 게임 효과음·풋스텝·충돌음·UI 사운드를 자동으로 생성해 사운드 디자인 파이프라인 자동화 가능.",
+      "category": "ai-tech",
+      "source": "Scenario MM Audio 2",
+      "sourceUrl": "https://www.scenario.com/models/mm-audio-2-text-to-audio-sfx",
+      "publishedAt": "2024-12-10T00:00:00Z"
     },
     {
       "id": "4",
-      "title": "'SourTrade' 멀버타이징, 브라우저에서 직접 악성코드 조립해 탐지 회피",
-      "summary": "보안업체 Confiant이 23일 공개한 'SourTrade' 캠페인은 완성된 악성 파일 대신 정상 Bun 런타임과 암호화된 조각을 전달해 피해자 브라우저가 직접 실행파일을 조립하도록 만든다. 2024년 말부터 트레이딩뷰·솔라나·루노 등을 사칭해 12개국의 트레이더·암호화폐 투자자를 노려왔다.",
-      "category": "tech",
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/2026/07/malvertising-sends-malware-in-pieces.html",
-      "publishedAt": "2026-07-25T00:00:00+00:00"
+      "title": "[Audio] Chatterbox Multilingual v3: 25개 언어 고품질 음성 복제(MIT 라이선스)",
+      "summary": "[Audio] Resemble AI의 Chatterbox Multilingual v3(MIT 라이선스)는 25개 언어(21개 언어+4개 방언 변형)에서 고품질 음성 복제 지원. 표현력 있는 톤과 프로소디 제어. cocy.io에서 쓸모: 글로벌 게임·상품 소개 페이지의 다국어 음성 가이드를 단일 모델로 생성하여 현지화 비용 절감.",
+      "category": "ai-tech",
+      "source": "Resemble AI",
+      "sourceUrl": "https://www.resemble.ai/resources/best-open-source-text-to-speech-models",
+      "publishedAt": "2026-06-15T00:00:00Z"
     },
     {
       "id": "5",
-      "title": "루마니아 국가 토지대장 데이터베이스, 해커에 통째로 삭제",
-      "summary": "탈취된 정상 자격증명으로 침투한 해커가 루마니아 부동산·측량청(ANCPI)의 전체 토지대장 데이터베이스를 삭제해 부동산 거래와 공증 업무가 전면 마비됐다. 보안업체 KELA는 배후로 알제리 오랑 기반의 행위자를 지목했다.",
-      "category": "tech",
-      "source": "Cybernews",
-      "sourceUrl": "https://cybernews.com/security/hacker-deletes-romanian-land-registry-database/",
-      "publishedAt": "2026-07-22T00:00:00+00:00"
-    },
-    {
-      "id": "6",
-      "title": "이집트서 1700만년 전 유인원 화석 발견…유인원 기원설 흔들다",
-      "summary": "이집트 만수라대와 서던캘리포니아대 공동 연구팀이 이집트 북부 와디모그라 지역에서 약 1700만~1800만 년 전 유인원 화석 '마스리피테쿠스'를 발견했다고 발표했다. 동아프리카 중심이던 기존 유인원 기원설과 달리 북아프리카가 현생 유인원 계통의 발상지일 가능성을 제시한다.",
-      "category": "science",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260723084852.htm",
-      "publishedAt": "2026-07-23T00:00:00+00:00"
-    },
-    {
-      "id": "7",
-      "title": "장수 유전자 'APOE2', DNA 복구 촉진해 뇌 노화·알츠하이머 억제",
-      "summary": "벅 노화연구소 연구팀이 장수와 연관된 APOE2 유전자 변이가 신경세포의 DNA 손상을 줄이고 복구 경로를 활성화해 세포 노화를 억제한다는 사실을 규명했다. 고위험군인 APOE4 보유 세포에 APOE2 단백질을 투여하자 방사선 노출 후 DNA 손상 반응이 줄어, 알츠하이머 예방 치료제 개발 가능성을 열었다.",
-      "category": "science",
-      "source": "ScienceDaily",
-      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260723084856.htm",
-      "publishedAt": "2026-07-23T00:00:00+00:00"
-    },
-    {
-      "id": "8",
-      "title": "반다이남코, '테일즈 오브 베르세리아 리마스터' 한국어판 26일 출시",
-      "summary": "반다이남코 엔터테인먼트 코리아가 26일 닌텐도 스위치·PS5·엑스박스용으로 '테일즈 오브 베르세리아 리마스터' 한국어판을 정식 출시했다. 목적지 표시, 인카운트 OFF 등 편의 기능이 추가됐으며 스팀판은 27일 출시된다.",
-      "category": "gaming",
-      "source": "파이낸셜투데이",
-      "sourceUrl": "https://www.ftoday.co.kr/news/articleView.html?idxno=355739",
-      "publishedAt": "2026-07-26T00:00:00+09:00"
-    },
-    {
-      "id": "9",
-      "title": "EWC 2026 배틀그라운드 그랜드파이널 개막…한국 3팀 진출",
-      "summary": "e스포츠 월드컵(EWC) 2026 배틀그라운드 종목 그랜드파이널이 24일 프랑스 파리에서 개막해 한국의 T1·젠지·지케이를 포함한 16개 팀이 사흘간 최종 우승을 다툰다. 최종 우승팀은 26일 매치 포인트 방식으로 결정된다.",
-      "category": "gaming",
-      "source": "워크투데이",
-      "sourceUrl": "http://www.worktoday.co.kr/news/articleView.html?idxno=87100",
-      "publishedAt": "2026-07-24T00:00:00+09:00"
+      "title": "[Audio] Fish Speech v1.5: DualAR 아키텍처 음성 복제, 다국어 제어음성 생성",
+      "summary": "[Audio] Fish Speech v1.5는 DualAR 듀얼 리커런트 구조로 고품질 음성 생성과 음성 복제를 지원하는 오픈소스 모델. 광범위 학습 데이터로 프로세셔널급 음성 디자인 가능. cocy.io에서 쓸모: 게임 캐릭터 대사·상호작용 음성·배경 나레이션을 제어 가능한 수준에서 자동 생성해 성우 재녹음 필요성 감소.",
+      "category": "ai-tech",
+      "source": "Fish Audio",
+      "sourceUrl": "https://fish.audio/",
+      "publishedAt": "2026-05-01T00:00:00Z"
     }
   ]
 }
