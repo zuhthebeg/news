@@ -90,6 +90,87 @@
       "source": "HuggingFace / Lightricks",
       "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
       "publishedAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "코스피, 개인·기관 쌍끌이 매수에 0.97% 반등…6755.75 마감",
+      "summary": "27일 코스피가 SK하이닉스·삼성전자 등 반도체 대형주 강세에 힘입어 전 거래일 대비 65.13포인트(0.97%) 오른 6755.75에 마감했다. 코스닥도 2.22% 오른 764.86으로 거래를 마쳤다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/stock/2026/07/27/2026072715265826190",
+      "publishedAt": "2026-07-27T15:26:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "정성호 법무부 장관, 이재명 대통령에 사의 표명…검찰 보완수사권 폐지 계기",
+      "summary": "정성호 법무부 장관이 검찰 보완수사권 완전 폐지 방침에 정치적 책임을 지겠다며 이재명 대통령에게 사의를 표명했다. 정 장관은 심각한 수면장애 등 건강 문제도 함께 언급했다.",
+      "category": "domestic",
+      "source": "서울신문",
+      "sourceUrl": "https://www.seoul.co.kr/news/politics/2026/07/27/20260727008001",
+      "publishedAt": "2026-07-27T09:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "청각장애인 대포통장 유통 조직 적발…불법도박 연루 172명 검거",
+      "summary": "부산경찰청이 3200억원대 불법 스포츠도박 사이트를 수사하던 중 청각장애인 명의 대포통장을 모집·유통한 조직을 함께 적발해 172명을 검거하고 6명을 구속했다. 통역사가 청각장애인들에게 신용점수 개선을 미끼로 계좌를 모집한 것으로 드러났다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202607271110001/",
+      "publishedAt": "2026-07-27T11:10:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "코카콜라 유제품 자회사 페어라이프, 랜섬웨어 공격에 데이터 유출 확인",
+      "summary": "코카콜라가 협력업체를 통해 유제품 브랜드 페어라이프의 IT 환경이 침해당해 데이터가 유출됐음을 확인했다. 랜섬웨어 조직 아누비스가 1TB 규모 기밀자료 탈취를 주장하며 협상 시한이 지나자 자료를 공개했다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/coca-cola-confirms-data-theft-in-fairlife-ransomware-attack/",
+      "publishedAt": "2026-07-27T00:00:00+00:00"
+    },
+    {
+      "id": "15",
+      "title": "vBulletin 포럼 소프트웨어, 인증 없이 원격코드실행 가능한 공개 익스플로잇 등장",
+      "summary": "vBulletin 6.2.1 이하 버전에 존재하는 취약점(CVE-2026-61511)을 악용해 별도 계정 없이 PHP eval() 함수에 도달, 원격코드를 실행하는 공개 익스플로잇이 27일 공개됐다. 제조사는 지난달 말 패치를 배포했지만 아직 실제 악용 사례는 확인되지 않았다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/07/public-exploit-released-for-patched.html",
+      "publishedAt": "2026-07-27T00:00:00+00:00"
+    },
+    {
+      "id": "16",
+      "title": "NASA 우주비행사 크리스 윌리엄스 등 ISS 승무원 3명, 241일 임무 마치고 귀환",
+      "summary": "NASA 우주비행사 크리스 윌리엄스와 러시아 코스모나우트 2명이 소유즈 MS-28을 타고 241일간의 국제우주정거장(ISS) 임무를 마친 뒤 카자흐스탄에 착륙했다. 이들은 임무 기간 지구를 3856바퀴 돌며 1억200만 마일을 비행했다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/space-exploration/human-spaceflight/nasa-astronaut-two-cosmonauts-return-to-earth-soyuz-ms-28",
+      "publishedAt": "2026-07-26T00:00:00+00:00"
+    },
+    {
+      "id": "17",
+      "title": "제임스웹이 포착한 미스터리 '작은 붉은 점', 초대질량항성 품은 초기 구상성단일 수도",
+      "summary": "텍사스대 오스틴 캠퍼스 연구진이 제임스웹우주망원경(JWST)이 발견한 정체불명의 천체 '작은 붉은 점(Little Red Dots)'이 형성 중인 구상성단이며, 그 중심에 태양 질량의 최대 1만 배에 달하는 단명 초대질량항성이 있을 수 있다는 새 이론을 제시했다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-07-idea-cosmic-mysteries-linking-red.html",
+      "publishedAt": "2026-07-20T00:00:00+00:00"
+    },
+    {
+      "id": "18",
+      "title": "아타리-유니버설, 아스테로이드·미사일커맨드 등 클래식 게임 10편 영화화 계약",
+      "summary": "아타리가 유니버설 픽처스와 손잡고 퐁·브레이크아웃·아스테로이드·미사일커맨드 등 자사 클래식 게임 10종을 영화로 제작하는 계약을 체결했다고 발표했다. 유니버설은 이미 첫 작품의 각본·제작진을 확정했으나 10편 모두 실제 제작으로 이어질지는 미지수다.",
+      "category": "gaming",
+      "source": "Game Informer",
+      "sourceUrl": "https://gameinformer.com/2026/07/24/atari-and-universal-sign-deal-to-adapt-10-classic-games-like-pong-and-breakout-into",
+      "publishedAt": "2026-07-24T00:00:00+00:00"
+    },
+    {
+      "id": "19",
+      "title": "GTA6 실물판에 디스크 미포함 논란…락스타 공동창업자 댄 하우저 입장 표명",
+      "summary": "11월 19일 출시 예정인 'GTA6' 실물판이 디스크 없이 다운로드 코드만 제공되는 것으로 알려지며 팬들 사이에서 논란이 일었다. 락스타 게임즈 공동창업자 댄 하우저가 실물 미디어를 지지하는 입장을 밝히며 논쟁에 가세했다.",
+      "category": "gaming",
+      "source": "GamingBible",
+      "sourceUrl": "https://www.gamingbible.com/news/rockstar-games-founder-responds-to-gta-6-backlash-018503-20260727",
+      "publishedAt": "2026-07-27T00:00:00+00:00"
     }
   ]
 }
