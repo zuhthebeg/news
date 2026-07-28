@@ -125,6 +125,24 @@
       "url": "https://github.com/Wan-Video/Wan2.2",
       "tags": ["video-gen", "i2v", "animation", "game-asset"],
       "addedAt": "2026-07-26"
+    },
+    {
+      "title": "LLaMA.cpp-WebGPU-Browser",
+      "description": "llama.cpp의 WebGPU 백엔드로 대규모언어모델을 웹브라우저에서 직접 실행. GGUF 양자화 자동 변환, FP16/INT8 지원. 게임 내 AI NPC 대사 생성, 오프라인 챗봇, API 의존성 제거.",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://github.com/ggerganov/llama.cpp",
+      "tags": ["llm", "webgpu", "browser", "edge-ai", "offline"],
+      "addedAt": "2026-07-28"
+    },
+    {
+      "title": "MediaPipe-Motion-Capture-Game",
+      "description": "Google MediaPipe 3D 포즈 감지로 웹캠 영상에서 골격 추출, 게임 캐릭터 애니메이션 매핑 자동화. MP4/WebM 입력 지원, Apache 2.0 라이선스. 댄스게임/피트니스 게임 개발, 정규화 좌표계 기반 모션캡처 대체.",
+      "icon": "💃",
+      "category": "media",
+      "url": "https://github.com/google/mediapipe",
+      "tags": ["motion-capture", "pose-detection", "animation", "game-dev"],
+      "addedAt": "2026-07-28"
     }
   ]
 }

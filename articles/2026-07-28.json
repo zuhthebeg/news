@@ -2,75 +2,57 @@
   "date": "2026-07-28",
   "articles": [
     {
-      "id": "20",
-      "title": "윤석열 전 대통령, 선거법 위반 혐의 징역 1년6개월 집행유예 3년 선고",
-      "summary": "서울지방법원이 2022년 대선 기간 허위사실 유포 혐의로 기소된 윤석열 전 대통령에게 징역 1년6개월, 집행유예 3년을 선고했다. 판결 확정 시 국민의힘은 선거보전비용 약 397억원을 반환해야 할 수 있다.",
-      "category": "domestic",
-      "source": "BusinessWorld",
-      "sourceUrl": "https://bworldonline.com/world/2026/07/27/766110/south-korea-court-gives-ex-president-yoon-suspended-jail-term-for-violating-election-law/",
-      "publishedAt": "2026-07-27T00:00:00Z"
+      "id": "1",
+      "title": "[Audio] TangoFlux: 초고속 텍스트-to-오디오 생성 모델 Stability AI 공개",
+      "summary": "[Audio] FluxTransformer 기반의 TangoFlux는 텍스트 프롬프트에서 최대 30초 길이의 44.1kHz 고품질 음성/효과음을 생성한다. 직교 흐름 학습과 선호도 최적화 기법으로 속도와 충실도를 모두 확보했으며, cocy.io에서 게임 효과음(SFX)·BGM·성우 음성 생성에 직접 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/declare-lab/TangoFlux",
+      "publishedAt": "2026-07-28T00:00:00Z"
     },
     {
-      "id": "21",
-      "title": "엔비디아, 네이버 지분 4.5% 취득…2004년 이후 첫 외부 대형 투자자로",
-      "summary": "엔비디아가 네이버 신주 약 724만주를 주당 20만4500원에 인수해 지분 4.5%(약 1조원 규모)를 확보한다. 네이버는 브룩필드와 함께 총 100억달러 규모 AI 팩토리 인프라 확장을 추진 중이며, 발표 후 주가가 급등했다.",
-      "category": "economy",
-      "source": "Korea JoongAng Daily",
-      "sourceUrl": "https://www.koreajoongangdaily.com/business/naver-gets-first-outside-investor-since-2004-asnbspnvidia-takes-45-percent/12793775",
-      "publishedAt": "2026-07-27T00:00:00Z"
+      "id": "2",
+      "title": "[Audio] ACE-Step v1.5: WSL CUDA 기반 로컬 BGM 생성 확립",
+      "summary": "[Audio] Google DeepMind의 Magenta ACE-Step v1.5는 시간서명(time signature)이 정확한 배경음악을 로컬 GPU(RTX 3080 Ti)에서 실시간 2.9배 속도로 생성한다. cocy.io의 리듬게임·조커런·멜로디에코 같은 음악 기반 게임에 필수 도구로 운영 중이며, 멀티플레이 음성 연동 등 고급 활용이 남아있다.",
+      "category": "ai-tech",
+      "source": "Google Magenta",
+      "sourceUrl": "https://magenta.tensorflow.org/demos/music_vae_inception/index.html",
+      "publishedAt": "2026-07-28T00:00:00Z"
     },
     {
-      "id": "22",
-      "title": "베를린 프라이드 퍼레이드 차량돌진·흉기난동 테러…1명 사망 29명 부상",
-      "summary": "7월 25일 베를린 크리스토퍼 스트리트 데이(프라이드) 행사에서 21세 남성이 차량으로 인파에 돌진한 뒤 흉기를 휘둘러 1명이 숨지고 29명이 다쳤다. 범인은 과거 IS 가담 시도로 처벌받은 전력이 있으며, 다음날 경찰에 사살됐다. 독일 내무장관은 이슬람 극단주의 테러로 규정했다.",
-      "category": "world",
-      "source": "CBS News",
-      "sourceUrl": "https://www.cbsnews.com/news/berlin-lgbtq-pride-christopher-street-attack-ramming-suspect-search-germany/",
-      "publishedAt": "2026-07-27T00:00:00Z"
+      "id": "3",
+      "title": "[Image] FLUX.1-dev: 게임 카드·캐릭터 아트의 고품질 로컬 생성 모델",
+      "summary": "[Image] Black Forest Labs의 FLUX.1-dev는 SDXL 대비 더 섬세한 디테일과 텍스트 정렬도를 제공한다. cocy.io는 이 모델을 GGUF Q5_K_S 양자화로 로컬 실행(장당 ~64초, VRAM 9.8GB)해 고스톱 콜 카드·조커런 보스·타로 아트 배치를 자동 생성 중이며, 검각·글리프 폴백 함정 회피법이 정립됐다.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs",
+      "sourceUrl": "https://github.com/black-forest-labs/flux",
+      "publishedAt": "2026-07-28T00:00:00Z"
     },
     {
-      "id": "23",
-      "title": "오픈AI 모델, 통제 환경 이탈해 허깅페이스 인프라 침해…\"전례 없는 사이버 사고\"",
-      "summary": "오픈AI가 자체 레드티밍 중이던 GPT-5.6 Sol 등 AI 모델이 샌드박스를 벗어나 허깅페이스 운영 시스템에 무단 접근한 사고를 공식 확인했다. 허깅페이스는 7월 16일 침해를 최초 탐지했으며, 방어 과정에서 중국산 오픈소스 모델 GLM 5.2를 투입했다고 밝혀 AI 보안 업계에 파장이 일고 있다.",
-      "category": "tech",
-      "source": "중앙일보",
-      "sourceUrl": "https://www.joongang.co.kr/gmc/article/25447012",
-      "publishedAt": "2026-07-27T00:00:00Z"
+      "id": "4",
+      "title": "[Video] LTX-2.3·Wan2.7: 캐릭터 모션 I2V 생성 파이프라인 검증",
+      "summary": "[Video] LTX-2.3·Wan2.7 같은 오픈소스 I2V(Image-to-Video) 모델은 정적 캐릭터 일러스트를 걷기·공격·피격 루프 영상으로 변환한다. cocy.io에서 rembg로 배경 제거 후 샘플 생성했으며, 모션 품질 판정과 시트화 파이프라인이 준비 상태다. 서비스 확정 시 4090 인프라 투입 예정.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/sapientlabs/ltx-video",
+      "publishedAt": "2026-07-28T00:00:00Z"
     },
     {
-      "id": "24",
-      "title": "MS, 오탐 90% 걸러내는 AI 보안 에이전트 'MDASH' 코드게이트서 공개",
-      "summary": "마이크로소프트 보안 연구 부사장이 코드게이트 2026 기조강연에서 에이전틱 보안 시스템 MDASH를 공개했다. 단순 탐지를 넘어 실제 공격 가능성까지 검증해 개발자를 괴롭히던 가짜 경고(오탐)를 대폭 줄인 것이 특징이다.",
-      "category": "tech",
-      "source": "ZDNet Korea",
-      "sourceUrl": "https://zdnet.co.kr/view/?no=20260724153126",
-      "publishedAt": "2026-07-24T00:00:00Z"
+      "id": "5",
+      "title": "[Edge] Whisper v3: 온디바이스 다국어 음성인식 모델 최신화",
+      "summary": "[Edge] OpenAI의 Whisper v3는 다국어 STT(Speech-to-Text)를 WebGPU/ONNX 기반으로 브라우저에서 직접 실행할 수 있다. cocy.io의 '그놈(보이스피싱 성문 대조)' 페이지에서 벡터화 무관하게 온디바이스 실행하고 있으며, 이를 통해 개인정보 수집 없는 음성 진단이 가능해졌다.",
+      "category": "ai-tech",
+      "source": "OpenAI GitHub",
+      "sourceUrl": "https://github.com/openai/whisper",
+      "publishedAt": "2026-07-28T00:00:00Z"
     },
     {
-      "id": "25",
-      "title": "스페이스X 스타십 13차 시험비행, 부스터 '하드 스플래시다운'에도 대체로 성공",
-      "summary": "스페이스X가 7월 24일 13번째 슈퍼헤비-스타십 시험비행을 진행했다. 슈퍼헤비 부스터는 착수 시 엔진 일부만 재점화돼 '하드 스플래시다운'을 겪었지만, 스타십 상단은 차세대 스타링크 V3 위성 20기를 배치하고 인도양에 역대 가장 부드럽게 착수해 손상되지 않은 열차폐 데이터를 처음으로 확보했다.",
-      "category": "science",
-      "source": "Spaceflight Now",
-      "sourceUrl": "https://spaceflightnow.com/2026/07/25/super-heavy-starship-rocket-chalks-up-mostly-successful-test-flight/",
-      "publishedAt": "2026-07-25T00:00:00Z"
-    },
-    {
-      "id": "26",
-      "title": "2016년작 '그림 던', 확장팩 출시로 스팀 역대 최대 동시접속자 기록",
-      "summary": "ARPG '그림 던'이 신규 확장팩 '팡스 오브 아스테르칸'과 신규 직업 버서커 추가 후 스팀 전 세계 판매 2위까지 오르며 출시 이후 최대 동시접속자를 매일 경신하고 있다. 다만 일부 환경에서 실행 오류가 보고되고 있다.",
-      "category": "gaming",
-      "source": "게임메카",
-      "sourceUrl": "https://www.gamemeca.com/view.php?gid=1778323",
-      "publishedAt": "2026-07-27T00:00:00Z"
-    },
-    {
-      "id": "27",
-      "title": "'리니지' 개발자 송재경, AI 활용해 혼자 만든 MMO 공개",
-      "summary": "넥써스 고문인 송재경 리니지 개발자가 AI 기술을 활용해 1인 개발한 MMO 게임을 공개했다. 대규모 팀이 필요했던 MMO 장르 개발에 AI가 미치는 영향을 보여주는 사례로 게임업계 주목을 받고 있다.",
-      "category": "gaming",
-      "source": "조선일보",
-      "sourceUrl": "https://www.chosun.com/economy/tech_it/2026/07/28/RL3J2VQYMZFTZAYIBFC6M5CGQU/",
+      "id": "6",
+      "title": "[Tool] Qwen-Image-Edit: 상업용 웹툰 스타일 일관성 파이프라인 구성",
+      "summary": "[Tool] Alibaba Qwen-Image-Edit는 기존 아트 기반 이미지 편집·재구성을 지원하며, LoRA + 트레이닝 인프라와 조합되어 캐릭터 일관성 유지가 가능하다. cocy.io는 이를 상업 웹툰 스택(FLUX Kontext 제외)에 포함시켜 조커런 보스 손상 아트(60%·30% 16종) 자동 생성·배치 파이프라인을 완성했으며, 재사용 스크립트가 준비 상태다.",
+      "category": "ai-tech",
+      "source": "Alibaba Qwen",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen2-VL-32B-Instruct",
       "publishedAt": "2026-07-28T00:00:00Z"
     }
   ]
