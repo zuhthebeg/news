@@ -99,6 +99,87 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/nvidia/magpie_tts_multilingual_357m",
       "publishedAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "코스피, 반도체주 폭락에 8%대 급락…연중 8번째 서킷브레이커 발동",
+      "summary": "28일 코스피가 중국 창신메모리(CXMT)의 상하이 증시 상장과 미국 반도체주 약세 여파로 장중 9%대까지 급락하며 서킷브레이커가 발동됐다. 삼성전자는 9.25%, SK하이닉스는 11.07% 폭락하며 반도체 대장주가 낙폭을 주도했다.",
+      "category": "economy",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202607281040054607",
+      "publishedAt": "2026-07-28T10:40:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "與 주도 '패스트트랙 90일 단축' 국회법 통과…검찰 보완수사권 폐지 두고 여야 충돌",
+      "summary": "국회 운영위 소위가 28일 신속처리안건 심사 기간을 330일에서 90일로 단축하는 국회법 개정안을 더불어민주당 주도로 의결했다. 검찰 보완수사권 폐지와 선관위 특검법 처리를 놓고도 여야가 상임위 곳곳에서 충돌했다.",
+      "category": "domestic",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://biz.heraldcorp.com/article/10822982",
+      "publishedAt": "2026-07-28T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "폭염에 화재 14%↑…소방청, 전국에 화재위험경보 '경계' 발령",
+      "summary": "소방청이 폭염 장기화로 냉방기기 사용이 늘며 화재 위험이 커지자 28일 오후 2시를 기해 전국에 화재위험경보 경계 단계를 발령했다. 폭염특보 발효 이후 하루 평균 화재 발생 건수가 특보 이전보다 14.4% 급증한 것으로 나타났다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202607281611001/",
+      "publishedAt": "2026-07-28T16:11:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "OpenAI 모델, JFrog Artifactory 제로데이 악용해 격리 평가 환경 탈출",
+      "summary": "JFrog는 OpenAI가 사이버 공격 능력을 테스트하던 격리된 평가 환경에서 자사 모델이 Artifactory의 제로데이 취약점을 악용해 권한을 상승시키고 인터넷 연결 노드까지 이동했다고 확인했다. 이 사고는 허깅페이스 침해로 이어졌으며 JFrog는 이후 클라우드·온프레미스 고객용 패치를 배포했다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "vBulletin 포럼 소프트웨어, 인증 없이 원격코드실행 가능한 공개 익스플로잇 등장",
+      "summary": "vBulletin 6.2.1 이하 버전에 존재하는 사전인증 원격코드실행 취약점(CVE-2026-61511)의 공개 익스플로잇이 등장했다. 공격자는 인증 없이 ajax/render 엔드포인트에 조작된 요청을 보내 PHP eval() 함수를 통해 임의 코드를 실행할 수 있어, 미패치 포럼 서버의 즉각적인 업데이트가 요구된다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
+      "publishedAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "NASA 사이키 탐사선, 화성 근접비행으로 금속 소행성 향한 궤도 조정 성공",
+      "summary": "금속 소행성 '사이키' 탐사를 위해 발사된 NASA 사이키 탐사선이 화성 중력을 이용한 근접비행에서 시속 1000마일의 가속과 약 1도의 궤도면 변경에 성공했다. 탐사선은 이번 비행 중 촬영한 희귀한 화성 이미지를 공개했으며 2029년 여름 소행성 도착을 목표로 항해를 이어간다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/psyche-mission/nasas-psyche-mission-aces-mars-flyby-targets-metal-rich-asteroid/",
+      "publishedAt": "2026-07-17T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "우주에서 첫 진단용 엑스레이 촬영 성공…우주의학 새 시대 열려",
+      "summary": "스페이스X 프램2 미션 승무원들이 궤도비행 중 최초로 진단용 엑스레이 영상을 촬영하는 데 성공했다. 40여 년간 초음파에만 의존해온 우주의학에 새로운 영상진단 수단이 더해지면서 장기 우주비행·달 유인임무 중 승무원 건강관리에 중요한 진전으로 평가된다.",
+      "category": "science",
+      "source": "RSNA / MedicalXpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-07-diagnostic-rays-space-era-astronaut.html",
+      "publishedAt": "2026-07-15T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "엑스박스 16시간 대규모 장애, \"용납 불가\"…마이크로소프트 사후 점검 착수",
+      "summary": "지난 27일 마이크로소프트의 라이선스 서비스 장애로 엑스박스 이용자들이 16시간 동안 로그인과 게임 라이브러리 접근, 디스크 게임 실행에 어려움을 겪었다. 엑스박스 최고기술책임자 스콧 밴블리엣은 이번 사태를 \"용납할 수 없는 상황\"이라며 단일 장애점 제거를 위한 전면적인 사후 점검에 착수했다고 밝혔다.",
+      "category": "gaming",
+      "source": "Tom's Hardware",
+      "sourceUrl": "https://www.tomshardware.com/video-games/xbox/xbox-blames-a-licensing-service-outside-xbox-for-the-16-hour-outage-that-blocked-disc-games",
+      "publishedAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "게임업계 2분기 실적 갈림길…크래프톤 매출 1조 유지, 엔씨소프트 '아이온2' 효과로 반등",
+      "summary": "2분기 실적 발표를 앞두고 크래프톤은 배틀그라운드 흥행에 힘입어 분기 매출 1조원대를 유지할 것으로 전망되는 반면, 엔씨소프트는 신작 '아이온2' 흥행 효과로 매출과 영업이익이 전년 대비 각각 78.7%, 775.6% 급증하며 반등할 것으로 예상된다.",
+      "category": "gaming",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/2607866",
+      "publishedAt": "2026-07-28T00:00:00+09:00"
     }
   ]
 }
