@@ -54,6 +54,51 @@
       "source": "Alibaba Qwen",
       "sourceUrl": "https://huggingface.co/Qwen/Qwen2-VL-32B-Instruct",
       "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "LTX-2.3-22b-LoRA-Foley-V2A: 영상→SFX 동기 포리 생성 LoRA (Lightricks)",
+      "summary": "[Audio] LTX-2.3-22B 기반 Video-to-Audio Foley LoRA. 무음 영상+텍스트 프롬프트로 발걸음·충격음·환경음 등 영상에 동기된 SFX를 생성한다. 라이선스 미확인(gated 모델, 로그인 필요). cocy.io에서 쓸모: 게임 컷신/트레일러 영상에 SFX를 자동 합성하는 포리 파이프라인 구성에 활용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
+      "publishedAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Stable Audio 3 Small SFX: 0.6B 상업용 로컬 텍스트→효과음 모델 (Stability AI)",
+      "summary": "[Audio] 0.6B 경량 SFX 전용 모델. 모바일·노트북에서 실행 가능. Stability AI Community License(연매출 $1M 미만 상업 OK). cocy.io에서 쓸모: 기존 TangoFlux 대체/병행 후보. 게임 타격음·UI음·환경음을 WSL 로컬에서 배치 생성 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
+      "publishedAt": "2026-05-19T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Chatterbox Nano: MIT 110M CPU TTS — 병렬언어 태그 지원 (ResembleAI)",
+      "summary": "[TTS] MIT 라이선스. 110M 파라미터, CPU 8코어에서 실시간 3배 속도. 1스텝 디코더로 지연 최소화. [cough][laugh][chuckle] 등 paralingustic 태그 네이티브 지원. cocy.io에서 쓸모: 게임 NPC 보이스/고스톱 콜 음성 생성 후보. 로컬 CPU에서 배치 실행 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox-nano",
+      "publishedAt": "2026-07-21T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Inflect-Micro-v2: Apache-2.0 초경량 9M 파라미터 TTS (owensong)",
+      "summary": "[TTS] Apache-2.0 라이선스. 9.35M 파라미터, 37MB FP32, 24kHz 출력. ONNX 내보내기·파인튜닝 툴킷 포함. 어제 업데이트(v2 신규 출시). cocy.io에서 쓸모: 브라우저 WASM 탑재 가능 수준 초소형 TTS. 그놈 페이지 온디바이스 음성 합성 또는 게임 내 경량 알림음 생성에 적합.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "publishedAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "MagpieTTS Multilingual 357M v2607: 한국어 포함 12개 언어 TTS (NVIDIA)",
+      "summary": "[TTS] NVIDIA Open Model License(상업 허용). 357M 파라미터, 12개 언어(ar/de/en/es/fr/hi/it/ja/ko/pt/vi/zh). 2026-07-21 한국어·아랍어·포르투갈어 3개 언어 추가. NeMo 프레임워크 기반. cocy.io에서 쓸모: subway-dice·jokerrun 다국어 음성 안내, 한/영/일 TTS를 단일 모델로 통합 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/nvidia/magpie_tts_multilingual_357m",
+      "publishedAt": "2026-07-21T00:00:00Z"
     }
   ]
 }
