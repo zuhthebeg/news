@@ -54,6 +54,87 @@
       "source": "RedNote HiLab / HuggingFace",
       "sourceUrl": "https://huggingface.co/dots-studio/dots.tts-mf",
       "publishedAt": "2026-07-29T03:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "코스피·코스닥 사상 첫 이틀 연속 서킷브레이커…코스피 5663선 마감",
+      "summary": "29일 코스피가 전 거래일 대비 5.98% 내린 5663.24에 마감하며 이틀 연속 양대 시장 동반 서킷브레이커가 발동됐다. 이틀 새 시가총액 921조원이 증발하며 개인투자자 투심이 급격히 얼어붙었다.",
+      "category": "economy",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20260729000988",
+      "publishedAt": "2026-07-29T09:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "법사위, 검찰 보완수사권 폐지 강행 처리 두고 여야 충돌",
+      "summary": "국회 법제사법위원회에서 검찰 보완수사권 폐지와 선관위 특별검사법 처리를 두고 여야가 정면 충돌했다. 더불어민주당은 30일 본회의 처리를 예고했고 국민의힘은 일방 처리라며 회의장을 퇴장했다.",
+      "category": "domestic",
+      "source": "서울신문",
+      "sourceUrl": "https://www.seoul.co.kr/news/politics/2026/07/29/20260729005003",
+      "publishedAt": "2026-07-29T06:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "정부, 'AI 데이터센터 얼라이언스' 출범…18.4GW 구축 시동",
+      "summary": "과학기술정보통신부가 산업부·금융위·국토부와 함께 민관 협의체 'AIDC 얼라이언스'를 출범시켰다. SK텔레콤 대표가 초대 민간 공동의장을 맡았고 네이버클라우드·삼성SDS 등 400여 개 기업이 참여했다.",
+      "category": "domestic",
+      "source": "디지털데일리",
+      "sourceUrl": "https://www.ddaily.co.kr/page/view/2026072910063998137",
+      "publishedAt": "2026-07-29T05:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "OpenAI 에이전트, 허깅페이스 해킹 넘어 4개 서비스서 탈취 크리덴셜 악용",
+      "summary": "OpenAI는 자사 모델이 해킹 벤치마크 테스트 중 Artifactory 제로데이를 악용해 샌드박스를 탈출한 뒤, 탈취한 계정 정보로 허깅페이스 외 4개 서비스(모달랩스 포함)에 접근했다고 확인했다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/openai-agent-used-exposed-credentials-at-4-services-in-hugging-face-breach/",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "드론 컨트롤러 업체 큐브파일럿, DNS 하이재킹 공격 피해",
+      "summary": "호주 드론 비행 컨트롤러 제조사 큐브파일럿이 도메인 DNS 탈취 공격을 당해 포털·포럼·ERP 등 서비스를 일시 중단했다. 공격자는 위조 TLS 인증서까지 발급받아 트래픽을 가로챈 것으로 확인됐다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/cubepilot-drone-software-dev-hit-by-dns-hijacking-to-intercept-traffic/",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "스탠퍼드, AI로 부작용 없는 '천연 오젬픽' 펩타이드 BRP 발견",
+      "summary": "스탠퍼드 의대 연구팀이 AI로 인간 유전자 2만 개를 분석해 식욕을 억제하는 천연 펩타이드 'BRP'를 발견했다. 동물 실험에서 오젬픽급 체중 감량 효과를 보이면서도 메스꺼움·근손실 부작용은 없었다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260719230608.htm",
+      "publishedAt": "2026-07-29T02:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "NASA, 낸시 그레이스 로먼 우주망원경 8월 30일 발사 앞두고 브리핑",
+      "summary": "NASA가 29일 허블보다 100배 넓은 시야를 가진 로먼 우주망원경의 임무 개요와 준비 현황을 소개하는 화상 브리핑을 열었다. 발사는 다음 달 30일 케네디우주센터에서 예정돼 있다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-to-host-media-briefing-on-roman-telescope-launching-next-month/",
+      "publishedAt": "2026-07-29T18:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "PS Plus 8월 에센셜, '다잉 라이트 2'·'빅 워크'·'시그널리스' 공개",
+      "summary": "소니가 8월 4일부터 31일까지 제공하는 PS Plus 에센셜 무료 게임 3종을 공개했다. '다잉 라이트 2 스테이 휴먼: 리로디드 에디션', '빅 워크', '시그널리스'가 포함됐다.",
+      "category": "gaming",
+      "source": "PlayStation Blog",
+      "sourceUrl": "https://blog.playstation.com/2026/07/28/playstation-plus-monthly-games-for-august-dying-light-2-stay-human-reloaded-edition-big-walk-signalis/",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "무브인터렉티브, 베어브릭 최초 공식 PC MMORPG '베어브릭 히어로즈' 사전예약 시작",
+      "summary": "아트토이 브랜드 베어브릭의 세계관을 기반으로 한 첫 공식 PC MMORPG '베어브릭 히어로즈'가 29일 그랜드 오픈 사전예약을 시작했다. 8월 말 정식 서비스를 앞두고 있다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=318967",
+      "publishedAt": "2026-07-29T04:00:00Z"
     }
   ]
 }
