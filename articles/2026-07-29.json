@@ -72,6 +72,24 @@
       "source": "HuggingFace / GitHub",
       "sourceUrl": "https://github.com/cloneofsimo/lora",
       "publishedAt": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "[Audio] Dots TTS MF 2B: Apache-2.0 48kHz 플로우매칭 TTS (RedNote HiLab, 2026-06)",
+      "summary": "[Audio] Apache-2.0 라이선스. Qwen2.5-1.5B LLM 기반 엔드투엔드 오토리그레시브 TTS. MeanFlow 증류로 2~4 NFE 저지연 추론, 48kHz AudioVAE 출력. 제로샷 보이스 클로닝·감정 표현 지원. cocy.io에서 쓸모: 현재 CosyVoice3 대비 더 경량, 게임 NPC·쇼츠 내레이션 교체 후보로 벤치마크 가치.",
+      "category": "ai-tech",
+      "source": "RedNote HiLab / HuggingFace",
+      "sourceUrl": "https://huggingface.co/dots-studio/dots.tts-mf",
+      "publishedAt": "2026-07-29T03:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Edge] VibeVoice-ASR-BitNet: CPU 실시간 ASR 엣지 엔진 (Microsoft, 2026-07-23)",
+      "summary": "[Edge] 라이선스 미확인(GitHub 확인 필요). 4.62GB→1.58GB 압축, CPU 3스레드 이상에서 GPU 없이 실시간 추론. Transformers 라이브러리 통합. cocy.io에서 쓸모: 그놈(음성피싱) 온디바이스 STT를 GPU 없는 환경으로 확장 가능 — 라이선스 확인 후 도입 검토.",
+      "category": "ai-tech",
+      "source": "Microsoft / GitHub",
+      "sourceUrl": "https://github.com/microsoft/VibeVoice",
+      "publishedAt": "2026-07-23T00:00:00Z"
     }
   ]
 }
