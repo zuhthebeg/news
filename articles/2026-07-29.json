@@ -1,0 +1,86 @@
+{
+  "date": "2026-07-29",
+  "articles": [
+    {
+      "id": "1",
+      "title": "평택 K-55 미군기지 백린 누출로 한때 대피령…36분 만에 해제",
+      "summary": "7월 28일 오후 경기 평택 K-55 미군기지에서 탄약 점검 중 백린탄 2발에서 백린이 흘러나와 인근 주민 대피령이 내려졌다. 미군 EOD가 출동해 안전 조치했고, 누출된 백린이 80% 희석 상태로 위험성이 낮다는 판단에 따라 36분 만에 대피령이 해제됐다. 인명 피해는 없었다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/national/national_general/2026/07/28/V2TRJW3L2NCFPBODAICACXGQME/",
+      "publishedAt": "2026-07-28T08:37:00Z"
+    },
+    {
+      "id": "2",
+      "title": "이재명 대통령, 브라질 국빈방문…룰라 대통령과 정상회담",
+      "summary": "이재명 대통령이 첫 남미 순방 일환으로 브라질을 국빈 방문해 룰라 대통령과 정상회담을 가졌다. 양국은 핵심 광물 공급망, AI, 방위산업 등 협력을 강화하기로 했고 한-메르코수르 무역협정 재개도 논의했다. 이 대통령은 이어 칠레·아르헨티나 순방을 이어간다.",
+      "category": "world",
+      "source": "중앙일보",
+      "sourceUrl": "https://www.joongang.co.kr/article/25448575",
+      "publishedAt": "2026-07-27T15:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "한국은행 기준금리 2.50%→2.75% 인상…3년 6개월 만",
+      "summary": "한국은행 금융통화위원회가 7월 정례회의에서 기준금리를 0.25%포인트 인상했다. 6월 소비자물가 상승률 3.2%, 원/달러 환율 1,500원대 등 물가·환율 부담을 반영한 조치로, 8월 추가 인상 가능성도 거론된다. 6월 신규 주담대 금리는 연 4.36%로 2년 7개월 만에 최고치를 기록했다.",
+      "category": "economy",
+      "source": "MBC",
+      "sourceUrl": "https://imnews.imbc.com/news/2026/econo/article/6840554_36932.html",
+      "publishedAt": "2026-07-29T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "마이크로소프트, AI 공격 대응하는 '프로젝트 퍼셉션' 공개",
+      "summary": "마이크로소프트가 AI 기반 공격에 대응하는 에이전틱 보안 시스템 'Project Perception'을 출시했다. 함께 선보인 MAI-Cyber-1-Flash 모델은 취약점 탐지·복구에서 CyberGym 벤치마크 95.95%를 기록했다고 밝혔다. AI 에이전트 자체가 공격 대상이자 수단이 되는 흐름 속 방어 도구 경쟁이 가속화되고 있다.",
+      "category": "tech",
+      "source": "Cybersecurity Dive",
+      "sourceUrl": "https://www.cybersecuritydive.com/news/microsoft-agentic-security-platform-ai-attacks/826365/",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "OX 시큐리티, '프롬프트-투-런타임' AI 애플리케이션 보안 플랫폼 출시",
+      "summary": "OX 시큐리티가 AI 코딩 에이전트가 작성한 코드부터 배포·런타임까지 전 주기를 보호하는 AINAPP(AI-Native Application Protection Platform)을 공개했다. AI 에이전트가 자율적으로 코드를 작성·실행하는 사례가 늘면서 개발 파이프라인 보안 수요가 커지고 있다.",
+      "category": "tech",
+      "source": "Morningstar/PR Newswire",
+      "sourceUrl": "https://www.morningstar.com/news/pr-newswire/20260728ny12713/ox-security-becomes-first-prompt-to-runtime-security-platform-leading-the-evolving-ainapp-category",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA, 로먼 우주망원경 연료 주입 완료…8월 30일 발사 예정",
+      "summary": "NASA가 낸시 그레이스 로먼 우주망원경의 연료 주입을 마쳤다고 7월 28일 발표했다. 스페이스X 팰컨 헤비에 실려 8월 30일 발사되며, 라그랑주 2점에서 수천 개 외계행성 탐사와 암흑에너지 연구를 수행한다. 연간 500테라바이트 이상의 관측 데이터를 생성할 것으로 예상된다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://science.nasa.gov/blogs/roman/2026/07/27/nasa-fuels-roman-space-telescope-for-late-august-launch/",
+      "publishedAt": "2026-07-27T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "NASA 스위프트 관측위성 구조 민간 미션, 추진체 이상으로 난항",
+      "summary": "카탈리스트 스페이스 테크놀로지스가 노후화된 NASA 스위프트 관측위성을 더 높은 궤도로 밀어올리려던 3천만 달러 규모 민간 구조 임무가 위성 'Link'의 추진체 결함으로 통제 불능 회전에 빠지며 차질을 빚고 있다. 최근 태양 활동 증가로 스위프트의 궤도 이탈 속도가 예상보다 빨라져 올가을 추락 위험이 제기된다.",
+      "category": "science",
+      "source": "News4JAX",
+      "sourceUrl": "https://www.news4jax.com/tech/2026/07/28/private-mission-to-rescue-nasas-aging-telescope-runs-into-its-own-trouble/",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'헤일로: 캠페인 에볼브드' 정식 출시…UE5로 재구현한 오리지널 캠페인",
+      "summary": "언리얼 엔진5로 재구현한 '헤일로: 컴뱃 에볼브드' 리메이크 '헤일로: 캠페인 에볼브드'가 7월 28일 정식 출시됐다. 4인 협동 크로스플레이, 신규 프리퀄 미션 3종 '오퍼레이션 메테오라이트', 42종 스컬 등을 더했다. 비주얼과 향수 자극은 호평받았으나 신규 콘텐츠 부족과 멀티플레이 부재는 아쉬움으로 꼽힌다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/halo-campaign-evolved-review",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "PS플러스, 8월 무료게임에 '다잉라이트 2' 포함…디스크 단종 논란 속 발표",
+      "summary": "소니가 8월 PS플러스 에센셜 무료 게임 3종을 공개했으며 '다잉라이트 2'가 포함됐다. 이번 발표는 소니가 2028년 1월부터 실물 디스크 인쇄를 중단하기로 한 결정에 팬들이 커뮤니티 차원의 보이콧을 예고한 가운데 나왔다.",
+      "category": "gaming",
+      "source": "GAMINGbible",
+      "sourceUrl": "https://www.gamingbible.com/news/platform/playstation/playstation-plus-essential-july-2026-778008-20260728",
+      "publishedAt": "2026-07-28T00:00:00Z"
+    }
+  ]
+}
