@@ -110,15 +110,6 @@
       "publishedAt": "2026-06-04T00:00:00+00:00"
     },
     {
-      "id": "13",
-      "title": "[Image] FLUX 1.2 Klein - 경량 오픈웨이트 생성모델 (Apache 2.0)",
-      "summary": "[Image] Black Forest Labs, FLUX.2 Klein은 경량화 FLUX 모델로 Apache 2.0 라이선스 100% 상업 허용. 복잡 프롬프트·다국어·멀티스타일 생성. cocy.io에서 쓸모: 게임 카드 일괄 생성, 기존 SDXL LoRA 대체 후보, 로컬 GGUF로 4090 소비 절감.",
-      "category": "ai-tech",
-      "source": "Black Forest Labs",
-      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
-      "publishedAt": "2026-01-20T00:00:00+00:00"
-    },
-    {
       "id": "14",
       "title": "[Edge] WebGPU 브라우저 온디바이스 AI 추론 상용화 (84.68% 글로벌 지원)",
       "summary": "[Edge] WebGPU가 3월 2026 W3C 권고 확정. 브라우저에서 5~60배 속도 개선. LiteRT.js·WebLLM·Transformers.js로 음성인식·객체검출·이미지처리를 기기 내 완전 오프라인으로 실행. cocy.io에서 쓸모: 게임 AI 플레이어·음음 분석을 클라단에 옮겨 지연 소거, API 비용 제거.",
@@ -135,15 +126,6 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/charm-research/Charmed-TileMap",
       "publishedAt": "2026-06-10T00:00:00+00:00"
-    },
-    {
-      "id": "16",
-      "title": "[Video] NVIDIA Cosmos3-Edge — 텍스트·이미지→동영상·오디오 통합 생성 (OpenMDW1.1 상업OK)",
-      "summary": "[Video] NVIDIA Cosmos 3 컬렉션 중 엣지 최적화 모델. 텍스트/이미지/비디오/액션 입력 → 동영상+이미지+오디오 동시 생성. Cosmos3-Super-Image2Video-4Step·Text2Image-4Step 특화 변형 포함. 라이선스: OpenMDW1.1 (상업·비상업 모두 허용). cocy.io에서 쓸모: 게임 컷씬·배경 루프 영상 자동 생성, 캐릭터 모션 이미지 배치 대체.",
-      "category": "ai-tech",
-      "source": "Hugging Face / NVIDIA",
-      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Edge",
-      "publishedAt": "2026-07-20T00:00:00+00:00"
     },
     {
       "id": "17",

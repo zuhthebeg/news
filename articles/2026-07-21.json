@@ -16,13 +16,6 @@
       "category": "ai-tech"
     },
     {
-      "id": "3",
-      "title": "[Image] FLUX.2 [klein]: Apache-2.0 상업용 고품질 이미지 생성 모델",
-      "summary": "Black Forest Labs의 FLUX.2 시리즈 중 상업적 이용이 가능한 경량화 버전으로, cocy.io의 게임 에셋 및 UI 디자인 요소 생성에 최적화된 고품질 이미지 모델.",
-      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein",
-      "category": "ai-tech"
-    },
-    {
       "id": "4",
       "title": "[Tool] ai-game-studio: 2D 스프라이트 및 애니메이션 자동 생성 로컬 웹 앱",
       "summary": "텍스트 프롬프트로 2D 게임 스프라이트와 애니메이션을 로컬에서 생성할 수 있는 웹 기반 도구로, cocy.io의 빠른 게임 에셋 프로토타이핑 및 파이프라인 자동화에 유용.",
@@ -45,15 +38,6 @@
       "source": "HuggingFace Blog",
       "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
       "publishedAt": "2026-07-20T00:00:00Z",
-      "category": "ai-tech"
-    },
-    {
-      "id": "7",
-      "title": "[Edge] Transformers.js v4: WebGPU C++ 런타임, WASM 대비 최대 100배 속도",
-      "summary": "[Edge] HuggingFace Transformers.js v4가 C++로 재작성된 WebGPU 런타임을 탑재, WASM 대비 최대 100×, 실용 5~10× 향상. HF Hub 3,000+ 모델 지원, MIT 라이선스. cocy.io에서 쓸모: game.cocy.io 내 온디바이스 AI 추론 — 서버 비용 없이 브라우저에서 직접 실행.",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/transformersjs-v4",
-      "publishedAt": "2026-02-01T00:00:00Z",
       "category": "ai-tech"
     },
     {

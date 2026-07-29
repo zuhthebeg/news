@@ -38,15 +38,6 @@
       "publishedAt": "2026-05-20T09:00:00+09:00"
     },
     {
-      "id": "5",
-      "title": "Black Forest Labs, 이미지 편집 오픈 웨이트 모델 FLUX.1 Kontext [dev] 공개",
-      "summary": "[Image] Black Forest Labs가 120억 파라미터 이미지 편집 모델 FLUX.1 Kontext [dev]를 오픈 웨이트로 공개했다. 텍스트 지시만으로 기존 이미지를 편집하고, 파인튜닝 없이 캐릭터·스타일·오브젝트 일관성을 유지하며 다단계 편집에도 시각적 드리프트가 거의 없다. 개인·과학·상업적 용도로 출력물 활용이 가능하다. cocy.io에서 쓸모: 게임 캐릭터 아트의 일관성 유지 및 반복 수정 워크플로우에 로컬에서 바로 적용 가능.",
-      "category": "ai-tech",
-      "source": "Black Forest Labs / Hugging Face",
-      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.1-Kontext-dev",
-      "publishedAt": "2026-05-01T09:00:00+09:00"
-    },
-    {
       "id": "6",
       "title": "WebGPU, W3C Candidate Recommendation 달성…브라우저 AI 추론 시대 본격화",
       "summary": "[Edge] WebGPU가 2026년 3월 W3C Candidate Recommendation 단계에 도달하며 Chrome, Edge, Firefox에서 안정적으로 지원된다. Transformers.js, WebLLM, ONNX Runtime Web 등 라이브러리와 결합해 브라우저 내에서 Phi-4 Mini·Gemma 3 등 소형 모델을 30ms 이하로 추론하는 것이 가능해졌다. cocy.io에서 쓸모: game.cocy.io 게임에 서버 비용 없이 온디바이스 AI NPC·절차적 콘텐츠 생성 기능을 직접 탑재 가능.",
@@ -54,15 +45,6 @@
       "source": "Zircon Tech / W3C",
       "sourceUrl": "https://zircon.tech/blog/webgpu-just-got-real-what-firefox-141-and-upcoming-safari-mean-for-ai-in-the-browser/",
       "publishedAt": "2026-05-15T09:00:00+09:00"
-    },
-    {
-      "id": "7",
-      "title": "MOSS-TTS, 환경음 SFX 포함 오픈소스 음성·사운드 생성 모델 패밀리 업데이트",
-      "summary": "[Audio] OpenMOSS가 MOSS-TTS 패밀리를 2026년 5월 업데이트했다. 복잡한 실세계 시나리오와 환경 사운드 이펙트(SFX)를 포함한 음성·오디오 생성을 지원하며, MOSS-SoundEffect 컴포넌트가 텍스트 기반 SFX 생성을 담당한다. 오픈소스로 로컬 실행이 가능하다. cocy.io에서 쓸모: 기존 TangoFlux SFX 파이프라인의 대안 또는 보완재로 게임 사운드 이펙트 생성에 활용 가능.",
-      "category": "ai-tech",
-      "source": "OpenMOSS / GitHub",
-      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
-      "publishedAt": "2026-05-28T09:00:00+09:00"
     },
     {
       "id": "8",
@@ -74,15 +56,6 @@
       "publishedAt": "2026-05-20T18:00:00+09:00"
     },
     {
-      "id": "9",
-      "title": "MOSS-SoundEffect-v2.0 출시 — 48kHz 이중언어 SFX 최대 30초 생성",
-      "summary": "[Audio] OpenMOSS가 MOSS-SoundEffect-v2.0을 2026년 5월 26일 공개했다. 텍스트 프롬프트로 48kHz 고품질 이중언어(한/영) 사운드 이펙트를 최대 30초까지 생성한다. 오픈소스이며 로컬 실행 가능. cocy.io에서 쓸모: 기존 TangoFlux 대비 고해상도(48kHz)·이중언어 지원으로 한국어 게임 사운드 제작 파이프라인 업그레이드 가능.",
-      "category": "ai-tech",
-      "source": "OpenMOSS / GitHub",
-      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
-      "publishedAt": "2026-05-26T09:00:00+09:00"
-    },
-    {
       "id": "10",
       "title": "OmniVoice Studio — ElevenLabs 대체 로컬 TTS, 3초 음성 클로닝 지원",
       "summary": "[Tool] OmniVoice Studio가 2026년 5월 오픈소스 데스크탑 앱으로 출시됐다. 3초 클립으로 즉석 음성 클로닝, CosyVoice 3·Kokoro·Qwen3-TTS 등 6개 엔진 내장, 600개 이상 언어, CPU만으로도 전체 파이프라인 구동 가능. cocy.io에서 쓸모: ElevenLabs API 비용 없이 로컬에서 게임 NPC 음성·더빙을 고품질로 생산하는 완전 자립 TTS 파이프라인 구축.",
@@ -90,15 +63,6 @@
       "source": "MarkTechPost",
       "sourceUrl": "https://www.marktechpost.com/2026/05/26/meet-omnivoice-studio-a-local-open-source-alternative-to-elevenlabs/",
       "publishedAt": "2026-05-26T12:00:00+09:00"
-    },
-    {
-      "id": "11",
-      "title": "ByteDance Lance — 3B 파라미터 통합 이미지·영상 생성·편집 모델 HuggingFace 공개",
-      "summary": "[Image][Video] ByteDance가 3B 파라미터 통합 멀티모달 모델 Lance를 2026년 5월 18일 HuggingFace에 공개했다. 이미지 생성·편집·영상 생성을 단일 모델로 처리하며, Gradio UI로 즉시 사용 가능. cocy.io에서 쓸모: 게임 캐릭터 이미지 생성부터 프로모션 영상 클립 제작까지 하나의 경량 모델로 커버 가능.",
-      "category": "ai-tech",
-      "source": "ByteDance / HuggingFace",
-      "sourceUrl": "https://huggingface.co/bytedance-research/Lance",
-      "publishedAt": "2026-05-18T09:00:00+09:00"
     },
     {
       "id": "12",

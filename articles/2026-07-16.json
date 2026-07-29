@@ -83,15 +83,6 @@
       "publishedAt": "2026-07-16T07:15:00Z"
     },
     {
-      "id": "10",
-      "title": "[Audio] MOSS-TTS v1.5: Apache 2.0 음성 합성 프레임워크 업데이트",
-      "summary": "[Audio] 오픈 소스 음성 합성 모음(MOSS-TTS) 시리즈가 최신 버전으로 업그레이드. 제로샷 음성 복제·실시간 에이전트 응답(180ms)·환경음 생성 포함. Apache 2.0 라이선스로 상업 이용 가능. cocy.io에서 쓸모: 게임 NPC 대사 실시간 생성, 멀티플레이 보이스 합성에 직접 적용 가능.",
-      "category": "ai-tech",
-      "source": "OpenMOSS GitHub",
-      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
-      "publishedAt": "2026-06-18T00:00:00Z"
-    },
-    {
       "id": "11",
       "title": "[Audio] Stable Audio Open: 47초 음향 효과 생성 모델",
       "summary": "[Audio] Stability AI가 공개 음향 생성 모델 Stable Audio Open 배포. 텍스트 프롬프트로 드럼비트, 악기 리프, 환경음, 폴리 등 전문 오디오 요소 생성. 47초 길이 제한, Freesound/Free Music Archive 학습 데이터. 커스텀 학습 지원. cocy.io에서 쓸모: 게임 배경음, 사운드 이펙트 자동 생성 파이프라인 구축 가능.",
@@ -153,24 +144,6 @@
       "source": "HuggingFace Blog / Thinking Machines",
       "sourceUrl": "https://huggingface.co/blog/thinkingmachines-inkling",
       "publishedAt": "2026-07-15T00:00:00Z"
-    },
-    {
-      "id": "18",
-      "title": "[Voice] HF+Cerebras 오픈 음성 파이프라인: Parakeet→Gemma 4→Qwen3TTS 모듈형 스택",
-      "summary": "[Voice] Hugging Face와 Cerebras가 공개한 오픈 음성-음성 파이프라인. Nvidia Parakeet(ASR) → Gemma 4 31B(LLM) → Alibaba Qwen3TTS(TTS) 완전 교체형 구조. Cerebras 초고속 추론으로 인간 대화 지연 구현. Qwen3TTS Apache 2.0(상업 이용 가능). cocy.io에서 쓸모: 게임 AI NPC 실시간 대화 시스템 참조 아키텍처, Qwen3TTS 단독 추출해 TTS 파이프라인 교체.",
-      "category": "ai-tech",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/cerebras-gemma4-voice-ai",
-      "publishedAt": "2026-07-01T00:00:00Z"
-    },
-    {
-      "id": "19",
-      "title": "[Edge] vLLM transformers 백엔드 네이티브 속도 달성 — --model-impl transformers 단일 플래그",
-      "summary": "[Edge] HuggingFace가 vLLM의 transformers 모델링 백엔드를 네이티브 구현 대비 동등~초과 속도로 끌어올림.  플래그 하나로 450+ 아키텍처 자동 지원, 텐서 병렬·전문가 병렬 조합 가능. Apache 2.0(상업 이용 가능). cocy.io에서 쓸모: llm-proxy 서버에서 새 HF 모델을 포팅 없이 즉시 고속 서빙, 로컬 Qwen/Gemma 모델 추론 속도 개선.",
-      "category": "ai-tech",
-      "source": "HuggingFace Blog",
-      "sourceUrl": "https://huggingface.co/blog/native-speed-vllm-transformers-backend",
-      "publishedAt": "2026-07-08T00:00:00Z"
     }
   ]
 }

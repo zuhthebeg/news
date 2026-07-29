@@ -47,15 +47,6 @@
       "publishedAt": "2026-05-20T00:00:00+09:00"
     },
     {
-      "id": "6",
-      "title": "Ideogram 4 오픈웨이트 공개 — 타이포그래피·레이아웃 제어 지원, 오픈웨이트 이미지 모델 1위",
-      "summary": "[Image] Ideogram이 9.3B 오픈웨이트 이미지 모델 Ideogram 4를 2026년 6월 3일 공개했다. NF4·FP8 양자화 버전을 제공해 소비자 CUDA GPU에서 로컬 추론이 가능하며, 바운딩박스 레이아웃 제어·컬러 팔레트 지정·다국어 텍스트 렌더링 등 디자인 특화 기능을 갖췄다. Design Arena 오픈웨이트 부문 1위, 타이포그래피 전문가 평가에서도 GPT·Gemini 다음 위치. cocy.io에서 쓸모: 게임 캐릭터 카드·UI 배너 등 텍스트 포함 에셋을 고품질로 로컬 생성하는 SDXL 대체 모델로 즉시 테스트 가능.",
-      "category": "ai-tech",
-      "source": "Hugging Face / Ideogram",
-      "sourceUrl": "https://huggingface.co/ideogram-ai/ideogram-4-nf4",
-      "publishedAt": "2026-06-03T00:00:00+09:00"
-    },
-    {
       "id": "7",
       "title": "Prism ML, 1.21GB 4B 이미지 모델 'Bonsai Image' 공개 — RTX 3080에서 1024px 4.5초",
       "summary": "[Edge] Prism ML이 FLUX.2 Klein 4B를 1.58비트 3진(ternary) 양자화해 트랜스포머를 1.21GB로 압축한 Bonsai Image를 Apache 2.0으로 공개했다. RTX 3080에서 1024×1024 이미지를 4.5초에 생성하며, Gemlite 저비트 GEMM 커널로 Windows와 Linux 모두 네이티브 지원된다. 전체 CUDA 배포 페이로드는 4.55GB. cocy.io에서 쓸모: 현재 RTX 3080 Ti 환경에서 SDXL 대비 빠른 고해상도 게임 에셋 생성 파이프라인 후보로, 한 명령어 셋업으로 즉시 벤치마크 가능.",
@@ -74,24 +65,6 @@
       "publishedAt": "2026-05-20T00:00:00+09:00"
     },
     {
-      "id": "9",
-      "title": "NVIDIA Cosmos 3 오픈 출시 — 텍스트/이미지/비디오/오디오/액션 통합 World Foundation Model",
-      "summary": "[Video] NVIDIA가 옴니모달 월드 파운데이션 모델 Cosmos 3를 오픈소스(Apache 2.0)로 공개했다. 텍스트·이미지·비디오·오디오·로봇 액션 트라젝토리를 단일 아키텍처로 처리하며, HuggingFace에 Cosmos3-Super-Image2Video(65B)를 포함해 여러 스케일 체크포인트를 공개했다. 이전 Cosmos 1·2 대비 멀티모달 이해+생성이 하나로 통합된 것이 핵심. cocy.io에서 쓸모: 게임 스크린샷 → 짧은 시네마틱 클립 변환, 또는 레벨 이미지 → 움직이는 배경 영상 자동 생성 파이프라인 프로토타입에 즉시 활용 가능.",
-      "category": "ai-tech",
-      "source": "NVIDIA / Hugging Face",
-      "sourceUrl": "https://huggingface.co/nvidia/Cosmos3-Super-Image2Video",
-      "publishedAt": "2026-06-02T00:00:00+09:00"
-    },
-    {
-      "id": "10",
-      "title": "Qwen3-TTS 공개 — 3초 레퍼런스 오디오로 음성 복제, 로컬 완전 구동",
-      "summary": "[Audio] Alibaba Cloud Qwen팀이 오픈소스 TTS 모델 시리즈 Qwen3-TTS를 2026년 1월 공개했다. 3초 레퍼런스 오디오만으로 목소리를 복제하고 10개 이상 언어를 지원하며, 실시간 스트리밍 생성도 가능하다. Rust 기반 Crane 프레임워크와 결합하면 서버 없이 로컬에서 완전 구동된다. ElevenLabs(2/월) 대비 완전 무료·온프레미스. cocy.io에서 쓸모: 고스톱 콜 음성 및 게임 캐릭터 보이스를 cocy 목소리로 클로닝해 추가 녹음 없이 새 대사 생성하는 파이프라인에 바로 투입 가능.",
-      "category": "ai-tech",
-      "source": "GitHub / QwenLM",
-      "sourceUrl": "https://github.com/QwenLM/Qwen3-TTS",
-      "publishedAt": "2026-01-22T00:00:00+09:00"
-    },
-    {
       "id": "11",
       "title": "Chrome 148 Prompt API 정식 안정화 — Gemini Nano 브라우저 내 온디바이스 추론",
       "summary": "[Edge] Google Chrome 148(2026년 5월)에서 Prompt API가 안정(stable)으로 전환됐다. Gemini Nano를 브라우저 내 온디바이스로 실행하며 멀티모달 입력과 구조화된 출력을 지원, 서버 호출 없이 게임 내 AI 기능 구현이 가능해졌다. Microsoft Edge도 Phi-4 기반 동일 API를 제공 중. WebGPU 데스크톱 지원률 70% 초과. cocy.io에서 쓸모: game.cocy.io 게임에 외부 API 비용 없이 힌트·튜토리얼 생성, 텍스트 분류, 경량 NPC 대화 등 인게임 AI 기능을 브라우저 단에서 구현 가능.",
@@ -108,15 +81,6 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/docs/transformers.js",
       "publishedAt": "2026-02-01T00:00:00+09:00"
-    },
-    {
-      "id": "13",
-      "title": "MOSS-SoundEffect 오픈소스 공개 — 텍스트 제어 가능한 게임/영상 SFX 특화 모델",
-      "summary": "[Audio] OpenMOSS 팀이 MOSS-TTS 패밀리에 SFX 특화 모델 MOSS-SoundEffect를 추가 공개했다. 텍스트 프롬프트와 지속 시간(duration)을 직접 제어할 수 있어 게임·영화·인터랙티브 콘텐츠에 최적화됐으며, 넓은 카테고리의 효과음을 커버한다. Apache 2.0 라이선스로 상업적 사용 가능. cocy.io에서 쓸모: 현재 TangoFlux 파이프라인의 duration 제어 한계를 보완할 대안으로, 특히 정해진 애니메이션 타이밍에 맞는 길이의 SFX를 생성하는 용도에 비교 테스트 권장.",
-      "category": "ai-tech",
-      "source": "GitHub / OpenMOSS",
-      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
-      "publishedAt": "2026-05-15T00:00:00+09:00"
     }
   ]
 }

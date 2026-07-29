@@ -38,15 +38,6 @@
       "publishedAt": "2026-07-01T10:00:00+09:00"
     },
     {
-      "id": "5",
-      "title": "샤오미 Dasheng-AudioGen: 음성·음악·SFX·환경음 통합 생성 모델 (Apache-2.0)",
-      "summary": "[Audio] 샤오미 리서치가 오픈소스로 공개한 Dasheng-AudioGen은 단일 모델로 음성(TTS)·음악·효과음·환경음을 텍스트 프롬프트로 동시 생성하는 통합 오디오 생성 모델이다. <|speech|><|sfx|><|music|><|env|> 구조화 태그로 레이어별 세밀하게 제어하며, GGUF 양자화 버전(Q4/Q8, Metal·CUDA 지원)도 함께 배포됐다. 라이선스: Apache-2.0. cocy.io에서 쓸모: TangoFlux+ACE-Step 2개 파이프라인을 이 모델 하나로 대체해 게임 오디오 생성 스택을 단순화할 수 있다.",
-      "category": "ai-tech",
-      "source": "Hugging Face / mispeech",
-      "sourceUrl": "https://huggingface.co/mispeech/Dasheng-AudioGen",
-      "publishedAt": "2026-07-01T10:00:00+09:00"
-    },
-    {
       "id": "6",
       "title": "Google Magenta RealTime 2: 스트리밍 실시간 음악 생성 모델 PyTorch 포트 공개",
       "summary": "[Audio] Google DeepMind의 Magenta RealTime 2가 Apache-2.0(코드) + CC-BY 4.0(웨이트) 라이선스로 공개됐고, 커뮤니티에서 즉시 PyTorch 포트를 제작해 JAX/TFLite 없이 로컬 실행이 가능해졌다. DepthFormer LLM + SpectroStream RVQ 코덱 구조로 40ms 단위 청크를 실시간 스트리밍 생성하며, 'lo-fi hip hop'→'drum and bass' 식으로 스타일을 실시간 전환할 수 있다. cocy.io에서 쓸모: 게임 내 상황 변화에 따라 BGM을 실시간으로 전환하는 adaptive music 시스템 구현에 활용 가능.",

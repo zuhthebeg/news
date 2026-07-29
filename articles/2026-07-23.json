@@ -119,24 +119,6 @@
       "publishedAt": "2026-06-01T00:00:00+00:00"
     },
     {
-      "id": "14",
-      "title": "[Image] TripoSplat — 2D 이미지를 고품질 3D 가우시안으로 변환",
-      "summary": "[Image] VAST AI Research가 공개한 오픈소스 3D 자산 생성 도구. 단일 2D 이미지에서 고급 3D 개체 생성, 가변 품질 가우시안 스플래팅. cocy.io 게임 배경소품 3D 모델, AR 포털 에셋, 게임 캐릭터 루깅(rigging) 초기 자산 생성 자동화에 즉시 활용.",
-      "category": "ai-tech",
-      "source": "GitHub (VAST-AI-Research/TripoSplat)",
-      "sourceUrl": "https://github.com/VAST-AI-Research/TripoSplat",
-      "publishedAt": "2026-06-15T00:00:00+00:00"
-    },
-    {
-      "id": "15",
-      "title": "[Tool] Game Asset MCP — Hugging Face AI 모델을 MCP로 게임 에셋 생성",
-      "summary": "[Tool] MubarakHAlketbi 개발 MCP 서버: Flux/Qwen 기반 2D 게임 에셋 생성(\"gokaygokay\" LoRA) + InstantMesh/Hunyuan3D로 3D 모델 생성. PNG/OBJ/GLB 자동 저장, Claude Desktop/OpenClaw에서 직접 통합 가능. cocy.io 게임 카드·캐릭터·소품 일괄 생성 파이프라인 완성.",
-      "category": "ai-tech",
-      "source": "GitHub (MubarakHAlketbi/game-asset-mcp)",
-      "sourceUrl": "https://github.com/MubarakHAlketbi/game-asset-mcp",
-      "publishedAt": "2026-07-01T00:00:00+00:00"
-    },
-    {
       "id": "16",
       "title": "Chatterbox-Nano — CPU 실시간 3배, 110M TTS (MIT 라이선스)",
       "summary": "[TTS] Resemble AI가 공개한 MIT 라이선스 경량 TTS 모델. 110M 파라미터로 CPU 8코어에서 실시간 대비 3배 속도 생성, 1-step 디코더로 지연 최소화. [laugh][cough] 등 paralinguistic 태그 네이티브 지원. cocy.io에서 쓸모: 게임 NPC 대사·보이스에이전트를 서버리스 CPU 환경에서 저비용 생성 가능.",
@@ -153,15 +135,6 @@
       "source": "Neuphonic / HuggingFace",
       "sourceUrl": "https://huggingface.co/neuphonic/neutts-2e",
       "publishedAt": "2026-07-23T00:00:00+00:00"
-    },
-    {
-      "id": "18",
-      "title": "LTX-2.3 — 오디오+비디오 동시 생성 22B I2V 모델 (커뮤니티 라이선스)",
-      "summary": "[Video] Lightricks의 22B 오디오-비디오 동시 생성 모델 최신 업데이트. 8-step 디스틸드 버전 제공, 이미지→영상+사운드 동시 생성(단일 모델). 커뮤니티 라이선스(연 매출 $10M 미만 상업 사용 가능). cocy.io에서 쓸모: 게임 트레일러·소개영상의 BGM+영상을 한 번에 생성, Wan2.x I2V 대체 검토.",
-      "category": "ai-tech",
-      "source": "Lightricks / HuggingFace",
-      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3",
-      "publishedAt": "2026-07-09T00:00:00+00:00"
     },
     {
       "id": "19",

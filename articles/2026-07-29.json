@@ -11,15 +11,6 @@
       "publishedAt": "2026-07-29T00:00:00Z"
     },
     {
-      "id": "2",
-      "title": "[Audio] Fish Audio S2 Pro: 1000만 시간 훈련된 오픈웨이트 TTS (3월 2026)",
-      "summary": "[Audio] 1000만 시간 다국어 오디오로 훈련한 프로덕션급 모델. 100ms TTFA(Time-To-First-Audio) 달성. SGLang 스트리밍 엔진으로 실시간 음성 생성. cocy.io에서 쓸모: 실시간 멀티플레이 음성 동기화, 스트리밍 게임 NPC 대사의 극저지연 솔루션.",
-      "category": "ai-tech",
-      "source": "Fish Audio",
-      "sourceUrl": "https://github.com/fishaudio/fish-speech",
-      "publishedAt": "2026-07-29T00:00:00Z"
-    },
-    {
       "id": "3",
       "title": "[Audio] Step Audio EditX: Elo 점수 1위 감정·스타일 편집 음성 모델",
       "summary": "[Audio] Apache-2.0 라이선스. Artificial Analysis Speech Arena 블라인드 테스트에서 상업 모델 제치고 1위 평가. 감정(분노/슬픔/중립 등)과 스타일 편집 가능. cocy.io에서 쓸모: 게임 캐릭터 음성의 표현력 있는 톤 생성, NPC 대사 감정 조절.",
@@ -35,24 +26,6 @@
       "category": "ai-tech",
       "source": "NVIDIA / HuggingFace",
       "sourceUrl": "https://huggingface.co/blog/nvidia/cosmos3edge",
-      "publishedAt": "2026-07-29T00:00:00Z"
-    },
-    {
-      "id": "5",
-      "title": "[Video] LTX-2.3: 4K 50fps + 스테레오 오디오 동기 영상 생성 (Lightricks, 2026-03)",
-      "summary": "[Video] 22B 파라미터 DiT 모델. 네이티브 4K 50fps, 스테레오 24kHz 오디오 동시 생성으로 영상과 음성 동기화 보장. GitHub·HuggingFace 오픈소스. cocy.io에서 쓸모: 게임 인트로/아웃트로 컷신 생성, 스토리 영상의 자동 효과음 동기화.",
-      "category": "ai-tech",
-      "source": "Lightricks / GitHub",
-      "sourceUrl": "https://github.com/sapientlabs/ltx-video",
-      "publishedAt": "2026-07-29T00:00:00Z"
-    },
-    {
-      "id": "6",
-      "title": "[Image] FLUX.2 Klein: Apache-2.0 오픈소스 이미지 생성 모델",
-      "summary": "[Image] Black Forest Labs FLUX.2 시리즈. Klein은 Apache-2.0 라이선스로 상업용 자유. 4K 메가픽셀 네이티브, 타이포그래피·사진 현실감·이미지 참조 개선. cocy.io에서 쓸모: 게임 카드·배경·UI 아트 생성, SDXL·FLUX.1 대비 더 빠른 연속 배치 생성.",
-      "category": "ai-tech",
-      "source": "Black Forest Labs",
-      "sourceUrl": "https://github.com/black-forest-labs/flux",
       "publishedAt": "2026-07-29T00:00:00Z"
     },
     {
@@ -81,15 +54,6 @@
       "source": "RedNote HiLab / HuggingFace",
       "sourceUrl": "https://huggingface.co/dots-studio/dots.tts-mf",
       "publishedAt": "2026-07-29T03:00:00Z"
-    },
-    {
-      "id": "10",
-      "title": "[Edge] VibeVoice-ASR-BitNet: CPU 실시간 ASR 엣지 엔진 (Microsoft, 2026-07-23)",
-      "summary": "[Edge] 라이선스 미확인(GitHub 확인 필요). 4.62GB→1.58GB 압축, CPU 3스레드 이상에서 GPU 없이 실시간 추론. Transformers 라이브러리 통합. cocy.io에서 쓸모: 그놈(음성피싱) 온디바이스 STT를 GPU 없는 환경으로 확장 가능 — 라이선스 확인 후 도입 검토.",
-      "category": "ai-tech",
-      "source": "Microsoft / GitHub",
-      "sourceUrl": "https://github.com/microsoft/VibeVoice",
-      "publishedAt": "2026-07-23T00:00:00Z"
     }
   ]
 }

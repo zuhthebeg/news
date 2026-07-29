@@ -20,15 +20,6 @@
       "publishedAt": "2026-07-28T00:00:00Z"
     },
     {
-      "id": "3",
-      "title": "[Image] FLUX.1-dev: 게임 카드·캐릭터 아트의 고품질 로컬 생성 모델",
-      "summary": "[Image] Black Forest Labs의 FLUX.1-dev는 SDXL 대비 더 섬세한 디테일과 텍스트 정렬도를 제공한다. cocy.io는 이 모델을 GGUF Q5_K_S 양자화로 로컬 실행(장당 ~64초, VRAM 9.8GB)해 고스톱 콜 카드·조커런 보스·타로 아트 배치를 자동 생성 중이며, 검각·글리프 폴백 함정 회피법이 정립됐다.",
-      "category": "ai-tech",
-      "source": "Black Forest Labs",
-      "sourceUrl": "https://github.com/black-forest-labs/flux",
-      "publishedAt": "2026-07-28T00:00:00Z"
-    },
-    {
       "id": "4",
       "title": "[Video] LTX-2.3·Wan2.7: 캐릭터 모션 I2V 생성 파이프라인 검증",
       "summary": "[Video] LTX-2.3·Wan2.7 같은 오픈소스 I2V(Image-to-Video) 모델은 정적 캐릭터 일러스트를 걷기·공격·피격 루프 영상으로 변환한다. cocy.io에서 rembg로 배경 제거 후 샘플 생성했으며, 모션 품질 판정과 시트화 파이프라인이 준비 상태다. 서비스 확정 시 4090 인프라 투입 예정.",
@@ -54,42 +45,6 @@
       "source": "Alibaba Qwen",
       "sourceUrl": "https://huggingface.co/Qwen/Qwen2-VL-32B-Instruct",
       "publishedAt": "2026-07-28T00:00:00Z"
-    },
-    {
-      "id": "7",
-      "title": "LTX-2.3-22b-LoRA-Foley-V2A: 영상→SFX 동기 포리 생성 LoRA (Lightricks)",
-      "summary": "[Audio] LTX-2.3-22B 기반 Video-to-Audio Foley LoRA. 무음 영상+텍스트 프롬프트로 발걸음·충격음·환경음 등 영상에 동기된 SFX를 생성한다. 라이선스 미확인(gated 모델, 로그인 필요). cocy.io에서 쓸모: 게임 컷신/트레일러 영상에 SFX를 자동 합성하는 포리 파이프라인 구성에 활용 가능.",
-      "category": "ai-tech",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
-      "publishedAt": "2026-07-27T00:00:00Z"
-    },
-    {
-      "id": "8",
-      "title": "Stable Audio 3 Small SFX: 0.6B 상업용 로컬 텍스트→효과음 모델 (Stability AI)",
-      "summary": "[Audio] 0.6B 경량 SFX 전용 모델. 모바일·노트북에서 실행 가능. Stability AI Community License(연매출 $1M 미만 상업 OK). cocy.io에서 쓸모: 기존 TangoFlux 대체/병행 후보. 게임 타격음·UI음·환경음을 WSL 로컬에서 배치 생성 가능.",
-      "category": "ai-tech",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
-      "publishedAt": "2026-05-19T00:00:00Z"
-    },
-    {
-      "id": "9",
-      "title": "Chatterbox Nano: MIT 110M CPU TTS — 병렬언어 태그 지원 (ResembleAI)",
-      "summary": "[TTS] MIT 라이선스. 110M 파라미터, CPU 8코어에서 실시간 3배 속도. 1스텝 디코더로 지연 최소화. [cough][laugh][chuckle] 등 paralingustic 태그 네이티브 지원. cocy.io에서 쓸모: 게임 NPC 보이스/고스톱 콜 음성 생성 후보. 로컬 CPU에서 배치 실행 가능.",
-      "category": "ai-tech",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox-nano",
-      "publishedAt": "2026-07-21T00:00:00Z"
-    },
-    {
-      "id": "10",
-      "title": "Inflect-Micro-v2: Apache-2.0 초경량 9M 파라미터 TTS (owensong)",
-      "summary": "[TTS] Apache-2.0 라이선스. 9.35M 파라미터, 37MB FP32, 24kHz 출력. ONNX 내보내기·파인튜닝 툴킷 포함. 어제 업데이트(v2 신규 출시). cocy.io에서 쓸모: 브라우저 WASM 탑재 가능 수준 초소형 TTS. 그놈 페이지 온디바이스 음성 합성 또는 게임 내 경량 알림음 생성에 적합.",
-      "category": "ai-tech",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "publishedAt": "2026-07-27T00:00:00Z"
     },
     {
       "id": "11",
@@ -135,15 +90,6 @@
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/news/security/openai-models-used-artifactory-zero-days-to-escape-to-the-internet/",
       "publishedAt": "2026-07-28T00:00:00Z"
-    },
-    {
-      "id": "16",
-      "title": "vBulletin 포럼 소프트웨어, 인증 없이 원격코드실행 가능한 공개 익스플로잇 등장",
-      "summary": "vBulletin 6.2.1 이하 버전에 존재하는 사전인증 원격코드실행 취약점(CVE-2026-61511)의 공개 익스플로잇이 등장했다. 공격자는 인증 없이 ajax/render 엔드포인트에 조작된 요청을 보내 PHP eval() 함수를 통해 임의 코드를 실행할 수 있어, 미패치 포럼 서버의 즉각적인 업데이트가 요구된다.",
-      "category": "tech",
-      "source": "BleepingComputer",
-      "sourceUrl": "https://www.bleepingcomputer.com/news/security/vbulletin-fixes-critical-pre-auth-rce-flaw-with-public-exploit/",
-      "publishedAt": "2026-07-27T00:00:00Z"
     },
     {
       "id": "17",

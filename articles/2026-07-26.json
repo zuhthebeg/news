@@ -83,24 +83,6 @@
       "publishedAt": "2026-07-23T00:00:00+00:00"
     },
     {
-      "id": "10",
-      "title": "[Audio] Bark: MIT 라이선스 멀티링글 음성·효과음 생성 모델",
-      "summary": "Suno AI의 Bark는 MIT 라이선스 오픈소스 텍스트-오디오 모델로, 다국어 음성, 음악, 효과음, 웃음·한숨 등 비음성 사운드를 생성할 수 있다. 4GB 이하 GPU에서 실행 가능하며 상업 용도 허용. cocy.io에서 게임 배경음·NPC 음성·SFX를 로컬에서 생성할 때 즉시 활용 가능.",
-      "category": "ai-tech",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/suno-ai/bark",
-      "publishedAt": "2026-07-26T00:00:00+09:00"
-    },
-    {
-      "id": "11",
-      "title": "[Video] Wan2.2-I2V: Apache 2.0 이미지-동영상 생성 모델(MoE 아키텍처)",
-      "summary": "Alibaba Tongyi의 Wan2.2는 Apache 2.0 라이선스 오픈소스 이미지-투-비디오 모델로, 720p/24fps로 고품질 동영상을 생성한다. Mixture-of-Experts 구조로 효율성 극대화. cocy.io 게임 배경·캐릭터 애니메이션 생성, 컷신 자동화에 직결 가능.",
-      "category": "ai-tech",
-      "source": "GitHub",
-      "sourceUrl": "https://github.com/Wan-Video/Wan2.2",
-      "publishedAt": "2026-07-26T00:00:00+09:00"
-    },
-    {
       "id": "12",
       "title": "[Image] FLUX 3 Early Access: 멀티모달 이미지·영상·음성 생성 모델",
       "summary": "[Image] FLUX 3: 멀티모달 이미지·영상·음성 생성. 복잡한 프롬프트 처리 능력 향상, 다국어 텍스트 생성 정확도 높음. Dev 가중치(상업 라이선스 필요) 추후 공개 예정. cocy.io 게임 카드·캐릭터·배경 일괄 생성, 컷신 음성 동기화에 활용 가능.",
@@ -128,24 +110,6 @@
       "publishedAt": "2026-07-26T00:00:00+09:00"
     },
     {
-      "id": "15",
-      "title": "[Audio] Chatterbox Multilingual v3: MIT 라이선스 제로샷 음성 클로닝",
-      "summary": "[Audio] Resemble AI의 Chatterbox v3(2026-06-10 출시). MIT 라이선스. 0.5B Llama 기반, 500,000시간 학습. 5초 레퍼런스 오디오로 제로샷 음성 클로닝, 10개 언어 지원. 블라인드 테스트에서 ElevenLabs 대비 선호도 우세. cocy.io에서 쓸모: 고스톱 콜 음성 보완·게임 캐릭터 TTS를 서버비 없이 로컬 생성 가능.",
-      "category": "ai-tech",
-      "source": "Resemble AI / HuggingFace",
-      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
-      "publishedAt": "2026-06-10T00:00:00+00:00"
-    },
-    {
-      "id": "16",
-      "title": "[Audio] Dia2: Apache 2.0 감정 제어 대화형 TTS",
-      "summary": "[Audio] Dia2(2026-04 출시). Apache 2.0 라이선스. 스트리밍 생성·다이얼로그 우선·비음성 태그로 감정·톤 제어 지원. 실시간 대화 합성에 최적화. cocy.io에서 쓸모: 게임 NPC 대화 음성을 감정 태그로 자동 생성, 음성 녹음 없이 캐릭터 음성 세트 완성 가능.",
-      "category": "ai-tech",
-      "source": "BentoML / HuggingFace",
-      "sourceUrl": "https://huggingface.co/nari-labs/Dia-1.6B",
-      "publishedAt": "2026-04-01T00:00:00+00:00"
-    },
-    {
       "id": "17",
       "title": "[Audio] MOSS-Transcribe-Diarize 0.9B: INTERSPEECH 2026 1위 오픈소스 전사 모델",
       "summary": "[Audio] OpenMOSS의 MOSS-Transcribe-Diarize 0.9B(2026-07-09 오픈소스화). 50+ 언어, 최대 90분 단일 패스 멀티스피커 전사+화자분리+타임스탬프. INTERSPEECH 2026 MLC-SLM Challenge 1위(14개 언어). ⚠️ 라이선스 미확인(상업 사용 전 GitHub 확인 필요). cocy.io에서 쓸모: 그놈 보이스피싱 앱 STT 백엔드 교체·게임 음성 데이터 레이블링 자동화.",
@@ -153,15 +117,6 @@
       "source": "GitHub / HuggingFace",
       "sourceUrl": "https://github.com/OpenMOSS/MOSS-Transcribe-Diarize",
       "publishedAt": "2026-07-09T00:00:00+00:00"
-    },
-    {
-      "id": "18",
-      "title": "[Edge] Transformers.js v4: WebGPU 완전 지원으로 브라우저 추론 3~10배 가속",
-      "summary": "[Edge] HuggingFace Transformers.js v4(2026-02 출시). Apache 2.0 라이선스. WebGPU 백엔드 완전 채택으로 v3 대비 3~10배 속도 향상. Whisper STT·이미지 분류·텍스트 생성 등 HuggingFace Hub 모델 브라우저에서 직접 실행. WebGPU 미지원 시 WASM 자동 폴백. cocy.io에서 쓸모: 게임 내 온디바이스 채점·분류·STT를 서버 없이 브라우저에서 처리.",
-      "category": "ai-tech",
-      "source": "HuggingFace",
-      "sourceUrl": "https://huggingface.co/docs/transformers.js",
-      "publishedAt": "2026-02-01T00:00:00+00:00"
     },
     {
       "id": "19",

@@ -20,24 +20,6 @@
       "publishedAt": "2026-04-01T00:00:00Z"
     },
     {
-      "id": "3",
-      "title": "FLUX.2 [klein] 4B: Apache 2.0 서브세컨드 이미지 생성, RTX 3080 Ti에서 동작",
-      "summary": "[Image] Black Forest Labs의 FLUX.2 [klein] 4B(Jan 2026, Apache 2.0). VRAM 8.4~13GB, 서브세컨드 T2I·인페인팅·멀티레퍼런스 단일 체크포인트. 텍스트 렌더링·포토리얼리스틱 조명 강점. ComfyUI 지원. 라이선스: Apache 2.0. cocy.io에서 쓸모: 기존 FLUX.1-dev보다 훨씬 빠른 게임 카드/배경 아트 파이프라인으로 전환 가능.",
-      "category": "ai-tech",
-      "source": "Black Forest Labs / HuggingFace",
-      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
-      "publishedAt": "2026-01-15T00:00:00Z"
-    },
-    {
-      "id": "4",
-      "title": "LTX-Video 2.3: Apache 2.0 오픈소스 비디오, 4K + 오디오 동기화 지원",
-      "summary": "[Video] Lightricks의 LTX-2.3(Mar 2026, Apache 2.0). 네이티브 4K, 최대 50fps, 오디오 동기화 생성. I2V·T2V 모두 지원. $10M ARR 이하 기업 무료 상업 사용 가능. GitHub/HuggingFace에 가중치·코드 공개. 라이선스: Apache 2.0. cocy.io에서 쓸모: 게임 트레일러·인트로 컷씬 자동 생성(오디오까지 묶어서).",
-      "category": "ai-tech",
-      "source": "Lightricks / HuggingFace",
-      "sourceUrl": "https://huggingface.co/Lightricks/LTX-Video",
-      "publishedAt": "2026-03-05T00:00:00Z"
-    },
-    {
       "id": "5",
       "title": "Wan 2.7: Apache 2.0 I2V 모델, 첫/마지막 프레임 제어 + 멀티이미지 입력",
       "summary": "[Video] Alibaba의 Wan 2.7(Apr 2026, Apache 2.0). 이미지→비디오 변환에서 첫 프레임+마지막 프레임 동시 지정, 멀티이미지 입력 지원. T2V도 가능. HuggingFace/GitHub 가중치 공개. 라이선스: Apache 2.0. cocy.io에서 쓸모: 게임 캐릭터 스프라이트(정지 이미지)를 걷기 루프 애니메이션으로 자동 변환하는 파이프라인 구축.",

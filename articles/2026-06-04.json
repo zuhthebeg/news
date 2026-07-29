@@ -47,15 +47,6 @@
       "publishedAt": "2026-05-20T00:00:00+09:00"
     },
     {
-      "id": "6",
-      "title": "OmniVoice — 600개 언어 제로샷 음성 클로닝 모델, HuggingFace 공개",
-      "summary": "[Audio] k2-fsa 팀이 600개 이상의 언어를 지원하는 제로샷 음성 클로닝·TTS 모델 OmniVoice를 HuggingFace에 공개했다(2026년 4월). 짧은 참조 오디오 하나만으로 화자의 목소리를 복제해 원하는 텍스트를 합성할 수 있으며, 다국어 게임 내레이션·NPC 대사 더빙에 최적화된 구조다. 오픈소스라 로컬 실행이 가능하다. cocy.io에서 쓸모: 맞고/마작 NPC 콜 더빙, 다국어 게임 나레이션 자동 생성에 외부 API 없이 활용 가능.",
-      "category": "ai-tech",
-      "source": "Hugging Face — k2-fsa/OmniVoice",
-      "sourceUrl": "https://huggingface.co/k2-fsa/OmniVoice",
-      "publishedAt": "2026-04-01T00:00:00+09:00"
-    },
-    {
       "id": "7",
       "title": "ACE-Step v1.5 XL — 소비자 GPU에서 상업급 음악 생성, 50개 언어 지원",
       "summary": "[Audio] ACE-Step v1.5 XL이 2026년 4월 2일 공개됐다. 오픈소스 음악 파운데이션 모델로, RTX 3080급 소비자 GPU에서 상업 수준의 BGM을 생성할 수 있으며 50개 이상의 언어 텍스트 프롬프트를 지원한다. 멜로디 편집·스타일 전이 기능도 포함돼 있어 기존 v1.5 대비 품질과 프롬프트 정확도가 크게 향상됐다. cocy.io에서 쓸모: 로컬 RTX 3080 Ti 환경(TOOLS.md 기준)에서 바로 실행 가능, 게임 BGM 파이프라인 품질 업그레이드에 즉시 적용 가능.",

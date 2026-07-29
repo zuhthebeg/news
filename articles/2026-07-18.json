@@ -20,15 +20,6 @@
       "publishedAt": "2026-07-17T10:47:00Z"
     },
     {
-      "id": "3",
-      "title": "정은경 복지부 장관 \"청년 소득보장 필요…내년 시범사업 목표\"",
-      "summary": "정은경 장관이 AI 시대 고용구조 변화에 대응하는 청년 특화 소득보장 제도를 구상 중이라고 밝혔다. 하반기 논의 후 내년 시범사업 도입을 목표로 한다.",
-      "category": "domestic",
-      "source": "파이낸셜뉴스",
-      "sourceUrl": "https://www.fnnews.com/news/202607171225405895",
-      "publishedAt": "2026-07-17T12:25:00Z"
-    },
-    {
       "id": "4",
       "title": "중국 '키미 K3' AI 모델 공개…OpenAI·Anthropic 추격",
       "summary": "중국 AI 스타트업 문샷AI가 세계인공지능대회(WAIC)에서 차세대 고성능 오픈소스 모델 '키미 K3'를 공개했다. 벤치마크 점수 57점으로 글로벌 3위를 차지하며 압도적 가격 대비 성능을 강점으로 내세웠다.",
@@ -54,15 +45,6 @@
       "source": "BleepingComputer",
       "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-july-2026-patch-tuesday-fixes-massive-570-flaws-3-zero-days/",
       "publishedAt": "2026-07-15T00:00:00Z"
-    },
-    {
-      "id": "7",
-      "title": "JAXA, 화성 위성 탐사선 MMX 2026년 발사…포보스 샘플 2031년 귀환",
-      "summary": "일본우주항공연구개발기구(JAXA)가 화성의 위성 포보스에서 샘플을 채취해 2031년 지구로 귀환하는 MMX 미션을 준비 중이다. NASA·ESA 등 국제 협력 프로젝트로 화성 위성 샘플 귀환은 세계 최초다.",
-      "category": "science",
-      "source": "사이언스타임즈",
-      "sourceUrl": "https://www.sciencetimes.co.kr/nscvrg/view/menu/248?searchCategory=220&nscvrgSn=261321",
-      "publishedAt": "2026-07-17T00:00:00Z"
     },
     {
       "id": "8",
@@ -101,15 +83,6 @@
       "publishedAt": "2026-07-12T00:00:00Z"
     },
     {
-      "id": "12",
-      "title": "[Image] FLUX.2 [klein] 4B 상업 라이선스 버전 확산…SDXL 완전 대체",
-      "summary": "Black Forest Labs의 FLUX.2 [klein] 4B가 Apache 2.0 라이선스로 상업 이용 가능하면서 소형 모델 생태계 재편 중이다. LoRA 파인튜닝과 ControlNet 지원으로 게임 캐릭터/아트 일관성 파이프라인에 적합. cocy.io에서 쓸모: 조커런·마작 카드 아트, 타로/행성 일러스트 로컬 생성의 SDXL-turbo 상위 버전.",
-      "category": "ai-tech",
-      "source": "HuggingFace Model Hub",
-      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein",
-      "publishedAt": "2026-07-15T00:00:00Z"
-    },
-    {
       "id": "13",
       "title": "[Edge] 브라우저 AI 2026년 대전환: WebGPU 모든 브라우저 탑재, LLM·음성처리 클라이언트 실행",
       "summary": "WebGPU W3C 후보 권장안 확정 및 주요 브라우저 탑재로 브라우저 로컬 AI 추론이 '데모'에서 '프로덕션'으로 전환. 100M-3B 규모 모델의 음성/이미지 처리가 서버 비용 없이 실시간 처리 가능. cocy.io에서 쓸모: 게임 음악게임 음성 인식, 로그 사진 분류 AI를 로컬 edge inference로 전환하여 운영비 절감.",
@@ -135,15 +108,6 @@
       "source": "HuggingFace / Wan-AI",
       "sourceUrl": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
       "publishedAt": "2026-07-13T00:00:00Z"
-    },
-    {
-      "id": "16",
-      "title": "[Audio] NVIDIA Nemotron-Labs-Audex-30B-A3B: 텍스트→오디오 30B 모델 공개 (라이선스 미확인)",
-      "summary": "[Audio] NVIDIA가 7월 6일 업데이트한 30B 오디오 생성 모델. 텍스트 프롬프트로 음악·SFX·대화를 생성. ⚠️ HF 라이선스 'other' — 상업 사용 전 NVIDIA 약관 직접 확인 필수. cocy.io에서 쓸모: TangoFlux 대비 대형 모델로 고품질 SFX/BGM 생성 파이프라인 후보, 라이선스 확인 후 채택 여부 결정.",
-      "category": "ai-tech",
-      "source": "HuggingFace / NVIDIA",
-      "sourceUrl": "https://huggingface.co/nvidia/Nemotron-Labs-Audex-30B-A3B",
-      "publishedAt": "2026-07-06T00:00:00Z"
     },
     {
       "id": "17",

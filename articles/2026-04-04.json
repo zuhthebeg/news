@@ -29,15 +29,6 @@
       "id": "3"
     },
     {
-      "id": "4",
-      "title": "OpenAI raises $122 billion to accelerate the next phase of AI",
-      "summary": "OpenAI announced a massive new funding round aimed at scaling the next phase of AI development, reinforcing demand for frontier-model infrastructure, products, and distribution.",
-      "category": "ai-tech",
-      "source": "openai.com",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE92bDc0Y3Myc2RjdHlZVUNEdVN4SjMzZVJlcjRVR3V1UzRCT3NqRHdkbXp5dFdUdUpUcUdGYVVoNS1DX0xUbHJSYXpDbkRTYnpGbGVwMFl2RTFsWmp2N0RvYjhZOW1NWTg?oc=5",
-      "publishedAt": "2026-03-31T20:07:12Z"
-    },
-    {
       "id": "5",
       "title": "Anthropic leaked 500,000 lines of its own source code",
       "summary": "A leak tied to Claude Code exposed a large chunk of Anthropic internal code, turning AI coding-agent security and privacy practices into the week's biggest Claude-related story.",

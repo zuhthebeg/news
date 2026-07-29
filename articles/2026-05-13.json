@@ -38,42 +38,6 @@
       "id": "4"
     },
     {
-      "title": "소니 AI의 Woosh, 텍스트·영상 기반 효과음 생성 모델과 ComfyUI 노드 제공",
-      "summary": "[Audio] Woosh는 Sony AI가 공개한 효과음 생성 모델군으로, 텍스트→오디오와 영상→오디오를 모두 지원하고 4스텝 증류 모델도 포함한다.\nComfyUI-Woosh 노드가 있어 기존 이미지·영상 제작 플로우에 바로 연결하기 쉽다. cocy.io에서 쓸모: 게임 프로토타입의 충돌음·전환음·환경음을 영상/프롬프트 기반으로 빠르게 뽑는 SFX 파이프라인 후보가 된다.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/nikosan2026/Woosh",
-      "publishedAt": "2026-05-11T19:33:57+09:00",
-      "id": "5"
-    },
-    {
-      "title": "ACE-Step 1.5, 4GB 미만 VRAM 목표의 상업용 친화 오픈소스 음악 생성 모델",
-      "summary": "[Audio] ACE-Step 1.5는 소비자 GPU에서 동작하도록 설계된 오픈소스 음악 생성 모델로, 모델 카드 기준 RTX 3090에서 10초 이내 전곡 생성과 4GB 미만 VRAM 구동을 내세운다.\n라이선스·학습 데이터 설명도 창작자 사용을 의식해 정리돼 있다. cocy.io에서 쓸모: 로컬 BGM 생성 워크플로우를 더 가볍게 만들고 게임별 짧은 루프 음악을 빠르게 양산하는 후보로 검토할 만하다.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/lk2525/Ace-Step1.5",
-      "publishedAt": "2026-05-10T17:34:50+09:00",
-      "id": "6"
-    },
-    {
-      "title": "Zeta-Chroma, Z-Image 기반 ComfyUI용 이미지 파인튜닝 모델 급부상",
-      "summary": "[Image] Zeta-Chroma는 Tongyi-MAI의 Z-Image를 기반으로 한 텍스트→이미지 파인튜닝 모델이며, Hugging Face에서 WIP 상태지만 ComfyUI 사용 가능 워크플로우를 함께 공개했다.\n좋아요와 커뮤니티 반응이 빠르게 붙고 있어 최신 이미지 스타일 실험용 후보로 볼 만하다. cocy.io에서 쓸모: SDXL/Flux 외의 캐릭터·프로모션 이미지 스타일 소스를 확보해 게임 썸네일 A/B 테스트에 활용할 수 있다.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/lodestones/Zeta-Chroma",
-      "publishedAt": "2026-05-13T09:45:27+09:00",
-      "id": "7"
-    },
-    {
-      "title": "FLUX.2 Klein 4B ONNX WebGPU q4 번들, CUDA 없는 로컬 이미지 생성 실험 경로 제시",
-      "summary": "[Edge] FLUX.2 Klein 4B를 ONNX Runtime WebGPU용 q4 번들로 내보낸 저장소가 공개됐다. headless Chromium 안의 WebGPU 런타임과 로컬 API를 통해 CUDA/ROCm 없이 256px 기본 이미지 생성을 목표로 한다.\n아직 실험적이지만 브라우저 기반 로컬 추론 구조가 명확하다. cocy.io에서 쓸모: 향후 tool.cocy.io에 서버 비용 없는 클라이언트/엣지 이미지 생성 데모를 붙일 때 구조 참고자료가 된다.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/MarkShark2/flux2-klein-4b-onnx-webgpu-q4",
-      "publishedAt": "2026-05-01T11:59:55+09:00",
-      "id": "8"
-    },
-    {
       "title": "Qwen3-TTS 계열 파인튜닝, 다국어 TTS 실험 모델이 빠르게 갱신",
       "summary": "[Audio] qwen-tts/Qwen3-TTS 태그의 tts-v8-step-3000은 2026-05-13에 갱신된 다국어 TTS 체크포인트로, safetensors와 Apache-2.0 태그가 붙어 있다. cocy.io에서 쓸모: 한국어·영어 UI 음성/게임 캐릭터 대사 생성 후보를 로컬 파인튜닝 관점에서 추적할 가치가 있다.",
       "category": "ai-tech",

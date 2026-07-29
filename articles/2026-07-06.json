@@ -38,24 +38,6 @@
       "publishedAt": "2026-07-01T12:00:00+09:00"
     },
     {
-      "id": "5",
-      "title": "video-use: Claude Code 기반 오픈소스 영상 자동 편집 에이전트",
-      "summary": "[Tool] browser-use 팀이 공개한 video-use는 원본 영상 폴더를 가리키면 Claude Code 에이전트가 자동으로 필러 단어 제거·색보정·자막 삽입·애니메이션 오버레이 생성까지 처리해 최종 mp4를 출력하는 오픈소스 파이프라인이다. ffmpeg, ElevenLabs, HyperFrames/Remotion 등 다양한 툴을 병렬 서브에이전트로 구동하며, 컷 경계 자가 평가와 세션 메모리(project.md) 기능도 갖췄다. GitHub 이번 주 트렌딩 4위(주간 4,288 star). 라이선스: 오픈소스(MIT 계열). cocy.io에서 쓸모: 게임 트레일러·스크린샷 영상 자동 편집 파이프라인을 에이전트 기반으로 구성하는 데 바로 적용 가능하다.",
-      "category": "ai-tech",
-      "source": "GitHub (browser-use/video-use)",
-      "sourceUrl": "https://github.com/browser-use/video-use",
-      "publishedAt": "2026-07-05T10:00:00+09:00"
-    },
-    {
-      "id": "6",
-      "title": "LTX-Video 13B v0.9.8: 실시간 DiT 기반 영상 생성 모델 최신 업데이트",
-      "summary": "[Video] Lightricks의 LTX-Video가 13B 파라미터 규모의 v0.9.8 버전으로 업데이트됐다. 1216×704 해상도·30FPS 영상을 실시간보다 빠르게 생성하는 DiT 아키텍처를 채택했으며, 고품질(dev)·균형(mix)·속도(distilled) 세 가지 추론 모드를 ComfyUI 워크플로우로 지원한다. 이미지투비디오(I2V) 기능도 포함됨. 라이선스: Lightricks LTXV 커스텀 라이선스(상업적 사용 허용, 세부 조건 확인 권장). cocy.io에서 쓸모: 게임 소개 영상·캐릭터 애니메이션 프리뷰를 로컬에서 빠르게 생성할 때 SDXL 대체로 검토 가능하다.",
-      "category": "ai-tech",
-      "source": "HuggingFace (Lightricks/LTX-Video)",
-      "sourceUrl": "https://huggingface.co/Lightricks/LTX-Video",
-      "publishedAt": "2026-07-06T10:00:00+09:00"
-    },
-    {
       "id": "7",
       "title": "Meetily: Parakeet·Whisper 기반 100% 로컬 AI 회의 전사 툴 (주간 3천 star)",
       "summary": "[Edge] Meetily는 NVIDIA Parakeet(또는 Whisper)로 실시간 음성 전사, Ollama로 요약을 처리하는 완전 로컬·오프라인 AI 회의 어시스턴트로, macOS·Windows 지원한다. 클라우드 전송 없이 17,000 star를 돌파하며 GitHub 이번 주 트렌딩에 올랐다. Rust 기반 백엔드로 4배 빠른 전사 속도를 구현했다. 라이선스: 오픈소스(저장소 확인됨, MIT 계열). cocy.io에서 쓸모: 게임 대사 녹음·QA 피드백 세션의 음성 기록 자동화, 로컬 파이프라인 구축에 참고 가능하다.",
@@ -63,42 +45,6 @@
       "source": "GitHub (Zackriya-Solutions/meetily)",
       "sourceUrl": "https://github.com/Zackriya-Solutions/meetily",
       "publishedAt": "2026-07-05T10:00:00+09:00"
-    },
-    {
-      "id": "8",
-      "title": "Stable Audio 3 Small SFX — 게임 효과음 전용 0.6B 오디오 diffusion 모델",
-      "summary": "[SFX] Stability AI의 게임·효과음 특화 소형 diffusion 모델. 짧은 효과음(충돌·UI·환경음)을 빠르게 생성하며 인페인팅·가변 길이 지원. MacBook M4 기준 수 초 내 완료, H200은 2초 미만. 상업 학습 데이터(라이선스드+CC) 기반. 라이선스: stable-audio-community(연매출 $1M 미만 상업 사용 무료, 초과 시 Enterprise). cocy.io에서 쓸모: 현재 TangoFlux 기반 SFX 파이프라인의 상업 라이선스 대체 후보 — 로컬 RTX 3080 Ti에서 배치 생성 테스트 우선.",
-      "category": "ai-tech",
-      "source": "HuggingFace (stabilityai/stable-audio-3-small-sfx)",
-      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
-      "publishedAt": "2026-05-19T00:00:00Z"
-    },
-    {
-      "id": "9",
-      "title": "Stable Audio 3 Optimized — 특정 하드웨어 가속용 실험 체크포인트 (4일 전 업데이트)",
-      "summary": "[Audio] Stable Audio 3 Medium 기반으로 H100 등 특정 GPU에서 추론 속도를 극대화하는 최적화 체크포인트. 4일 전 업데이트된 따끈한 버전. 표준 추론엔 Medium 권장이며 이 레포는 하드웨어별 가속 실험용. 라이선스: stable-audio-community(상업 $1M 미만 무료). cocy.io에서 쓸모: ACE-Step BGM 파이프라인과 병행 벤치마크 대상 — 서버 GPU에서 BGM 배치 속도가 관건일 때 비교 테스트.",
-      "category": "ai-tech",
-      "source": "HuggingFace (stabilityai/stable-audio-3-optimized)",
-      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-optimized",
-      "publishedAt": "2026-07-02T00:00:00Z"
-    },
-    {
-      "id": "10",
-      "title": "Chatterbox Multilingual V3 — MIT 0.5B 다국어 제로샷 보이스 클로닝 TTS",
-      "summary": "[TTS] ResembleAI의 오픈소스(MIT) 다국어 TTS. 0.5B 파라미터로 23개 언어 제로샷 보이스 클로닝 지원. V3에서 화자 유사도 향상·환각 감소·자연스러운 대화체 개선. 단일 언어 특화 파인튜닝 팩(6개 언어)도 동시 출시. 라이선스: MIT(완전 상업 허용). cocy.io에서 쓸모: 게임 캐릭터 한국어·영어 대화 음성 생성, 고스톱 다국어 음성 파이프라인 확장에 즉시 적용 가능.",
-      "category": "ai-tech",
-      "source": "HuggingFace (ResembleAI/chatterbox)",
-      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
-      "publishedAt": "2026-06-11T00:00:00Z"
-    },
-    {
-      "id": "11",
-      "title": "OmniVoice — 600개 언어 제로샷 TTS, RTF 0.025로 실시간 40배 속도",
-      "summary": "[TTS] k2-fsa(Kaldi 팀)의 다국어 zero-shot TTS. 현존 최다인 600+ 언어 커버, Qwen3-0.6B 기반 diffusion language model 아키텍처로 실시간 대비 40배 속도(RTF 0.025). 보이스 클로닝 + 성별·나이·억양 등 속성 기반 보이스 디자인 내장. 비언어 심볼([laughter] 등) 제어 지원. 3일 전 업데이트. ⚠️라이선스 미확인(HF 명시 없음, GitHub 확인 필요). cocy.io에서 쓸모: 글로벌 게임 다국어 UI 음성을 단일 모델로 처리 — 한국어 포함 확인 후 도입 검토.",
-      "category": "ai-tech",
-      "source": "HuggingFace (k2-fsa/OmniVoice)",
-      "sourceUrl": "https://huggingface.co/k2-fsa/OmniVoice",
-      "publishedAt": "2026-07-03T00:00:00Z"
     },
     {
       "id": "12",

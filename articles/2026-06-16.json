@@ -38,15 +38,6 @@
       "publishedAt": "2026-05-20T09:00:00+09:00"
     },
     {
-      "id": "5",
-      "title": "Chatterbox TTS — MIT 라이선스 제로샷 음성 복제, HuggingFace 2만5천 스타",
-      "summary": "[TTS] Resemble AI가 공개한 Chatterbox는 MIT 라이선스 오픈소스 TTS로, 5초 샘플만으로 제로샷 음성 복제가 가능하고 감정 강도 조절이 업계 최초로 지원된다. 500M 파라미터 Llama 백본 기반으로 ElevenLabs 대비 우수한 평가를 받고 있으며, 6월 11일 기준 GitHub 25k 스타로 HuggingFace 트렌딩 상위권. `pip install chatterbox-tts` 한 줄로 설치 가능. cocy.io에서 쓸모: 고스톱·게임 캐릭터 목소리 커스텀 생성 및 다국어 나레이션에 즉시 활용 가능, 상업 이용 제한 없음.",
-      "category": "ai-tech",
-      "source": "GitHub / Resemble AI",
-      "sourceUrl": "https://github.com/resemble-ai/chatterbox",
-      "publishedAt": "2026-06-11T00:00:00+09:00"
-    },
-    {
       "id": "6",
       "title": "Microsoft Edge에 온디바이스 AI 내장 — Aion 모델·번역·음성인식 API 공개",
       "summary": "[Edge] Microsoft가 6월 2일 Edge 148에서 온디바이스 소형 언어 모델 Aion-1.0-Instruct와 번역(Translator)·언어 감지(Language Detector)·음성인식(Web Speech API) 기능을 공개했다. Aion은 Phi-4-mini보다 작고 빠르며 저사양 GPU 및 CPU에서도 동작하는 것을 목표로 한다. Build 2026 발표로 WSL3 NPU 패스스루도 포함. 라이선스 미확인: Aion 모델 오픈소스 공개는 2026년 7월 예정. cocy.io에서 쓸모: game.cocy.io 등 웹게임에 서버리스 온디바이스 추론(번역·챗봇)을 붙일 수 있는 브라우저 내장 AI API 사전 검토 가치 있음.",
@@ -81,24 +72,6 @@
       "source": "SourcePulse / GitHub bytedance",
       "sourceUrl": "https://www.sourcepulse.org/projects/30889668",
       "publishedAt": "2026-06-01T00:00:00+09:00"
-    },
-    {
-      "id": "10",
-      "title": "Transformers.js 4 — WebGPU 크로스 런타임 통합, 브라우저·Node·Deno 일관 추론",
-      "summary": "[Edge] HuggingFace가 2026년 2월 Transformers.js 4를 출시. 브라우저·Node.js·Deno·Bun 등 모든 JS 런타임에서 WebGPU 성능을 일관되게 제공하는 새 WebGPU 런타임 탑재. ONNX 포맷 모델 1200+종 즉시 사용 가능. `pipeline(\"text-generation\", \"Qwen/Qwen3-1.7B-ONNX\", { device: \"webgpu\" })` 패턴으로 브라우저 내 GPU 추론. 8.8kB 독립 토크나이저 라이브러리 분리 제공. MIT/Apache-2.0. cocy.io에서 쓸모: game.cocy.io 웹게임에 서버 없이 온디바이스 LLM/분류/번역 기능을 WebGPU로 바로 붙이는 핵심 라이브러리, 현재 WebGPU 브라우저 지원률 82%.",
-      "category": "ai-tech",
-      "source": "HuggingFace Blog / Gemini Research",
-      "sourceUrl": "https://huggingface.co/blog/transformersjs-v4",
-      "publishedAt": "2026-02-01T00:00:00+09:00"
-    },
-    {
-      "id": "11",
-      "title": "Wandler — Transformers.js+WebGPU 기반 OpenAI 호환 로컬 추론 서버 (2026.06)",
-      "summary": "[Edge][Tool] 2026년 6월 출시된 Wandler는 Transformers.js와 WebGPU를 백엔드로 OpenAI 호환 HTTP API를 노출하는 TypeScript 기반 경량 추론 서버. 서버에 GPU 없어도 WebGPU로 JS 런타임에서 LLM 로컬 서빙 가능. 라이선스 미확인(GitHub 오픈소스 프로젝트, 확인 필요). cocy.io에서 쓸모: llm.cocy.io 프록시 보완용으로 클라우드 비용 없이 소형 모델을 WSL 로컬에서 OpenAI API 형식으로 서빙하는 저비용 사이드카 검토 가치 있음.",
-      "category": "ai-tech",
-      "source": "HuggingFace / Gemini Research",
-      "sourceUrl": "https://huggingface.co/blog/transformersjs-v4",
-      "publishedAt": "2026-06-10T00:00:00+09:00"
     }
   ]
 }

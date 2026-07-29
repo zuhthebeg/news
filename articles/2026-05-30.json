@@ -29,15 +29,6 @@
       "publishedAt": "2026-05-30T00:00:00+09:00"
     },
     {
-      "id": "4",
-      "title": "MOSS-SoundEffect-v2.0 출시 — 게임용 효과음 48kHz 이중언어 생성",
-      "summary": "[Audio] OpenMOSS 팀이 5월 26일 MOSS-SoundEffect-v2.0을 공개했다. DiT 백본에 Flow Matching 기법을 사용해 자연환경·도시·생체음·인간동작 등 다양한 카테고리의 효과음을 48kHz 품질로 최대 30초까지 생성하며, 한국어·영어 이중언어 프롬프트를 지원한다. cocy.io에서 쓸모: game.cocy.io 게임에 텍스트 한 줄로 즉시 맞춤 SFX를 생성해 TangoFlux 파이프라인의 대안으로 활용 가능.",
-      "category": "ai-tech",
-      "source": "GitHub / OpenMOSS",
-      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
-      "publishedAt": "2026-05-26T00:00:00+09:00"
-    },
-    {
       "id": "5",
       "title": "Bonsai Image 4B — iPhone에서 돌아가는 초경량 Flux 이미지 생성 모델",
       "summary": "[Image] PrismML이 FLUX.2 Klein 4B 기반의 1-bit·Ternary 양자화 이미지 생성 모델 Bonsai Image 4B를 5월 26일 공개했다. 디퓨전 트랜스포머 용량을 FP16 대비 최대 8.3배 압축(0.93GB)해 아이폰·노트북에서 오프라인 이미지 생성이 가능하며, 오픈 가중치로 배포된다. cocy.io에서 쓸모: 로컬 SDXL 파이프라인 대신 모바일 기기에서도 게임 에셋 이미지 생성을 운용할 수 있어 외부 API 비용 제거에 유리.",
@@ -81,15 +72,6 @@
       "source": "Stability AI",
       "sourceUrl": "https://stability.ai/news-updates/meet-stable-audio-3-the-model-family-built-for-artistic-experimentation-with-open-weight-models",
       "publishedAt": "2026-05-20T00:00:00+09:00"
-    },
-    {
-      "id": "10",
-      "title": "ByteDance Lance 3B — 이미지·비디오 이해·생성·편집 통합 멀티모달 모델",
-      "summary": "[Image][Video] ByteDance Research가 5월 18일 공개한 Lance는 3B 파라미터 네이티브 유니파이드 멀티모달 모델로, 단일 프레임워크에서 이미지·비디오 이해·생성·편집을 모두 처리한다. HuggingFace·GitHub에 추론 코드와 모델 가중치 공개, Gradio Space는 5월 25일 오픈. cocy.io에서 쓸모: 게임 캐릭터 이미지 생성부터 게임 영상 편집까지 단일 모델로 처리 가능. 3B라 로컬 VRAM 부담도 SDXL 대비 낮을 수 있음.",
-      "category": "ai-tech",
-      "source": "ByteDance / HuggingFace",
-      "sourceUrl": "https://huggingface.co/bytedance-research/Lance",
-      "publishedAt": "2026-05-18T00:00:00+09:00"
     },
     {
       "id": "11",

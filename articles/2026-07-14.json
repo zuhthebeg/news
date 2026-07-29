@@ -103,24 +103,6 @@
       "publishedAt": "2026-07-14T07:45:00"
     },
     {
-      "id": "10",
-      "title": "[Audio] MOSS-TTS 패밀리 Apache 2.0 오픈소스: 8B 음성합성 + SoundEffect v2.0 SFX 생성",
-      "summary": "[Audio] OpenMOSS 팀이 MOSS-TTS 패밀리를 Apache 2.0 라이선스로 공개(5월 26일 릴리스). 8B 매개변수 음성생성, MOSS-SoundEffect v2.0은 1.3B 확산 모델로 텍스트에서 타겟 사운드 이펙트/환경음 생성(48kHz 브로드캐스트 품질). 로컬 Transformer 4B/1.7B 경량 모델도 제공. cocy.io 리듬게임/라운드 코인 라벨 음성 생성에 즉시 활용 가능.",
-      "category": "ai-tech",
-      "source": "GitHub - OpenMOSS/MOSS-TTS",
-      "sourceUrl": "https://github.com/OpenMOSS/MOSS-TTS",
-      "publishedAt": "2026-07-14T09:00:00"
-    },
-    {
-      "id": "11",
-      "title": "[Image] FLUX.2 [klein] 4B Apache 2.0 상업용 오픈소스 릴리스(1월 15일)",
-      "summary": "[Image] Black Forest Labs FLUX.2 [klein] 4B 모델을 Apache 2.0으로 공개(2026년 1월 15일). 소비자 GPU(RTX 3090/4070)에서 1초 이내 텍스트→이미지 생성, 이미지 편집·다중 참조 생성 통합. 상업 사용·커스터마이징 완전 자유. FLUX.2 autoencoder도 Apache 2.0 공개. cocy.io 게임 카드/캐릭터 아트 로컬 생성 파이프라인 대체 가능.",
-      "category": "ai-tech",
-      "source": "GitHub - black-forest-labs/flux2",
-      "sourceUrl": "https://github.com/black-forest-labs/flux2",
-      "publishedAt": "2026-07-14T09:15:00"
-    },
-    {
       "id": "12",
       "title": "[Edge] Transformers.js v4 WebGPU 백엔드 + Llama 3.2 3B 브라우저 로컬 추론(2월 2026)",
       "summary": "[Edge] Transformers.js v4(2026년 2월 릴리스)에서 WebGPU 백엔드 추가로 이전 대비 3~10배 속도 향상. Llama 3.2 3B이 웹브라우저에서 초당 60토큰 생성. 게임 임베딩, AI 번역, 에이전트 추론을 클라이언트 GPU로 가속(네트워크 지연·프라이버시 개선). cocy.io 포탈/도구 페이지의 에이전트 상담, 게임 내 AI 동반자에 최적.",
@@ -155,15 +137,6 @@
       "source": "GitHub - hexgrad/kokoro",
       "sourceUrl": "https://github.com/hexgrad/kokoro",
       "publishedAt": "2026-07-01T00:00:00"
-    },
-    {
-      "id": "16",
-      "title": "[Image] Krea 2 Raw/Turbo 출시: DiT 아키텍처 T2I·커뮤니티 라이선스 상업 허용",
-      "summary": "[Image] Krea가 2026년 6월 22일 Krea 2 Raw(품질 최적화)·Turbo(속도 최적화) 2종 공개. Diffusion Transformer 아키텍처, 텍스트-이미지 생성·개념 탐색·비주얼 프로덕션 워크플로 설계. 사용자 생성 콘텐츠 저작권 Krea 미주장. 라이선스: Krea 2 Community License(상업·창작·개발자 용도 허용). cocy.io에서 쓸모: 게임 카드 아트·배경 개념 스케치 고속 생성 파이프라인을 SDXL 대체로 실험 가능.",
-      "category": "ai-tech",
-      "source": "HuggingFace - krea/Krea-2-Raw",
-      "sourceUrl": "https://huggingface.co/krea/Krea-2-Raw",
-      "publishedAt": "2026-06-22T00:00:00"
     },
     {
       "id": "17",

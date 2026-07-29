@@ -11,15 +11,6 @@
       "publishedAt": "2026-01-15T00:00:00Z"
     },
     {
-      "id": "2",
-      "title": "[Audio] Kokoro-82M: CPU 인퍼런스 경량 TTS 모델, 54개 음성 8언어",
-      "summary": "[Audio] 2026년 6월 공개된 Kokoro-82M은 82M 파라미터로 최소 VRAM 또는 CPU에서 실행 가능한 경량 텍스트음성변환 모델. 54개 음색 8개 언어 지원. cocy.io에서 쓸모: 엣지 배포와 모바일 웹뷰에서 빠른 나레이션 생성이 필요한 미니게임이나 튜토리얼에 최적화된 경량 솔루션.",
-      "category": "ai-tech",
-      "source": "GitHub Kokoro",
-      "sourceUrl": "https://github.com/hexgrad/kokoro",
-      "publishedAt": "2026-06-20T00:00:00Z"
-    },
-    {
       "id": "3",
       "title": "[Audio] MM Audio 2: 텍스트→30초 사운드이펙트 생성, 제어 강도 조절 가능",
       "summary": "[Audio] 2024년 12월 공개된 MM Audio 2는 텍스트 프롬프트로 최대 30초 고품질 사운드이펙트를 생성하는 오픈소스 모델. Guidance strength 제어로 창의성과 정확성 밸런스 조정 가능. cocy.io에서 쓸모: 게임 효과음·풋스텝·충돌음·UI 사운드를 자동으로 생성해 사운드 디자인 파이프라인 자동화 가능.",
@@ -47,15 +38,6 @@
       "publishedAt": "2026-05-01T00:00:00Z"
     },
     {
-      "id": "6",
-      "title": "[Audio] MOSS-SoundEffect v2.0: DiT+FlowMatch 기반 48kHz SFX 생성 (Apache 2.0)",
-      "summary": "[Audio] OpenMOSS의 SFX 전용 DiT 모델. Qwen3 텍스트 인코더 + Flow Matching으로 환경음·도시음·생물음·인간동작음 최대 30초 48kHz 생성. Apache 2.0 상업 허용. cocy.io에서 쓸모: TangoFlux 대체 후보로 게임 SFX 파이프라인에 투입 가능, 로컬 RTX 3080 Ti에서 구동 예상.",
-      "category": "ai-tech",
-      "source": "HuggingFace / OpenMOSS-Team",
-      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
-      "publishedAt": "2026-05-26T00:00:00Z"
-    },
-    {
       "id": "7",
       "title": "[Image] Microsoft Mage-Flow: MIT 라이선스 4B T2I+편집 통합 모델, 4-step Turbo 지원",
       "summary": "[Image] 마이크로소프트가 공개한 4B 규모 네이티브해상도 이미지생성·편집 통합 스택. Mage-VAE + NR-MMDiT 구조, 4-step Turbo·RL-aligned 변형 포함. MIT 라이선스. cocy.io에서 쓸모: 게임 아트(카드/캐릭터) 빠른 배치 생성에 FLUX.1 대비 경량 대안, Turbo로 초안 → dev로 고품질 워크플로우 가능.",
@@ -71,24 +53,6 @@
       "category": "ai-tech",
       "source": "HuggingFace / owensong",
       "sourceUrl": "https://huggingface.co/owensong/Inflect-Micro-v2",
-      "publishedAt": "2026-07-27T00:00:00Z"
-    },
-    {
-      "id": "9",
-      "title": "[Audio] Stable Audio 3 Medium: 2B BGM+SFX 인페인팅 지원, 커뮤니티 라이선스 (매출 1M$ 이하 무료)",
-      "summary": "[Audio] Stability AI의 경량 오디오 생성 모델. 2B 파라미터, 인페인팅·인아웃페인팅·오디오 연장 지원, H2 GPU에서 2초 이내 생성. Stability 커뮤니티 라이선스(연매출 1M$ 이하 무료 상업 이용). cocy.io에서 쓸모: 기존 ACE-Step 대비 인페인팅으로 BGM 구간 수정·루프 연장 가능, SFX small도 병행 운용.",
-      "category": "ai-tech",
-      "source": "HuggingFace / stabilityai",
-      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-medium",
-      "publishedAt": "2026-06-16T00:00:00Z"
-    },
-    {
-      "id": "10",
-      "title": "[Video] LTX-2.3-22b-LoRA-Foley-V2A: 무음 영상→Foley SFX 자동 싱크 생성 (라이선스 미확인)",
-      "summary": "[Video] Lightricks LTX-2.3-22B 기반 Foley LoRA. 무음 영상 입력으로 장면 동기화된 SFX를 텍스트 없이도 자동 생성. 영상→오디오 파이프라인. ⚠️라이선스 미확인 (HF 게이트 모델, 개인정보 동의 필요). cocy.io에서 쓸모: 게임 컷신·트레일러 영상에 Foley 음향 자동 합성 워크플로우 구축 가능, 상업 이용 전 라이선스 별도 확인 필요.",
-      "category": "ai-tech",
-      "source": "HuggingFace / Lightricks",
-      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
       "publishedAt": "2026-07-27T00:00:00Z"
     },
     {

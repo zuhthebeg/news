@@ -29,15 +29,6 @@
       "publishedAt": "2026-06-11T04:00:00+09:00"
     },
     {
-      "id": "4",
-      "title": "Google DeepMind, 온디바이스 실시간 음악 생성 모델 'Magenta RealTime 2' 공개",
-      "summary": "[Audio] Google DeepMind가 저지연 실시간 스트리밍 음악 생성 모델 Magenta RealTime 2를 오픈소스로 공개했다. 코드 Apache 2.0, 모델 웨이트 CC-BY 4.0 라이선스로 상업 활용 가능하며, 온디바이스 스트리밍 제어와 라이브 인터랙티브 음악 생성에 최적화되어 있다. cocy.io에서 쓸모: 게임 BGM 실시간 생성·적응형 사운드트랙 파이프라인의 오픈소스 기반으로 활용 가능.",
-      "category": "ai-tech",
-      "source": "HuggingFace / Google DeepMind",
-      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
-      "publishedAt": "2026-06-11T09:00:00+09:00"
-    },
-    {
       "id": "5",
       "title": "Microsoft, 300ms 초저지연 실시간 TTS 'VibeVoice Realtime 0.5B' 오픈소스 공개",
       "summary": "[TTS] Microsoft가 0.5B 파라미터 경량 실시간 TTS 모델 VibeVoice Realtime을 Apache 2.0으로 공개했다. 스트리밍 텍스트 입력을 지원하고 첫 오디오 출력까지 약 300ms로 게임·챗봇 실시간 음성 합성에 적합하다. Qwen2.5-0.5B 기반으로 로컬 GPU에서 구동 가능. cocy.io에서 쓸모: 고스톱 등 게임 캐릭터 대사 실시간 TTS나 AI 게임 해설 음성 생성에 바로 적용 가능.",
@@ -71,15 +62,6 @@
       "category": "ai-tech",
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/dror201031/DreamLite-mobile-ONNX-WebGPU",
-      "publishedAt": "2026-06-11T09:00:00+09:00"
-    },
-    {
-      "id": "9",
-      "title": "Higgs Audio v3 TTS 4B — 100개 언어·인라인 감정 태그·24kHz 오픈소스 TTS",
-      "summary": "[Audio] Boson AI의 Higgs Audio v3 TTS 4B가 100개 이상 언어를 지원하는 4B 파라미터 TTS 모델로 공개됐다. 텍스트 내 <whisper>, <shout>, <sing> 등 인라인 감정·스타일 태그를 직접 삽입해 세밀한 발화 제어가 가능하며 첫 오디오 출력까지 1초 미만, 24kHz 고품질 출력을 지원한다. 8-코드북 AR 디코더 구조. cocy.io에서 쓸모: 게임 캐릭터별 다국어 보이스 생성 및 고스톱 콜 음성 대체·보완 파이프라인으로 즉시 테스트 가능.",
-      "category": "ai-tech",
-      "source": "HuggingFace / Boson AI",
-      "sourceUrl": "https://huggingface.co/bosonai/higgs-audio-v3-tts-4b",
       "publishedAt": "2026-06-11T09:00:00+09:00"
     },
     {

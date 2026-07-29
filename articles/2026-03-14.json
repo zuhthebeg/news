@@ -47,15 +47,6 @@
       "publishedAt": "2026-03-14T06:30:00+09:00"
     },
     {
-      "title": "Introducing Claude Sonnet 4.6",
-      "summary": "Anthropic unveiled Claude Sonnet 4.6, highlighting stronger frontier performance for coding, agent workflows, and professional tasks at scale.",
-      "category": "ai-tech",
-      "source": "Anthropic",
-      "sourceUrl": "https://www.anthropic.com/news/claude-sonnet-4-6",
-      "publishedAt": "2026-02-17T00:00:00Z",
-      "id": "6"
-    },
-    {
       "title": "Claude is a space to think",
       "summary": "Anthropic says Claude will remain ad-free and frames this as a trust and product-design decision while expanding access through non-ad business models.",
       "category": "ai-tech",
