@@ -143,6 +143,33 @@
       "url": "https://github.com/google/mediapipe",
       "tags": ["motion-capture", "pose-detection", "animation", "game-dev"],
       "addedAt": "2026-07-28"
+    },
+    {
+      "title": "Bark-Multi-Audio-Gen",
+      "description": "Suno AI Bark 모델로 다국어 음성합성 및 비언어음(웃음, 신음 등) 생성. 16개 언어, 4GB VRAM 이하, MIT 상업 허용. 게임 다국어 내레이션 자동화, 캐릭터 음성 효과음 즉시 생성.",
+      "icon": "🎵",
+      "category": "media",
+      "url": "https://huggingface.co/suno/bark",
+      "tags": ["tts", "audio-gen", "multilingual", "sound-effects"],
+      "addedAt": "2026-07-30"
+    },
+    {
+      "title": "Kokoro-Lightweight-TTS-Offline",
+      "description": "82M 파라미터 초경량 음성합성 모델. Apache 2.0 라이선스, 45+ 음성/악센트 지원. CPU 추론 가능, 엣지 디바이스/임베디드 시스템 배포 최적화. 게임 로컬 음성 렌더링, API 호출 비용 제거.",
+      "icon": "🎙️",
+      "category": "dev",
+      "url": "https://huggingface.co/hexgrad/Kokoro-82M",
+      "tags": ["tts", "edge-ai", "lightweight", "offline-inference"],
+      "addedAt": "2026-07-30"
+    },
+    {
+      "title": "Phi-4-Small-LLM-Local",
+      "description": "Microsoft Phi-4 14.6B 파라미터 소형 언어모델. MIT 라이선스 상업 허용, 수학/코드/상식 추론 강화. 웹/모바일 로컬 추론 가능(GGUF 양자화). 게임 NPC 대사 생성, 서비스 백엔드 소형 에이전트 배포, 저비용 고성능 대체.",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://huggingface.co/microsoft/phi-4",
+      "tags": ["llm", "small-model", "edge-ai", "code-reasoning"],
+      "addedAt": "2026-07-30"
     }
   ]
 }
