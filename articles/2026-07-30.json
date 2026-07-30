@@ -81,6 +81,51 @@
       "source": "조선일보",
       "sourceUrl": "https://www.chosun.com/economy/tech_it/2026/07/28/RL3J2VQYMZFTZAYIBFC6M5CGQU/",
       "publishedAt": "2026-07-28T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Nunchaku 4비트 Diffusion 추론, Diffusers에 네이티브 통합",
+      "summary": "[Tool][Image] HuggingFace 공식 블로그(2026-07-23)에서 SVDQuant 기반 Nunchaku 엔진을 Diffusers에 통합 발표. FLUX 등 대형 diffusion transformer를 W4A4(가중치+활성값 4비트)로 양자화해 VRAM을 줄이면서 추론 속도도 개선(기존 weight-only 양자화는 속도 개선이 없었음). from_pretrained()로 바로 로드, 로컬 CUDA 컴파일 불필요. cocy.io에서 쓸모: 로컬 FLUX.1-dev 카드아트 생성(3080Ti 12GB)의 속도/VRAM 병목을 그대로 줄여줄 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nunchaku-diffusers",
+      "publishedAt": "2026-07-23T00:00:00.000Z"
+    },
+    {
+      "id": "11",
+      "title": "ACE-Step v1.5 비공식 ONNX WebGPU 포트 공개",
+      "summary": "[Audio][Edge] emb1ter가 HuggingFace에 ACE-Step/acestep-v15-xl-turbo(4.17B 디퓨전 트랜스포머)를 INT4/INT8 ONNX로 변환해 브라우저 WebGPU(ai-music-js npm)에서 구동하는 실험적 포트를 2026-07-26~27 공개(MIT 라이선스). ACE-Step 공식팀과 무관한 커뮤니티 변환판, 다운로드/좋아요 아직 적어 검증 필요. cocy.io에서 쓸모: 지금 WSL+CUDA 헤드리스로 돌리는 BGM 생성(ACE-Step)을 브라우저 사이드로 옮길 여지 — page.cocy.io 툴에 실시간 BGM 프리뷰 붙일 때 참고할 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/emb1ter/ACE-Step-v1.5-XL-Turbo-ONNX-WebGPU",
+      "publishedAt": "2026-07-26T10:57:13.000Z"
+    },
+    {
+      "id": "12",
+      "title": "FLUX.2 Klein-4B, 커뮤니티 WebGPU 포트 등장",
+      "summary": "[Image][Edge] Black Forest Labs가 2026-01-14 공개한 4B 경량 증류 이미지 생성 모델(Apache-2.0, HF 다운로드 38만+). 이번 주 KatzenStuff가 WebGPU ONNX 포트를 2026-07-25 업로드해 브라우저 실행을 시도 중(트래픽 적어 안정성 미검증). 라이선스는 Apache-2.0으로 상업 이용 가능. cocy.io에서 쓸모: SDXL/FLUX.1-dev보다 가벼운 4B라 3080Ti에서 더 빠른 반복 생성 가능, WebGPU 포트가 안정화되면 서버 없이 클라이언트 아트 미리보기도 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "publishedAt": "2026-01-14T13:42:59.000Z"
+    },
+    {
+      "id": "13",
+      "title": "LightLingBot-Video, 4-step 증류 LoRA로 T2V/T2I/I2V 통합",
+      "summary": "[Video] lightx2v가 2026-07-28 공개(Apache-2.0). LingBot-Video용 4-step 증류 LoRA 체크포인트로 하나의 LoRA 설정으로 텍스트→영상, 텍스트→이미지, 이미지→영상을 모두 지원, LightX2V 엔진으로 추론 가속. cocy.io에서 쓸모: 캐릭터 걷기 루프 등 모션 클립 로컬 생성 후보 — 기존 LTX-2.3/Wan I2V 파이프라인 대비 스텝 수를 줄여 반복 실험 속도를 높일 여지가 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lightx2v/LightLingBot-Video",
+      "publishedAt": "2026-07-28T07:30:17.000Z"
+    },
+    {
+      "id": "14",
+      "title": "Qwen3-TTS 12Hz 패밀리, 경량 커뮤니티 양자화 버전 계속 추가",
+      "summary": "[Audio][Tool] Alibaba Qwen팀이 2026-01-21 공개한 0.6B/1.7B 경량 멀티링구얼 TTS(Apache-2.0). 보이스 클로닝과 자연어 기반 보이스 디자인을 지원하며, GGUF/ONNX/MLX 커뮤니티 양자화판이 계속 나오는 중(cstr GGUF 2026-05 등). cocy.io에서 쓸모: 초경량이라 로컬 실험용 대체 TTS 후보로, 지금 쓰는 CosyVoice3 클로닝과 나란히 비교해볼 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "publishedAt": "2026-01-21T08:56:49.000Z"
     }
   ]
 }
