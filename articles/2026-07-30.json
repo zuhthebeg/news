@@ -3,48 +3,84 @@
   "articles": [
     {
       "id": "1",
-      "title": "[Audio] TangoFlux: 45초 만에 고품질 음성효과 생성하는 오픈소스 모델",
-      "summary": "[Audio] 싱가포르 기술대 DeCLaRe Lab과 NVIDIA가 함께 개발한 TangoFlux는 Flow Matching 기반 텍스트-오디오 생성 모델로, A40 GPU 1장에서 30초 44.1kHz 스테레오 음성을 ~3.7초에 생성. ICLR 2026 수록. Apache-2.0 라이선스 하이브리드(Stability AI Community + WavCaps 제약). cocy.io에서 쓸모: 게임 SFX 자동생성 파이프라인에 직접 통합 가능, 50 steps 추론으로 안정적 품질.",
-      "category": "ai-tech",
-      "source": "GitHub (declare-lab/TangoFlux), HuggingFace API",
-      "sourceUrl": "https://github.com/declare-lab/TangoFlux",
-      "publishedAt": "2024-12-24T00:00:00Z"
+      "title": "홍명보, '집 근처 법카 사용' 논란에 \"규정 지켜 썼다\" 반박",
+      "summary": "홍명보 전 축구대표팀 감독이 재임 중 법인카드 3,742만 원 중 약 1,400만 원을 자택 인근에서 결제했다는 의혹에 대해 규정 내 정당한 사용이었다고 반박했다. 국회 문체위는 7월 30일 대한축구협회 운영 전반을 점검하는 청문회를 열어 홍 전 감독과 정몽규 전 회장을 증인으로 불렀다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/national/national_general/2026/07/29/33V4SVWS5JAG5HH2NHY5CTTJZE/",
+      "publishedAt": "2026-07-29T00:00:00+09:00"
     },
     {
       "id": "2",
-      "title": "[Audio] Kokoro-82M: 라이브러리 2.5GB, CPU 추론 가능한 밀리초급 TTS",
-      "summary": "[Audio] Hexgrad의 Kokoro는 82M 파라미터 StyleTTS2 기반 경량 음성 합성 모델로, Apache-2.0 라이선스. 다중언어(영어, 일본어, 중국어, 다양한 악센트) 지원, 45개 이상 음성 라이브러리. HF 다운로드 1000만+ 누적(TTS 커뮤니티 대다수 채택). 2026-04-10 최종 업데이트. cocy.io에서 쓸모: 게임 나레이션/보이스 로컬 렌더링, 메인 쇼츠 내레이션 대체제로서 엣지 기기 배포 최적화.",
-      "category": "ai-tech",
-      "source": "HuggingFace (hexgrad/Kokoro-82M)",
-      "sourceUrl": "https://huggingface.co/hexgrad/Kokoro-82M",
-      "publishedAt": "2024-12-26T00:00:00Z"
+      "title": "'IMF보다 더한 폭락장'...당국 \"단일종목 레버리지, 개인별 투자한도로 총량관리\"",
+      "summary": "코스피가 7월 월간 기준 역대 최대 하락률을 기록하는 폭락장을 맞으며, 정부가 단일종목 레버리지 ETF에 대해 개인별 투자한도를 총투자금액의 20% 이내로 제한하는 총량 규제를 긴급 추진하기로 했다. 구윤철 부총리 주재 긴급 시장상황점검회의에서 발표됐다.",
+      "category": "economy",
+      "source": "다음뉴스",
+      "sourceUrl": "https://v.daum.net/v/20260730081727782",
+      "publishedAt": "2026-07-30T08:17:00+09:00"
     },
     {
       "id": "3",
-      "title": "[Audio] Bark: 13개 언어, 웃음/한숨 포함 음색 다양한 오픈소스 TTS",
-      "summary": "[Audio] Suno AI의 Bark는 트랜스포머 기반 다국어 음성 생성 모델로, MIT 라이선스(상업 허용). 16개 언어 음성합성 + 비언어음(웃음, 한숨 등) 생성, 4GB 이하 VRAM 요구사양. Transformers 라이브러리 기반으로 ease-of-use 우수. cocy.io에서 �을모: 짧은 효과음+나레이션 혼합, 포드캐스트/쇼츠 프로토타입 빠른 테스트.",
-      "category": "ai-tech",
-      "source": "HuggingFace (suno/bark)",
-      "sourceUrl": "https://huggingface.co/suno/bark",
-      "publishedAt": "2023-10-04T00:00:00Z"
+      "title": "李대통령, 칠레 산티아고 도착...30일 카스트 대통령과 정상회담",
+      "summary": "이재명 대통령이 미국·남미 순방 일환으로 칠레 산티아고에 도착해 호세 안토니오 카스트 대통령과 정상회담을 갖는다. 한-칠레 FTA 현대화와 핵심광물 공급망 협력 MOU 체결이 주요 의제다.",
+      "category": "world",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/politics/politics_general/2026/07/30/WW6YXRG5VRAGBFXMF2GBCOR3VM/",
+      "publishedAt": "2026-07-30T00:00:00+09:00"
     },
     {
       "id": "4",
-      "title": "[Image] FLUX.1-schnell: 이미지 생성 속도 특화, 로컬+클라우드 배포 모두 가능",
-      "summary": "[Image] Black Forest Labs의 FLUX.1-schnell은 빠른 추론(1-4 스텝)에 최적화된 텍스트-이미지 생성 모델로 Apache-2.0 라이선스(상업 허용). 224만 다운로드 누적. Diffusers 파이프라인 표준, ComfyUI/Civitai 생태계 완벽 지원. cocy.io에서 쓸모: 게임 카드 아트/배경 빠른 반복 생성, 모바일 카드 튤립 토스 후면 이미지 배치 자동화, 웹 제이지 히어로/카드 프로토타입 즉시 검증.",
-      "category": "ai-tech",
-      "source": "HuggingFace (black-forest-labs/FLUX.1-schnell)",
-      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.1-schnell",
-      "publishedAt": "2024-07-31T00:00:00Z"
+      "title": "Apple Upgrade launches in the United States",
+      "summary": "Apple이 Klarna와 제휴해 아이폰·애플워치·맥·아이패드를 월 납부 방식으로 이용할 수 있는 신규 리스 프로그램 'Apple Upgrade'를 미국에서 출시했다. Apple Store 온라인, 앱, 매장에서 이용 가능하다.",
+      "category": "tech",
+      "source": "Apple Newsroom",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/07/apple-upgrade-launches-in-the-united-states/",
+      "publishedAt": "2026-07-28T00:00:00-07:00"
     },
     {
       "id": "5",
-      "title": "[Edge] WebGPU 브라우저 기반 오디오/이미지 로컬 추론 본격화",
-      "summary": "[Edge] W3C 표준화 완료된 WebGPU가 2026 크롬/엣지/파이어폭스 기본 지원 수준. ONNX Runtime Web이 공식 WebGPU 백엔드 출시, IOBinding으로 GPU-CPU 복사 최소화, FP16 지원. 로컬 추론 2/3로 급증 예상(클라우드 비용/지연/개인정보 문제 해소). cocy.io에서 쓸모: game.cocy.io 웹게임에 온디바이스 STT/음성 분류(gnom 얼굴인식 등) 탑재, 사용자 데이터 서버 비누출, 입장료/광고 모델 무관.",
-      "category": "ai-tech",
-      "source": "Microsoft Blog, W3C Standards",
-      "sourceUrl": "https://opensource.microsoft.com/blog/2024/02/29/onnx-runtime-web-unleashes-generative-ai-in-the-browser-using-webgpu/",
-      "publishedAt": "2026-07-15T00:00:00Z"
+      "title": "Tech Giants' $724 Billion AI Bill Sparks Investor Worry",
+      "summary": "아마존·알파벳·메타·오라클 등 빅테크가 AI 인프라 구축을 위해 올해 약 724억 달러 규모의 채권을 발행하며 부담이 커지고 있다. 알파벳은 클라우드 매출 82% 성장에도 대규모 설비투자로 상장 후 처음 잉여현금흐름이 마이너스를 기록해 투자자 우려가 커졌다.",
+      "category": "tech",
+      "source": "PYMNTS",
+      "sourceUrl": "https://www.pymnts.com/news/artificial-intelligence/2026/tech-giants-724-billion-ai-bill-sparks-investor-worry/",
+      "publishedAt": "2026-07-27T00:00:00-04:00"
+    },
+    {
+      "id": "6",
+      "title": "SpaceX mission captures first diagnostic X-rays in orbit, advancing space medicine",
+      "summary": "지난해 3월 SpaceX Fram-2 미션에서 궤도상 최초로 진단 가능한 수준의 X선 촬영에 성공했다는 연구 결과가 발표됐다. 휴대용 X선 장비를 우주비행 중 활용해 우주인 의료 진단 능력을 크게 향상시킬 수 있는 이정표로 평가된다.",
+      "category": "science",
+      "source": "CHOSUNBIZ",
+      "sourceUrl": "https://biz.chosun.com/en/en-science/2026/07/15/CZNWOKNR75CP3F2RGS3VRCXJOQ/",
+      "publishedAt": "2026-07-15T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Astronauts May One Day Grow Their Own Medicine in Space, Says NASA Study",
+      "summary": "NASA가 담배 관련 식물과 무해한 바이러스를 이용해 우주에서 직접 의약품을 생산하는 방법을 연구 중이다. 장기 임무 중 미세중력 환경에서 약물 효능이 저하되고 지구로부터 재보급이 어려운 문제를 해결하기 위한 접근이다.",
+      "category": "science",
+      "source": "Biotecnika",
+      "sourceUrl": "https://www.biotecnika.org/2026/07/astronauts-may-one-day-grow-their-own-medicine-in-space-says-nasa-study/",
+      "publishedAt": "2026-07-22T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "여름 성수기 맞은 게임업계, 대규모 업데이트로 순위 지형 재편",
+      "summary": "7월 여름 성수기를 맞아 국내외 게임사들이 대규모 콘텐츠 업데이트로 매출 순위 경쟁을 벌이고 있다. '오딘: 발할라 라이징'이 5주년 업데이트로 앱스토어·구글플레이 매출 1위를 약 한 달간 유지했고, '승리의 여신: 니케'도 여름 업데이트로 재도약했다.",
+      "category": "gaming",
+      "source": "베타뉴스",
+      "sourceUrl": "https://www.betanews.net/article/view/beta202607230003",
+      "publishedAt": "2026-07-23T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "AI 활용… 리니지 개발자도 혼자 만든 게임 공개",
+      "summary": "송재경 넥써스 고문이 AI를 활용해 혼자 만든 1인 개발 AI MMO를 공개하며 AI가 게임 개발 방식을 빠르게 바꾸고 있음을 보여줬다. 엔비디아 젠슨 황 CEO 방한을 계기로 국내 게임사와의 협력도 그래픽을 넘어 AI·로보틱스로 확대되는 추세다.",
+      "category": "gaming",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/economy/tech_it/2026/07/28/RL3J2VQYMZFTZAYIBFC6M5CGQU/",
+      "publishedAt": "2026-07-28T00:00:00+09:00"
     }
   ]
 }
