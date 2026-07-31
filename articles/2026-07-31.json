@@ -1,0 +1,68 @@
+{
+  "date": "2026-07-31",
+  "articles": [
+    {
+      "id": "1",
+      "title": "삼성전자, AI 메모리 슈퍼사이클로 3분기 연속 최대 실적…2분기 영업이익 89.5조원",
+      "summary": "삼성전자가 올해 2분기 매출 171조5000억원, 영업이익 89조5000억원을 기록하며 3분기 연속 역대 최대 실적을 갈아치웠다. 반도체 부문이 영업이익의 대부분을 차지했으며, 회사는 내년 메모리 공급이 더 부족해질 것으로 전망했다.",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/society/12112485",
+      "publishedAt": "2026-07-31T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "이재명 대통령, 11년 만에 칠레 국빈방문…카스트 대통령과 FTA 현대화·핵심광물 협력 논의",
+      "summary": "이재명 대통령이 남미 순방 두 번째 방문국으로 칠레를 찾아 호세 안토니오 카스트 대통령과 정상회담을 가졌다. 양국은 한-칠레 FTA 현대화와 구리·리튬 등 핵심광물 공급망 협력 확대에 합의했으며, 디지털 무역·AI·청정기술 등으로 협력 분야를 넓히기로 했다.",
+      "category": "world",
+      "source": "동아일보",
+      "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260731/134399089/1",
+      "publishedAt": "2026-07-30T20:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "KT '펨토셀 해킹'에 과징금 540억원…조사 방해 정황으로 고발도",
+      "summary": "불법 소형기지국(펨토셀)을 악용한 해킹으로 KT 이용자 1만6647명의 개인정보가 유출되고 소액결제 피해가 발생한 사건에 대해 개인정보보호위원회가 KT에 약 540억원의 과징금을 부과했다. KT가 악성코드 감염 사실을 인지하고도 신고하지 않고 로그를 삭제하는 등 조사를 방해한 정황도 확인돼 고발 조치됐다.",
+      "category": "domestic",
+      "source": "중앙일보",
+      "sourceUrl": "https://www.joongang.co.kr/article/25449435",
+      "publishedAt": "2026-07-30T15:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "아마존, npm 공급망 공격 배후로 북한 해커 그룹 지목",
+      "summary": "아마존 위협 연구팀이 axios, chalk, debug, typo-crypto 등 인기 오픈소스 npm 라이브러리를 노린 공급망 공격의 배후로 북한 정부 지원 해커 그룹 '사파이어 슬릿'(BlueNoroff)을 지목했다. 공격자들은 소셜 엔지니어링으로 패키지 메인테이너의 신뢰를 얻은 뒤 악성 업데이트를 배포한 것으로 나타났다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/amazon-links-debug-chalk-npm-supply-chain-attacks-to-north-korean-hackers/",
+      "publishedAt": "2026-07-30T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "구글, AI로 크롬 보안 대폭 강화…최근 두 릴리스에서 버그 1072건 수정",
+      "summary": "구글이 제미나이 기반 AI 모델을 활용해 크롬 149·150 두 릴리스에서 보안 버그 1072건을 수정했다고 밝혔다. 이는 이전 23개 마일스톤 수정 건수를 합친 것보다 많은 수치로, 구글은 브라우저 재시작 없이 업데이트를 적용하는 '다이나믹 패칭'을 시범 도입 중이다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/google/google-says-ai-helped-chrome-fix-1-072-security-bugs-in-two-releases/",
+      "publishedAt": "2026-07-29T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA 스위프트 관측소, 은하 중심 벗어난 '떠돌이' 초대질량 블랙홀 포착",
+      "summary": "NASA의 닐 게렐스 스위프트 관측소가 은하 중심에서 3만 광년 이상 떨어진 곳에서 별을 삼키는 초대질량 블랙홀을 관측했다. 태양 질량의 약 100만 배에 달하는 이 '오르판' 블랙홀은 조석파괴사건(TDE)으로 은하 전체보다 밝은 자외선 섬광을 냈으며, 이런 거리에서 관측된 것은 이번이 처음이다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+      "publishedAt": "2026-07-28T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "한국산 서프라이즈 히트작 'DragonSword: Awakening', 플레이스테이션 진출 확정",
+      "summary": "지난주 PC로 출시돼 첫 주 20만 장 이상 판매고를 올린 한국 RPG 'DragonSword: Awakening'이 플레이스테이션과 닌텐도 스위치 콘솔 버전 개발을 공식 발표했다. 개발사 Hound13은 구체적인 출시일은 아직 확정되지 않았다고 밝혔다.",
+      "category": "gaming",
+      "source": "PlayStation LifeStyle",
+      "sourceUrl": "https://www.playstationlifestyle.net/2026/07/30/rpg-dragonsword-awakening-confirmed-for-playstation/",
+      "publishedAt": "2026-07-30T00:00:00+09:00"
+    }
+  ]
+}
