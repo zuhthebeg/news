@@ -63,6 +63,51 @@
       "source": "PlayStation LifeStyle",
       "sourceUrl": "https://www.playstationlifestyle.net/2026/07/30/rpg-dragonsword-awakening-confirmed-for-playstation/",
       "publishedAt": "2026-07-30T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "MOSS-SoundEffect v2.0, 자연어 프롬프트로 48kHz 효과음 생성하는 오픈 모델 공개",
+      "summary": "[Audio] OpenMOSS 팀이 Qwen3 텍스트 인코더+DiT+Flow Matching 구조로 환경음·크리처음·사람 동작음을 최대 30초·48kHz로 생성하는 MOSS-SoundEffect v2.0을 apache-2.0으로 공개했다(2026-05-25 공개, HF license 태그 확인). cocy.io에서 쓸모: 현재 TangoFlux로 돌리는 게임 SFX 파이프라인의 대체·비교 후보로 로컬 GPU에서 바로 테스트 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+      "publishedAt": "2026-05-25T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "ACE-Step BGM 생성 모델, ONNX+WebGPU 포팅으로 브라우저에서 직접 구동",
+      "summary": "[Edge] 커뮤니티 개발자가 ACE-Step의 5Hz LM 4B 백본을 transformers.js용 ONNX로 변환해 WebGPU만으로 브라우저에서 돌아가게 만든 포팅판을 MIT 라이선스로 공개했다(HF 기준 createdAt 2026-07-27, lastModified 2026-07-28 — 이번 주 공개). cocy.io에서 쓸모: 지금 WSL 로컬 GPU로만 돌리는 ACE-Step BGM 생성을 서버 없이 브라우저에서 데모하는 실험 후보.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/emb1ter/ACE-Step-v1.5-5Hz-LM-4B-ONNX-WebGPU",
+      "publishedAt": "2026-07-27T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "NVIDIA, 4스텝 초고속 이미지 생성 모델 'Qwen-Image-Flash' 공개",
+      "summary": "[Image] NVIDIA가 Qwen-Image를 DMD2 방식으로 증류해 4스텝만에 이미지를 뽑는 Qwen-Image-Flash를 공개했다(HF 기준 2026-07-23 릴리스, license 태그는 'other'/NVIDIA Open Model License이며 모델카드에 상업적 사용 가능 명시, apache-2.0 자체는 아님 — 라이선스 확인 필요 항목). cocy.io에서 쓸모: FLUX.1-dev보다 훨씬 빠른 프로토타이핑용 이미지 생성 후보로 검토 가치 있음.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/nvidia/Qwen-Image-Flash",
+      "publishedAt": "2026-07-23T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "ABot-World, 데스크톱 GPU 한 대로 실시간 인터랙티브 월드 시뮬레이션",
+      "summary": "[Video] 단일 데스크톱 GPU에서 사용자 액션에 반응하며 무한히 이어지는 720p·16FPS 월드를 생성하는 ABot-World-0-5B-LF가 apache-2.0으로 공개됐다(HF 기준 2026-07-09 공개, 07-22 업데이트). 단, 모델카드 기준 RTX 5090·19GB VRAM 요구라 3080Ti(12GB)에서는 그대로 돌리기 어려움. cocy.io에서 쓸모: 게임 인터랙티브 월드 컨셉 참고용, 로컬 실행은 VRAM 부족으로 보류.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/acvlab/ABot-World-0-5B-LF",
+      "publishedAt": "2026-07-09T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Maya1, 텍스트 설명만으로 목소리를 디자인하는 3B TTS 모델",
+      "summary": "[Audio] Maya Research가 자연어 설명(\"20대 미국 남성, 차분한 저음\" 등)만으로 목소리를 만들고 웃음·속삭임 등 감정 태그를 넣을 수 있는 3B 파라미터 TTS 모델 Maya1을 apache-2.0으로 공개했다(HF 기준 lastModified 2026-07-11). cocy.io에서 쓸모: CosyVoice3 클로닝과 별개로 캐릭터별 보이스를 텍스트만으로 빠르게 시안 잡는 용도로 검토 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/maya-research/maya1",
+      "publishedAt": "2026-07-11T00:00:00+09:00"
     }
   ]
 }
