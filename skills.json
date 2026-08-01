@@ -217,6 +217,34 @@
         "game-dev"
       ],
       "addedAt": "2026-07-28"
+    },
+    {
+      "title": "LinkedIn Marketing Skills",
+      "description": "Claude Code/Codex용 LinkedIn 마케팅 스킬 11종 묶음. AI 티가 나는 문체를 제거하고 본인 톤으로 포스트·댓글·답글을 작성하며 주간 발행 계획까지 자동화한다.",
+      "icon": "💼",
+      "category": "productivity",
+      "url": "https://github.com/sergebulaev/linkedin-skills",
+      "tags": [
+        "marketing",
+        "linkedin",
+        "content-creation",
+        "claude-code"
+      ],
+      "addedAt": "2026-08-01"
+    },
+    {
+      "title": "Builder's Essential Skills",
+      "description": "기획·구현·리서치·학습·검증·작성·리뷰까지 개발 전 과정을 아우르는 재사용 가능한 워크플로 스킬 모음집. npm 패키지로도 배포된다.",
+      "icon": "🛠️",
+      "category": "dev",
+      "url": "https://github.com/tamdogood/builder-essential-skills",
+      "tags": [
+        "workflow",
+        "dev-productivity",
+        "claude-code",
+        "codex"
+      ],
+      "addedAt": "2026-08-01"
     }
   ]
 }

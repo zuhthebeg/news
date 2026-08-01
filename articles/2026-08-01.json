@@ -81,6 +81,51 @@
       "source": "MPR News",
       "sourceUrl": "https://www.mprnews.org/story/2026/07/30/playstation-will-stop-making-game-discs-heres-what-it-means-for-prices",
       "publishedAt": "2026-07-30T00:00:00+00:00"
+    },
+    {
+      "id": "10",
+      "title": "Audio8 TTS Preview 0.6B — 다국어 제로샷 보이스 클로닝 경량 TTS",
+      "summary": "[Audio] Audio8이 공개한 0.6B 파라미터 제로샷 보이스 클로닝 TTS로 한국어 포함 11개 언어를 지원하며 44.1kHz 오디오 코덱을 내장했고 ONNX INT4 경량 버전도 함께 나왔다. 라이선스는 Apache 2.0. cocy.io에서 쓸모: 한국어를 지원하는 소형 TTS라 게임 캐릭터 다국어 보이스 더빙이나 신규 성우 프로토타이핑을 로컬에서 바로 실험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+      "publishedAt": "2026-07-28T16:53:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "PixelModel v5 — 4천만 파라미터 초경량 text-to-image 모델",
+      "summary": "[Image] 인디 연구팀 bench-labs가 공개한 40M 파라미터 DiT 기반 초경량 text-to-image 모델로 256×256·50스텝 생성이 가능하며 v4 대비 학습 데이터를 36배(재캡션 CC12M 300만장)로 늘려 재학습했다. 라이선스는 MIT. cocy.io에서 쓸모: FLUX/SDXL 없이도 CPU~저사양 GPU에서 즉석 UI 목업이나 프로토타입 이미지를 초경량으로 로컬 생성하는 대안으로 실험할 가치가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/bench-labs/PixelModel-v5",
+      "publishedAt": "2026-07-28T11:11:25+09:00"
+    },
+    {
+      "id": "12",
+      "title": "VoxelModel v1 — 초경량 text-to-3D 복셀 생성 모델",
+      "summary": "[Tool] PixelModel과 같은 bench-labs 팀이 공개한 40M 파라미터 text-to-3D 모델로 텍스트 프롬프트를 32³ occupancy grid(복셀)로 변환하며 의자·나무·차 같은 두꺼운 오브젝트에서 특히 잘 동작한다. 라이선스는 MIT. cocy.io에서 쓸모: 게임 내 간단한 3D 소품(가구·오브젝트)을 텍스트만으로 로컬 스케치하는 3D 에셋 파이프라인 초기 실험에 활용 가능하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/bench-labs/VoxelModel-v1",
+      "publishedAt": "2026-07-26T21:21:46+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Diamond 1.0 — 손상된 음성을 스튜디오급으로 복원하는 오디오 복원 모델",
+      "summary": "[Audio] nineninesix가 공개한 166.6M 파라미터 seq2seq 오디오 복원 모델로 저품질·열화 음성을 단순 디노이즈가 아니라 손실된 고역대까지 생성해 44.1kHz 스튜디오급으로 재생성한다. Descript 코덱 기반 from-scratch 학습, 라이선스는 Apache 2.0. cocy.io에서 쓸모: 성우 녹음 컷 파이프라인에서 노이즈 섞인 원본 녹음을 후처리 복원해 게임 콜보이스 음질을 끌어올리는 단계에 바로 적용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nineninesix/diamond-1.0",
+      "publishedAt": "2026-07-16T02:10:36+09:00"
+    },
+    {
+      "id": "14",
+      "title": "SeedVR2-1.4B — ByteDance 업스케일러를 4.6GB VRAM으로 증류",
+      "summary": "[Edge] ByteDance SeedVR2-7B(원-스텝 diffusion 업스케일러)를 6-layer·1.4B로 증류한 경량판으로 디스크 용량은 5.7배 줄고 VRAM 요구량은 14~16GB에서 4.6GB로 낮아졌다. 라이선스는 원본을 상속한 Apache 2.0. cocy.io에서 쓸모: FLUX/SDXL로 생성한 게임 카드·캐릭터 아트를 저사양 GPU에서도 빠르게 후처리 업스케일하는 단계에 즉시 투입할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lvladikov/SeedVR2-1.4B",
+      "publishedAt": "2026-07-29T21:54:47+09:00"
     }
   ]
 }
