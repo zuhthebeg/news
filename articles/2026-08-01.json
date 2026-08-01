@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-01",
+  "articles": [
+    {
+      "id": "1",
+      "title": "코스피, 사상 최대폭 급등…반도체주가 반등 주도",
+      "summary": "7월 31일 코스피가 역대 최대 일일 상승폭을 기록하며 급등했다. 삼성전자·SK하이닉스 등 반도체 대형주가 미국 기술기업 실적 호조에 힘입어 강하게 반등했고, 외국인이 대규모 순매수에 나선 반면 개인은 역대급 순매도를 기록했다.",
+      "category": "economy",
+      "source": "Japan Today",
+      "sourceUrl": "https://japantoday.com/category/business/south-korea%E2%80%99s-kospi-index-jumps-more-than-13-on-a-surge-of-chipmaking-stocks",
+      "publishedAt": "2026-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "전국 폭염특보…체감온도 38도 열대야 기승",
+      "summary": "8월 1일 전국 대부분 지역에 폭염특보가 발효된 가운데 체감온도가 38도까지 치솟을 것으로 예보됐다. 밤에도 기온이 떨어지지 않는 열대야가 이어지면서 온열질환 주의가 요구된다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/national/national_general/2026/08/01/6TUO24SMHJAYRJHI4UAW4X5JIY/",
+      "publishedAt": "2026-08-01T06:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "미국·이스라엘, 이란 에너지시설 공습 준비 중",
+      "summary": "미국과 이스라엘이 이르면 이번 주말 이란의 발전소·정유소 등 에너지 시설을 겨냥한 공습을 준비 중인 것으로 전해졌다. 트럼프 대통령은 이란에 대한 강경 대응 의지를 재차 밝혔으며, 2월 발발한 이란 전쟁이 격화될 조짐을 보이고 있다.",
+      "category": "world",
+      "source": "동아일보",
+      "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260731/134404294/2",
+      "publishedAt": "2026-07-31T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "구글 크롬 151 출시, 치명적 결함 7건 포함 370건 패치",
+      "summary": "구글이 크롬 151 버전을 출시해 치명적 취약점 7건을 포함한 370건의 보안 결함을 수정했다. AI를 활용한 공격이 빨라지면서 구글은 크롬의 정기 업데이트 주기를 2주로 단축하고 주간·격주 보안 패치 시범 운영에 나섰다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/07/three-recent-chrome-releases-fix-1442.html",
+      "publishedAt": "2026-07-31T00:00:00+00:00"
+    },
+    {
+      "id": "5",
+      "title": "EU AI법 투명성 규정, 8월 2일 전면 시행",
+      "summary": "유럽연합 AI법의 AI 생성 콘텐츠 투명성 규정이 8월 2일부터 전면 적용된다. EU는 회원국·기업·공공기관이 AI발 사이버보안 및 복원력 문제에 대응할 수 있도록 지원하는 실행계획도 함께 내놓았다.",
+      "category": "tech",
+      "source": "European Commission",
+      "sourceUrl": "https://digital-strategy.ec.europa.eu/en/policies/regulatory-framework-ai",
+      "publishedAt": "2026-08-02T00:00:00+02:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA, 은하 중심 벗어난 '방랑' 초대질량 블랙홀 포착",
+      "summary": "NASA의 스위프트 관측소가 은하 중심에서 멀리 떨어진 곳에서 별을 집어삼키는 초대질량 블랙홀을 포착했다. 태양 질량의 약 100만 배에 달하는 이 블랙홀은 은하 중심을 벗어난 블랙홀을 찾아내는 새로운 관측 기법을 검증한 사례로 평가된다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/07/260727214609.htm",
+      "publishedAt": "2026-07-27T00:00:00+00:00"
+    },
+    {
+      "id": "7",
+      "title": "NASA, 토성 고리에 소형 탐사 프로브 1만 개 투입 구상 지원",
+      "summary": "NASA가 혁신 첨단개념(NIAC) 프로그램을 통해 320만 달러 규모의 신규 연구비 18건을 지원했다. 이 중에는 토성 고리를 직접 탐사하기 위해 조종 가능한 초소형 프로브 1만 개를 투입하는 구상도 포함됐다.",
+      "category": "science",
+      "source": "Universe Today",
+      "sourceUrl": "https://www.universetoday.com/articles/nasa-wants-to-toss-10000-tiny-probes-directly-into-saturns-rings",
+      "publishedAt": "2026-07-30T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "MS, Xbox 부문 3200명 감원…스튜디오 4곳 독립·매각",
+      "summary": "마이크로소프트가 Xbox 사업부에서 회계연도 2027까지 약 3200명을 감원하는 '역사상 가장 큰 폭의 구조조정'을 발표했다. Double Fine·Compulsion Games는 독립 스튜디오로 전환되고, Ninja Theory·Undead Labs는 새 소유주에게 넘어간다.",
+      "category": "gaming",
+      "source": "Xbox News",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/07/06/resetting-xbox/",
+      "publishedAt": "2026-07-06T00:00:00+00:00"
+    },
+    {
+      "id": "9",
+      "title": "소니, 2028년부터 PS 신작 게임 디스크 생산 전면 중단",
+      "summary": "소니가 2028년 1월부터 플레이스테이션 신작 게임을 디지털 전용으로만 출시하고 물리 디스크 생산을 종료한다고 발표했다. 물리 매체 시대의 종언을 알리는 결정으로, 소비자 가격과 소장 문화에 미칠 영향에 대한 논의가 이어지고 있다.",
+      "category": "gaming",
+      "source": "MPR News",
+      "sourceUrl": "https://www.mprnews.org/story/2026/07/30/playstation-will-stop-making-game-discs-heres-what-it-means-for-prices",
+      "publishedAt": "2026-07-30T00:00:00+00:00"
+    }
+  ]
+}
