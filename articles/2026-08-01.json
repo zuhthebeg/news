@@ -120,8 +120,8 @@
     },
     {
       "id": "14",
-      "title": "SeedVR2-1.4B — ByteDance 업스케일러를 4.6GB VRAM으로 증류",
-      "summary": "[Edge] ByteDance SeedVR2-7B(원-스텝 diffusion 업스케일러)를 6-layer·1.4B로 증류한 경량판으로 디스크 용량은 5.7배 줄고 VRAM 요구량은 14~16GB에서 4.6GB로 낮아졌다. 라이선스는 원본을 상속한 Apache 2.0. cocy.io에서 쓸모: FLUX/SDXL로 생성한 게임 카드·캐릭터 아트를 저사양 GPU에서도 빠르게 후처리 업스케일하는 단계에 즉시 투입할 수 있다.",
+      "title": "SeedVR2-1.4B — ByteDance 업스케일러를 6-layer로 증류(디스크 5.7배 절감)",
+      "summary": "[Edge] ByteDance SeedVR2-7B(원-스텝 diffusion 업스케일러)를 6-layer·1.4B로 증류한 경량판으로 디스크 용량이 15.35GB→2.69GB(5.7배)로 줄었다. 단 공식 벤치마크의 '피크 메모리 4.6GB(원본 14~16GB)' 수치는 Apple M2 Ultra+MLX 기준이라 CUDA/3080Ti 실측치는 아니며 별도 확인이 필요하다. 라이선스는 원본을 상속한 Apache 2.0. cocy.io에서 쓸모: 가중치 자체는 표준 diffusion 구조라 CUDA 이식 여지가 있어, FLUX/SDXL 카드아트 후처리 업스케일 경량화 후보로 직접 검증해볼 만하다.",
       "category": "ai-tech",
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/lvladikov/SeedVR2-1.4B",
