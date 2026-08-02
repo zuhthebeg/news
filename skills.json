@@ -245,6 +245,45 @@
         "codex"
       ],
       "addedAt": "2026-08-01"
+    },
+    {
+      "title": "Empathy",
+      "description": "AI 에이전트가 사람과 더 자연스럽게 소통하도록 돕는 스킬. 딱딱하고 기계적인 응답 대신 상황에 맞는 톤과 공감 표현을 조정해준다.",
+      "icon": "💬",
+      "category": "productivity",
+      "url": "https://github.com/danielroe/empathy",
+      "tags": [
+        "communication",
+        "tone",
+        "agent-ux"
+      ],
+      "addedAt": "2026-08-02"
+    },
+    {
+      "title": "Read-Anything",
+      "description": "웹페이지·팟캐스트·영상·X 포스트 등 임의의 링크를 구조화된 해석으로 변환해 NotebookLM처럼 대화형으로 파고들 수 있게 해주는 스킬. shell 실행 가능한 에이전트면 어디서든 동작.",
+      "icon": "📖",
+      "category": "productivity",
+      "url": "https://github.com/heyuxuan0209/read-anything",
+      "tags": [
+        "research",
+        "summarization",
+        "notebooklm"
+      ],
+      "addedAt": "2026-08-02"
+    },
+    {
+      "title": "High-Stakes Analytics Decision Lab",
+      "description": "지저분한 데이터를 프로파일링해 상황에 맞는 분석 기법을 자동 선택하고, 출처를 명시한 시각화 리포트를 생성하는 데이터 분석 스킬. 플랫폼 중립적으로 설계됨.",
+      "icon": "📊",
+      "category": "data",
+      "url": "https://github.com/limingrui679-design/high-stakes-analytics-decision-lab",
+      "tags": [
+        "data-analysis",
+        "visualization",
+        "decision-making"
+      ],
+      "addedAt": "2026-08-02"
     }
   ]
 }

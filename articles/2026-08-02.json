@@ -63,6 +63,24 @@
       "source": "PlayStation Blog",
       "sourceUrl": "https://blog.playstation.com/2026/02/12/marvel-tokon-fighting-souls-arrives-on-ps5-pc-august-6/",
       "publishedAt": "2026-02-12T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Diffusers, 4비트 SVDQuant 추론엔진 Nunchaku 네이티브 지원 시작",
+      "summary": "[Edge] Hugging Face Diffusers 라이브러리가 4비트 양자화 추론엔진 Nunchaku(SVDQuant)를 네이티브 통합했다. 기존 bitsandbytes·GGUF 같은 양자화는 가중치만 저정밀도로 저장해 속도 향상이 거의 없었지만, Nunchaku는 트랜스포머 연산 자체를 4비트(W4A4)로 수행해 메모리 절감과 동시에 디노이징 속도까지 높인다. from_pretrained() 호출만으로 별도 CUDA 컴파일 없이 체크포인트를 불러올 수 있다. Apache 2.0 라이선스. cocy.io에서 쓸모: 3080Ti 12GB로 돌리는 FLUX/SDXL 로컬 게임 아트 생성 파이프라인의 속도·VRAM 부담을 줄여 배치 생성 시간을 단축할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/nunchaku-diffusers",
+      "publishedAt": "2026-07-23T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Liquid AI, CPU 롱컨텍스트 전용 초경량 인코더 LFM2.5-Encoders 2종 공개",
+      "summary": "[Edge] Liquid AI가 CPU 환경의 장문맥 처리에 특화된 양방향 인코더 LFM2.5-Encoder-230M·350M을 공개했다. 8,192토큰 컨텍스트에서 ModernBERT-base 대비 약 3.7배 빠르며 GLUE·다국어 벤치마크에서 더 큰 모델급 성능을 낸다. 분류·검색·PII 탐지 등으로 파인튜닝해 온디바이스에서 상시 구동하는 용도로 설계됐다. 라이선스는 HuggingFace 카드상 'other'로 표기돼 상업 허용 여부 미확인, 사용 전 LFM 라이선스 원문 확인 필요. cocy.io에서 쓸모: log.cocy.io·page.cocy.io의 콘텐츠 분류·검색 기능을 서버 GPU 없이 CPU에서 저비용으로 처리할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
+      "publishedAt": "2026-07-28T00:00:00+09:00"
     }
   ]
 }
