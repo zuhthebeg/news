@@ -81,6 +81,51 @@
       "source": "Hugging Face Blog",
       "sourceUrl": "https://huggingface.co/blog/LiquidAI/lfm2-5-encoders",
       "publishedAt": "2026-07-28T00:00:00+09:00"
+    },
+    {
+      "title": "Audio8, 0.6B 경량 TTS 프리뷰 공개…제로샷 보이스클로닝+한국어 포함 다국어",
+      "summary": "[Audio] Audio8이 7월28일 0.6B 파라미터급 경량 TTS 모델 Audio8-TTS-Preview를 공개했다. 레퍼런스 없는 생성과 제로샷 보이스클로닝을 모두 지원하며 한국어를 포함한 다국어(영·중·일·프·독 등)를 커버한다. SGLang Omni 어댑터로 GPU 서빙도 지원. 라이선스 apache-2.0(상업 허용). cocy.io에서 쓸모: 게임 캐릭터 보이스·쇼츠 내레이션을 경량 모델로 로컬 생성해 CosyVoice3 대비 VRAM 부담을 낮출 대안으로 검토 가능.",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+      "publishedAt": "2026-07-28T16:53:00+09:00",
+      "id": "10",
+      "category": "ai-tech"
+    },
+    {
+      "title": "llama.cpp 팀, Qwen3-TTS 1.7B GGUF 변환 공개…CPU 추론 지원",
+      "summary": "[Edge] ggml-org(llama.cpp 팀)가 8월1일 알리바바 Qwen3-TTS-12Hz-1.7B-Base(apache-2.0)의 GGUF 양자화 버전(Q4_K_M/Q8_0/bf16)을 공개했다. llama.cpp PR #26254와 함께 배포되어 GPU 없이 CPU에서 TTS 추론이 가능해진다. cocy.io에서 쓸모: GPU를 점유하지 않는 백그라운드 내레이션·자막 음성 생성 등 저사양 서버/CPU 환경 TTS 파이프라인 후보로 검토할 만하다.",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ggml-org/Qwen3-TTS-12Hz-1.7B-Base-GGUF",
+      "publishedAt": "2026-08-01T23:02:00+09:00",
+      "id": "11",
+      "category": "ai-tech"
+    },
+    {
+      "title": "HeartMuLa ComfyUI 병합 체크포인트 공개…VRAM 절반으로",
+      "summary": "[Audio][Tool] 7월30일 공개된 HeartMuLa-oss-ComfyUI는 6개 fp32 샤드로 분산되어 ComfyUI가 직접 못 읽던 HeartMuLa(음악생성 LM+코덱)를 단일파일 bf16/fp16 체크포인트로 병합해, 다운로드 용량을 20.9GB에서 10.4GB로 절반 줄였다. 라이선스 apache-2.0. cocy.io에서 쓸모: 리듬게임 어드민 파이프라인에서 이미 쓰는 HeartMuLa를 3080Ti 12GB에서 더 가볍게 ComfyUI 워크플로로 통합할 수 있다.",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Thelocallab/HeartMuLa-oss-ComfyUI",
+      "publishedAt": "2026-07-30T16:27:00+09:00",
+      "id": "12",
+      "category": "ai-tech"
+    },
+    {
+      "title": "NVIDIA SANA-Video 2B, RTX5090서 5초 720p 영상 29초 생성",
+      "summary": "[Video] NVIDIA/NVlabs의 초경량 비디오생성모델 SANA-Video(2B, Linear DiT 기반)가 7월31일 체크포인트 업데이트됐다. RTX 5090에서 5초 분량 720p 영상을 29초에 생성(기존 71초 대비 2.4배 가속)한다고 모델카드에 명시. 라이선스는 apache-2.0(모델카드엔 '연구 목적' 권장문구가 있으나 라이선스 자체는 상업 이용 허용). cocy.io에서 쓸모: 게임 프로모 영상·인트로 클립을 로컬 3080Ti에서 실험적으로 뽑아볼 저비용 후보.",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_720p",
+      "publishedAt": "2026-07-31T23:28:00+09:00",
+      "id": "13",
+      "category": "ai-tech"
+    },
+    {
+      "title": "voicebox, OpenAI 호환 로컬 STT/TTS 서버 공개…CPU에서 14배속",
+      "summary": "[Tool] 7월21일 공개된 오픈소스 voicebox는 faster-whisper(STT)와 Piper/Kokoro(TTS)를 OpenAI 오디오 API와 동일한 엔드포인트(/v1/audio/transcriptions, /v1/audio/speech)로 감싼 자체호스팅 서버다. Piper TTS가 일반 쿼드코어 CPU에서 실시간 대비 약 14배속으로 동작하며 Docker 한 줄로 구동된다. 라이선스 MIT. cocy.io에서 쓸모: 클라우드 TTS/STT API 호출 없이 로컬 CLI·에이전트 도구에 음성 입출력을 붙일 때 글루코드 없이 바로 연결 가능.",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/agjs/voicebox",
+      "publishedAt": "2026-07-21T00:00:00+09:00",
+      "id": "14",
+      "category": "ai-tech"
     }
   ]
 }
