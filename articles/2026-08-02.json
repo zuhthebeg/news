@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-02",
+  "articles": [
+    {
+      "id": "1",
+      "title": "7월 수출 988.9억 달러…반도체 호황에 역대 2위",
+      "summary": "7월 수출액이 전년 동월 대비 62.8% 급증한 988억9천만 달러를 기록하며 월간 역대 2위를 달성했다. 반도체 수출이 178.8% 급증한 410억1천만 달러로 두 달 연속 400억 달러를 돌파했고, 무역수지는 303억2천만 달러 흑자로 두 달 연속 300억 달러를 넘었다.",
+      "category": "economy",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/economy/economy_general/2026/08/01/7QGMBU6B7JHLLLGBQKHKKWS6FU/",
+      "publishedAt": "2026-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "검찰 수사권 폐지 형사소송법 개정안 국회 통과",
+      "summary": "7월 31일 국회 본회의에서 검찰의 직접 수사권과 보완 수사권을 전면 폐지하는 형사소송법 개정안이 통과됐다. 1954년 제정 이후 72년 만의 근본적 변화로, 수사 주체는 사법경찰관으로 일원화되며 10월 2일 시행과 함께 중대범죄수사청·공소청이 출범한다. 국민의힘은 대통령 거부권 행사를 촉구했다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/politics/politics_general/2026/07/31/B5LN2BUO6ZBVBLPPEH64PE6T3Y/",
+      "publishedAt": "2026-07-31T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "기록적 폭염에 프로야구 2경기 취소…양산 41.6도",
+      "summary": "8월 1일 부산·창원 지역에 폭염중대경보가 발효되며 KBO가 두 경기를 취소했다. 부산 일부 지역은 40.5도까지 치솟았고, 경남 양산은 41.6도로 122년 국내 기상 관측 사상 최고 기온을 기록했다. 전날 경기 강행 중 일부 선수가 온열질환 증세를 보이자 KBO는 폭염 대응 기준을 강화했다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/sports/baseball/2026/08/01/3UA6F6HEGVE7ZKATZZO3B5LYFM/",
+      "publishedAt": "2026-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "아마존, 북한 해커그룹의 NPM 공급망 공격 배후 지목",
+      "summary": "아마존이 7월 30일 북한 배후 해커그룹 SapphireSleet(BlueNoroff)을 axios 등 다수 NPM 오픈소스 패키지 침해 사건의 배후로 지목했다. 신뢰받는 메인테이너 계정을 사회공학적으로 탈취해 악성 버전을 배포하는 수법으로, 비밀번호·암호화폐 자산 탈취를 노린 것으로 파악된다.",
+      "category": "tech",
+      "source": "Developer Tech",
+      "sourceUrl": "https://www.developer-tech.com/news/amazon-ties-dprk-hackers-axios-and-three-other-npm-attacks/",
+      "publishedAt": "2026-07-30T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "구글, 딥페이크 우려로 구글어스 AI 이미지 기능 하루 만에 철회",
+      "summary": "구글이 '나노 바나나 2' 기반 구글어스 AI 이미지 생성 기능을 출시 하루 만에 철회했다. 사용자들이 위성사진에 테러 공격, 산업재해 등 허위 재난 장면을 합성해 공유하면서 오정보 확산 우려가 제기되자 구글은 추가 안전장치 마련을 위해 기능을 롤백했다.",
+      "category": "tech",
+      "source": "CNET",
+      "sourceUrl": "https://www.cnet.com/tech/services-and-software/google-quickly-rolls-back-a-feature-that-could-make-deepfake-satellite-images/",
+      "publishedAt": "2026-07-31T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "민간 우주비행서 촬영한 사상 첫 진단용 X선, 학술지 게재",
+      "summary": "SpaceX 민간 임무 Fram2에서 비의료인 승무원이 4시간 훈련만으로 휴대용 X선 장비를 이용해 손·흉부·골반 등의 진단용 영상을 촬영하는 데 성공했다. 지구 촬영 영상과 견줄 만한 화질로, 장기 우주비행 시 골절 등을 진단할 도구로서 가능성을 보였다는 연구 결과가 2026년 7월 학술지 Radiology에 게재됐다.",
+      "category": "science",
+      "source": "RSNA",
+      "sourceUrl": "https://www.rsna.org/news/2026/july/first-x-rays-in-space",
+      "publishedAt": "2026-07-01T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "'마블 토콘: 파이팅 소울즈' 8월 6일 PS5·PC 출시",
+      "summary": "아크시스템웍스가 개발하고 소니 인터랙티브 엔터테인먼트가 배급하는 4대4 태그팀 격투게임 '마블 토콘: 파이팅 소울즈'가 8월 6일(한국·일본은 8월 7일) PS5와 PC로 출시된다. 출시 시점에 마블 히어로·빌런 20종이 플레이 가능하다.",
+      "category": "gaming",
+      "source": "PlayStation Blog",
+      "sourceUrl": "https://blog.playstation.com/2026/02/12/marvel-tokon-fighting-souls-arrives-on-ps5-pc-august-6/",
+      "publishedAt": "2026-02-12T00:00:00+09:00"
+    }
+  ]
+}
