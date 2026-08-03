@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-03",
+  "articles": [
+    {
+      "id": "1",
+      "title": "42.5도 찍은 남부 폭염, 이번주 수도권 덮쳐",
+      "summary": "경남 양산이 8월 2일 42.5도를 기록하며 122년 기상 관측 사상 최고 기온을 경신했다. 이번 주에는 폭염이 수도권 등 서쪽 지역으로 확대될 전망이며, 정부는 중대본 비상 단계를 2단계로 격상했다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/national/transport-environment/2026/08/03/E4EK56MSKFF6BPMDLZJN7PIJ4M/",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "[속보] 이 대통령 지지율 45.9%…취임 후 '최저' [리얼미터]",
+      "summary": "리얼미터가 7월 27~31일 조사한 결과 이재명 대통령의 국정수행 지지율이 45.9%로 취임 후 최저치를 기록했다. 부정 평가는 처음으로 50%를 넘어 50.5%를 기록했으며, 증시 불안과 연임 개헌 논란 등이 영향을 미친 것으로 분석된다.",
+      "category": "domestic",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/politics/12114775",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "US Treasury intervenes to support yen after Japan steps in, FT reports",
+      "summary": "미국 재무부가 8월 1일 뉴욕 연방준비은행을 통해 엔화 매수에 나서며 15년 만에 일본과 공동으로 외환시장에 개입했다. 40년 만에 최저 수준으로 떨어진 엔화 가치를 방어하기 위한 조치로, 달러-엔 환율은 164엔대에서 157엔대까지 급락했다.",
+      "category": "world",
+      "source": "Channel News Asia",
+      "sourceUrl": "https://www.channelnewsasia.com/business/us-treasury-intervenes-support-yen-after-japan-steps-in-ft-reports-6292256",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Adobe Campaign Classic CVSS 10.0 Flaw Could Run Code Without User Interaction",
+      "summary": "어도비가 엔터프라이즈 마케팅 자동화 플랫폼 Campaign Classic의 최고 위험도(CVSS 10.0) 취약점(CVE-2026-48449)에 대한 보안 업데이트를 발표했다. 사용자 상호작용 없이도 임의 코드 실행이 가능한 인가 오류로, SQL 인젝션 취약점(CVSS 8.6)도 함께 패치됐다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/adobe-campaign-classic-cvss-100-flaw.html",
+      "publishedAt": "2026-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Amazon ties DPRK hackers to axios and three other NPM attacks",
+      "summary": "아마존 위협 인텔리전스팀이 axios, debug, chalk, typo-crypto 등 4건의 NPM 패키지 공급망 공격을 북한 배후 해킹조직(SAPPHIRE SLEET 등 5개 명칭으로 추적) 단일 행위자와 연결했다고 밝혔다.",
+      "category": "tech",
+      "source": "Developer Tech",
+      "sourceUrl": "https://www.developer-tech.com/news/amazon-ties-dprk-hackers-axios-and-three-other-npm-attacks/",
+      "publishedAt": "2026-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "'We are not giving up yet': Private mission to rescue NASA's Swift telescope is spinning out of control, and engineers are racing to fix it",
+      "summary": "7월 3일 발사된 민간 우주선 Katalyst Space의 LINK가 지구로 추락 중인 NASA의 22년 된 Swift 관측위성을 포획해 구조하려던 중 예기치 않게 스핀이 발생해 통제 불능 상태에 빠졌다. 엔지니어들이 자세 안정화를 위해 대응 중이다.",
+      "category": "science",
+      "source": "Live Science",
+      "sourceUrl": "https://www.livescience.com/space/space-exploration/we-are-not-giving-up-yet-private-mission-to-rescue-nasas-swift-telescope-is-spinning-out-of-control-and-engineers-are-racing-to-fix-it",
+      "publishedAt": "2026-08-02T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Gamescom 2026's exhibition area is fully booked for the first time",
+      "summary": "독일에서 열리는 세계 최대 게임 전시회 gamescom 2026이 역사상 처음으로 전시 공간을 전량 매진시켰다. Xbox, 닌텐도, EA, 유비소프트, 캡콤, 코나미, 텐센트 등이 참가하며, 주최측은 이미 2027년 전시 공간 확대를 검토 중이다.",
+      "category": "gaming",
+      "source": "GamesIndustry.biz",
+      "sourceUrl": "https://www.gamesindustry.biz/gamescom-2026s-exhibition-area-is-fully-booked-for-the-first-time",
+      "publishedAt": "2026-08-01T00:00:00+09:00"
+    }
+  ]
+}
