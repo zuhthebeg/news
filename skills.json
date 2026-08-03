@@ -284,6 +284,32 @@
         "decision-making"
       ],
       "addedAt": "2026-08-02"
+    },
+    {
+      "title": "ComfyUI Runner",
+      "description": "로컬 ComfyUI 서버(127.0.0.1:8188)에 API 포맷 워크플로 JSON을 실행시켜 결과 이미지를 받아오는 스킬. 노드 ID를 가정하지 않고 프롬프트 노드를 직접 탐지해 수정한다.",
+      "icon": "🖼️",
+      "category": "media",
+      "url": "https://clawhub.ai/kelvincai522/skills/comfyui",
+      "tags": [
+        "comfyui",
+        "image-gen",
+        "local-inference"
+      ],
+      "addedAt": "2026-08-03"
+    },
+    {
+      "title": "Agent Autopilot",
+      "description": "에이전트가 프로젝트 매니저처럼 스스로 작업을 접수·분해·실행·보고·순환하는 heartbeat 기반 자율 워크플로 스킬. 진행 보고 주기와 장기기억 정리까지 자동화한다.",
+      "icon": "🔁",
+      "category": "productivity",
+      "url": "https://clawhub.ai/edoserbia/skills/agent-autopilot",
+      "tags": [
+        "autonomy",
+        "heartbeat",
+        "workflow"
+      ],
+      "addedAt": "2026-08-03"
     }
   ]
 }
