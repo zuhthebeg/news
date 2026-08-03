@@ -63,6 +63,51 @@
       "source": "GamesIndustry.biz",
       "sourceUrl": "https://www.gamesindustry.biz/gamescom-2026s-exhibition-area-is-fully-booked-for-the-first-time",
       "publishedAt": "2026-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "MOSS-SoundEffect-v2.0 GGUF — 로컬 GPU용 텍스트→효과음 모델",
+      "summary": "[Audio] OpenMOSS의 텍스트→효과음(48kHz 모노) 모델 MOSS-SoundEffect-v2.0을 GGML 런타임용 GGUF로 변환한 배포판이 7/27 공개됐다(라이선스 apache-2.0, 원본 기준). Qwen3-1.7B 텍스트 인코더+30블록 Wan 스타일 확산 트랜스포머+DAC VAE 구조이며, CUDA/Vulkan/CPU를 지원하는 openmoss C++ 런타임으로 로컬 GPU에서 바로 구동된다. cocy.io에서 쓸모: TangoFlux를 보완/대체할 로컬 SFX 생성기로 게임 효과음 파이프라인에 테스트해볼 만함.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ilintar/moss-soundeffect-gguf",
+      "publishedAt": "2026-07-28T07:54:45+09:00"
+    },
+    {
+      "id": "9",
+      "title": "ACE-Step v1.5 WebGPU 브라우저 포팅 (실험적)",
+      "summary": "[Edge][Audio] cocy.io BGM 파이프라인에 쓰는 ACE-Step 1.5의 5Hz LM 플래너(4B)를 Transformers.js/ONNX Runtime Web용으로 변환한 실험적 WebGPU 빌드가 7/27 공개(MIT). 원본 MLX 체크포인트 대비 top-20 로짓 겹침 50~85% 수준으로 제작자 스스로 '정확한 변환 아님'이라 명시한 실험 단계이며, 오디오 생성기가 아닌 플래너(의미 코드 생성)만 담당한다. cocy.io에서 쓸모: 로컬 WSL CUDA 없이 브라우저에서 ACE-Step을 돌리는 경로가 열리는 신호라 진행 상황을 지켜볼 만함(현재는 품질 보증 안 됨).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/emb1ter/ACE-Step-v1.5-5Hz-LM-4B-ONNX-WebGPU",
+      "publishedAt": "2026-07-27T21:23:17+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Z-Image Turbo, 스냅드래곤 NPU(QNN) 빌드로 이식 (미검증)",
+      "summary": "[Image][Edge] Alibaba Tongyi의 6B DiT 이미지 모델 Z-Image Turbo(apache-2.0, 2026-01 공개)를 스냅드래곤 NPU용 QNN 바이너리로 변환한 빌드가 8/2 올라왔다. Local Dream 앱(Android)의 zimage 백엔드용이며, 제작자가 '실제 NPU에서 실행해본 적 없는 미검증 상태'라고 명시했다. cocy.io에서 쓸모: 서버용이 아닌 모바일 온디바이스 이미지 생성 트렌드 확인용, 당장 3080Ti 파이프라인에는 해당 없음.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/P2Enjoy/z-image-turbo-qnn",
+      "publishedAt": "2026-08-03T03:20:40+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Wan2.2-I2V-A14B NVFP4 양자화 — 8.9GB, 단 Blackwell GPU 전용",
+      "summary": "[Video][Edge] Wan2.2-I2V-A14B(14B, apache-2.0) 이미지→비디오 모델을 NVFP4로 양자화해 57GB→8.9GB(6.4배 축소)로 줄인 배포판이 7/31 공개. 다만 NVFP4는 Blackwell 아키텍처(RTX 50시리즈/B100/B200) GPU에서만 동작해 3080Ti(Ampere)에서는 못 쓴다. cocy.io에서 쓸모: 지금은 로컬 하드웨어로 못 돌리지만 '저VRAM 로컬 비디오 생성' 방향성 참고용으로 기록.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/rockerBOO/wan2.2-I2V-A14B-nvfp4",
+      "publishedAt": "2026-08-01T08:36:10+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Orpheus-3B 다국어 TTS 파인튜닝 — 20개 언어, 화자별 보이스",
+      "summary": "[Audio] Llama-3 기반 Orpheus-3B를 20개 언어 설정·전체 화자로 파인튜닝한 다국어 TTS 모델이 5월 공개, 6/15 업데이트(apache-2.0). SNAC 24kHz 코덱으로 음성을 생성하며 프롬프트에 화자ID를 붙이는 방식으로 보이스를 선택한다. cocy.io에서 쓸모: 쇼츠/게임 다국어 내레이션에서 CosyVoice3 외 대안으로 언어 커버리지를 비교해볼 만함.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Sunbird/orpheus-3b-tts-multilingual",
+      "publishedAt": "2026-06-15T18:55:02+09:00"
     }
   ]
 }
