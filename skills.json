@@ -310,6 +310,32 @@
         "workflow"
       ],
       "addedAt": "2026-08-03"
+    },
+    {
+      "title": "Software Coach",
+      "description": "코드를 직접 짜주는 대신 실력을 키우도록 돕는 멘토형 스킬. 3단계 강도 설정으로 AI가 대신 작성할 수 있는 코드량을 제한해 실제로 코딩을 배우게 한다.",
+      "icon": "🧑‍🏫",
+      "category": "dev",
+      "url": "https://github.com/gelanchez/software-coach",
+      "tags": [
+        "mentor",
+        "coding-discipline",
+        "learning"
+      ],
+      "addedAt": "2026-08-04"
+    },
+    {
+      "title": "Thinking Toolkit",
+      "description": "30가지 의사결정·문제해결·시스템사고 프레임워크를 하나로 묶은 스킬. 옵션 비교, 우선순위 설정, 원인 분석 등 특정 사고모델을 명시적으로 요청하면 적용해준다.",
+      "icon": "🧩",
+      "category": "productivity",
+      "url": "https://github.com/ponomr/thinking-toolkit",
+      "tags": [
+        "decision-making",
+        "mental-models",
+        "problem-solving"
+      ],
+      "addedAt": "2026-08-04"
     }
   ]
 }
