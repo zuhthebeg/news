@@ -81,6 +81,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/mirek190/audio.cpp",
       "publishedAt": "2026-07-14T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Audio8 TTS Preview 0.6B 공개: 경량 다국어 제로샷 보이스클로닝 TTS",
+      "summary": "[Audio] Audio8이 6억 파라미터급(601M) 다국어 TTS 'Audio8 TTS Preview'를 공개했다(2026-07-28). Fish Audio S2 Pro에서 착안한 DualAR(느린/빠른 AR 트랜스포머) 구조로 44.1kHz 코덱을 쓰며, 한국어 포함 11개 언어에서 제로샷 보이스클로닝을 지원한다(프리뷰 단계라 언어 커버리지는 제한적, 확장 예고). ONNX INT4 버전도 별도 배포됨. 라이선스 Apache-2.0(상업 허용). cocy.io에서 쓸모: CosyVoice3 클로닝 대비 파라미터가 훨씬 작아 게임 서버단 실시간 TTS(NPC 대사 등) 후보로 검토할 만함.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+      "publishedAt": "2026-07-28T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Inflect-Micro-v2: 940만 파라미터 완전 로컬 영어 TTS, CPU에서도 구동",
+      "summary": "[Audio][Edge] 개인 개발자가 6월 공개한 Inflect-Micro-v2는 940만 파라미터(FP32 37.5MB)로 24kHz 영어 음성을 합성하는 초경량 TTS다. 고정 보이스지만 결정론적 시드·장문 처리를 지원하고 CPU만으로도 동작해 서버 배포 부담이 거의 없다. 최근(2026-07-31) 데이터 준비·파인튜닝용 '어댑테이션 툴킷'이 추가되며 재조명됐다(어댑테이션 품질은 실험적). 라이선스 Apache-2.0. cocy.io에서 쓸모: 게임 내 짧은 안내음성·튜토리얼 나레이션처럼 품질보다 용량·속도가 중요한 자리에 엣지용으로 적합.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "publishedAt": "2026-07-31T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "MOSS-SoundEffect-v2.0, GGUF 변환으로 C++ 단일 런타임 지원 — 텍스트→효과음",
+      "summary": "[Audio][Edge] OpenMOSS의 텍스트→효과음(SFX) 모델 MOSS-SoundEffect-v2.0이 GGUF로 변환돼(2026-07-27) openmoss(C++/GGML, CUDA+Vulkan+CPU) 런타임에서 Python 없이 구동 가능해졌다. 48kHz 모노 출력, Qwen3-1.7B 텍스트 인코더 + 30블록 Wan 스타일 diffusion transformer 구조. 원본·GGUF 변환판 모두 Apache-2.0(상업 허용). cocy.io에서 쓸모: TangoFlux로 돌리는 게임 SFX 파이프라인의 경량/네이티브 대안으로, Python 환경 없이 효과음 생성 워커를 붙일 때 검토 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ilintar/moss-soundeffect-gguf",
+      "publishedAt": "2026-07-27T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "ACE-Step 1.5 XL Turbo, 브라우저에서 도는 WebGPU ONNX 포팅 등장",
+      "summary": "[Audio][Edge] 비공식 커뮤니티 변환으로 ACE-Step/acestep-v15-xl-turbo(41.7억 파라미터 diffusion transformer) 공식 체크포인트가 INT4/INT8 ONNX로 변환돼 브라우저에서 구동되게 포팅됐다(2026-07-26 공개, 2026-08-03 업데이트). ai-music-js npm 라이브러리 + ONNX Runtime Web(WASM)으로 동작하며 대용량 가중치는 브라우저 OPFS에 스트리밍 저장한다. 변환판 라이선스 MIT(ACE-Step 원저자와 무관한 비공식 실험 프로젝트). cocy.io에서 쓸모: 이미 BGM 파이프라인으로 쓰는 ACE-Step을 서버 없이 클라이언트(게임 페이지)에서 직접 생성하는 실험에 참고할 만함 — 다만 실험적 포팅이라 프로덕션 전 별도 검증 필요.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/emb1ter/ACE-Step-v1.5-XL-Turbo-ONNX-WebGPU",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "Qwen-Image-Edit-2511, Rapid-AIO 등 커뮤니티 경량 파생판 잇따라 등장하며 재조명",
+      "summary": "[Image] 알리바바가 2025년 12월 공개한 이미지 편집 모델 Qwen-Image-Edit-2511(Apache-2.0, 상업 허용)을 기반으로 한 'Rapid-AIO' 등 고속·경량 파생판이 최근(7월 말~8월 초) 커뮤니티에서 다수 올라오며 다시 주목받고 있다. 텍스트 지시로 이미지 국소 편집(오브젝트 교체·스타일 변경 등)을 지원. cocy.io에서 쓸모: FLUX.1-dev 로컬 아트 파이프라인에 '수정' 단계(포즈 변경·배경 교체 등)를 추가할 때 Apache-2.0이라 라이선스 부담 없이 실험 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen-Image-Edit-2511",
+      "publishedAt": "2025-12-17T00:00:00+09:00"
     }
   ]
 }
