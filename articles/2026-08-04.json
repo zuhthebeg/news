@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-04",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령 지지율 45.9%, 취임 후 최저치...3주 연속 하락",
+      "summary": "리얼미터 조사에서 이재명 대통령 국정 수행 긍정평가가 45.9%로 취임 후 최저치를 기록했다. 부정평가는 50.5%로 취임 후 처음 50%를 넘어섰으며, 증시 불안·부동산 세제 논란·검찰 보완수사권 폐지 강행 등이 복합적으로 작용한 것으로 분석된다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260803020251001",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "서울·경기 일부 지역, 사상 첫 '폭염중대경보' 발령",
+      "summary": "8월 4일 오전 11시부터 서울 동남·서남권과 경기 하남·오산·여주 서부 지역에 폭염 특보 최상위 단계인 폭염중대경보가 처음 발효됐다. 티베트 고기압과 북태평양 고기압이 동시에 한반도를 덮치고 푄 현상까지 겹치며 발생한 것으로, 정부는 중앙재난안전대책본부 2단계를 가동했다.",
+      "category": "domestic",
+      "source": "동아일보",
+      "sourceUrl": "https://www.donga.com/news/Society/article/all/20260803/134413640/2",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "정부, '한국판 IRA' 국내생산촉진세제 도입...반도체·AI로봇 등 6대 분야",
+      "summary": "정부가 반도체, 2차전지, 태양광·풍력, AI 로봇 부품 등 6대 전략산업의 국내 생산 실적에 비례해 세액을 공제하는 국내생산촉진세제를 2027년부터 10년간 한시 시행한다. 비수도권 생산 시 최대 1.5배 추가 공제를 주는 등 지방 우대책도 포함됐다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260803000600002",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "허깅페이스 Diffusers 라이브러리서 'FaceHugger' 취약점 발견...AI 공급망 위협",
+      "summary": "자프란랩스 연구진이 허깅페이스 Diffusers 라이브러리에서 trust_remote_code 안전장치를 우회해 임의 코드를 실행할 수 있는 고위험 취약점 3건(CVE-2026-44827 등)을 발견했다. 허깅페이스는 지난 5월 Diffusers 0.38.0에서 이를 패치했으며, 이용자에게 최신 버전 업데이트를 권고했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/hugging-face-diffusers-flaws-could-let.html",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "백악관, AI 안전 프레임워크 마무리...앤스로픽·오픈AI 등에 자발적 검증 요청",
+      "summary": "백악관이 AI 안전 프레임워크를 최종화하며 앤스로픽, 오픈AI, 구글, 메타 등 주요 AI 기업에 공개 전 정부 테스트를 위한 첨단 모델 자발적 제출을 요청했다. 이는 해당 기업들의 AI 도구가 타 기업 시스템을 침해한 사례가 있었던 데 따른 후속 조치로 풀이된다.",
+      "category": "tech",
+      "source": "SiliconANGLE",
+      "sourceUrl": "https://siliconangle.com/2026/08/03/white-house-invites-ai-companies-review-new-ai-safety-framework/",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "국제우주정거장서 시험한 항암제 rebecsinib, 혈액암 1상 임상 진입",
+      "summary": "UC샌디에이고 연구진이 개발한 ADAR1 억제 항암제 rebecsinib이 국제우주정거장 미세중력 환경에서 암 오가노이드 증식을 억제하는 효과를 확인했다. 이 약물은 FDA로부터 최초의 ADAR1 억제제 IND 승인을 받았으며, 재발성 급성골수성백혈병·골수섬유증 환자 대상 1상 임상시험이 UC샌디에이고에서 진행 중이다.",
+      "category": "science",
+      "source": "UC San Diego Today",
+      "sourceUrl": "https://today.ucsd.edu/area-story/rebecsinib-clinical-trial-means-new-options-for-blood-cancer",
+      "publishedAt": "2026-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "게임프리크 신작 '리인카네이션의 야수' 출시...세키로풍 액션RPG",
+      "summary": "게임프리크가 개발한 액션RPG '비스트 오브 리인카네이션'이 PS5·PC·Xbox 시리즈X/S로 8월 4일 정식 출시됐다. 4026년 폐허가 된 일본을 배경으로 캐릭터 엠마와 동료 개 '쿠'를 조작하며, 패링 중심 전투는 '세키로', '니어:오토마타' 등에 비견된다.",
+      "category": "gaming",
+      "source": "PlayStation Blog",
+      "sourceUrl": "https://blog.playstation.com/2026/02/12/beast-of-reincarnation-launches-on-ps5-august-4-2026/",
+      "publishedAt": "2026-08-04T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "옵시디언 '그라운디드 2', 8월 11일 PS5 얼리액세스로 확장",
+      "summary": "옵시디언 엔터테인먼트의 협동 생존 액션게임 '그라운디드 2'가 8월 11일 PS5용 얼리액세스로 출시된다. 2025년 7월 PC·Xbox 시리즈X/S로 먼저 출시됐으며, 이번 PS5 출시는 신규 업데이트 '인투 더 애비스'와 함께 진행된다.",
+      "category": "gaming",
+      "source": "Insider Gaming",
+      "sourceUrl": "https://insider-gaming.com/grounded-2-ps5-release-date-price/",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
+    }
+  ]
+}
