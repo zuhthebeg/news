@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-05",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 오전 외교·국방·통일 이어 오후 검경 업무보고 청취",
+      "summary": "이재명 대통령은 5일 외교부·통일부·국방부·국가보훈부로부터 오전 업무보고를 받고, 오후에는 교육부·국가교육위원회 등의 보고를 청취한다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260804156800001?section=politics/all",
+      "publishedAt": "2026-08-04T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "5대 은행 회수 포기한 대출 1조2천억…7년 만에 최대",
+      "summary": "KB국민·신한·하나·우리·NH농협 등 5대 은행의 올해 2분기 말 '추정손실' 대출채권이 1조2천109억원으로 집계돼, 코로나19 이전인 2019년 2분기 이후 최대 규모를 기록했다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260804125700002?section=economy/all",
+      "publishedAt": "2026-08-04T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "도망치는 상인 뒤쫓아 쾅…자폭드론 영상에 우크라 격분",
+      "summary": "러시아군이 조종한 것으로 추정되는 자폭드론이 우크라이나 헤르손 지역 시장 상인을 쫓아가 공격하는 영상이 소셜미디어에 퍼지면서 우크라이나 내 비난 여론이 커지고 있다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260804156151109?section=international/all",
+      "publishedAt": "2026-08-04T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "메타·구글, '소셜미디어 중독' 소송에서 배심원단으로부터 과실 인정 판결",
+      "summary": "인스타그램(메타)과 유튜브(구글)의 소셜미디어 중독 피해를 다툰 배심원 재판에서, 두 회사가 이용자에게 위험성을 제대로 경고하지 않은 과실이 있다고 인정됐다. 배심원단은 두 회사에 총 300만 달러의 손해배상을 명령했으며 메타가 그중 70%를 부담한다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/policy/900654/meta-google-instagram-youtube-social-media-addiction-trial-kgm-jury-decision",
+      "publishedAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "스냅, 2,195달러 AR 글래스 'Specs' 정식 출시",
+      "summary": "스냅이 12년간 개발해온 증강현실 안경 'Specs'를 2,195달러에 정식 출시했다. 에반 스피겔 CEO는 CNBC 인터뷰에서 컴퓨팅을 일상 속으로 가져오려는 시도라고 설명했다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/950492/snap-specs-ar-glasses-launch-date-preorder",
+      "publishedAt": "2026-08-03T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "라이스대, 더 정밀한 양자 시뮬레이션 위한 '온도 다이얼' 개발",
+      "summary": "미국 라이스대학 연구진이 트랩드 이온 시뮬레이터 내부 온도를 정밀하게 조절하는 기술을 개발했다. 이를 통해 특정 온도에서의 양자 시뮬레이션이 가능해져 관련 연구의 정확도가 높아질 전망이다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-08-temperature-dial-realistic-quantum-simulations.html",
+      "publishedAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "유독 모기에게 잘 물리는 사람, 이유는 체질 차이",
+      "summary": "일부 사람들은 모기에게 유독 자주 물리고 다른 사람은 거의 물리지 않는 현상에 대해, 모기가 특정 체취·체질을 가진 사람을 선호한다는 연구 결과가 나왔다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-08-people-mosquito-magnets-unbitten.html",
+      "publishedAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "MS, 엑스박스 스튜디오 4곳 매각하며 대규모 감원 단행",
+      "summary": "마이크로소프트가 전체 4,800명 감원을 발표한 가운데 그중 30% 이상이 엑스박스 부문에 집중돼 있다. 엑스박스 CEO 아샤 샤르마는 내부 메모에서 이를 '리셋' 순간이라 표현했으며, 게임 스튜디오 4곳이 독립 운영 체제로 매각·분리된다.",
+      "category": "gaming",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/961546/xbox-layoffs-studio-sales-2026",
+      "publishedAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "로블록스, 화상채팅 서비스 '로블록스 커넥트' 종료",
+      "summary": "로블록스가 2023년 도입했던 아바타 기반 화상통화 서비스 '로블록스 커넥트'를 종료한다고 밝혔다. 이 서비스는 이용자의 표정을 아바타에 반영해 대화할 수 있는 기능이었다.",
+      "category": "gaming",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
+      "publishedAt": "2026-08-04T00:00:00Z"
+    }
+  ]
+}
