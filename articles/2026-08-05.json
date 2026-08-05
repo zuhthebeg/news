@@ -90,6 +90,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/LoHhhha/LATO.2",
       "publishedAt": "2026-07-28T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "[Image] NVIDIA, Qwen-Image 4스텝 증류판 'Qwen-Image-Flash' 공개",
+      "summary": "[Image] NVIDIA가 Qwen/Qwen-Image(20B)를 DMD2 방식으로 증류해 4스텝 추론만으로 이미지를 생성하는 Qwen-Image-Flash를 공개했다(HF 확인: 최초공개 2026-07-01, 최근 업데이트 2026-08-04, 라이선스 nvidia-open-model-license·상업 사용 허용). cocy.io에서 쓸모: 게임 카드·썸네일처럼 대량으로 뽑아야 하는 이미지 작업에서 스텝수를 4로 줄여 생성 속도를 크게 단축할 수 있어, 지금 쓰는 FLUX 로컬 파이프라인과 속도 비교해볼 가치가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nvidia/Qwen-Image-Flash",
+      "publishedAt": "2026-08-05T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "[Audio] 경량 제로샷 다국어 TTS 'Audio8-TTS-Preview-0.6b' 공개",
+      "summary": "[Audio] Audio8이 0.6B 크기로 한국어 포함 11개 언어 제로샷 보이스 클로닝을 지원하는 경량 TTS를 공개했다(HF 확인: 최초공개 2026-07-28, 라이선스 apache-2.0·상업 사용 허용). cocy.io에서 쓸모: 파라미터 수가 작아 게임 캐릭터 보이스나 쇼츠 내레이션용 로컬 TTS 후보로, 지금 표준으로 쓰는 CosyVoice3와 품질·속도를 비교 실험해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+      "publishedAt": "2026-08-05T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "[Audio][Edge] ACE-Step v1.5 XL Turbo, 브라우저 WebGPU용 ONNX 포팅 공개",
+      "summary": "[Audio][Edge] 공식 ACE-Step/acestep-v15-xl-turbo(4.169B 음악 생성 디퓨전 트랜스포머)를 INT4/INT8로 양자화해 브라우저에서 WebGPU로 바로 돌리는 ONNX 포팅이 공개됐다(HF 확인: 최초공개 2026-07-26, 최근 업데이트 2026-08-03, 라이선스 MIT·상업 사용 허용). cocy.io에서 쓸모: 지금 WSL Python venv로 돌리는 ACE-Step BGM 생성을 브라우저(WebGPU)로 옮기면, 어드민 툴에 곡 생성 버튼을 심어 헤드리스 스크립트 없이 바로 실험해볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/emb1ter/ACE-Step-v1.5-XL-Turbo-ONNX-WebGPU",
+      "publishedAt": "2026-08-05T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "[Video][Audio] MiniMax, 오디오·비디오 동기 생성 통합 모델 'MiniMax H3' 공개",
+      "summary": "[Video][Audio] MiniMax가 음성·효과음·음악과 비디오를 하나의 모델에서 동기화해 생성하는 MiniMax H3(33B)를 공개했고, 커뮤니티에서 20B~26B급 GGUF 양자화판도 여럿 올라왔다(HF 확인: 최초공개 2026-07-28, 최근 업데이트 2026-08-04, 라이선스는 MiniMax H3 자체 커뮤니티 라이선스로 상업 사용은 허용하나 EU·영국은 적용 지역에서 제외됨). cocy.io에서 쓸모: 게임 트레일러·쇼츠에 효과음·립싱크가 동기화된 짧은 영상을 한 모델로 뽑아보는 실험 대상이 될 수 있으나, 20B대 양자화판도 3080Ti 12GB에서 실제 구동 가능한지는 아직 확인되지 않아 로컬보다 API/클라우드 테스트가 먼저다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-H3",
+      "publishedAt": "2026-08-05T00:00:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "[Audio][Edge] CPU 전용 초경량 TTS 'Inflect-Micro-v2' 공개",
+      "summary": "[Audio][Edge] VITS 기반 24kHz 음성합성 모델 Inflect-Micro-v2가 GPU 없이 CPU만으로 구동되는 초경량 엣지용 TTS로 공개됐다(HF 확인: 최초공개 2026-06-25, 최근 업데이트 2026-07-31, 라이선스 apache-2.0·상업 사용 허용, 현재 영어만 지원). cocy.io에서 쓸모: GPU가 없는 log.cocy.io 같은 서버 환경에서도 즉석으로 알림·안내 음성을 합성할 수 있는 완전 엣지용 TTS 후보다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/owensong/Inflect-Micro-v2",
+      "publishedAt": "2026-08-05T00:00:00+09:00"
     }
   ]
 }
