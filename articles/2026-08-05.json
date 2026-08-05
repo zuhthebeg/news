@@ -81,6 +81,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
       "publishedAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Image] LATO.2, 정점·위상 분리 방식 3D 메시 생성 모델 공개",
+      "summary": "[Image] 중국 연구팀이 3D 메시 생성을 정점 위치(V-Flow)와 위상 연결(T-Flow) 두 단계로 분리한 LATO.2를 발표했다. 정점 수 200~5,000개 사이 조절이 가능하고 파츠 단위 생성, 위상 적응형 편집(메시 일부만 재생성)을 지원하며 VRAM 약 8GB로 로컬 구동 가능(코드·가중치 MIT 라이선스). cocy.io에서 쓸모: 게임 캐릭터/오브젝트 3D 에셋을 로컬 3080Ti로 생성하고 폴리곤 수를 직접 통제할 수 있어, 저작권 걱정 없는 3D 프로토타입 파이프라인 실험에 바로 시도해볼 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/LoHhhha/LATO.2",
+      "publishedAt": "2026-07-28T00:00:00+09:00"
     }
   ]
 }

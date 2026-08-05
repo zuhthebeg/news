@@ -336,6 +336,20 @@
         "problem-solving"
       ],
       "addedAt": "2026-08-04"
+    },
+    {
+      "title": "Skill Audit",
+      "description": "스킬 게시 전 코드/SKILL.md/메타데이터 3계층 보안 자가진단을 자동 실행하는 메타스킬. 300개+ 악성 스킬이 퍼졌던 ClawHavoc 사태 이후 체크리스트를 자동화했다.",
+      "icon": "🛡️",
+      "category": "dev",
+      "url": "https://github.com/KimmyPlusLi/skill-audit",
+      "tags": [
+        "security",
+        "skill-vetting",
+        "clawhub",
+        "meta-skill"
+      ],
+      "addedAt": "2026-08-05"
     }
   ]
 }
