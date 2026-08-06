@@ -350,6 +350,33 @@
         "meta-skill"
       ],
       "addedAt": "2026-08-05"
+    },
+    {
+      "title": "Smart Video Editor",
+      "description": "여러 원본 영상 클립을 비전 모델로 먼저 분석(구도·흔들림·사용가능 구간)한 뒤 컷 순서·길이·색보정·BGM까지 정하고 ffmpeg로 렌더링하는 편집 스킬.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://github.com/Fagan1024/smart-video-editor",
+      "tags": [
+        "video-editing",
+        "vision-model",
+        "ffmpeg",
+        "shorts"
+      ],
+      "addedAt": "2026-08-06"
+    },
+    {
+      "title": "AgentVitals Checkup",
+      "description": "에이전트 자신의 응답 안정성·주도성·비판적 사고 등을 벤치마크하는 셀프 헬스체크 스킬. \"/checkup\"으로 실행해 성격·신뢰도 상태를 점검.",
+      "icon": "🩺",
+      "category": "dev",
+      "url": "https://github.com/agentvitals/checkup",
+      "tags": [
+        "self-test",
+        "benchmark",
+        "agent-quality"
+      ],
+      "addedAt": "2026-08-06"
     }
   ]
 }

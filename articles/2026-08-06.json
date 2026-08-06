@@ -81,6 +81,15 @@
       "source": "인벤",
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=319142",
       "publishedAt": "2026-08-03T13:09:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "JoyAI-Video-Edit, 실시간 스트리밍 영상 편집 오픈모델 공개",
+      "summary": "[Video] JD가 실시간 오픈엔디드 영상 편집 모델 JoyAI-Video-Edit를 공개했다. 자기회귀 디퓨전 구조로 라이브 카메라 스트림이나 업로드 영상을 프레임 단위로 즉시 편집하며, 720x1280 해상도에서 30.19FPS를 달성해 오프라인 배치 편집을 스트리밍 방식으로 전환했다. 자연어 지시만으로 피사체 교체·배경 변경·스타일 전환·모션 변경까지 지원한다(Apache-2.0). cocy.io에서 쓸모: 게임 플레이 영상이나 쇼츠 소재를 촬영 후 자연어 명령으로 즉시 스타일·배경을 바꿔 홍보용 클립을 빠르게 뽑는 파이프라인에 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face – JD Open Source",
+      "sourceUrl": "https://huggingface.co/jdopensource/JoyAI-Video-Edit",
+      "publishedAt": "2026-08-04T17:26:05+09:00"
     }
   ]
 }
