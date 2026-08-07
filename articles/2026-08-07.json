@@ -102,6 +102,51 @@
       "title": "BigMoeOnEdge: 스톡 llama.cpp로 RAM보다 큰 MoE 모델 구동",
       "summary": "[Edge] Mixture-of-Experts 모델이 토큰마다 일부 전문가만 쓰는 구조를 그대로 활용해, 항상 필요한 코어만 메모리에 두고 나머지 전문가 가중치는 플래시 스토리지에서 그때그때 읽어와 284B급 모델을 12GB 폰에서 CPU만으로 무손실 구동했다고 밝힌 프로젝트. 별도 포크 없이 스톡 llama.cpp 위에서 동작하며 라이선스는 Apache-2.0(상업 허용). cocy.io에서 쓸모: 저사양 서버·엣지 디바이스에서 대형 로컬 모델을 돌려야 할 때 VRAM/RAM 제약을 우회하는 참고 기법으로 유용하다.",
       "sourceUrl": "https://github.com/Helldez/BigMoeOnEdge"
+    },
+    {
+      "id": "13",
+      "title": "Sulphur 2, LTX-2.3 기반 텍스트→비디오 올인원 패키지 공개",
+      "summary": "[Video] Lightricks LTX-2.3을 베이스로 증류 LoRA·프롬프트 인핸서(검열/비검열판)·GGUF 양자화까지 한 리포에 묶은 텍스트투비디오 모델. HF 트렌딩 상위권(다운로드 39만·좋아요 1965), 2026-08-05 업데이트. 라이선스는 LTX-2 Community License — 연매출 1000만 달러 미만 엔티티는 무료 상업 이용 가능(이상이면 별도 유료 계약), cocy.io 규모라면 상업 이용에 제약 없다. cocy.io에서 쓸모: 쇼츠·게임 트레일러용 로컬 비디오 생성 후보로, 내장 프롬프트 인핸서가 영상 프롬프트 작성 부담을 줄여줄 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SulphurAI/Sulphur-2-base",
+      "publishedAt": "2026-08-05T20:28:53Z"
+    },
+    {
+      "id": "14",
+      "title": "Stable Audio 3, CPU·모바일용 TFLite/ONNX/MLX/AMX 최적화판 공개",
+      "summary": "[Audio][Edge] 기존 Stable Audio 3(디퓨전 기반 음악·효과음 생성)를 GPU 없이 도는 TFLite·ONNX·MLX·CPU-AMX 포맷으로 재배포한 최적화판. 2026-08-02 업데이트, 다운로드 4.6k. 라이선스는 Stability AI Community License(license:other, license_name stable-audio-community) — 매출 임계값 이하는 무료 상업 이용, 이상이면 유료 계약 필요(기존 stable-audio-3와 동일 조건). cocy.io에서 쓸모: 3080Ti 없는 저사양 서버·CPU 환경에서도 BGM/SFX를 생성해야 할 때 참고할 경량 배포 옵션.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-optimized",
+      "publishedAt": "2026-08-02T10:41:27Z"
+    },
+    {
+      "id": "15",
+      "title": "PixelModel v6, 1.55억 파라미터 초소형 text-to-image 아키텍처 실험",
+      "summary": "[Image] MMDiT식 joint self-attention과 T5 텍스트 컨디셔닝을 적용한 1억5500만 파라미터급 초소형 diffusion transformer. A100 2장으로 55시간 학습, 256×256 이미지를 50스텝으로 생성. 2026-08-06 업데이트(공개 24시간 이내), 라이선스 MIT(상업 허용). cocy.io에서 쓸모: 완성형 제품이라기보다 초경량 아키텍처 실험 사례로, 저해상도 아이콘·썸네일 전용 소형 모델을 직접 학습할 때 참고할 아키텍처 레퍼런스.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/bench-labs/PixelModel-v6",
+      "publishedAt": "2026-08-06T07:04:54Z"
+    },
+    {
+      "id": "16",
+      "title": "withoutBG Open Weights v3, 로컬 전용 배경 제거 모델 3세대 공개",
+      "summary": "[Image][Edge] 잔털·유리·투명 오브젝트처럼 배경 제거가 까다로운 케이스에 강화한 오픈 웨이트 모델 3세대. Docker(CPU/GPU)·macOS 앱으로 완전 로컬 구동되고 GIMP 3 플러그인도 제공한다. 파이썬 SDK(withoutbg-python)는 Apache-2.0(상업 허용, GitHub 라이선스 파일로 직접 확인). cocy.io에서 쓸모: 게임 캐릭터 아트·상품 이미지 배경 제거를 remove.bg 같은 유료 API 없이 로컬로 대체하는 파이프라인 후보.",
+      "category": "ai-tech",
+      "source": "GitHub / Hugging Face",
+      "sourceUrl": "https://github.com/withoutbg/withoutbg-python",
+      "publishedAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "Irodori-TTS v4, 이모지로 감정·의성어까지 조절하는 일본어 보이스디자인 TTS",
+      "summary": "[Audio] 텍스트+레퍼런스 음성+캡션 텍스트를 결합한 RF-DiT 구조의 일본어 TTS. 제로샷 보이스클로닝과 텍스트 기반 보이스 디자인을 지원하고, 입력 텍스트에 특정 이모지를 넣으면 말투·감정·비언어적 발성까지 조절된다. 2026-08-01 업데이트, 라이선스 MIT(상업 허용), 다만 일본어 전용 모델. cocy.io에서 쓸모: 모델 자체보다 '이모지로 감정 태깅해 TTS 톤을 제어'하는 인터페이스 아이디어가 CosyVoice3 기반 게임 보이스 파이프라인의 UX 개선에 참고가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Aratako/Irodori-TTS-v4-Small",
+      "publishedAt": "2026-08-01T15:54:46Z"
     }
   ]
 }
