@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-07",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령 폭염 국가재난 선포…온열질환 사망 21명",
+      "summary": "5월 15일부터 8월 4일까지 전국 온열질환자 2441명, 추정 사망 21명(80세 이상 13명)이 집계됐다. 서울 등 수도권과 강원·전라 내륙은 최고 단계 폭염경보가 발령됐고, 이재명 대통령은 7일 정부서울청사에서 폭염·가뭄 대응 점검회의를 주재해 고령·1인가구 보호와 옥외노동 안전수칙 강화를 지시했다.",
+      "category": "domestic",
+      "source": "The Watchers (KDCA·KMA 인용)",
+      "sourceUrl": "https://watchers.news/2026/08/06/record-breaking-heat-impacts-south-korea-suspected-heat-death-toll-rises-to-21/",
+      "publishedAt": "2026-08-06T15:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "국내 최대 400MW 해남 태양광 복합단지 7일 착공",
+      "summary": "전남 해남에 국내 단일부지 최대 규모인 400MW급 태양광 발전단지가 8월 7일 착공식을 갖는다. 유휴지·염해피해지 479만㎡에 조성되며 2028년 완공 목표로 연간 529GWh(가구 약 13만호분)를 공급한다. 한화큐셀 국산 모듈을 사용하고 지역 이익공유제로 10년간 1500억원을 지역사회에 환원할 계획이다.",
+      "category": "economy",
+      "source": "PV Magazine",
+      "sourceUrl": "https://www.pv-magazine.com/2026/08/06/south-korea-proceeds-with-largest-single-site-pv-project-to-date/",
+      "publishedAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "경찰, '홍명보 선임 의혹' 대한축구협회 압수수색",
+      "summary": "서울경찰청 광역수사단 금융범죄수사대가 8월 6일 충남 천안 대한축구협회 사무실 등을 압수수색했다. 홍명보 전 축구대표팀 감독 선임 과정에 협회의 부당 개입이 있었는지가 수사 대상이며, 앞서 4일에는 홍 전 감독을 피의자 신분으로 소환 조사했다. 협회 창립 이래 첫 경찰 강제수사로 알려졌다.",
+      "category": "domestic",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://www.yonhapnewstv.co.kr/news/AKR202608061027007l5",
+      "publishedAt": "2026-08-06T01:27:00Z"
+    },
+    {
+      "id": "4",
+      "title": "스노우플레이크 해커, 1억명 피해 데이터 유출 혐의 유죄 인정",
+      "summary": "코너 라일리 무카(26)가 8월 5일 시애틀 연방법원에서 2024년 스노우플레이크 고객사 165곳 이상을 해킹해 최소 1억명의 개인정보를 유출한 혐의(전산사기·신원도용 등)에 유죄를 인정했다. MFA 미적용 및 과거 유출된 로그인 정보가 침해 경로였으며, 그는 몸값·데이터 판매로 최소 49만5000달러를 챙긴 것으로 조사됐다. 선고는 10월 27일.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/snowflake-hacker-pleads-guilty-over.html",
+      "publishedAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "AWS·구글·버셀 AI 에이전트 인프라서 '모델 우회' 취약점 발견",
+      "summary": "아마존 베드록 AgentCore, 구글 Agent Development Kit(ADK), 버셀 AI SDK 하네스 패키지에서 모델의 응답 없이도 위조된 명령이 에이전트 툴을 직접 실행시킬 수 있는 취약점이 발견됐다. 시스템 프롬프트나 콘텐츠 필터 같은 모델 단 가드레일이 개입할 기회조차 없었던 것으로, AWS는 관리형 서비스를 패치했고 구글은 ADK 2.5.0, 버셀은 관련 SDK 패키지 최신 버전에서 수정했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/aws-google-and-vercel-patch-agent-flaws.html",
+      "publishedAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "\"우주비행, 여성 생식 능력에 대물림되는 영향\" 쥐 실험서 확인",
+      "summary": "캔자스대 의료센터 연구진이 국제우주정거장(ISS)에서 42일간 체류한 암컷 쥐를 대상으로 한 연구에서, 귀환 후 낳은 새끼 수가 대조군보다 적고 새끼·손자 세대까지 생식세포 수 감소 등 생리적 변화가 유전되는 것을 확인했다고 국립과학원회보(PNAS)에 발표했다. 우주여행이 난소·난자에 후성유전학적 변화를 일으킬 가능성이 제기됐다.",
+      "category": "science",
+      "source": "University of Kansas Medical Center",
+      "sourceUrl": "https://www.kumc.edu/about/news/news-archive/space-travel-impact.html",
+      "publishedAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "ISS서 대량 줄기세포 생산 실험…암 치료제 개발 앞당긴다",
+      "summary": "NASA는 국제우주정거장 제74차 탐사대가 'InSPA-StemCellEX-H2' 실험을 통해 미세중력 환경에서 혈액 줄기세포를 대량 생산하는 연구를 진행 중이라고 밝혔다. 지상에서 재현하기 어려운 미세중력 조건을 활용해 제약·임상용 줄기세포 생산량을 늘리고, 조직공학·재생의학용 생체재료 연구에도 활용할 계획이다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/station/iss-research/growing-stem-cells-in-space-to-improve-cancer-and-disease-treatments/",
+      "publishedAt": "2026-08-05T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'GTA 6' 확장판 티저, 8월 27일 넷플릭스서 6시간 단독 공개",
+      "summary": "락스타게임즈가 11월 출시되는 'GTA 6'의 '익스텐디드 룩' 영상을 8월 27일 오후 3시(미 동부시간) 넷플릭스에서 세계 최초 공개한다고 발표했다. 넷플릭스 미구독자는 6시간 뒤인 오후 9시부터 락스타 유튜브 채널과 GTA 6 공식 홈페이지에서 시청할 수 있다. 넷플릭스와 게임업계의 이례적 단독 파트너십으로 주목받고 있다.",
+      "category": "gaming",
+      "source": "Forbes",
+      "sourceUrl": "https://www.forbes.com/sites/paultassi/2026/08/06/new-gta-vi-extended-look-will-be-exclusive-to-netflix-for-six-hours/",
+      "publishedAt": "2026-08-06T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "캡콤, '몬스터헌터 와일즈' 영구 가격 인하…DLC 번들 개편",
+      "summary": "캡콤이 8월 4일부터 '몬스터헌터 와일즈' 본편 가격을 영구 인하하고 기존 디럭스·프리미엄 디럭스 에디션 판매를 종료한다고 밝혔다. 대신 본편+코스메틱 DLC를 묶은 골드 에디션, 코스메틱 DLC 컬렉션 등 신규 번들이 출시된다. 앞서 닌텐도 스위치2 이식 발표에 이은 추가 호재로, 이용자들은 대체로 긍정적인 반응을 보이고 있다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/capcom-gives-monster-hunter-wilds-a-permanent-price-reduction-as-new-dlc-bundles-announced",
+      "publishedAt": "2026-08-04T00:00:00Z"
+    }
+  ]
+}
