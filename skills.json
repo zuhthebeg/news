@@ -377,6 +377,32 @@
         "agent-quality"
       ],
       "addedAt": "2026-08-06"
+    },
+    {
+      "title": "Aperture",
+      "description": "매일 소스 페이지를 스캔해 어제와 비교하고 가중 프로필로 선별·LLM 리뷰·중복제거까지 자동화하는 데일리 리포트 큐레이션 스킬. 모든 판단을 append-only 테이프에 기록해 감사·재생이 가능하다.",
+      "icon": "🗞️",
+      "category": "productivity",
+      "url": "https://github.com/lukethecat/aperture",
+      "tags": [
+        "daily-report",
+        "curation",
+        "automation"
+      ],
+      "addedAt": "2026-08-07"
+    },
+    {
+      "title": "DeepSeek Vision Bridge",
+      "description": "텍스트 전용 모델(DeepSeek 등)에 시각 능력을 붙여주는 스킬. GLM-4V-Flash로 이미지/스크린샷을, MinerU로 문서를 해석하고 자동 라우팅·다운그레이드 체인·결과 캐싱까지 지원한다.",
+      "icon": "👁️",
+      "category": "dev",
+      "url": "https://github.com/zhaoyingjie985/deepseek-vision-skill-WSL-",
+      "tags": [
+        "vision",
+        "ocr",
+        "deepseek"
+      ],
+      "addedAt": "2026-08-07"
     }
   ]
 }

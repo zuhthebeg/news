@@ -81,6 +81,27 @@
       "source": "IGN",
       "sourceUrl": "https://www.ign.com/articles/capcom-gives-monster-hunter-wilds-a-permanent-price-reduction-as-new-dlc-bundles-announced",
       "publishedAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "category": "ai-tech",
+      "title": "Voice Clone Lab: 로컬 GPU에서 목소리 클론+합성 CLI/웹UI",
+      "summary": "[Audio] 5~15분 분량 음성만으로 Qwen3-TTS를 파인튜닝해 개인 목소리 모델을 만드는 오픈소스 도구. 녹음/유튜브 링크 업로드→정제→전사→학습까지 가이드형 파이프라인을 제공하며 오디오·전사·모델이 기기 밖으로 나가지 않는 완전 로컬 실행과 zero-shot 클립 미리듣기를 지원한다. 라이선스 Apache-2.0(상업 허용), 학습에는 24GB+ VRAM 필요하나 추론만은 8GB급으로도 가능. cocy.io에서 쓸모: 고스톱 콜 음성처럼 특정 화자 목소리를 게임 캐릭터 보이스로 로컬 클로닝할 때 기존 CosyVoice3 파이프라인의 대안·보완으로 검토할 만하다.",
+      "sourceUrl": "https://github.com/tetsuo-ai/voice_clone_lab"
+    },
+    {
+      "id": "11",
+      "category": "ai-tech",
+      "title": "Timeline Studio: 브라우저에서 도는 로컬 AI 비디오 에디터(WebGPU)",
+      "summary": "[Video] 타임라인 편집·AI 보이스오버·자막·토킹아바타까지 브라우저 안에서 WebGPU로 처리하는 오픈소스 비디오 에디터가 공개됐다. 서버 업로드 없이 로컬 우선으로 동작하며 결정론적(deterministic) 익스포트를 표방한다. 라이선스 MIT(상업 허용). cocy.io에서 쓸모: 쇼츠 파이프라인의 자막·보이스오버·컷편집 단계를 서버 호출 없이 브라우저에서 처리하는 대안으로 검토할 가치가 있다.",
+      "sourceUrl": "https://github.com/MartinDelophy/ai-video-editor"
+    },
+    {
+      "id": "12",
+      "category": "ai-tech",
+      "title": "BigMoeOnEdge: 스톡 llama.cpp로 RAM보다 큰 MoE 모델 구동",
+      "summary": "[Edge] Mixture-of-Experts 모델이 토큰마다 일부 전문가만 쓰는 구조를 그대로 활용해, 항상 필요한 코어만 메모리에 두고 나머지 전문가 가중치는 플래시 스토리지에서 그때그때 읽어와 284B급 모델을 12GB 폰에서 CPU만으로 무손실 구동했다고 밝힌 프로젝트. 별도 포크 없이 스톡 llama.cpp 위에서 동작하며 라이선스는 Apache-2.0(상업 허용). cocy.io에서 쓸모: 저사양 서버·엣지 디바이스에서 대형 로컬 모델을 돌려야 할 때 VRAM/RAM 제약을 우회하는 참고 기법으로 유용하다.",
+      "sourceUrl": "https://github.com/Helldez/BigMoeOnEdge"
     }
   ]
 }
