@@ -72,6 +72,24 @@
       "source": "IGN",
       "sourceUrl": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
       "publishedAt": "2026-08-08T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "sprite-gen, 정지 프레임 1장을 숨쉬는 애니메이션 루프로 바꾸는 오픈소스 스프라이트 아틀라스 생성기",
+      "summary": "[Tool] 픽셀아트 캐릭터 정지 프레임 1장에 'Breathe' 알고리즘으로 결정론적 스쿼시&스트레치를 입혀 idle 호흡 루프를 자동 생성하고, Unity·Godot·GameMaker용 게임레디 스프라이트 아틀라스로 export하는 오픈소스 툴(Apache-2.0, GitHub 638★, Claude/Codex 스킬로도 제공). cocy.io에서 쓸모: 조커런·마작 등 SDXL로 뽑은 캐릭터 정지 아트에 별도 애니메이션 프레임 제작 없이 idle 모션을 즉시 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/aldegad/sprite-gen",
+      "publishedAt": "2026-08-06T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "QuerySplat, 이미지 몇 장으로 3D 가우시안 스플래팅을 즉시 재구성하는 피드포워드 모델 공개",
+      "summary": "[Image] 기하 분기와 외관 분기를 분리한 듀얼브랜치 디코더로, 사전학습 시각 기하 모델 기반 공간 이해와 고주파 디테일 복원을 나눠 처리해 여러 장의 사진에서 3D Gaussian Splatting 장면을 재구성하는 오픈소스 모델(Apache-2.0, HF 공개 2026-08-02, GitHub 262★). cocy.io에서 쓸모: 실사진 기반 3D 배경·오브젝트를 별도 3D 모델링 없이 스플래팅으로 빠르게 에셋화하는 실험 후보로 검토할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inspatio/querysplat",
+      "publishedAt": "2026-08-02T00:00:00+09:00"
     }
   ]
 }
