@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-08",
+  "articles": [
+    {
+      "id": "1",
+      "title": "SK하이닉스, 신규 메모리 팹 2곳에 54조3천억원 투자 승인",
+      "summary": "SK하이닉스 이사회가 급증하는 AI 메모리 수요에 대응해 용인 Y2 팹과 청주 M17 팹 건설에 54조3천억원(약 380억달러)을 투자하기로 승인했다.",
+      "category": "economy",
+      "source": "KED Global",
+      "sourceUrl": "https://www.kedglobal.com/korean-chipmakers/newsView/ked202608070011",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "이재명 대통령, 기록적 폭염에 \"총력 대응\" 지시",
+      "summary": "서울 기온이 39도까지 치솟는 등 기록적 폭염이 이어지며 사망자가 20명을 넘어서자, 이재명 대통령이 폭염 대응 회의를 열고 모든 부처와 지자체에 가용 자원을 총동원하라고 지시했다.",
+      "category": "domestic",
+      "source": "Reuters (Internazionale)",
+      "sourceUrl": "https://www.internazionale.it/ultime-notizie-reuters/2026/08/06/south-korea-s-president-orders-all-out-response-to-heatwave",
+      "publishedAt": "2026-08-06T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "집중호우로 유실된 북한 지뢰 15개, 남한 해안서 수거",
+      "summary": "장마철 집중호우로 비무장지대(DMZ) 인근에서 유실된 것으로 추정되는 지뢰 15개가 남한 해안 지역에서 발견돼 수거됐다. DMZ 일대에는 약 80만개의 지뢰가 매설된 것으로 추정된다.",
+      "category": "world",
+      "source": "APA (Al Arabiya)",
+      "sourceUrl": "https://en.apa.az/asia/south-korea-recovers-landmines-washed-from-north-by-floods-519398",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "CISA, 젯브레인스 TeamCity 원격코드실행 취약점 실제 악용 확인",
+      "summary": "미국 CISA가 온프레미스 젯브레인스 TeamCity의 역직렬화 취약점(CVE-2026-63077, CVSS 9.8)이 실제 공격에 악용되고 있다고 경고했다. 연방기관은 8월 8일까지 패치 적용 시한이 부여됐다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/cisa-flags-teamcity-cve-2026-63077-rce.html",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "노트북 제조사 프레임워크, 3자 BI 툴 제로데이로 고객정보 유출",
+      "summary": "모듈형 노트북 제조사 Framework Computer가 협력사 Metabase의 제로데이 취약점을 통해 해킹당해 고객 이름·이메일·전화번호·주소가 유출됐다. 결제정보는 노출되지 않았다.",
+      "category": "tech",
+      "source": "PCMag",
+      "sourceUrl": "https://au.pcmag.com/security/119220/upgradable-laptop-maker-framework-suffers-breach-affecting-all-customers",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "ESA·DLR, 100일 격리 우주비행 모의실험 'SOLIS100' 종료",
+      "summary": "유럽우주국(ESA)과 독일항공우주센터(DLR)가 쾰른 :envihab 시설에서 진행한 100일간의 격리 실험을 마쳤다. 6개국 승무원의 신체·인지 능력, 수면, 팀워크 데이터를 확보해 향후 장기 우주임무에 활용할 예정이다.",
+      "category": "science",
+      "source": "DLR",
+      "sourceUrl": "https://www.dlr.de/en/latest/news/2026/day-100-the-solis100-isolation-study-comes-to-an-end",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "PS6, 'RAM대란'으로 2027년 출시 불투명",
+      "summary": "메모리 반도체 공급난('RAMpocalypse')으로 플레이스테이션6와 마이크로소프트 프로젝트 헬릭스의 2027년 출시가 흔들리고 있다. 스팀 머신도 동일한 부품난 여파를 겪고 있다.",
+      "category": "gaming",
+      "source": "GamingBible",
+      "sourceUrl": "https://www.gamingbible.com/news/platform/playstation/ps6-2027-unlikely-ram-update-grim-544500-20260807",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "8월 신작 게임 대거 출시... 비스트 오브 리인카네이션·마블 토콘 등",
+      "summary": "포켓몬 개발사 게임프릭이 만든 액션RPG '비스트 오브 리인카네이션', 태그 격투게임 '마블 토콘: 파이팅 소울즈' 등이 8월 초 출시됐다. 이달 말에는 '스타워즈: 제로 컴퍼니', '얼라이언: 파이어팀 엘리트2' 등이 대기 중이다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/video-game-release-dates-ps4-ps5-xbox-one-series-x-nintendo-switch",
+      "publishedAt": "2026-08-08T00:00:00+09:00"
+    }
+  ]
+}
