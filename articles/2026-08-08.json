@@ -90,6 +90,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/inspatio/querysplat",
       "publishedAt": "2026-08-02T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "MeanVC2, 110ms 지연의 초경량 실시간 보이스 컨버전 모델 공개",
+      "summary": "[Audio] ASLP-lab이 공개한 18M 파라미터 제로샷 실시간 음성 변환 모델. Future-Receptive Chunking과 Universal Timbre Token Encoder로 40ms 청크 기준 end-to-end 110ms 첫 패킷 지연, 단일 CPU 코어 기준 RTF 0.633 미만을 달성했다(Apache-2.0, HF 2026-07-31 공개). cocy.io에서 쓸모: 멀티플레이 게임 NPC 보이스나 실시간 보이스체인저 기능에 저지연으로 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ASLP-lab/MeanVC2",
+      "publishedAt": "2026-07-31T01:30:48+09:00"
+    },
+    {
+      "id": "12",
+      "title": "VoxCPM2, 2B 다국어 TTS 공개…RTX 4090서 RTF 0.3",
+      "summary": "[Audio] OpenBMB의 2B 파라미터 토크나이저프리 TTS 모델. 30개 언어(한국어 포함)+중국어 방언 9종을 지원하고 48kHz 출력, RTX 4090 기준 RTF 약 0.3(Nano-VLLM 가속 시 0.13)을 모델카드에 명시했다(Apache-2.0, HF 2026-04-03 공개). cocy.io에서 쓸모: 한국어 포함 다국어 내레이션·게임 대사 로컬라이즈용 TTS로 3080Ti급에서도 시도해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/openbmb/VoxCPM2",
+      "publishedAt": "2026-04-03T14:25:50+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Pixal3D, 픽셀 특징을 3D로 직접 역투영하는 이미지→3D 생성 모델 공개",
+      "summary": "[Image] TencentARC가 공개한 이미지→3D 생성 모델. Sparse Structure→Shape→Texture 3단계 캐스케이드(Trellis.2 백본)로 픽셀-3D 대응관계를 구축하며, 피크 메모리를 줄인 저VRAM 모드(1024 해상도, 온디맨드 모델 로딩)를 지원한다(MIT, HF 2026-04-30 공개). cocy.io에서 쓸모: 게임 3D 배경 프롭·오브젝트를 단일 컨셉 이미지에서 뽑아내는 실험용 파이프라인 후보로 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/TencentARC/Pixal3D",
+      "publishedAt": "2026-04-30T19:18:49+09:00"
+    },
+    {
+      "id": "14",
+      "title": "LightLingBot-Video, 4스텝 증류로 10배 빨라진 통합 영상 생성 LoRA 공개",
+      "summary": "[Video] LightX2V가 LingBot-Video 베이스 모델을 4스텝 추론으로 증류한 LoRA. 기존 40스텝 대비 약 10배 빠른 속도로 text-to-video/text-to-image/image-to-video를 하나의 어댑터로 처리한다(832×480, guidance scale 1.0 기준, Apache-2.0, HF 2026-07-28 공개). cocy.io에서 쓸모: 게임 트레일러·컷씬 프리비주얼용 로컬 영상 생성 실험에서 시간 단축 옵션으로 시도해볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lightx2v/LightLingBot-Video",
+      "publishedAt": "2026-07-28T16:30:17+09:00"
+    },
+    {
+      "id": "15",
+      "title": "cubepart, Roblox가 공개한 파트 제어형 3D 메시 생성 모델",
+      "summary": "[Tool] Roblox가 공개한 텍스트 기반 파트 제어형(part-controllable) 3D 메시 생성 모델. 사용자가 정의한 파트 스키마에 맞춰 여러 메시가 하나의 오브젝트로 조립되도록 생성하는 멀티파트 디퓨전 트랜스포머+Shape VAE 구조다(openrail, HF 2026-05-28 공개). cocy.io에서 쓸모: 무기·장비처럼 여러 부품으로 조립되는 게임 오브젝트를 파츠 단위로 절차 생성하는 실험에 적합.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Roblox/cubepart",
+      "publishedAt": "2026-05-28T02:30:22+09:00"
     }
   ]
 }
