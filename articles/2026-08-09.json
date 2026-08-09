@@ -81,6 +81,51 @@
       "source": "Hugging Face / NVIDIA",
       "sourceUrl": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
       "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] OpenMOSS, 경량 텍스트→효과음 생성 모델 'MOSS-SoundEffect v2.0' 공개",
+      "summary": "[Audio] OpenMOSS-Team이 5월 25일 공개한 MOSS-SoundEffect v2.0은 Qwen3-1.7B 기반 diffusion/flow-matching 아키텍처의 텍스트→SFX 생성 모델로, 파라미터 규모가 약 1.4B(48kHz VAE 포함)로 작아 로컬 추론 부담이 적다. 라이선스는 apache-2.0으로 상업 이용·수정·재배포가 자유롭다. cocy.io에서 쓸모: 현재 게임 SFX 파이프라인(TangoFlux)의 대안·보완재로 테스트해볼 만한 경량 효과음 생성 모델이다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / OpenMOSS-Team",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "[Audio] OpenMOSS, 다국어 TTS 모델 'MOSS-TTS v1.5' 공개",
+      "summary": "[Audio] OpenMOSS-Team이 5월 25일 공개한 MOSS-TTS v1.5는 한국어 포함 30개 이상 언어를 지원하는 약 8.5B 파라미터(BF16) TTS 모델이다. 커뮤니티 GGUF 양자화판(cstr/moss-tts-v1.5-GGUF)이 별도로 존재해 경량화 실행도 가능하다. 라이선스는 apache-2.0. cocy.io에서 쓸모: 기존 CosyVoice3 클로닝 보이스 외에 다국어 내레이션(쇼츠·게임 콜)용 대체 TTS 후보로 검토 가능하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / OpenMOSS-Team",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-TTS-v1.5",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "[Image] Black Forest Labs, 경량 이미지 생성·편집 모델 'FLUX.2 klein 4B' 공개",
+      "summary": "[Image] Black Forest Labs가 1월 공개한 FLUX.2 klein 패밀리의 4B 버전은 텍스트→이미지 생성과 멀티레퍼런스 이미지 편집을 하나의 경량 아키텍처로 통합했다. 공식 모델카드 기준 요구 VRAM은 약 13GB이며, 커뮤니티 GGUF 양자화판을 쓰면 12GB급 GPU에서도 구동 여지가 있다. 라이선스는 apache-2.0(9B 버전은 별도의 비상업 라이선스이므로 주의). cocy.io에서 쓸모: FLUX.1-dev/SDXL 게임 아트 파이프라인의 차세대 후보로, 서브초 추론과 이미지 편집 통합이 강점이라 아이콘·카드 아트 반복 작업에 유리하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Black Forest Labs",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "[Edge] ACE-Step 5Hz LM 4B, 브라우저 WebGPU(ONNX) 실험 포팅 공개",
+      "summary": "[Edge] 커뮤니티 개발자 emb1ter가 7월 27일 공개한 포팅판은 ACE-Step의 acestep-5Hz-lm-4B 플래너 모델(MIT)을 Transformers.js + ONNX Runtime Web용으로 변환한 실험적 WebGPU 버전이다. 라이선스는 원본과 동일한 MIT. 저자 스스로 '브라우저 오디오 품질을 이 스모크 테스트만으로 판단하지 말라'고 밝힌 실험 단계 변환이다. cocy.io에서 쓸모: 서버·로컬 GPU 없이 브라우저에서 BGM 플래닝 단계를 실행할 수 있어, 기존 ACE-Step BGM 파이프라인을 게임 클라이언트 내 온디바이스 프로토타입으로 확장할 실험적 단서가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / emb1ter",
+      "sourceUrl": "https://huggingface.co/emb1ter/ACE-Step-v1.5-5Hz-LM-4B-ONNX-WebGPU",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "[Tool] antirez, DeepSeek 4 전용 경량 로컬 추론 엔진 'ds4' 공개",
+      "summary": "[Tool] Redis 창시자 antirez가 만든 ds4는 DeepSeek 4 Flash/PRO 전용 경량 로컬 추론 엔진으로, ggml 기반 C 코드로 Metal·CUDA·ROCm을 직접 타겟팅한다. 5월 6일 공개 후 8월 5일까지 활발히 업데이트되며 GitHub 트렌딩 상위에 올랐다. 라이선스는 MIT. cocy.io에서 쓸모: WSL2 CUDA 12.6 환경에서 서버 의존 없이 로컬 LLM 추론을 실험할 때, llama.cpp 계열 대안으로 가볍게 붙여볼 만한 툴이다.",
+      "category": "ai-tech",
+      "source": "GitHub / antirez",
+      "sourceUrl": "https://github.com/antirez/ds4",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
     }
   ]
 }
