@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-09",
+  "articles": [
+    {
+      "id": "1",
+      "title": "휴가끝·극한폭염에 치솟는 전력수요…역대 최대치 임박",
+      "summary": "폭염과 휴가철 종료로 8월 7일 최대전력이 95.321GW를 기록해 역대 5위 수준까지 치솟았다. 공급 예비율은 안정권인 10%대 아래인 9%로 떨어져 전력당국이 수급 관리를 강화하고 있다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260808025500003",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "\"한화는 조선소 인수, 우리는 노하우를 판다\"… HD현대, 美에 조선 기술·운영·관리 방법 수출",
+      "summary": "HD한국조선해양이 미국 프레이저인더스트리와 조선소 현대화를 위한 업무협약(MOU)을 체결했다. 조선소 인수 대신 설계·운영·관리 노하우 자체를 수출하는 방식이다.",
+      "category": "economy",
+      "source": "조선비즈",
+      "sourceUrl": "https://biz.chosun.com/industry/company/2026/08/09/T4BZI7A7XNEFFK4KYNVZ332KQU/",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "이란 \"미군 철수, 배상금 지급 등 6대 조건 수용해야 호르무즈 개방\"",
+      "summary": "이란이 호르무즈 해협 재개방 조건으로 미군 철수와 피해 배상 등 6가지 요구사항을 제시했다. 오만이 중재하는 협상이 타결에 근접했다는 보도도 나오지만 이란 혁명수비대는 미국 측의 전면 수용을 전제로 걸었다.",
+      "category": "world",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/international/international_general/2026/08/09/T2EJAFZFQJEK7DN4RKWFROCRC4/",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Google Deletes 3 ADK AI Workflows After Malicious GitHub Issue Could Trigger Privileged Agent",
+      "summary": "보안업체 Pillar Security가 공개 GitHub 이슈로 낮은 권한의 triage 에이전트를 조작해 더 강력한 권한의 코드 수정 에이전트를 트리거할 수 있는 공격 기법을 발견했다. 구글은 Agent Development Kit(ADK) 저장소에서 취약했던 AI 에이전트 워크플로 3개를 삭제했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/google-deletes-3-adk-ai-workflows-after.html",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Microsoft pays security researchers $20M following AI-backed surge in bug reports",
+      "summary": "AI 도구를 활용한 버그 리포트가 급증하면서 마이크로소프트가 보안 연구자들에게 사상 최대 규모인 2천만 달러의 포상금을 지급했다.",
+      "category": "tech",
+      "source": "Windows Central",
+      "sourceUrl": "https://www.windowscentral.com/microsoft/windows/microsoft-pays-security-researchers-usd20m-following-ai-backed-surge-in-bug-reports",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "우주청, 2031년 지구-달 탐사선 추진… 태양풍 관측",
+      "summary": "한국우주항공청(KASA)이 이탈리아 피렌체에서 열린 국제우주연구위원회(COSPAR) 2026 학술총회에서 2031년까지 지구와 달 사이 공간에 과학탐사선을 보내 태양 활동과 태양풍을 관측하는 태양권 탐사 계획을 발표했다.",
+      "category": "science",
+      "source": "조선비즈",
+      "sourceUrl": "https://biz.chosun.com/science-chosun/science/2026/08/04/UXRIZZBBLBDDXO5CBB5V3JRJHA/",
+      "publishedAt": "2026-08-04T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "GeForce NOW Shakes Up August With 26 New Games",
+      "summary": "엔비디아가 클라우드 게임 스트리밍 서비스 GeForce NOW에 8월 한 달간 신작 26종을 추가한다고 발표했다.",
+      "category": "gaming",
+      "source": "NVIDIA Blog",
+      "sourceUrl": "https://blogs.nvidia.com/blog/geforce-now-thursday-august-2026-games-list/",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Highly Rated 2026 Co-Op Horror Game Shadow Drops DLC",
+      "summary": "2026년 최고 평가를 받은 협동 호러 게임 중 하나인 'Reanimal'이 예고 없이 첫 DLC 'Prisoner'를 깜짝 출시했다. 총 3개로 계획된 DLC 중 첫 번째다.",
+      "category": "gaming",
+      "source": "Game Rant",
+      "sourceUrl": "https://gamerant.com/reanimal-prisoner-dlc-co-op-horror-shadow-drop/",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    }
+  ]
+}
