@@ -403,6 +403,32 @@
         "deepseek"
       ],
       "addedAt": "2026-08-07"
+    },
+    {
+      "title": "Self-Improving Agent",
+      "description": "작업 중 발생한 실수·통찰·지식 공백을 .learnings/ 마크다운에 자동 기록하고 나중에 수정안으로 처리, 중요한 학습은 워크스페이스 메모리로 승격시키는 OpenClaw 전용 스킬.",
+      "icon": "🧠",
+      "category": "productivity",
+      "url": "https://clawhub.ai/pskoett/skills/self-improving-agent",
+      "tags": [
+        "memory",
+        "learning",
+        "openclaw"
+      ],
+      "addedAt": "2026-08-09"
+    },
+    {
+      "title": "Decision Gate",
+      "description": "고위험 액션 실행 전에 위변조 불가능한 결정 기록을 먼저 커밋하게 강제하는 경량 스킬. 사후 작성 로그와 달리 기록이 없으면 액션 자체가 실행되지 않아 판단의 진정성을 담보한다.",
+      "icon": "🔒",
+      "category": "dev",
+      "url": "https://clawhub.ai/vaahl-dev/skills/decision-gate",
+      "tags": [
+        "audit",
+        "safety",
+        "governance"
+      ],
+      "addedAt": "2026-08-09"
     }
   ]
 }
