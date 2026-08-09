@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-10",
+  "articles": [
+    {
+      "id": "1",
+      "title": "민주당 전당대회 순회경선 초접전…충청 김민석, 부·울·경 정청래 '1승 1패'",
+      "summary": "8월 17일 대전에서 열릴 더불어민주당 전당대회를 앞두고 진행 중인 지역별 순회경선에서 정청래·김민석 당대표 후보가 충청·부울경에서 각각 1승씩을 주고받으며 초접전을 벌이고 있다. 최종 당선자는 권리당원·대의원 투표 70%와 국민 여론조사 30%를 합산해 17일 확정된다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202608022030001",
+      "publishedAt": "2026-08-02T20:30:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "삼성전자, 세계 최초 400단 이상 'V10 BV낸드'·차세대 메모리 zHBM 공개",
+      "summary": "삼성전자가 미국 산타클라라에서 열린 FMS 2026에서 셀과 회로를 분리 제작해 수직 접합하는 본딩 기술을 적용한 400단 이상 V10 BV-낸드를 세계 최초로 공개했다. 이전 세대(V9) 대비 집적도를 약 58% 끌어올렸으며, HBM5 대비 성능이 8배 높은 차세대 메모리 zHBM 목업도 함께 선보였다.",
+      "category": "economy",
+      "source": "이코노믹리뷰",
+      "sourceUrl": "https://www.econovill.com/news/articleView.html?idxno=747169",
+      "publishedAt": "2026-08-05T09:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "이란, 호르무즈 재개방 조건 재확인…\"6개 요구 충족 전까지 불가\"",
+      "summary": "이란 최고국가안보위원회가 호르무즈 해협 재개방의 전제 조건으로 미군 철수, 해상봉쇄 해제, 피해 배상, 대이란 제재 해제 등 6가지 요구를 제시하며 종전 양해각서보다 강경한 입장을 재확인했다. 오만 중재로 진행 중인 협상은 여전히 타결에 이르지 못하고 있다.",
+      "category": "world",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026080929297",
+      "publishedAt": "2026-08-09T06:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "아마존 자율주행 '주스', 라스베이거스서 오늘부터 유료 로보택시 운행",
+      "summary": "아마존 자회사 주스(Zoox)가 미국 도로교통안전국(NHTSA) 승인을 받아 8월 10일부터 라스베이거스에서 운전대 없는 로보택시의 유료 운행을 시작한다. 그동안 라스베이거스·샌프란시스코 등에서 무료로 시범 운행해 왔으며, 요금은 경쟁 서비스의 '컴포트' 등급과 비슷한 수준으로 책정됐다.",
+      "category": "tech",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/08/05/amazon-zoox-paid-robotaxi-rides-las-vegas.html",
+      "publishedAt": "2026-08-05T08:00:00-04:00"
+    },
+    {
+      "id": "5",
+      "title": "18년 묵은 리눅스 커널 SCTP 취약점 'SCTPhantom' 발견…루트 권한 탈취 가능",
+      "summary": "텐센트 주췌랩 연구진이 2008년부터 존재해온 리눅스 커널 SCTP 프로토콜의 use-after-free 취약점(CVE-2026-64564, 일명 SCTPhantom)을 공개했다. 로컬 공격자가 이를 악용해 루트 권한을 획득하고 특정 환경에서는 컨테이너를 탈출해 호스트까지 장악할 수 있으며, 8월 3일 공개된 안정 커널 패치로 수정됐다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/18-year-old-linux-sctp-flaw-could-let.html",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA 낸시 그레이스 로먼 우주망원경, 8월 30일 발사 확정",
+      "summary": "NASA의 낸시 그레이스 로먼 우주망원경이 당초 계획보다 8개월 앞당겨진 8월 30일 팰컨 헤비 로켓으로 케네디우주센터에서 발사된다. 허블과 같은 크기의 거울을 갖췄지만 약 100배 넓은 시야를 확보해 암흑에너지 지도 작성과 외계행성 탐사에 활용될 예정이다.",
+      "category": "science",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2188889/nasa-nancy-grace-roman-space-telescope-is-set-to-launch-on-august-30/",
+      "publishedAt": "2026-08-06T09:00:00-04:00"
+    },
+    {
+      "id": "7",
+      "title": "EA, 78조원 규모 사우디 PIF 컨소시엄 인수 최종 완료",
+      "summary": "일렉트로닉아츠(EA)를 550억 달러(약 78조원)에 인수하는 사우디 국부펀드(PIF) 컨소시엄의 거래가 8월 4일 마감을 기점으로 최종 종결됐다. 마이크로소프트의 액티비전 블리자드 인수에 이어 역대 두 번째로 큰 게임업계 M&A로, PIF가 지분 93.4%를 보유하게 된다.",
+      "category": "gaming",
+      "source": "디스이즈게임",
+      "sourceUrl": "https://www.thisisgame.com/articles/428551",
+      "publishedAt": "2026-08-04T18:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "'월드 오브 워크래프트: 미드나잇' 패치 12.1 '우라텍의 저주' 8월 11일 출시",
+      "summary": "블리자드가 신규 지역 코일드 아일과 던전 '팽의 제단'을 추가하는 패치 12.1을 8월 11일(북미 기준) 공개한다. 일주일 뒤인 8월 18일에는 8인 레이드 '베노머스 애비스'와 신규 신화+ 던전 로테이션 등을 포함한 시즌 2가 이어서 열린다.",
+      "category": "gaming",
+      "source": "GameRant",
+      "sourceUrl": "https://gamerant.com/world-of-warcraft-121-patch-notes/",
+      "publishedAt": "2026-08-08T00:00:00+09:00"
+    }
+  ]
+}
