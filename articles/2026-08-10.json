@@ -90,6 +90,51 @@
       "source": "HuggingFace / Liquid AI",
       "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
       "publishedAt": "2026-07-29T07:14:32+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Wan2.2-Animate-2-14B, 캐릭터 애니메이션 프레임워크 업데이트",
+      "summary": "[Video] Wan-AI가 구동 영상을 Diffusion Transformer로 처리해 정체성을 유지한 채 고품질 모션을 생성하는 캐릭터 애니메이션 모델 Wan2.2-Animate-2-14B를 업데이트했다(공개 2026-07-14, 최종수정 2026-08-09, license apache-2.0). 텍스트로 카메라 시점을 구동 영상과 분리 제어 가능. cocy.io에서 쓸모: 조커런 등 게임 캐릭터 걷기/공격 모션 시트 제작 파이프라인(FLUX+I2V) 후보 모델로 검토.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-Animate-2-14B",
+      "publishedAt": "2026-08-09T13:09:19+09:00"
+    },
+    {
+      "id": "12",
+      "title": "ACE-Step 1.5 WebGPU 포트, 브라우저에서 음악 생성 구동",
+      "summary": "[Audio][Edge] 커뮤니티가 cocy.io BGM 파이프라인이 쓰는 ACE-Step v1.5(5Hz-LM-4B)를 ONNX+WebGPU로 이식해 서버 없이 브라우저에서 직접 실행 가능하게 만들었다(공개 2026-07-29, license MIT). cocy.io에서 쓸모: 게임 어드민 도구에 브라우저 내장 BGM 프리뷰/생성 기능을 GPU 서버 없이 붙일 수 있는 가능성.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/emb1ter/ACE-Step-v1.5-5Hz-LM-4B-FP32-ONNX-WebGPU",
+      "publishedAt": "2026-07-29T19:04:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Irodori-TTS-v4-Small, 이모지로 감정·SFX 제어하는 일본어 TTS",
+      "summary": "[Audio] RF-DiT(Rectified Flow Diffusion Transformer) 구조의 일본어 TTS 모델. 텍스트에 이모지를 섞으면 웃음·기침·한숨 같은 비언어적 표현과 화자 스타일을 제어할 수 있고, 긴 레퍼런스 보이스 클로닝을 지원한다(공개 2026-08-01, license MIT). cocy.io에서 쓸모: 고스톱 콜 음성처럼 캐릭터별 감정 톤이 필요한 더빙 작업에서 이모지 프롬프트 제어 방식 참고 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Aratako/Irodori-TTS-v4-Small",
+      "publishedAt": "2026-08-01T16:57:14+09:00"
+    },
+    {
+      "id": "14",
+      "title": "Qwen3-TTS GGUF 양자화, llama.cpp 기반 로컬 엣지 구동 지원",
+      "summary": "[Edge][Audio] Qwen3-TTS-12Hz-1.7B-Base를 GGUF로 양자화해 llama.cpp 계열 런타임에서 로컬로 돌릴 수 있게 만든 버전이 공개됐다(공개 2026-08-03, 기반 모델 Qwen3-TTS license apache-2.0; GGUF 리포 자체 라이선스 태그 미기재). cocy.io에서 쓸모: 클라우드 API 없이 저사양 엣지 환경에서 TTS를 돌려야 할 때(예: 오프라인 데모, 저지연 프리뷰) 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ggml-org/Qwen3-TTS-12Hz-1.7B-Base-GGUF",
+      "publishedAt": "2026-08-04T04:52:36+09:00"
+    },
+    {
+      "id": "15",
+      "title": "구글 LiteRT.js, WebGPU로 브라우저에서 .tflite 모델 실행하는 런타임 출시",
+      "summary": "[Edge][Tool] 구글이 TensorFlow.js를 잇는 브라우저 AI 추론 런타임 LiteRT.js를 출시했다(공개 2026-07-09, npm 패키지 @litertjs/core license apache-2.0). CPU(XNNPACK)·GPU(WebGPU 기반 ML Drift)·NPU(WebNN, 실험적) 백엔드를 지원하며 서버 비용 없이 완전 클라이언트 사이드로 텍스트 생성·객체 감지·오디오 처리를 돌릴 수 있다. cocy.io에서 쓸모: 게임/툴 페이지에 서버 호출 없이 브라우저 내장 추론(예: 이미지 분류, 간단 NLP)을 붙일 때 TensorFlow.js 대체 후보로 검토.",
+      "category": "ai-tech",
+      "source": "Google Developers Blog",
+      "sourceUrl": "https://developers.googleblog.com/litertjs-googles-high-performance-web-ai-inference/",
+      "publishedAt": "2026-07-09T00:00:00+09:00"
     }
   ]
 }
