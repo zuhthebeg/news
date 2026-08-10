@@ -72,6 +72,24 @@
       "source": "GameRant",
       "sourceUrl": "https://gamerant.com/world-of-warcraft-121-patch-notes/",
       "publishedAt": "2026-08-08T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "phoonnx-kitten-tts — KittenTTS를 phoonnx 엔진용으로 재패키징한 완전 오프라인 CPU 전용 TTS",
+      "summary": "[Edge] OpenVoiceOS가 8월 4일 공개한 phoonnx-kitten-tts(Apache 2.0)는 KittenML의 초경량 영어 TTS 3종(nano-0.1/0.2, mini-0.1)을 phoonnx StyleTTS2 엔진 규격에 맞게 config·보이스 파일을 재구성한 패키지다. GPU 없이 CPU만으로 mini-0.1 기준 WER 0.04, RTF 0.49로 동작해 완전 오프라인 음성 합성이 가능하다. cocy.io에서 쓸모: 서버 호출 없이 기기 내에서 도는 초경량 백업 TTS라 저사양 모바일 웹게임(지하철게임 등)의 오프라인 음성 안내나 llm-proxy 다운 시 폴백 음성으로 검토 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / OpenVoiceOS",
+      "sourceUrl": "https://huggingface.co/OpenVoiceOS/phoonnx-kitten-tts",
+      "publishedAt": "2026-08-04T21:32:27+09:00"
+    },
+    {
+      "id": "10",
+      "title": "LFM2.5-2.6B — Liquid AI, CPU에서 113 tok/s로 도는 2.6B 온디바이스 에이전트 모델 공개",
+      "summary": "[Edge] Liquid AI가 7월 28일 공개한 LFM2.5-2.6B는 128K 컨텍스트와 에이전틱 후처리 학습을 갖춘 하이브리드 온디바이스 모델로, AMD Ryzen CPU에서 113 tok/s, Apple M5 Max에서 220 tok/s를 메모리 2.5GB 미만으로 낸다고 밝혔다. 툴 호출·지시 이행에서 4배 큰 모델과 경쟁하는 성능을 주장한다. 라이선스는 자체 'LFM Open License v1.0'으로 apache/mit류가 아니라 상업 이용 조건(매출 규모 등)을 직접 확인해야 함— 라이선스 미확인. cocy.io에서 쓸모: 별도 GPU 없는 서버·로컬 환경에서 어드민 자동화나 log.cocy.io 비전 폴백용 경량 에이전트로 테스트해볼 만함(단, 상용 배포 전 라이선스 조건 확인 필수).",
+      "category": "ai-tech",
+      "source": "HuggingFace / Liquid AI",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-2.6B",
+      "publishedAt": "2026-07-29T07:14:32+09:00"
     }
   ]
 }
