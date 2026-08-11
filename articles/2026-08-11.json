@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-11",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령 지지율 43.3%, 취임 후 최저치",
+      "summary": "리얼미터가 에너지경제신문 의뢰로 8월 3~7일 실시한 조사에서 이재명 대통령 국정수행 긍정평가가 43.3%로 4주 연속 하락, 취임 후 최저치를 기록했다. 부정평가는 53.0%. 부동산 세제 개편, 형사소송법 개정 논란, 폭염·경제 불안 등이 복합 작용했다는 분석이다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260810017300001",
+      "publishedAt": "2026-08-10T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "폭염발 '히트플레이션'... 시금치·오이 등 채솟값 폭등",
+      "summary": "한국농수산식품유통공사(aT)에 따르면 8월 초 시금치 소매가격이 한 달 전보다 최대 152.3% 폭등, 오이 87.1%, 애호박 69.1%까지 올랐다. 폭염으로 인한 작황 부진과 어류 폐사(광어 2만1천여 마리), 가축 폐사(90만 마리 이상)까지 겹치며 추석을 앞두고 물가 상승 우려가 커지고 있다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202608092484i",
+      "publishedAt": "2026-08-09T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "한미, 8월 17~27일 '을지 자유의 방패' 연합훈련 실시",
+      "summary": "한국과 미국이 북한의 진화하는 위협에 대비해 주요 연합군사훈련 '을지 자유의 방패(UFS)'를 8월 17일부터 27일까지 실시한다. 드론·GPS 교란 대응, 사이버 공격 대응 훈련이 포함되며 우크라이나전 참전 경험이 반영된 북한군의 변화된 역량도 고려될 것으로 알려졌다.",
+      "category": "world",
+      "source": "연합뉴스 외신 종합",
+      "sourceUrl": "https://bworldonline.com/world/2026/08/10/769150/south-korea-us-to-conduct-military-drills-amid-evolving-north-korea-threats/",
+      "publishedAt": "2026-08-10T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "밸브, 유럽 스팀 하드웨어 고객 개인정보 유출 통보",
+      "summary": "밸브의 유럽 배송 파트너사 CEVA Logistics가 7월 29일~8월 1일 사이 해킹당해 최근 90일 내 유럽에서 스팀덱·스팀머신·스팀컨트롤러를 구매한 고객의 이름, 주소, 전화번호, 이메일이 유출됐을 가능성이 있다고 밸브가 8월 10일 통보를 시작했다. 비밀번호·결제정보는 무관하나, 배송 관련 피싱 문자·이메일에 각별한 주의가 필요하다.",
+      "category": "tech",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/expect-fake-messages-valve-admits-steam-hardware-owners-personal-data-likely-stolen",
+      "publishedAt": "2026-08-10T13:48:00Z"
+    },
+    {
+      "id": "5",
+      "title": "구글 드라이브 데스크톱 앱, 구글 포토 자동 백업 지원 중단",
+      "summary": "구글이 8월 10일부로 드라이브 데스크톱 앱의 구글 포토 자동 백업 기능 지원을 종료한다고 확인했다. 백업 도구를 단순화하고 전용 포토 앱에 집중하기 위한 조치로, 기존 자동 백업에 의존하던 사용자는 별도 설정 변경이 필요하다.",
+      "category": "tech",
+      "source": "Times of India",
+      "sourceUrl": "https://timesofindia.indiatimes.com/technology/tech-news/google-drive-ends-photos-backups-starting-august-10-what-users-need-to-do/articleshow/133087769.cms",
+      "publishedAt": "2026-08-10T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "국제우주정거장 줄기세포 연구, 재생의학 발전에 기여",
+      "summary": "NASA 소속 압바 주베어 박사가 8월 7일 공개된 팟캐스트에서 ISS 미세중력 환경 내 줄기세포 연구 성과를 소개했다. 지상에서는 만들기 어려운 줄기세포 유래 물질을 우주에서 생산해 혈액암·면역질환 환자를 위한 장기 세포 공급원을 마련하는 것이 목표다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/podcasts/houston-we-have-a-podcast/iss-results-stem-cells-in-space/",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "남극 10개월 격리 실험, 화성 유인탐사 심리 리스크 시사",
+      "summary": "8월 7일 발표된 남극 10개월 격리 실험 연구에 따르면, 대원 간 잦은 접촉이 오히려 긴장과 불신을 높였고 문화·언어 집단별로 분열되는 경향이 나타났다. 향후 화성 유인 임무의 승무원 구성과 심리 지원 설계에 중요한 시사점을 제공한다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260806050722.htm",
+      "publishedAt": "2026-08-07T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "게임스컴 2026, 참가업체 15% 증가... 크래프톤 신작 5종 공개",
+      "summary": "세계 3대 게임쇼 중 하나인 독일 게임스컴 2026이 8월 26~30일 쾰른에서 열린다. 참가업체 수가 전년 대비 15% 늘며 3년 연속 최대 기록을 경신했고, 독일 대통령이 국가원수로는 처음 현장을 방문한다. 크래프톤은 미공개작 포함 신작 5종 라인업을 공개하며 가장 적극적으로 참가한다.",
+      "category": "gaming",
+      "source": "ZDNet Korea",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20260629105015",
+      "publishedAt": "2026-08-01T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "컴투스·스마일게이트·카카오게임즈, 8~10월 MMORPG 신작 연쇄 출시",
+      "summary": "하반기 MMORPG 경쟁이 본격화되며 컴투스가 '제우스: 오만의 신'을 8월 26일 PC·모바일로 정식 출시하고, 스마일게이트 '이클립스: 더 어웨이크닝'이 9월, 카카오게임즈 '도깨비의세계'가 10월에 뒤를 잇는다. 넷마블도 신작 'SOL: enchant'의 첫 대규모 업데이트 사전등록을 시작했다.",
+      "category": "gaming",
+      "source": "게임뷰",
+      "sourceUrl": "https://www.gamevu.co.kr/news/articleView.html?idxno=59937",
+      "publishedAt": "2026-08-05T00:00:00+09:00"
+    }
+  ]
+}
