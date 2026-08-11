@@ -90,6 +90,51 @@
       "source": "Hugging Face / qz.com",
       "sourceUrl": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
       "publishedAt": "2026-08-09T17:51:35+00:00"
+    },
+    {
+      "id": "11",
+      "title": "dots.tts-mf-1step — 원스텝 보이스클로닝 TTS",
+      "summary": "[Audio] dots-studio가 8월 10일 공개한 22억 파라미터 flow-matching 기반 원스텝(1-step) TTS 모델로, 기반 모델 dots.tts-soar에서 강화학습 후처리 및 mean-flow 증류를 거쳐 한 번의 추론 스텝으로 음성을 생성한다. Apache-2.0. cocy.io에서 쓸모: 고스톱 콜 음성이나 게임 캐릭터 보이스, 쇼츠 내레이션을 서버 지연 없이 원스텝으로 저비용 생성하는 데 적합.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/dots-studio/dots.tts-mf-1step",
+      "publishedAt": "2026-08-10T06:28:55Z"
+    },
+    {
+      "id": "12",
+      "title": "Dasheng-AudioGen — 통합 음성·SFX·음악 생성",
+      "summary": "[Audio] 샤오미가 4월에 공개한 21.9억 파라미터 통합 오디오 생성 모델로, 하나의 프롬프트에 <caption>/<speech>/<sfx>/<music>/<env> 구조화 태그를 넣으면 대사·효과음·배경음·환경음을 함께 합성한다. Apache-2.0. cocy.io에서 쓸모: 게임 컷씬이나 쇼츠용 대사+SFX+배경음 프로토타입을 별도 파이프라인 없이 한 번에 뽑아 제작 속도를 높일 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/mispeech/Dasheng-AudioGen",
+      "publishedAt": "2026-04-07T07:30:47Z"
+    },
+    {
+      "id": "13",
+      "title": "FLUX.2 [klein] 4B — 서브초 이미지 생성/편집 모델",
+      "summary": "[Image] Black Forest Labs가 1월에 공개하고 2월에 업데이트한 40억 파라미터 rectified-flow 이미지 모델로, 생성과 편집을 하나의 아키텍처로 통합했고 공식 카드에 '1초 미만 추론, 최소 13GB VRAM, RTX 3090/4070급 소비자 GPU 지원'이 명시돼 있다. Apache-2.0(상업이용 명시). cocy.io에서 쓸모: 어드민 카드아트·프로모 이미지 대량 생성이나 실시간 미리보기에 적합하지만 13GB 기준이라 3080Ti(12GB)에는 오프로딩이 필요할 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "publishedAt": "2026-01-14T13:42:59Z"
+    },
+    {
+      "id": "14",
+      "title": "SANA-Video 2B (720p) — 경량 고효율 비디오 생성",
+      "summary": "[Video] NVIDIA/MIT-Han-Lab이 3월에 공개하고 7월에 업데이트한 20억 파라미터 Linear DiT 비디오 모델로, 720×1280 해상도 5초 영상을 생성하며 공식 카드에 'Wan2.1/SkyReel-V2 대비 16배 빠른 지연시간, RTX 5090에서 5초 720p 영상 29초 생성'이 명시돼 있다. Apache-2.0. cocy.io에서 쓸모: 저비용 로컬 추론으로 게임 트레일러나 프로모 쇼츠용 짧은 영상 클립을 시험 제작하는 데 적합.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Efficient-Large-Model/SANA-Video_2B_720p",
+      "publishedAt": "2026-03-16T10:01:28Z"
+    },
+    {
+      "id": "15",
+      "title": "ACE-Step v1.5 ONNX/WebGPU 포팅 — 브라우저 내 음악 생성",
+      "summary": "[Edge] 7월에 공개된 ACE-Step v1.5 5Hz LM(4B)의 커뮤니티 ONNX/WebGPU 변환판으로, INT8/FP32 양자화를 통해 서버 GPU 없이 브라우저에서 직접 음악 생성 추론을 실행하도록 만들었다. MIT. cocy.io에서 쓸모: 기존에 쓰던 ACE-Step BGM 파이프라인을 클라이언트 사이드로 옮겨, 웹 에디터나 데모 페이지에서 사용자가 서버 부담 없이 실시간으로 BGM을 뽑아보게 하는 기능에 적용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/emb1ter/ACE-Step-v1.5-5Hz-LM-4B-FP32-ONNX-WebGPU",
+      "publishedAt": "2026-07-29T10:04:00Z"
     }
   ]
 }
