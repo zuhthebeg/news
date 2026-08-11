@@ -81,6 +81,15 @@
       "source": "게임뷰",
       "sourceUrl": "https://www.gamevu.co.kr/news/articleView.html?idxno=59937",
       "publishedAt": "2026-08-05T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "메타, 노트북에서 도는 300억 파라미터 로컬 에이전트 모델 'Muse Glimmer' 공개",
+      "summary": "[Edge] 메타 슈퍼인텔리전스랩이 8월 9일 300억 파라미터 에이전트 특화 LLM 'Muse Glimmer'를 Apache 2.0 라이선스로 공개했다. Muse Spark에서 증류한 모델로 클라우드 연결 없이 로컬에서 멀티스텝 추론, 툴콜, 화면·이미지 인식(전용 perception encoder), 실패 복구까지 단일 모델로 처리한다. cocy.io에서 쓸모: 클라우드 LLM 비용 없이 어드민 자동화나 스크린샷 인식이 필요한 로컬 에이전트 백엔드로 실험해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / qz.com",
+      "sourceUrl": "https://huggingface.co/meta-models/Muse-Glimmer-30B",
+      "publishedAt": "2026-08-09T17:51:35+00:00"
     }
   ]
 }

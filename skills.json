@@ -429,6 +429,19 @@
         "governance"
       ],
       "addedAt": "2026-08-09"
+    },
+    {
+      "title": "Cua Driver",
+      "description": "cua-driver CLI로 macOS/Windows/Linux 네이티브 GUI 앱을 직접 조작하는 공식 스킬.",
+      "icon": "🖱️",
+      "category": "dev",
+      "url": "https://clawhub.ai/cua/skills/driver",
+      "tags": [
+        "gui-automation",
+        "desktop",
+        "official"
+      ],
+      "addedAt": "2026-08-11"
     }
   ]
 }
