@@ -442,6 +442,33 @@
         "official"
       ],
       "addedAt": "2026-08-11"
+    },
+    {
+      "title": "Office Toolkit",
+      "description": "Word/Excel/PPT/PDF 문서를 읽고 만들고 편집하는 스킬. python-docx·openpyxl·pypdf·LibreOffice 조합으로 형식 변환까지 처리.",
+      "icon": "📄",
+      "category": "productivity",
+      "url": "https://clawhub.ai/axelhu/skills/openclaw-office-toolkit",
+      "tags": [
+        "office",
+        "docx",
+        "pdf",
+        "document"
+      ],
+      "addedAt": "2026-08-12"
+    },
+    {
+      "title": "Agent Browser",
+      "description": "접근성 트리 스냅샷과 ref 기반 결정론적 요소 선택으로 동작하는 CLI 브라우저 자동화. 복잡한 SPA·멀티스텝 워크플로우에 특화.",
+      "icon": "🌐",
+      "category": "dev",
+      "url": "https://clawhub.ai/matrixy/skills/agent-browser-clawdbot",
+      "tags": [
+        "browser-automation",
+        "cli",
+        "agent"
+      ],
+      "addedAt": "2026-08-12"
     }
   ]
 }
