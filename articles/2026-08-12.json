@@ -81,6 +81,51 @@
       "source": "IGN",
       "sourceUrl": "https://www.ign.com/articles/konami-quietly-removes-original-versions-of-metal-gear-solid-4-and-peace-walker-from-sale-after-collection-vol-2-announcement",
       "publishedAt": "2026-08-11T00:00:00-07:00"
+    },
+    {
+      "id": "10",
+      "title": "QaDiT-160 공개 — 159M 경량 text-to-audio SFX 생성 모델",
+      "summary": "[Audio] QuarkML이 2026-08-09 공개한 ~159M 파라미터 DiT 기반 text-to-audio 모델. 텍스트 프롬프트로 10.24초 16kHz 환경음/SFX를 생성(FLAN-T5 컨디셔닝 → DiT 디노이징 → HiFi-GAN 보코더). license: apache-2.0 확인, 상업 사용 제약 없음. cocy.io에서 쓸모: 기존 TangoFlux(비상업 전용이라 조커런 SFX 파이프라인에서 배제됨)를 대체할 완전 상업용 SFX 후보로, 파라미터가 작아 3080Ti에서 가볍게 프로토타입 생성 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/QuarkML/QaDiT-160",
+      "publishedAt": "2026-08-09T09:20:08Z"
+    },
+    {
+      "id": "11",
+      "title": "IndexTTS-2.5 공개 — 5개 언어 제로샷 보이스클로닝 TTS",
+      "summary": "[Audio] Bilibili IndexTeam이 2026-08-10 공개한 제로샷 음성클로닝 TTS. 기존 IndexTTS-2 대비 일본어·스페인어·아랍어를 추가해 중/영/일/서/아 5개 언어를 지원하고 감정 컨트롤이 가능하다(GPT+DiT+BigVGAN 구조). license: Bilibili Model License(월간활성이용자 1억 또는 연매출 RMB 10억 미만이면 상업 사용 가능, 초과 시 별도 계약 필요 — non-commercial 전용은 아님). cocy.io에서 쓸모: voicematch·쇼츠 내레이션 등 다국어 음성 파이프라인의 저비용 보이스클로닝 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IndexTeam/IndexTTS-2.5",
+      "publishedAt": "2026-08-10T07:49:03Z"
+    },
+    {
+      "id": "12",
+      "title": "parakeet.wgsl — NVIDIA Parakeet STT를 브라우저 WebGPU로 포팅",
+      "summary": "[Edge] narcotic-sh가 2026-08-03 공개한 프로젝트로, NVIDIA Parakeet TDT 0.6B V2 음성인식 모델을 순수 WebGPU + SIMD WASM으로 포팅해 서버 호출 없이 브라우저에서 직접 STT를 실행한다. license: MIT 확인. cocy.io에서 쓸모: '그놈 목소리' 같은 온디바이스 성문 대조 데모에 서버 없는 브라우저 STT 확장 옵션으로 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/narcotic-sh/parakeet.wgsl",
+      "publishedAt": "2026-08-03T19:24:44Z"
+    },
+    {
+      "id": "13",
+      "title": "redrob-studio — 로컬 ComfyUI 기반 이미지/오디오 생성 Next.js 스튜디오",
+      "summary": "[Tool] redrob-labs가 2026-08-05 공개한 오픈소스 도구로, 자체 GPU의 ComfyUI를 백엔드로 삼아 이미지·오디오 생성을 Next.js 웹 UI로 감싼다. 호스팅 추론 API로 아무 데이터도 전송하지 않는 완전 로컬 구조. license: Apache-2.0 확인. cocy.io에서 쓸모: SDXL/ACE-Step 등 기존 로컬 생성 스크립트를 웹 UI로 감싸는 구조 참고용(단, 스타 3개 수준 신생 프로젝트라 실사용 전 검증 필요).",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/redrob-labs/redrob-studio",
+      "publishedAt": "2026-08-05T11:10:13Z"
+    },
+    {
+      "id": "14",
+      "title": "Lightricks LTX-2.5 — 비디오+오디오 동시생성 모델, 파생 양자화 급증",
+      "summary": "[Video] Lightricks의 LTX-2.5가 2026-07-23 공개된 후 8월 들어 GGUF/FP8/INT4 양자화 파생 모델이 커뮤니티에서 급증하며 채택이 확산 중이다(텍스트/이미지→비디오+오디오 동시생성 멀티모달 파이프라인). GitHub 코드 저장소는 Apache-2.0이지만 모델 가중치 자체는 게이트된 'LTX-2 Community License'로 배포돼 정확한 상업 조건은 라이선스 미확인 — 확인 전 상업 적용은 보류 권장. cocy.io에서 쓸모: 파이프라인 리서치 참고용으로만 트래킹, 실채택은 라이선스 확인 후.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5-Pre-Trained",
+      "publishedAt": "2026-07-23T07:55:24Z"
     }
   ]
 }
