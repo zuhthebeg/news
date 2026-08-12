@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-12",
+  "articles": [
+    {
+      "id": "1",
+      "title": "北, 한미훈련 앞두고 6일만에 또 탄도미사일…동해상으로 발사",
+      "summary": "합동참모본부는 12일 오전 6시께 북한이 원산 일대에서 동해상으로 탄도미사일을 발사했다고 밝혔다. 한미일은 관련 정보를 긴밀히 공유하며 대비태세를 유지 중이다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260812008051504",
+      "publishedAt": "2026-08-12T06:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "'깡통대출' 비율 코로나19 이후 최고…고금리에 부실 확산",
+      "summary": "5대 은행의 올해 2분기 말 무수익여신 잔액이 총 6조4천108억원으로 집계돼 코로나19 이후 최고 수준을 기록했다. 기준금리 인상 시 부실이 더 확산될 수 있다는 우려가 나온다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260811151100002",
+      "publishedAt": "2026-08-12T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "콜롬비아 서부 강진 사망자 254명…실종 3900명 넘어",
+      "summary": "지난 10일 콜롬비아 초코주 인근에서 발생한 규모 7.4 강진으로 사망자가 254명을 넘어섰고 실종자는 3900명 이상으로 집계됐다. 정부는 국가비상사태를 선포했다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260812000200072",
+      "publishedAt": "2026-08-12T07:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "애플, 팀 쿡 후임 CEO에 존 터너스 선임…9월 1일 취임",
+      "summary": "애플 이사회가 하드웨어 엔지니어링 수석부사장 존 터너스를 차기 CEO로 선임했다. 팀 쿡은 이사회 의장으로 자리를 옮기며 여름 동안 인수인계를 진행한다.",
+      "category": "tech",
+      "source": "LA Times",
+      "sourceUrl": "https://www.latimes.com/business/story/2026-04-20/apple-names-next-ceo-tim-cook-to-become-chairman",
+      "publishedAt": "2026-04-20T00:00:00-07:00"
+    },
+    {
+      "id": "5",
+      "title": "메타, 뉴멕시코 아동 안전 소송서 5억6700만달러 추가 배상 명령",
+      "summary": "뉴멕시코 법원이 메타 플랫폼이 청소년 정신건강 위기의 '중대 원인'이라며 5억6700만달러 배상과 함께 미성년자 월 90시간 이용제한, AI 챗봇 로맨틱 상호작용 금지 등 안전조치를 명령했다.",
+      "category": "tech",
+      "source": "LA Times",
+      "sourceUrl": "https://www.latimes.com/business/story/2026-08-07/meta-ordered-by-new-mexico-judge-to-pay-567-million-in-landmark-child-safety-case",
+      "publishedAt": "2026-08-07T00:00:00-07:00"
+    },
+    {
+      "id": "6",
+      "title": "우주비행 중 첫 진단용 엑스레이 촬영 성공",
+      "summary": "소형 태양광 X선 장비를 이용해 궤도 비행 중 최초의 진단용 엑스레이 촬영에 성공했다. 기존 초음파 위주 우주 의료영상의 한계를 넘어선 진전으로 평가된다.",
+      "category": "science",
+      "source": "SlashGear",
+      "sourceUrl": "https://www.slashgear.com/2231449/first-medical-x-rays-in-space-health-impact/",
+      "publishedAt": "2026-08-11T00:00:00-07:00"
+    },
+    {
+      "id": "7",
+      "title": "ISS 우주비행사들, 혈관 스캔으로 건강 점검·우주유영 준비",
+      "summary": "국제우주정거장 승무원들이 혈전 위험 평가를 위한 실시간 초음파 혈관 스캔을 진행하고 다가오는 우주유영을 위한 우주복 점검을 병행했다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/08/11/crew-works-vein-scans-for-health-and-suit-checks-for-spacewalk/",
+      "publishedAt": "2026-08-11T00:00:00-04:00"
+    },
+    {
+      "id": "8",
+      "title": "'스타워즈: 제로 컴퍼니' 8월 27일 출시 앞두고 프리뷰 공개",
+      "summary": "XCOM 개발진 출신들이 세운 신생 스튜디오 비트 리액터의 데뷔작으로, 전술 전투와 시네마틱 스토리텔링을 결합했다. 클론전쟁 이후를 배경으로 용병단을 이끄는 이야기를 다룬다.",
+      "category": "gaming",
+      "source": "Xbox Wire",
+      "sourceUrl": "https://news.xbox.com/en-us/2026/08/11/star-wars-zero-company-preview/",
+      "publishedAt": "2026-08-11T00:00:00-07:00"
+    },
+    {
+      "id": "9",
+      "title": "코나미, MGS4·피스워커 컬렉션 Vol.2 발표 후 기존 버전 판매 중단",
+      "summary": "코나미가 '메탈기어 솔리드 마스터 컬렉션 Vol.2'(8월 27일 출시, PS3 독점이던 MGS4 포함)를 발표하면서 기존 개별 버전 판매를 조용히 중단했다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/konami-quietly-removes-original-versions-of-metal-gear-solid-4-and-peace-walker-from-sale-after-collection-vol-2-announcement",
+      "publishedAt": "2026-08-11T00:00:00-07:00"
+    }
+  ]
+}
