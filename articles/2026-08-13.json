@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-13",
+  "articles": [
+    {
+      "id": "1",
+      "title": "홈플러스, 임시휴업 67개 점포 13일 정식 재개장",
+      "summary": "홈플러스가 점검을 마친 67개 점포를 13일 정식 재개장하며 이 중 59개점은 온라인 배송도 함께 재개한다. 재개장을 기념해 한우·치킨 등 인기 먹거리를 최대 50% 할인하는 행사를 8월 말까지 진행한다.",
+      "category": "domestic",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/2613596",
+      "publishedAt": "2026-08-12T18:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "코스피·코스닥 36개 종목 무더기 관리종목 지정",
+      "summary": "한국거래소가 주가 1천원 미만이거나 시가총액 기준에 미달한 36개 종목(코스피 9개·코스닥 27개)을 관리종목으로 지정했다고 12일 밝혔다. 90거래일 내 45거래일 이상 기준을 충족하지 못하면 상장폐지 대상이 된다.",
+      "category": "economy",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/2613869",
+      "publishedAt": "2026-08-12T18:32:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "튀르키예 의회, PKK 대원 조건부 사면법 가결",
+      "summary": "튀르키예 의회가 쿠르드노동자당(PKK) 대원 수천 명에 대한 조건부 형 집행정지·사면을 담은 법안을 468대 88로 가결했다. 법 발효는 PKK의 완전 무장해제 확인이 전제조건이며, 종신형을 선고받은 지도부는 대상에서 제외됐다.",
+      "category": "world",
+      "source": "NPR",
+      "sourceUrl": "https://www.npr.org/2026/08/11/g-s1-138162/turkey-kurdish-militants",
+      "publishedAt": "2026-08-11T00:00:00+03:00"
+    },
+    {
+      "id": "4",
+      "title": "구글, '메이드 바이 구글'서 픽셀11 시리즈 공개…가격 100달러 인상",
+      "summary": "구글이 뉴욕에서 열린 연례 행사에서 픽셀11·픽셀11 프로 폴드와 픽셀 워치5를 공개했다. 기본 저장용량이 256GB로 상향된 가운데 D램 가격 급등 여파로 픽셀11 출고가는 전작보다 100달러 오른 899달러로 책정됐다.",
+      "category": "tech",
+      "source": "9to5Google",
+      "sourceUrl": "https://9to5google.com/2026/08/12/made-by-google-2026-announcements/",
+      "publishedAt": "2026-08-12T18:00:00-04:00"
+    },
+    {
+      "id": "5",
+      "title": "MS, 8월 정기 보안패치서 취약점 421개 수정…제로데이 3건 포함",
+      "summary": "마이크로소프트가 8월 정기 보안 업데이트에서 심각도 '심각' 62건을 포함해 총 421개의 취약점을 수정했다. 윈속 커널 드라이버(afd.sys)의 실제 익스플로잇 중인 제로데이 1건과 공개된 제로데이 2건이 포함됐다.",
+      "category": "tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+      "publishedAt": "2026-08-11T00:00:00-04:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA 로먼 우주망원경, 8월30일 팰컨헤비로 발사",
+      "summary": "낸시 그레이스 로먼 우주망원경이 당초 계획보다 8개월 앞당겨진 8월30일 스페이스X 팰컨헤비 로켓으로 발사된다. 허블과 같은 크기의 거울을 갖췄지만 시야는 100배 넓어 암흑에너지 탐사와 외계행성 탐색에 활용될 예정이다.",
+      "category": "science",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2188889/nasa-nancy-grace-roman-space-telescope-is-set-to-launch-on-august-30/",
+      "publishedAt": "2026-08-11T00:00:00-04:00"
+    },
+    {
+      "id": "7",
+      "title": "12억7000만년 전 화성 운석서 '지질 공백기' 실마리 발견",
+      "summary": "보스턴칼리지 연구진이 알제리에서 발견된 화성 운석(NWA 13441)의 나이를 12억7300만년으로 측정해 기존 셰르고타이트 시료의 약 18억년 공백을 메웠다고 밝혔다. 이 운석에서는 초기 태양계 콘드라이트에서 주로 검출되는 네오디뮴 동위원소도 함께 발견됐다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-08-rare-mars-meteorite-billion-year.html",
+      "publishedAt": "2026-08-11T00:00:00-04:00"
+    },
+    {
+      "id": "8",
+      "title": "웹툰엔터, 1억달러에 국내 게임사 RI게임즈 지분 60% 인수",
+      "summary": "웹툰 엔터테인먼트가 '나 혼자만 레벨업' 등 인기 웹툰 IP를 보유한 RI게임즈 홀딩스 지분 60%를 약 1억달러에 인수한다고 밝혔다. 양사는 향후 4년간 오버기어드·둠브레이커 등 웹툰 IP 기반 게임을 공동 개발할 계획이다.",
+      "category": "gaming",
+      "source": "코리아헤럴드",
+      "sourceUrl": "https://www.koreaherald.com/article/10837434",
+      "publishedAt": "2026-08-10T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "월마트 후원 게임매체 '리스타트', 편집팀 전원 해고",
+      "summary": "월마트가 후원하는 게임 매체 '리스타트'가 창간 약 2년 만에 편집팀 전원을 해고했다. 최근 IGN·유로게이머 등에서도 잇단 감원이 이어지며 게임 매체 업계 전반의 수익성 위기가 심화하고 있다는 평가가 나온다.",
+      "category": "gaming",
+      "source": "Game Developer",
+      "sourceUrl": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
+      "publishedAt": "2026-08-08T00:00:00-04:00"
+    }
+  ]
+}
