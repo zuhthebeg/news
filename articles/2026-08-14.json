@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-14",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, '7대 SEED' 미래성장동력 육성 전략 발표",
+      "summary": "이재명 대통령이 청와대에서 '첨단기술이 여는 미래' 보고회를 열고 SMR·핵융합·재생에너지·양자·우주항공·첨단바이오·첨단소재 등 7대 미래성장 시드 육성 전략을 제시했다. AI 시대 이후의 차세대 성장엔진을 미리 준비하겠다는 취지다.",
+      "category": "domestic",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/2613539",
+      "publishedAt": "2026-08-12T15:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "정부, 가계대출 총량 규제 완화…하반기 30조원 추가 공급",
+      "summary": "금융위원회가 13일 부동산 시장 안정을 위한 금융 종합대책을 발표하고 올해 가계부채 총량 증가율 목표를 1.5%에서 3%로 두 배 상향했다. 늘어난 대출 여력 약 30조원은 이주비·중도금·잔금대출 등 실수요자 자금 애로 해소에 투입된다.",
+      "category": "economy",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202608131127378696",
+      "publishedAt": "2026-08-13T11:27:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "네덜란드 로테르담항 저장탱크 폭발…1명 사망·다수 부상",
+      "summary": "13일(현지시간) 유럽 최대 항구인 로테르담항의 군보르 에너지 저장탱크에서 폭발이 발생해 최소 1명이 숨지고 여러 명이 다쳤다. 경찰은 현재까지 산업재해 가능성에 무게를 두고 정확한 원인을 조사 중이다.",
+      "category": "world",
+      "source": "The Washington Post",
+      "sourceUrl": "https://www.washingtonpost.com/world/2026/08/13/netherlands-rotterdam-port-explosion-blackout-police/6ea9eede-9712-11f1-9ef9-1be722184483_story.html",
+      "publishedAt": "2026-08-13T12:00:00+02:00"
+    },
+    {
+      "id": "4",
+      "title": "LiteLLM 공급망 공격 여파로 153GB 규모 자격증명 유출",
+      "summary": "지난 3월 LiteLLM 패키지를 노린 공급망 공격으로 탈취된 153GB 분량의 자격증명 아카이브가 공개되면서 AWS·시스코·삼성·세일즈포스 등 2500여개 기업 도메인과 43만개 이상의 CI/CD 파이프라인이 영향을 받은 것으로 나타났다. 공격자는 SSH 키, 클라우드 자격증명, AI 제공업체 API 키 등을 탈취했다.",
+      "category": "tech",
+      "source": "Help Net Security",
+      "sourceUrl": "https://www.helpnetsecurity.com/2026/08/13/litellm-breach-stolen-credentials-leak/",
+      "publishedAt": "2026-08-13T00:00:00+02:00"
+    },
+    {
+      "id": "5",
+      "title": "줌, 화면공유 주석 기능 제로클릭 취약점 3건 패치",
+      "summary": "줌이 회의 참가자가 다른 참가자 기기에서 코드를 원격 실행할 수 있는 '줌스데이(Zoomsday)' 취약점 3건(CVE-2026-53413 등)을 패치했다. 연구진은 공개된 AI 모델을 이용해 20회 미만의 프롬프트로 24시간 안에 해당 취약점을 찾아내 익스플로잇까지 완성했다고 밝혔다.",
+      "category": "tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/zoom-patches-zero-click-code-execution-vulnerability/",
+      "publishedAt": "2026-08-12T00:00:00-04:00"
+    },
+    {
+      "id": "6",
+      "title": "3가지 치료 병행, 신생아 HIV 감염 영구 제거 가능성 확인",
+      "summary": "오리건보건과학대(OHSU) 연구진이 출생 후 3일 이내 항체·항레트로바이러스제·레론리맙을 함께 투여하는 1회성 3중 요법으로 동물실험 8마리 전원에서 1년간 바이러스 재반등이 없었다고 발표했다. 이 연구는 네이처 마이크로바이올로지에 게재됐으며 임상시험으로 이어질 수 있다는 전망이다.",
+      "category": "science",
+      "source": "OHSU News",
+      "sourceUrl": "https://news.ohsu.edu/2026/08/10/study-triple-dose-regimen-may-permanently-clear-hiv-in-infected-newborns",
+      "publishedAt": "2026-08-10T00:00:00-07:00"
+    },
+    {
+      "id": "7",
+      "title": "ISS 승무원, 우주유영 준비 속 안테나 교체 작업 대비",
+      "summary": "국제우주정거장 승무원들이 통신용 지상교신 안테나 교체를 위한 우주유영 준비와 비상훈련을 병행하며 수요일 일정을 소화했다. 해당 우주유영은 장비 점검 문제로 당초 8월13일에서 8월18일로 연기됐다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/08/12/ongoing-spacewalk-preps-emergency-training-keep-crew-busy-on-wednesday/",
+      "publishedAt": "2026-08-12T00:00:00-04:00"
+    },
+    {
+      "id": "8",
+      "title": "클록펑크 액션플랫포머 '더스크페이드' 정식 출시",
+      "summary": "3D 액션 플랫포머 '더스크페이드'가 8월13일 PC(스팀)·PS5·엑스박스 시리즈X|S·닌텐도 스위치2로 정식 출시됐다. 주인공 지리안이 기계 동료 쿠쿠와 함께 세상을 영원한 밤에 빠뜨린 시계탑 장인으로부터 여동생을 구하는 이야기를 다룬다.",
+      "category": "gaming",
+      "source": "DLCompare",
+      "sourceUrl": "https://www.dlcompare.com/gaming-news/duskfade-officially-launches-opening-a-mysterious-clockpunk-world-82233",
+      "publishedAt": "2026-08-13T00:00:00-04:00"
+    },
+    {
+      "id": "9",
+      "title": "'헬 렛 루즈: 베트남' 크로스플레이 지원하며 출시",
+      "summary": "베트남전을 배경으로 한 50대50 대규모 전쟁 슈팅게임 '헬 렛 루즈: 베트남'이 8월13일 PC·PS5·엑스박스 시리즈X|S로 출시됐다. 시리즈 최초로 플랫폼 간 크로스플레이를 지원하며 탄호아 다리 등 6개 맵으로 시작한다.",
+      "category": "gaming",
+      "source": "Tech Times",
+      "sourceUrl": "https://www.techtimes.com/articles/323505/20260807/hell-let-loose-vietnam-launches-august-13-crossplay-pc-consoles.htm",
+      "publishedAt": "2026-08-13T16:00:00Z"
+    }
+  ]
+}
