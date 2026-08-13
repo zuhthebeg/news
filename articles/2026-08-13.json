@@ -99,6 +99,33 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B",
       "publishedAt": "2026-08-11T22:54:10Z"
+    },
+    {
+      "id": "12",
+      "title": "LFM2.5-Audio-1.5B — GGUF까지 나온 1.5B 음성-투-음성 엣지 모델",
+      "summary": "[Audio][Edge] Liquid AI의 LFM2.5-Audio-1.5B는 음성 입력을 바로 음성으로 응답하는 1.5B 경량 speech-to-speech 모델로, GGUF 양자화 버전까지 배포돼 온디바이스 구동이 쉽다(최초 공개 2025-12-18, 최근 업데이트 2026-03-30). license: LFM Open License v1.0 확인 — 연매출 1000만 달러 미만이면 상업 사용 가능(cocy.io 규모에선 문제없음), 초과 시 별도 계약 필요. cocy.io에서 쓸모: 게임 NPC 실시간 음성 응답이나 저지연 음성 인터랙션 프로토타입을 API 비용 없이 3080Ti에서 바로 테스트 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-Audio-1.5B",
+      "publishedAt": "2025-12-18T10:21:11Z"
+    },
+    {
+      "id": "13",
+      "title": "알리바바 Tongyi-MAI, 8스텝 초고속 이미지생성 모델 'Z-Image-Turbo' apache-2.0 공개",
+      "summary": "[Image] 알리바바 통이MAI랩의 Z-Image-Turbo는 8-step 증류로 서브초 추론을 지원하는 6B 파라미터 이미지생성 모델(최초 공개 2025-11-25, 최근 업데이트 2026-01-30). license: apache-2.0 확인, 상업 사용 가능. 공식 스펙은 16GB 컨슈머 GPU 기준이라 3080Ti(12GB)에선 양자화·오프로딩이 필요할 수 있다. 한/영 바이링구얼 텍스트 렌더링에 강함. cocy.io에서 쓸모: FLUX 로컬 파이프라인 대비 훨씬 빠른 추론속도로 게임 카드·캐릭터 아트 대량 생성 시 대안으로 검토할 만함.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2025-11-25T15:09:48Z"
+    },
+    {
+      "id": "14",
+      "title": "Transformers.js, WebGPU 런타임 C++로 재작성한 v4로 월 1000만 다운로드 돌파",
+      "summary": "[Edge][Tool] 브라우저에서 트랜스포머 모델을 직접 구동하는 Hugging Face Transformers.js가 v4(2026-02 출시)에서 WebGPU 런타임을 C++로 새로 짜 브라우저/Node/Bun/Deno 전반 성능을 끌어올렸고, 2026-07-31 기준으로도 계속 커밋되고 있다. license: apache-2.0 확인. GPU 사양과 무관하게 사용자 브라우저에서 직접 도는 게 핵심. cocy.io에서 쓸모: 서버 호출 없이 브라우저에서 임베딩·소형 STT/분류 모델을 돌리는 웹게임·툴 기능(클라이언트 사이드 텍스트 분석 등)에 바로 적용 가능해 서버 비용을 줄일 수 있음.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/huggingface/transformers.js",
+      "publishedAt": "2026-07-31T13:17:52Z"
     }
   ]
 }
