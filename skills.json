@@ -469,6 +469,32 @@
         "agent"
       ],
       "addedAt": "2026-08-12"
+    },
+    {
+      "title": "Avoid AI Writing",
+      "description": "AI 특유의 문체(AI-ism)를 감지해 자연스러운 글로 다시 써주는 스킬. 이메일·블로그·문서 등 사람이 쓴 것처럼 보여야 하는 텍스트를 검수할 때 유용.",
+      "icon": "✍️",
+      "category": "productivity",
+      "url": "https://github.com/conorbronsdon/avoid-ai-writing",
+      "tags": [
+        "writing",
+        "editing",
+        "humanize"
+      ],
+      "addedAt": "2026-08-13"
+    },
+    {
+      "title": "NotebookLM-py",
+      "description": "구글 NotebookLM을 완전 프로그래매틱하게 제어하는 파이썬 API 래퍼 기반 스킬. 노트북 생성, 소스 추가, 팟캐스트 등 아티팩트 생성까지 웹 UI 없이 자동화.",
+      "icon": "📓",
+      "category": "productivity",
+      "url": "https://github.com/teng-lin/notebooklm-py",
+      "tags": [
+        "notebooklm",
+        "automation",
+        "google"
+      ],
+      "addedAt": "2026-08-13"
     }
   ]
 }

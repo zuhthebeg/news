@@ -81,6 +81,24 @@
       "source": "Game Developer",
       "sourceUrl": "https://www.gamedeveloper.com/business/the-video-game-site-backed-by-walmart-has-laid-off-its-editorial-team",
       "publishedAt": "2026-08-08T00:00:00-04:00"
+    },
+    {
+      "id": "10",
+      "title": "SCoPE 공개 — Wan2.2 기반 카메라 제어 비디오 생성 모델",
+      "summary": "[Video] Tencent ARC Lab이 2026-08-12 공개한 카메라 워크 제어 비디오 디퓨전 모델. Wan2.2-I2V-14B를 파인튜닝해 첫 프레임+텍스트+카메라 궤적을 입력하면 지정된 카메라 이동(패닝·줌·트래킹)을 따르는 비디오를 생성한다(sightline 좌표 기반 포지셔널 인코딩). license: Apache-2.0 확인, 상업 사용 가능. cocy.io에서 쓸모: 게임 트레일러·프로모 영상 제작 시 카메라 워크를 직접 지정할 수 있어 기존 랜덤 카메라 무빙보다 정교한 컷신 연출에 시도해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/TencentARC/SCoPE",
+      "publishedAt": "2026-08-12T02:14:13Z"
+    },
+    {
+      "id": "11",
+      "title": "LFM2.5-VL-3B 공개 — 엣지용 3B 비전-언어 모델",
+      "summary": "[Edge] Liquid AI가 2026-08-11 공개한 3B 파라미터 비전-언어 모델. 이미지+텍스트 입력을 CPU/GPU 등 다양한 온디바이스 환경에서 빠르게 처리하도록 설계됐고 WebGPU 브라우저 데모도 제공된다. license: LFM Open License v1.0 확인 — 연매출 1000만 달러 미만이면 상업 사용 가능(초과 시 별도 계약 필요, non-commercial 전용은 아님). cocy.io에서 쓸모: log.cocy.io 재고사진→JSON 자동등록처럼 현재 클라우드 vision LLM(qwen/haiku)에 의존하는 파이프라인을 온디바이스로 옮기는 저비용 대안으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B",
+      "publishedAt": "2026-08-11T22:54:10Z"
     }
   ]
 }
