@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-15",
+  "articles": [
+    {
+      "id": "1",
+      "title": "최태원-노소영 재산분할 재상고 시한 만료…9440억원 지급 확정 임박",
+      "summary": "최태원 SK그룹 회장과 노소영 아트센터 나비 관장의 재산분할 소송 재상고 시한이 14일 자정으로 만료됐다. 양측이 상고장을 내지 않으면 15일 0시부로 최 회장이 노 관장에게 재산분할금 9440억원과 연 5% 지연손해금을 지급해야 한다는 파기환송심 판결이 확정된다.",
+      "category": "domestic",
+      "source": "세계일보",
+      "sourceUrl": "https://segye.com/newsView/20260814504186",
+      "publishedAt": "2026-08-14T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "정부, '8·13 부동산 대책' 발표…수도권 23만가구+α 공급·PF 47.8조 지원",
+      "summary": "정부가 13일 수도권에 23만가구 이상을 추가 공급하고 PF(프로젝트파이낸싱) 금융지원을 26조3000억원에서 47조8000억원+α로 확대하는 부동산 시장 안정 대책을 내놓았다. 청년·신혼부부 대상 대출 지원을 신설하는 한편 투기수요 관리를 위한 LTV·DSR 규제는 유지했다.",
+      "category": "economy",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/2614242",
+      "publishedAt": "2026-08-13T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "정부, 반도체·바이오 규제 완화로 4.2조원 투자 물꼬 튼다",
+      "summary": "구윤철 부총리 주재 비상경제본부 회의에서 반도체 공장 증설 시 건축허가 변경 부담을 낮추고 산업단지 입주 업종 규제를 완화하는 '현장중심 기업투자·혁신지원방안'을 발표했다. 용인·구미·포항·오창 등 반도체·이차전지·바이오 클러스터에서 총 4.2조원 규모 투자가 앞당겨질 전망이다.",
+      "category": "economy",
+      "source": "아주경제",
+      "sourceUrl": "https://www.ajunews.com/view/20260813004531031",
+      "publishedAt": "2026-08-13T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "VMware vCenter 치명적 취약점 실공격 확산…47개국 361건 피해",
+      "summary": "VMware vCenter의 디렉토리 트래버설 취약점(CVE-2026-59310, CVSS 9.8)이 공개 직후부터 실제 공격에 악용되며 47개국에서 361개 피해 IP가 확인됐다. 공격자는 리버스 SSH 도구로 크론잡을 심어 지속적인 원격 접근권을 확보한 것으로 나타났다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/attackers-exploit-vmware-vcenter.html",
+      "publishedAt": "2026-08-12T00:00:00+00:00"
+    },
+    {
+      "id": "5",
+      "title": "시스코 ASA·FTD VPN 취약점 실공격 확인…CISA, 연방기관에 즉시 패치 명령",
+      "summary": "시스코 ASA·FTD 방화벽의 원격접속 SSL VPN 서비스에서 인증 없이 기기를 강제 재부팅시킬 수 있는 취약점(CVE-2026-20349)이 실제 공격에 악용된 사실이 확인됐다. 미국 CISA는 이를 알려진 악용 취약점(KEV) 목록에 등재하고 연방 민간기관에 8월14일까지 패치를 명령했다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/cisco-warns-of-asa-and-ftd-vpn-flaw-exploited-to-crash-devices/",
+      "publishedAt": "2026-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "6",
+      "title": "낸시 그레이스 로먼 우주망원경, 8월30일 발사 앞두고 통합 운영 돌입",
+      "summary": "NASA의 낸시 그레이스 로먼 우주망원경이 8월30일 팰컨헤비 로켓으로 발사를 앞두고 발사체와의 통합 운영 단계에 들어갔다. 허블과 같은 크기의 주경을 갖췄지만 시야각은 100배 넓어 암흑에너지 측정과 외계행성 탐색에 활용될 예정이다.",
+      "category": "science",
+      "source": "NASA Science",
+      "sourceUrl": "https://science.nasa.gov/blogs/roman/2026/08/10/nasas-roman-telescope-team-begins-integrated-operations-for-launch/",
+      "publishedAt": "2026-08-10T00:00:00+00:00"
+    },
+    {
+      "id": "7",
+      "title": "경구용 비만치료 신약 '알레니글리프론', 36주 만에 체중 12.1% 감량",
+      "summary": "230명을 대상으로 한 2상 임상시험에서 경구용 소분자 GLP-1 약물 '알레니글리프론' 최고 용량 투여군이 36주 만에 평균 체중의 12.1%를 감량했다. 위약군 감량폭은 0.5%에 그쳤으며, 연구 결과는 네이처 메디슨에 게재됐다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260810015717.htm",
+      "publishedAt": "2026-08-10T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "'메탈기어 솔리드: 마스터 컬렉션 Vol.2' 8월27일 출시…MGS4 첫 콘솔 이식",
+      "summary": "코나미가 '메탈기어 솔리드 4: 건즈 오브 더 페트리어트'와 '피스 워커'를 묶은 '마스터 컬렉션 Vol.2'를 8월27일 PS5·엑스박스·스위치2·스팀으로 출시한다. MGS4가 처음으로 현세대 콘솔에 이식되며, 보너스로 '고스트 바벨'과 사운드트랙이 포함된다.",
+      "category": "gaming",
+      "source": "Forbes",
+      "sourceUrl": "https://www.forbes.com/sites/brianmazique/2026/08/07/metal-gear-solid---master-collection-vol-2-release-date-and-pre-order-details/",
+      "publishedAt": "2026-08-07T00:00:00+00:00"
+    },
+    {
+      "id": "9",
+      "title": "'스타워즈: 제로 컴퍼니' 8월27일 출시 확정…XCOM 개발진의 클론전쟁 전략게임",
+      "summary": "EA와 루카스필름 게임즈가 협업한 턴제 전략게임 '스타워즈: 제로 컴퍼니'가 8월27일 PS5·엑스박스·PC로 출시된다. XCOM 시리즈 개발진 출신이 모인 비트 리액터가 개발했으며, 클론전쟁 말기를 배경으로 정예 특수부대를 지휘한다.",
+      "category": "gaming",
+      "source": "Forbes",
+      "sourceUrl": "https://www.forbes.com/sites/brianmazique/2026/08/07/star-wars-zero-company-release-date-and-pre-order-info/",
+      "publishedAt": "2026-08-07T00:00:00+00:00"
+    }
+  ]
+}
