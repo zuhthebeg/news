@@ -81,6 +81,87 @@
       "source": "Tech Times",
       "sourceUrl": "https://www.techtimes.com/articles/323505/20260807/hell-let-loose-vietnam-launches-august-13-crossplay-pc-consoles.htm",
       "publishedAt": "2026-08-13T16:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "정부, '8·13 부동산 종합대책' 발표…수도권 23만호+α 공급",
+      "summary": "정부가 13일 수도권에 23만호 이상의 주택을 추가 공급하는 '8·13 부동산 종합대책'을 발표했다. 서울·남양주·광주·용인 등 신규 택지 발굴과 그린벨트 해제, 기존 공공택지 사업 속도전에 초점을 맞췄으며 14일 주요 종합일간지 1면을 일제히 장식했다. 야당은 '재탕 발표'라며 비판했다.",
+      "category": "domestic",
+      "source": "미디어인뉴스",
+      "sourceUrl": "https://www.mediainnews.com/news/articleView.html?idxno=47058",
+      "publishedAt": "2026-08-14T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "코스피, 15거래일 만에 장중 7000선 회복",
+      "summary": "14일 오전 코스피지수가 미국 기술주 강세에 힘입어 전일 대비 2.75% 오른 7000.64를 기록하며 지난달 24일 이후 15거래일 만에 7000선을 재탈환했다. 뉴욕 증시의 물가 압력 완화와 유가 하락이 기술주 강세로 이어지며 국내 증시에도 긍정적 영향을 준 것으로 분석된다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026081408736",
+      "publishedAt": "2026-08-14T09:04:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "일본군 '위안부' 피해자 기림의 날 제9회 기념식 개최",
+      "summary": "14일 서울 백범김구기념관 컨벤션홀에서 일본군 '위안부' 피해자 기림의 날 제9회 기념식이 열린다. 故 김학순 할머니가 피해 사실을 최초로 공개 증언한 지 35주년이 되는 해로, 정부는 피해자들의 증언을 기억하고 인권과 평화의 가치를 이어갈 것을 다짐했다.",
+      "category": "domestic",
+      "source": "국회 일정 안내",
+      "sourceUrl": "https://www.2news.co.kr/news/articleView.html?idxno=20968",
+      "publishedAt": "2026-08-14T10:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "메타, 'SNS 청소년 보호 실패'로 미국서 1.3조원 벌금",
+      "summary": "미국 뉴멕시코주 법원이 페이스북·인스타그램 모회사 메타에 아동·청소년 보호 실패 책임을 물어 약 1.3조원의 벌금을 부과했다. 메타는 주정부와의 소송전에서 첫 패소를 기록했으며, 13세 미만 계정·정보 삭제와 정신건강 회복기금 조성을 명령받았다. 최악의 경우 벌금 규모가 2000조원에 달할 수 있다는 전망도 나온다.",
+      "category": "tech",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/it/12121117",
+      "publishedAt": "2026-08-13T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "방통위, 3년 끈 구글·애플 '앱마켓 갑질' 제재안 상정",
+      "summary": "방송통신위원회가 12일 2023년 과징금 통보 이후 3년을 끌어온 구글·애플의 앱마켓 인앱결제 강제 관련 제재안을 상정하고 회의를 속행했다. 애플은 국내 개발사로부터 부당 수수료 1496억원을 챙긴 것으로 조사됐으며, 구글과 애플은 2시간에 걸쳐 과징금 경감 논리를 펼쳤다. 조만간 최종 과징금이 의결될 전망이다.",
+      "category": "tech",
+      "source": "이데일리",
+      "sourceUrl": "https://www.edaily.co.kr/News/Read?newsId=06218886645546664&mediaCodeNo=257",
+      "publishedAt": "2026-08-12T19:14:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "NASA 우주비행사 마이크 핀키, 30년 커리어 마치고 퇴임",
+      "summary": "NASA 우주비행사 마이크 핀키가 30년간의 근무를 마치고 수요일 NASA를 떠났다. 그는 커리어 동안 4차례의 우주비행 임무를 수행했고 우주에서 549일을 보냈으며 국제우주정거장 관련 우주유영을 9차례 완수했다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-astronaut-mike-fincke-leaves-nasa-career-includes-4-spaceflights/",
+      "publishedAt": "2026-08-12T00:00:00-04:00"
+    },
+    {
+      "id": "16",
+      "title": "카탈리스트 스페이스, NASA 스위프트 관측위성 궤도 상승 준비",
+      "summary": "카탈리스트 스페이스가 자사 LINK 우주선의 비행 소프트웨어 업데이트 업로드에 성공했다. 이 우주선은 NASA의 닐 게럴스 스위프트 관측위성을 더 높은 궤도로 밀어 올려 임무를 지속시키는 역할을 맡고 있다.",
+      "category": "science",
+      "source": "NASA Science",
+      "sourceUrl": "https://science.nasa.gov/blogs/swift/2026/08/11/nasa-swift-boost-spacecraft-prepares-to-continue-mission/",
+      "publishedAt": "2026-08-11T00:00:00-04:00"
+    },
+    {
+      "id": "17",
+      "title": "엑스박스, 8월 업데이트로 신기능 6종 추가",
+      "summary": "마이크로소프트가 8월12일 배포한 엑스박스 시스템 업데이트에 게임패스 구독자를 위한 클라우드 스트리밍 실행 기능 등 6가지 새 기능을 담았다. 게임이 백그라운드에서 업데이트되는 동안에도 클라우드 스트리밍으로 즉시 플레이를 시작할 수 있게 됐다.",
+      "category": "gaming",
+      "source": "BGR",
+      "sourceUrl": "https://www.bgr.com/2236577/new-xbox-features-august-2026-update/",
+      "publishedAt": "2026-08-12T00:00:00-04:00"
+    },
+    {
+      "id": "18",
+      "title": "삼성, 8월26일 개막 '게임스컴 2026'서 게이밍 신제품 대거 공개",
+      "summary": "삼성전자가 독일 쾰른에서 8월26일 개막하는 게임스컴 2026에서 PC·콘솔·모바일을 아우르는 통합 게이밍 경험을 선보인다고 예고했다. 오디세이 G8 6K 게이밍 모니터, 9100 프로 SSD, 갤럭시 Z 폴드8 울트라 등을 전시할 예정이다.",
+      "category": "gaming",
+      "source": "Samsung Newsroom",
+      "sourceUrl": "https://news.samsung.com/my/samsung-to-showcase-latest-gaming-innovations-at-gamescom-2026",
+      "publishedAt": "2026-08-14T00:00:00+09:00"
     }
   ]
 }
