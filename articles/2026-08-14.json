@@ -162,6 +162,51 @@
       "source": "Samsung Newsroom",
       "sourceUrl": "https://news.samsung.com/my/samsung-to-showcase-latest-gaming-innovations-at-gamescom-2026",
       "publishedAt": "2026-08-14T00:00:00+09:00"
+    },
+    {
+      "id": "19",
+      "title": "샤오미 연구팀, 통합 오디오 씬 생성 모델 'MiDashengLM-Gen' 공개",
+      "summary": "[Audio] 샤오미 리서치가 Qwen3-1.7B 백본과 플로우매칭을 결합해 대사·음악·효과음·환경음을 한 텍스트 설명에서 동시에 생성하는 'MiDashengLM-Gen'을 공개했다. 라이선스 apache-2.0, HF 등록 2026-08-12(2일 전). cocy.io에서 쓸모: 게임 배경 앰비언트+SFX를 프롬프트 하나로 뽑는 실험 후보, 백본이 작아 3080Ti 로컬 구동 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face (mispeech/midashenglm-gen)",
+      "sourceUrl": "https://huggingface.co/mispeech/midashenglm-gen",
+      "publishedAt": "2026-08-12T08:51:02+00:00"
+    },
+    {
+      "id": "20",
+      "title": "미니맥스, 최대 5분 완성곡 생성 모델 'MiniMax Music 3' 공개",
+      "summary": "[Audio] 미니맥스가 가사+음악 설명을 받아 인트로부터 아웃트로까지 구조가 이어지는 최대 5분 완성곡(보컬 포함)을 생성하는 'MiniMax Music 3'를 공개했다. 라이선스는 Community License(연매출 2000만 달러 미만이면 상업 이용 무료, 단 서비스 UI에 'MiniMax-Music3' 표기 의무). HF 등록 2026-08-07(지난주). cocy.io에서 쓸모: ACE-Step은 인스트루멘탈 위주라 보컬 있는 완성곡이 필요할 때 대안 후보(단 8B급이라 로컬 구동 부담, 표기 의무 확인 필요).",
+      "category": "ai-tech",
+      "source": "Hugging Face (MiniMaxAI/MiniMax-Music3)",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "publishedAt": "2026-08-07T12:23:29+00:00"
+    },
+    {
+      "id": "21",
+      "title": "159M 초경량 효과음 생성 모델 'QaDiT-160' 공개",
+      "summary": "[Audio] QuarkML이 FLAN-T5 텍스트 조건화+DiT 디노이징+HiFi-GAN 보코더로 텍스트에서 10.24초 16kHz 효과음을 생성하는 159M 파라미터 초경량 모델 'QaDiT-160'을 공개했다. 라이선스 apache-2.0, HF 등록 2026-08-09(5일 전). cocy.io에서 쓸모: TangoFlux보다 훨씬 가벼워 저사양/빠른 반복 SFX 실험용으로 벤치마크해볼 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face (QuarkML/QaDiT-160)",
+      "sourceUrl": "https://huggingface.co/QuarkML/QaDiT-160",
+      "publishedAt": "2026-08-09T09:20:08+00:00"
+    },
+    {
+      "id": "22",
+      "title": "MiniMax-H3 비디오 모델의 apache-2.0 증류판 'Minimax-H3-Turbo' 공개",
+      "summary": "[Video] ModelTC(LightX2V)가 미니맥스의 이미지-투-비디오 모델 'MiniMax-H3'(자체 커뮤니티 라이선스)를 증류한 turbo 버전을 apache-2.0으로 공개했다. HF 등록 2026-08-07(지난주), 이번 주 LoRA·ComfyUI·GGUF 등 파생판이 대거 쏟아지며 급부상 중. cocy.io에서 쓸모: 캐릭터 워크루프 등 모션 생성 후보로 검토 가치 있으나 베이스 모델이 대형(GGUF 20B급 변형 존재)이라 3080Ti 12GB 구동 가능 여부는 미확인.",
+      "category": "ai-tech",
+      "source": "Hugging Face (lightx2v/Minimax-h3-Turbo)",
+      "sourceUrl": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+      "publishedAt": "2026-08-07T12:59:07+00:00"
+    },
+    {
+      "id": "23",
+      "title": "Z-Image-Turbo, iOS 온디바이스 int8 LiteRT 번들로 재패키징",
+      "summary": "[Edge] 알리바바 Tongyi-MAI의 오픈 이미지 생성 모델 'Z-Image-Turbo'가 int8 양자화된 TFLite(LiteRT) 그래프로 재패키징돼 아이폰에서 서버 없이 전체 텍스트-이미지 파이프라인을 로컬 실행할 수 있게 됐다(256×256 고정, 64토큰 프롬프트 한도). 라이선스 apache-2.0, HF 등록 2026-08-14(오늘). cocy.io에서 쓸모: 모바일 앱에 온디바이스 이미지 생성을 붙일 때 참고할 아키텍처 레퍼런스(현재는 데스크톱 파이프라인이라 직접 적용 대상은 아님).",
+      "category": "ai-tech",
+      "source": "Hugging Face (ladparis/Z-Image-Turbo-LiteRT-iOS)",
+      "sourceUrl": "https://huggingface.co/ladparis/Z-Image-Turbo-LiteRT-iOS",
+      "publishedAt": "2026-08-14T00:45:25+00:00"
     }
   ]
 }
