@@ -81,6 +81,15 @@
       "source": "Forbes",
       "sourceUrl": "https://www.forbes.com/sites/brianmazique/2026/08/07/star-wars-zero-company-release-date-and-pre-order-info/",
       "publishedAt": "2026-08-07T00:00:00+00:00"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] FireRedTTS3 공개 — 24개 언어·21개 중국 방언 제로샷 보이스클로닝 + 자연어 보이스 디자인",
+      "summary": "[Audio] 중국 FireRedTeam이 아파치2.0 라이선스로 'FireRedTTS3'를 공개했다. Base(2026-08-05)는 한국어 포함 24개 언어·21개 중국 방언에서 레퍼런스 음성 없이도 제로샷 보이스클로닝이 가능하고, Instruct(2026-08-13)는 텍스트 설명만으로 새 목소리를 설계하거나 기존 음성의 속도·피치·발음을 자유 지시문으로 편집할 수 있다. cocy.io에서 쓸모: 상업 허용 라이선스라 voicematch·쇼츠 내레이션 등에서 다국어 더빙이나 캐릭터 보이스 설계가 필요할 때 CosyVoice3 옆에 둘 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/FireRedTeam/FireRedTTS3",
+      "publishedAt": "2026-08-13T00:00:00+09:00"
     }
   ]
 }
