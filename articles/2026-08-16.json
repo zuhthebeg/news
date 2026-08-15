@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-16",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 광복절 경축사서 \"남북, 종전 위한 논의 시작하자\" 제안",
+      "summary": "이재명 대통령이 제81주년 광복절 경축식에서 북한을 향해 상호 위협 의사를 내려놓고 오래된 전쟁을 끝내기 위한 당사자 간 논의를 시작하자고 제안했다. 포용적·안정적·책임있는 평화공존 3원칙을 제시하며 한반도 평화체제 구축을 강조했다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/politics/2026/08/15/2026081512053935723",
+      "publishedAt": "2026-08-15T12:14:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "민주당 호남 경선, 김민석 과반 압승…정청래에 큰 격차",
+      "summary": "더불어민주당 당대표 후보 김민석이 최대 승부처인 호남 순회경선에서 57.54% 득표율로 정청래(32.65%)를 크게 앞서며 1위를 지켰다. 최종 당대표 선출은 8월17일 전당대회에서 확정된다.",
+      "category": "domestic",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20260815000214",
+      "publishedAt": "2026-08-15T19:44:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "8월 초순 수출 213억달러 '역대 최대'…반도체가 절반 육박",
+      "summary": "관세청에 따르면 8월1~10일 수출액이 전년 동기 대비 45.3% 급증한 213억달러로 역대 8월 초순 최대치를 기록했다. 반도체 수출이 155.4% 급증하며 전체 수출의 절반 가까이를 차지, AI 인프라 투자 확대에 따른 반도체 호황이 지속되고 있다.",
+      "category": "economy",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202608110916077487",
+      "publishedAt": "2026-08-11T09:16:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "MS, 8월 패치 화요일서 421개 취약점 수정…실공격 제로데이 1건 포함",
+      "summary": "마이크로소프트가 8월 정기 패치에서 421개 취약점을 수정했으며, 이 중 윈속 API 핵심 드라이버 afd.sys의 use-after-free 결함(CVE-2026-68820)은 이미 실공격에 악용되고 있는 제로데이로 확인됐다. 2022년 이후 afd.sys 관련 제로데이가 네 번째로 발견된 것으로, 국가 배후 공격과의 연관 가능성이 제기된다.",
+      "category": "tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/august-2026-patch-tuesday-microsoft-fixes-421-cves-one-exploited-zero-day/",
+      "publishedAt": "2026-08-11T14:46:00-04:00"
+    },
+    {
+      "id": "5",
+      "title": "오픈소스 GeoServer 제로데이 SQL인젝션, 공개 몇 시간 만에 실공격 확산",
+      "summary": "지리정보 플랫폼 GeoServer의 jsonArrayContains 필터 함수에서 발견된 SQL인젝션 취약점이 원격코드실행(RCE)으로 이어질 수 있는 것으로 확인됐다. 8월12일 공개 직후부터 소수의 IP에서 수백 건의 실공격 시도가 관측됐다고 보안업체 WatchTowr가 밝혔다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/unpatched-geoserver-zero-day-targeted.html",
+      "publishedAt": "2026-08-13T00:00:00+00:00"
+    },
+    {
+      "id": "6",
+      "title": "스탠퍼드, \"노화하는 뇌로 혈액 면역세포 유입\" 통념 뒤집는 발견",
+      "summary": "스탠퍼드 연구진이 중년 이후부터 혈액 속 면역세포가 대량으로 뇌에 유입돼 미세아교세포로 전환된다는 사실을 확인했다. DNA 돌연변이를 표지로 혈액과 뇌 면역세포의 공통 기원을 추적한 이번 연구는 네이처에 게재됐으며, 이 현상은 인간에게서만 관찰돼 신경퇴행성 질환 치료 연구의 새 단서가 될 전망이다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260814011033.htm",
+      "publishedAt": "2026-08-14T00:00:00+00:00"
+    },
+    {
+      "id": "7",
+      "title": "8월14일 태양 필라멘트 폭발…8월17일 지구 도달, 오로라 가능성",
+      "summary": "8월14일 태양에서 발생한 필라멘트 폭발로 코로나 질량 방출(CME)이 일어나 8월17일경 지구에 도달할 것으로 예상된다. 경미한 수준(G1)의 지자기 폭풍과 함께 오로라 현상이 동반될 수 있으며, 같은 날 발생한 추가 분출에 대해서도 전문가들의 분석이 이어지고 있다.",
+      "category": "science",
+      "source": "EarthSky",
+      "sourceUrl": "https://earthsky.org/sun/sun-news-activity-solar-flare-cme-aurora-updates/",
+      "publishedAt": "2026-08-15T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "아마존, '로스트아크'·'쓰론 앤 리버티' 퍼블리싱 철수…스마일게이트·엔씨소프트로 이관",
+      "summary": "아마존게임즈가 2027년 초까지 두 MMO의 퍼블리셔 역할을 순차적으로 내려놓는다. '쓰론 앤 리버티'는 올해 4분기 말까지 엔씨소프트로, '로스트아크'는 2027년 초 스마일게이트로 서비스가 이관되며, 이는 아마존이 PC·콘솔 게임 사업에서 후퇴하는 흐름의 일환으로 풀이된다.",
+      "category": "gaming",
+      "source": "Game Developer",
+      "sourceUrl": "https://www.gamedeveloper.com/business/amazon-to-rescind-its-publisher-role-on-lost-ark-and-throne-and-liberty-by-early-2027",
+      "publishedAt": "2026-08-12T00:00:00+00:00"
+    },
+    {
+      "id": "9",
+      "title": "CD프로젝트 레드, '위처' 멀티플레이어 '프로젝트 시리우스'서 또다시 인력 감축",
+      "summary": "CD프로젝트 레드가 '프로젝트 시리우스' 개발진 18명을 감축하면서 팀 규모가 83명에서 65명으로 줄었다. 3년 새 두 번째 감원으로, 최근 개발이 순조롭게 진행되던 시점에 나온 조치라 업계에서는 프로젝트 방향성에 대한 우려가 제기되고 있다.",
+      "category": "gaming",
+      "source": "GodIsAGeek",
+      "sourceUrl": "https://godisageek.com/2026/08/cd-projekt-red-cuts-project-sirius/",
+      "publishedAt": "2026-08-12T00:00:00+00:00"
+    }
+  ]
+}
