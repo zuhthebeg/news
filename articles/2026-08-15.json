@@ -90,6 +90,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/FireRedTeam/FireRedTTS3",
       "publishedAt": "2026-08-13T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "[Audio] bench-labs, AudioModel v1 공개 — 4천만 파라미터 초소형 SFX 확산모델",
+      "summary": "[Audio] bench-labs가 MIT 라이선스로 'AudioModel v1'을 공개했다(2026-08-09). 멜 스펙트로그램을 흑백 이미지처럼 다뤄 DiT+rectified flow로 학습한 4029만 파라미터 초소형 모델로, 문장 하나를 넣으면 17.8초 분량의 사운드(빗소리·발소리·개 짖는 소리·자동차 시동음 등)를 만들어낸다. H100 4시간 학습으로 나온 실험적 모델이라 상용 SFX급 품질은 별도 검증이 필요하다. cocy.io에서 쓸모: MOSS-SoundEffect-v2.0 옆에 두고 짧은 UI 효과음(클릭·알림) 초경량 대체재로 3080Ti에서 바로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/bench-labs/AudioModel-v1",
+      "publishedAt": "2026-08-09T00:00:00+00:00"
+    },
+    {
+      "id": "12",
+      "title": "[Audio] Audio8 TTS Preview 0.6B — 한국어 포함 다국어 제로샷 보이스클로닝, ONNX INT4 제공",
+      "summary": "[Audio] Audio8이 아파치2.0 라이선스로 'Audio8 TTS Preview 0.6B'를 공개했다(2026-07-28 공개, 2026-07-31 소규모 업데이트). 0.6B 파라미터로 한국어를 포함한 11개 언어에서 제로샷 보이스클로닝을 지원하며, 저사양 환경용 ONNX INT4 양자화 버전도 함께 배포됐다. cocy.io에서 쓸모: 로컬 GPU 부담이 적은 초경량 TTS라 log.cocy.io·관리자 툴의 알림 음성이나 빠른 더빙 프로토타입에 CosyVoice3보다 가벼운 대안으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+      "publishedAt": "2026-07-28T00:00:00+00:00"
+    },
+    {
+      "id": "13",
+      "title": "[Edge] Liquid AI, LFM2.5-VL-3B 공개 — 브라우저 WebGPU로 완전 온디바이스 구동되는 비전-랭귀지 모델",
+      "summary": "[Edge] Liquid AI가 LFM Open License(연매출 1000만달러 미만 상업 사용 허용)로 'LFM2.5-VL-3B'를 공개했다(2026-08-11). 엣지 배포에 최적화된 3B 비전-랭귀지 모델로, 별도 설치 없이 브라우저에서 WebGPU만으로 완전 온디바이스 구동되는 데모가 제공된다. cocy.io에서 쓸모: 서버 호출 없이 브라우저에서 이미지·스크린샷을 이해해야 하는 관리자 툴(재고 사진 인식 등)의 클라이언트 사이드 대체 경로로 실험해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM2.5-VL-3B",
+      "publishedAt": "2026-08-11T00:00:00+00:00"
+    },
+    {
+      "id": "14",
+      "title": "[Audio] nineninesix, gepard-1.0 — 저지연 실시간 스트리밍 대화형 TTS",
+      "summary": "[Audio] nineninesix가 아파치2.0 라이선스로 'gepard-1.0'을 공개했다(2026-06-22 공개, 2026-08-06 업데이트). 운율을 반영하는 오토리그레시브 TTS로 텍스트가 들어오는 대로 조각조각 오디오를 생성해 실시간 대화에 맞춘 저지연 스트리밍이 특징이다. cocy.io에서 쓸모: 실시간 챗봇이나 게임 NPC 대사처럼 지연시간이 중요한 음성 인터랙션에 CosyVoice3 대비 대안으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nineninesix/gepard-1.0",
+      "publishedAt": "2026-08-06T00:00:00+00:00"
+    },
+    {
+      "id": "15",
+      "title": "[Tool] Qwen3.8-27B — 이미지·영상 함께 이해하는 네이티브 비전-랭귀지 모델, 아파치2.0",
+      "summary": "[Tool] 알리바바가 아파치2.0 라이선스로 'Qwen3.8-27B'를 공개했다(2026-08-05 공개, 2026-08-14 업데이트). 이미지와 영상을 함께 이해하는 27B 네이티브 비전-랭귀지 모델로 Qwen3.8 패밀리의 일원이다. cocy.io에서 쓸모: 게임 스크린샷 QA나 콘텐츠 검수처럼 텍스트+이미지+영상을 함께 판단해야 하는 관리자 자동화 작업에 로컬 VLM 후보로 둘 만하다(단 27B라 12GB GPU에는 양자화 없이 못 올라감).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "publishedAt": "2026-08-14T00:00:00+09:00"
     }
   ]
 }
