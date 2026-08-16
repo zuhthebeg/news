@@ -495,6 +495,33 @@
         "google"
       ],
       "addedAt": "2026-08-13"
+    },
+    {
+      "title": "OpenNews",
+      "description": "실시간 암호화폐·미국주식·매크로 시장 뉴스를 85개+ 소스(Bloomberg, Reuters, CoinDesk, 거래소 등)에서 집계하는 스킬. AI 영향도 점수·트레이딩 시그널·이중언어 요약 제공.",
+      "icon": "📰",
+      "category": "data",
+      "url": "https://github.com/6551Team/opennews-mcp",
+      "tags": [
+        "news",
+        "finance",
+        "crypto",
+        "market-data"
+      ],
+      "addedAt": "2026-08-16"
+    },
+    {
+      "title": "Candor Finance",
+      "description": "개인 재정 관리 스킬 — 계좌·지출 정리, 승인된 예산·목표 기억, 투자 리뷰, 절약 포인트 조사까지 지원. 금전 관련 작업마다 이전 결정과 근거를 함께 추적.",
+      "icon": "💰",
+      "category": "productivity",
+      "url": "https://clawhub.ai/skills/candor-finance",
+      "tags": [
+        "personal-finance",
+        "budgeting",
+        "clawhub"
+      ],
+      "addedAt": "2026-08-16"
     }
   ]
 }

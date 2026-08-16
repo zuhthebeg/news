@@ -81,6 +81,15 @@
       "source": "GodIsAGeek",
       "sourceUrl": "https://godisageek.com/2026/08/cd-projekt-red-cuts-project-sirius/",
       "publishedAt": "2026-08-12T00:00:00+00:00"
+    },
+    {
+      "id": "10",
+      "title": "MiniMax Music 3 공개 — 가사+설명만으로 최대 5분 완성곡 생성",
+      "summary": "[Audio] MiniMax가 인트로부터 아웃트로까지 구조를 갖춘 최대 5분 길이의 완성곡을 가사와 음악 설명만으로 생성하는 MiniMax Music 3를 공개했다(8B Global LLM+0.6B Local LLM+Flow Matching 기반, 32kHz 16bit 스테레오 WAV 출력). 커뮤니티 라이선스로 상업적 사용이 허용되지만 상업 서비스 UI에 \"MiniMax-Music3\" 표기 의무가 있다. cocy.io에서 쓸모: 게임 루프 BGM은 기존 ACE-Step 파이프라인을 유지하되, 보컬이 들어간 완성곡(테마송·프로모션 음악)이 필요할 때 대안으로 검토 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "publishedAt": "2026-08-14T00:00:00Z"
     }
   ]
 }
