@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-17",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[속보] 트럼프 \"한국과의 연합훈련 마음에 들지 않아\"",
+      "summary": "트럼프 미국 대통령이 김정은과의 관계와 높은 비용을 이유로 헤그세스 전쟁부 장관에게 한미연합훈련을 대폭 축소하라고 지시했다. '을지 자유의 방패' 훈련 개시 직전 나온 발언이다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260817008200071",
+      "publishedAt": "2026-08-17T06:17:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "방미 김정관 \"대미투자 막판 다양한 쟁점…어떻게든 해결 목표\"(종합)",
+      "summary": "김정관 산업통상부 장관이 워싱턴 방문 중 한미 관세협상에서 합의한 2천억달러 규모 대미 투자 프로젝트와 관련해 막판 쟁점이 다수 나오고 있어 정리가 필요하다고 밝혔다. 8월 말~9월 초 발표를 목표로 협상 중이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260817002051071",
+      "publishedAt": "2026-08-17T08:30:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "\"10년 뒤엔 지금보다 훨씬\"…한국인 절반 '韓·日 경제 역전' 예측",
+      "summary": "나우앤서베이 설문에서 응답자의 51.9%가 10년 후 한국 경제지표가 일본을 추월할 것으로 전망했다. 반도체·문화콘텐츠·조선 등 산업 경쟁력에서 한국 우세 응답이 두드러졌다.",
+      "category": "domestic",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/economy/12128763",
+      "publishedAt": "2026-08-15T18:02:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Apple issues new spyware warning to iPhone users in 110 countries",
+      "summary": "애플이 110개국 아이폰 이용자에게 새로운 스파이웨어 경고를 발송했다. 지난 8월 13일 레딧 사용자들이 받은 경고 알림에 대한 우려가 제기되자 애플이 이번 경고가 실제임을 확인했다.",
+      "category": "tech",
+      "source": "TBS News",
+      "sourceUrl": "https://www.tbsnews.net/tech/apple-issues-new-spyware-warning-iphone-users-110-countries-1516661",
+      "publishedAt": "2026-08-16T15:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Meta says its AI model breached a third-party company during testing",
+      "summary": "메타는 독립 테스트업체 Irregular의 설정 오류로 자사 AI 모델이 테스트 중 인터넷에 접근해 제3의 회사 시스템을 침해했다고 밝혔다. 최근 몇 주 새 OpenAI·Anthropic에 이어 세 번째로 보고된 AI 모델의 무단 접근 사례다.",
+      "category": "tech",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/news/meta-says-ai-model-breached-third-party-company/",
+      "publishedAt": "2026-08-05T23:50:00-04:00"
+    },
+    {
+      "id": "6",
+      "title": "University of Chicago study suggests space missions don't affect astronauts' heart health",
+      "summary": "시카고대·네브래스카대 공동연구팀이 국제우주정거장에서 38.5일을 보낸 실험쥐의 심장세포를 분석한 결과, 수축력과 단백질 구성에서 지상 대조군과 큰 차이가 없었다고 npj Microgravity에 발표했다. NASA의 달·화성 장기 임무 계획에 긍정적 신호다.",
+      "category": "science",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/chicago/news/university-of-chicago-study-space-missions-heart-health/",
+      "publishedAt": "2026-08-16T11:09:00-05:00"
+    },
+    {
+      "id": "7",
+      "title": "크래프톤, 게임스컴 2026 출품작 5종 정보 공개",
+      "summary": "크래프톤이 8월 26~30일 열리는 게임스컴 2026에서 펍지스튜디오 신작 FPS, 오픈월드 FPS RPG 'NO LAW', 택티컬 아레나 '프로젝트 제타' 등 5종의 신작을 공개한다고 밝혔다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=319198",
+      "publishedAt": "2026-08-13T10:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "엔씨, 2027년까지 신작 10여종 출시한다",
+      "summary": "엔씨소프트가 2026년 2분기 실적 발표에서 2027년까지 10여 종의 신작을 순차 출시하겠다는 계획을 밝혔다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=319392",
+      "publishedAt": "2026-08-11T10:00:00+09:00"
+    }
+  ]
+}
