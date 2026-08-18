@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-18",
+  "articles": [
+    {
+      "id": "1",
+      "title": "더불어민주당 김민석 대표 선출 및 향후 과제",
+      "summary": "신임 당대표로 선출된 김민석 의원이 당정 협력 의지를 밝혔으나, 대통령 지지율 하락과 부동산 정책 반발이 큰 과제로 대두됨.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260818012500011",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "남부지방 극한 호우, 거제 800mm 피해 속출",
+      "summary": "남부지방에 집중호우가 이어지는 가운데, 경남 거제 지역에 800mm에 달하는 극한 호우로 비 피해가 심각함.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/economy/money/2026/08/18/BQFQCTWJZ5GXXEDIDY3ZH62BXM/",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "정부, 자살 위기 포착부터 회복까지 지원 강화",
+      "summary": "국민 생명 보호를 위해 자살 위기 단계별 지원을 체계화하고 대응을 강화함.",
+      "category": "domestic",
+      "source": "뉴시스",
+      "sourceUrl": "https://m.newspim.com/news/view/20260818000040",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "국내 통신 3사, AI 인프라 사업으로 실적 반등",
+      "summary": "무선사업 매출 정체를 AI 인프라 및 관련 서비스 사업이 보완하며 새로운 성장 동력으로 자리잡음.",
+      "category": "tech",
+      "source": "중앙일보",
+      "sourceUrl": "https://www.joongang.co.kr/newsletter/ainewsbriefing/21242",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "삼성전기, AI 서버용 MLCC 수요 급증",
+      "summary": "AI 시대 핵심 부품인 서버용 MLCC 공급 부족으로 주요 거래선과의 장기 공급 계약 및 선수금이 크게 증가함.",
+      "category": "tech",
+      "source": "이데일리",
+      "sourceUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4430437",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "캄브리아기 생물 대폭발 원인, 배설물 때문?",
+      "summary": "원시 해양 동물들의 배설물이 해양 생태계에 비료 역할을 하여 유기물을 공급, 종의 폭발적 증가를 유도했다는 가설 제기.",
+      "category": "science",
+      "source": "조선비즈",
+      "sourceUrl": "https://biz.chosun.com/science-chosun/science/2026/08/18/OGBIZWN4CJHQNMBSCE3HEFLP24/",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "뇌 속 노폐물 배출 미세 통로 발견",
+      "summary": "치매 등 퇴행성 뇌 질환 치료 연구에 새로운 가능성을 열어줄 뇌 노폐물 배출 메커니즘 확인.",
+      "category": "science",
+      "source": "과학타임즈",
+      "sourceUrl": "https://www.sciencetimes.co.kr/main",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "크래프톤, 상반기 국내 게임업계 매출 1위 기록",
+      "summary": "넥슨 등 전통적인 3N을 제치고 크래프톤이 매출 및 영업이익에서 업계 정상 자리에 오름.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=319516",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "블리자드, 탑다운 모바일 히어로 슈터 '오버워치 러쉬' 발표",
+      "summary": "오버워치 세계관을 활용한 신규 모바일 게임 개발 착수 및 지역 테스트 진행 중.",
+      "category": "gaming",
+      "source": "넥슨뉴스",
+      "sourceUrl": "https://asgard.nexon.com/News/Notice/149717",
+      "publishedAt": "2026-08-18T09:00:00Z"
+    }
+  ]
+}
