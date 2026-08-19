@@ -522,6 +522,32 @@
         "clawhub"
       ],
       "addedAt": "2026-08-16"
+    },
+    {
+      "title": "Xdrop",
+      "description": "자체 호스팅 Xdrop 서버로 파일/폴더를 암호화 업로드·다운로드하는 파일전송 스킬.",
+      "icon": "📤",
+      "category": "productivity",
+      "url": "https://clawhub.ai/xixu-me/skills/xdrop",
+      "tags": [
+        "file-transfer",
+        "encryption",
+        "self-hosted"
+      ],
+      "addedAt": "2026-08-19"
+    },
+    {
+      "title": "OpenClaw Memory Toolkit",
+      "description": "OpenClaw 에이전트용 로컬 전용 메모리 파이프라인. 세션 추출·아카이빙·시간감쇠 스코어링·통합제안·헬스체크를 크론으로 자동화, 외부 클라우드 없이 로컬 Ollama로 동작.",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://clawhub.ai/mistermijarvis/skills/memory-toolkit",
+      "tags": [
+        "memory",
+        "openclaw",
+        "local-first"
+      ],
+      "addedAt": "2026-08-19"
     }
   ]
 }

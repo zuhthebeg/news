@@ -72,6 +72,15 @@
       "source": "GamesIndustry.biz",
       "sourceUrl": "https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25",
       "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "ArcBrush 출시 — 게임 텍스처·스프라이트 전용 노드 기반 프로시저럴 2D 그래픽 툴",
+      "summary": "[Tool] C++20 네이티브로 동작하는 크로스플랫폼(윈도우/맥/리눅스) 노드 기반 비파괴 2D 이미지 편집기. 심리스 타일링, 노멀맵 생성, 스프라이트시트 내보내기(JSON 매니페스트 포함), 디더링·팔레트 리매핑 등 97개 노드로 게임 텍스처·픽셀아트 제작에 특화됨. 개인/비상업 용도 무료(전체 8비트 에디터+배치 처리 포함), 상업 라이선스는 1회성 49달러(Pro, 32비트/OpenEXR 지원 추가). cocy.io에서 쓸모: SDXL/FLUX로 뽑은 게임 텍스처·캐릭터 아트를 심리스 타일·노멀맵·스프라이트시트로 로컬에서 후가공하는 무료 배치 파이프라인으로 활용 가능.",
+      "category": "ai-tech",
+      "source": "ArcBrush",
+      "sourceUrl": "https://arcbrush.com/",
+      "publishedAt": "2026-08-18T00:00:00Z"
     }
   ]
 }
