@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-19",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 김민석·정청래·송영길 청와대 초청 만찬",
+      "summary": "이재명 대통령이 전당대회에서 경쟁했던 김민석 신임 당대표와 정청래·송영길 의원을 청와대로 초청해 만찬을 갖고 당의 통합과 민생·경제를 살피는 당정청 국정 협력 강화를 논의함.",
+      "category": "domestic",
+      "source": "YTN",
+      "sourceUrl": "https://www.ytn.co.kr/_ln/0101_202608190009272618",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "트럼프, 한미연합훈련 대폭 축소 지시…올가을 김정은과 정상회담 추진",
+      "summary": "WSJ 보도에 따르면 트럼프 대통령이 참모들에게 이르면 올가을 김정은 위원장과의 회동을 추진하도록 요구했으며, 최근 한미연합훈련 대폭 축소 지시도 정상회담 재개 의지를 보여주는 신호로 해석됨. 11월 APEC 계기 가능성이 거론됨.",
+      "category": "world",
+      "source": "동아일보",
+      "sourceUrl": "https://www.donga.com/news/Inter/article/all/20260819/134501054/1",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "\"CXMT, 설립 때부터 삼성기술 탈취\" 법정 증언 나와",
+      "summary": "중국 반도체 기업 CXMT 창립 멤버였던 전직 직원이 재판에서 CXMT가 설립 당시 자체 연구소·설비도 없이 삼성전자 기술을 빼내 제품을 개발했다고 증언, 삼성전자의 영업비밀 침해 주장에 힘을 실을 전망.",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/society/12130402",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "UC샌디에이고, 저가형 반사 타일로 밀리미터파 무선통신 실내 커버리지 2배 확대",
+      "summary": "UC샌디에이고 전기공학팀이 3D프린팅 반사 타일을 개발, 벽을 통과하지 못하는 밀리미터파 신호를 정밀 반사시켜 실내 데이터 전송률과 커버리지를 거의 두 배로 늘림. 저비용 6G 무선 인프라 대안으로 주목.",
+      "category": "tech",
+      "source": "UC San Diego Today",
+      "sourceUrl": "https://today.ucsd.edu/story/inexpensive-reflective-tiles-pave-the-way-for-cost-effective-millimeter-wave-wireless-communications",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "한국인 개인정보, 다크웹서 헐값에 거래…넷플릭스 계정 5달러",
+      "summary": "노드VPN 조사 결과 다크웹에서 한국인의 넷플릭스 계정이 5달러 미만, MS 오피스365 계정이 26달러에 거래되는 등 개인정보 유출이 저가로 이뤄지고 있음. 응답자 37%가 개인정보 유출을 우려한다고 답함.",
+      "category": "tech",
+      "source": "보안뉴스",
+      "sourceUrl": "http://www.boannews.com/media/view.asp?idx=145188",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "제임스웹, 태양계 크기의 '블랙홀 별' 미확인 우주 천체 발견",
+      "summary": "천문학자들이 JWST 관측으로 고래자리에서 블랙홀의 특징과 별의 특징을 동시에 지닌 미확인 천체를 발견. 태양계 전체 크기로 붉은 빛을 강하게 방출하며 빅뱅 후 6억6000만년 시점의 초기 우주에서 포착됨.",
+      "category": "science",
+      "source": "The News International",
+      "sourceUrl": "https://www.thenews.com.pk/latest/1412100-astronomers-discover-mysterious-new-cosmic-object-in-a-major-breakthrough",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "'소마' 제작진, 감스컴 2026서 신작 호러 'ONTOS' 신규 영상 공개 예고",
+      "summary": "SOMA·어메이지아 개발사 프릭셔널 게임즈가 8월 25일 감스컴 오프닝 나이트 라이브에서 SF 호러 신작 'ONTOS' 신규 영상을 선보일 예정. 게임 출시는 2027년으로 연기됨.",
+      "category": "gaming",
+      "source": "ixbt.games",
+      "sourceUrl": "https://ixbt.games/en/news/2026/08/19/428936-sozdateli-soma-i-amnesia-poobeshhali-pokazat-svoi-novyi-xorror-ontos-na-gamescom-2026.html",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "감스컴 2026, 역대 최대 규모…국가관 25% 증가",
+      "summary": "일주일 앞으로 다가온 감스컴 2026이 40개국 약 50개 국가관(전년 대비 25% 증가), 67개국 1600여개 참가사로 3년 연속 역대 최대 규모를 기록. 불가리아·키프로스·헝가리·모로코·나이지리아가 신규 참가.",
+      "category": "gaming",
+      "source": "GamesIndustry.biz",
+      "sourceUrl": "https://www.gamesindustry.biz/gamescom-2026-sets-new-record-as-number-of-country-pavilions-increases-by-25",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    }
+  ]
+}
