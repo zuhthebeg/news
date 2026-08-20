@@ -548,6 +548,32 @@
         "local-first"
       ],
       "addedAt": "2026-08-19"
+    },
+    {
+      "title": "Planning with Files",
+      "description": "Manus 스타일로 마크다운 파일(task_plan.md 등)을 디스크 위 작업 메모리로 써서 세션 간 계획·진행상황·발견사항을 유지하는 스킬.\n긴 코딩 작업 중 컨텍스트 유실을 막고 세션 재개 시 자동으로 이전 맥락을 복구한다.",
+      "icon": "🗂️",
+      "category": "dev",
+      "url": "https://clawhub.ai/othmanadi/skills/planning-with-files",
+      "tags": [
+        "planning",
+        "persistent-memory",
+        "coding-agent"
+      ],
+      "addedAt": "2026-08-20"
+    },
+    {
+      "title": "Remotion Best Practices",
+      "description": "React 기반 비디오 제작 프레임워크 Remotion의 애니메이션·3D·에셋 처리 도메인 지식을 규칙 파일로 제공하는 스킬.\n쇼츠·영상 자동제작 파이프라인에서 Remotion 코드를 다룰 때 참고할 수 있다.",
+      "icon": "🎞️",
+      "category": "media",
+      "url": "https://clawhub.ai/am-will/skills/remotion-best-practices",
+      "tags": [
+        "remotion",
+        "video",
+        "react"
+      ],
+      "addedAt": "2026-08-20"
     }
   ]
 }

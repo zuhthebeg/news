@@ -81,6 +81,24 @@
       "source": "GamesIndustry.biz",
       "sourceUrl": "https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback",
       "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Video] AlayaLab, EVOKE 공개 — 3스텝 CFG-free 인터랙티브 월드모델",
+      "summary": "AlayaLab이 384x640 해상도·24fps로 30초 이상 장면 일관성을 유지하는 인터랙티브 비디오 월드모델 'EVOKE'를 공개했다. H200 1장 기준 2.11초마다 1.5초 분량 영상을 생성하며, 롤아웃 도중 프롬프트를 바꿔도 끊김 없이 이어진다. 코어 가중치는 apache-2.0이지만 필수 depth 백엔드(ViGeo, Depth-Anything-3)는 CC-BY-NC-4.0이라 완전 상업용 파이프라인 구성 시 별도 확인이 필요하다. cocy.io에서는 게임 컷씬·프로시저럴 배경 영상 프로토타입에 참고할 만한 재프롬프트 가능 월드모델 구조다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/AlayaLab/Evoke",
+      "publishedAt": "2026-08-12T15:23:44Z"
+    },
+    {
+      "id": "11",
+      "title": "[Tool] CharacterSheet LoRA 공개 — 캐릭터 한 장을 멀티뷰 턴어라운드 시트로",
+      "summary": "제작자 Alissonerdx가 캐릭터 레퍼런스 이미지 한 장을 정면·측면·후면 턴어라운드나 액션포즈·표정 스터디까지 포함한 '엔티티 시트'로 변환하는 FLUX.2 Klein 9B/Krea 2용 이미지 편집 LoRA 세트를 공개했다. 사람뿐 아니라 애니메·크리처·로봇·오브젝트까지 대응한다. Civitai 커스텀 라이선스로 배포돼 상업적 사용 허용 여부는 미확인이다. cocy.io 활용: 조커런·마작 등 캐릭터 아트 파이프라인에서 캐릭터 시트 생성을 자동화해 캐릭터 일관성 파이프라인 확장 후보로 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Alissonerdx/CharacterSheet",
+      "publishedAt": "2026-07-31T14:09:23Z"
     }
   ]
 }
