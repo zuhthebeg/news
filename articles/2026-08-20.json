@@ -99,6 +99,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/Alissonerdx/CharacterSheet",
       "publishedAt": "2026-07-31T14:09:23Z"
+    },
+    {
+      "id": "12",
+      "title": "[Audio] MiDashengLM-Gen 공개 — 음성·음악·SFX·환경음을 한 번에 섞어내는 오디오씬 생성",
+      "summary": "샤오미 연구진이 LLM 백본(Qwen3-1.7B)과 오디오 토크나이저에 플로우매칭을 결합해, 대사·음악·효과음·주변 앰비언스를 하나의 텍스트 설명에서 동시에 섞어 16kHz 오디오씬으로 생성하는 MiDashengLM-Gen을 공개했다(2026-08-12, HF createdAt 확인, apache-2.0 라이선스 확인). <|caption|>/<|sfx|>/<|music|>/<|env|> 같은 구조화 토큰으로 요소별 제어가 가능하다. cocy.io에서 쓸모: 게임 씬 하나에 대사·BGM·SFX를 개별 파이프라인(TangoFlux+ACE-Step+CosyVoice) 없이 한 번에 뽑는 실험용으로 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/mispeech/midashenglm-gen",
+      "publishedAt": "2026-08-12T08:51:02Z"
+    },
+    {
+      "id": "13",
+      "title": "[Video] TencentARC SCoPE 공개 — 카메라 궤적을 좌표로 얹는 비디오 확산모델",
+      "summary": "텐센트ARC가 첫 프레임·텍스트 프롬프트·카메라 궤적을 입력받아 카메라 워크를 그대로 따라가는 영상을 생성하는 SCoPE를 공개했다(2026-08-12, HF createdAt 확인, apache-2.0 라이선스 확인). Wan2.2-I2V-A14B 기반 자체완결형 릴리즈로 별도 베이스 체크포인트 다운로드가 필요 없다. 체크포인트 약 67GB, 로컬 3080Ti로는 추론이 버거운 크기다. cocy.io에서 쓸모: 조커런 등 컷신·프로모 영상에 카메라 워크(트럭인/아웃 등)를 제어하고 싶을 때 참고할 아키텍처지만, 현재 로컬 GPU로는 직접 구동은 어렵다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/TencentARC/SCoPE",
+      "publishedAt": "2026-08-12T02:14:13Z"
+    },
+    {
+      "id": "14",
+      "title": "[Edge] Supra2-Nano ONNX 공개 — 800K 파라미터, 브라우저에서 그대로 도는 초경량 LM",
+      "summary": "Supralabs가 소비자용 하드웨어에서 극소 파라미터 스케일링을 연구하기 위해 만든 80만 파라미터짜리 Qwen3 구조 언어모델 'Supra2-Nano'가 onnx-community를 통해 transformers.js용 ONNX로 변환·공개됐다(2026-08-18, HF createdAt 확인, 이번 주 내 공개, apache-2.0 라이선스 확인). Kaggle T4 2장으로 10억 토큰만 학습한 모델이라 실용성보다는 초경량 온디바이스 추론 사례에 가깝다. cocy.io에서 쓸모: 실서비스 채택보다는 WebGPU/transformers.js 브라우저 추론 파이프라인 구성 테스트용 참고 사례.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/onnx-community/Supra2-Nano-ONNX",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "[Audio] Qwen3-TTS-12Hz CustomVoice — apache-2.0 커스텀 보이스 클로닝 TTS",
+      "summary": "Qwen팀이 공개한 12Hz 토크나이저 기반 1.7B TTS 모델로, 커스텀 보이스 클로닝을 지원하며 HF 좋아요 1,895개로 꾸준히 인기다(HF createdAt 2026-01-21 확인, apache-2.0 라이선스 확인 — 이번 주 신작은 아니고 기존 공개작). cocy.io에서 쓸모: 현재 쓰는 CosyVoice3 클로닝 파이프라인과 품질·속도를 비교해볼 만한 apache 라이선스 대안 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "publishedAt": "2026-01-21T08:56:49Z"
+    },
+    {
+      "id": "16",
+      "title": "[Audio] MiniMax Music 3 공개 — 가사+설명만으로 5분짜리 완곡을 생성",
+      "summary": "MiniMax가 8B 글로벌 LLM과 0.6B 로컬 LLM, 플로우매칭 기반 합성을 결합해 최대 5분 길이의 보컬 포함 완성곡을 가사와 음악 설명만으로 생성하는 Music 3를 공개했다(2026-08-07, HF createdAt 확인). 32kHz 스테레오 WAV 출력이며, HF 저장소에 별도 LICENSE 파일이 있으나 apache/mit 등 표준 태그가 붙어있지 않아 라이선스 미확인 — 통상 MiniMax는 매출 규모에 따른 상업이용 제한 조건을 두는 경우가 많아 실사용 전 라이선스 원문 확인이 필요하다. cocy.io에서 쓸모: 현재 BGM은 ACE-Step(악기만)을 쓰는데, 보컬 포함 완곡 생성이 필요해지면 라이선스 확인 후 비교 대상.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "publishedAt": "2026-08-07T12:23:29Z"
     }
   ]
 }
