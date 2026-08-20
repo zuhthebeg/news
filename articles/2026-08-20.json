@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-20",
+  "articles": [
+    {
+      "id": "1",
+      "title": "인천 물류센터(쿠팡 임차) 화재로 3천명 대피…인명피해 없어",
+      "summary": "8월 19일 오후 인천 서구 원창동 쿠팡 물류센터 건물 지하 1층 배전반에서 화재가 발생해 약 3,000명이 대피했다. 소방당국은 대용량 전력공급 시스템(부스덕트)에서 불이 시작됐을 가능성을 조사 중이며, 인천 쿠팡 물류센터에서는 지난 7월 두 차례에 이어 한 달 새 세 번째 화재다.",
+      "category": "domestic",
+      "source": "코리아헤럴드",
+      "sourceUrl": "https://www.koreaherald.com/article/10845933",
+      "publishedAt": "2026-08-19T08:28:00Z"
+    },
+    {
+      "id": "2",
+      "title": "원·달러 환율 11개월 만에 최저…한달반새 160원 급락",
+      "summary": "원·달러 환율이 7월 1일 고점 대비 161.5원 하락해 8월 19일 1,397.7원까지 밀리며 11개월 만의 최저치를 기록했다. 8월 법인세 납부를 앞둔 수출기업의 달러 매도 물량과 반도체 무역흑자 확대, SK하이닉스 자사주 매입 발표가 겹치며 환율 하락을 이끌었다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026081904651",
+      "publishedAt": "2026-08-19T06:30:00Z"
+    },
+    {
+      "id": "3",
+      "title": "트럼프 \"김정은과 좋은 관계\"…비핵화 목표 질문엔 답변 회피",
+      "summary": "도널드 트럼프 미국 대통령이 19일 백악관에서 북미대화 재개 목표가 여전히 비핵화인지 묻는 질문에 구체적 답변을 피하며 \"그 얘기는 하고 싶지 않다\"고 말했다. 김정은 국무위원장과 연내 만남이 예상된다는 관측도 함께 나왔다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260820006551071?section=international/all",
+      "publishedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Stripe didn't really buy OpenRouter because of the 'singularity'",
+      "summary": "결제기업 Stripe가 AI 모델 게이트웨이 스타트업 OpenRouter를 약 75억 달러에 인수했다. 업계는 결제와 AI 인프라를 결합해 토큰 기반 경제에 진출하려는 전략으로 보고 있다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Google 'gradually' rolling out Android's 'advanced' sideloading ahead of developer verification",
+      "summary": "구글이 미인증 개발자 앱 설치 시 24시간 대기시간을 두는 안드로이드 '고급 사이드로딩' 절차를 단계적으로 배포하기 시작했다. 9월 시행 예정인 개발자 인증 정책에 앞선 보안 강화 조치다.",
+      "category": "tech",
+      "source": "9to5Google",
+      "sourceUrl": "https://9to5google.com/2026/08/18/google-gradually-rolling-out-androids-advanced-sideloading-ahead-of-developer-verification/",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Scientists find closest star to the Milky Way's central black hole",
+      "summary": "과학자들이 우리 은하 중심 초대질량 블랙홀에 가장 가깝게 접근한 별을 발견했다. 광속의 8%에 달하는 속도로 움직이는 이 별은 블랙홀의 자전을 측정하는 데 활용될 수 있다.",
+      "category": "science",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/science/2026/08/scientists-find-closest-star-to-the-milky-ways-central-black-hole/",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Against all odds, SpaceX finally tugs Starship into port after 24 days at sea",
+      "summary": "스페이스X가 인도양에 불시착했던 스타십을 24일간의 표류 끝에 항구로 예인하는 데 성공했다. 엔지니어팀은 추가 분석을 위해 기체 조사에 나설 예정이다.",
+      "category": "science",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/space/2026/08/its-christmastime-at-spacex-as-company-salvages-starship-from-indian-ocean/",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "PlayStation Plus Game Catalog for August 2026 Confirmed",
+      "summary": "소니가 2026년 8월 플레이스테이션 플러스 게임 카탈로그를 확정했다. 헬다이버즈2, 킹덤 컴: 딜리버런스2, 뱀파이어 서바이버즈 등이 포함되며 지역별로 출시일이 다르게 적용된다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/playstation-plus-game-catalog-for-august-2026-confirmed",
+      "publishedAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Report: Live-service removed from Horizon Hunters Gathering following negative player feedback",
+      "summary": "게릴라 게임즈가 플레이어들의 부정적 반응 이후 신작 '호라이즌 헌터스 개더링'에서 라이브 서비스 요소를 제거한 것으로 알려졌다. 소니 산하 스튜디오들의 라이브 서비스 전략 재검토 흐름을 보여주는 사례다.",
+      "category": "gaming",
+      "source": "GamesIndustry.biz",
+      "sourceUrl": "https://www.gamesindustry.biz/report-live-service-removed-from-horizon-hunters-gathering-following-negative-player-feedback",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    }
+  ]
+}
