@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-21",
+  "articles": [
+    {
+      "id": "1",
+      "title": "UFS 한미 연합연습 오늘 조기종료…트럼프 지시로 기간·규모 대폭 축소",
+      "summary": "정례 한미 연합훈련 '을지 자유의 방패'(UFS)가 21일 조기 종료된다. 당초 17~27일 11일간 예정이었으나 트럼프 대통령의 축소 지시로 기간이 5일로 줄었고, 2부 반격 훈련과 야외기동훈련도 대폭 축소됐다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260820174500504",
+      "publishedAt": "2026-08-21T07:15:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "이재명 대통령 국정평가 '부정 〉 긍정' 첫 역전…부동산 정책이 직격탄",
+      "summary": "한국갤럽 8월 2주차 조사에서 이재명 대통령 직무수행 긍정평가 44%, 부정평가 46%로 취임 436일 만에 처음 역전됐다. 부정평가 이유 1위는 부동산 정책(30%)이었다.",
+      "category": "domestic",
+      "source": "동아일보",
+      "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260814/134477414/2",
+      "publishedAt": "2026-08-14T09:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "두산에너빌리티, 오만 미스파 발전소 공사 9281억원 수주",
+      "summary": "두산에너빌리티가 오만 자벨 파워와 미스파 독립발전사업(1700MW급) 공사도급계약을 체결했다. 계약금액 9281억3646만원은 지난해 연결 매출의 5.4%에 해당하며, 계약기간은 2029년 4월까지다.",
+      "category": "economy",
+      "source": "뉴시스",
+      "sourceUrl": "https://www.newsis.com/view/NISX20260821_0003756920",
+      "publishedAt": "2026-08-21T08:52:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "AI 추론 스타트업 Etched, 7억 달러 투자 유치…기업가치 210억 달러",
+      "summary": "프론티어 추론 클러스터 스타트업 Etched가 Jane Street 주도로 7억 달러를 유치해 누적 투자금 19억 달러, 기업가치 210억 달러를 기록했다. 고객 계약 규모는 10억 달러를 넘었으며 Jane Street에 첫 랙을 납품했다.",
+      "category": "tech",
+      "source": "FinSMEs",
+      "sourceUrl": "https://www.finsmes.com/2026/08/etched-raises-700m-in-funding.html",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "호주, 빅테크 대상 뉴스 분담금법 통과…메타·구글·틱톡 대상",
+      "summary": "호주 의회가 'News Bargaining Incentive' 법을 통과시켜 연 2억5000만 호주달러 이상 광고매출을 올리는 플랫폼이 현지 언론사와 상업 계약을 맺지 않으면 광고매출의 2.5%를 부담금으로 내도록 했다. 구글, 메타, 링크드인, 틱톡이 대상이다.",
+      "category": "tech",
+      "source": "PYMNTS",
+      "sourceUrl": "https://www.pymnts.com/cpi-posts/australia-targets-big-tech-with-new-levy-to-fund-local-news/",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA \"인체 유래 미생물, 달 남극 그늘진 지역서 생존 가능\"",
+      "summary": "NASA 연구진이 우주비행사와 함께 이동할 수 있는 지구 미생물 일부가 달 남극의 그늘진 지역에서 생존할 수 있다는 연구 결과를 발표했다. 인류의 달 상주 계획 수립 시 미생물 오염 관리의 중요성을 시사한다.",
+      "category": "science",
+      "source": "NASA Science",
+      "sourceUrl": "https://science.nasa.gov/humans-in-space/human-related-microbes-may-survive-moons-south-pole-nasa-finds/",
+      "publishedAt": "2026-08-19T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "라이엇게임즈, 격투게임 '2XKO' 정식 개발 2026년 말 종료",
+      "summary": "라이엇게임즈가 격투게임 2XKO의 활성 개발을 2026년 말 종료한다고 발표했다. 플레이어 유지율 부진이 원인으로 지목됐으며, 서버는 2026년 이후에도 계속 운영된다.",
+      "category": "gaming",
+      "source": "Riot Games",
+      "sourceUrl": "https://www.riotgames.com/en/news/2xko-active-development-ends-december-2026",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "美 7월 게임 소비지출 전년比 10% 감소…Xbox 하드웨어 29% 급감",
+      "summary": "Circana 집계에 따르면 미국 7월 비디오게임 소비지출이 전년 대비 10% 감소한 45억 달러를 기록했다. 콘솔 하드웨어 매출은 29% 급감한 2억8200만 달러로 2020년 7월 이후 최저치다.",
+      "category": "gaming",
+      "source": "Seeking Alpha",
+      "sourceUrl": "https://seekingalpha.com/news/4635592-us-video-game-spending-falls-in-july-as-xbox-hardware-sales-decline",
+      "publishedAt": "2026-08-19T00:00:00+09:00"
+    }
+  ]
+}
