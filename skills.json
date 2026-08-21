@@ -574,6 +574,32 @@
         "react"
       ],
       "addedAt": "2026-08-20"
+    },
+    {
+      "title": "Hydrafetch",
+      "description": "라이브 웹 스크래핑·사이트맵·구조화 검색을 제공하는 리서치용 API 스킬. 자체 도메인·문서·OpenAPI 스펙을 갖춘 실사용 가능한 리서치 도구.",
+      "icon": "🕸️",
+      "category": "dev",
+      "url": "https://clawhub.ai/hydrafetch/skills/hydrafetch",
+      "tags": [
+        "web-scraping",
+        "search",
+        "research"
+      ],
+      "addedAt": "2026-08-21"
+    },
+    {
+      "title": "Council of Wisdom Omni",
+      "description": "3개 핵심 에이전트와 확장 가능한 서브에이전트로 구성된 멀티에이전트 심의(deliberation) 허브 스킬. 여러 관점의 에이전트가 토론 후 합의를 도출하는 구조.",
+      "icon": "🏛️",
+      "category": "productivity",
+      "url": "https://clawhub.ai/adelpro/skills/council-of-wisdom-omni",
+      "tags": [
+        "multi-agent",
+        "deliberation",
+        "openclaw"
+      ],
+      "addedAt": "2026-08-21"
     }
   ]
 }
