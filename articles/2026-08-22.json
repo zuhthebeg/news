@@ -90,6 +90,33 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/xiaomi-research/midashenglm-gen",
       "publishedAt": "2026-08-11T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Cactus Compute, 14MB 초경량 툴콜링 모델 'Needle 2' — 7월 말 공개 후 최근 업데이트",
+      "summary": "[Edge][Tool] Cactus Compute가 도구 호출·구조화 데이터 추출에 특화된 4500만 파라미터, 14MB 단일 바이너리 모델 Needle 2를 아파치2.0 라이선스로 공개했다(2026-07-29 공개, 8월 20일 최신 업데이트). 2비트 양자화(CQ2)로 약 28MB RAM에서 전체 세션이 돌아가며, FunctionGemma 270M·LFM2.5 230M 등과 벤치마크에서 대등한 성능을 5~70배 작은 크기로 낸다. cocy.io에서 쓸모: 어드민/게임 파이프라인의 반복적인 구조화 데이터 추출(태그 분류, 스탯 파싱)을 로컬에서 초저지연으로 처리할 후보 모델.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/cactus-compute/needle",
+      "publishedAt": "2026-07-29T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "센스타임, 네이티브 4K 이미지 생성·편집 통합모델 'SenseNova-U1.5-8B-MoT' 이번 주 공개",
+      "summary": "[Image] 센스타임(SenseNova)이 이미지 생성과 편집을 하나의 체크포인트로 통합한 SenseNova-U1.5-8B-MoT를 아파치2.0 라이선스로 8월 19일 공개했다. 네이티브 4K 생성, 텍스트·인포그래픽 렌더링 품질 개선, 바운딩박스·비주얼 마커 기반 정밀 제어를 지원한다. cocy.io에서 쓸모: FLUX 기반 게임 아트 파이프라인에서 카드 UI·포스터처럼 텍스트 렌더링이 필요한 작업의 대안으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT",
+      "publishedAt": "2026-08-19T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "OpenBMB, 폰에서 돌아가는 풀듀플렉스 옴니모델 'MiniCPM-o 4.5' 최근 업데이트",
+      "summary": "[Edge][Audio] OpenBMB의 MiniCPM-o 4.5는 SigLip2·Whisper-medium·CosyVoice2·Qwen3-8B를 결합한 9B 엔드투엔드 옴니모델로, 폰이나 맥에서 실시간 풀듀플렉스 음성·비전 스트리밍을 지원하며 아파치2.0 라이선스다(8월 18일 최신 업데이트). OpenCompass 평균 77.6점으로 9B 크기에서 GPT-4o·Gemini 2.0 Pro급 비전-언어 성능을 낸다고 밝혔다. cocy.io에서 쓸모: 모바일에서 돌아가는 실시간 음성 어시스턴트나 NPC 대화 기능을 온디바이스로 실험할 때 참고할 모델.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM-o-4_5",
+      "publishedAt": "2026-08-18T00:00:00+09:00"
     }
   ]
 }
