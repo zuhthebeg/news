@@ -72,6 +72,24 @@
       "source": "PlayStation LifeStyle",
       "sourceUrl": "https://www.playstationlifestyle.net/2026/08/20/silent-hill-townfall-gameplay-trailer-ps5-release-date/",
       "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "NVIDIA, 지연 450ms 실시간 음성 대화 모델 'NemotronLabs VoiceChat' 공개",
+      "summary": "[Audio] NVIDIA가 스트리밍 음성 이해와 생성을 하나의 아키텍처로 통합한 11B 실시간 풀듀플렉스 대화 모델 NemotronLabs VoiceChat을 공개했다. 기존 ASR→LLM→TTS 3단 파이프라인 없이 약 450ms 지연으로 자연스러운 끼어들기(barge-in)와 대화 중 도구 호출을 지원하며, OpenMDW-1.1 라이선스로 상업적 이용이 가능하다. cocy.io에서 쓸모: 게임 NPC나 어시스턴트형 서비스에 실시간 음성 대화를 붙일 때 참고할 로컬 대안 모델이다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nvidia/NVIDIA-NemotronLabs-VoiceChat-11B",
+      "publishedAt": "2026-07-30T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "샤오미, 텍스트 한 번으로 음성·음악·효과음을 함께 만드는 통합 오디오 생성모델 'MiDashengLM-Gen' 공개",
+      "summary": "[Audio] 샤오미 리서치가 LLM 기반 자기회귀 플로우매칭으로 음성·음악·효과음·환경음을 하나의 오디오 씬으로 동시에 생성하는 MiDashengLM-Gen을 아파치2.0 라이선스로 공개했다. 구조화된 텍스트 설명만으로 16kHz 오디오를 만들며 9개 언어와 감정 제어를 지원한다. cocy.io에서 쓸모: 현재 BGM(ACE-Step)과 효과음(TangoFlux/MOSS)을 따로 생성하는 파이프라인을 한 프롬프트로 통합할 가능성이 있는 모델이다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/xiaomi-research/midashenglm-gen",
+      "publishedAt": "2026-08-11T00:00:00+09:00"
     }
   ]
 }

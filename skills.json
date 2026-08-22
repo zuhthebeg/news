@@ -600,6 +600,20 @@
         "openclaw"
       ],
       "addedAt": "2026-08-21"
+    },
+    {
+      "title": "PixelLab Pip",
+      "description": "PixelLab API로 픽셀아트 스프라이트시트·타일셋·캐릭터 애니메이션을 생성·편집하는 스킬. 스켈레톤/프리셋 애니메이션, 립싱크, 멀티샷 시네마틱까지 지원.",
+      "icon": "🕹️",
+      "category": "media",
+      "url": "https://clawhub.ai/shilo/skills/pixellab-pip",
+      "tags": [
+        "pixel-art",
+        "game-assets",
+        "sprites",
+        "mcp"
+      ],
+      "addedAt": "2026-08-22"
     }
   ]
 }
