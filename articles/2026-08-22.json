@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-22",
+  "articles": [
+    {
+      "id": "1",
+      "title": "노태우 전 대통령 비자금 수사 재개…검찰, 김옥숙 자택 등 압수수색",
+      "summary": "서울중앙지검이 노태우 전 대통령 일가의 '비자금 300억원' 의혹과 관련해 부인 김옥숙 여사 자택과 노재헌 주중대사가 이사장으로 있던 재단 등을 압수수색했다. 최태원-노소영 이혼소송 과정에서 나온 '김옥숙 메모'가 수사 재개의 계기가 됐으며, 전날 국회를 통과한 독립몰수제 개정안이 법적 근거를 뒷받침했다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/society/society_general/1274104.html",
+      "publishedAt": "2026-08-21T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "코스피 반도체주 강세로 상승 마감, 코스닥은 4%대 급락",
+      "summary": "8월 21일 코스피는 삼성전자 주주환원 기대감과 SK하이닉스 자사주 매입 소식에 힘입어 전일 대비 0.88% 상승한 6912.95에 마감했다. 반면 코스닥은 중소형 기술주·2차전지·바이오주 매물이 쏟아지며 4.63% 급락한 801.94로 마쳤고, 장중 매도 사이드카가 발동되기도 했다.",
+      "category": "economy",
+      "source": "아주경제",
+      "sourceUrl": "https://www.ajunews.com/view/20260821162756413",
+      "publishedAt": "2026-08-21T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "틱톡·바이트댄스, 아동 개인정보 침해 소송에 4억달러 합의",
+      "summary": "미국 법무부와 연방거래위원회(FTC)가 제기한 아동 온라인 개인정보보호법(COPPA) 위반 소송에서 틱톡과 모회사 바이트댄스가 4억달러(약 5500억원) 지급에 합의했다. 부모 동의 없이 13세 미만 아동 정보를 수집·보관했다는 혐의였으며, 틱톡은 법적 책임은 인정하지 않았다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260822006900091",
+      "publishedAt": "2026-08-22T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Microsoft, Entra ID 치명도 10.0 취약점 긴급 완화",
+      "summary": "마이크로소프트가 클라우드 ID 서비스 Entra ID에서 발견된 CVSS 10.0 만점의 원격코드실행 취약점(CVE-2026-69836)을 완화했다고 8월 21일 발표했다. 인증되지 않은 공격자가 원격으로 코드를 실행할 수 있는 결함으로, 초기에는 실공격 정황이 보고됐으나 이후 실제 악용 사례는 없었다고 정정됐다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "publishedAt": "2026-08-21T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "GitLab, GraphQL 통한 무단 프로젝트 삭제 취약점 긴급 패치",
+      "summary": "GitLab이 심각도 9.4의 코드 인젝션 취약점(CVE-2026-19478)에 대응해 8월 17~18일 긴급 패치를 배포했다. 인증 없이 GraphQL 디렉티브를 통해 공개 프로젝트를 원격으로 삭제·수정할 수 있는 결함으로, 공개 직후 실제 악용 시도가 관측돼 자체 호스팅 이용자는 즉시 업데이트가 권고됐다.",
+      "category": "tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/gitlab-patches-critical-code-injection-vulnerability/",
+      "publishedAt": "2026-08-18T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "우주비행사 변비, 원인 밝혀져…화성 미션 건강 리스크로 주목",
+      "summary": "NASA와 코펜하겐대 공동연구팀이 국제우주정거장 장기체류 우주비행사 52명의 혈액을 분석해 무중력 상태에서 변비가 생기는 메커니즘을 규명했다. 장 내 음식물 이동이 느려지며 장내세균이 단백질을 발효시켜 유해 대사물질을 만들어내는 것이 원인으로, 화성行 장기 미션에서는 신장 손상 등 위험이 커질 수 있어 식이 전략 개발이 필요하다고 지적했다.",
+      "category": "science",
+      "source": "Live Science",
+      "sourceUrl": "https://www.livescience.com/space/space-exploration/scientists-finally-know-why-astronauts-struggle-to-poop-in-space-and-reveal-a-hidden-risk-of-long-haul-spaceflight",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "생존 RPG '인쉬라우디드', 10월 15일 얼리 액세스 졸업하고 정식 출시",
+      "summary": "2024년 1월 스팀 얼리 액세스로 시작한 생존 RPG '인쉬라우디드(Enshrouded)'가 오는 10월 15일 PC와 PS5로 정식 버전(1.0)을 출시한다. Xbox Series X|S 버전은 2027년 봄으로 예정돼 있다.",
+      "category": "gaming",
+      "source": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/06/enshrouded-launches-october-15-for-ps5-and-pc-in-spring-2027-for-xbox-series",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "'사일런트 힐: 타운폴', 18분 분량 신규 게임플레이 공개",
+      "summary": "코나미와 개발사 스크린 번 인터랙티브가 8월 20~21일 '사일런트 힐: 타운폴'의 약 18분 분량 게임플레이 영상을 공개했다. 1인칭 시점으로 스코틀랜드 마을 세인트 아멜리아를 탐험하는 모습과 단서 수집 장치 'CRTV', 몬스터 조우 장면이 담겼다. 게임은 9월 24일 PC·PS5로 출시되며 PS5에서 최소 6개월간 콘솔 기간 독점된다.",
+      "category": "gaming",
+      "source": "PlayStation LifeStyle",
+      "sourceUrl": "https://www.playstationlifestyle.net/2026/08/20/silent-hill-townfall-gameplay-trailer-ps5-release-date/",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    }
+  ]
+}
