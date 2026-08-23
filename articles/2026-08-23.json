@@ -99,6 +99,33 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/laion/moss-voice-profile-loras-500",
       "publishedAt": "2026-08-22T16:28:47+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Wan-AI, 참조 영상으로 캐릭터 애니메이션 만드는 'Wan-Animate-2' 공개",
+      "summary": "[Video] Wan-AI가 드라이빙 비디오의 동작·표정을 캐릭터에 그대로 입히는 엔드투엔드 캐릭터 애니메이션 모델 Wan-Animate-2(14B)를 아파치2.0 라이선스로 8월 7일 공개했다. 별도 모션 추출기 없이 재설계된 DiT 구조로 고품질 모션과 정체성을 함께 유지하며, 실시간 스트리밍용 경량판 Wan-Animate-2-Lite도 함께 제공한다. cocy.io에서 쓸모: 현재 I2V+rembg로 만드는 캐릭터 걷기 루프 파이프라인을 참조 영상 기반 애니메이션으로 대체·보완할 후보 모델.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-Animate-2-14B",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "LightX2V, MiniMax-H3 4스텝 증류 모델 'MiniMax-H3-Turbo' 신규 체크포인트 공개",
+      "summary": "[Video] LightX2V가 MiniMax-H3 기반 이미지투비디오 모델을 4~8스텝으로 증류한 MiniMax-H3-Turbo를 아파치2.0 라이선스로 공개했으며, 8월 20일 768p용 v1.1 체크포인트를 새로 올렸다. 원본 대비 스텝 수를 대폭 줄여 추론 속도를 끌어올린 것이 특징이다. cocy.io에서 쓸모: 게임 트레일러·캐릭터 모션 목업을 로컬 GPU에서 더 빠르게 뽑아볼 I2V 후보 모델.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lightx2v/Minimax-h3-Turbo",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "ASLP-lab, 지연 110ms 스트리밍 제로샷 음성변환 모델 'MeanVC2' 공개",
+      "summary": "[Audio] ASLP-lab이 CFM(조건부 플로우매칭) 기반 실시간 제로샷 음성변환 모델 MeanVC2를 아파치2.0 라이선스로 공개했다(7월 30일 공개, 8월 3일 최신 업데이트). 18M 파라미터의 경량 모델로 40ms 청크 기준 110ms 엔드투엔드 지연을 내며 CPU 한 코어에서 RTF 0.633 미만으로 돈다. cocy.io에서 쓸모: 미리 녹음한 콜 음성을 다른 화자 음색으로 실시간 변환하는 실험에 쓸 만한 초경량 로컬 모델.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ASLP-lab/MeanVC2",
+      "publishedAt": "2026-08-03T00:00:00+09:00"
     }
   ]
 }
