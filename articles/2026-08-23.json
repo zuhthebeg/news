@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-23",
+  "articles": [
+    {
+      "id": "1",
+      "title": "경찰 '무사하다' 허위 종결한 실종자, 51일 만에 숨진 채 발견",
+      "summary": "제주서부경찰서 소속 경장이 장미란씨 실종 사건에 이어 또 다른 실종 신고를 허위로 종결 처리한 사실이 드러났다. 실종자 B씨는 가족의 재신고 끝에 51일 만에 제주 모처에서 시신으로 발견됐고, 해당 경장은 긴급체포됐다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260823003100056",
+      "publishedAt": "2026-08-23T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "삼성전자, 최대 110조원 주주환원…국내 기업 사상 최대",
+      "summary": "삼성전자가 21일 이사회를 열고 약 90조~110조원 규모의 2026년 주주환원 방안을 의결했다. 종전 최대였던 2020년 20조3천억원의 5배 수준으로, 3분기 중 약 30조원 규모 현금배당을 우선 시행할 계획이다.",
+      "category": "economy",
+      "source": "중앙일보",
+      "sourceUrl": "https://www.joongang.co.kr/article/25455162",
+      "publishedAt": "2026-08-21T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "日 이바라키현서 규모 5.9 지진…도쿄서도 진도 5약",
+      "summary": "23일 오전 2시께 일본 혼슈 동남부 이바라키현 남쪽에서 규모 5.9 지진이 발생해 도쿄 23구를 포함한 간토 지역에 진도 5약의 흔들림이 관측됐다. 쓰나미 우려는 없으며, 도쿄에서 진도 5약 이상이 관측된 것은 2021년 이후 처음이다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260823001351530",
+      "publishedAt": "2026-08-23T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "'ChainDrop' npm 공급망 공격, 440개 패키지 감염",
+      "summary": "keyv·cacheable 네임스페이스의 11개 패키지에서 시작된 자기복제형 악성코드가 확산되며 npm 레지스트리에 440개 패키지, 2,200개 이상의 악성 버전이 게시됐다. 개발자 자격증명 탈취를 노린 공급망 공격으로, 마이크로소프트 등이 대응에 나섰다.",
+      "category": "tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/over-400-npm-packages-infected-in-chaindrop-supply-chain-attack/",
+      "publishedAt": "2026-08-04T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "엔비디아 주도 'Open Secure AI 얼라이언스' 출범",
+      "summary": "엔비디아가 팔란티어 등 120여개 기업·기관과 함께 AI 에이전트 보안을 위한 오픈소스 연합체를 결성했다. 신원·권한·격리·가드레일 등 AI 에이전트 스택 전반의 보안 도구와 연구를 공유하는 것이 목표이며, 오픈AI·앤스로픽·구글은 불참했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/07/nvidia-forms-37-member-open-secure-ai.html",
+      "publishedAt": "2026-07-31T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "국제우주정거장 단백질 결정 연구, 항암제 신제형 개발로 이어져",
+      "summary": "NASA와 머크가 국제우주정거장(ISS)에서 진행한 단백질 결정 성장 연구를 활용해 항암제 펨브롤리주맙의 피하주사형 신제형을 개발, FDA 승인을 받았다. 기존 정맥주사 대비 환자 투약 시간을 크게 단축시켰다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/missions/station/iss-research/space-station-research-informs-new-fda-approved-cancer-therapy/",
+      "publishedAt": "2026-08-15T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "우주정거장 보관 의약품, 궤도에서도 효능 대부분 유지",
+      "summary": "ISS에 장기간 보관된 의약품 샘플을 지상 대조군과 비교 분석한 결과, 에피네프린 등 일부를 제외하면 효능 저하가 평균 5% 수준에 그친 것으로 나타났다. 장기 우주 임무의 재보급 제약을 고려할 때 우주비행사 건강관리에 중요한 결과다.",
+      "category": "science",
+      "source": "Chromatography Online",
+      "sourceUrl": "https://www.chromatographyonline.com/view/uhplc-ms-ms-tracks-drug-potency-international-space-station",
+      "publishedAt": "2026-08-22T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "국내 게임사, 게임스컴 2026서 신작 대거 공개",
+      "summary": "독일 쾰른 게임스컴 2026에 엔씨소프트·크래프톤·펄어비스 등이 참가했다. 크래프톤은 국내 게임사 중 유일하게 B2C·B2B 부스를 모두 운영하며 PUBG IP 기반 미공개 신작 등 5종을 세계 최초 공개했고, 엔씨소프트는 '아이온2'를 선보였다.",
+      "category": "gaming",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20260819000293",
+      "publishedAt": "2026-08-19T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "'마블 울버린' 골드 마스터…9월 15일 PS5 출시",
+      "summary": "인섬니악 게임즈가 개발 중인 '마블 울버린'이 골드 상태에 도달해 본편 개발을 마쳤다고 발표했다. 스파이더맨 시리즈와 세계관을 공유하지만 독립적인 싱글플레이 액션 어드벤처로, 9월 15일 PS5로 출시된다.",
+      "category": "gaming",
+      "source": "PSU.com",
+      "sourceUrl": "https://www.psu.com/news/marvels-wolverine-on-ps5-goes-gold/",
+      "publishedAt": "2026-08-21T00:00:00+09:00"
+    }
+  ]
+}
