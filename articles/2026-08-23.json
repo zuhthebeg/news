@@ -81,6 +81,24 @@
       "source": "PSU.com",
       "sourceUrl": "https://www.psu.com/news/marvels-wolverine-on-ps5-goes-gold/",
       "publishedAt": "2026-08-21T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "MIT Han Lab, 확산모델 4K 생성 최대 53.8배 가속 'DC-Gen' 체크포인트 신규 공개",
+      "summary": "[Image] MIT Han Lab이 FLUX.1-Krea, Qwen-Image-Edit, Wan2.1 T2V/I2V용 DC-Gen 가속 체크포인트를 새로 공개했다. 딥 압축 잠재공간으로 후처리 학습만 거쳐 H100 기준 4K 해상도에서 기존 모델 대비 최대 53.8배 추론 속도를 낸다. Apache 2.0 라이선스로, cocy.io 로컬 FLUX 파이프라인에서 게임 카드·캐릭터 아트를 고해상도로 훨씬 빠르게 대량 생성하는 데 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub (dc-ai-projects)",
+      "sourceUrl": "https://github.com/dc-ai-projects/DC-Gen",
+      "publishedAt": "2026-08-23T03:36:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "LAION, MOSS-TTS용 합성 캐릭터 음성 LoRA 500종 공개",
+      "summary": "[Audio] LAION이 오픈소스 MOSS-TTS-Local(4.55B) 기반으로 500개의 독립 발명 캐릭터 음성 LoRA 어댑터(랭크4, 개당 약 34MB)를 공개했다. 모두 실존 인물이 아닌 합성 음성이며 CC-BY-4.0으로 상업 이용 가능. cocy.io 게임 NPC·던전 보스별 개성 있는 목소리를 기존 CosyVoice 파이프라인과 별도로 빠르게 붙이는 데 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/laion/moss-voice-profile-loras-500",
+      "publishedAt": "2026-08-22T16:28:47+09:00"
     }
   ]
 }
