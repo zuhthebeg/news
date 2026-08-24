@@ -90,6 +90,42 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/nari-labs/nari-qwen3-tts",
       "publishedAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "[Edge] ACE-Step 1.5 Turbo 브라우저 WebGPU 포트 모델 공개 (FluidInference, MIT)",
+      "summary": "[Edge] FluidInference가 ACE-Step 1.5 Turbo 음악생성 모델을 서버 없이 브라우저에서 WebGPU로 직접 구동하는 fluidaudio-web '/music' 포트용 모델 패키지를 공개했다(HF 공개 2026-08-23, license: mit). 인코더+DiT+VAE 합쳐 약 5.7GB 콘텐츠 주소화 패키지이며, 원본 ACE-Step 1.5(HF: ACE-Step/Ace-Step1.5) 역시 license: mit로 상업 이용 가능. cocy.io에서 쓸모: 서버 GPU 없이 브라우저에서 게임 BGM을 실시간 프리뷰/생성하는 클라이언트 사이드 대안으로, 현재 WSL 로컬 ACE-Step 파이프라인과 비교 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/FluidInference/ace-step-webgpu-models",
+      "publishedAt": "2026-08-23T02:21:28Z"
+    },
+    {
+      "id": "12",
+      "title": "[Video] NVIDIA SANA-Video 2.0 5B, 4.47B 파라미터로 720p 약 8초 영상 생성 (apache-2.0)",
+      "summary": "[Video] NVIDIA Efficient-Large-Model 팀이 SANA-Video 2.0의 5B급 체크포인트를 공개했다(HF createdAt 2026-08-20, license: apache-2.0). 4.47B 파라미터, 게이트드 선형 어텐션+주기적 소프트맥스 앵커 구조로 736×1280·193프레임(약 8초)·24fps 텍스트/이미지-투-비디오를 지원하며 Gemma-2-2B 텍스트 인코더와 LTX-2.3 VAE를 사용한다(공식 권장: BF16, CFG 8, 50 step). 기존 14B급 비디오 모델 대비 파라미터가 작아 로컬 구동 문턱이 낮은 편. cocy.io에서 쓸모: 게임 트레일러·프로모 영상용 로컬 text-to-video 후보로 3080Ti 12GB 실구동 가능 여부를 다음에 검증할 만하다(VRAM 수치는 모델카드에 미기재라 확인 전 단정 불가).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Efficient-Large-Model/SANA-Video_2.0_5B_720p",
+      "publishedAt": "2026-08-20T04:13:34Z"
+    },
+    {
+      "id": "13",
+      "title": "[Video] Tencent SCoPE, 카메라 궤적 지정 가능한 이미지-투-비디오 공개 (apache-2.0)",
+      "summary": "[Video] TencentARC가 사전학습된 비디오 디퓨전 트랜스포머에 카메라 시선 좌표를 위치인코딩으로 추가해, 첫 프레임+텍스트+카메라 궤적을 입력하면 지정한 카메라 워크를 따르는 영상을 생성하는 SCoPE를 공개했다(HF createdAt 2026-08-12, license: apache-2.0, Wan2.2-I2V-A14B 기반 자체완결 릴리스). 체크포인트가 약 67GB로 로컬 3080Ti에서 바로 구동은 어렵지만 HF Space 데모로 무료 체험 가능. cocy.io에서 쓸모: 게임 프로모 영상에서 팬/줌/트래킹 등 의도한 카메라 워크를 지정 생성하는 접근 참고용, 향후 경량화 버전이 나오면 로컬 채택 재검토.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/TencentARC/SCoPE",
+      "publishedAt": "2026-08-12T02:14:13Z"
+    },
+    {
+      "id": "14",
+      "title": "[Edge] Superwhisper s1-mini, 0.6B ASR 후처리 텍스트 정규화 모델 공개",
+      "summary": "[Edge] Superwhisper가 음성인식(ASR) 원본 텍스트에서 필러 제거, 자기수정(false start) 반영, 문장부호·대소문자 정리, 숫자·날짜·이메일 등 서식화까지 처리하는 0.6B 텍스트 정규화 모델 s1-mini를 공개했다(Qwen3-0.6B 파인튜닝, HF createdAt 2026-08-12, HF 메타데이터상 license 태그는 'other'이지만 실제 LICENSE 파일 원문은 Apache License 2.0). 영어 held-out 셋 기준 토큰 정확도 94.8%. cocy.io에서 쓸모: 로컬 STT(VibeASR) 파이프라인 뒤에 붙여 자막·받아쓰기 결과물의 문장부호·숫자 표기 후처리 품질을 높이는 경량 애드온으로 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/superwhisper/s1-mini",
+      "publishedAt": "2026-08-12T14:33:55Z"
     }
   ]
 }
