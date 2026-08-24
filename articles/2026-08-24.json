@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-24",
+  "articles": [
+    {
+      "id": "1",
+      "title": "종합특검 180일 수사 마무리…윤석열·김건희 등 58명 재판行",
+      "summary": "2차 종합특검팀이 180일간의 수사를 마치고 8월 23일 수사를 종료했다. 윤석열 전 대통령과 김건희 여사를 포함해 총 58명이 기소됐으며 이 중 7명은 구속 기소됐다. 대통령 관저 이전 예산 불법 집행 의혹, 12·3 비상계엄 관련 메시지 전파 지시, 채상병 사건 수사 유출 등이 주요 기소 사유다. 서울-양평 고속도로 노선 변경 의혹 등 일부 사건은 결론을 내리지 못하고 경찰 국가수사본부로 재이첩됐다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260823027951004",
+      "publishedAt": "2026-08-23T15:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "전남 해남 열흘새 지진 71차례…지진 위기경보 '주의'로 상향",
+      "summary": "행정안전부가 8월 23일 전남 해남군에서 규모 3.1 지진이 발생하자 지진 위기경보를 '관심'에서 '주의' 단계로 격상했다. 8월 14일부터 23일까지 해남에서는 규모 2.0 이상 지진 7차례를 포함해 총 71차례의 지진이 이어졌다. 인명·시설 피해 신고는 없었고, 인근 한빛원전도 안전성에 이상이 없는 것으로 확인됐다. 해남은 2020년에도 유사한 연쇄 지진을 겪은 바 있어 당국이 밀착 감시에 나섰다.",
+      "category": "domestic",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/local/moi/6266634",
+      "publishedAt": "2026-08-23T11:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "태풍 사우델·나라·개나리 한반도 남쪽서 동시 활동",
+      "summary": "제18호 태풍 사우델, 제19호 나라, 제20호 개나리가 한반도 남쪽 해상에서 나란히 활동 중이다. 이 중 사우델이 가장 강력해 최대풍속 초속 50m에 달할 것으로 관측되며 일본 오키나와를 거쳐 동중국해로 향할 전망이다. 기상청은 한반도 직접 영향 가능성은 낮다고 보면서도 북태평양고기압 강도에 따라 국내 강수량과 기온에 변수가 될 수 있다고 밝혔다.",
+      "category": "domestic",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/society/environment/6264865",
+      "publishedAt": "2026-08-23T12:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "유출된 AWS 액세스키 9,300여 개 여전히 활성…Hugging Face가 최대 유출원",
+      "summary": "보안업체 Truffle Security 조사 결과 2022년 8월부터 2026년 8월 사이 공개적으로 노출된 AWS 액세스키 9,300여 개가 여전히 유효한 것으로 나타났다. 이 중 526개는 AWS 루트키였고 Hugging Face에서만 8,482건의 고유 노출이 발견됐다. 검증 가능한 유출 키의 88%가 여전히 활성 상태였으며, 다수는 평균 5년간 한 번도 교체되지 않은 것으로 확인됐다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/hundreds-of-leaked-aws-keys-give-full-control-over-corporate-accounts/",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "MS 8월 패치 화요일, Entra ID 최고위험(CVSS 10.0) 원격코드실행 결함 완화",
+      "summary": "마이크로소프트가 8월 패치 화요일에서 총 421개 취약점을 수정했다. 이 중 Entra ID(옛 Azure AD)의 CVE-2026-69836은 인증 없이 원격코드실행이 가능한 CVSS 10.0 만점 결함으로, 초기에는 실제 악용 사례로 보고됐으나 이후 마이크로소프트는 악용되지 않았으며 이미 완전히 완화됐다고 정정했다. 사용자 조치는 필요 없다고 밝혔다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/microsoft-entra-id-flaw-cvss-100.html",
+      "publishedAt": "2026-08-21T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA 낸시 그레이스 로먼 우주망원경 8월 30일 발사…허블보다 시야 100배",
+      "summary": "NASA의 낸시 그레이스 로먼 우주망원경이 8월 30일 발사될 예정이다. 원래 정찰위성용으로 제작된 하드웨어를 활용한 이 망원경은 허블 우주망원경보다 최소 100배 넓은 시야를 확보해 암흑물질, 암흑에너지, 외계행성, 은하 구조 연구에 투입된다.",
+      "category": "science",
+      "source": "SpacePolicyOnline",
+      "sourceUrl": "https://spacepolicyonline.com/news/whats-happening-in-space-policy-august-23-30-2026/",
+      "publishedAt": "2026-08-23T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "영국 스타트업 BioOrbit, 무중력서 항암제 결정화해 자가주사형 전환 추진",
+      "summary": "영국 스타트업 BioOrbit이 국제우주정거장에서 항암 단백질 치료제를 결정화하는 실험 장비 'Box-E'를 활용해, 정맥주사로만 투여 가능했던 고농도 항체 치료제를 자가주사가 가능한 결정형으로 전환하는 연구를 진행 중이다. 머크도 키트루다(펜브롤리주맙) 결정화 연구를 우주에서 진행해 왔으며, 이는 이미 FDA 승인 피하주사형 개발에 기여한 바 있다.",
+      "category": "science",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/business/2026/may/23/meds-uk-startup-drug-making-space-bioorbit-cancer",
+      "publishedAt": "2026-05-23T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "게임스컴 2026, 8월 25일 오프닝나이트라이브로 개막…크래프톤·엔씨 참가",
+      "summary": "세계 최대 게임쇼 '게임스컴 2026'이 독일 쾰른에서 8월 26일부터 30일까지 열리며, 전야제인 '오프닝 나이트 라이브'가 지오프 키슬리 진행으로 8월 25일 열린다. 닌텐도, 엑스박스, 캡콤, 유비소프트 등 글로벌 게임사와 함께 크래프톤(PUBG 신작 세계 최초 공개), 엔씨소프트(아이온2), 펄어비스(붉은사막) 등 국내 게임사도 참가한다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/gamescom-2026-how-to-watch-and-daily-schedule-of-the-biggest-gaming-event",
+      "publishedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "엔씨소프트 '아이온2' 9월 글로벌 출시 확정…게임스컴서 공개",
+      "summary": "엔씨소프트의 신작 MMORPG '아이온2'가 서구권 기준 9월 30일 PC 얼리 액세스를 시작하고 10월 5일 정식 무료 출시된다. 엔씨소프트는 8월 26~30일 게임스컴 2026에 참가해 아이온2를 포함한 신작 라인업을 선보일 예정이며, 오프닝 나이트 라이브를 통해 추가 공개가 있을 것으로 예상된다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/mmorpg-aion-2-announces-september-global-release-date",
+      "publishedAt": "2026-06-05T00:00:00Z"
+    }
+  ]
+}
