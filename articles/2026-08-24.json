@@ -81,6 +81,15 @@
       "source": "IGN",
       "sourceUrl": "https://www.ign.com/articles/mmorpg-aion-2-announces-september-global-release-date",
       "publishedAt": "2026-06-05T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Tool] 한국 스타트업 Nari Labs, Qwen3-TTS를 서브50ms 지연으로 서빙하는 초고속 엔진 공개",
+      "summary": "[Tool] 한국 스타트업 Nari Labs가 Qwen3-TTS 1.7B CustomVoice 모델을 단일 H100 GPU에서 초당 10건 요청, p95 기준 서브50ms 첫음성지연(TTFA)으로 서빙하는 오픈소스 추론 엔진 'nari-qwen3-tts'를 공개했다. 스트리밍·논스트리밍 HTTP와 WebSocket 증분 텍스트 입력을 지원하며 Apache-2.0 라이선스로 상업 이용이 가능하다. 다만 H100 전용이라 로컬 3080Ti 환경에서는 바로 못 쓰고, 클라우드로 실시간 음성 대화형 기능(NPC 보이스, 콜센터형 응답 등)을 서빙할 때 지연 최소화 참고 사례로 볼 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/nari-labs/nari-qwen3-tts",
+      "publishedAt": "2026-08-12T00:00:00Z"
     }
   ]
 }
