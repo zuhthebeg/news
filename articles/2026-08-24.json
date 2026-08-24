@@ -126,6 +126,87 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/superwhisper/s1-mini",
       "publishedAt": "2026-08-12T14:33:55Z"
+    },
+    {
+      "id": "15",
+      "title": "이재명 대통령 지지율 40.2%로 취임 후 최저치…6주 연속 하락",
+      "summary": "리얼미터가 8월 18~21일 전국 유권자 2,026명을 조사한 결과 이재명 대통령의 국정 수행 긍정 평가가 전주 대비 2.8%포인트 하락한 40.2%로 집계돼 취임 후 최저치를 기록했다. 부정 평가는 56.9%로 상승했으며, 용산공원 주택공급 논란에 따른 부동산 정책 불신, 대법원장 서면 제청·개헌을 둘러싼 여야 갈등, 한미 연합훈련 축소에 따른 안보 불안 등이 하락 요인으로 꼽혔다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/politics/2026/08/24/2026082407553294130",
+      "publishedAt": "2026-08-24T07:55:00+09:00"
+    },
+    {
+      "id": "16",
+      "title": "삼성전자 8.7% 급락에 코스피 3.12%↓…6696선 마감",
+      "summary": "삼성전자가 8월 24일 정규장에서 전 거래일 대비 8.69% 폭락한 25만7,000원에 마감하며 코스피가 3.12% 내린 6696.96에 거래를 마쳤다. 삼성전자가 90조~110조원 규모의 역대급 주주환원 계획을 발표했지만 자사주 매입·소각 규모와 집행 시점이 시장 기대에 못 미치면서 삼성그룹주를 중심으로 대규모 매도세가 나타났다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026082490716",
+      "publishedAt": "2026-08-24T15:30:00+09:00"
+    },
+    {
+      "id": "17",
+      "title": "제주 실종 장미란씨 사건 허위 종결 경찰관 구속영장 신청",
+      "summary": "제주경찰청이 3개월 전 실종된 장미란(37)씨 사건을 허위로 종결 처리한 혐의(직무유기·허위공문서 작성)로 제주서부경찰서 소속 A경사(35)를 긴급체포하고 구속영장을 신청했다. A경사는 장씨와 실제 통화한 기록이 없음에도 안전을 확인했다고 허위 기록했으며, 지난 7월 실종 신고된 60대 남성 사건에서도 유사하게 처리해 해당 남성이 신고 51일 만에 숨진 채 발견된 것으로 드러났다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202608240936001",
+      "publishedAt": "2026-08-24T09:36:00+09:00"
+    },
+    {
+      "id": "18",
+      "title": "Citrix NetScaler 치명적 인증우회 결함(CVSS 9.3) 패치…악용 우려",
+      "summary": "Citrix가 NetScaler ADC와 NetScaler Gateway에서 인증 없이 원격 공격자가 인증을 우회할 수 있는 치명적 취약점 CVE-2026-19490(CVSS 9.3)을 패치했다. SSL VPN, ICA 프록시, CVPN, RDP 프록시 등 게이트웨이·AAA·SAML 설정으로 구성된 어플라이언스가 영향을 받으며, 보안업체들은 NetScaler가 공격자들의 인기 표적인 만큼 신속한 패치를 권고했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/critical-netscaler-flaw-can-bypass.html",
+      "publishedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "이란 연계 해커, 영국 발전소 4일간 마비시켜",
+      "summary": "이란과 연계된 해커 조직이 영국의 한 소규모 발전 시설을 사이버 공격으로 4일간 완전히 정지시켰다. 영국에서 이란 연계 해커가 발전 시설을 전면 가동 중단시킨 최초의 사례로, 미국 12개 주 수처리 시설에 대한 동시다발적 공격과 맞물려 이란이 서방 인프라 침투 능력을 과시하려는 의도로 분석된다.",
+      "category": "tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/iran-linked-hackers-shut-down-uk-power-plant-for-four-days/",
+      "publishedAt": "2026-08-24T09:22:00Z"
+    },
+    {
+      "id": "20",
+      "title": "NASA, 스페이스X 로켓 상단의 달 충돌 크레이터 첫 촬영",
+      "summary": "8월 5일 임무를 마친 스페이스X 팰컨9 로켓 상단이 궤도 불안정화로 달 아인슈타인 크레이터 인근에 의도치 않게 충돌했으며, NASA 달정찰궤도선(LRO)이 지름 약 18m(60피트)의 새 충돌구를 촬영해 공개했다. 해당 로켓 상단은 2025년 블루고스트-1과 하쿠토-R 2호 달 착륙선을 실은 뒤 지구-달 교차 궤도에 방치돼 있었다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/08/260820002429.htm",
+      "publishedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "21",
+      "title": "中 창어 7호 달 탐사선 발사 전격 연기…남극 물 탐색 임무 차질",
+      "summary": "중국이 달 남극에서 물을 탐사할 예정이던 창어 7호의 발사를 발사 조건을 충족하지 못했다는 이유로 전격 연기했다. 중국유인우주국(CMSA)은 '신중·신뢰·완전한 임무 성공' 원칙에 따른 종합 평가 결과라고만 밝히고 구체적 사유는 공개하지 않았으며, 남중국해 열대폭풍 나라의 발달도 발사 지연에 영향을 준 것으로 알려졌다.",
+      "category": "science",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/news/china-postpones-lunar-launch-mission-fails-to-meet-launch-conditions/",
+      "publishedAt": "2026-08-23T15:05:00Z"
+    },
+    {
+      "id": "22",
+      "title": "EA, 550억 달러 매각 완료 후 대규모 감원 준비",
+      "summary": "사우디 국부펀드(PIF), 실버레이크, 재러드 쿠슈너의 어피니티 파트너스로 구성된 컨소시엄이 EA를 550억 달러에 인수하는 사상 최대 규모 차입매수(LBO)를 8월 4일 완료하며 EA는 나스닥에서 상장폐지됐다. 인수로 EA의 부채가 22억 달러에서 200억 달러로 급증하면서 연간 7억 달러 비용 절감 계획이 발표됐고, 이 중 상당 부분이 추가 감원으로 이어질 것이라는 전망이 나온다.",
+      "category": "gaming",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Leveraged_buyout_of_Electronic_Arts",
+      "publishedAt": "2026-08-04T00:00:00Z"
+    },
+    {
+      "id": "23",
+      "title": "Xbox, 사상 최대 규모 구조조정…3,200명 감원·스튜디오 4곳 분리",
+      "summary": "마이크로소프트 Xbox가 '역대 최대 규모 구조조정'을 선언하고 향후 12개월간 최대 3,200명(전체 인력의 약 20%)을 감원한다고 밝혔다. Xbox CEO 아샤 샤르마는 게임패스·멀티플랫폼 전략의 오판과 AI 데이터센터발 메모리 가격 급등에 따른 '심각한 하드웨어 위기'를 원인으로 꼽았으며, 컴펄전 게임즈와 더블 파인은 완전 독립하고 닌자 시어리와 언데드 랩스는 새 투자자에게 넘어간다.",
+      "category": "gaming",
+      "source": "Game Developer",
+      "sourceUrl": "https://www.gamedeveloper.com/business/xbox-cutting-3-200-jobs-and-parting-ways-with-double-fine-compulsion-ninja-theory-and-undead-labs",
+      "publishedAt": "2026-07-06T00:00:00Z"
     }
   ]
 }
