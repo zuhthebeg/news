@@ -81,6 +81,51 @@
       "source": "IGN",
       "sourceUrl": "https://www.ign.com/articles/xbox-game-pass-august-2026-wave-2-lineup-announced",
       "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "샤오미, 대사·음악·SFX·환경음 통합 생성 모델 MiDashengLM-Gen 공개",
+      "summary": "[Audio] 샤오미 산하 mispeech 팀이 LLM 백본(Qwen3-1.7B)과 오토리그레시브 플로우매칭으로 대사·음악·효과음·환경음을 한 문장으로 동시에 섞어 생성하는 MiDashengLM-Gen을 HF에 공개했다(2026-08-12 공개, license apache-2.0 확인, arXiv 2608.11804, 16kHz 모노 WAV 출력). cocy.io에서 쓸모: 지금은 TangoFlux/MOSS-SoundEffect로 효과음만 따로 뽑는데, 이 모델은 게임 씬의 배경 앰비언스+효과음을 한 번에 생성할 수 있어 조커런·마작 같은 게임 사운드 제작 시간을 줄일 후보.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mispeech/midashenglm-gen",
+      "publishedAt": "2026-08-12T08:51:02Z"
+    },
+    {
+      "id": "11",
+      "title": "OPPO 연구팀, 경량 다국어 보이스클로닝 TTS 'CuteTTS' 공개",
+      "summary": "[Audio] OPPOer 계정이 영어·중국어·프랑스어·독일어 보이스클로닝을 지원하는 경량 TTS 모델 CuteTTS를 오늘 HF에 올렸다(2026-08-24 공개, license apache-2.0 확인, 경량 distill 버전 동시 공개). cocy.io에서 쓸모: 현재 CosyVoice3로 클로닝 TTS를 쓰는데, 라이선스가 명확한 대안으로 비교 벤치마크해볼 만함(단 공개 당일이라 커뮤니티 검증·문서는 아직 부족).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OPPOer/CuteTTS",
+      "publishedAt": "2026-08-24T12:19:40Z"
+    },
+    {
+      "id": "12",
+      "title": "MiniMax Music 3, 보컬 포함 5분 완곡 생성 — 소규모 사업자는 상업 사용 무료",
+      "summary": "[Audio] MiniMax가 최대 5분 길이의 완결된 곡(보컬+편곡 전개 포함)을 생성하는 Music 3를 공개했다(2026-08-07 공개, 8B Global LLM+0.6B Local LLM+Flow-VAE, 32kHz 스테레오 출력). 라이선스는 MiniMax-Music3 Community License로, 연매출 2천만 달러 미만이면 UI에 'MiniMax-Music3' 표기만 하고 무료 상업 사용 가능(HF LICENSE 파일 직접 확인). cocy.io에서 쓸모: ACE-Step BGM은 보컬이 약한데, 보컬 포함 완곡이 필요한 홍보 쇼츠 배경음악 후보로 검토할 가치(2B 모델 크기·로컬 구동 여부는 별도 확인 필요).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "publishedAt": "2026-08-07T12:23:29Z"
+    },
+    {
+      "id": "13",
+      "title": "AlayaLab, Apache-2.0 텍스트투비디오 모델 'Evoke' 공개",
+      "summary": "[Video] AlayaLab이 완전 오픈 라이선스(license apache-2.0 확인)로 text-to-video 모델 Evoke를 HF에 올렸다(2026-08-12 공개, 다운로드 128·좋아요 24로 아직 초기 단계). cocy.io에서 쓸모: 캐릭터 모션은 현재 LTX-2.3/Wan2.7 I2V로 처리 중인데, 라이선스가 깨끗한 신규 옵션으로 품질 비교 대상에 넣어볼 만함(단 공개 초기라 안정성·실사용 사례는 아직 적음).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/AlayaLab/Evoke",
+      "publishedAt": "2026-08-12T15:23:44Z"
+    },
+    {
+      "id": "14",
+      "title": "MoneyPrinterTurbo, 이번 주 GitHub 트렌딩 1만+ 스타 — 주제 입력만으로 숏폼 자동생성",
+      "summary": "[Tool] 대본 작성부터 소재 검색·매칭·합성까지 LLM이 자동 처리하는 오픈소스 숏폼 생성 워크플로 MoneyPrinterTurbo가 이번 주 GitHub 트렌딩에서 1만 개 이상의 스타를 받았다(레포 자체는 2024-03 생성, license MIT 확인, 오늘도 커밋 진행 중인 활발한 프로젝트). cocy.io에서 쓸모: 보류 중인 쇼츠 자동제작 파이프라인(업로드 경로 미정) 설계 시 참고할 만한 오픈소스 레퍼런스 아키텍처.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/harry0703/MoneyPrinterTurbo",
+      "publishedAt": "2026-08-25T02:49:38Z"
     }
   ]
 }
