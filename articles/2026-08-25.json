@@ -126,6 +126,87 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/harry0703/MoneyPrinterTurbo",
       "publishedAt": "2026-08-25T02:49:38Z"
+    },
+    {
+      "id": "15",
+      "title": "이재명 대통령 국정 지지율 40%선 붕괴…취임 후 최저치",
+      "summary": "여러 여론조사에서 이재명 대통령의 국정운영 긍정평가가 잇따라 40% 아래로 떨어져 취임 이후 최저치를 기록했다. 핵심 지지층인 40대와 호남에서도 부정평가가 크게 늘어난 것으로 나타났다.",
+      "category": "domestic",
+      "source": "뉴데일리",
+      "sourceUrl": "https://www.newdaily.co.kr/site/data/html/2026/08/25/2026082500040.html",
+      "publishedAt": "2026-08-25T06:00:00+09:00"
+    },
+    {
+      "id": "16",
+      "title": "KDI, 올해 성장률 3.2%로 상향 조정…\"반도체 호황이 견인\"",
+      "summary": "한국개발연구원(KDI)이 2026년 경제성장률 전망치를 기존 2.5%에서 3.2%로 대폭 상향했다. 상향폭 0.7%p 중 0.6%p가 AI발 글로벌 반도체 호황 효과이며, 경상수지는 사상 최대인 3600억 달러 흑자를 기록할 것으로 전망했다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/economy/2026/08/20/2026081920143017032",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "17",
+      "title": "전북도, 동학농민혁명 유족 723명에 연 120만원 수당…전국 광역단체 최초",
+      "summary": "전북특별자치도가 동학농민혁명 참여자 유족 723명에게 당초 계획보다 두 배 늘린 연 120만원의 수당을 지급하기로 했다. 광역자치단체 가운데 처음 시행되는 것으로, 올해 사업비는 8억 6800만원이며 11~12월 중 지급될 예정이다.",
+      "category": "domestic",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://biz.heraldcorp.com/article/10851795",
+      "publishedAt": "2026-08-25T00:00:00+09:00"
+    },
+    {
+      "id": "18",
+      "title": "WhatsApp, 다중 패스키·전체 비밀번호 지원으로 계정 보안 대폭 강화",
+      "summary": "메타가 왓츠앱에 아이폰·안드로이드 등 여러 기기에 걸쳐 다중 패스키를 등록할 수 있는 기능과, 6자리 PIN을 넘어 특수문자를 포함한 전체 비밀번호를 쓸 수 있는 강화된 2단계 인증을 도입했다. 현재 10억 명 이상이 패스키로 왓츠앱에 로그인하고 있다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/whatsapp-adds-multiple-passkeys-for.html",
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "AWS 액세스 키 9300여 개, 수년째 노출된 채 여전히 활성 상태",
+      "summary": "보안업체 트러플시큐리티 조사 결과 2022년 8월부터 2026년 8월 사이 깃 히스토리, 허깅페이스, 도커 이미지 등에서 공개 노출된 AWS 액세스 키 6만4천여 개 중 9300여 개가 여전히 유효한 것으로 확인됐다. 이 중 242개는 관리자 권한을 가진 키였으며, 노출 키의 평균 방치 기간은 약 5년에 달했다.",
+      "category": "tech",
+      "source": "SC Media",
+      "sourceUrl": "https://www.scworld.com/brief/thousands-of-active-aws-access-keys-remain-publicly-exposed",
+      "publishedAt": "2026-08-19T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "제임스웹, 태양 10만 배 질량 블랙홀 감싼 '블랙홀 별' 포착",
+      "summary": "제임스웹우주망원경(JWST)이 초기 우주에서 태양보다 10만 배 무거운 블랙홀이 거대한 가스 외피에 둘러싸여 마치 태양계 크기의 별처럼 보이는 '블랙홀 별'을 관측했다. 이 발견은 JWST 이미지 곳곳에서 발견되지만 현재 우주에서는 사라진 수수께끼의 '작은 붉은 점(little red dots)' 현상을 설명할 단서로 주목받고 있다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
+      "publishedAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": "21",
+      "title": "국제우주정거장 연구 성과, 지상 의료로 이어지는 '우주의학' 센터 잇따라 설립",
+      "summary": "은퇴한 NASA 우주비행사 케이트 루빈스가 설립한 트리베디 우주·글로벌생명의학연구소를 비롯해 국제우주정거장(ISS)의 미세중력 연구 성과를 실제 치료법으로 전환하는 우주의학 센터들이 잇따라 문을 열고 있다. 줄기세포 배양 등 미세중력 환경에서의 연구가 재생의학 발전에 새로운 통로를 열고 있다는 평가다.",
+      "category": "science",
+      "source": "ISS National Lab",
+      "sourceUrl": "https://issnationallab.org/iss360/space-research-iss-medicine-centers/",
+      "publishedAt": "2026-08-01T00:00:00Z"
+    },
+    {
+      "id": "22",
+      "title": "감스컴 오프닝 나이트 라이브 2026 총정리…'위쳐3' 무료 리마스터·'메가맨' 복귀",
+      "summary": "감스컴 2026 오프닝 나이트 라이브에서 '위쳐 3: 와일드 헌트'가 9월 29일 무료 리마스터 업데이트로 스위치2에도 출시되며 확장팩 '지난 노래들'이 최초 공개됐다. '메가맨'이 2027년 신작 '메가맨: 듀얼 오버라이드'로 복귀를 알렸고, '플레이그 테일: 레거시', '레이맨 레전드 리톨드' 등 다수의 신작 트레일러가 공개됐다.",
+      "category": "gaming",
+      "source": "GameSpot",
+      "sourceUrl": "https://www.gamespot.com/articles/gamescom-opening-night-live-2026-all-the-biggest-announcements-games-and-trailers/",
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "23",
+      "title": "'엘든 링 타니시드 에디션', 8월 28일 닌텐도 스위치2로 정식 출시",
+      "summary": "프롬소프트웨어의 '엘든 링'이 본편과 확장팩 '섀도우 오브 얼드트리', 신규 커스터마이징 요소를 포함한 '타니시드 에디션'으로 8월 28일 닌텐도 스위치2에 출시된다. 성능 최적화 문제로 2025년에서 연기됐던 이식판으로, 감스컴을 앞두고 출시일이 최종 확정됐다.",
+      "category": "gaming",
+      "source": "Bandai Namco",
+      "sourceUrl": "https://en.bandainamcoent.eu/elden-ring/news/elden-ring-tarnished-edition-coming-nintendo-switch-2-august",
+      "publishedAt": "2026-08-25T00:00:00Z"
     }
   ]
 }
