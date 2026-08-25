@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-25",
+  "articles": [
+    {
+      "id": "1",
+      "title": "한미약품, 제넨텍에 비만 신약 최대 23억 달러 기술수출",
+      "summary": "한미약품이 로슈그룹 자회사 제넨텍에 근육 보존형 비만 신약 후보물질 'HM17321'을 최대 23억 달러(약 3조 1천억원) 규모로 기술수출하는 계약을 체결했다. 국내 제약·바이오 기업의 단일 신약 후보물질 이전 사례 중 역대 최대 규모로, 선급금만 1억 9천만 달러다. 미국 임상 1상은 한미약품이 마무리하고 이후 임상 2상부터는 제넨텍이 개발을 주도한다.",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/it/12135082",
+      "publishedAt": "2026-08-25T08:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "현대차 노사, 111일 만에 임금협상 잠정합의",
+      "summary": "현대자동차 노사가 5월 상견례 이후 111일 만에 임금협상 잠정합의안을 마련했다. 기본급 10만원 인상, 성과금 400%+1270만원, 주식 15주, 복지포인트 50만원 지급 등이 담겼으며 8월 31일 조합원 찬반투표로 최종 확정된다. 7월 파업으로 인한 생산 차질 약 5만 5200대, 매출 손실 2조 3천억원을 최소화하는 데 초점이 맞춰졌다.",
+      "category": "domestic",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/202608259984i",
+      "publishedAt": "2026-08-25T08:30:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "트럼프, 중국산 저가 제품에 신규 관세 추진",
+      "summary": "도널드 트럼프 미국 대통령이 저가 제품으로 글로벌 시장을 잠식하고 있다는 이유로 중국에 대한 새로운 관세 부과를 추진하고 있다. 미·중 무역 긴장이 다시 고조되는 가운데 나온 조치로, 세부 품목과 세율은 아직 확정되지 않았다.",
+      "category": "world",
+      "source": "The Hindu",
+      "sourceUrl": "https://www.thehindu.com/news/international/trump-moves-toward-levying-new-tariff-on-china-for-flooding-market-with-cheap-goods/article71386345.ece",
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "해커, 대기업 애저 계정서 대량 직원 데이터 탈취 주장",
+      "summary": "한 해커가 여러 대기업의 마이크로소프트 애저(Azure) 계정에서 상당량의 직원 데이터를 확보했다고 주장했다. 보다폰은 유출됐다는 데이터를 검토한 결과 주소록이나 명함 수준의 정보로 보이며 고객 데이터 유출 정황은 없었다고 밝혔다.",
+      "category": "tech",
+      "source": "Computing",
+      "sourceUrl": "https://www.computing.co.uk/news/2026/security/hacker-claims-massive-haul-azure",
+      "publishedAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "AI 에이전트, 대만 정부 시스템 자율 공격해 85개 계정 탈취",
+      "summary": "지난 7월 완전 자율형 멀티에이전트 AI 시스템이 나흘에 걸쳐 대만 정부 연계 시스템 21곳을 정찰하고 직원 계정 85개를 뚫어 개인정보 2500여 건과 내부 DB 인증정보를 탈취한 사실이 확인됐다. 실제 사이버 공격에 자율 AI 에이전트가 동원된 최초의 알려진 사례로, 공격은 중국어 사용권 조직의 소행으로 추정되며 원자력안전청과 에너지 기업 7곳으로도 번졌다.",
+      "category": "tech",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/technology/2026/aug/13/taiwan-ai-assisted-cyber-attacks-overseas",
+      "publishedAt": "2026-08-13T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "개인맞춤형 mRNA 백신, 흑색종 재발 억제 효과 확인",
+      "summary": "환자 자신의 종양에서 추출한 개인맞춤형 mRNA 백신을 면역항암제 키트루다와 병용한 임상 3상에서, 고위험 흑색종 수술 환자의 무재발 생존 기간이 유의미하게 연장됐다. 개인 종양 기반 백신이 대규모 후기 임상에서 효과를 보인 대표적 사례로 꼽힌다.",
+      "category": "science",
+      "source": "GAVI",
+      "sourceUrl": "https://www.gavi.org/vaccineswork/cancer-breakthrough-personalised-mrna-vaccine-stops-melanoma-returning",
+      "publishedAt": "2026-08-20T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "직장암 환자 5명 중 4명, 항문 보존하고 대수술 피해",
+      "summary": "영국 암연구소(Cancer Research UK)가 지원한 대규모 임상시험에서 조기 직장암 환자에게 항암화학방사선요법과 필요시 최소 수술을 병행한 결과, 5명 중 4명이 직장을 보존하고 전체 절제와 인공항문 부착을 피할 수 있었다. 배변·성·비뇨기 기능 부작용도 크게 줄었다.",
+      "category": "science",
+      "source": "Cancer Research UK",
+      "sourceUrl": "https://news.cancerresearchuk.org/2026/08/24/new-treatment-helps-patients-with-rectal-cancer-avoid-major-surgery-and-side-effects/",
+      "publishedAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'위쳐 4' 2028년 출시 확정…감스컴서 공식 발표",
+      "summary": "CD 프로젝트 레드가 감스컴 2026 오프닝 나이트 라이브에서 '위쳐 4'의 2028년 출시 시기를 공식 확정했다. 거대한 오픈월드와 액션 중심 전투, 깊이 있는 스토리를 갖출 것이라고 밝혔으며, '위쳐 3: 와일드 헌트'의 신규 확장팩 '지난 노래들'도 2027년 출시된다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/the-witcher-4-confirmed-for-2028-release-in-official-cd-projekt-gamescom-2026-announcement",
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "엑스박스 게임패스 8월 2차 라인업 공개",
+      "summary": "엑스박스가 게임패스 8월 2차 신작 라인업을 공개했다. '레저넌스: 어 플레이그 테일 레거시', '영 선즈', 게임 프리뷰로 선보이는 소울라이크 플랫포머 '베이퍼 월드', 니드호그 제작진의 신작 2D 플랫포머 '블러드 던전' 등이 포함됐다. 'NBA 2K26'은 9월 6일 게임패스에서 제외된다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/xbox-game-pass-august-2026-wave-2-lineup-announced",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    }
+  ]
+}
