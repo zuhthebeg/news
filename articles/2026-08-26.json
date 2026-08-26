@@ -1,0 +1,68 @@
+{
+  "date": "2026-08-26",
+  "articles": [
+    {
+      "id": "1",
+      "title": "김민석 \"경찰개혁 박차…檢보완수사 작동상태서 허위종결 발생\"",
+      "summary": "더불어민주당 김민석 대표가 제주 실종 허위 종결 사건과 관련해 경찰개혁에 박차를 가하겠다고 밝혔다. 제 식구 감싸기·사건 암장·증거은폐 등 6대 폐단을 뿌리 뽑고 검찰·경찰에 대한 민주적 통제를 강화하겠다고 말했다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260826031300001?section=politics/all",
+      "publishedAt": "2026-08-26T08:58:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "캐나다 보복관세 9월 발효…美선거 앞두고 '공화당 압박' 포석",
+      "summary": "캐나다가 미국의 자국산 제품 관세 부과에 맞서 9월 8일부터 약 200억달러 규모의 보복관세를 발효한다. 11월 미 중간선거를 두 달 앞둔 시점으로, 공화당 지역구를 겨냥한 정치적 압박이라는 해석이 나온다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260826023600072?section=international/all",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "글로벌 바이오 콘퍼런스 개막…AI·첨단바이오 규제 해법 찾는다",
+      "summary": "식품의약품안전처가 28일까지 서울에서 '글로벌 바이오 콘퍼런스'를 연다. 세계 규제당국·업계 관계자 5천여명이 참가해 AI·첨단바이오의약품 관련 규제와 국제 협력 방향을 논의한다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260826026100017?section=economy/all",
+      "publishedAt": "2026-08-26T08:40:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "X sends cease-and-desist to open source project Nitter over alleged scraping",
+      "summary": "일론 머스크의 X가 로그인 없이 X 게시물을 볼 수 있게 해주던 오픈소스 프로젝트 Nitter에 중단 요구서를 보냈다. X는 Nitter가 자사 API를 무단으로 스크래핑했다고 주장했으며, 이는 X의 기존 차단 시도에 이은 것이다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/25/x-sends-cease-and-desist-to-open-source-project-nitter-over-alleged-scraping/",
+      "publishedAt": "2026-08-25T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Instagram adds feature that automatically trims clips for Reels",
+      "summary": "인스타그램이 릴스용 영상 클립을 자동으로 다듬어주는 'First Draft' 기능을 추가했다. 영상 편집의 번거로운 작업을 줄여주는 기능으로, 크리에이터의 제작 워크플로를 단순화한다.",
+      "category": "tech",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2244219/instagram-adds-feature-that-automatically-trims-clips-for-reels/",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "JWST reveals a race against time for forming planets",
+      "summary": "제임스웹우주망원경(JWST)의 새 관측 결과, 어린 별 주변 원반의 가스가 예상보다 빨리 사라지면서 행성 형성 과정이 시간과의 싸움이라는 사실이 드러났다. 가스 손실 속도가 행성 성장에 미치는 영향을 새롭게 조명했다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-08-jwst-reveals-planets.html",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "A remastered The Witcher 3 will be released September 29",
+      "summary": "CD 프로젝트 레드가 '더 위쳐 3: 와일드 헌트' 리마스터판을 9월 29일 출시한다고 발표했다. 기존 소유자에게는 무료 업그레이드로 제공되며, 스위치2와 배틀넷에도 처음 출시된다. 12년 만의 대규모 확장팩 'Songs of the Past'도 함께 공개됐다.",
+      "category": "gaming",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2244195/a-remastered-the-witcher-3-will-be-released-september-29/",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    }
+  ]
+}
