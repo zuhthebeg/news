@@ -81,6 +81,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.1b",
       "publishedAt": "2026-08-19T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] Lightricks, 무음 영상에 자동으로 효과음 입히는 Foley LoRA 'LTX-2.3-22B Foley V2A' 공개",
+      "summary": "[Audio] Lightricks가 자사 LTX-2.3 비디오 모델 기반 video-to-audio Foley LoRA를 공개했다. 무음 영상(또는 텍스트 프롬프트)을 넣으면 발소리·타격음·마찰음 같은 효과음을 자동 합성한다. 라이선스는 LTX-2 Community License(연매출 1000만달러 미만 상업 무료, 이상은 별도 계약)이며 7월 15일 공개 후 8월 2일 업데이트됐다. cocy.io에서 쓸모: 게임 플레이/캐릭터 모션 영상을 넣어 SFX를 자동 생성해 현재 MOSS-SoundEffect 텍스트 프롬프트 방식을 보완하는 비디오 동기화 폴리 생성 실험에 쓸 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.3-22b-LoRA-Foley-V2A",
+      "publishedAt": "2026-07-15T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "[Audio] 빌리빌리 IndexTeam, 감정 표현 제어되는 제로샷 보이스클로닝 TTS 'IndexTTS-2.5' 공개",
+      "summary": "[Audio] 중국 빌리빌리 산하 IndexTeam이 한 문장 레퍼런스 음성만으로 화자를 복제하는 제로샷 TTS 'IndexTTS-2.5'를 공개했다. 중/영/일/스페인어/아랍어 5개 언어를 지원하며 감정 표현을 음색과 분리해 제어할 수 있다. 라이선스는 bilibili Model Use License Agreement(월간활성이용자 1억 또는 연매출 10억위안 미만이면 상업 무료)이며 8월 10일 공개돼 최근 업데이트됐다. cocy.io에서 쓸모: 쇼츠 표준 TTS(현재 Edge-TTS 폴백 중)나 voicematch 프로젝트의 감정 표현 보이스클로닝 대체 후보로 검증해볼 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/IndexTeam/IndexTTS-2.5",
+      "publishedAt": "2026-08-10T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "[Video] 알리바바 Wan-AI, 인물 사진+음악으로 춤 영상 만드는 'Wan-Dancer-14B' 공개(Apache-2.0)",
+      "summary": "[Video] 알리바바 Wan-AI가 인물 이미지와 음악을 입력하면 그 음악 박자에 맞춰 춤추는 영상을 생성하는 image-to-video 모델 'Wan-Dancer-14B'를 Apache-2.0으로 공개했다. 7월 10일 공개됐다. cocy.io에서 쓸모: 리듬게임(rhythmproto) 홍보 클립이나 캐릭터 댄스 모션 레퍼런스를 로컬 3080Ti에서 라이선스 걱정 없이 생성해보는 실험 소재로 쓸 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
+      "publishedAt": "2026-07-10T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "[Tool] 비디오 생성 가속 프레임워크 'FastVideo', 최근 업데이트로 GitHub 트렌딩 재진입(4천+ 스타, Apache-2.0)",
+      "summary": "[Tool] Wan·HunyuanVideo 등 오픈 비디오 생성 모델의 추론 속도를 올리는 distillation·양자화 통합 프레임워크 'FastVideo'(hao-ai-lab)가 최근 업데이트로 GitHub 트렌딩에 다시 올랐다. Apache-2.0, 누적 스타 4,061개. cocy.io에서 쓸모: 로컬 3080Ti에서 Wan2.1/2.2 계열 비디오 생성 속도를 높이는 distillation 레시피로 활용해 신규 콘텐츠(보스 모션 등) 영상 아트 파이프라인을 가속하는 실험에 쓸 수 있음.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/hao-ai-lab/FastVideo",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "[Image] Krea.ai, 8스텝 초고속 고품질 이미지 생성모델 'Krea 2 Turbo' 공개(매출 100만달러 미만 상업 무료)",
+      "summary": "[Image] Krea.ai가 120억 파라미터 디퓨전 트랜스포머 기반 'Krea 2' 모델의 배포용 경량판 'Krea 2 Turbo'를 공개했다. 8스텝만으로 실사/일러스트 품질 이미지를 생성하며, 6월 22일 공개 후 커뮤니티 LoRA·ControlNet 생태계가 계속 늘고 있다(누적 like 926). 라이선스는 Krea 2 Community License(연매출 100만달러 미만 상업 무료). cocy.io에서 쓸모: FLUX.1-dev·SDXL 대비 실사 톤 대안으로 게임 캐릭터/프로모 아트 파이프라인에 테스트, ControlNet 생태계를 활용한 캐릭터 시트 생성 실험.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/krea/Krea-2-Turbo",
+      "publishedAt": "2026-06-22T00:00:00+09:00"
     }
   ]
 }
