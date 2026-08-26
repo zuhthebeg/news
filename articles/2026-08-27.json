@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-27",
+  "articles": [
+    {
+      "id": "1",
+      "title": "네팔 홍수로 한국인 8명 실종…이재명 대통령 \"수색·구조 총력\" 지시",
+      "summary": "네팔 라수와 지역 수력발전소 건설 현장에서 홍수로 한국남동발전·두산에너빌리티 소속 한국인 8명이 연락 두절되고 10명이 고립됐다. 이재명 대통령은 가용한 모든 수단을 동원해 실종자 수색·구조에 총력을 다하라고 긴급 지시했다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202608261930001/",
+      "publishedAt": "2026-08-26T19:30:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "제주 경찰 실종 허위종결 파문 확산…298건 전수조사",
+      "summary": "제주경찰청이 실종 사건을 허위로 종결 처리한 혐의를 받는 경찰관이 담당했던 실종신고 298건에 대해 전수조사에 나섰다. 허위 종결된 것으로 의심되는 사건이 10여건에 달하는 것으로 파악됐으며, 앞서 실종 신고됐던 2명은 결국 숨진 채 발견됐다.",
+      "category": "domestic",
+      "source": "뉴데일리",
+      "sourceUrl": "https://www.newdaily.co.kr/site/data/html/2026/08/26/2026082600336.html",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "코스피 0.97% 오른 6808선 마감…원·달러 환율 1384원대",
+      "summary": "26일 코스피는 미국 금리 인하 기대와 국제유가 하락 등에 힘입어 전 거래일보다 65.47포인트(0.97%) 오른 6808.21에 마감했다. 코스닥은 826.87로 소폭 내렸고, 원·달러 환율은 1384.8원을 기록했다.",
+      "category": "economy",
+      "source": "국제뉴스",
+      "sourceUrl": "https://www.gukjenews.com/news/articleView.html?idxno=3675493",
+      "publishedAt": "2026-08-26T15:30:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Meta agrees to $16.68 billion settlement over Instagram, Facebook harms to teens",
+      "summary": "메타가 페이스북·인스타그램이 청소년에게 중독성을 유발하도록 설계됐다는 29개 주(州)의 소송에 최대 166억8000만달러를 지급하기로 합의했다. 합의에 따라 10대 계정은 하루 이용시간이 2시간으로 제한되고 자정부터 오전 6시까지 접속이 자동 차단된다.",
+      "category": "tech",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-08-26/meta-states-agree-to-settle-teen-social-media-harm-case",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Amazon is shutting down Mechanical Turk after 21 years as AI reshapes crowdsourced work",
+      "summary": "아마존이 2005년 출시해 제프 베이조스가 '인공 인공지능'이라 부르던 크라우드소싱 플랫폼 미케니컬 터크를 9월 30일자로 종료한다. AI 기술 발전과 데이터 라벨링 경쟁 플랫폼 확대가 서비스 종료의 배경으로 꼽힌다.",
+      "category": "tech",
+      "source": "Tech Startups",
+      "sourceUrl": "https://techstartups.com/2026/08/26/amazon-is-shutting-down-mechanical-turk-after-21-years-as-ai-reshapes-crowdsourced-work/",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA's Lunar Reconnaissance Orbiter images Falcon 9 crater on the Moon",
+      "summary": "지난 8월 5일 아인슈타인 크레이터 부근에 추락한 스페이스X 팰컨9 상단부가 지름 18m, 깊이 3m 미만의 새로운 충돌구를 만들었다. NASA 달정찰궤도선(LRO)이 다양한 각도와 조명 조건에서 촬영해 충돌구와 주변 파편 흔적을 확인했다.",
+      "category": "science",
+      "source": "Universe Today",
+      "sourceUrl": "https://www.universetoday.com/articles/nasas-lunar-reconnaissance-orbiter-images-falcon-9-crater-on-moon-with-some-help-from-a-korean-space",
+      "publishedAt": "2026-08-20T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "NASA's Roman Space Telescope cleared for launch, targets August 30 liftoff",
+      "summary": "NASA가 낸시 그레이스 로먼 우주망원경의 비행준비검토(FRR)를 마치고 8월 30일 스페이스X 팰컨 헤비 발사를 목표로 최종 준비에 들어갔다. 로먼 망원경은 우주 팽창의 역사와 외계행성 등을 관측할 차세대 관측장비다.",
+      "category": "science",
+      "source": "SpaceNews",
+      "sourceUrl": "https://spacenews.com/roman-space-telescope-on-track-for-late-august-launch/",
+      "publishedAt": "2026-08-25T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Star Wars: Zero Company, out today, becomes one of the best-reviewed Star Wars games ever",
+      "summary": "옛 파이락시스 XCOM 개발진이 설립한 신생 스튜디오 비트리액터의 데뷔작 '스타워즈: 제로 컴퍼니'가 8월 27일 PS5·엑스박스·PC로 출시됐다. 메타크리틱 86점을 기록하며 역대 스타워즈 게임 중 최고 평점작 중 하나로 꼽힌다.",
+      "category": "gaming",
+      "source": "TheGamer",
+      "sourceUrl": "https://www.thegamer.com/star-wars-zero-company-review-scores/",
+      "publishedAt": "2026-08-27T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Elden Ring: Tarnished Edition launches on Switch 2 August 28 with new class and content",
+      "summary": "프롬소프트웨어의 '엘든 링: 타니시드 에디션'이 8월 28일 닌텐도 스위치2로 출시된다. 확장팩 '황금나무의 그림자'를 포함하며 신규 클래스와 토렌트 전용 의상 등 콘텐츠가 추가됐다.",
+      "category": "gaming",
+      "source": "Nintendo Life",
+      "sourceUrl": "https://www.nintendolife.com/news/2026/08/elden-ring-for-switch-2-is-looking-pretty-slick-in-new-story-trailer",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    }
+  ]
+}
