@@ -614,6 +614,51 @@
         "mcp"
       ],
       "addedAt": "2026-08-22"
+    },
+    {
+      "title": "DSK Available Domains (RDAP)",
+      "description": "도메인 이름이 실제로 등록 가능한지 실시간 RDAP 조회로 확인하는 스킬. 브랜드명 아이디어부터 사용 가능한 도메인 패턴 스윕까지 지원.",
+      "icon": "🔍",
+      "category": "productivity",
+      "url": "https://clawhub.ai/johnsmalls22-rgb/skills/dsk-available-domains",
+      "tags": [
+        "domain-search",
+        "rdap",
+        "mcp",
+        "naming",
+        "branding"
+      ],
+      "addedAt": "2026-08-26"
+    },
+    {
+      "title": "ContentDrips",
+      "description": "소셜미디어용 그래픽·캐러셀을 AI로 자동 생성하고 LinkedIn/Instagram/TikTok에 직접 발행하는 스킬. 브랜드 스타일 적용과 예약 발행까지 지원.",
+      "icon": "🎨",
+      "category": "media",
+      "url": "https://clawhub.ai/usama-gh/skills/contentdrips",
+      "tags": [
+        "social-media-automation",
+        "graphic-design",
+        "carousels",
+        "linkedin",
+        "instagram"
+      ],
+      "addedAt": "2026-08-26"
+    },
+    {
+      "title": "Scaffold Nuxt + Cloudflare App",
+      "description": "자연어 요청만으로 Nuxt 최신버전 + Cloudflare Workers(Wrangler) 기반 풀스택 앱을 뼈대부터 구성해주는 스킬. NuxtHub(D1/KV/Blob) 바인딩도 선택적으로 배선.",
+      "icon": "🛠️",
+      "category": "dev",
+      "url": "https://clawhub.ai/techvoyage51/skills/scaffold-nuxt-cloudflare-app-skill",
+      "tags": [
+        "nuxt",
+        "cloudflare-workers",
+        "scaffolding",
+        "wrangler",
+        "fullstack"
+      ],
+      "addedAt": "2026-08-26"
     }
   ]
 }

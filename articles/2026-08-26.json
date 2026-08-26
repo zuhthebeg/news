@@ -63,6 +63,24 @@
       "source": "Engadget",
       "sourceUrl": "https://www.engadget.com/2244195/a-remastered-the-witcher-3-will-be-released-september-29/",
       "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "[Audio] MiniMax-Music3용 컨셉 슬라이더 LoRA 공개 — 에너지/감정 다이얼로 음악 제어",
+      "summary": "[Audio] ntc-ai가 MiniMax-Music3 음악생성 모델에 붙이는 MIT 라이선스 LoRA '컨셉 슬라이더'를 공개했다. 에너지·젠더·왜곡감·즐거움 같은 속성을 재프롬프트 없이 슬라이더로 조절할 수 있는 ControlNet류 제어 도구다. cocy.io에서 쓸모: 게임 BGM/테마곡을 재생성 없이 무드만 바꿔 변주곡을 뽑는 용도로 jokerrun·mahjong 같은 게임의 배경음 세부조정에 적용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ntc-ai/minimax-music3-concept-sliders",
+      "publishedAt": "2026-08-16T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "[Edge] Audio8, 0.1B급 초경량 제로샷 보이스클로닝 TTS 공개",
+      "summary": "[Edge] Audio8이 파라미터 약 1억개 수준의 초소형 다국어(한국어 포함 8개 언어) 제로샷 보이스클로닝 TTS 모델을 공개했다. 엣지/저사양 추론을 겨냥한 크기로, 커스텀 라이선스(연매출 200만달러 미만 상업적 무료 사용 가능)를 채택했다. cocy.io에서 쓸모: 서버 GPU 없이 브라우저/로컬에서 돌아가는 초경량 보이스 클로닝 기능을 게임 캐릭터 대사나 그놈 목소리류 데모에 실험해볼 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.1b",
+      "publishedAt": "2026-08-19T00:00:00+09:00"
     }
   ]
 }
