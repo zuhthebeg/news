@@ -659,6 +659,34 @@
         "fullstack"
       ],
       "addedAt": "2026-08-26"
+    },
+    {
+      "title": "Agent-Ready Site Audit",
+      "description": "개인/브랜드 사이트가 AI 에이전트에게 잘 읽히는지 점검하는 스킬. 구조화 데이터·llms.txt·크롤링 가능성을 9항목 체크리스트로 진단하고 고칠 수 있는 부분을 직접 수정한다.",
+      "icon": "🔍",
+      "category": "dev",
+      "url": "https://clawhub.ai/highnoonoffice/skills/agent-ready",
+      "tags": [
+        "seo",
+        "llms-txt",
+        "structured-data",
+        "ai-discoverability"
+      ],
+      "addedAt": "2026-08-27"
+    },
+    {
+      "title": "Cliphi Clips",
+      "description": "긴 영상(유튜브/팟캐스트/트위치 VOD)을 자막·브랜딩 입힌 세로형 숏폼 클립으로 자동 변환하는 스킬. Cliphi API 기반, 바이럴 구간을 찾아 미리보기 후 렌더링한다.",
+      "icon": "✂️",
+      "category": "media",
+      "url": "https://clawhub.ai/cliphi/skills/cliphi-clips",
+      "tags": [
+        "video",
+        "shorts",
+        "clips",
+        "captions"
+      ],
+      "addedAt": "2026-08-27"
     }
   ]
 }

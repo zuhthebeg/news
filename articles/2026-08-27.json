@@ -81,6 +81,15 @@
       "source": "Nintendo Life",
       "sourceUrl": "https://www.nintendolife.com/news/2026/08/elden-ring-for-switch-2-is-looking-pretty-slick-in-new-story-trailer",
       "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "ONNX Runtime WebGPU Plugin EP 0.3.0 공개 — 브라우저 GPU 추론 성능·모델 커버리지 대폭 확장",
+      "summary": "[Edge] 마이크로소프트가 브라우저에서 WebGPU로 생성모델을 구동하는 ONNX Runtime WebGPU Plugin EP 0.3.0을 공개했다(2026-08-21 확인). PagedAttention 초기 지원, Gemma4용 슬라이딩윈도우·양자화 KV캐시 GQA, 콜드스타트 시 셰이더 컴파일 병렬 디스패치 등으로 온디바이스 LLM·생성모델 추론 성능과 모델 커버리지가 확장됐다. MIT 라이선스(ONNX Runtime 본체 기준, 상업 사용 가능). cocy.io에서 쓸모: 서버 호출 없이 브라우저에서 직접 추론을 돌리는 온디바이스 미니게임·분류 도구(log.cocy.io 사진 분류, voicematch류 실시간 계산)를 클라이언트 사이드로 오프로딩할 때 검토할 만한 런타임 업데이트.",
+      "category": "ai-tech",
+      "source": "GitHub (microsoft/onnxruntime)",
+      "sourceUrl": "https://github.com/microsoft/onnxruntime/releases/tag/plugin-ep-webgpu%2Fv0.3.0",
+      "publishedAt": "2026-08-21T00:00:00+09:00"
     }
   ]
 }
