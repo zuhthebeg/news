@@ -90,6 +90,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/FireRedTeam/FireRedAudio",
       "publishedAt": "2026-08-22T00:00:00+09:00"
+    },
+    {
+      "title": "Pocket-TTS Korean 100M/300M — Kyutai Pocket-TTS 한국어 어댑테이션",
+      "summary": "[Audio][Edge] Kyutai의 영어 Pocket-TTS 24층 체크포인트를 한국어로 어댑테이션한 제로샷 TTS. 300M(24층 teacher)·100M(6층 student) 두 버전, Mimi 코덱+FlowLM 구조로 CPU에서도 구동 가능한 초경량 모델. license: CC-BY-4.0(상업 가능, 출처표기 필요). HF 확인: createdAt 2026-08-27, lastModified 2026-08-27. cocy.io에서 쓸모: 그놈 목소리·게임 더빙·쇼츠 표준보이스에 쓸 초경량 로컬 한국어 TTS 후보 — 현재 CosyVoice3/Edge-TTS 폴백 구조를 대체할 CPU 전용 옵션.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/seastar105/pocket-tts-korean-300m",
+      "publishedAt": "2026-08-27T00:00:00+09:00",
+      "id": "11"
+    },
+    {
+      "title": "MiDashengLM-Gen — 통합 오디오 씬 생성 모델 (Xiaomi)",
+      "summary": "[Audio] Qwen3-1.7B 백본과 오토리그레시브 플로우매칭으로 대사·음악·SFX·환경음을 한 텍스트 프롬프트에서 동시에 섞어 16kHz mono 오디오 씬으로 생성하는 통합 프레임워크. license: apache-2.0. HF 확인: createdAt 2026-08-12, lastModified 2026-08-13. cocy.io에서 쓸모: 게임 BGM+SFX+앰비언스를 따로 뽑지 않고 씬 단위로 한 번에 생성해보는 실험용 — MOSS-SoundEffect/ACE-Step 파이프라인 보완 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/mispeech/midashenglm-gen",
+      "publishedAt": "2026-08-12T00:00:00+09:00",
+      "id": "12"
+    },
+    {
+      "title": "SenseNova-U1.5-8B-MoT — 통합 이미지 생성·편집 멀티모달",
+      "summary": "[Image] 이미지 생성·편집·텍스트 렌더링을 하나의 8B 체크포인트로 처리하는 SenseTime의 통합 멀티모달 모델(NEO-unify 기반). 네이티브 4K, 다중 레퍼런스 편집, 영역 지정 컨트롤 지원. license: apache-2.0. HF 확인: createdAt 2026-08-19, lastModified 2026-08-24. cocy.io에서 쓸모: FLUX 파이프라인 즉시 대체는 아니지만 생성+편집을 한 모델로 처리하는 구조라 카드아트 수정(HP손상 아트류) 워크플로 단순화 검토 가치 있음. 다만 8B라 12GB GPU엔 양자화 없이는 빡빡함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT",
+      "publishedAt": "2026-08-19T00:00:00+09:00",
+      "id": "13"
+    },
+    {
+      "title": "Wan2.2-TI2V-5B iOS 번들 — Mirage 온디바이스 비디오 확산엔진",
+      "summary": "[Video][Edge] Alibaba Wan2.2 TI2V 5B(text→video/image→video 겸용, 고압축 VAE)를 Q4_K_M 양자화해 iOS/macOS 온디바이스 확산엔진 Mirage용으로 패키징. 전체 약 7GB, 서버 없이 폰에서 구동. 원본 Wan2.2 license: apache-2.0. HF 확인: createdAt 2026-08-25. cocy.io에서 쓸모: 직접 채택 대상은 아니지만 5B 비디오모델을 폰 자원에서 구동한 사례라 로컬 비디오 파이프라인 경량화 참고용 — 3080Ti보다 훨씬 빡빡한 환경에서의 동작 검증.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/jc-builds/Wan2.2-TI2V-5B-iOS",
+      "publishedAt": "2026-08-25T00:00:00+09:00",
+      "id": "14"
+    },
+    {
+      "title": "audio.cpp — Python 없는 순수 C++ 오디오 추론 엔진",
+      "summary": "[Tool][Edge] TTS/STT/VAD/음성변환/음악생성을 ggml 기반 순수 C++로 돌리는 통합 오디오 추론 엔진. whisper.cpp류 배포 편의성으로 Python 의존성 제로. GitHub 2060 stars, 2026-06-23 공개, 2026-08-28(오늘)까지 활발히 커밋 중. license: GitHub API가 'Other'로 표시 — 라이선스 미확인(LICENSE 파일 직접 확인 필요). cocy.io에서 쓸모: llm-proxy/log.cocy.io 등에 Python 없이 오디오 모델 서빙할 백엔드 후보 — 프로덕션 도입은 라이선스 확인 후.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/0xShug0/audio.cpp",
+      "publishedAt": "2026-08-28T00:00:00+09:00",
+      "id": "15"
     }
   ]
 }
