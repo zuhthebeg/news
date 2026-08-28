@@ -1,0 +1,86 @@
+{
+  "date": "2026-08-28",
+  "articles": [
+    {
+      "id": "1",
+      "title": "SK텔레콤, 'SK호라이즌' 신설·KKR 등서 3조800억원 투자유치",
+      "summary": "SK텔레콤이 100% 자회사 SK브로드밴드의 데이터센터·해저케이블 사업을 인적분할해 'SK호라이즌'을 설립하고 콜버그크래비스로버츠(KKR)와 IMM인베스트먼트-스톤브릿지 컨소시엄으로부터 총 3조800억원 규모 투자를 유치한다고 밝혔다. 증권가는 재무 부담을 낮추면서 AI데이터센터 사업 가치를 재평가받는 계기라고 평가하며 목표주가를 상향했다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260828028700008?section=economy/all",
+      "publishedAt": "2026-08-28T08:53:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "네팔·중국 접경 홍수 실종자 1300명 넘어…이재명 대통령 \"가용자원 총동원\"",
+      "summary": "히말라야 산악지대에서 발생한 대규모 홍수로 네팔과 중국의 실종자 수가 27일(현지시간) 1300명을 넘어섰다. 이재명 대통령은 서울 외교부 청사에서 열린 긴급회의를 주재하고 \"국민의 생명이 매우 위중한 상황\"이라며 가용자원을 총동원해 대응할 것을 당부했다.",
+      "category": "world",
+      "source": "노컷뉴스",
+      "sourceUrl": "https://n.news.naver.com/mnews/hotissue/article/079/0004183266?type=series&cid=1089896",
+      "publishedAt": "2026-08-27T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "엔비디아 시총 하루 새 610조원 급증…실적발표 후 '저주' 깨졌다",
+      "summary": "엔비디아가 실적 발표 다음날인 27일(현지시간) 주가가 8.74% 급등하며 시가총액이 4420억달러(약 610조원) 늘었다. 2027회계연도 2분기 매출이 전년 동기 대비 106% 증가한 962억2000만달러로 시장 전망치를 웃돌며 13분기 연속 매출 신기록을 세웠다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260828023000009?section=international/all",
+      "publishedAt": "2026-08-28T08:20:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "알파벳 시총 3개월 새 960조원 증발…AI 인재유출·제미나이 출시 지연",
+      "summary": "구글 모회사 알파벳 주가가 지난 5월 사상 최고치 대비 15% 가까이 떨어지며 시가총액이 6900억달러(약 960조원) 증발했다. 블룸버그는 AI 핵심 인재였던 제프 딘의 퇴사, 데미스 허사비스의 딥마인드 CEO 이임, 신모델 '제미나이 3.5 프로' 출시 지연 등을 매도세 요인으로 꼽았다.",
+      "category": "tech",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260828023700009?section=international/all",
+      "publishedAt": "2026-08-28T08:56:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Meta, 스마트글래스 '몰래녹화' 허점 패치…'변태 안경' 오명 벗기 나서",
+      "summary": "Meta가 AI 스마트글래스의 전면 LED를 가리고도 녹화가 계속되던 보안 허점을 막는 업데이트를 배포한다. 증강현실 부문 부사장 알렉스 히멜은 \"녹화 중 LED를 가리면 카메라가 즉시 멈출 것\"이라고 밝히며, 프라이버시 개선과 함께 신규 마케팅 캠페인도 병행한다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/985851/meta-privacy-loophole-fix-marketing-campaign",
+      "publishedAt": "2026-08-28T06:37:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA, 로먼 우주망원경 8월 30일 발사…허블보다 100배 넓은 시야로 암흑에너지 탐사",
+      "summary": "NASA가 낸시 그레이스 로먼 우주망원경을 8월 30일 오전 7시 26분(미 동부시간) 케네디우주센터에서 스페이스X 팰컨 헤비 로켓으로 발사한다고 발표했다. 로먼 망원경은 허블 우주망원경보다 최소 100배 넓은 시야의 적외선 관측 능력을 갖춰 암흑에너지·암흑물질 연구와 외계행성 탐사, 수십억 개 은하 지도 작성에 활용된다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/nasa-sets-coverage-for-roman-space-telescope-launch-from-florida/",
+      "publishedAt": "2026-08-24T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "역대 최대 규모 자폐증 분자지도 공개…정밀치료 새 길 열어",
+      "summary": "연구진이 자폐스펙트럼장애(ASD) 위험 유전자 수백 개가 실제로 어떻게 작동하는지 규명한 역대 최대 규모의 분자지도를 공개했다. 20여 년간 밝혀진 자폐 관련 유전자 변이들이 뇌 발달에 미치는 구체적 경로를 처음으로 체계적으로 정리해, 개인 맞춤형 정밀치료 개발의 토대를 마련했다는 평가다.",
+      "category": "science",
+      "source": "MedicalXpress",
+      "sourceUrl": "https://medicalxpress.com/news/2026-08-largest-molecular-autism-paths-precision.html",
+      "publishedAt": "2026-08-28T03:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "록스타 'GTA6' 27분 확장판 프리뷰 넷플릭스 첫 공개…\"영화 같다\" 화제",
+      "summary": "록스타게임즈가 '그랜드 테프트 오토(GTA) 6'의 27분 분량 확장판 프리뷰를 유튜브 대신 넷플릭스를 통해 처음 공개했다. 프레스티지 범죄 드라마를 연상시키는 영상미로 게임과 영화의 경계를 허무는 시도라는 평가를 받으며, 공개 후 다수 매체의 플레이 인상기와 맵 규모(레드데드리뎀션2의 3배) 등 세부 정보가 잇따라 공개됐다.",
+      "category": "gaming",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/985891/grand-theft-auto-vi-gta-6-netflix-youtube-extended-look-game-movie",
+      "publishedAt": "2026-08-28T08:20:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "'엘든링' 대형 패치 출시…스위치2 '타니시드 에디션'과 동시 업데이트",
+      "summary": "프롬소프트웨어가 '엘든링'에 대규모 신규 패치를 배포하며 닌텐도 스위치2용 '타니시드 에디션' 출시에 맞춰 콘텐츠를 업데이트했다. 기존 팬들에게도 게임에 복귀할 새로운 이유를 제공한다는 평가를 받고 있다.",
+      "category": "gaming",
+      "source": "Polygon",
+      "sourceUrl": "https://www.polygon.com/elden-ring-patch-notes-tarnished-edition-switch-2/",
+      "publishedAt": "2026-08-27T00:00:00+09:00"
+    }
+  ]
+}
