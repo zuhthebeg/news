@@ -81,6 +81,15 @@
       "source": "Polygon",
       "sourceUrl": "https://www.polygon.com/elden-ring-patch-notes-tarnished-edition-switch-2/",
       "publishedAt": "2026-08-27T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] 파이어레드팀, 이해·생성 통합 오디오 언어모델 'FireRedAudio' 공개",
+      "summary": "[Audio] 중국 FireRedTeam이 아파치2.0 라이선스로 'FireRedAudio'를 공개했다. 90억 파라미터 공유 백본에 이해용 오디오 인코더와 생성용 RedAE 경로를 분리 설계해, 음성인식(ASR)·오디오 이해·제로샷 TTS·지시문 기반 TTS·발화 편집·1시간 분량 녹음의 시간축 정렬까지 하나의 모델로 처리한다. cocy.io에서 쓸모: voicematch나 그놈 목소리류 데모에서 TTS뿐 아니라 긴 녹음 요약·시간대별 검색까지 필요할 때, 별도 ASR+TTS 조합 없이 단일 모델로 실험해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/FireRedTeam/FireRedAudio",
+      "publishedAt": "2026-08-22T00:00:00+09:00"
     }
   ]
 }

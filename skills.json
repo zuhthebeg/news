@@ -1,6 +1,32 @@
 {
   "skills": [
     {
+      "title": "aigate",
+      "description": "docker-compose 한 줄로 뜨는 셀프호스팅 AI 게이트웨이. 추론(Groq/OpenRouter/Ollama/vLLM 등)·이미지생성·TTS·검색·이메일·코드실행을 OpenAI 호환 엔드포인트 하나로 통합.",
+      "icon": "🧩",
+      "category": "dev",
+      "url": "https://clawhub.ai/psyb0t/skills/aigate",
+      "tags": [
+        "self-hosted",
+        "ai-gateway",
+        "docker"
+      ],
+      "addedAt": "2026-08-28"
+    },
+    {
+      "title": "gigamail",
+      "description": "OpenClaw 에이전트에 실제 이메일·캘린더 접근권을 부여하는 MCP 스킬. 읽기·검색·초안작성은 자유롭지만 발송·삭제·일정변경 같은 파괴적 작업은 반드시 대역외(out-of-band) 사람 승인을 거치도록 강제.",
+      "icon": "📧",
+      "category": "productivity",
+      "url": "https://clawhub.ai/adecubed/skills/gigamail",
+      "tags": [
+        "email",
+        "calendar",
+        "human-in-the-loop"
+      ],
+      "addedAt": "2026-08-28"
+    },
+    {
       "title": "LiteRT-WebGPU-Bridge",
       "description": "Google LiteRT.js를 사용하여 브라우저에서 AI 모델을 WebGPU로 고속 추론하는 스킬.",
       "icon": "⚡",
