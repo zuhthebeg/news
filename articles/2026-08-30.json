@@ -81,6 +81,51 @@
       "source": "Hugging Face / Seedleap.ai",
       "sourceUrl": "https://huggingface.co/seedleap/zing-0.5",
       "publishedAt": "2026-08-26T06:03:38Z"
+    },
+    {
+      "id": "10",
+      "title": "OPPO CuteTTS 공개 — 2.3억 파라미터 초경량 보이스클로닝 TTS",
+      "summary": "[Audio] Apache-2.0(HF license 태그 확인), 이번 주 공개(createdAt 2026-08-24). OPPO Mente Lab이 낸 약 230M 파라미터 연속-잠재 오토리그레시브 TTS로 GPU/CPU/Apple Silicon 어디서나 동작, RTX 4090 기준 실시간 대비 약 9배 속도에 첫 오디오 청크까지 약 40ms 레이턴시(README/논문 arXiv 2608.08638 명시). cocy.io에서 쓸모: 게임 NPC 대사·인트로 보이스를 CosyVoice3보다 훨씬 가벼운 모델로 3080Ti나 CPU 어디서든 빠르게 뽑는 서브 파이프라인.",
+      "category": "ai-tech",
+      "source": "Hugging Face / OPPO Mente Lab",
+      "sourceUrl": "https://huggingface.co/OPPOer/CuteTTS",
+      "publishedAt": "2026-08-24T12:19:40Z"
+    },
+    {
+      "id": "11",
+      "title": "NVIDIA SANA-Video 2.0 4-step 프리뷰 — 5B 경량 T2V 모델",
+      "summary": "[Video] Apache-2.0(HF license 태그 확인), 이번 주 공개(createdAt 2026-08-27). NVlabs SANA 라인의 4.47B 파라미터 텍스트-투-비디오 모델을 4단계로 증류한 프리뷰로 736×1280, 81프레임(약 5초) 영상을 생성하며 gated linear attention 기반 단일 GPU 타깃 설계(공식 문서 명시). cocy.io에서 쓸모: 게임 프로모 클립이나 배경 모션 레퍼런스를 로컬에서 빠르게 뽑아볼 소형 T2V 후보로 테스트해볼 만함(공식 VRAM 수치는 미공개라 3080Ti 실측 필요).",
+      "category": "ai-tech",
+      "source": "Hugging Face / NVIDIA NVlabs (Efficient-Large-Model)",
+      "sourceUrl": "https://huggingface.co/Efficient-Large-Model/SANA-Video_2.0_5B_720p_4step",
+      "publishedAt": "2026-08-27T08:11:49Z"
+    },
+    {
+      "id": "12",
+      "title": "ONNX Runtime Web 1.29.0 — WebGPU 실행 공급자 안정화 릴리스",
+      "summary": "[Edge] MIT 라이선스(ONNX Runtime 표준 라이선스), 이번 주 배포(npm 2026-08-24). device-free 컴파일 전용 세션 지원과 Pad/Slice/GatherBlockQuantized WebGPU 연산 버그 수정이 포함된 정기 릴리스(npm registry timestamp로 직접 확인). cocy.io에서 쓸모: game.cocy.io의 WebGPU 브라우저 추론 파이프라인에서 쓰는 onnxruntime-web 버전을 올리면 안정성 개선을 그대로 가져갈 수 있음.",
+      "category": "ai-tech",
+      "source": "npm / Microsoft ONNX Runtime",
+      "sourceUrl": "https://www.npmjs.com/package/onnxruntime-web",
+      "publishedAt": "2026-08-24T19:17:15Z"
+    },
+    {
+      "id": "13",
+      "title": "Wan-Animate-2 공개 — 드라이빙 비디오 기반 캐릭터 애니메이션",
+      "summary": "[Video] Apache-2.0(HF license 태그 확인), 8월 초 공개(createdAt 2026-07-14, 2026-08-09 업데이트 — '이번 주'는 아님). Alibaba Tongyi Wan팀의 엔드투엔드 캐릭터 애니메이션 프레임워크로 별도 모션 추출기 없이 드라이빙 비디오에서 정체성을 보존한 모션을 생성하며, 실시간 스트리밍용 경량 Lite 변형도 함께 공개됨. cocy.io에서 쓸모: FLUX/SDXL로 뽑은 게임 캐릭터 아트에 참조 영상을 태워 걷기/공격 모션 시트를 만드는 캐릭터 모션 파이프라인의 대안 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Alibaba Tongyi Wan-AI",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-Animate-2-14B",
+      "publishedAt": "2026-07-14T09:16:12Z"
+    },
+    {
+      "id": "14",
+      "title": "Audio8 TTS Preview 0.6B — CUDA 없이 도는 ONNX INT4 보이스클로닝",
+      "summary": "[Audio]/[Edge] Apache-2.0(HF license 태그 확인), 7월 말 공개(createdAt 2026-07-28). 0.6B DualAR 구조 다국어 제로샷 보이스클로닝 TTS로, ONNX INT4 양자화 버전은 CUDA/PyTorch/Transformers 없이 CPU만으로 구동 가능(0.1B 변형은 8월 19일 공개했으나 라이선스가 'other'라 이번 선정에서 제외). cocy.io에서 쓸모: GPU를 이미지·영상 생성에 몰아주고 TTS는 CPU에서 병렬 처리해 3080Ti VRAM을 아끼는 보이스 파이프라인 구성에 활용.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Audio8",
+      "sourceUrl": "https://huggingface.co/Audio8/Audio8-TTS-Preview-0.6b",
+      "publishedAt": "2026-07-28T07:53:00Z"
     }
   ]
 }
