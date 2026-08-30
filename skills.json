@@ -713,6 +713,52 @@
         "captions"
       ],
       "addedAt": "2026-08-27"
+    },
+    {
+      "title": "SEO Landing",
+      "description": "AI 코딩 에이전트를 시니어 테크니컬 SEO 엔지니어로 만드는 스킬. PageSpeed 100/100·Core Web Vitals·Schema.org 구조화 데이터·AVIF 이미지 최적화까지 랜딩페이지 제작 전 과정을 가이드.",
+      "icon": "🔍",
+      "category": "dev",
+      "url": "https://github.com/aleksandr-alhoff/seo-landing",
+      "tags": [
+        "seo",
+        "core-web-vitals",
+        "landing-page",
+        "structured-data",
+        "performance"
+      ],
+      "addedAt": "2026-08-30"
+    },
+    {
+      "title": "Marketing OS",
+      "description": "마케팅 부서 전체를 하나의 스킬로 압축한 14개 모듈 세트. 감사(0-100 점수)·AI검색 GEO 최적화·카피 15~20안 생성 후 전문가 패널 채점·훅 엔진·런칭 플레이북까지 실행물(artifact) 중심으로 산출.",
+      "icon": "📈",
+      "category": "productivity",
+      "url": "https://github.com/Yuzzyuk/marketing-os",
+      "tags": [
+        "marketing",
+        "geo",
+        "copywriting",
+        "audit",
+        "launch"
+      ],
+      "addedAt": "2026-08-30"
+    },
+    {
+      "title": "solo-skills (1인 사업가 생산성 키트)",
+      "description": "직원 없이 혼자 서비스를 운영하며 자동화한 49개 중 그대로 가져다 쓸 수 있는 26개를 공개한 한국어 스킬 모음. 스레드 발행·카카오톡 CLI·네이버 블로그/메일·당근마켓 검색 등 국내 서비스 특화.",
+      "icon": "🧑‍💻",
+      "category": "korea",
+      "url": "https://github.com/bam-bam-2/solo-skills",
+      "tags": [
+        "solo-founder",
+        "korea",
+        "automation",
+        "kakaotalk",
+        "naver",
+        "threads"
+      ],
+      "addedAt": "2026-08-30"
     }
   ]
 }

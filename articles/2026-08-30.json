@@ -72,6 +72,15 @@
       "source": "인벤",
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=320078",
       "publishedAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "[Video] 중국 스타트업 Seedleap, 키보드로 실시간 조작하는 5B 월드모델 'Zing-0.5' 공개",
+      "summary": "[Video] 涌跃智能(Seedleap.ai)이 실시간 인터랙티브 월드모델 'Zing-0.5'를 공개했다. Wan2.2-TI2V-5B를 기반으로 causal KV 캐싱과 4스텝 DMD 샘플링을 적용해, 텍스트/이미지로 장면을 초기화한 뒤 W/A/S/D/I/J/K/L 키보드 입력으로 실시간으로 장면·움직임을 바꿔가며 영상을 계속 생성한다. Apache-2.0 라이선스로 단일 GPU(80GB 권장, 저사양 설정도 제공)에서 구동 가능하다. cocy.io에서 쓸모: 게임 프로토타입에서 정적 컷씬 대신 키 입력에 실시간 반응하는 절차적 영상/월드 생성을 실험해볼 수 있는 참고 사례.",
+      "category": "ai-tech",
+      "source": "Hugging Face / Seedleap.ai",
+      "sourceUrl": "https://huggingface.co/seedleap/zing-0.5",
+      "publishedAt": "2026-08-26T06:03:38Z"
     }
   ]
 }
