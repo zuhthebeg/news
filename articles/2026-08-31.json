@@ -1,0 +1,86 @@
+{
+    "date": "2026-08-31",
+    "articles": [
+        {
+            "id": "1",
+            "title": "이재명 대통령, 6개 부처 개각…경제부총리 이형일·법무 김승원·국방 강신철",
+            "summary": "이재명 대통령이 경제부총리에 이형일 기획재정부 1차관, 법무부 장관에 김승원 민주당 의원을 지명하는 등 6개 부처 장관 후보자를 새로 발표했다. 국방부 장관에는 강신철 전 한미연합사 부사령관이, 국토교통부·중소벤처기업부·성평등가족부 장관에는 각각 홍지선·이소영·용혜인 후보자가 지명됐다.",
+            "category": "domestic",
+            "source": "한국경제",
+            "sourceUrl": "https://www.hankyung.com/article/2026083015557",
+            "publishedAt": "2026-08-30T11:49:00+09:00"
+        },
+        {
+            "id": "2",
+            "title": "이재명 대통령 \"내년 韓銀 금리 3.5% 유의\"…집값 폭락 대비 주택 대량매입 준비 지시",
+            "summary": "이재명 대통령이 부동산 투기 근절을 위해 구청장에게 500세대 이하 인허가권을 부여하는 등 주택 공급 확대 대책을 추진하겠다고 밝혔다. 아울러 내년 1분기 한국은행 기준금리 3.5% 전망을 거론하며 금리 인상과 집값 폭락에 대비해 일정 기준 이하 주택을 공공주택용으로 대량 매입하는 시스템을 구축하도록 지시했다.",
+            "category": "economy",
+            "source": "디지털타임스",
+            "sourceUrl": "https://www.dt.co.kr/article/12080954",
+            "publishedAt": "2026-08-30T14:54:00+09:00"
+        },
+        {
+            "id": "3",
+            "title": "'쉬었음' 청년 70만…\"일할 사람, 거기 누구 없소\" 커지는 공석비용",
+            "summary": "구직 활동을 하지 않는 '쉬었음' 상태의 20~30대 청년이 70만 명에 달하면서 기업 현장의 인력 부족이 심화되고 있다. 채워지지 않은 일자리로 인한 생산성 저하와 매출 감소 등 '공석비용'이 경제 전반의 손실로 이어지고 있다는 지적이 나온다.",
+            "category": "domestic",
+            "source": "머니투데이",
+            "sourceUrl": "https://www.mt.co.kr/society/2026/08/31/2026083020433663097",
+            "publishedAt": "2026-08-31T05:43:00+09:00"
+        },
+        {
+            "id": "4",
+            "title": "VMware 인쇄관리 SW 'PaperCut' 제로데이 취약점, 전 세계서 실공격 확인",
+            "summary": "PaperCut이 NG·MF 전 버전에 영향을 미치는 제로데이 취약점이 실제 공격에 악용되고 있다고 경고하며 v25·v26용 긴급 패치를 배포했다. 인터넷에 노출된 PaperCut 서버 운영자는 신뢰할 수 있는 IP 대역으로 접근을 즉시 제한할 것을 권고받고 있다.",
+            "category": "tech",
+            "source": "The Hacker News",
+            "sourceUrl": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+            "publishedAt": "2026-08-28T00:00:00Z"
+        },
+        {
+            "id": "5",
+            "title": "크롬 웹스토어, 오늘부로 Manifest V2 확장 프로그램 전면 삭제",
+            "summary": "구글이 2026년 8월 31일자로 크롬 웹스토어에 남아있는 모든 Manifest V2 확장 프로그램을 완전히 삭제한다. 이미 설치된 확장 프로그램은 계속 쓸 수 있지만 업데이트나 재설치는 불가능해져, 개발자들은 Manifest V3로의 전환을 서둘러야 하는 상황이다.",
+            "category": "tech",
+            "source": "9to5Google",
+            "sourceUrl": "https://9to5google.com/2026/07/08/google-chrome-will-remove-older-manifest-v2-extensions-in-august/",
+            "publishedAt": "2026-08-31T00:00:00Z"
+        },
+        {
+            "id": "6",
+            "title": "제임스 웹, 우주 초기 '블랙홀 별' MoM-BH*-1 포착",
+            "summary": "제임스 웹 우주망원경(JWST)이 빅뱅 후 약 6억 6천만 년 시점에 존재했던 '블랙홀 별' MoM-BH*-1을 발견했다. 밀집 가스에 둘러싸여 빠르게 성장 중인 이 천체는 정체가 모호한 '작은 붉은 점(Little Red Dots)' 수백 개의 중심 엔진일 가능성이 제기되며, 초기 우주 초대질량 블랙홀의 형성 과정을 밝히는 단서가 될 것으로 기대된다.",
+            "category": "science",
+            "source": "Phys.org",
+            "sourceUrl": "https://phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
+            "publishedAt": "2026-08-12T00:00:00Z"
+        },
+        {
+            "id": "7",
+            "title": "NASA 화성 헬리콥터 'SkyFall', 200회 착륙 충격 견디는 접이식 안테나 탑재",
+            "summary": "NASA가 화성에 보낼 SkyFall 헬리콥터 3대에 착륙 시 접혔다가 비행 중 원래 형태로 복원되는 유연한 직물 소재 지표투과레이더 안테나를 장착한다고 밝혔다. 시험 결과 200회 착륙에 상당하는 충격에도 신호 성능이 유지돼, 화성 표면 아래 얼음을 탐지하는 임무 수행이 가능할 것으로 기대된다.",
+            "category": "science",
+            "source": "Phys.org",
+            "sourceUrl": "https://phys.org/news/2026-08-nasa-skyfall-mars-helicopters-feature.html",
+            "publishedAt": "2026-08-18T00:00:00Z"
+        },
+        {
+            "id": "8",
+            "title": "'게임스컴 2026 어워드' 발표…CDPR·세가 3관왕",
+            "summary": "게임스컴 2026 어워드에서 CD 프로젝트 레드와 세가가 각각 3개 부문을 수상하며 최다 수상자에 올랐고, 캡콤·유비소프트도 각 2관왕을 차지했다. 국내 게임 중에는 펄어비스 '붉은사막'이 베스트 PC 게임·모스트 에픽 부문 후보에 올랐으나 수상에는 실패했다.",
+            "category": "gaming",
+            "source": "인벤",
+            "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=320158",
+            "publishedAt": "2026-08-29T04:17:00+09:00"
+        },
+        {
+            "id": "9",
+            "title": "엔씨소프트, 게임스컴 2026서 '아이온2' 등 신작 3종 공개…9월 30일 얼리액세스",
+            "summary": "엔씨소프트가 게임스컴 2026 개막 전야제에서 '아이온2', '신더시티', '프로젝트 본파이어' 등 글로벌 신작 3종을 공개했다. '아이온2'는 9월 30일 얼리액세스를 시작으로 북미·남미·유럽·아시아 지역에 순차 서비스되며, 현재 파운더스팩을 판매 중이다.",
+            "category": "gaming",
+            "source": "OSEN",
+            "sourceUrl": "https://www.osen.co.kr/article/G1112853453",
+            "publishedAt": "2026-08-07T00:00:00+09:00"
+        }
+    ]
+}
