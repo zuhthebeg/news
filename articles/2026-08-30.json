@@ -1,0 +1,77 @@
+{
+  "date": "2026-08-30",
+  "articles": [
+    {
+      "id": "1",
+      "title": "정부, 부동산PF 보증 47.8조원+α로 확대…주택공급 금융대책 발표",
+      "summary": "금융위원회가 '부동산 시장 안정을 위한 금융 종합대책'을 발표, 한국주택금융공사(HF)·주택도시보증공사(HUG)의 PF 보증 규모를 향후 3년간 평균 13.1조원에서 28.7조원으로 약 2.2배 확대한다. 공사비 상승으로 PF 연체율이 4.65%까지 오른 상황에서 민간 금융사의 대출 참여 확대가 관건으로 꼽힌다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://v.daum.net/v/20260830090307675",
+      "publishedAt": "2026-08-30T00:03:00Z"
+    },
+    {
+      "id": "2",
+      "title": "한국 물가 다시 3%대 전망…800조원대 역대 최대 예산안 이번주 공개",
+      "summary": "정부가 이번 주 800조원을 웃도는 역대 최대 규모의 2027년도 예산안을 공개할 예정이다. 7월 소비자물가 상승률은 2.8%로 3개월 만에 3% 아래로 내려갔지만, 지난해 8월 휴대폰 요금 할인 기저효과로 8월 물가는 다시 3%대로 올라설 것으로 정부는 전망하고 있다.",
+      "category": "economy",
+      "source": "서울경제(Sedaily)",
+      "sourceUrl": "https://en.sedaily.com/finance/2026/08/30/korea-inflation-likely-back-above-3-percent-as-budget-bill",
+      "publishedAt": "2026-08-30T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "네팔·티베트 대홍수 사망 682명·실종 3천 명 육박…한국인 9명 연락두절",
+      "summary": "히말라야 산악지대 대규모 홍수 발생 닷새째, 네팔 675명·티베트 7명 등 사망자가 682명으로 늘었고 실종자도 네팔 2,426명·티베트 554명 등 3천 명에 육박한다. 실종자 중 930여 명은 현지 수력발전소 건설 현장 노동자로, 두산에너빌리티·한국남동발전 소속 한국인 9명도 연락이 끊긴 상태다. 정부는 2차 신속대응팀 9명을 추가 파견해 현지 대응 인력이 20명으로 늘었다.",
+      "category": "world",
+      "source": "YTN",
+      "sourceUrl": "https://v.daum.net/v/20260830085831463",
+      "publishedAt": "2026-08-29T23:58:00Z"
+    },
+    {
+      "id": "4",
+      "title": "VMware vCenter Server 치명적 제로데이(CVE-2026-59310) CISA 긴급 경고",
+      "summary": "CISA가 8월 17일~23일 한 주간 카탈로그화된 취약점 중 9건을 '알려진 악용 취약점(KEV)' 목록에 추가했다. VMware vCenter Server의 Syslog 컴포넌트에서 발견된 디렉터리 traversal 결함(CVE-2026-59310, CVSS 9.8)은 인증 없이 원격코드실행(RCE)이 가능해 엔터프라이즈 가상화 인프라에 대한 실공격이 우려된다.",
+      "category": "tech",
+      "source": "SecurityOnline",
+      "sourceUrl": "https://securityonline.info/cve-weekly-report-2026-08-23/",
+      "publishedAt": "2026-08-24T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "LG유플러스, 9개국 통신사 연합 가입…해외서도 통신사 멤버십 할인",
+      "summary": "LG유플러스가 9개국 통신사가 뭉친 글로벌 연합체에 합류해 해외 로밍 중에도 국내와 유사한 통신사 멤버십 할인을 받을 수 있는 서비스를 연내 정식 출시한다. 일본 도쿄 로손·돈키호테 매장에서 진행한 시범 운영에서는 할인 쿠폰이 1만 건 넘게 다운로드되며 성황을 이뤘다.",
+      "category": "tech",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://v.daum.net/v/20260830090220625",
+      "publishedAt": "2026-08-30T00:02:00Z"
+    },
+    {
+      "id": "6",
+      "title": "화성 남극 지하서 열 이상 현상 발견",
+      "summary": "중력 측정 데이터를 분석한 연구진이 화성 남반구 지하 깊은 곳에서 열 비대칭(thermal anomaly) 현상을 발견했다. 이는 화성 내부 구조를 이해하는 새로운 단서로, 남반구 내부가 예상과 다른 열적 특성을 가질 수 있음을 시사한다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-08-thermal-anomaly-mars-south-pole.html",
+      "publishedAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "트럼프 대통령, 아르테미스 2호 승무원에 의회 우주공로훈장 수여",
+      "summary": "도널드 트럼프 대통령이 휴스턴 존슨우주센터에서 열린 기념식에서 아르테미스 2호 임무를 수행한 NASA 우주비행사 리드 와이즈먼, 빅터 글로버, 크리스티나 코크와 캐나다우주국(CSA) 소속 제레미 한센에게 의회 우주공로훈장을 수여했다. 2023년 이후 첫 훈장 수여로, 아르테미스 2호는 지난 4월 1일 발사돼 4월 10일 태평양에 무사히 착수했다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/news-release/president-honors-nasas-artemis-ii-crew-with-highest-us-space-award/",
+      "publishedAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'메탈기어 솔리드4' 18년 만에 현세대기 이식 리마스터로 귀환",
+      "summary": "2008년 플레이스테이션3로 출시됐던 '메탈기어 솔리드4: 건즈 오브 더 패트리어트'가 18년 만에 현세대 콘솔로 이식된 리마스터 버전으로 돌아온다. 시리즈 팬들 사이에서 오랜 기간 이식 요청이 이어져온 작품으로, 이번 발표로 '메탈기어 솔리드 마스터 컬렉션' 라인업이 한층 확장됐다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=320078",
+      "publishedAt": "2026-08-28T00:00:00Z"
+    }
+  ]
+}
