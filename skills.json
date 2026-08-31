@@ -759,6 +759,45 @@
         "threads"
       ],
       "addedAt": "2026-08-30"
+    },
+    {
+      "title": "ai-music",
+      "description": "RunComfy CLI로 음악을 생성하는 의도-라우팅 스킬. ACE Step 1.5부터 ElevenLabs Music까지 상황에 맞는 모델을 자동 선택해 보컬곡·BGM·게임 루프를 뽑아준다.",
+      "icon": "🎵",
+      "category": "media",
+      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/ai-music",
+      "tags": [
+        "music-generation",
+        "runcomfy",
+        "ace-step"
+      ],
+      "addedAt": "2026-08-31"
+    },
+    {
+      "title": "ai-image-generation",
+      "description": "inference.sh CLI로 FLUX·Seedream·Gemini 등 50여 개 이미지 모델을 한 번에 호출하는 라우팅 스킬. 용도별 추천 모델을 표로 안내해 게임 아트 실험에 바로 쓸 수 있다.",
+      "icon": "🖼️",
+      "category": "media",
+      "url": "https://clawhub.ai/skills-sh/skills-101/superpowers/ai-image-generation",
+      "tags": [
+        "image-generation",
+        "flux",
+        "inference-sh"
+      ],
+      "addedAt": "2026-08-31"
+    },
+    {
+      "title": "video-edit",
+      "description": "RunComfy 기반 영상 편집 라우팅 스킬. 리스타일·모션 전이·의상/배경 교체 등 의도별로 Wan2.7·Kling·Lucy Edit 모델을 자동 선택해 트레일러 후반작업에 쓸 수 있다.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/video-edit",
+      "tags": [
+        "video-editing",
+        "runcomfy",
+        "motion-transfer"
+      ],
+      "addedAt": "2026-08-31"
     }
   ]
 }
