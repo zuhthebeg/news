@@ -1,86 +1,131 @@
 {
-    "date": "2026-08-31",
-    "articles": [
-        {
-            "id": "1",
-            "title": "이재명 대통령, 6개 부처 개각…경제부총리 이형일·법무 김승원·국방 강신철",
-            "summary": "이재명 대통령이 경제부총리에 이형일 기획재정부 1차관, 법무부 장관에 김승원 민주당 의원을 지명하는 등 6개 부처 장관 후보자를 새로 발표했다. 국방부 장관에는 강신철 전 한미연합사 부사령관이, 국토교통부·중소벤처기업부·성평등가족부 장관에는 각각 홍지선·이소영·용혜인 후보자가 지명됐다.",
-            "category": "domestic",
-            "source": "한국경제",
-            "sourceUrl": "https://www.hankyung.com/article/2026083015557",
-            "publishedAt": "2026-08-30T11:49:00+09:00"
-        },
-        {
-            "id": "2",
-            "title": "이재명 대통령 \"내년 韓銀 금리 3.5% 유의\"…집값 폭락 대비 주택 대량매입 준비 지시",
-            "summary": "이재명 대통령이 부동산 투기 근절을 위해 구청장에게 500세대 이하 인허가권을 부여하는 등 주택 공급 확대 대책을 추진하겠다고 밝혔다. 아울러 내년 1분기 한국은행 기준금리 3.5% 전망을 거론하며 금리 인상과 집값 폭락에 대비해 일정 기준 이하 주택을 공공주택용으로 대량 매입하는 시스템을 구축하도록 지시했다.",
-            "category": "economy",
-            "source": "디지털타임스",
-            "sourceUrl": "https://www.dt.co.kr/article/12080954",
-            "publishedAt": "2026-08-30T14:54:00+09:00"
-        },
-        {
-            "id": "3",
-            "title": "'쉬었음' 청년 70만…\"일할 사람, 거기 누구 없소\" 커지는 공석비용",
-            "summary": "구직 활동을 하지 않는 '쉬었음' 상태의 20~30대 청년이 70만 명에 달하면서 기업 현장의 인력 부족이 심화되고 있다. 채워지지 않은 일자리로 인한 생산성 저하와 매출 감소 등 '공석비용'이 경제 전반의 손실로 이어지고 있다는 지적이 나온다.",
-            "category": "domestic",
-            "source": "머니투데이",
-            "sourceUrl": "https://www.mt.co.kr/society/2026/08/31/2026083020433663097",
-            "publishedAt": "2026-08-31T05:43:00+09:00"
-        },
-        {
-            "id": "4",
-            "title": "VMware 인쇄관리 SW 'PaperCut' 제로데이 취약점, 전 세계서 실공격 확인",
-            "summary": "PaperCut이 NG·MF 전 버전에 영향을 미치는 제로데이 취약점이 실제 공격에 악용되고 있다고 경고하며 v25·v26용 긴급 패치를 배포했다. 인터넷에 노출된 PaperCut 서버 운영자는 신뢰할 수 있는 IP 대역으로 접근을 즉시 제한할 것을 권고받고 있다.",
-            "category": "tech",
-            "source": "The Hacker News",
-            "sourceUrl": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
-            "publishedAt": "2026-08-28T00:00:00Z"
-        },
-        {
-            "id": "5",
-            "title": "크롬 웹스토어, 오늘부로 Manifest V2 확장 프로그램 전면 삭제",
-            "summary": "구글이 2026년 8월 31일자로 크롬 웹스토어에 남아있는 모든 Manifest V2 확장 프로그램을 완전히 삭제한다. 이미 설치된 확장 프로그램은 계속 쓸 수 있지만 업데이트나 재설치는 불가능해져, 개발자들은 Manifest V3로의 전환을 서둘러야 하는 상황이다.",
-            "category": "tech",
-            "source": "9to5Google",
-            "sourceUrl": "https://9to5google.com/2026/07/08/google-chrome-will-remove-older-manifest-v2-extensions-in-august/",
-            "publishedAt": "2026-08-31T00:00:00Z"
-        },
-        {
-            "id": "6",
-            "title": "제임스 웹, 우주 초기 '블랙홀 별' MoM-BH*-1 포착",
-            "summary": "제임스 웹 우주망원경(JWST)이 빅뱅 후 약 6억 6천만 년 시점에 존재했던 '블랙홀 별' MoM-BH*-1을 발견했다. 밀집 가스에 둘러싸여 빠르게 성장 중인 이 천체는 정체가 모호한 '작은 붉은 점(Little Red Dots)' 수백 개의 중심 엔진일 가능성이 제기되며, 초기 우주 초대질량 블랙홀의 형성 과정을 밝히는 단서가 될 것으로 기대된다.",
-            "category": "science",
-            "source": "Phys.org",
-            "sourceUrl": "https://phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
-            "publishedAt": "2026-08-12T00:00:00Z"
-        },
-        {
-            "id": "7",
-            "title": "NASA 화성 헬리콥터 'SkyFall', 200회 착륙 충격 견디는 접이식 안테나 탑재",
-            "summary": "NASA가 화성에 보낼 SkyFall 헬리콥터 3대에 착륙 시 접혔다가 비행 중 원래 형태로 복원되는 유연한 직물 소재 지표투과레이더 안테나를 장착한다고 밝혔다. 시험 결과 200회 착륙에 상당하는 충격에도 신호 성능이 유지돼, 화성 표면 아래 얼음을 탐지하는 임무 수행이 가능할 것으로 기대된다.",
-            "category": "science",
-            "source": "Phys.org",
-            "sourceUrl": "https://phys.org/news/2026-08-nasa-skyfall-mars-helicopters-feature.html",
-            "publishedAt": "2026-08-18T00:00:00Z"
-        },
-        {
-            "id": "8",
-            "title": "'게임스컴 2026 어워드' 발표…CDPR·세가 3관왕",
-            "summary": "게임스컴 2026 어워드에서 CD 프로젝트 레드와 세가가 각각 3개 부문을 수상하며 최다 수상자에 올랐고, 캡콤·유비소프트도 각 2관왕을 차지했다. 국내 게임 중에는 펄어비스 '붉은사막'이 베스트 PC 게임·모스트 에픽 부문 후보에 올랐으나 수상에는 실패했다.",
-            "category": "gaming",
-            "source": "인벤",
-            "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=320158",
-            "publishedAt": "2026-08-29T04:17:00+09:00"
-        },
-        {
-            "id": "9",
-            "title": "엔씨소프트, 게임스컴 2026서 '아이온2' 등 신작 3종 공개…9월 30일 얼리액세스",
-            "summary": "엔씨소프트가 게임스컴 2026 개막 전야제에서 '아이온2', '신더시티', '프로젝트 본파이어' 등 글로벌 신작 3종을 공개했다. '아이온2'는 9월 30일 얼리액세스를 시작으로 북미·남미·유럽·아시아 지역에 순차 서비스되며, 현재 파운더스팩을 판매 중이다.",
-            "category": "gaming",
-            "source": "OSEN",
-            "sourceUrl": "https://www.osen.co.kr/article/G1112853453",
-            "publishedAt": "2026-08-07T00:00:00+09:00"
-        }
-    ]
+  "date": "2026-08-31",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 6개 부처 개각…경제부총리 이형일·법무 김승원·국방 강신철",
+      "summary": "이재명 대통령이 경제부총리에 이형일 기획재정부 1차관, 법무부 장관에 김승원 민주당 의원을 지명하는 등 6개 부처 장관 후보자를 새로 발표했다. 국방부 장관에는 강신철 전 한미연합사 부사령관이, 국토교통부·중소벤처기업부·성평등가족부 장관에는 각각 홍지선·이소영·용혜인 후보자가 지명됐다.",
+      "category": "domestic",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026083015557",
+      "publishedAt": "2026-08-30T11:49:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "이재명 대통령 \"내년 韓銀 금리 3.5% 유의\"…집값 폭락 대비 주택 대량매입 준비 지시",
+      "summary": "이재명 대통령이 부동산 투기 근절을 위해 구청장에게 500세대 이하 인허가권을 부여하는 등 주택 공급 확대 대책을 추진하겠다고 밝혔다. 아울러 내년 1분기 한국은행 기준금리 3.5% 전망을 거론하며 금리 인상과 집값 폭락에 대비해 일정 기준 이하 주택을 공공주택용으로 대량 매입하는 시스템을 구축하도록 지시했다.",
+      "category": "economy",
+      "source": "디지털타임스",
+      "sourceUrl": "https://www.dt.co.kr/article/12080954",
+      "publishedAt": "2026-08-30T14:54:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "'쉬었음' 청년 70만…\"일할 사람, 거기 누구 없소\" 커지는 공석비용",
+      "summary": "구직 활동을 하지 않는 '쉬었음' 상태의 20~30대 청년이 70만 명에 달하면서 기업 현장의 인력 부족이 심화되고 있다. 채워지지 않은 일자리로 인한 생산성 저하와 매출 감소 등 '공석비용'이 경제 전반의 손실로 이어지고 있다는 지적이 나온다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/society/2026/08/31/2026083020433663097",
+      "publishedAt": "2026-08-31T05:43:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "VMware 인쇄관리 SW 'PaperCut' 제로데이 취약점, 전 세계서 실공격 확인",
+      "summary": "PaperCut이 NG·MF 전 버전에 영향을 미치는 제로데이 취약점이 실제 공격에 악용되고 있다고 경고하며 v25·v26용 긴급 패치를 배포했다. 인터넷에 노출된 PaperCut 서버 운영자는 신뢰할 수 있는 IP 대역으로 접근을 즉시 제한할 것을 권고받고 있다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/08/papercut-zero-day-exploited-in-attacks.html",
+      "publishedAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "크롬 웹스토어, 오늘부로 Manifest V2 확장 프로그램 전면 삭제",
+      "summary": "구글이 2026년 8월 31일자로 크롬 웹스토어에 남아있는 모든 Manifest V2 확장 프로그램을 완전히 삭제한다. 이미 설치된 확장 프로그램은 계속 쓸 수 있지만 업데이트나 재설치는 불가능해져, 개발자들은 Manifest V3로의 전환을 서둘러야 하는 상황이다.",
+      "category": "tech",
+      "source": "9to5Google",
+      "sourceUrl": "https://9to5google.com/2026/07/08/google-chrome-will-remove-older-manifest-v2-extensions-in-august/",
+      "publishedAt": "2026-08-31T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "제임스 웹, 우주 초기 '블랙홀 별' MoM-BH*-1 포착",
+      "summary": "제임스 웹 우주망원경(JWST)이 빅뱅 후 약 6억 6천만 년 시점에 존재했던 '블랙홀 별' MoM-BH*-1을 발견했다. 밀집 가스에 둘러싸여 빠르게 성장 중인 이 천체는 정체가 모호한 '작은 붉은 점(Little Red Dots)' 수백 개의 중심 엔진일 가능성이 제기되며, 초기 우주 초대질량 블랙홀의 형성 과정을 밝히는 단서가 될 것으로 기대된다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-08-mirage-miracle-jwst-earliest-black.html",
+      "publishedAt": "2026-08-12T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "NASA 화성 헬리콥터 'SkyFall', 200회 착륙 충격 견디는 접이식 안테나 탑재",
+      "summary": "NASA가 화성에 보낼 SkyFall 헬리콥터 3대에 착륙 시 접혔다가 비행 중 원래 형태로 복원되는 유연한 직물 소재 지표투과레이더 안테나를 장착한다고 밝혔다. 시험 결과 200회 착륙에 상당하는 충격에도 신호 성능이 유지돼, 화성 표면 아래 얼음을 탐지하는 임무 수행이 가능할 것으로 기대된다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-08-nasa-skyfall-mars-helicopters-feature.html",
+      "publishedAt": "2026-08-18T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'게임스컴 2026 어워드' 발표…CDPR·세가 3관왕",
+      "summary": "게임스컴 2026 어워드에서 CD 프로젝트 레드와 세가가 각각 3개 부문을 수상하며 최다 수상자에 올랐고, 캡콤·유비소프트도 각 2관왕을 차지했다. 국내 게임 중에는 펄어비스 '붉은사막'이 베스트 PC 게임·모스트 에픽 부문 후보에 올랐으나 수상에는 실패했다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=320158",
+      "publishedAt": "2026-08-29T04:17:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "엔씨소프트, 게임스컴 2026서 '아이온2' 등 신작 3종 공개…9월 30일 얼리액세스",
+      "summary": "엔씨소프트가 게임스컴 2026 개막 전야제에서 '아이온2', '신더시티', '프로젝트 본파이어' 등 글로벌 신작 3종을 공개했다. '아이온2'는 9월 30일 얼리액세스를 시작으로 북미·남미·유럽·아시아 지역에 순차 서비스되며, 현재 파운더스팩을 판매 중이다.",
+      "category": "gaming",
+      "source": "OSEN",
+      "sourceUrl": "https://www.osen.co.kr/article/G1112853453",
+      "publishedAt": "2026-08-07T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "[Image][Edge] FLUX.2 Klein 4B, 브라우저 안에서 WebGPU로 도는 ONNX 포팅 공개",
+      "summary": "[Image][Edge] black-forest-labs/FLUX.2-klein-4B(Apache-2.0)를 ONNX Runtime Web용으로 재변환한 cgb/flux2-klein-4b-onnx-webgpu가 2026-08-30 공개됐다. 텍스트 인코더(Qwen3-4B, int4, 2.2GB)+트랜스포머(int8, 4.14GB)+VAE(0.2GB) 합쳐 약 6.5GB로, 서버·API키 없이 방문자 GPU에서 512x512 이미지를 4스텝·약22초에 생성한다. 상위 모델 라이선스 그대로 승계해 상업 이용 가능. cocy.io에서 쓸모: page.cocy.io 같은 정적 서비스에 서버비용 0으로 이미지 생성 기능을 붙일 수 있는 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/cgb/flux2-klein-4b-onnx-webgpu",
+      "publishedAt": "2026-08-30T22:21:35Z"
+    },
+    {
+      "id": "11",
+      "title": "[Image] SenseNova-U1.5-8B-MoT, 이미지 생성·편집·이해 통합한 8B 모델 업데이트",
+      "summary": "[Image] SenseTime의 sensenova/SenseNova-U1.5-8B-MoT(Apache-2.0, any-to-any)가 2026-08-19 공개, 2026-08-24 업데이트됐다. 네이티브 4K 생성, 텍스트 렌더링 개선, 로컬/전역 편집 시 원본 보존력 강화가 특징. VRAM 요구량은 모델카드에 명시돼 있지 않아 12GB에서 양자화 없이 돌아가는지는 미확인. cocy.io에서 쓸모: FLUX 로컬 파이프라인의 이미지 편집(부분 리터치) 대체 후보로 검토 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/sensenova/SenseNova-U1.5-8B-MoT",
+      "publishedAt": "2026-08-24T02:53:12Z"
+    },
+    {
+      "id": "12",
+      "title": "[Audio] MiniMax Music 3, 최대 5분 완성곡을 생성하는 8B 음악 생성 모델",
+      "summary": "[Audio] MiniMaxAI/MiniMax-Music3(2026-08-07 공개, 2026-08-14 업데이트)는 8B 글로벌 LLM+0.6B 로컬 LLM+플로우매칭으로 가사·설명 기반 최대 5분 완성곡(32kHz 스테레오)을 생성한다. 라이선스는 apache/mit이 아닌 'MiniMax Community License'로, 상업 이용은 가능하지만 서비스 화면에 'MiniMax-Music3' 표기 의무, 연매출 2000만달러 초과 시 별도 승인 필요 — 표준 상업허용 라이선스는 아님. cocy.io에서 쓸모: 게임 BGM은 현재 ACE-Step 로컬로 충분해 당장 대체 필요는 낮음, 라이선스 조건부라 직접 채택은 보류.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/MiniMaxAI/MiniMax-Music3",
+      "publishedAt": "2026-08-14T10:51:40Z"
+    },
+    {
+      "id": "13",
+      "title": "[Tool] LAION, MOSS 음성 LoRA 어댑터의 '머지하면 모델 파괴' 위험을 문서화",
+      "summary": "[Tool] LAION의 laion/moss-va-sft3-quality-dpo-lora(Apache-2.0, 2026-08-30 공개)는 MOSS 계열 음성합성 모델용 DPO LoRA인데, README에서 merge_and_unload() 등으로 어댑터를 베이스에 합치면 오디오/텍스트 출력 헤드가 임베딩 테이블과 텐서를 공유(tie_weights)하고 있어 임베딩이 영구 손상된다고 경고한다. 어댑터는 반드시 PEFT로 언머지 상태로 로드해야 한다. cocy.io에서 쓸모: 이미 MOSS-SoundEffect 파이프라인을 쓰고 있어, 향후 자체 LoRA 파인튜닝 시 동일한 weight-tying 구조라면 같은 함정을 피해야 한다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/laion/moss-va-sft3-quality-dpo-lora",
+      "publishedAt": "2026-08-30T15:22:09Z"
+    },
+    {
+      "id": "14",
+      "title": "[Audio][Video] Foley-Omni, 영상 하나로 대사·효과음·음악을 한번에 합성",
+      "summary": "[Audio][Video] 난징대 NJU-Speech의 Foley-Omni(MIT, arXiv 2606.03672)는 영상+선택적 텍스트 프롬프트를 입력받아 동기화된 speech·SFX·music을 함께 생성하는 Video-to-Soundtrack 모델(5.5B, 2026-05-31 공개, 2026-06-05 최종 업데이트). Wan2.2 텍스트 인코더와 mmaudio 보코더를 함께 묶어 배포한다. VRAM 수치는 모델카드에 없어 미확인. cocy.io에서 쓸모: 게임 트레일러·쇼츠에 사운드를 자동으로 입히는 후처리 단계 후보, 다만 검증(다운로드 14회 수준)은 아직 부족.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/CocoBro/Foley-Omni",
+      "publishedAt": "2026-06-05T15:37:04Z"
+    }
+  ]
 }
