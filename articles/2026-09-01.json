@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-01",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령 지지율 38.9%…취임 후 첫 30%대 진입, '데드크로스' 심화",
+      "summary": "리얼미터 정례조사에서 이재명 대통령의 국정수행 긍정평가가 전주 대비 1.3%포인트 하락한 38.9%를 기록해 취임 후 처음으로 30%대에 진입했다. 부정평가는 58.7%로 올라 7주 연속 하락세가 이어지며 긍·부정 평가 격차가 벌어지는 '데드크로스' 흐름이 심화되고 있다.",
+      "category": "domestic",
+      "source": "아시아경제",
+      "sourceUrl": "https://view.asiae.co.kr/article/2026083108463368086",
+      "publishedAt": "2026-08-31T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "구윤철 부총리, 개각 대상 포함에도 美 G20 재무장관회의 예정대로 참석",
+      "summary": "구윤철 경제부총리 겸 기획재정부 장관이 개각 대상에 포함됐다는 소식에 출국을 취소했다가 번복하고, 미국 노스캐롤라이나 애슈빌에서 열린 G20 재무장관·중앙은행총재 회의에 예정대로 참석했다. 후임자가 인사청문회를 거쳐야 하는 만큼 업무 공백을 막기 위한 조치로 풀이된다.",
+      "category": "economy",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://biz.heraldcorp.com/article/10856371",
+      "publishedAt": "2026-08-30T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "법원 \"2인1조 근무 중 열사병으로 숨진 택배기사도 산재보험 보호 대상\"",
+      "summary": "서울행정법원이 지인과 2인1조로 배송하다 열사병으로 숨진 택배기사에 대해 근로복지공단의 유족급여 부지급 처분을 취소하라고 판결했다. 재판부는 운송계약을 직접 체결하지 않았더라도 업무상 재해로부터 보호할 필요가 있는 노무제공자에 해당한다고 판단했다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202608311229001/",
+      "publishedAt": "2026-08-31T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "아마존 링, 'TAKE' 암호화 도입…보안 카메라 영상 기본 보호 강화",
+      "summary": "아마존 산하 링이 5분마다 키를 순환시키는 새 암호화 표준 'TAKE(Throw Away the Key Encryption)'를 공개하고 9월부터 전 사용자에게 기본 적용한다. 클라우드에는 키 사본을 24시간만 보관 후 영구 삭제해 종단간 암호화에 준하는 수준의 사생활 보호를 제공한다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/08/26/ring-introduces-a-new-encryption-standard-makes-it-the-default-for-cloud-features/",
+      "publishedAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "완구업체 해즈브로, 3월 사이버공격발 직원 개인정보 유출 뒤늦게 통지",
+      "summary": "해즈브로가 지난 3월 발생한 사이버공격과 관련해 직원의 이름, 주소, 신분증 번호, 금융정보 등이 유출됐다고 8월 말 주정부에 통지했다. 공격자가 탈취한 직원 계정을 통해 침투한 것으로 파악되며, 회사는 피해자에게 신원보호 서비스를 무료로 제공하고 있다.",
+      "category": "tech",
+      "source": "SecurityWeek",
+      "sourceUrl": "https://www.securityweek.com/hasbro-data-breach-exposed-employee-personal-information/",
+      "publishedAt": "2026-08-28T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA 낸시 그레이스 로먼 우주망원경, 팰컨 헤비 로켓으로 발사 성공",
+      "summary": "NASA의 낸시 그레이스 로먼 우주망원경이 스페이스X 팰컨 헤비 로켓에 실려 케네디 우주센터에서 발사됐다. 허블보다 100배 넓은 시야를 갖춘 이 망원경은 태양-지구 L2 지점에 자리 잡고 암흑에너지·암흑물질 연구와 외계행성 통계 조사 등을 수행할 예정이다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://science.nasa.gov/blogs/roman/2026/08/30/nasas-roman-space-telescope-launches/",
+      "publishedAt": "2026-08-30T11:26:00Z"
+    },
+    {
+      "id": "7",
+      "title": "ISS 우주비행사들, 항법 보조장치 교체 위해 6시간 30분 우주유영",
+      "summary": "ESA 소속 소피 아드노와 NASA 소속 제시카 마이어 우주비행사가 국제우주정거장 하모니 모듈의 항법용 역반사경을 교체하고 우주입자 검출기 업그레이드 준비 등을 위해 약 6시간 30분간 우주유영을 실시했다. 이번 유영은 1998년 이후 ISS에서 진행된 284번째 우주유영이다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/08/31/expedition-75-is-go-for-tuesdays-navigation-and-science-maintenance-spacewalk/",
+      "publishedAt": "2026-09-01T11:30:00Z"
+    },
+    {
+      "id": "8",
+      "title": "위쳐3 개발진 신작 '더 블러드 오브 던워커', 9월 3일 출시",
+      "summary": "위쳐3·사이버펑크 2077 개발자들이 설립한 레벨 울브스의 첫 작품 '더 블러드 오브 던워커'가 9월 3일 PS5·엑스박스 시리즈·스팀으로 출시된다. 흑사병이 휩쓴 14세기 유럽을 배경으로 낮과 밤을 오가는 존재가 된 주인공이 뱀파이어에 맞서 가족을 구하는 오픈월드 다크판타지 액션 RPG다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=315944",
+      "publishedAt": "2026-08-30T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "코나미 '사일런트 힐: 타운폴', 시리즈 최초 1인칭 시점으로 9월 24일 출시",
+      "summary": "코나미와 안나푸르나 인터랙티브, 스크린 번 인터랙티브가 공동 개발한 '사일런트 힐: 타운폴'이 9월 24일 스팀·에픽게임즈 스토어·PS5로 출시된다. 시리즈 최초로 1인칭 시점을 도입했으며, 1996년 가상의 스코틀랜드 섬을 배경으로 안개 속 심리공포를 구현했다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=317072",
+      "publishedAt": "2026-08-30T00:00:00+09:00"
+    }
+  ]
+}
