@@ -81,6 +81,51 @@
       "source": "인벤",
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=317072",
       "publishedAt": "2026-08-30T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "MiDashengLM-Gen, 텍스트로 효과음까지 만드는 오디오 생성 모델 공개",
+      "summary": "[Audio] 8월 중순 HuggingFace에 올라온 MiDashengLM-Gen은 자연어 설명만으로 음악뿐 아니라 환경음·효과음(scene-generation)까지 뽑아내는 text-to-audio 모델이다. 라이선스 apache-2.0으로 상업 이용 가능(HF 확인). cocy.io에서 쓸모: 현재 MOSS-SoundEffect로 돌리는 SFX 파이프라인의 대체/보완 후보로 검증해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mispeech/midashenglm-gen",
+      "publishedAt": "2026-08-12T08:51:02.000Z"
+    },
+    {
+      "id": "11",
+      "title": "ACE-Step v1.5, ONNX+WebGPU 포트로 브라우저에서 음악 생성",
+      "summary": "[Audio][Edge] cocy.io BGM 파이프라인에 쓰는 ACE-Step v1.5가 지난주(8/25) ONNX 변환 빌드로 공개돼 WebGPU로 브라우저 안에서 바로 음악을 생성할 수 있게 됐다(빌드 라이선스 apache-2.0, 원본 ACE-Step은 mit, HF 확인). cocy.io에서 쓸모: 로컬 GPU 서버 없이 클라이언트단에서 BGM을 뽑는 실험이 가능해진다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Emerald7664/ACE-Step-v1.5-ONNX",
+      "publishedAt": "2026-08-25T23:52:14.000Z"
+    },
+    {
+      "id": "12",
+      "title": "초경량 이미지 생성 모델 Z-Image-Turbo, 브라우저용 ONNX 빌드 등장",
+      "summary": "[Image][Edge] 알리바바 Tongyi 팀의 초고속 증류 이미지 생성 모델 Z-Image-Turbo(apache-2.0, HF 확인)가 어제(8/31) q4f16 양자화 ONNX 빌드로 올라와 WebGPU 브라우저 추론이 가능해졌다. cocy.io에서 쓸모: page.cocy.io류 툴에 서버 GPU 없이 즉석 이미지 생성 기능을 붙여볼 수 있는 후보.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/benchmarkxprt/Z-Image-Turbo",
+      "publishedAt": "2026-08-31T21:31:15.000Z"
+    },
+    {
+      "id": "13",
+      "title": "Wan2.1 1.3B 영상 생성 모델, 소수 스텝 증류판으로 가속",
+      "summary": "[Video] Alibaba Wan-AI의 오픈 영상 생성 모델 Wan2.1-T2V-1.3B(apache-2.0)를 few-step으로 증류한 FastWan2.1 빌드가 이번 주(8/30) 공개돼 추론 속도를 크게 줄였다(base 라이선스 HF 확인). cocy.io에서 쓸모: 12GB급 3080Ti에서도 로컬로 짧은 영상 클립 생성을 실험해볼 수 있는 후보.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ThePilot999/FastWan2.1-T2V-1.3B-Diffusers",
+      "publishedAt": "2026-08-30T07:16:42.000Z"
+    },
+    {
+      "id": "14",
+      "title": "ResembleAI Chatterbox, transformers.js+WebGPU로 브라우저 안에서 음성 클로닝",
+      "summary": "[Tool][Edge] MIT 라이선스 다국어 보이스클로닝 TTS인 ResembleAI Chatterbox가 어제(8/31) transformers.js+ONNX+WebGPU 빌드로 포팅되어 서버 없이 브라우저에서 바로 음성 합성이 된다(원본·포트 모두 mit, HF 확인). cocy.io에서 쓸모: 쇼츠 표준보이스(CosyVoice) 파이프라인의 클라이언트단 대안/데모용으로 검토 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/avraham123/tale-me-chatterbox-v3-browser",
+      "publishedAt": "2026-08-31T22:41:10.000Z"
     }
   ]
 }
