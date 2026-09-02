@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-02",
+  "articles": [
+    {
+      "id": "1",
+      "title": "青 \"김용범, 개각 다음날 사의표명\"… 내각-참모 후속 교체 가능성",
+      "summary": "개각 다음날 김용범 정책실장이 사의를 표명하면서 추가 내각-참모진 교체 가능성이 거론되고 있다.",
+      "category": "domestic",
+      "source": "동아일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9uRVRlZ195a2dael9fa0RsanNLaVhaV1c1Z0RsNjZBRjNpeGdBRlVYRzdmNGpYdUNiRkVsbVlsOGF4YzZyb2c4Z2NmUVpoM0kwekx2NUs2dDVaME9FY2xwSkVxaUZEOEdGazFWdzZGZmRfbTh6UXNJ0gFmQVVfeXFMUDhPVjd5Uk5NMWdwcmlhQVRkRDNuTVIyOEJSZTNJRzlHQk1jUl9pUDV1S0RfaHotdGpEdkVnSEFyNEVyMk5OUGEwSkM5T2tSZTVoTjBXdU52WmVaUzRxczU2WnRTSDhB?oc=5",
+      "publishedAt": "2026-09-01T19:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "[속보]8월 소비자물가 3.1% 상승···두달 만에 물가 '3%대'로 올라서",
+      "summary": "8월 소비자물가가 전년 대비 3.1% 상승하며 두 달 만에 3%대로 진입했다.",
+      "category": "economy",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1icmQzUUJtbFVyV0JZTk1qb3k4ZGNEOWtPN0dkcXJ1a1J2SWgySEx2YXY0WTVlNjhmTjdzNUlOeEFoR3BXVXc5ZWhhNm5sTHNtYmtzVHVTcFhNd9IBX0FVX3lxTFBPRDB4bV9xdGhCUU84c3pGWDZXbHZrOXNITWQtVjdXM1dSSDZGUm5JNmpxb1YtMFp5UzFkSEpjSXRwODloaDBDU0E1TWhKY1hQc0ZNWFJ6UjFaVWFXd2o4?oc=5",
+      "publishedAt": "2026-09-02T00:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "미, 이란 남부 대규모 공습에 이란 미사일·드론 보복, 트럼프 “더 큰 공격 대기”",
+      "summary": "미군의 이란 남부 지역 대규모 공습에 이란이 미사일과 드론으로 보복하면서 중동 긴장이 고조되고 있으며, 트럼프 대통령은 추가 공격 가능성을 시사했다.",
+      "category": "world",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1zdjJSNk5EVW5ManhYSDFFaGlNR2NoVWVsVjNVYnU4MXhxakNZTk5tbFlVS3R0OFdPeDBzYXlVTW1ybG9JVGt4V0NVMTAwNENVUHNkZm1mSWxFSV9DUWVvb1luSWMtMG10MTlpYXhPalhFRUE?oc=5",
+      "publishedAt": "2026-09-01T20:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Microsoft 365 outage drags on, but things are improving",
+      "summary": "A Microsoft 365 service outage has continued for an extended period, though the company reports gradual improvement as it works through the disruption.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNzF4TlZYRWRxNlByeXR0TDVyU1dDUEg3cXpGSzdtV3ZSV01sS0lmNEwtUEJTcEd2bnNtQ1F4YUMwUmUwazU4MjBZZXdja3ljQ21tT1BQT2RLVzBUOXp0a2VmTzc3VkRHaVI0eDFidkZGLVhmUk1Ra1VpMExUSWxvZkN6TVA3V3RtbnpEakpEa2dkbG8?oc=5",
+      "publishedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Mozilla launches ad blocking for Firefox on iOS",
+      "summary": "Mozilla has rolled out built-in ad blocking for Firefox on iOS, expanding privacy tooling to mobile as browser makers compete on tracking protection.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1QeTVwb2taVEstVHNrcTlfT0xidmpRZUhvWjBuZFYxYXg2dVpXeXNjR0FoRUo0MFZCT052WS1nLThVS1dTNHpNSmtBMk5TOHZORnozSWdGdHpOYWZOaFJQYmhEWHJPT1llVGY3NlFLRzc4QnE2T1pHa2pLOUxvTm8?oc=5",
+      "publishedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Scientists make potential breakthrough in search for dark matter",
+      "summary": "Researchers report a potential breakthrough in the decades-long search for dark matter, offering new clues about the universe's hidden mass.",
+      "category": "science",
+      "source": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORndMVjBxRC1YcGFYemZhWWZFUm5FNVhUVU12amVJWXFVTHNUS0s4emxoUGZFSlZ3NTV5RUxXREhZdFExSngybUppRE4tUVlkakw1OUdpWVYxaWhCNWU5VzB4WGxkNFcwbDRzaFNXTFZjSThVWklYRXo1M0R0MkVBOUgtbzFmMFZpUDNuU2VxN0JkcGF4WjVfa3hHVUJwQlZQUzFn?oc=5",
+      "publishedAt": "2026-09-01T14:07:22Z"
+    },
+    {
+      "id": "7",
+      "title": "New method swaps single atom in a molecule to speed drug discovery",
+      "summary": "Chemists have developed a technique to swap a single atom within a molecule, opening a faster route for drug discovery research.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBNY0NFSHo3RFI2cDhtbXZUM2w0YU9ZLU1Wcm5aQ0JmTzRoM2liQW9nUEpqU20zdFNtb0MzX1lyLXlicjBaaWxwLTlLam05Y1haalpoMWowUHpFUzljUkVCb2txaHJXYTEyZ0IwUldoZWRoWkNp?oc=5",
+      "publishedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Dwarf Fortress creator says the industry's in shambles over AI and layoff-happy CEOs",
+      "summary": "The Dwarf Fortress creator criticized the state of the games industry, citing AI anxiety and a wave of layoff-driven leadership as sources of widespread stress among developers.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPU1NZTG45UFc3czJub3NQZEVuUV9qRmZZZzlaZTdvRGdJdGdmeUJ6eDExSWV0U0J4cWRqR05JNEtsQmc0bEhIY2gtNU5zQlBuLS1UTXJtQXRZQWhIVnB6eGNJSUVzX3ZmdUNMNWE5TFZUbm9OZWZ2cE4zb0JERUk3cEE2Q1UxUjlGX0oyU3BXb1hQa1JpVnlXS1dpbW9KdXlVRk82bEZsUGZGTHZ4OU9iaENoOC1iUnVLb0tkV2dMWEE1bFpsd2lNSXZFSlpCWDV4RS1WTFVDNEJxTXJVenhLRXN1NElqQmdDMVFvR2NsaTZBekZpQklONFBDS1RJSmszTlRhRGFaMUpjeGttdVVF?oc=5",
+      "publishedAt": "2026-09-01T10:55:32Z"
+    },
+    {
+      "id": "9",
+      "title": "Days After GTA 6's Big Reveal, Rockstar Announces A Major GTA 5 Update",
+      "summary": "Following the high-profile GTA 6 reveal, Rockstar surprised players with a significant content update for GTA 5, keeping its long-running title active.",
+      "category": "gaming",
+      "source": "Polygon.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTVJSFQ0LVhsTFNPSTRMWElJTTlEU0w1eWtFVlJMekdqa2hFcWdNWmZteF9VeU1nM3dRNnZPQTJuaVg2bkNmWFY0OVdTd2dkN0tibmRQLTdPb1dBOFBzZ0I5N3lpNmxjLW1fSEl1cmZ5OTZaVWdIeVJ5dWFCZ2lhdnpaRk5pSDY1VWVDdk5KWHA?oc=5",
+      "publishedAt": "2026-09-01T00:00:00Z"
+    }
+  ]
+}
