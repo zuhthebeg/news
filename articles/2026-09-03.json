@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-03",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[단독] 경찰, 국민의힘 함운경 '정치자금법 위반 의혹' 강제수사 착수",
+      "summary": "경찰이 국민의힘 함운경 의원의 정치자금법 위반 의혹과 관련해 강제수사에 착수했다.",
+      "category": "domestic",
+      "source": "MBC뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9TQ3V4THBQRHZwTFQ2VHY3OUVqRE12Z0lJNWptd0tKZ3ZJekl5WEt4cUxpOGJiclJucGtGRUtYSk81VDEzcmNLYTNtTGV2Zk5WYUdpbHBrRWZoX2dmMGtKcjVwMmFDa2dZRzBPQzJiRzIxX09JZnlV0gF3QVVfeXFMTUljZnRFX3ZPaFFCdGgwZFRTZ1VrSlJsY012V0l3RVZ5OWpoLWhMSGxfeG1ELUcxR3lCbEtKVWo3VDJHbmRtOE5STVcyVkFUUUptMHU5LVA3UVFCMWtrdzNNVjAwM2pSbmNIS0drU0pjalVhLWJ4R1U?oc=5",
+      "publishedAt": "2026-09-02T05:40:26Z"
+    },
+    {
+      "id": "2",
+      "title": "[클로징 벨] 코스피 3.99% 급락…유가·금리 '이중 충격'",
+      "summary": "글로벌 국채금리 급등과 유가 상승 여파로 코스피가 3.99% 급락하며 6562.72에 마감했다.",
+      "category": "economy",
+      "source": "standingout.kr",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE1VWHZJeG5ZQ21ENHcxVUU3QmhOd3RoRXptX1lYRTJsZjRmb0tzUGF6Nm9Na1J5RmZZdVZGdTM0OEZDdU9UZl9nalRvRWNLc3FBdUdWZVVjOHJmTGZodEZqVnR4QjhSTkhEcmtv?oc=5",
+      "publishedAt": "2026-09-02T08:08:08Z"
+    },
+    {
+      "id": "3",
+      "title": "[속보] 트럼프 \"군사 작전 오래 안 갈 것\"…이란에 추가 타격 경고",
+      "summary": "트럼프 대통령이 이란과의 군사 작전이 오래가지 않을 것이라며 추가 타격 가능성을 경고했다.",
+      "category": "world",
+      "source": "뉴스1",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE52X2tPTmdMZngzUHFlVC1HWlhaV3B1QWJVVkJ4UFlBdXNtamNmQy1kMXNnM1FXVUt6VzR0NFRyd1VzSUZ0Zlk5SUNkMG1IMG1WSW1Kd1NmejjSAV5BVV95cUxOUHp2QXJ5T1ZINzRmYXBYSGJ5dHJvNURydDZpUlJGalJpZzNOd0ZIcXQzWGVUcDVqLWVYRC01Sk1QZldrSUk4NVdQb0RZa3laWURHQnpJbGM5ZGJwNERR?oc=5",
+      "publishedAt": "2026-09-02T18:26:56Z"
+    },
+    {
+      "id": "4",
+      "title": "Dropbox says 5,000 accounts were breached through a Lenovo login",
+      "summary": "Hackers exploited a Lenovo ID sign-in integration to access roughly 5,000 Dropbox accounts, most lacking two-factor authentication, prompting Dropbox to cut the login link and notify affected users.",
+      "category": "tech",
+      "source": "The Next Web",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1paFhranZQSDBBUDBWbXpDcHphOG42RUVja2loS1NlTWJNNzl0OHhNR19GZnJWYkVsZlpWSUVfS21MUmh6N1ZvZDZLelJRWUd1SGEwOVpHQ0k1Z29Yd3R1TXFSZURPS3V1ZlB0SjhkdG52eXVZ?oc=5",
+      "publishedAt": "2026-09-02T09:43:33Z"
+    },
+    {
+      "id": "5",
+      "title": "Anthropic changes data retention policy after pushback from customers",
+      "summary": "Anthropic revised its data retention practices following backlash from enterprise customers concerned about how their data was being stored and used.",
+      "category": "tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkcVVPMGQtbVV6Mm9JNGxwN0RVR2VLMEZOcC1pN0tPZEdpekYzR1B0ZWpvWEpPUC1LY1pYamxsclZwTko0TTFpenBNQVZoWmJ6MnhLclVpYmxVY05HQm9ya0hQcWlRN0YyVWxNakFB?oc=5",
+      "publishedAt": "2026-09-01T18:01:00Z"
+    },
+    {
+      "id": "6",
+      "title": "ISS National Lab Reaches 1,000-Payload Milestone as CASIS Celebrates 15 Years of Leadership",
+      "summary": "The ISS National Laboratory marked its 1,000th research payload as CASIS celebrated 15 years managing the station's orbital research portfolio.",
+      "category": "science",
+      "source": "PR Newswire",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQMGtBZEx0dllMRzBRbVROS3dzUnVVa1RoejFYZ2U3VmZKTU1kbWlDZldGR01QYzdxdXBPdXVzVWFXcEk5ZG13ZkhPMW51NzNqWkhEU1E3N0w4d09VOG9qRzNVZ3hJRnlOd2Mxb0gycnptaWE0aHVyNVZ1VThLUWlDOGxEcF9rUGNJSFNhaHJrWUtzVHlqMDlUY2NIYnlGVnAxa2lGN0k4UXBiVkwzQ3otNndncnlPdXQtekZGVlNwTEpIWWExQjJQbEU1cVI0WlJScmdzMzd2S3RBbVJReXpYWg?oc=5",
+      "publishedAt": "2026-09-02T15:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "New research may help astronauts avoid tummy troubles in space",
+      "summary": "New research into astronauts' gut health during spaceflight could lead to treatments that ease gastrointestinal issues on long-duration missions.",
+      "category": "science",
+      "source": "News-Graphic.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUnRhanZSN3NlbXdvVzNiaEMybGd3d1E1XzNxbTVjNGViX2tiNGp0UkZRREQwSGtmbjJ5M0FEZExfeVRvaExWb3MxRUthM0lkdElFU1BlOUI3RXR5SFdlQXJIcy1FS3BEWEstTWZIR2N1aGpxVHIzRmJFOUdXYVpMYmZOUDN1c1V0by1jZ1RTZjF2ZGpWUEE4ejRiNWIyeVA2UDZDRHd2YjlUckpXRzFOd013b0xqbFBLMDY0NERnRGZIWU9Xa1p3VTBGelR4VUxJb0pjcGplcHNJa3ZGc281SE1HRjItcGN4RVdWQTRuNFQ1TjdqcUxtWVY1NA?oc=5",
+      "publishedAt": "2026-08-31T19:45:24Z"
+    },
+    {
+      "id": "8",
+      "title": "Sony's 1+1 Special Double Feature: 'State of Play' Global + Japan Air Back-to-Back on September 3",
+      "summary": "PlayStation confirmed a global State of Play broadcast on September 3 followed immediately by a Japan-focused edition, featuring updates from PlayStation Studios and partners including an extended look at Final Fantasy VII Revelation.",
+      "category": "gaming",
+      "source": "Inven Global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNWE4zMzhQaW81YUtuYXI5UjI4RnQ0Q3kyX0dFd2huZ2JkVzczVWFwUG50WnM1WjkzaDZyb0FjU0hBamxaN3B2YldvLTVwNm4tQ3ZQTjJubm0tODVhVVM1Y2dSeE9RV210THhSV0F0S3ZrV1k0MmVPa1JOdEc5dzhLWjhKTlIwT3NUTzU0WW9LR1hsQ1hOX29HM19DZEttU3VQMkkzUUZnbWtSd0MyMDJuWFJzbS1ocmJzTjVxY0NnVXlnNEJFa1UzLVFHVzQ3QQ?oc=5",
+      "publishedAt": "2026-08-31T12:59:18Z"
+    },
+    {
+      "id": "9",
+      "title": "Supercell's acquisition of Metacore expected to close at the end of September 2026",
+      "summary": "Mobile game giant Supercell's acquisition of Finnish studio Metacore is on track to close by the end of September, expanding its portfolio in the competitive mobile gaming market.",
+      "category": "gaming",
+      "source": "GamesIndustry.biz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWURGU3FOVF9VZVQwbXNVc204WjBNNERPZDI3RGpraU9fbE1WM1NXUHRTWU52Yl85ZFNya0stYmNfMHRlc2NSSnJpVjdRV1ZtbDZEbmFQWU5GVUxYc3dVaW0wV2gtTndSM3k3QmtDVy1IeVB1dGh4SXZPbG1TUC1TTUk3eFhadm9TMWhMUHZ3ZjJqcVRaVGhiaVhURUdMU2VubXA5bk56eGgwYm12YTJvNA?oc=5",
+      "publishedAt": "2026-09-02T08:37:20Z"
+    }
+  ]
+}
