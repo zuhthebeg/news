@@ -798,6 +798,45 @@
         "motion-transfer"
       ],
       "addedAt": "2026-08-31"
+    },
+    {
+      "title": "ad-hooks",
+      "description": "광고 영상/이미지 초반 2초용 후킹 기법 17종을 이름 붙여 정리한 스킬. 제품 유형별로 어떤 훅이 맞는지 규칙까지 제공.",
+      "icon": "🪝",
+      "category": "productivity",
+      "url": "https://clawhub.ai/skills/ad-hooks",
+      "tags": [
+        "marketing",
+        "ad-copy",
+        "video-ads"
+      ],
+      "addedAt": "2026-09-02"
+    },
+    {
+      "title": "ad-library-research",
+      "description": "Meta/Google/TikTok/LinkedIn/Snap 공식 광고 라이브러리로 특정 브랜드의 실제 집행 광고를 무료로 조사. 결과를 훅·앵글로 정리.",
+      "icon": "🔍",
+      "category": "productivity",
+      "url": "https://clawhub.ai/skills/ad-library-research",
+      "tags": [
+        "marketing",
+        "competitor-research",
+        "ads"
+      ],
+      "addedAt": "2026-09-02"
+    },
+    {
+      "title": "元忆 yotta-memory",
+      "description": "권한 경계가 있는 파일 기반 에이전트 메모리 스킬. Markdown+diff/롤백 가능, FACT(공유)/PREF·BOUND·COMMIT(비공개) 타입 체계로 세션 간 기억 유지.",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://clawhub.ai/skills/yotta-memory",
+      "tags": [
+        "agent-memory",
+        "file-based",
+        "openclaw"
+      ],
+      "addedAt": "2026-09-02"
     }
   ]
 }
