@@ -81,6 +81,51 @@
       "source": "Polygon.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVTVJSFQ0LVhsTFNPSTRMWElJTTlEU0w1eWtFVlJMekdqa2hFcWdNWmZteF9VeU1nM3dRNnZPQTJuaVg2bkNmWFY0OVdTd2dkN0tibmRQLTdPb1dBOFBzZ0I5N3lpNmxjLW1fSEl1cmZ5OTZaVWdIeVJ5dWFCZ2lhdnpaRk5pSDY1VWVDdk5KWHA?oc=5",
       "publishedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "MiDashengLM-Gen — LLM 기반 통합 오디오씬 생성 모델 공개",
+      "summary": "[Audio] 샤오미 Dasheng팀이 8월 12일 공개한 오디오 생성 모델. Qwen3-1.7B 백본+플로우매칭으로 대사·SFX·음악·환경음을 한 번에 섞어 하나의 오디오씬으로 생성(HF createdAt 2026-08-12, license apache-2.0 확인). cocy.io에서 쓸모: MOSS-SoundEffect(단일 SFX 전용) 파이프라인을 보완해 '컷신 오디오 한방 생성' 실험 후보.",
+      "category": "ai-tech",
+      "source": "HuggingFace / mispeech",
+      "sourceUrl": "https://huggingface.co/mispeech/midashenglm-gen",
+      "publishedAt": "2026-08-12T08:51:02Z"
+    },
+    {
+      "id": "11",
+      "title": "ACE-Step, WebGPU로 브라우저에서 직접 도는 포트 등장",
+      "summary": "[Edge][Audio] FluidInference가 8월 23일 공개한 ACE-Step WebGPU 포트. 서버 없이 브라우저에서 텍스트→음악 생성이 돈다(HF createdAt 2026-08-23, license mit 확인). cocy.io에서 쓸모: 이미 게임 BGM 표준 파이프라인인 ACE-Step을 서버비용 0으로 어드민/게임 페이지에 즉석 BGM 생성기로 붙이는 실험 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace / FluidInference",
+      "sourceUrl": "https://huggingface.co/FluidInference/ace-step-webgpu-models",
+      "publishedAt": "2026-08-23T02:21:28Z"
+    },
+    {
+      "id": "12",
+      "title": "FLUX.2 Klein 4B — 소비자 GPU 겨냥한 경량 이미지 생성 모델",
+      "summary": "[Image] Black Forest Labs가 1월 공개, 2월 말 업데이트한 40억 파라미터 경량 이미지 생성/편집 모델. 서브초 생성 최적화(HF createdAt 2026-01-14, lastModified 2026-02-24, license apache-2.0 확인). cocy.io에서 쓸모: 3080Ti(12GB)에서 현재 쓰는 FLUX.1-dev GGUF보다 가벼운 카드아트 생성 대안으로 벤치마크할 가치.",
+      "category": "ai-tech",
+      "source": "HuggingFace / black-forest-labs",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "publishedAt": "2026-02-24T00:18:56Z"
+    },
+    {
+      "id": "13",
+      "title": "FLUX.2 Klein 4B, WebGPU/ONNX 브라우저 실행 포트 공개",
+      "summary": "[Image][Edge] 8월 30일 커뮤니티가 올린 FLUX.2 Klein 4B의 WebGPU/ONNX 포트, 원 모델 라이선스 상속(HF createdAt 2026-08-30, license apache-2.0 확인). cocy.io에서 쓸모: 어드민 페이지에 서버 GPU 없이 브라우저에서 바로 카드아트 시안을 뽑는 미리보기 도구로 붙여볼 만함.",
+      "category": "ai-tech",
+      "source": "HuggingFace / cgb",
+      "sourceUrl": "https://huggingface.co/cgb/flux2-klein-4b-onnx-webgpu",
+      "publishedAt": "2026-08-30T22:21:35Z"
+    },
+    {
+      "id": "14",
+      "title": "Lightricks LTX-2.5 — 텍스트/이미지→동기화 비디오+오디오 월드모델",
+      "summary": "[Video] Lightricks가 7월 23일 공개하고 9월 1일에도 가중치를 계속 업데이트 중인 오픈웨이트 비디오 생성 모델, 영상과 오디오를 동시 생성. 라이선스는 apache/mit이 아닌 자체 커스텀(매출 기준 조건부 상업허용 문구 확인, 정확한 임계값은 LICENSE.md 원문 확인 필요) — 라이선스 미확인으로 분류. cocy.io에서 쓸모: 캐릭터 워크루프/I2V 파이프라인(LTX-2.3 기반) 다음 버전 후보이나 상업 적용 전 라이선스 원문 재확인 필수.",
+      "category": "ai-tech",
+      "source": "HuggingFace / Lightricks",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5",
+      "publishedAt": "2026-07-23T07:55:24Z"
     }
   ]
 }
