@@ -99,6 +99,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/litert-community/Neo_Dragon",
       "publishedAt": "2026-09-02T14:51:29Z"
+    },
+    {
+      "id": "12",
+      "title": "허깅페이스, 브라우저 WebGPU 커널 207개 오픈소스 라이브러리 '@huggingface/kernels' 공개",
+      "summary": "[Edge] 허깅페이스 WebAI팀이 브라우저 온디바이스 AI 추론을 가속하는 WebGPU 커널 207개와 이를 로드하는 JS 라이브러리 '@huggingface/kernels'를 공개했다(HF 블로그 확인: 게시일 2026-09-01, 갱신 2026-09-02 — 이번 주 공개). 각 커널은 셰이더 템플릿·정확성 테스트·벤치마크 케이스를 포함한 버전관리 패키지로 huggingface.co/webgpu-kernels 조직에 올라왔고, 실기기에서 커널 성능/정확성을 테스트하는 'Fleet' 벤치마크 스위트도 함께 나왔다. 라이선스는 Apache-2.0(HF 블로그 명시)으로 상업적 사용 제약이 없다. cocy.io에서 쓸모: page.cocy.io 같은 브라우저 도구에서 서버 없이 클라이언트 GPU로 이미지/오디오 전처리를 돌릴 때 검증된 WebGPU 커널을 바로 가져다 써서 자체 셰이더 최적화 비용을 줄일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels",
+      "publishedAt": "2026-09-01T17:02:12Z"
+    },
+    {
+      "id": "13",
+      "title": "알리바바 통이랩, 6B 이미지 생성 모델 'Z-Image-Turbo' 증류판 공개 — 16GB급 소비자 GPU 대응",
+      "summary": "[Image] 알리바바 Tongyi-MAI팀의 6B 파라미터 이미지 생성 모델 'Z-Image' 계열 중 증류판 'Z-Image-Turbo'가 8 NFE(추론 단계)만으로 서브초 추론을 내며 16GB급 소비자 GPU에서 돌아간다고 모델카드가 명시했다(HF API 확인: 최초 공개 2025-11-25, 최근 업데이트 2026-01-30). 영어·중국어 이중언어 텍스트 렌더링과 지시문 충실도가 강점이다. 라이선스는 Apache-2.0(HF API 확인)으로 상업적 사용이 가능하다. cocy.io에서 쓸모: 3080Ti 12GB에서는 양자화(fp8/int8)가 필요할 수 있지만, 로컬 SDXL/LuminarQMix 파이프라인 대신 텍스트 합성 품질이 필요한 프로모 이미지 생성에 시험해볼 대안이다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2025-11-25T15:09:48Z"
+    },
+    {
+      "id": "14",
+      "title": "OpenMOSS팀, 환경음·효과음 전용 오픈소스 모델 'MOSS-SoundEffect' 공개",
+      "summary": "[Audio] 상하이 MOSI.AI/OpenMOSS팀이 공개한 'MOSS-TTS Family' 중 환경음·효과음 전용 모델 'MOSS-SoundEffect'가 텍스트 설명만으로 배경 사운드스케이프와 구체적 효과음을 생성한다(HF API 확인: 최초 공개 2026-02-08, 최근 업데이트 2026-03-13). 장시간 안정적 음성 생성에 강한 형제 모델 MOSS-TTS 등 5개 모델로 구성된 프로덕션 파이프라인의 일부다. 라이선스는 Apache-2.0(HF API 확인)으로 상업적 사용이 가능하다. cocy.io에서 쓸모: TangoFlux로 커버 못 하는 환경음/앰비언스 SFX를 추가 옵션으로 로컬 검증해볼 수 있다(3080Ti 12GB 기준 실측 VRAM은 모델카드에 미기재, 별도 확인 필요).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect",
+      "publishedAt": "2026-02-08T17:44:45Z"
+    },
+    {
+      "id": "15",
+      "title": "MS 리서치, 이미지→3D 에셋 생성 모델 'TRELLIS.2-4B' 공개 — PBR 재질까지 지원",
+      "summary": "[Tool] 마이크로소프트 리서치의 이미지→3D 생성 모델 'TRELLIS.2-4B'가 필드리스(field-free) 희소 복셀 구조 'O-Voxel'과 40억 파라미터 플로우매칭 트랜스포머로 복잡한 위상·PBR(투명/반투명 포함) 재질까지 담은 3D 에셋을 이미지 한 장에서 생성한다(HF API 확인: 최초 공개 2025-12-01, 최근 업데이트 2025-12-27). 라이선스는 MIT(HF API 확인)로 상업적 사용 제약이 없다. cocy.io에서 쓸모: SDXL로 뽑은 캐릭터/아이템 컨셉 이미지를 바로 3D 프리뷰 에셋으로 변환하는 실험용 로컬 파이프라인 후보로, games 프로젝트의 3D 목업 제작 시간을 줄일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/microsoft/TRELLIS.2-4B",
+      "publishedAt": "2025-12-01T02:25:40Z"
+    },
+    {
+      "id": "16",
+      "title": "Neuphonic, 0.5B 온디바이스 TTS 모델 'NeuTTS Air' 업데이트 — 3초 음성으로 즉석 클로닝",
+      "summary": "[Audio] 영국 Neuphonic이 공개한 온디바이스 TTS 모델 'NeuTTS Air'는 Qwen 0.5B 백본과 자체 오디오 코덱 NeuCodec을 얹어 3초 분량 음성만으로 즉석 화자 클로닝을 지원하며, GGML/GGUF(Q4·Q8) 포맷으로 폰·라즈베리파이 등에서 로컬 구동된다(HF API 확인: 최초 공개 2025-09-15, 최근 업데이트 2026-08-26). 라이선스는 Apache-2.0(HF API 확인)으로 상업적 사용이 가능하다. cocy.io에서 쓸모: 서버 TTS 비용 없이 앱 내 클라이언트 기기에서 즉석 캐릭터 보이스·나레이션을 생성하는 온디바이스 보이스 기능 실험에 바로 붙여볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/neuphonic/neutts-air",
+      "publishedAt": "2025-09-15T14:30:42Z"
     }
   ]
 }
