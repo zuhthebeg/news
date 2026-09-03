@@ -81,6 +81,24 @@
       "source": "GamesIndustry.biz",
       "sourceUrl": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPWURGU3FOVF9VZVQwbXNVc204WjBNNERPZDI3RGpraU9fbE1WM1NXUHRTWU52Yl85ZFNya0stYmNfMHRlc2NSSnJpVjdRV1ZtbDZEbmFQWU5GVUxYc3dVaW0wV2gtTndSM3k3QmtDVy1IeVB1dGh4SXZPbG1TUC1TTUk3eFhadm9TMWhMUHZ3ZjJqcVRaVGhiaVhURUdMU2VubXA5bk56eGgwYm12YTJvNA?oc=5",
       "publishedAt": "2026-09-02T08:37:20Z"
+    },
+    {
+      "id": "10",
+      "title": "AI 픽셀아트를 게임용 스프라이트로 자동 정리해주는 오픈소스 툴 'Pixel Refiner' 공개",
+      "summary": "[Tool] AI로 생성한 픽셀아트 이미지의 안티에일리어싱, 불규칙한 픽셀 그리드, 지저분한 배경을 브라우저에서 로컬로 자동 정리해 바로 쓸 수 있는 스프라이트로 변환해주는 무료 오픈소스 툴이 공개됐다. 그리드 자동 감지, 레트로 콘솔 팔레트 축소, 투명 배경 최적화, 디더링/아웃라인 생성을 지원하며 서버 업로드 없이 전부 브라우저에서 처리된다. 라이선스는 MIT로 상업적 사용 제약이 없다. cocy.io에서 쓸모: SDXL/LuminarQMix로 뽑은 픽셀아트풍 게임 스프라이트를 엔진에 넣기 전 후처리 자동화 단계로 붙이면 game.cocy.io 에셋 파이프라인의 수작업 정리 비용을 줄일 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub / Reddit r/aigamedev",
+      "sourceUrl": "https://github.com/HappyOnigiri/PixelRefiner",
+      "publishedAt": "2026-08-19T12:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "퀄컴 Neodragon 온디바이스 텍스트→비디오 모델, LiteRT(.tflite) 변환판 공개",
+      "summary": "[Edge] 퀄컴 AI리서치가 만든 1.5B DiT 기반 텍스트→비디오 모델 'Neodragon'이 안드로이드에서 네트워크·서버 없이 완전히 온디바이스로 구동되는 LiteRT(.tflite) 포맷으로 변환돼 공개됐다. 320×512 해상도 9프레임 클립을 기기 내에서 생성하며 오프라인 안드로이드 앱 'Box'에 탑재됐다. 라이선스는 BSD-3-Clause-Clear 기반이지만 퀄컴 책임있는 AI 사용 정책(생성물 AI 표시 의무, 군사·감정인식 등 금지 용도)이 함께 적용돼 상업 이용 시 조건을 확인해야 한다. cocy.io에서 쓸모: 서버 비용 없이 모바일 앱 안에서 짧은 비디오 프리뷰나 에셋을 즉석 생성하는 엣지 추론 파이프라인을 설계할 때 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/litert-community/Neo_Dragon",
+      "publishedAt": "2026-09-02T14:51:29Z"
     }
   ]
 }

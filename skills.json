@@ -837,6 +837,32 @@
         "openclaw"
       ],
       "addedAt": "2026-09-02"
+    },
+    {
+      "title": "ClawCall",
+      "description": "AI 에이전트가 실제 미국 전화를 대신 걸어주는 스킬. 통화 목적과 배경정보만 브리핑하면 음성 AI가 전화를 걸어 IVR·대기시간까지 처리하고 녹취록과 결과를 돌려준다.",
+      "icon": "📞",
+      "category": "productivity",
+      "url": "https://clawhub.ai/clawcall-dev/skills/clawcall-dev",
+      "tags": [
+        "phone-call",
+        "voice-ai",
+        "automation"
+      ],
+      "addedAt": "2026-09-03"
+    },
+    {
+      "title": "HyperFrames CLI",
+      "description": "npx hyperframes 명령으로 모션 카탈로그 검색부터 프리뷰·렌더링까지 다루는 영상 제작 CLI. 코드로 영상 컴포지션을 만들고 로컬/클라우드 렌더링을 지원한다.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://clawhub.ai/skills-sh/heygen-com/hyperframes/hyperframes-cli",
+      "tags": [
+        "video-generation",
+        "cli",
+        "render"
+      ],
+      "addedAt": "2026-09-03"
     }
   ]
 }
