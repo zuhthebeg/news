@@ -863,6 +863,20 @@
         "render"
       ],
       "addedAt": "2026-09-03"
+    },
+    {
+      "title": "Archify",
+      "description": "코드베이스나 시스템 설명을 타입 지정 JSON IR로 뽑아 결정론적으로 검증 가능한 아키텍처/워크플로/시퀀스/데이터플로 다이어그램(HTML·SVG·PNG·WebM)으로 렌더링하는 스킬. Cursor·Claude Code·Codex CLI·OpenCode에서 동작하며 이번 주 GitHub 트렌딩 1위(2.4만+ 스타).",
+      "icon": "🗺️",
+      "category": "dev",
+      "url": "https://github.com/tt-a1i/archify",
+      "tags": [
+        "diagram",
+        "architecture",
+        "agent-skill",
+        "visualization"
+      ],
+      "addedAt": "2026-09-04"
     }
   ]
 }
