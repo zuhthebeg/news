@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-04",
+  "articles": [
+    {
+      "id": "1",
+      "title": "티빙, 3954만 계정 개인정보 유출 사고… 1인당 체감 2만원 보상 발표",
+      "summary": "정부 민관합동조사단이 OTT 티빙의 개인정보 유출 사고 조사 결과를 발표했다. 유출 계정은 중복 포함 3954만697개(활성 2206만·휴면 850만·탈퇴 887만)로, 아이디·이름·휴대전화번호·이메일·생년월일·CI·DI·환불계좌 등이 포함됐다. 티빙은 공식 사과하며 탈퇴·휴면 이용자를 포함해 1인당 체감 2만원 수준의 보상안을 내놨다.",
+      "category": "domestic",
+      "source": "디지털데일리",
+      "sourceUrl": "https://n.news.naver.com/mnews/ranking/article/138/0002240145?ntype=RANKING",
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "8월 외환보유액 4422.8억달러…증가 폭 역대 최대",
+      "summary": "한국은행에 따르면 8월 말 외환보유액이 4422.8억달러로 집계돼 월간 증가 폭이 역대 최대를 기록했다. 달러 약세에 따른 유가증권 평가액 상승과 운용수익 증가가 주요 요인으로 꼽힌다.",
+      "category": "economy",
+      "source": "아이뉴스24",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/031/0001054916",
+      "publishedAt": "2026-09-02T21:01:00Z"
+    },
+    {
+      "id": "3",
+      "title": "네팔·티베트 대홍수 사망자 1,300명 수준…실종자도 5천명대",
+      "summary": "네팔과 중국 티베트 지역을 덮친 대홍수로 인한 사망자가 네팔 1,259명, 티베트 21명 등 약 1,300명에 달하는 것으로 파악됐다. 실종자도 네팔 5,083명, 티베트 541명 등 5천명을 넘겼다. 현지에 체류하던 한국인 9명도 여전히 연락이 두절된 상태이며, 수력발전소 터널에 갇힌 인원에 대한 구조 작업이 이어지고 있다.",
+      "category": "world",
+      "source": "YTN",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/422/0000902666",
+      "publishedAt": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "GPU 사재기 끝나니 CPU 씨가 말랐네",
+      "summary": "AI 붐으로 촉발된 GPU 확보 경쟁이 잦아드는 사이 이번엔 CPU 공급 부족이 IT 업계의 새로운 병목으로 떠올랐다. 서버·PC 제조사들이 반도체 조달난에 직면하면서 보드·부품 수급 전반에 영향이 번지고 있다.",
+      "category": "tech",
+      "source": "디지털데일리",
+      "sourceUrl": "https://n.news.naver.com/mnews/hotissue/article/138/0002239965?type=series&cid=2001427",
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Nvidia CEO Pledges $1 Trillion for U.S. AI Infrastructure",
+      "summary": "엔비디아 젠슨 황 CEO가 미국 AI 인프라 구축에 1조달러 규모의 투자를 공언하며 AI를 전기·수도와 같은 필수 유틸리티에 비유했다. 데이터센터 확충을 둘러싼 전력 수요 논쟁이 커지는 가운데 나온 발언이다.",
+      "category": "tech",
+      "source": "Seoul Economic Daily (Global Morning Briefing)",
+      "sourceUrl": "https://en.sedaily.com/international/2026/09/04/nvidia-ceo-pledges-1-trillion-for-us-ai-infrastructure",
+      "publishedAt": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "토성 남극서 신비로운 10각형 구름 발견",
+      "summary": "스페인 바스크대 아구스틴 산체스-라베가 교수 연구진이 토성 남극 주변에서 거대한 10각형 모양의 구름 구조를 새롭게 발견해 국제 학술지에 발표했다. 토성 북극의 유명한 육각형 구름 구조에 이은 두 번째 다각형 구름 발견 사례다.",
+      "category": "science",
+      "source": "동아사이언스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/092/0002436194",
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "위고비 맞은 생쥐, 92일 더 살았다…수명 연장 효과",
+      "summary": "美 UC버클리 연구팀이 국제학술지 네이처에 발표한 연구에 따르면, 비만치료제 위고비·당뇨병 치료제 오젬픽의 주성분인 세마글루타이드를 투여한 생쥐가 대조군보다 92일 더 오래 살았다. 신체 기능이 개선되고 염증 수치가 줄어든 것으로 나타났으며, 사람에 대한 효과는 장기 연구가 필요하다.",
+      "category": "science",
+      "source": "동아일보",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/020/0003745713",
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "컴투스 '제우스' 구글·애플 마켓 매출 1위…새 캐시카우 될까",
+      "summary": "에이버튼이 개발하고 컴투스가 퍼블리싱한 신작 '제우스: 오만의 신'이 출시 18시간 만에 국내 양대 앱마켓(구글플레이·앱스토어) 매출 1위에 올랐다. 3분기 일평균 매출은 약 15억원으로 추정되며, '서머너즈 워'를 잇는 흥행작이 될지 주목된다.",
+      "category": "gaming",
+      "source": "뉴시스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/003/0014168556",
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "State of Play September 2026: Everything Announced",
+      "summary": "소니의 9월 State of Play 방송에서 '파이널판타지7 리벨레이션' 확장 공개 및 출시일 확정, '크림슨 데저트' 첫 확장팩, '언틸던 2'·'메트로 2039' 출시일, GTA6 테마 듀얼센스 컨트롤러 등 PS5 신작·DLC 소식이 대거 공개됐다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/sony-playstation-state-of-play-september-2026-everything-announced",
+      "publishedAt": "2026-09-03T00:00:00Z"
+    }
+  ]
+}
