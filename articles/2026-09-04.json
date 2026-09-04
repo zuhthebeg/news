@@ -81,6 +81,51 @@
       "source": "IGN",
       "sourceUrl": "https://www.ign.com/articles/sony-playstation-state-of-play-september-2026-everything-announced",
       "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "0.5B 경량 멀티모달 오디오 생성모델 'Vibe' 공개 — 영상만 넣어도 배경음악 생성",
+      "summary": "[Audio][Edge] MiniCPM4-0.5B 기반 초경량 멀티모달 오디오 생성모델 'Vibe'가 공개됐다(HF API 확인: createdAt 2026-08-31, license apache-2.0 — 이번 주 공개). 텍스트→음악, 영상→음악, 텍스트+영상→오디오를 한 모델로 처리하며 파라미터가 5억 개 수준이라 3080Ti는 물론 CPU 추론도 가능하다. cocy.io에서 쓸모: 게임/영상 클립에 배경음악을 자동으로 붙이는 프로토타입에 바로 실험해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/aryanvibhosale/vibe",
+      "publishedAt": "2026-09-04T03:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "1.2억 파라미터 온디바이스 스트리밍 보이스클로닝 TTS 'Sopro v2 Turbo' 공개",
+      "summary": "[Audio][Edge] 121M 파라미터급 온디바이스 스트리밍 TTS 'Sopro v2 Turbo'가 8월 25일 공개, 9월 1일 업데이트됐다(HF API 확인: license apache-2.0). 영어·포르투갈어·프랑스어·독일어를 지원하고 실시간 스트리밍과 보이스클로닝을 동시에 제공한다. cocy.io에서 쓸모: 서버 API 호출 없이 로컬에서 캐릭터 음성을 저지연으로 뽑는 나레이션 후보로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/samuel-vitorino/sopro-v2-turbo",
+      "publishedAt": "2026-09-04T03:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "영상 12프레임만으로 실시간 3D 재구성하는 스트리밍 모델 'ABot-Recon' 공개",
+      "summary": "[Image][Tool] 알리바바 연구팀(amap-cvlab)의 스트리밍 3D 재구성 모델 'ABot-Recon'이 8월 26일 공개됐다(HF API 확인: license apache-2.0). 고정 12프레임 로컬 컨텍스트만으로 카메라 궤적과 장면 지오메트리를 온라인 추정해 긴 영상도 순차 합성으로 3D화한다. cocy.io에서 쓸모: 레퍼런스 영상이나 실사 촬영분을 3D 배경/에셋으로 변환하는 파이프라인에 실험해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/acvlab/ABot-Recon",
+      "publishedAt": "2026-09-04T03:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "MiniMax-H3 기반 인터랙티브 게임 월드모델 LoRA 'H3-World' 공개",
+      "summary": "[Video][Tool] 키보드 액션 입력으로 다음 프레임을 생성하는 인터랙티브 게임 월드모델 LoRA 'H3-World'가 이번 주 공개됐다(HF API 확인: createdAt 2026-08-31). LoRA 자체 태그는 apache-2.0이지만 구동에 필요한 베이스 모델 MiniMax-H3는 별도의 커뮤니티 라이선스가 적용돼 상업적 사용 조건은 라이선스 미확인. cocy.io에서 쓸모: 이미지 한 장 + 액션 입력만으로 플레이 가능한 월드를 만드는 실험적 게임 프로토타입 리서치 자료로 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/DANNY621/H3-World",
+      "publishedAt": "2026-09-04T03:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "ONNX 기반 실시간 배경소음·화자 억제 모델 'Hush'",
+      "summary": "[Audio][Tool] 실시간 음성 노이즈 캔슬링 모델 'Hush'는 ONNX로 배포돼 CPU에서도 실시간 구동되며 다국어를 지원한다(HF API 확인: license apache-2.0, 최초 공개 2026년 3월). cocy.io에서 쓸모: 사용자 제보 음성이나 콘텐츠 녹음분의 배경소음을 실시간 정리해 TTS 학습용 클린 오디오를 확보하는 전처리 도구로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/weya-ai/hush",
+      "publishedAt": "2026-09-04T03:00:00Z"
     }
   ]
 }
