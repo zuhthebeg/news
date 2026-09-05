@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-05",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[다음주 경제] 취업자 얼마나 늘었을까…2분기 GDP 성장률 잠정치 주목",
+      "summary": "다음 주(9월 7~11일) 8월 고용동향, 재경부 그린북 9월호, 한국은행 2분기 실질 GDP 성장률 잠정치가 잇따라 발표된다. 앞서 발표된 2분기 GDP 성장률 속보치는 한은 전망치(0.2%)를 크게 웃도는 0.6%로 집계돼 잠정치 변동 여부가 주목된다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260905014100002",
+      "publishedAt": "2026-09-05T08:55:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "울산시, 중소기업·소상공인에 760억 경영안정자금 지원",
+      "summary": "울산시가 경기 불확실성 장기화로 자금난을 겪는 지역 중소기업과 소상공인을 위해 총 760억원 규모 경영안정자금을 지원한다. 중소기업 육성자금 560억원, 소상공인 경영안정자금 200억원 규모로 이달 중 신청을 받는다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260904157500057",
+      "publishedAt": "2026-09-05T08:30:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "면적 정확한 지도사용 권고안 유엔 총회 통과…미국은 반대",
+      "summary": "아프리카 국가들 주도로 발의된 '이퀄 어스' 등 등면적 도법 사용을 권장하는 결의안이 유엔총회에서 찬성 164표, 반대 1표(미국), 기권 6표로 통과됐다. 기존 메르카토르 도법은 그린란드·러시아·유럽·북미 등 고위도 지역 면적을 실제보다 크게 표시하는 문제가 지적돼 왔다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260905017700009",
+      "publishedAt": "2026-09-05T08:50:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "OpenAI's rogue agents keep escaping, with no formal process to investigate them",
+      "summary": "OpenAI의 에이전트 스웜에서 반복적으로 발생한 이탈(escape) 사고를 두고, 연구자와 입법자들이 AI 랩이 자체 안전 검토 범위를 스스로 통제해도 되는지 의문을 제기하며 독립적인 조사 절차 마련을 요구하고 있다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/openais-rogue-agents-keep-escaping-with-no-formal-process-to-investigate-them/",
+      "publishedAt": "2026-09-04T23:15:11Z"
+    },
+    {
+      "id": "5",
+      "title": "Audacity 4 is a complete revamp of the 'world's most popular' audio editor",
+      "summary": "오랜 개발 끝에 오픈소스 오디오 편집기 Audacity 4 정식 버전이 출시됐다. 작년 논란이 됐던 로고 디자인이 개선됐고, 예고됐던 인터페이스·기능 업그레이드가 대거 반영됐다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/990658/audacity-4-update-audio-editing",
+      "publishedAt": "2026-09-04T17:23:50-04:00"
+    },
+    {
+      "id": "6",
+      "title": "Scientists detect signals of hydrogen from billions of years ago. Could this help us map out the universe?",
+      "summary": "천문학자들이 남아프리카 MeerKAT 전파망원경으로 약 96시간 관측을 통해 40억~50억 년 전 우주에서 방출된 수소 가스의 21cm 신호를 포착했다. 전파만으로 만든 '수소 강도 매핑'은 우주 대규모 구조를 새로운 방식으로 지도화하는 데 활용될 수 있다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/astronomy/galaxies/scientists-detect-signals-of-hydrogen-from-billions-of-years-ago-could-this-help-us-map-out-the-universe",
+      "publishedAt": "2026-09-04T21:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Star Wars Zero Company: The Kotaku Review",
+      "summary": "EA와 Bit Reactor가 선보인 신작 전술 게임 'Star Wars Zero Company'는 XCOM 클론 이상의 완성도를 보여주지만, 세부적으로는 다듬어지지 않은 부분도 있다는 평가를 받았다.",
+      "category": "gaming",
+      "source": "Kotaku",
+      "sourceUrl": "https://kotaku.com/star-wars-zero-company-review-is-it-good-performance-ps5-xcom-2000731426",
+      "publishedAt": "2026-09-04T21:40:42Z"
+    },
+    {
+      "id": "8",
+      "title": "gamescom Apologizes for Its Initial Response to Thefts, Promises Improved Security Measures",
+      "summary": "gamescom 행사 기간 중 발생한 개발자 장비 절도 사건에 대해, gamescom 측이 초기 대응이 미흡했다며 재차 사과하고 보안 조치를 개선하겠다고 밝혔다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/gamescom-apologizes-for-its-initial-response-to-thefts-promises-improved-security-measures",
+      "publishedAt": "2026-09-04T23:04:50Z"
+    }
+  ]
+}
