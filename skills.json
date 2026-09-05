@@ -877,6 +877,24 @@
         "visualization"
       ],
       "addedAt": "2026-09-04"
+    },
+    {
+      "title": "Chronos",
+      "description": "코딩 에이전트에게 훅 기반 원장(ledger)으로 시간 감각을 부여하는 스킬. 세션 간격·경과 시간을 추적해 '방금 전' 같은 시점 착각을 줄여준다.",
+      "icon": "⏱️",
+      "category": "dev",
+      "url": "https://clawhub.ai/othmanadi/skills/chronos",
+      "tags": ["agent-memory", "time-tracking", "coding-agent"],
+      "addedAt": "2026-09-05"
+    },
+    {
+      "title": "Watch CLI",
+      "description": "소셜 영상 링크 하나로 아키텍처 다이어그램과 동작하는 컴포넌트 코드를 뽑아내는 리서치 스킬. 튜토리얼 영상을 바로 실행 가능한 코드로 변환한다.",
+      "icon": "🎥",
+      "category": "dev",
+      "url": "https://clawhub.ai/sonpiaz/skills/watch-cli",
+      "tags": ["video-analysis", "code-generation", "research"],
+      "addedAt": "2026-09-05"
     }
   ]
 }
