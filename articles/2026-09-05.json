@@ -81,6 +81,42 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/inclusionAI/LLaDA-Image",
       "publishedAt": "2026-08-28T02:18:25Z"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] Xiaomi MiLM Plus, 대사·음악·SFX·환경음 통합 생성 모델 'MiDashengLM-Gen' 공개",
+      "summary": "[Audio] Xiaomi MiLM Plus가 Qwen3-1.7B 백본에 조건부 플로우 매칭과 Vocos 보코더를 결합한 오디오 씬 생성 모델 MiDashengLM-Gen을 Apache-2.0으로 공개했다(HF API 확인: createdAt 2026-08-12, license apache-2.0, 원본 mispeech/midashenglm-gen). 구조화 캡션 한 번으로 대사·음악·효과음·환경음이 섞인 16kHz 오디오 씬을 1~20초 길이로 생성한다. cocy.io에서 쓸모: 게임 배경 씬(예: 시장 소음+대사+BGM)을 TangoFlux/ACE-Step으로 따로 뽑던 걸 한 번에 초안으로 뽑아보는 용도로 테스트할 만하다. 백본이 1.7B급이라 3080Ti(12GB)에서 무리 없이 구동 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/mispeech/midashenglm-gen",
+      "publishedAt": "2026-08-12T08:51:02Z"
+    },
+    {
+      "id": "11",
+      "title": "[Edge] Qualcomm Neodragon 온디바이스 텍스트→비디오, LiteRT(.tflite) 변환판 공개",
+      "summary": "[Edge] Qualcomm AI Research의 온디바이스 텍스트→비디오 모델 Neodragon이 litert-community를 통해 안드로이드용 LiteRT(.tflite) 포맷으로 변환 공개됐다(HF API 확인: createdAt 2026-09-02, license BSD-3-Clause-Clear + Qualcomm Responsible AI License 병행 — 군사·생체인식·감정인식 등 특정 용도만 금지, 일반 상업 이용은 허용). 네트워크 연결 없이 안드로이드 기기에서 320x512 클립을 생성한다. cocy.io에서 쓸모: 서버 비용 없는 모바일 오프라인 데모(예: 전시/부스용 미니 트레일러 생성기) 라이선스 구조를 참고할 사례. 단 안드로이드 온디바이스 전용이라 3080Ti 데스크톱 워크플로엔 그대로 못 쓴다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/litert-community/Neo_Dragon",
+      "publishedAt": "2026-09-02T14:51:29Z"
+    },
+    {
+      "id": "12",
+      "title": "[Tool] 허깅페이스, 브라우저 로컬 추론용 WebGPU 커널 207종 '@huggingface/kernels' 공개",
+      "summary": "[Tool] Hugging Face WebAI 팀이 브라우저 내 로컬 추론 가속을 위한 최적화 WebGPU 커널 207개와 이를 불러오는 JS 로더 @huggingface/kernels를 공개했다(Apache-2.0, HF 블로그 확인: 발표일 2026-09-01). 커널마다 셰이더·정확성 테스트·벤치마크가 Hub에 버전관리되고, 브라우저 GPU 벤치마크 도구 'Fleet'도 함께 나왔다. cocy.io에서 쓸모: game.cocy.io 웹 게임에 브라우저 내 로컬 추론(클라이언트 사이드 이미지 업스케일·음성 인식 등)을 붙일 때 Transformers.js와 함께 참고할 저수준 가속 레이어.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels",
+      "publishedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "[Audio] 마이크로소프트 장문·다화자 TTS 'VibeVoice-1.5B', MIT 라이선스로 공개 유지",
+      "summary": "[Audio] 마이크로소프트의 오픈 TTS 모델 VibeVoice-1.5B는 MIT 라이선스로 공개돼 있으며(HF API 확인: createdAt 2025-08-25, lastModified 2026-01-22, license mit), 여러 화자가 등장하는 장문 대사를 자연스러운 억양으로 합성하는 데 특화됐다. cocy.io에서 쓸모: 여러 캐릭터가 나오는 게임 컷씬 대사를 CosyVoice3 클로닝과 별도로, 화자 전환이 잦은 장면의 대안 후보로 테스트. 1.5B급이라 3080Ti(12GB)에서 무리 없이 구동 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/microsoft/VibeVoice-1.5B",
+      "publishedAt": "2025-08-25T13:46:48Z"
     }
   ]
 }
