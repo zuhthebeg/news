@@ -117,6 +117,78 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/microsoft/VibeVoice-1.5B",
       "publishedAt": "2025-08-25T13:46:48Z"
+    },
+    {
+      "id": "14",
+      "title": "이재명 대통령, 6~9일 프랑스 국빈방문…마크롱과 '뤼미에르 서밋' 공동주재",
+      "summary": "이재명 대통령이 마크롱 프랑스 대통령의 초청으로 9월 6~9일 프랑스를 국빈 방문한다. 7일 국제 영화·영상 정상회의 '뤼미에르 서밋'을 공동주재하고 8~9일 파리에서 정상회담을 열어 안보·경제·AI·우주 등 협력 확대를 논의할 예정이다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202609041125291122",
+      "publishedAt": "2026-09-04T11:35:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "구윤철 부총리, 시장상황점검회의 개최…\"금리상승 압력 지속\"",
+      "summary": "구윤철 부총리 겸 재정경제부 장관이 전국은행연합회관에서 관계기관 합동 시장상황점검회의를 열어 국내외 금융·외환·부동산시장 동향을 점검했다. 주요국 국채발행 증가와 중동 긴장에 따른 유가 상승으로 금리상승 압력이 지속되고 있다고 평가하고 채권시장을 안정적으로 관리해 나가기로 했다.",
+      "category": "economy",
+      "source": "뉴스서울",
+      "sourceUrl": "https://newsseoul.co.kr/news/view/1065579616587651",
+      "publishedAt": "2026-09-04T11:10:27+09:00"
+    },
+    {
+      "id": "16",
+      "title": "북한 공작원 지령받고 탈북민·軍정보 수집한 40대, 징역 5년",
+      "summary": "서울중앙지법이 국가보안법상 간첩 등 혐의로 기소된 40대 남성에게 징역 5년과 자격정지 5년을 선고했다. 그는 북한 공작원의 지령을 받아 탈북민 신상정보와 현역 장교 정보를 수집하고 그 대가로 가상화폐 6억6000만원 상당을 받은 것으로 조사됐다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202609051350001/",
+      "publishedAt": "2026-09-05T13:50:00+09:00"
+    },
+    {
+      "id": "17",
+      "title": "구글, 실공격 확인된 크롬 V8 제로데이 등 취약점 12건 긴급 패치",
+      "summary": "구글이 크롬 152 업데이트로 실제 공격에 악용된 V8 엔진 타입 컨퓨전 취약점(CVE-2026-85046)을 포함해 12건의 보안 결함을 패치했다. 올해 들어 여섯 번째로 실공격이 확인된 크롬 제로데이로, 미 CISA는 연방기관에 9월 18일까지 패치를 의무화했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/google-releases-chrome-update-to-patch.html",
+      "publishedAt": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "MS 팀즈 데스크톱 클라이언트 실행 장애, 마이크로소프트 원인 조사 중",
+      "summary": "일부 윈도우 사용자들 사이에서 마이크로소프트 팀즈 데스크톱 클라이언트가 실행되지 않거나 최대 2분가량 지연되는 장애가 발생했다. 마이크로소프트는 이를 TM1466820으로 추적하며 서비스 로그를 분석 중이고, 임시방편으로 웹이나 모바일 앱 사용을 권고했다.",
+      "category": "tech",
+      "source": "Cryptika",
+      "sourceUrl": "https://www.cryptika.com/microsoft-teams-desktop-client-fails-to-load-on-windows-system-microsoft-investigating/",
+      "publishedAt": "2026-09-05T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "獨 스타트업 이자르 에어로스페이스, 유럽 본토 최초 로켓 궤도 진입 성공",
+      "summary": "독일 우주기업 이자르 에어로스페이스의 '스펙트럼' 로켓이 노르웨이 안도야 우주센터에서 발사돼 유럽 본토에서 발사된 로켓 최초로 궤도 진입에 성공했다. 이번 발사에는 큐브샛 등 소형 위성 5기가 실렸으며, 지난해 3월 첫 발사 실패 이후 두 번째 시도 만에 거둔 성과다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/isar-aerospace-second-launch-norway-andoya-spaceport-spectrum-rocket",
+      "publishedAt": "2026-09-05T20:12:00Z"
+    },
+    {
+      "id": "20",
+      "title": "넥서스모드, 13년 개인 프로젝트였던 'SteamDB' 인수",
+      "summary": "모드 커뮤니티 사이트 넥서스모드의 모기업 초슨이 스팀 게임 데이터 추적 사이트 SteamDB를 인수했다. 창업자 xPaw는 번아웃과 AI 스크래핑 우려를 이유로 들었으며, 새 소유주는 기존 무료 서비스와 브랜드를 유지하겠다고 밝혔다.",
+      "category": "gaming",
+      "source": "GamingOnLinux",
+      "sourceUrl": "https://www.gamingonlinux.com/2026/09/nexus-mods-acquires-the-popular-community-site-steamdb/",
+      "publishedAt": "2026-09-02T10:45:00Z"
+    },
+    {
+      "id": "21",
+      "title": "닌텐도, 9월 8일 '젤다의 전설' 40주년 다이렉트·9일 일반 다이렉트 예고",
+      "summary": "닌텐도가 '젤다의 전설' 시리즈 40주년을 기념하는 전용 다이렉트를 9월 8일, 일반 닌텐도 다이렉트를 9일 각각 공개한다고 발표했다. 젤다 다이렉트는 약 30분, 일반 다이렉트는 약 45분 분량으로 진행되며 구체적인 발표 내용은 아직 공개되지 않았다.",
+      "category": "gaming",
+      "source": "Shacknews",
+      "sourceUrl": "https://www.shacknews.com/article/150619/the-legend-of-zelda-40th-anniversary-nintendo-direct",
+      "publishedAt": "2026-09-04T06:52:00-07:00"
     }
   ]
 }
