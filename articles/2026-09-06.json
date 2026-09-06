@@ -81,6 +81,51 @@
       "source": "Wikipedia",
       "sourceUrl": "https://en.wikipedia.org/wiki/Onimusha:_Way_of_the_Sword",
       "publishedAt": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "MOSS-SoundEffect v2.0 — 30초 48kHz 텍스트-투-사운드 SFX 모델 (Apache-2.0)",
+      "summary": "[Audio] OpenMOSS-Team이 공개한 MOSS-SoundEffect v2.0은 DiT+Flow Matching 기반 text-to-audio 모델로, 환경음·도시음·크리처음·사람 행동음을 자연어 프롬프트로 최대 30초·48kHz까지 생성한다. HF API 확인: license apache-2.0, 공개 2026-05-25 / 최종 업데이트 2026-05-26. cocy.io에서 쓸모: 게임 효과음을 TangoFlux와 비교/보완해 로컬에서 더 긴 길이·고품질 SFX를 뽑아볼 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+      "publishedAt": "2026-05-25T14:19:58Z"
+    },
+    {
+      "id": "11",
+      "title": "MOSS-VoiceGenerator — 목소리·캐릭터 디자인 특화 TTS, MOSS-TTS 패밀리 (Apache-2.0)",
+      "summary": "[Audio] OpenMOSS 팀의 MOSS-TTS 패밀리 중 목소리/캐릭터 디자인에 특화된 text-to-speech 모델. 장문 안정성과 멀티스피커 대화를 지원한다. HF API 확인: license apache-2.0, 공개 2026-02-08. cocy.io에서 쓸모: 현재 CosyVoice3 클로닝 파이프라인과 비교 테스트할 로컬 보이스 디자인 대안.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-VoiceGenerator",
+      "publishedAt": "2026-02-08T15:23:36Z"
+    },
+    {
+      "id": "12",
+      "title": "FLUX.2 [klein] 4B — 1초 미만 추론, 13GB급 VRAM 이미지 생성/편집 모델 (Apache-2.0)",
+      "summary": "[Image] Black Forest Labs의 FLUX.2 klein 4B는 생성과 편집을 하나로 통합한 40억 파라미터 rectified-flow 트랜스포머로, 소비자 GPU(약 13GB VRAM)에서 1초 미만 추론이 가능하다. HF API 확인: license apache-2.0, 공개 2026-01-14 / 최종 업데이트 2026-02-24. cocy.io에서 쓸모: 3080Ti(12GB)에 근접한 VRAM 요구라 로컬 SDXL/LuminarQMix 파이프라인 대체·보완 후보로 실측해볼 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "publishedAt": "2026-01-14T13:42:59Z"
+    },
+    {
+      "id": "13",
+      "title": "Wan-Dancer 14B — 음악만으로 분단위 캐릭터 댄스 영상 생성 (Apache-2.0)",
+      "summary": "[Video] Wan-AI(Alibaba)가 공개한 Wan-Dancer-14B는 음악 입력만으로 분 단위 길이의 리드미컬하고 구조가 일관된 댄스 영상을 생성하는 계층형 프레임워크(논문 arXiv:2607.09581). HF API 확인: license apache-2.0, 공개 2026-07-10. cocy.io에서 쓸모: 게임 캐릭터 프로모/댄스 이스터에그 영상을 로컬 GPU로 뽑아보는 실험 소재(14B라 3080Ti 12GB는 양자화 필요할 가능성 있음, VRAM 수치는 모델카드에 미기재라 확인 못 함).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
+      "publishedAt": "2026-07-10T08:41:49Z"
+    },
+    {
+      "id": "14",
+      "title": "@huggingface/kernels — 브라우저용 WebGPU 커널 207종 라이브러리 공개 (Apache-2.0)",
+      "summary": "[Edge] [Tool] Hugging Face WebAI 팀이 브라우저 로컬 추론 가속을 위한 @huggingface/kernels 라이브러리와 207개 최적화 WebGPU 커널 모음(huggingface.co/webgpu-kernels), 벤치마크 스위트 Fleet을 공개했다. HF 블로그 datePublished 확인: 2026-09-01(이번 주 발표), license apache-2.0. cocy.io에서 쓸모: game.cocy.io/tool.cocy.io 웹 게임·툴에 서버 없이 클라이언트 GPU로 도는 경량 AI 기능을 붙일 때 참고할 표준 커널 세트.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels",
+      "publishedAt": "2026-09-01T00:00:00Z"
     }
   ]
 }
