@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-06",
+  "articles": [
+    {
+      "id": "1",
+      "title": "코스피 불장에 주택도시기금도 '쏠쏠'…올 상반기 1.2조 수익",
+      "summary": "국회 국토교통위 윤종군 의원이 HUG에서 제출받은 자료에 따르면, 주택도시기금이 올해 1~6월 여유자금 운용으로 1조1천557억원의 수익을 냈다. 국내 주식에서만 8천37억원을 벌어 작년 연간 수익의 3.5배를 기록했고, 전체 운용수익률은 5.71%로 목표치를 웃돌았다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260904116300003",
+      "publishedAt": "2026-09-06T06:21:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "만성적자 실업급여 내년 흑자 전환…재정정상화는 정부전입금 관건",
+      "summary": "고용노동부의 '고용보험 제도개편 방안'에 따라 노사 보험료율이 내년부터 0.1%포인트씩 인상되고 모성보호 급여가 2028년 별도 계정으로 분리되면서, 만성 적자였던 실업급여 계정이 내년 9천억원 흑자로 전환될 전망이다. 다만 2030년부터 공자기금 차입금 7조7천억원 상환이 남은 과제로 꼽힌다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260904157200530",
+      "publishedAt": "2026-09-06T06:06:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "\"금리인하 안하면 미국 적자보는 나라와 무역 안한다\"는 트럼프…한국은?",
+      "summary": "트럼프 미국 대통령이 연준에 기준금리 인하를 압박하며, 내리지 않으면 미국이 무역적자를 보는 국가들과 교역을 중단하겠다고 밝혔다. 미 상무부 집계 기준 한국은 미국의 무역적자 상위 10위 국가에 올라있어 파장이 주목된다. 연준은 9월 15~16일 FOMC에서 금리를 결정한다.",
+      "category": "world",
+      "source": "매일경제",
+      "sourceUrl": "https://www.mk.co.kr/news/world/12145029",
+      "publishedAt": "2026-09-05T09:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Uber to shed 10% of workers as it moves to cut costs and simplify its business",
+      "summary": "우버가 조직 단순화와 비용 절감을 위해 전 세계 인력의 10%(약 3400명)를 감원한다고 발표했다. CEO 다라 코스로샤히는 조직 계층을 줄이고 자율주행 등 혁신 분야에 재투자하겠다고 밝혔으며, 원격근무 직원 대부분에게 사무실 복귀도 요구했다.",
+      "category": "tech",
+      "source": "CBS News",
+      "sourceUrl": "https://www.cbsnews.com/news/uber-cutting-10-jobs-workforce/",
+      "publishedAt": "2026-09-02T18:26:00-04:00"
+    },
+    {
+      "id": "5",
+      "title": "Pangram's Max Spero on why AI detection is harder than 'Real or Fake'",
+      "summary": "AI 생성 콘텐츠 탐지 스타트업 Pangram이 900만달러 투자를 유치하고 Substack과 파트너십을 맺어, 뉴스레터 저자들이 AI로 글을 썼는지 독자에게 표시하는 기능을 지원하기로 했다. 회사는 최근 AI 이미지 탐지 도구도 새로 내놨다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "publishedAt": "2026-09-02T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Hubble confirms mysterious, 10-sided cloud is growing over Saturn's south pole",
+      "summary": "허블우주망원경이 토성 남극을 감싸는 거대한 10각형(데카곤) 대기 소용돌이를 포착했다. 2023년부터 점점 뚜렷해진 이 현상은 토성 남반구에서 관측된 최초의 대규모 정형 패턴으로, 2004~2017년 토성을 돌았던 카시니호에서는 발견되지 않았던 새로운 대기 현상이다.",
+      "category": "science",
+      "source": "Live Science",
+      "sourceUrl": "https://www.livescience.com/space/saturn/hubble-spots-a-mysterious-10-sided-decagon-growing-around-saturns-south-pole",
+      "publishedAt": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Did NASA just find evidence of ancient life on Mars? Perseverance rover spots complex carbon in red planet rocks",
+      "summary": "NASA 퍼서비어런스 로버가 예제로 크레이터의 '브라이트 엔젤' 노두에서 화성 탐사 사상 최다 규모의 복합 유기분자(거대분자 탄소)를 검출했다. 생명체 존재를 확증하는 증거는 아니지만, 고대 화성이 유기물이 풍부한 수생 환경이었을 가능성을 뒷받침한다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/astronomy/mars/did-nasa-just-find-evidence-of-ancient-life-on-mars-perseverance-rover-spots-complex-carbon-in-red-planet-rocks",
+      "publishedAt": "2026-06-24T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Final Fantasy VII Revelation launches on PS5 April 8, 2027",
+      "summary": "스퀘어에닉스가 PS5 스테이트 오브 플레이에서 '파이널판타지7 리메이크' 3부작의 완결편 'FF7 리벨레이션'의 신규 게임플레이를 공개하고 2027년 4월 8일 PS5·PC·스위치2·엑스박스 동시 출시를 확정했다. 신규 FITS 전투 시스템과 오픈월드 탐험 요소가 추가됐다.",
+      "category": "gaming",
+      "source": "PlayStation.Blog",
+      "sourceUrl": "https://blog.playstation.com/2026/09/03/final-fantasy-vii-revelation-launches-on-ps5-april-8-2027/",
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Onimusha: Way of the Sword",
+      "summary": "캡콤이 20여 년 만에 정식 신작 '오니무샤: 웨이 오브 더 소드'를 9월 4일 PS5·엑스박스·스위치2·PC(스팀/에픽)로 동시 출시했다. 미야모토 무사시를 주인공으로 한 액션 게임으로, 메트로바니아 요소를 접목해 시리즈 최고작이라는 초기 평가를 받고 있다.",
+      "category": "gaming",
+      "source": "Wikipedia",
+      "sourceUrl": "https://en.wikipedia.org/wiki/Onimusha:_Way_of_the_Sword",
+      "publishedAt": "2026-09-04T00:00:00Z"
+    }
+  ]
+}
