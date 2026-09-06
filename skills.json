@@ -895,6 +895,33 @@
       "url": "https://clawhub.ai/sonpiaz/skills/watch-cli",
       "tags": ["video-analysis", "code-generation", "research"],
       "addedAt": "2026-09-05"
+    },
+    {
+      "title": "Muse",
+      "description": "tribe CLI로 팀의 전체 코딩 세션 기록에 접근하는 스킬. 과거 세션 검색, 개인 지식베이스 관리, 자율 에이전트 오케스트레이션까지 지원한다.",
+      "icon": "🧵",
+      "category": "dev",
+      "url": "https://clawhub.ai/alexander-morris/skills/muse",
+      "tags": ["coding-history", "session-search", "cli"],
+      "addedAt": "2026-09-06"
+    },
+    {
+      "title": "HyperFrames Creative",
+      "description": "브랜드 톤·페이싱·내레이션·구도 연출을 담당하는 HyperFrames 계열 스킬. hyperframes-core로 만든 기술 골격 위에 실제 콘텐츠를 입혀 뻔한 웹페이지식 결과물을 막아준다.",
+      "icon": "🎞️",
+      "category": "media",
+      "url": "https://clawhub.ai/skills-sh/heygen-com/hyperframes/hyperframes-creative",
+      "tags": ["video-generation", "creative-direction", "hyperframes"],
+      "addedAt": "2026-09-06"
+    },
+    {
+      "title": "Reddit Automation",
+      "description": "내 제품을 필요로 하는 진짜 스레드를 Reddit에서 찾아 정체를 밝히고 실제로 도움되는 댓글을 작성하는 마케팅 스킬. 스팸 대신 '정직한 기여'로 접근하는 방식을 강제한다.",
+      "icon": "👽",
+      "category": "productivity",
+      "url": "https://clawhub.ai/skills-sh/flowkit-labs/skills/reddit-automation",
+      "tags": ["marketing", "reddit", "community-engagement"],
+      "addedAt": "2026-09-06"
     }
   ]
 }
