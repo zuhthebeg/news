@@ -81,6 +81,51 @@
       "source": "MonsterVine",
       "sourceUrl": "https://monstervine.com/2026/06/silent-hill-townfall-preview/",
       "publishedAt": "2026-09-05T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "OpenMOSS, SFX 특화 오디오 생성 모델 'MOSS-SoundEffect v2.0' 공개 (Apache-2.0)",
+      "summary": "[Audio] 텍스트 프롬프트로 48kHz·최대 30초 효과음(주변음/도시음/생물음/사람 동작음 등)을 생성하는 오디오 모델. 2월 공개, 3월 업데이트, 라이선스 Apache-2.0(상업 사용 가능, HF license 태그 확인). cocy.io에서 쓸모: 게임 SFX를 TangoFlux와 병행해 로컬에서 뽑아 제작비 절감 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect",
+      "publishedAt": "2026-03-13T09:19:24Z"
+    },
+    {
+      "id": "11",
+      "title": "Qwen, 커스텀 보이스 지원 경량 TTS 'Qwen3-TTS-12Hz' 시리즈 공개 (Apache-2.0)",
+      "summary": "[Audio] 알리바바 Qwen팀의 12Hz 코덱 기반 TTS. 1.7B CustomVoice 버전은 HF 다운로드 260만+ 기록하며 널리 쓰이는 중. 음성 클로닝·보이스 디자인 지원, 라이선스 Apache-2.0(HF license 태그 확인). cocy.io에서 쓸모: CosyVoice3와 나란히 로컬 3080Ti에서 캐릭터 내레이션 대안 엔진으로 비교 테스트 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "publishedAt": "2026-01-29T08:00:54Z"
+    },
+    {
+      "id": "12",
+      "title": "브라우저 WebGPU용 배경 제거 모델 'BiRefNet' ONNX 변환판, 이번 주 공개 (MIT)",
+      "summary": "[Image][Edge] 고해상도(1024x1024) 이미지 세그멘테이션 모델 BiRefNet을 transformers.js/WebGPU에서 그대로 돌아가게 ONNX로 변환한 버전. 9/1 공개(이번 주), 라이선스 MIT(HF license 태그 확인). cocy.io에서 쓸모: 캐릭터 이미지 배경 제거를 서버 호출 없이 브라우저 클라이언트에서 처리해 게임/툴 에셋 파이프라인 비용 절감.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/onnx-community/BiRefNet_dynamic-1024x1024-ONNX",
+      "publishedAt": "2026-09-01T09:08:54Z"
+    },
+    {
+      "id": "13",
+      "title": "알리바바 Wan팀, 캐릭터 애니메이션 특화 비디오 모델 'Wan2.2-Animate-2-14B' diffusers·distilled판 추가 (Apache-2.0)",
+      "summary": "[Video] 참조 캐릭터에 모션·표정을 입혀 영상으로 만드는 Wan2.2 Animate 계열 최신판. 7월 공개, 8월에 diffusers/distilled 버전 추가, 라이선스 Apache-2.0(HF license 태그 확인). cocy.io에서 쓸모: 게임 홍보용 캐릭터 애니메이션 클립 로컬 제작 검토(14B라 3080Ti 12GB는 distilled/양자화판 필요, 수치 미확인이라 원문 표기 안 함).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-Animate-2-14B-Diffusers",
+      "publishedAt": "2026-08-13T02:20:09Z"
+    },
+    {
+      "id": "14",
+      "title": "로컬 완결형 오픈소스 음성 툴 'VoiceStudio'(구 OmniVoice-Studio), 이번 주 GitHub 트렌딩",
+      "summary": "[Tool][Audio] 보이스 클로닝·보이스 디자인·영상 더빙·받아쓰기까지 TTS 16종·ASR 11종 엔진을 한 데스크톱 앱에서 로컬로 돌리는 오픈소스 툴. 646개 언어 카탈로그, macOS/Windows/Linux/Docker 지원. 앱 자체는 AGPL-3.0(상업 사용 가능하나 배포 시 소스 공개 의무), 내장 엔진 중 CosyVoice3·VoxCPM2·MOSS-TTS-Nano·GPT-SoVITS·KittenTTS는 Apache-2.0/MIT라 상업 이용 가능(기본 엔진 OmniVoice는 가중치가 CC-BY-NC라 상업용은 다른 엔진 선택 필요, GitHub 리포 확인). v0.5.1 8/28 릴리스, 이번 주 GitHub 트렌딩 주간 스타 7,500+ 획득. cocy.io에서 쓸모: 기존 CosyVoice3 클로닝 워크플로를 GUI로 관리하고 여러 TTS 엔진을 로컬에서 한 번에 비교 테스트.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/debpalash/VoiceStudio",
+      "publishedAt": "2026-08-28T15:24:35Z"
     }
   ]
 }
