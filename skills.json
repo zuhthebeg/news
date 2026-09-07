@@ -922,6 +922,15 @@
       "url": "https://clawhub.ai/skills-sh/flowkit-labs/skills/reddit-automation",
       "tags": ["marketing", "reddit", "community-engagement"],
       "addedAt": "2026-09-06"
+    },
+    {
+      "title": "RentAHuman",
+      "description": "AI 에이전트가 사진 촬영·물품 픽업·현장 참석 같은 실물(physical-world) 작업을 사람에게 위임하는 스킬. RentAHuman.ai 마켓플레이스에서 50만+ 인력 검색은 무료(curl, 인증 불필요), 바운티 등록·DM은 API 키 필요.",
+      "icon": "🙋",
+      "category": "productivity",
+      "url": "https://clawhub.ai/alexanderliteplo/skills/rentahuman",
+      "tags": ["physical-tasks", "marketplace", "human-in-the-loop"],
+      "addedAt": "2026-09-07"
     }
   ]
 }
