@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-08",
+  "articles": [
+    {
+      "id": "1",
+      "title": "IAEA \"韓, 핵잠수함 도입 위한 협의 의향 통보…관련 신고자료 제출\"",
+      "summary": "라파엘 그로시 IAEA 사무총장은 한국 정부가 핵추진잠수함 도입을 위해 IAEA와 포괄적안전조치협정(CSA) 14조 관련 별도 약정 협의를 시작하겠다는 의향을 공식 통보했다고 밝혔다. 한국은 이미 관련 신고 자료를 제출했으며 NPT 등 기존 의무 이행도 재확인했다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260908008600504?section=politics/all",
+      "publishedAt": "2026-09-07T21:56:00Z"
+    },
+    {
+      "id": "2",
+      "title": "2분기 명목 GDP 성장률 9.2%…47년 만에 최고치",
+      "summary": "한국의 2026년 2분기 명목 GDP 성장률이 9.2%를 기록해 47년 만에 최고치를 나타냈다. AI 열풍에 따른 수출 호조가 성장을 견인한 것으로 분석된다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026090800077",
+      "publishedAt": "2026-09-07T23:14:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Germany's far-right AfD says 'democracy demands' parties work with them after state election win",
+      "summary": "독일 작센안할트 주선거에서 극우 성향의 '독일을 위한 대안(AfD)'이 과반에 3석 못 미치는 득표로 약진하며 연립정부 참여를 압박하고 나섰다. EU 내 극우 정당 확산에 대한 우려가 커지고 있다.",
+      "category": "world",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/cpd0113082eo",
+      "publishedAt": "2026-09-07T14:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Grindr to pay £26m to settle claims it allegedly shared users' HIV status",
+      "summary": "데이팅 앱 Grindr가 이용자의 HIV 감염 여부 등 민감정보를 제3자와 공유해 영국 개인정보보호법을 위반했다는 집단소송에 대해 2600만 파운드(약 460억원) 배상에 합의했다.",
+      "category": "tech",
+      "source": "BBC News",
+      "sourceUrl": "https://www.bbc.com/news/articles/cn8e63qdqwzo",
+      "publishedAt": "2026-09-07T15:02:00Z"
+    },
+    {
+      "id": "5",
+      "title": "One year into EU Ecodesign rules, 80% of smartphones still lack required repair information",
+      "summary": "Right to Repair Europe 조사 결과, EU 에코디자인 규정 시행 1년이 지났지만 스마트폰·태블릿 제조사(수입사 포함) 5곳 중 4곳이 의무화된 부품 가격·수리 안내 정보를 웹사이트에 제대로 공개하지 않고 있는 것으로 나타났다.",
+      "category": "tech",
+      "source": "Right to Repair Europe",
+      "sourceUrl": "https://repair.eu/news/one-year-into-eu-ecodesign-rules-80-of-smartphones-still-lack-required-repair-information/",
+      "publishedAt": "2026-09-06T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Scientists may have finally explained why astronauts get constipated in space",
+      "summary": "코펜하겐대·NASA 공동 연구진이 국제우주정거장(ISS) 우주비행사 52명의 혈액 샘플을 분석한 결과, 우주 진입 몇 주 만에 장내 미생물 구성이 변하고 단백질 발효가 증가하는 것을 확인해 우주비행 중 변비의 생물학적 원인을 처음으로 규명했다.",
+      "category": "science",
+      "source": "SciTechDaily",
+      "sourceUrl": "https://scitechdaily.com/scientists-may-have-finally-explained-why-astronauts-get-constipated-in-space/",
+      "publishedAt": "2026-09-07T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "As the western games industry struggles, China's games industry is booming, a new report shows",
+      "summary": "서구 게임업계가 정체를 겪는 사이 중국 게임 시장은 새 보고서 기준 500억 달러 규모로 성장하며 호황을 누리고 있는 것으로 나타났다.",
+      "category": "gaming",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net/china-games-market-50-billion-dollars-value",
+      "publishedAt": "2026-09-07T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Valve has reportedly made £11bn from Steam already in 2026, and biggest earning new arrival is Forza Horizon 6",
+      "summary": "밸브가 2026년 한 해 동안 스팀 플랫폼에서 이미 약 110억 파운드의 매출을 올린 것으로 알려졌으며, 올해 출시작 중 최대 매출을 기록한 신작은 '포르자 호라이즌 6'인 것으로 나타났다.",
+      "category": "gaming",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net/forza-horizon-6-biggest-steam-new-release-11-billion-gbp",
+      "publishedAt": "2026-09-07T00:00:00Z"
+    }
+  ]
+}
