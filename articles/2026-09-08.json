@@ -90,6 +90,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/malcolmrey/minimaxh3",
       "publishedAt": "2026-09-05T10:40:49Z"
+    },
+    {
+      "id": "11",
+      "title": "Supertone, 온디바이스 다국어 TTS 'Supertonic 3' 오늘 공개 (OpenRAIL)",
+      "summary": "[Audio] Supertone(archive)이 한국어·일본어 포함 30개 이상 언어를 지원하는 온디바이스 ONNX TTS 'Supertonic 3'을 공개했다(HF API 확인: createdAt 2026-09-08, license openrail). 서버 없이 로컬에서 돌아가는 경량 ONNX 런타임 구조로, 브라우저·모바일 앱에 내장하기 좋다. cocy.io에서 쓸모: 게임/툴 페이지에 서버 비용 없이 다국어 음성 안내를 붙이는 로컬 TTS 후보로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/supertone-archive/supertonic-3",
+      "publishedAt": "2026-09-08T02:09:59Z"
+    },
+    {
+      "id": "12",
+      "title": "차세대 텍스트투뮤직 아키텍처 'ACE-Step 1.5' 파인튠 잇따라 공개 (MIT)",
+      "summary": "[Audio] ACE-Step 팀의 신규 아키텍처 'ACE-Step 1.5'(arXiv:2602.00744) 기반 파인튠이 이번 주 여러 건 업로드됐다(HF API 확인: SYNAPSEai1/Ace-Step1.5 createdAt 2026-09-05, license mit). cocy가 이미 로컬 BGM 제작에 쓰는 ACE-Step 계열의 다음 세대 베이스로, 구조는 호환되면서 표현력이 개선됐다고 모델카드에 명시. cocy.io에서 쓸모: 게임 BGM 로컬 생성 파이프라인의 ACE-Step 버전 업그레이드 후보로 검토.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SYNAPSEai1/Ace-Step1.5",
+      "publishedAt": "2026-09-05T12:52:15Z"
+    },
+    {
+      "id": "13",
+      "title": "FLUX.2 [klein] 4B, 브라우저 전용 ONNX·WebGPU 변환판 공개 (Apache-2.0)",
+      "summary": "[Image][Edge] 커뮤니티 개발자 cgb가 블랙포레스트랩스 FLUX.2 [klein] 4B 이미지 생성 모델을 onnxruntime-web + WebGPU로 브라우저에서 서버 없이 돌아가게 변환해 공개했다(HF API 확인: createdAt 2026-08-30, base model license apache-2.0). 텍스트 인코더 q4, transformer q8 양자화로 용량을 줄여 브라우저 탭에서 바로 추론한다. cocy.io에서 쓸모: 서버 비용 없이 클라이언트 브라우저에서 이미지를 뽑는 웹 툴(tool.cocy.io) 실험용으로 적합.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/cgb/flux2-klein-4b-onnx-webgpu",
+      "publishedAt": "2026-08-30T22:21:35Z"
+    },
+    {
+      "id": "14",
+      "title": "이미지 한 장→3D 모델, 브라우저 WebGPU 변환판 'TripoSG-ONNX' 공개 (MIT)",
+      "summary": "[Edge] 커뮤니티 개발자 cgb가 VAST-AI의 이미지→3D 생성 모델 TripoSG를 onnxruntime-web + WebGPU로 브라우저 내 추론 가능하게 변환해 이번 주 공개했다(HF API 확인: createdAt 2026-09-04, license mit). 같은 개발자가 TripoSR·UniRig(스켈레톤 자동 예측)도 동일 방식으로 브라우저 포트를 공개 중. cocy.io에서 쓸모: 게임 에셋 프리뷰·3D 캐릭터 프로토타이핑을 서버 없이 브라우저에서 시연하는 데모 페이지 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/cgb/triposg-onnx-webgpu",
+      "publishedAt": "2026-09-04T22:33:15Z"
+    },
+    {
+      "id": "15",
+      "title": "로컬 하드웨어 맞춤 모델 자동 서빙하는 오픈소스 추론 서버 'Magnitude', GitHub 트렌딩",
+      "summary": "[Tool] 오픈소스 로컬 추론 서버 'Magnitude'가 이번 주 GitHub 트렌딩에 올랐다(GitHub API 확인: 저장소 생성 2026-06-12, license apache-2.0, 이번 주 stars +2,430/누적 4,059). 사용자 하드웨어에 맞는 로컬 모델을 자동으로 골라 서빙하고 OpenClaw·Codex·Claude Code 등 기존 에이전트에 바로 연결한다. cocy.io에서 쓸모: 유료 API 의존을 줄이는 로컬 모델 서빙 계층 후보로, 3080Ti 환경에서 자동 모델 선택 기능을 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/magnitudedev/magnitude",
+      "publishedAt": "2026-09-08T02:22:41Z"
     }
   ]
 }
