@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-09",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[단독] \"김승원 10억 받기로\" 제보에 수사…결론 왜 뒤집혔나",
+      "summary": "코로나19 신약 임상시험 승인 로비 의혹과 관련해 '김승원 후보자가 대가로 10억원을 받기로 했다'는 제보를 검찰이 수사했으나 최종적으로 기소유예 처분을 받은 경위를 KBS가 단독 보도했다. 한동훈 무소속 의원이 녹취록과 구형 계획서를 공개하며 수사 외압 의혹을 제기해 논란이 커지고 있다.",
+      "category": "domestic",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://v.daum.net/v/20260909060637876",
+      "publishedAt": "2026-09-08T21:05:00Z"
+    },
+    {
+      "id": "2",
+      "title": "웨스팅하우스 의결권 확보땐 원전수출 숨통…전문가들 \"실익 없을 것\"",
+      "summary": "한수원이 미국 웨스팅하우스 의결권 확보를 통해 해외 원전 수출길을 넓히려 하지만, 전문가들은 실질적 이익이 크지 않을 것이라는 우려를 제기했다.",
+      "category": "economy",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9IRVNYeTc5ZHJfUHhPVU40Zk9WMlhJeUlzZVplemV1N1Vjd0hBcUQ1N1JESXlhYWthNGVzX3V5Qno2bXFBNFpPZWhjdzZSeW9JN2Fnb2hDZG5iSzkyelVOcW5Tb05sOERHWlc4?oc=5",
+      "publishedAt": "2026-09-08T22:22:00Z"
+    },
+    {
+      "id": "3",
+      "title": "\"이틀짜리 트럼프 쇼\"…美공화, 초유의 중간선거 전당대회 돌입",
+      "summary": "미국 공화당이 중간선거를 앞두고 이례적으로 이틀간의 전당대회를 개최하며 트럼프 대통령 중심의 지지층 결집을 시도하고 있다. 텍사스 등 공화 텃밭에서도 물가 상승에 대한 불만이 감지된다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBMd1lHNkdkaUtHSWc2QkRDaEhSaWpwYS1zOUd1aUJBQk92RFZpSkd1R19ZRjdMQXdvSy1ZbHVTaV9fSXJfNjRzaHZyRWZYNG52cHVqd1lZcEVfTFHSAWBBVV95cUxNRk9aWW1ZTlRZZGRqYVU5dzU3WWQtQTR6eHE3RFQxa3pISUg1SjluVVRoLVZLVmF2RFJMcTIxTXhaUVFvQjh6a2QybTdFcTN3Unc3UlJaWTBWQW50SlY4WEU?oc=5",
+      "publishedAt": "2026-09-08T18:31:36Z"
+    },
+    {
+      "id": "4",
+      "title": "Apple wanted the iPhone Ultra to cost $1,999, new report says",
+      "summary": "애플이 새로 선보일 폴더블 아이폰 얼트라의 가격을 1,999달러로 책정하려 했다는 보도가 나왔다. 부품 원가 상승이 가격 결정에 영향을 준 것으로 분석된다.",
+      "category": "tech",
+      "source": "GSMArena",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNM1N2UG83TEEwckRnWWtpNFRVLXU4NUdKMC02Q3pxeUxTWHltZVFLWFROM3pvRy1qOTVjSFJwU3c2WDJsZW01aDlrRjZKNGhhR1h0Q2xLcXpqX1c2TnJKd3pydG1MbUU0QU9talhVSXVzVkRQcTBjclA5ek5sWWdOSmtuLTdQeW5XS2Ria20zOC00WjBQOGl4TzhYMDZDdmPSAZsBQVVfeXFMUGhIY2xOYjc4Z3BEMU5kNnp0ZmZQZVdfemRaejRtbXhRbjcybkdCVXU5MkRYWDJqTm1ya1IxRm9NRlBBY04xdHZ3eGpZRHVVTjEwTHVERUpXZFhBdWt2ZXZTNUpGY29pVUQxWDdDMGY5N3NXcjc2anh0TTdwYk9tM195OWpKMGFNaVhCd1lOb3lXU0NCQmZtVTlhcDg?oc=5",
+      "publishedAt": "2026-09-08T23:02:01Z"
+    },
+    {
+      "id": "5",
+      "title": "Microsoft patches a record 972 vulnerabilities, 112 of them critical",
+      "summary": "마이크로소프트가 이번 정기 패치 화요일에 역대 최대 규모인 972개의 취약점을 수정했으며, 이 중 112개는 치명적(critical) 등급으로 분류됐다.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNN01WbnB6cG9HVXMzeS1kQ1FpZVpsU3RxX1FxVkdrNXItQjZIU0pTM05UODgxdlRvbjkxVmdGdUxxNUtuUV9tRG0tbkZyTDdNY2JmV1VrVmxjNVdQR0s4TEhieTY2UVJHR1NLNlctSU90eUhTRWlaMnNNNmx3bjFwbW5fczlFRkhPREQ3azY2c0c0ZWN2UXhpZHZFTHN6MkMzc28zSVQ1RzFiNE9EWVE?oc=5",
+      "publishedAt": "2026-09-08T21:11:46Z"
+    },
+    {
+      "id": "6",
+      "title": "Northern Lights Alert: Aurora May Reach 20 States Tuesday Night",
+      "summary": "다수의 코로나물질방출(CME)이 지구를 강타하면서 G1 등급 지자기 폭풍 경보가 발령됐고, 미국 최대 20개 주에서 오로라가 관측될 수 있을 것으로 예보됐다.",
+      "category": "science",
+      "source": "Forbes",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNN3l4RzJrc3l1ZjloQjBDREZvRHpQTHViRzZZOU5TTy1CMzB0b09BS0VnQ3VTNDhIWTExTkFXcXhTUXJvYWlfSExWb3ZjdVBnRXk4R1Fid3prbnJYZ1lLcVlKYWUtYmZicFBXTGZGS0hQVUVQZnJnajFHQzVpcjFDQm5SZWY3Wi1BMWdGNzFJMVhzT293aXdBeEFqejlSN2oyNFBOaUxWTGE5bjBKbHVjRGF4MUtFX3NOOTVuZ1RB?oc=5",
+      "publishedAt": "2026-09-08T09:52:14Z"
+    },
+    {
+      "id": "7",
+      "title": "Fossilized eggs of the largest known dinosaurs have been unearthed in an unexpected place",
+      "summary": "역대 가장 큰 공룡으로 알려진 종의 화석화된 알들이 예상 밖의 장소에서 발굴되면서 이들의 번식 습성에 대한 새로운 단서를 제공하고 있다.",
+      "category": "science",
+      "source": "CNN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZQ2Zmd1M3b1dNUnFLV3dGeUxOUDJWRUptN1RGRW8wMUJVUGRNQ1ZTOXJEUkZ3NDlHcS1IR2xfamU1OEJpbmlSa05RUnhBMlpoRDYxek9GWlY1QmR5TzVjU185YXlTZnJqYkJFMUNzaUpsTXc?oc=5",
+      "publishedAt": "2026-09-08T23:05:29Z"
+    },
+    {
+      "id": "8",
+      "title": "Don't Nod might not have enough cash to make it through January 2027, and even if it does, pulling up could 'involve the reduction of up to 90 positions'",
+      "summary": "프랑스 게임사 돈트노드(Don't Nod)가 2027년 1월까지 버틸 자금이 부족할 수 있으며, 자금난 해소를 위해 최대 90명 규모의 인력 감축이 필요할 수 있다는 재정 위기 소식이 전해졌다.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimAJBVV95cUxQeU0yTzB4VmdjYUFxc1RGVmUzUmFYLXNxN0x6cm5IUC1jb01RbUh3U240bWlRN3BHTkdPSjZxNkllUmJsanZEVWM3UWZuZ2tjYmlGTXBaVHUtVmFYaWhDTzRvTkVEdEx6em1rUHRpMkEwNF8tcHRGbHlTaGE2TllwZTdQYURyR1V1Q2xsaV9FeF9KOXlyQ1pNUTBlVHJBRUdvb0wyVmtZWEJnYmg0UURaOU1LMHVwZjkxWHJKSUlCTTdOOE52R3o4eWRIZ1N1RDNYU2VGaVEwMnBXRXFmcVpFcVp0Mmw0WlJLblRiM2tXS25fNEVhLU1fWjNnRkpnVmtVVlpoUGN0TlVSdW5nYmpENl9IWG9QMXpR?oc=5",
+      "publishedAt": "2026-09-08T12:23:53Z"
+    },
+    {
+      "id": "9",
+      "title": "Sega cancelled its \"risky\" Super Game project as it \"would have to grow enormously to match the scale of the service\"",
+      "summary": "세가가 대규모 서비스형 게임을 목표로 했던 '슈퍼 게임' 프로젝트를 리스크가 크다는 판단 하에 전면 취소했다고 밝혔다.",
+      "category": "gaming",
+      "source": "GamesIndustry.biz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS1UwcDlJQ2pTMVczWnNHUXFyLXVrUGtNOXFQZlFEbzMzb3I5NUZxZXFJcHNoNVhfQ3pjU0lqeDF3M3FVcjY4ZzFsbHBkNUdDbUI4VDdGa0dFR09iSHBCM1hRNTBYRGxmd2RHOEI3T3dWb085T2VhX1J6RWZ1LTI5VzV4RUJnekU2bjBRZExvTVgzTkVxQU0ydGhoeDB0dkFvZ1h6RVBxbk1EUVMyRk1tVW5DWDlOUVJidS1vVVB6TGRQazZ5Y185ZmdJUTJ5UmV0UmJOYnlPQmxSSmM?oc=5",
+      "publishedAt": "2026-09-07T14:03:15Z"
+    }
+  ]
+}
