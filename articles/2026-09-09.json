@@ -81,6 +81,33 @@
       "source": "GamesIndustry.biz",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOS1UwcDlJQ2pTMVczWnNHUXFyLXVrUGtNOXFQZlFEbzMzb3I5NUZxZXFJcHNoNVhfQ3pjU0lqeDF3M3FVcjY4ZzFsbHBkNUdDbUI4VDdGa0dFR09iSHBCM1hRNTBYRGxmd2RHOEI3T3dWb085T2VhX1J6RWZ1LTI5VzV4RUJnekU2bjBRZExvTVgzTkVxQU0ydGhoeDB0dkFvZ1h6RVBxbk1EUVMyRk1tVW5DWDlOUVJidS1vVVB6TGRQazZ5Y185ZmdJUTJ5UmV0UmJOYnlPQmxSSmM?oc=5",
       "publishedAt": "2026-09-07T14:03:15Z"
+    },
+    {
+      "id": "10",
+      "title": "LLaDA-Image-Turbo, 4스텝만에 이미지 생성·편집 동시 처리하는 6B 통합 모델 공개",
+      "summary": "[Image] inclusionAI(앤트그룹 계열)가 통합 이미지 생성·편집 모델 LLaDA-Image와 그 4스텝 고속 증류판 Turbo를 공개했다. Qwen-Image-Bench 기준 영어·중국어 모두 SOTA 점수를 기록했다고 밝혔고, 라이선스는 apache-2.0으로 상업 이용 가능(HF 확인). cocy.io에서 쓸모: 별도 인페인팅 백본 없이 한 모델로 카드 일러스트 생성과 레퍼런스 이미지 수정(부분 편집)을 함께 실험해볼 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/inclusionAI/LLaDA-Image-Turbo",
+      "publishedAt": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "Irodori-TTS-v4.1-Anime, 애니메이션풍 음성으로 파인튜닝한 일본어 TTS 공개",
+      "summary": "[Audio] 오픈소스 일본어 TTS Irodori-TTS-v4.1-Small을 애니메이션풍 음성 데이터로 파인튜닝한 모델이 공개됐다. int4/int8/float8 양자화 버전까지 함께 제공되며 라이선스는 MIT로 상업 이용 가능(HF 확인). cocy.io에서 쓸모: 일본어권 콘텐츠·게임 캐릭터에 애니메이션풍 보이스를 붙이는 실험 후보로 가볍게 검증해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/phasefield-audio/Irodori-TTS-v4.1-Anime",
+      "publishedAt": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "MiniCPM5-2B, 2B급 온디바이스 SOTA 노리는 로컬 LLM GGUF로 공개",
+      "summary": "[Edge] OpenBMB가 MiniCPM5 시리즈 두 번째 모델인 2B 밀집 트랜스포머를 GGUF 양자화 버전으로 공개했다. 온디바이스·로컬 배포를 목표로 학습됐고 코딩·수학·롱컨텍스트·툴콜링에서 2B급 오픈소스 SOTA를 주장하며 4B급 모델과도 경쟁력 있다고 밝혔다(모델카드 확인). 라이선스 apache-2.0으로 상업 이용 가능(HF 확인). cocy.io에서 쓸모: 서버 API 호출 없이 llama.cpp로 로컬 구동해 게임 NPC 대사·툴콜링 미니 에이전트에 붙여볼 후보다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM5-2B-GGUF",
+      "publishedAt": "2026-09-05T00:00:00Z"
     }
   ]
 }

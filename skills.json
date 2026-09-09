@@ -931,6 +931,24 @@
       "url": "https://clawhub.ai/alexanderliteplo/skills/rentahuman",
       "tags": ["physical-tasks", "marketplace", "human-in-the-loop"],
       "addedAt": "2026-09-07"
+    },
+    {
+      "title": "Infinity Context",
+      "description": "긴 에이전트 세션이 컨텍스트 한계에 다다를 때 대화를 압축하고 조각을 로컬 SQLite/FTS5에 암호화 없이 저장해 나중에 정확히 검색하는 스킬. 네트워크 전송 없이 완전 로컬 동작, 기본 30일 보존기간과 민감정보 자동 마스킹을 갖췄다.",
+      "icon": "🗄️",
+      "category": "dev",
+      "url": "https://clawhub.ai/pondsi/skills/infinitycontext",
+      "tags": ["context-management", "memory", "local-first"],
+      "addedAt": "2026-09-09"
+    },
+    {
+      "title": "Homeassistant Skill",
+      "description": "Home Assistant REST API로 조명·스위치·잠금장치·에어컨·차고문·미디어플레이어 등 스마트홈 기기를 제어하는 스킬. 잠금/경보/차고문처럼 보안에 민감한 동작은 반드시 사용자 확인을 거치도록 규칙이 박혀있다.",
+      "icon": "🏠",
+      "category": "lifestyle",
+      "url": "https://clawhub.ai/anotb/skills/homeassistant-skill",
+      "tags": ["smart-home", "home-assistant", "automation"],
+      "addedAt": "2026-09-09"
     }
   ]
 }
