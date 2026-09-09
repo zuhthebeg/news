@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-10",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 프랑스 국빈방문 중 \"제 임기 헌법상 명확히 제한돼\" 발언…연임개헌 논란 직접 차단",
+      "summary": "프랑스를 국빈 방문 중인 이재명 대통령이 현지에서 \"저의 임기는 헌법상 명확하게 제한돼 있다\"고 밝히며 야권이 제기해온 '연임 개헌' 공세를 정면으로 반박했다. 이 발언은 국내에서 권력분산과 대통령 책임 강화를 위한 개헌 논의가 이어지는 가운데 나왔다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/politics/2026/09/09/2026090920471647213",
+      "publishedAt": "2026-09-09T11:47:00Z"
+    },
+    {
+      "id": "2",
+      "title": "포스코, 창사 58년 만에 첫 파업…포항·광양서 48시간 부분파업 돌입",
+      "summary": "포스코노동조합이 임금·단체협상 결렬로 9일 오전 7시부터 포항·광양제철소 일부 라인을 멈추는 48시간 부분파업에 돌입했다. 노조는 기본급 7.1% 인상을, 사측은 2.0% 인상을 제시하며 이견을 좁히지 못했고, 노조는 사측 입장 변화가 없으면 16일부터 참여 규모를 확대해 2차 파업에 나서겠다고 밝혔다.",
+      "category": "economy",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202609092100005/",
+      "publishedAt": "2026-09-09T12:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "이태원참사 특조위 활동기간 1년 연장…2027년 9월까지 진상규명",
+      "summary": "행정안전부는 10·29 이태원참사 특별조사위원회의 활동기간을 내년 9월 16일까지 1년 연장하는 특별법 개정안이 국무회의를 통과했다고 밝혔다. 피해자 인정 신청과 치유휴직 신청 기한도 함께 1년씩 늘어난다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/policy/2026/09/08/2026090808532197270",
+      "publishedAt": "2026-09-07T23:53:00Z"
+    },
+    {
+      "id": "4",
+      "title": "구글, 2026년 일곱 번째 크롬 제로데이(CVE-2026-87491) 긴급 패치",
+      "summary": "구글이 실공격에 악용된 크롬 V8 엔진의 아웃오브바운드 취약점(CVE-2026-87491)을 패치한 크롬 153을 배포했다. 올해 들어 벌써 일곱 번째로 발견·패치된 크롬 제로데이로, 서울대 연구원이 신고해 2500달러의 버그바운티를 받았다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/google-patches-seventh-chrome-zero-day-exploited-in-attacks-this-year/",
+      "publishedAt": "2026-09-09T09:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "퀄컴-아마존, 데이터센터용 AI 추론칩 공동개발 계약…최대 600억달러 규모",
+      "summary": "퀄컴과 아마존이 AWS 데이터센터용 맞춤형 AI 추론칩과 초당 1.6테라비트급 광통신 기술을 함께 개발하는 다년간 계약을 체결했다. 퀄컴은 아마존에 최대 40억달러 규모의 주식매수권을 부여했으며 이번 발표로 퀄컴 주가는 10% 급등했다.",
+      "category": "tech",
+      "source": "Bloomberg",
+      "sourceUrl": "https://www.bloomberg.com/news/articles/2026-09-08/qualcomm-signs-deal-to-provide-amazon-with-custom-ai-chips",
+      "publishedAt": "2026-09-08T13:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "오젬픽·위고비 성분 세마글루타이드, 천식 발작 40% 줄인다…대규모 실사용 연구 결과",
+      "summary": "영국 임페리얼칼리지런던 연구진이 약 8만명의 전자의무기록을 분석한 결과, GLP-1 성분 세마글루타이드 복용군에서 천식 발작이 약 40%, COPD 악화가 약 20% 줄어든 것으로 나타났다. 연구진은 확증을 위한 임상시험이 필요하며 현재로선 폐질환만을 이유로 GLP-1 약물을 처방받아선 안 된다고 밝혔다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260909005155.htm",
+      "publishedAt": "2026-09-09T00:51:55Z"
+    },
+    {
+      "id": "7",
+      "title": "러시아, 프로그레스 MS-35 화물우주선 발사…ISS에 2.6톤 보급품 수송",
+      "summary": "러시아가 바이코누르 우주기지에서 소유즈-2.1b 로켓으로 무인 화물우주선 프로그레스 MS-35(96P)를 발사해 국제우주정거장(ISS)으로 보냈다. 우주선은 11일 ISS 포이스크 모듈에 도킹해 2,600kg 규모의 물자를 전달할 예정이다.",
+      "category": "science",
+      "source": "SpacePolicyOnline",
+      "sourceUrl": "https://spacepolicyonline.com/events/progress-ms-35-cargo-mission-to-iss-sept-9-2026-kazakhstan-1215-pm-et/",
+      "publishedAt": "2026-09-09T16:15:00Z"
+    },
+    {
+      "id": "8",
+      "title": "생존게임 '발헤임', 6년 얼리액세스 마치고 1.0 정식 출시…신규 바이옴 '딥노스' 추가",
+      "summary": "아이언게이트의 바이킹 생존게임 발헤임이 정식 1.0 버전으로 출시되며 얼어붙은 신규 바이옴 '딥노스'와 신규 적, 무기, 크로스플레이를 추가했다. PS5·닌텐도 스위치2로 플랫폼을 확장했고 가격은 19.99달러에서 29.99달러로 인상됐다.",
+      "category": "gaming",
+      "source": "GameRant",
+      "sourceUrl": "https://gamerant.com/valheim-1-0-deep-north-release-date-time/",
+      "publishedAt": "2026-09-09T13:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "블리즈컨 2026, 3년 만에 재개…9월 12~13일 애너하임서 개최",
+      "summary": "블리자드의 오프라인 팬 행사 블리즈컨이 3년 만에 미국 애너하임 컨벤션센터에서 열린다. 스타크래프트 신작 공개 가능성과 함께 월드 오브 워크래프트 '미드나이트' 확장팩 이후 로드맵, 디아블로 II: 레저렉션 신규 직업 등이 공개될 것으로 기대된다.",
+      "category": "gaming",
+      "source": "Windows Central",
+      "sourceUrl": "https://www.windowscentral.com/gaming/blizzard/blizzcon-2026-preview-what-to-expect-for-warcraft-starcraft-overwatch-diablo",
+      "publishedAt": "2026-09-09T09:00:00Z"
+    }
+  ]
+}
