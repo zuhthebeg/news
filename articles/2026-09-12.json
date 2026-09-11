@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-12",
+  "articles": [
+    {
+      "id": "1",
+      "title": "김승원 법무장관 후보자, 자녀 '분당 8학군' 위장전입 의혹 사과",
+      "summary": "김승원 법무장관 후보자가 자녀들을 분당 서현동 명문 학군 주소로 위장전입시켰다는 의혹에 대해 \"교육 목적으로 실거주지와 주민등록상 주소가 불일치했다\"며 송구하다고 밝혔다. 오는 15일 인사청문회에서 이 문제를 포함해 임상시험 특혜 의혹 등이 집중 추궁될 전망이다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202609120029130819",
+      "publishedAt": "2026-09-12T00:30:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "한은, 물가 3.1%·주담대 급증에 기준금리 추가 인상 시사",
+      "summary": "8월 소비자물가 상승률이 3.1%(근원물가 3.4%)로 오르고 주택담보대출이 급증하자 한국은행이 3.00% 기준금리에서 추가 인상 가능성을 열어뒀다. 한은은 상반기 20%를 웃돈 명목GDP 성장률과 과열된 주담대 수요를 긴축 기조 유지의 근거로 들었다.",
+      "category": "economy",
+      "source": "시대일보",
+      "sourceUrl": "https://www.sidae.com/article/2026091012541566337",
+      "publishedAt": "2026-09-10T14:51:32+09:00"
+    },
+    {
+      "id": "3",
+      "title": "마라톤·옥토버페스트·집회 겹쳐 주말 서울 곳곳 교통통제",
+      "summary": "13일 일요일 서울광장 '런 서울 런' 마라톤과 여의도 히어로 레이스, 옥토버페스트 서울 축제, 여야 성향 집회가 동시에 열리며 도심 곳곳 도로가 통제된다. 시민들에게는 실시간 교통정보 확인과 대중교통 이용이 권고됐다.",
+      "category": "domestic",
+      "source": "이데일리",
+      "sourceUrl": "https://www.edaily.co.kr/News/Read?newsId=01574406645579464",
+      "publishedAt": "2026-09-12T06:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "CISA, 시스코·시트릭스·포티넷 실공격 취약점 KEV 등재…9월12일 패치 시한",
+      "summary": "미국 CISA가 시스코 방화벽관리센터(CVSS 10.0), 시트릭스 넷스케일러, 포티넷 포티OS의 실제 악용 취약점 3건을 KEV 목록에 추가하고 연방기관에 9월12일까지 패치를 의무화했다. 시트릭스 취약점은 이미 다수 공격 캠페인에 무기화된 것으로 확인됐다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/cisa-flags-exploited-cisco-citrix.html",
+      "publishedAt": "2026-09-10T00:00:00-04:00"
+    },
+    {
+      "id": "5",
+      "title": "애플 iOS 27, 9월14일 출시…제미나이 기반 '시리 AI' 전면 공개",
+      "summary": "애플이 구글 제미나이 모델을 학습에 활용해 전면 개편한 '시리 AI'를 탑재한 iOS 27을 9월14일 출시한다. 새 시리는 복잡한 질문과 다단계 작업 처리가 가능해졌으며, 아이폰15 프로 이상 기기에서만 지원된다.",
+      "category": "tech",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2254005/ios-27-with-siri-ai-will-be-available-on-september-14/",
+      "publishedAt": "2026-09-09T14:21:00-04:00"
+    },
+    {
+      "id": "6",
+      "title": "ISS 우주비행사들, 초음파로 미세중력 속 정맥 혈류 변화 관찰",
+      "summary": "국제우주정거장 탐사대 75 승무원들이 'Ultrasound 3' 장비로 정맥 스캔을 실시해 무중력 상태가 혈액순환에 미치는 영향을 연구했다. 지상 의료진의 실시간 지도 아래 진행된 이번 연구는 달·화성 장기 임무 대비 혈전 위험 파악에 활용될 예정이다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/09/09/crew-studies-medicine-and-physics-works-on-spacesuits-and-earth-photo-gear/",
+      "publishedAt": "2026-09-09T00:00:00-05:00"
+    },
+    {
+      "id": "7",
+      "title": "시드니대 연구팀, 심근경색 후 심장 근육세포 재생 세계 첫 확인",
+      "summary": "호주 시드니대·베어드연구소·로열프린스알프레드병원 공동연구팀이 심근경색 이후에도 인간 심장 근육세포가 재생된다는 것을 세계 최초로 확인했다. 손상 부위를 완전히 복구할 만큼 강하지는 않지만, 이 재생 메커니즘을 강화하는 치료법 개발의 단초가 될 것으로 기대된다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260909231754.htm",
+      "publishedAt": "2026-09-10T00:00:00-04:00"
+    },
+    {
+      "id": "8",
+      "title": "블리즈컨 2026, 오늘 애너하임서 개막…SOOP 국내 공식 생중계",
+      "summary": "3년 만에 돌아온 블리즈컨 2026이 9월12~13일(현지시간) 미국 애너하임에서 개막한다. SOOP이 메인 무대와 블리자드 클래식 컵(임요환·강민 출전), 오버워치 월드컵 등을 국내 공식 생중계하며 시청자 대상 인게임 아이템도 제공한다.",
+      "category": "gaming",
+      "source": "경향게임스",
+      "sourceUrl": "https://www.khgames.co.kr/news/articleView.html?idxno=308279",
+      "publishedAt": "2026-09-11T19:25:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "'사일런트 힐: 타운폴' PS5·PC 우선 출시…엑스박스·스위치2는 6개월 이상 연기",
+      "summary": "코나미와 스크린 번이 개발한 신작 공포게임 '사일런트 힐: 타운폴'이 9월24일 PS5·PC로 먼저 출시되고 엑스박스 시리즈X|S와 스위치2 버전은 최소 6개월 이상 늦게 나온다. 1996년 스코틀랜드 가상 마을을 배경으로 한 심리 공포물이다.",
+      "category": "gaming",
+      "source": "iXBT Games",
+      "sourceUrl": "https://ixbt.games/en/news/2026/08/24/429929-ps5-polucit-silent-hill-townfall-ranse-drugix-konsolei.html",
+      "publishedAt": "2026-08-24T00:00:00+00:00"
+    }
+  ]
+}
