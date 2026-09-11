@@ -884,7 +884,11 @@
       "icon": "⏱️",
       "category": "dev",
       "url": "https://clawhub.ai/othmanadi/skills/chronos",
-      "tags": ["agent-memory", "time-tracking", "coding-agent"],
+      "tags": [
+        "agent-memory",
+        "time-tracking",
+        "coding-agent"
+      ],
       "addedAt": "2026-09-05"
     },
     {
@@ -893,7 +897,11 @@
       "icon": "🎥",
       "category": "dev",
       "url": "https://clawhub.ai/sonpiaz/skills/watch-cli",
-      "tags": ["video-analysis", "code-generation", "research"],
+      "tags": [
+        "video-analysis",
+        "code-generation",
+        "research"
+      ],
       "addedAt": "2026-09-05"
     },
     {
@@ -902,7 +910,11 @@
       "icon": "🧵",
       "category": "dev",
       "url": "https://clawhub.ai/alexander-morris/skills/muse",
-      "tags": ["coding-history", "session-search", "cli"],
+      "tags": [
+        "coding-history",
+        "session-search",
+        "cli"
+      ],
       "addedAt": "2026-09-06"
     },
     {
@@ -911,7 +923,11 @@
       "icon": "🎞️",
       "category": "media",
       "url": "https://clawhub.ai/skills-sh/heygen-com/hyperframes/hyperframes-creative",
-      "tags": ["video-generation", "creative-direction", "hyperframes"],
+      "tags": [
+        "video-generation",
+        "creative-direction",
+        "hyperframes"
+      ],
       "addedAt": "2026-09-06"
     },
     {
@@ -920,7 +936,11 @@
       "icon": "👽",
       "category": "productivity",
       "url": "https://clawhub.ai/skills-sh/flowkit-labs/skills/reddit-automation",
-      "tags": ["marketing", "reddit", "community-engagement"],
+      "tags": [
+        "marketing",
+        "reddit",
+        "community-engagement"
+      ],
       "addedAt": "2026-09-06"
     },
     {
@@ -929,7 +949,11 @@
       "icon": "🙋",
       "category": "productivity",
       "url": "https://clawhub.ai/alexanderliteplo/skills/rentahuman",
-      "tags": ["physical-tasks", "marketplace", "human-in-the-loop"],
+      "tags": [
+        "physical-tasks",
+        "marketplace",
+        "human-in-the-loop"
+      ],
       "addedAt": "2026-09-07"
     },
     {
@@ -938,7 +962,11 @@
       "icon": "🗄️",
       "category": "dev",
       "url": "https://clawhub.ai/pondsi/skills/infinitycontext",
-      "tags": ["context-management", "memory", "local-first"],
+      "tags": [
+        "context-management",
+        "memory",
+        "local-first"
+      ],
       "addedAt": "2026-09-09"
     },
     {
@@ -947,8 +975,40 @@
       "icon": "🏠",
       "category": "lifestyle",
       "url": "https://clawhub.ai/anotb/skills/homeassistant-skill",
-      "tags": ["smart-home", "home-assistant", "automation"],
+      "tags": [
+        "smart-home",
+        "home-assistant",
+        "automation"
+      ],
       "addedAt": "2026-09-09"
+    },
+    {
+      "title": "AI Video Generation (RunComfy)",
+      "description": "RunComfy CLI 하나로 HappyHorse, Kling 3.0, Seedance v2, Veo 3.1, Wan 2.7 등 최신 영상 생성 모델을 목적별로 골라 text-to-video/image-to-video/영상 연장까지 실행하는 스킬. 모델별 강점(오디오 동시생성, 4K, 립싱크, 물리 정합성)과 프롬프트 패턴을 정리해 바로 호출 명령까지 제공한다.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://clawhub.ai/skills-sh/genmedia-labs/skills/ai-video-generation",
+      "tags": [
+        "video-generation",
+        "runcomfy",
+        "text-to-video",
+        "image-to-video"
+      ],
+      "addedAt": "2026-09-11"
+    },
+    {
+      "title": "media-use",
+      "description": "BGM·SFX·이미지·아이콘·로고·TTS 보이스오버·컬러그레이딩까지 한 벌로 resolve 한 동사로 찾아 붙여주는 HyperFrames용 미디어 OS 스킬. 화면에 자막만 있고 목소리가 없거나 컷 전환에 효과음이 없는 등 신호를 감지해 먼저 제안하는 프로액티브 룰이 특징.",
+      "icon": "🗂️",
+      "category": "media",
+      "url": "https://clawhub.ai/skills-sh/heygen-com/hyperframes/media-use",
+      "tags": [
+        "media-pipeline",
+        "asset-resolution",
+        "hyperframes",
+        "color-grading"
+      ],
+      "addedAt": "2026-09-11"
     }
   ]
 }
