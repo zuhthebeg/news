@@ -3,6 +3,87 @@
   "articles": [
     {
       "id": "1",
+      "title": "이재명 대통령 국정 지지율 38%, 취임 후 최저치",
+      "summary": "한국갤럽 9월 8~10일 조사에서 이재명 대통령 직무 긍정 평가가 38%로 전주 대비 2%p 하락하며 취임 후 최저를 기록했다. 부정 평가는 51%. 인사(16%)·부동산 정책(24%)이 주요 부정 요인으로 꼽혔다.",
+      "category": "domestic",
+      "source": "동아일보",
+      "sourceUrl": "https://www.donga.com/news/Politics/article/all/20260911/134649096/2",
+      "publishedAt": "2026-09-11T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "코스피 7000선 붕괴, 미국발 인플레 우려에 급락",
+      "summary": "미국 국채금리 급등과 국제유가 100달러 돌파 여파로 코스피가 전일 대비 약 3% 하락 출발하며 7000선이 무너졌다. 삼성전자·SK하이닉스 등 반도체주가 낙폭을 주도했다.",
+      "category": "economy",
+      "source": "코리아중앙데일리",
+      "sourceUrl": "https://www.koreajoongangdaily.com/business/kospi-opens-sharply-lower-tracking-us-losses-amid-inflation-woes/12870907",
+      "publishedAt": "2026-09-11T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "캐나다-우크라이나, 100년 전략적 파트너십 선언 서명",
+      "summary": "마크 카니 캐나다 총리와 젤렌스키 우크라이나 대통령이 캘거리에서 국방·경제·인적교류를 아우르는 100년 파트너십 선언에 서명했다. 훈련 임무 오퍼레이션 유니파이어는 2029년까지 연장된다.",
+      "category": "world",
+      "source": "캐나다 총리실",
+      "sourceUrl": "https://www.pm.gc.ca/en/news/statements/2026/09/10/joint-statement-prime-minister-carney-and-president-zelenskyy",
+      "publishedAt": "2026-09-10T00:00:00-04:00"
+    },
+    {
+      "id": "4",
+      "title": "MS, 사상 최대 규모 966개 보안 패치 배포…제로데이 2건 포함",
+      "summary": "마이크로소프트가 9월 정기 패치에서 966개 취약점을 수정했다. 이 중 CVE-2026-85880, CVE-2026-81963 두 건은 실제 악용이 확인된 제로데이로, CISA는 연방기관에 9월 22일까지 패치를 요구했다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/microsoft/microsoft-september-2026-patch-tuesday-fixes-966-flaws-2-zero-days/",
+      "publishedAt": "2026-09-08T00:00:00-04:00"
+    },
+    {
+      "id": "5",
+      "title": "구글·MS·앤트로픽 등 100여 개 기술기업, AI발 사이버공격 대응 공동서한",
+      "summary": "글로벌 빅테크 100여 곳이 AI 기반 사이버공격 고도화에 대비해 방어 태세를 강화하자는 공개서한을 발표했다. 기존 보안 체계로는 향후 공격 증가를 감당하기 어렵다고 경고했다.",
+      "category": "tech",
+      "source": "MBT Magazine",
+      "sourceUrl": "https://www.mbtmag.com/cybersecurity/article/22974169/leading-tech-companies-issue-call-for-collective-action-on-cyber-defense",
+      "publishedAt": "2026-09-10T00:00:00-04:00"
+    },
+    {
+      "id": "6",
+      "title": "UTMB, 우주항공의학과 신설…심우주 탐사 대비 의학 연구 강화",
+      "summary": "텍사스대 의과대학(UTMB)이 우주항공·탐사의학과를 신설하고 로낙 샤 박사를 초대 학과장으로 임명했다. 장기 우주 임무 시 인체 건강 문제 연구·교육에 집중한다.",
+      "category": "science",
+      "source": "UTMB",
+      "sourceUrl": "https://www.utmb.edu/utmb/news-article/utmb-news/2026/09/10/ronak-shah-to-launch-and-lead-utmb-department-of-aerospace-and-exploration-medicine",
+      "publishedAt": "2026-09-10T00:00:00-05:00"
+    },
+    {
+      "id": "7",
+      "title": "텍사스 A&M, NASA와 우주 의학 연구 협력 협약 체결",
+      "summary": "텍사스 A&M 의대가 NASA와 Space Act Agreement를 체결해 우주 인체 건강·성능 관련 공동연구, 기술개발, 의료훈련 프로그램을 확대하기로 했다.",
+      "category": "science",
+      "source": "KCEN TV",
+      "sourceUrl": "https://www.kcentv.com/article/news/local/texas-am-vashisht-college-of-medicine-signs-space-act-agreement-nasa/500-ee18d35c-936c-4e5f-8180-d46634dc61c2",
+      "publishedAt": "2026-09-08T00:00:00-05:00"
+    },
+    {
+      "id": "8",
+      "title": "'마블스 울버린' 9월 15일 PS5 출시 확정",
+      "summary": "인섬니악 게임즈가 개발한 '마블스 울버린'이 9월 15일 PS5로 정식 출시된다. 소니 인터랙티브 엔터테인먼트가 퍼블리싱을 맡았으며 2021년 최초 발표 이후 오랜 기다림 끝에 출격한다.",
+      "category": "gaming",
+      "source": "Marvel Games",
+      "sourceUrl": "https://www.marvel.com/games/marvels-wolverine",
+      "publishedAt": "2026-09-11T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "'로드 오브 더 폴른 2', 2027년 1분기로 발매 연기",
+      "summary": "소울라이크 신작 '로드 오브 더 폴른 2'가 치열한 9월 출시 경쟁을 피해 2027년 1분기로 발매를 연기했다. PS5·엑스박스 시리즈·PC로 출시 예정.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/lords-of-the-fallen-2-delayed-to-2027",
+      "publishedAt": "2026-06-01T00:00:00+00:00"
+    },
+    {
+      "id": "10",
       "title": "MOSS-SoundEffect v2.0, Qwen3 기반 텍스트→SFX 생성 모델 공개",
       "summary": "[Audio] OpenMOSS-Team이 텍스트 설명만으로 환경음·효과음을 생성하는 MOSS-SoundEffect v2.0을 공개했다. Qwen3-1.7B를 백본으로 한 diffusion+flow-matching 구조이며 라이선스는 apache-2.0으로 상업 이용 가능(HF API 확인, createdAt 2026-05-25·lastModified 2026-05-26). cocy.io에서 쓸모: TangoFlux 대신/보조로 써볼 SFX 생성 후보로, 트랜스포머 자체는 가벼워 3080Ti에서 충분히 로컬 구동 가능해 보인다(VRAM 공식 수치 미확인).",
       "category": "ai-tech",
@@ -11,7 +92,7 @@
       "publishedAt": "2026-05-25T14:19:58Z"
     },
     {
-      "id": "2",
+      "id": "11",
       "title": "Chatterbox 다국어 TTS, Apple Silicon 온디바이스용 CoreML 포팅판 공개",
       "summary": "[Audio][Edge] FluidInference가 ResembleAI의 다국어 음성클로닝 TTS 'Chatterbox'를 iOS/macOS 온디바이스 추론용 CoreML로 포팅해 공개했다. 원본·포팅판 모두 라이선스 MIT로 상업 이용 가능(HF API 확인, createdAt 2026-09-10). cocy.io에서 쓸모: 3080Ti 서버용은 아니지만 추후 모바일 앱에 서버 호출 없이 TTS를 넣을 일이 생기면 참고할 온디바이스 포팅 사례.",
       "category": "ai-tech",
@@ -20,7 +101,7 @@
       "publishedAt": "2026-09-10T20:05:38Z"
     },
     {
-      "id": "3",
+      "id": "12",
       "title": "Wan2.2 14B 비디오 생성모델, W4A8 SVDQuant로 저VRAM 양자화 공개",
       "summary": "[Video][Edge] Wan2.2-T2V-A14B(14B)를 W4A8/SVDQuant 기법으로 4비트 양자화한 버전이 공개돼 원래 대용량 GPU가 필요하던 모델을 소비자용 카드에서 돌릴 여지가 생겼다. 라이선스는 원본 Wan-AI apache-2.0을 그대로 승계(HF API 확인, createdAt 2026-09-10). cocy.io에서 쓸모: 3080Ti 12GB에서 로컬 비디오 생성을 실험해볼 후보(정확한 VRAM 점유량은 공식 벤치마크 미확인이라 실측 필요).",
       "category": "ai-tech",
@@ -29,7 +110,7 @@
       "publishedAt": "2026-09-10T14:17:20Z"
     },
     {
-      "id": "4",
+      "id": "13",
       "title": "Z-Image-Turbo, 브라우저 WebGPU/WebNN용 ONNX 변환판 공개",
       "summary": "[Image][Edge] Alibaba Tongyi의 이미지 생성모델 Z-Image-Turbo(6B)를 브라우저에서 WebGPU/WebNN으로 돌리는 ONNX 변환판이 공개됐다. 원본·변환판 모두 apache-2.0으로 상업 이용 가능(HF API 확인, 변환판 createdAt 2026-09-10·원본 createdAt 2025-11-25). cocy.io에서 쓸모: 서버 호출 없이 브라우저에서 바로 이미지 생성 데모/미니게임에 넣을 수 있는 클라이언트사이드 후보.",
       "category": "ai-tech",
@@ -38,7 +119,7 @@
       "publishedAt": "2026-09-10T17:03:31Z"
     },
     {
-      "id": "5",
+      "id": "14",
       "title": "ACE-Step v1.5, cocy.io가 쓰는 BGM 생성모델 신버전 공개",
       "summary": "[Audio][Tool] cocy.io가 이미 BGM 생성에 쓰고 있는 오픈소스 음악 생성모델 ACE-Step의 1.5 버전(XL, SFT)이 공개됐다. 라이선스는 MIT로 상업 이용 가능(HF API 확인, createdAt 2026-04-02·lastModified 2026-04-07). cocy.io에서 쓸모: 기존 ACE-Step 파이프라인을 그대로 v1.5로 교체 테스트해 품질 개선 여부를 바로 확인할 수 있다.",
       "category": "ai-tech",
