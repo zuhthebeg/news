@@ -81,6 +81,33 @@
       "source": "iXBT Games",
       "sourceUrl": "https://ixbt.games/en/news/2026/08/24/429929-ps5-polucit-silent-hill-townfall-ranse-drugix-konsolei.html",
       "publishedAt": "2026-08-24T00:00:00+00:00"
+    },
+    {
+      "id": "10",
+      "title": "X2Streaming-TTS, Qwen3-TTS 기반 실시간 스트리밍 음성합성 모델 공개",
+      "summary": "[Audio] X Square Robot이 Qwen3-TTS-12Hz-1.7B를 파인튜닝해 텍스트가 도착하는 즉시 발화를 시작하고 재생 진행률·중단 시점을 추적하는 스트리밍 TTS 'X2Streaming-TTS-1.7B'를 공개했다. 라이선스는 apache-2.0으로 상업 이용 가능(HF API 확인, createdAt 2026-09-10). cocy.io에서 쓸모: 실시간 대화형 NPC나 챗봇 음성 응답에서 문장 전체 생성을 기다리지 않고 토큰 단위로 바로 말하게 만드는 저지연 구조를 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/x-square-robot/X2Streaming-TTS-1.7B",
+      "publishedAt": "2026-09-10T10:43:02Z"
+    },
+    {
+      "id": "11",
+      "title": "3AGameFactory, 게임 요구사항 한 줄을 완성 에셋+엔진 코드로 바꾸는 오픈소스 프레임워크 공개",
+      "summary": "[Tool] OpenDCAI가 이미지·3D·모션·오디오·CG 비디오 생성을 하나로 묶고 UE5·Blender·Unity·Godot4·three.js 엔진 연동까지 지원하는 종합 게임 제작 파이프라인 'GameFactory-3A(3AGameFactory)'를 공개했다. 라이선스는 apache-2.0으로 상업 이용 가능(GitHub 확인, 최근 커밋 2026-09-11로 활발히 업데이트 중). cocy.io에서 쓸모: 캐릭터 생성→리깅→모션→오디오로 이어지는 cocy.io 게임 에셋 파이프라인을 하나의 코드베이스로 통합하는 참고 아키텍처로 쓸 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/OpenDCAI/GameFactory-3A",
+      "publishedAt": "2026-09-11T04:36:19Z"
+    },
+    {
+      "id": "12",
+      "title": "Hemera-Nano, 2977만 파라미터 초경량 text-to-image 모델 공개",
+      "summary": "[Image][Edge] 개인 개발자 pauhidalgoo가 처음부터 학습한 2977만 파라미터짜리 256×256 초경량 text-to-image 디노이저 'Hemera-Nano'를 공개했다. 라이선스는 apache-2.0으로 상업 이용 가능(HF API 확인, createdAt 2026-09-11). 다만 모델카드 자체가 \"사전 등록된 성공 기준을 전부 통과하지는 못한 연구 산출물\"이라고 명시해 품질은 실험 단계다. cocy.io에서 쓸모: GPU 서버 없이 브라우저·저사양 기기에서 아이콘/썸네일을 즉석 생성하는 실험용 초경량 모델 후보지만, 실제 품질은 직접 검증 필요.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pauhidalgoo/hemera-nano",
+      "publishedAt": "2026-09-11T19:39:03Z"
     }
   ]
 }
