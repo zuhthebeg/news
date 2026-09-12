@@ -108,6 +108,24 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/pauhidalgoo/hemera-nano",
       "publishedAt": "2026-09-11T19:39:03Z"
+    },
+    {
+      "id": "13",
+      "title": "Tencent, 15억 파라미터 통합 음성 생성·편집 모델 'AuK' 오픈소스 공개",
+      "summary": "[Audio] 텐센트 훈위안이 제로샷 TTS·보이스클로닝·음성편집·음성강화·소스분리를 자연어 지시 하나로 처리하는 15억 파라미터 파운데이션 모델 'AuK'를 공개했다(2026-09-09 오픈소스 전환). 라이선스는 mit로 상업 이용 가능(HF API 확인, createdAt 2026-08-18, lastModified 2026-09-10). 4-step 고속 추론용 증류 버전 'AuK-Flash'도 별도 제공. cocy.io에서 쓸모: 현재 쓰는 CosyVoice3 클로닝+ECAPA 성문 스택을 대체하거나 보완할 후보로, 음성편집·잡음제거까지 한 모델로 되는지 로컬 3080Ti에서 검증해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/tencent/AuK",
+      "publishedAt": "2026-09-09T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "VieNeu-TTS, 브라우저 전용 ONNX Runtime Web 기반 TTS 모델 공개",
+      "summary": "[Edge][Audio] 개발자 duyquangnvx가 베트남어 TTS 모델 'VieNeu-TTS-v3-Turbo'를 ONNX로 변환해 서버 없이 브라우저(onnxruntime-web)에서 바로 구동하는 'vieneu-tts-web-models'를 공개했다. 라이선스는 apache-2.0으로 상업 이용 가능(HF API 확인, createdAt 2026-09-12 — 오늘 공개). cocy.io에서 쓸모: 언어 자체보다 구조가 참고 대상 — TTS를 ONNX+onnxruntime-web으로 패키징해 서버 비용 없이 브라우저에서 돌리는 배포 패턴을, cocy.io 웹게임의 내레이션/음성 피드백 기능에 적용해볼 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/duyquangnvx/vieneu-tts-web-models",
+      "publishedAt": "2026-09-12T03:00:18Z"
     }
   ]
 }
