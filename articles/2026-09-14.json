@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-14",
+  "articles": [
+    {
+      "id": "1",
+      "title": "용혜인 성평등가족부 장관 후보자, 지명 14일 만에 자진 사퇴",
+      "summary": "용혜인 성평등가족부 장관 후보자가 지명 14일 만인 13일 후보직에서 자진 사퇴했다. 비례대표 의원직과 장관직 겸직을 둘러싼 논란에 야당은 물론 여당 일각에서도 거센 사퇴 압박이 이어진 데 따른 결정이다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202609131145001",
+      "publishedAt": "2026-09-13T11:45:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "현대차그룹 \"자체개발 자율주행차, 2029년 양산\"",
+      "summary": "현대차그룹이 자체 기술로 개발한 자율주행차를 2029년부터 양산하겠다는 계획을 밝혔다. 완성차 업체들의 자율주행 기술 내재화 경쟁이 한층 가속화될 전망이다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/industry/2026/09/14/2026091320021094497",
+      "publishedAt": "2026-09-14T20:02:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "교육부, 수시 원서접수 '먹통' 피해 학생 최대 1200명 구제…14~16일 추가 접수",
+      "summary": "지난 11일 유웨이어플라이 서버 장애로 수시 원서 접수를 완료하지 못한 최대 1200명의 학생에게 교육부와 대교협이 14일부터 16일까지 추가 접수 기회를 주기로 했다. 접수 시도 로그인 기록 등이 확인되는 학생이 구제 대상이다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/policy/2026/09/13/2026091319383252829",
+      "publishedAt": "2026-09-13T19:38:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "테슬라 '사이버캡' 유료 운행 개시 직후 美 연방 안전당국 조사 착수",
+      "summary": "테슬라가 오스틴에서 스티어링휠·페달 없는 로보택시 '사이버캡'의 유료 운행을 시작하자 미국 도로교통안전국(NHTSA)이 차량 인증 절차의 적법성을 따지는 감사에 착수했다. 약 1000대가 조사 대상이며, 별도로 테슬라 완전자율주행(FSD) 소프트웨어 전반에 대한 조사도 진행 중이다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/04/feds-launch-investigation-into-teslas-cybercab-deployment/",
+      "publishedAt": "2026-09-04T00:00:00-04:00"
+    },
+    {
+      "id": "5",
+      "title": "체크포인트 VPN 치명적 취약점 2건, 네덜란드 정부 \"임박한 공격 가능성\" 경고",
+      "summary": "네덜란드 국가사이버보안센터(NCSC)가 체크포인트 VPN 게이트웨이의 치명적 취약점(CVE-2026-85102, CVE-2026-85103) 두 건에 대해 조만간 실공격이 발생할 가능성이 높다고 경고했다. CVSS 9.8의 인증 우회 원격코드실행(RCE) 결함으로, 체크포인트는 지난 9일 보안 패치를 배포했다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/dutch-ncsc-critical-check-point-vpn-flaws-exploitation-is-imminent/",
+      "publishedAt": "2026-09-10T00:00:00-04:00"
+    },
+    {
+      "id": "6",
+      "title": "英 UCL 연구팀, 체내 염증을 스스로 끄는 '숨은 스위치' 발견",
+      "summary": "영국 유니버시티칼리지런던(UCL) 연구팀이 체내 염증 반응을 자체적으로 종료시키는 새로운 분자 스위치를 발견했다고 밝혔다. 이 스위치를 표적으로 삼으면 만성 염증성 질환 치료제 개발의 새로운 실마리가 될 수 있다는 설명이다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260911214306.htm",
+      "publishedAt": "2026-09-11T00:00:00-04:00"
+    },
+    {
+      "id": "7",
+      "title": "금성의 옅은 노란 구름 속에 숨은 미지의 '검은 물질' 정체 좁혀져",
+      "summary": "과학자들이 금성 대기의 자외선 흡수 패턴을 정밀 분석해 정체불명 물질이 빛을 얼마나 강하게 흡수하는지 계산해냈다. 이번 분석으로 해당 물질이 유기물인지 무기물인지 등 후보군이 크게 좁혀져 향후 탐사선을 통한 규명 가능성이 높아졌다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260912220022.htm",
+      "publishedAt": "2026-09-12T00:00:00-04:00"
+    },
+    {
+      "id": "8",
+      "title": "'마블 울버린' PS5 9월15일 출시…인섬니악 신작",
+      "summary": "인섬니악 게임즈가 개발한 PS5 독점 액션 어드벤처 '마블 울버린'이 9월 15일 정식 출시된다. 오픈월드 대신 서사 중심 싱글플레이로 제작됐으며, 매드리퍼·캐나다 황야·도쿄 등을 무대로 로건의 뮤턴트 능력을 활용한 전투를 선보인다.",
+      "category": "gaming",
+      "source": "PlayStation Blog 한국어",
+      "sourceUrl": "https://blog.ko.playstation.com/2026/09/03/20260903-marvel",
+      "publishedAt": "2026-09-03T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "크래프톤, '게임스컴 2026'서 신작 5종 라인업 첫 공개",
+      "summary": "크래프톤이 게임스컴 2026에서 '데드넷', '프로젝트 제타', '타래: 언바운드' 등 신작 5종의 라인업을 처음 공개했다. 멀티팀 택티컬 아레나부터 2인 협동 내러티브 어드벤처, 동양풍 다크판타지 액션RPG까지 장르가 다양하다.",
+      "category": "gaming",
+      "source": "KRAFTON",
+      "sourceUrl": "https://www.krafton.com/news/press/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4-%EA%B2%8C%EC%9E%84%EC%8A%A4%EC%BB%B4-2026%EC%84%9C-5%EA%B0%9C-%EC%8B%A0%EC%9E%91-%EB%9D%BC%EC%9D%B8%EC%97%85-%EC%B2%AB-%EA%B3%B5%EA%B0%9C/",
+      "publishedAt": "2026-08-26T00:00:00+09:00"
+    }
+  ]
+}
