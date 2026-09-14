@@ -81,6 +81,51 @@
       "source": "KRAFTON",
       "sourceUrl": "https://www.krafton.com/news/press/%ED%81%AC%EB%9E%98%ED%94%84%ED%86%A4-%EA%B2%8C%EC%9E%84%EC%8A%A4%EC%BB%B4-2026%EC%84%9C-5%EA%B0%9C-%EC%8B%A0%EC%9E%91-%EB%9D%BC%EC%9D%B8%EC%97%85-%EC%B2%AB-%EA%B3%B5%EA%B0%9C/",
       "publishedAt": "2026-08-26T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "OmniVoice MLX 4bit — 애플 실리콘에서 도는 제로샷 보이스클로닝 TTS 양자화 모델",
+      "summary": "[Audio][Edge] k2-fsa/OmniVoice를 4bit MLX로 양자화한 SwinliQ-AIs/OmniVoice-MLX-4bit(HF 확인: createdAt 2026-09-13, apache-2.0). 4bit 기준 레포 용량 0.75GB(원본 대비 -77%), 참조 음성 넣으면 제로샷 보이스클로닝, 없으면 기본 보이스로 TTS. cocy.io에서 쓸모: 맥 로컬에서 목소리 더빙/내레이션 프로토타입을 GPU 서버 없이 mlx-audio로 바로 뽑아볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SwinliQ-AIs/OmniVoice-MLX-4bit",
+      "publishedAt": "2026-09-13T16:27:17+00:00"
+    },
+    {
+      "id": "11",
+      "title": "NOESIS-Qwen3-TTS-1.7B — 112개 언어 제로샷 보이스클로닝 TTS 파인튜닝 번들",
+      "summary": "[Audio][Tool] FINAL-Bench/Darwin-TTS-1.7B-Cross를 베이스로 한 AMAImedia/NOESIS-Qwen3-TTS-1.7B-Talker-Combo-LLM2-ASR2-BF16(HF 확인: createdAt 2026-08-27, lastModified 2026-09-13, apache-2.0). 언어군별 LoRA 어댑터(로망스/게르만/슬라브/인도계 등)를 묶어 112개 언어 제로샷 보이스클로닝 지원, 1.7B라 3080Ti에 여유롭게 올라감. cocy.io에서 쓸모: voicematch/게임 다국어 더빙에서 유료 TTS API 없이 로컬로 각 언어 보이스 샘플을 만들어볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/AMAImedia/NOESIS-Qwen3-TTS-1.7B-Talker-Combo-LLM2-ASR2-BF16",
+      "publishedAt": "2026-09-13T11:35:48+00:00"
+    },
+    {
+      "id": "12",
+      "title": "GeoCore-9B diffusers — 위성사진 텍스트투이미지 생성 모델 공개",
+      "summary": "[Image] JeonghyeokDo/GeoCore-9B를 Diffusers 파이프라인으로 변환한 BiliSakura/GeoCore-9B-diffusers(HF 확인: createdAt 2026-09-14 당일 공개, apache-2.0). 텍스트(+선택적 GSD·위경도)로 256×256 광학 위성사진 생성, Flux.2 VAE·CLIP-L·T5-XXL 조합. cocy.io에서 쓸모: 게임 맵/지형 프리뷰나 항공뷰 배경 에셋을 실제 위성사진 톤으로 빠르게 스케치해볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/BiliSakura/GeoCore-9B-diffusers",
+      "publishedAt": "2026-09-14T00:36:24+00:00"
+    },
+    {
+      "id": "13",
+      "title": "Alaya-EVOKE-Turbo — 카메라 컨트롤 가능한 3스텝 월드모델 비디오 생성",
+      "summary": "[Video] AlayaLab/Evoke-Turbo(HF 확인: createdAt 2026-09-11, apache-2.0). Alaya-EVOKE의 컨트롤 최적화 증류 버전으로 3스텝·CFG 없이 384×640 24fps 생성, 카메라 모션·장면 지시 추종에 집중. GitHub·arXiv 논문 공개(공식 저장소 AlayaLab/Evoke). VRAM 요구치는 모델카드에 명시 없어 3080Ti 구동 여부는 미확인. cocy.io에서 쓸모: 게임 트레일러용 카메라 워크 있는 짧은 컷을 로컬에서 실험해볼 후보(단, 구동 확인 필요).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/AlayaLab/Evoke-Turbo",
+      "publishedAt": "2026-09-11T13:32:00+00:00"
+    },
+    {
+      "id": "14",
+      "title": "WebLLM v0.2.85 — 브라우저 WebGPU 로컬 LLM 추론 엔진 업데이트",
+      "summary": "[Edge][Tool] mlc-ai/web-llm v0.2.85(GitHub 확인: 릴리즈 2026-09-08, 저장소 라이선스 Apache-2.0). OPFS 동기 액세스 핸들·커밋 캐시 레코드 추가, TVM 웹 런타임 0.27.0-dev0로 갱신, 서비스워커 재시작 시 요청 유실 방지 등 안정성 위주 패치. cocy.io에서 쓸모: 서버 호출 없이 브라우저(WebGPU)에서 바로 도는 LLM 데모/툴을 tool.cocy.io에 얹을 때 기반 엔진으로 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/mlc-ai/web-llm/releases/tag/v0.2.85",
+      "publishedAt": "2026-09-08T00:08:52+00:00"
     }
   ]
 }
