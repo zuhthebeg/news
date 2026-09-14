@@ -1009,6 +1009,19 @@
         "color-grading"
       ],
       "addedAt": "2026-09-11"
+    },
+    {
+      "title": "MaxVideoAI",
+      "description": "MaxVideoAI 원격 MCP로 AI 영상 제작을 계정 인지형으로 처리하는 스킬. 모델 비교·예산계산까지는 무료로 하고, 정확한 견적을 사용자가 승인한 뒤에만 실제 유료 생성을 실행해 실수로 과금되는 걸 막는다.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://clawhub.ai/camgraphe/skills/maxvideoai",
+      "tags": [
+        "video-generation",
+        "mcp",
+        "budget-aware"
+      ],
+      "addedAt": "2026-09-14"
     }
   ]
 }
