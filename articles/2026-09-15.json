@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-15",
+  "articles": [
+    {
+      "id": "1",
+      "title": "확대된 간첩법 일요일부터 시행…반도체·AI 기술유출도 국가안보범죄로",
+      "summary": "형법 제98조의2 신설로 외국 관련 국가기밀(반도체·AI 등 국가핵심기술 포함) 절취·유출이 최초로 간첩죄 대상에 포함됐다. 최소 징역 3년, 최대 30년. 작년 기술유출 179건 중 33건이 해외유출, 이 중 18건이 중국 관련으로 나타났다.",
+      "category": "domestic",
+      "source": "Asia News Network",
+      "sourceUrl": "https://asianews.network/beyond-north-korea-seouls-spy-law-targets-tech-theft/",
+      "publishedAt": "2026-09-15T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "李대통령 지지율 33.8% '또 최저치'…민주 36.1%·국힘 42.1%[리얼미터]",
+      "summary": "리얼미터 조사(9.7~11, 전국 2,515명) 결과 이재명 대통령 국정수행 긍정평가가 전주比 3.6%p 하락한 33.8%로 취임 후 최저치, 9주 연속 하락. 부정평가는 63.3%로 첫 60%대 진입. 20대 지지율은 18.6%로 최저치.",
+      "category": "domestic",
+      "source": "연합인포맥스",
+      "sourceUrl": "https://news.einfomax.co.kr/news/articleView.html?idxno=4434623",
+      "publishedAt": "2026-09-14T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "사우디 송유관 폐쇄에 국제유가 상승…브렌트유 105달러대",
+      "summary": "사우디아라비아 핵심 '동서 송유관'이 드론 공격으로 폐쇄되며 14일(현지시간) 브렌트유가 전장比 1.02% 오른 배럴당 105.68달러, WTI는 1.34% 오른 101.39달러에 마감. 트럼프 대통령의 이란 관련 발언 이후 상승폭은 축소.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260915005800072",
+      "publishedAt": "2026-09-15T04:57:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Zero-Click WeChat Worm Could Hijack Accounts and Spread via Single Call",
+      "summary": "텐센트 위챗에서 발신자가 응답하지 않아도 계정을 탈취해 다른 연락처로 자동 확산하는 웜(WeWorm) 취약점이 발견됐다. 텐센트는 8월 21일 안드로이드(8.0.77)·iOS(8.0.76) 패치를 배포했으며 실제 악용 사례는 아직 확인되지 않았다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/wechat-zero-click-worm-took-over.html",
+      "publishedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Hackers Deploy Linux Rootkit on F5 BIG-IP APM Devices",
+      "summary": "공격자들이 해킹된 F5 BIG-IP APM 장비에 리눅스 루트킷을 심어 PHP 파일 로딩을 가로채고 메모리에 파일리스 웹셸을 주입하는 사례가 확인됐다. 지난 3월 패치된 원격코드실행 취약점(CVE-2025-53521)의 2단계 공격으로 추정되며, ESET은 이를 'PoisonedRefresh'로 명명했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/f5-big-ip-apm-malware-injects-php-web.html",
+      "publishedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Mercury Has Shrunk Even More than Planetary Scientists Thought",
+      "summary": "독일항공우주센터(DLR) 주도 연구에 따르면 수성의 지름 수축량이 기존 추정치(4~16km)보다 최대 23km까지 더 컸을 가능성이 제기됐다. 분화구 잔해가 표면의 주름 지형을 가려 수축 흔적을 과소평가했다는 분석이다. 연구는 Geophysical Research Letters에 게재.",
+      "category": "science",
+      "source": "SciNews",
+      "sourceUrl": "https://www.sci.news/space/mercury-size-15063.html",
+      "publishedAt": "2026-09-01T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "The Moon may have formed intact just hours after a giant collision",
+      "summary": "사우스웨스트연구소·애리조나대 연구팀이 지구-테이아 충돌 시뮬레이션에 처음으로 물질 강도(온도 의존적 지질 강도)를 반영한 결과, 조건에 따라 달이 파편 원반 없이 충돌 후 단 5시간 만에 통째로 형성됐을 가능성을 제시했다. 연구는 The Astrophysical Journal Letters에 게재.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260909231729.htm",
+      "publishedAt": "2026-09-09T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "넥슨·넷마블·엔씨·스마일게이트, 도쿄게임쇼서 신작 선보인다",
+      "summary": "17일 개막하는 도쿄게임쇼 2026(30주년, 역대 최대 규모)에 국내 3N(넥슨·넷마블·엔씨)과 스마일게이트가 총출동한다. 넥슨 '파레이돌리아', 엔씨 '아스트라에 오라티오', 넷마블 '샹그릴라 프론티어'·'나 혼자만 레벨업: 카르마' 등을 최초 공개. 중국 게임사들은 외교 갈등으로 전원 불참.",
+      "category": "gaming",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260914174800017",
+      "publishedAt": "2026-09-15T07:30:00+09:00"
+    }
+  ]
+}
