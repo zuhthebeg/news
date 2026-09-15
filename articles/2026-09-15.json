@@ -90,6 +90,24 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/loudreader/loudr-1-turbo",
       "publishedAt": "2026-09-07T16:49:40+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Breeze TTS 2, 실시간 상호작용용 오픈웨이트 TTS 공개",
+      "summary": "[Audio] BreezeBlue가 실시간 대화용으로 설계된 TTS 모델 Breeze-TTS-2를 공개했다(HF createdAt 2026-08-25, 최근 업데이트 09-09 확인). 라이선스 태그가 license:other라 상업 이용 조건은 원문 직접 확인 필요(라이선스 미확인). cocy.io에서 쓸모: CosyVoice3 대비 저지연 실시간 응답이 필요한 NPC 대화형 음성 실험 후보(라이선스 확정 전엔 채택 보류).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/BreezeBlue/Breeze-TTS-2",
+      "publishedAt": "2026-08-25T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "NVIDIA, Qwen3.8-27B를 NVFP4로 양자화한 엣지용 버전 공개",
+      "summary": "[Edge][Tool] NVIDIA가 Qwen3.8-27B를 NVFP4 4비트로 양자화해 로컬 GPU 부담을 크게 줄인 버전을 공개했다(HF createdAt 2026-09-04, apache-2.0 확인). 원본은 코딩·에이전틱 작업에 강한 모델. cocy.io에서 쓸모: 로컬 코딩 에이전트/도구 실험용으로 3080Ti에서 구동 여지를 넓혀주는 양자화 사례로 참고.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4",
+      "publishedAt": "2026-09-04T00:00:00Z"
     }
   ]
 }
