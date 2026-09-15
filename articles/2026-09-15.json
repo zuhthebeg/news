@@ -108,6 +108,78 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/nvidia/Qwen3.8-27B-NVFP4",
       "publishedAt": "2026-09-04T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "김승원 법무부 장관 후보자, 인사청문회서 각종 의혹 사과",
+      "summary": "김승원 법무부 장관 후보자가 15일 국회 법제사법위원회 인사청문회에 출석해 코로나19 치료제 신약 승인 청탁 등 제기된 의혹에 대해 모두발언에서 사과했다. 여야는 청문회 내내 거친 언사를 주고받으며 격돌했다.",
+      "category": "domestic",
+      "source": "노컷뉴스",
+      "sourceUrl": "https://www.nocutnews.co.kr/news/6578216",
+      "publishedAt": "2026-09-15T11:10:00+09:00"
+    },
+    {
+      "id": "14",
+      "title": "서울 시내버스 노사협상 결렬…16일 첫차부터 총파업",
+      "summary": "서울시버스노동조합과 사측의 임금·단체협약 교섭이 15일 밤 최종 결렬되며 16일 오전 4시부터 파업 돌입이 예고됐다. 통상임금 산정 기준을 둘러싼 이견이 핵심 쟁점으로, 노조는 자정까지 사측의 추가 제안을 기다리겠다는 입장이다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202609152202118511",
+      "publishedAt": "2026-09-15T22:03:00+09:00"
+    },
+    {
+      "id": "15",
+      "title": "코스피 6627.26 마감…美 국채금리 급등에 4거래일째 하락",
+      "summary": "코스피가 15일 전 거래일 대비 0.85% 내린 6627.26으로 마감하며 4거래일 연속 하락했다. 미 국채 10년물 금리가 5%를 재돌파하고 국제유가까지 오르며 저가매수 심리가 위축됐다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/stock/2026/09/15/2026091515295351946",
+      "publishedAt": "2026-09-15T16:02:00+09:00"
+    },
+    {
+      "id": "16",
+      "title": "중국계 해커, 크롬·윈도 제로데이 체인으로 백도어 'GRIMWEDGE' 유포",
+      "summary": "중국 연계 위협 그룹 UTA0560이 크롬과 윈도의 제로데이 취약점 3건을 연쇄 악용해 자바스크립트 백도어 GRIMWEDGE를 유포한 정황이 확인됐다. 9월 1일 여러 비정부기구(NGO)를 대상으로 스피어피싱 공격이 이뤄졌으며, GRIMWEDGE는 호스트 정찰·파일 및 프로세스 관리·명령 실행 기능을 갖췄다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/china-linked-hackers-exploit-chrome.html",
+      "publishedAt": "2026-09-15T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "공정위, AI 인재 '통째 영입'도 기업결합 신고 대상으로 명문화",
+      "summary": "공정거래위원회가 영업양수 계약 없이 핵심 인력만 조직적으로 이전하는 '인력확보형 거래(애크하이어)'를 기업결합 신고·심사 대상에 포함하는 고시 개정안을 9일부터 30일간 행정예고했다. 최근 글로벌 빅테크가 AI 스타트업 핵심 인재를 대규모로 영입하는 방식이 확산하자 신고의무 사각지대를 막기 위한 조치다.",
+      "category": "tech",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/economy/2026/09/09/2026090910422192766",
+      "publishedAt": "2026-09-09T10:48:00+09:00"
+    },
+    {
+      "id": "18",
+      "title": "SDSS, 사상 첫 남반구 광학 스펙트럼 포함한 20차 데이터 공개",
+      "summary": "슬론디지털스카이서베이(SDSS)가 20번째 데이터 릴리스(DR20)를 공개했다. 별·은하 300만 개 이상의 스펙트럼을 담았으며 칠레 라스캄파나스 천문대의 뒤퐁 망원경으로 관측한 남반구 최초의 SDSS-V 광학 스펙트럼이 처음 포함됐다.",
+      "category": "science",
+      "source": "phys.org",
+      "sourceUrl": "https://phys.org/news/2026-09-20th-sloan-digital-sky-survey.html",
+      "publishedAt": "2026-09-07T00:00:00Z"
+    },
+    {
+      "id": "19",
+      "title": "암젠 이중항체 '임델트라'+'임핀지' 병용, 소세포폐암 생존율 개선 입증",
+      "summary": "암젠의 3상 DeLLphi-305 임상시험에서 타를라타맙(임델트라)과 듀르발루맙(임핀지) 병용 유지요법이 광범위 소세포폐암 환자의 전체 생존율을 듀르발루맙 단독 대비 통계적으로 유의미하게 개선했다. 이중특이항체(BiTE) 치료제가 1차 유지요법에서 생존율 개선을 입증한 첫 사례로, 새로운 안전성 문제는 발견되지 않았다.",
+      "category": "science",
+      "source": "Amgen",
+      "sourceUrl": "https://www.amgen.com/newsroom/press-releases/2026/09/imdelltra-in-combination-with-imfinzi-demonstrated-landmark-improvement-in-overall-survival-in-first-line-extensive-stage-small-cell-lung-cancer",
+      "publishedAt": "2026-09-08T00:00:00Z"
+    },
+    {
+      "id": "20",
+      "title": "인섬니악 '마블: 울버린' 정식 출시…호쾌한 액션에 호평",
+      "summary": "스파이더맨 시리즈 개발사 인섬니악 게임즈의 신작 '마블: 울버린'이 9월 15일 정식 출시됐다. 출시 전 메타크리틱 평점 77점으로 다소 아쉬움을 남겼지만 리뷰들은 공통적으로 울버린 특유의 호쾌한 액션을 장점으로 꼽았다.",
+      "category": "gaming",
+      "source": "웹진 인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=320868",
+      "publishedAt": "2026-09-15T00:00:00+09:00"
     }
   ]
 }
