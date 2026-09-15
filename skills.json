@@ -1022,6 +1022,32 @@
         "budget-aware"
       ],
       "addedAt": "2026-09-14"
+    },
+    {
+      "title": "TikTok Scraper",
+      "description": "로그인·프록시 없이 초당 100건, 98% 성공률로 TikTok 영상·프로필·해시태그·댓글을 긁어오는 API 스킬. 4개 전용 액터로 검색·크리에이터 메타데이터까지 커버.",
+      "icon": "📱",
+      "category": "data",
+      "url": "https://clawhub.ai/apidojo-io/skills/tiktok-scraper",
+      "tags": [
+        "tiktok",
+        "scraping",
+        "social-media"
+      ],
+      "addedAt": "2026-09-15"
+    },
+    {
+      "title": "doc-governance",
+      "description": "\"시스템이 실제로 하는 일\"과 \"팀이 믿는 일\"의 괴리를 드러내는 문서 거버넌스 프레임워크를 프로젝트에 설치·진단하는 스킬. 대형 프로젝트 사후분석에서 뽑아낸 구조.",
+      "icon": "📐",
+      "category": "dev",
+      "url": "https://clawhub.ai/xiaoba-dev/skills/doc-governance",
+      "tags": [
+        "documentation",
+        "governance",
+        "architecture"
+      ],
+      "addedAt": "2026-09-15"
     }
   ]
 }

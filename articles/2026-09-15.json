@@ -72,6 +72,24 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20260914174800017",
       "publishedAt": "2026-09-15T07:30:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "ComfyUI-Photoshoot, 동일 인물 유지한 채 포즈·구도만 바꾸는 오픈소스 노드팩 공개 (MIT)",
+      "summary": "[Image] ralksta가 2026-08-21 공개한 ComfyUI 커스텀 노드팩 'ComfyUI-Photoshoot'(MIT 라이선스, 상업 이용 가능)은 인물을 한 번만 만들어두면 프레이밍·포즈·배치·표정·화면비만 바꿔가며 동일 인물로 시리즈 컷을 뽑아주는 도구다. 출시 한 달이 채 안 돼 GitHub 별 77개를 모았다. cocy.io에서 쓸모: 게임 캐릭터 프로모 이미지나 SNS용 시리즈컷을 SDXL/LuminarQMix 파이프라인에서 인물 일관성 유지한 채 대량 생성할 때 바로 붙일 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/ralksta/ComfyUI-Photoshoot",
+      "publishedAt": "2026-08-22T04:49:50+09:00"
+    },
+    {
+      "id": "10",
+      "title": "loudkit, 오프라인 음성복제 지원하는 오픈소스 로컬 TTS 엔진 공개 (Apache-2.0)",
+      "summary": "[Audio] loudreader가 공개한 로컬 TTS 엔진 'loudkit'과 전용 모델 'loudr-1-turbo'(HF 등록 2026-09-07, apache-2.0 라이선스로 상업 이용 가능)는 10개 언어 28개 목소리를 지원하고 약 10초 분량 참조 음성만으로 보이스클로닝이 되며, Python·Swift·Go·Rust·TypeScript SDK를 함께 제공한다. 계정·과금·텔레메트리 없이 완전 오프라인 구동. cocy.io에서 쓸모: 앱·웹 서비스에 내장형 TTS/음성 안내를 붙일 때 CosyVoice 대체 후보로 벤치마크해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/loudreader/loudr-1-turbo",
+      "publishedAt": "2026-09-07T16:49:40+09:00"
     }
   ]
 }
