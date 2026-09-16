@@ -63,6 +63,15 @@
       "source": "연합뉴스",
       "sourceUrl": "https://n.news.naver.com/mnews/article/001/0016312357",
       "publishedAt": "2026-09-16T08:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "[Tool] 사진 몇 장으로 텍스처 입힌 3D 메시(.glb) 뽑는 로컬 엔진 'LocalMesh Engine' 공개",
+      "summary": "[Tool] 사진 1장 또는 앞·뒤·좌·우 4장을 텍스처가 입혀진 3D 메시(.glb)로 변환하는 로컬 엔진 'LocalMesh Engine'이 공개됐다. Microsoft TRELLIS.2와 TencentARC Pixal3D 가중치를 fp8로 경량화해 8GB급 GPU 한 대로 로컬 구동되며, 엔진 코드는 Apache-2.0이다(단 이미지 인코더로 쓰는 Meta DINOv3는 별도 라이선스 동의·승인 필요, 텍스처·구조 디코더는 MIT). cocy.io에서 쓸모: 캐릭터·소품 컨셉 이미지를 바로 게임용 3D 에셋(.glb)으로 뽑아내는 로컬 파이프라인으로 붙여볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Qtn-Cls/LocalMeshEngine",
+      "publishedAt": "2026-09-10T16:57:56+09:00"
     }
   ]
 }
