@@ -1,0 +1,68 @@
+{
+  "date": "2026-09-16",
+  "articles": [
+    {
+      "id": "1",
+      "title": "서울 시내버스 노사협상 극적 타결…16일 첫차부터 정상 운행",
+      "summary": "서울 시내버스 노사가 임금 3.2% 인상에 합의하며 파업 위기를 넘겼다. 16일 새벽 첫차부터 전 노선이 정상 운행에 들어갔지만, 통상임금 산정 방식을 둘러싼 갈등은 여전히 남아있다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://n.news.naver.com/mnews/ranking/article/001/0016313300?ntype=RANKING",
+      "publishedAt": "2026-09-16T08:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "정부, 내일 NSC서 '호르무즈 파병' 논의할 듯…신중론도 여전",
+      "summary": "정부가 17일 국가안전보장회의(NSC)에서 호르무즈 해협 파병 문제를 논의할 것으로 알려졌다. 미국의 파병 압박이 이어지는 가운데 국내 정치권에서는 신중론도 나오고 있다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/001/0016313333",
+      "publishedAt": "2026-09-16T06:30:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "美 상원 클래리티법 부결…비트코인 7만5000달러대로 급락",
+      "summary": "미국 상원이 가상자산 시장구조 법안(클래리티법)을 부결시키면서 비트코인이 급락했다. 규제 불확실성이 다시 커지며 가상자산 시장 전반이 충격을 받았다.",
+      "category": "economy",
+      "source": "이데일리",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/018/0006370094",
+      "publishedAt": "2026-09-16T07:30:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "값 올린 아이폰18 프로, 예상보다 덜 팔린다",
+      "summary": "애플이 가격을 인상한 아이폰18 프로의 초기 판매량이 시장 기대치에 미치지 못하는 것으로 나타났다.",
+      "category": "tech",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/092/0002437583",
+      "publishedAt": "2026-09-16T08:57:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "마이크론 대만 노조, 영업이익 15% 배분 요구하며 파업투표 검토",
+      "summary": "마이크론 대만 법인 노조가 영업이익의 15%를 성과급으로 배분하라고 요구하며 파업 투표 가능성을 경고했다. 회사 측이 제시한 1인당 약 4500만원 규모 보상안은 거부했다.",
+      "category": "tech",
+      "source": "조선일보",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/023/0003998620",
+      "publishedAt": "2026-09-16T08:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "누리호 5차 발사, 역대 최다 위성 15기 싣고 우주로…국내 첫 군집위성 도전",
+      "summary": "한국형발사체 누리호 5차 발사가 역대 최다인 위성 15기를 탑재해 국내 최초 군집위성 시대를 연다. 먼지·방사선 등 우주환경 데이터 수집에도 나선다.",
+      "category": "science",
+      "source": "동아사이언스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/584/0000039332",
+      "publishedAt": "2026-09-15T18:03:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "카카오게임즈, 캐주얼 게임사 미투온 980억원에 인수",
+      "summary": "카카오게임즈가 캐주얼 게임 전문 개발사 미투온을 980억원에 인수했다. 라인야후 체제 출범 후 첫 M&A로, 글로벌 캐주얼 게임 경쟁력 강화를 노린다.",
+      "category": "gaming",
+      "source": "연합뉴스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/001/0016312357",
+      "publishedAt": "2026-09-16T08:00:00+09:00"
+    }
+  ]
+}
