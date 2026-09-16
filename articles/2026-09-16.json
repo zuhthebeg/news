@@ -72,6 +72,42 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/Qtn-Cls/LocalMeshEngine",
       "publishedAt": "2026-09-10T16:57:56+09:00"
+    },
+    {
+      "id": "9",
+      "title": "[Audio][Edge] 온디바이스 초경량 TTS 'Supertonic 3' — 서버 없이 로컬에서 즉시 음성 합성",
+      "summary": "[Audio][Edge] ONNX 기반으로 서버 없이 기기에서 바로 돌아가는 초경량 온디바이스 TTS 'Supertonic 3'가 공개됐다. 한국어·영어·일본어 등 다국어를 지원한다. license: openrail(HF API 확인, 최초공개 2026-05-06, 최근 업데이트 2026-05-18). cocy.io에서 쓸모: 로컬 GPU 없는 경량 환경(모바일 웹뷰 등)에 바로 붙일 수 있는 저사양 TTS 후보로, 그놈·고스톱 같은 서비스의 짧은 음성 안내에 시험해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Supertone/supertonic-3",
+      "publishedAt": "2026-05-07T05:46:20+09:00"
+    },
+    {
+      "id": "10",
+      "title": "[Edge][Tool] 20억 파라미터 온디바이스 LLM 'MiniCPM5-2B' 업데이트, GGUF 변환본 동시 제공",
+      "summary": "[Edge][Tool] 2B급 온디바이스 LLM 'MiniCPM5-2B'가 업데이트됐고 llama.cpp로 바로 돌릴 수 있는 GGUF 변환본도 함께 제공된다. license: apache-2.0(HF API 확인, 최초공개 2026-09-06, 최근 업데이트 2026-09-12). cocy.io에서 쓸모: 서버 비용 없이 로컬에서 돌리는 경량 텍스트 처리(게임 NPC 대사 초안, 번역 백오피스 보조) 실험에 붙여볼 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/openbmb/MiniCPM5-2B",
+      "publishedAt": "2026-09-06T20:12:19+09:00"
+    },
+    {
+      "id": "11",
+      "title": "[Image][Tool] 프레임 12장 고정 컨텍스트로 긴 영상을 실시간 3D 복원하는 'ABot-Recon' 공개",
+      "summary": "[Image][Tool] 긴 영상에서 카메라 동작과 장면 기하를 12프레임짜리 고정 로컬 컨텍스트만으로 온라인 추정해 포인트맵·상대 포즈를 누적 합성하는 스트리밍 3D 복원 모델 'ABot-Recon'이 공개됐다. license: apache-2.0(HF API 확인, 최초공개 2026-08-26, 최근 업데이트 2026-09-01). cocy.io에서 쓸모: 촬영 영상을 3D 배경·맵 에셋으로 변환하는 파이프라인 실험 후보(오늘 함께 올라온 LocalMesh Engine이 정지 이미지→메시라면, 이쪽은 영상→3D 복원이라 용도가 다르다).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/acvlab/ABot-Recon",
+      "publishedAt": "2026-08-26T09:51:23+09:00"
+    },
+    {
+      "id": "12",
+      "title": "[Edge][Tool] 장기 과제 수행형 소형 에이전트 모델 'Nex-N2.5-mini' 공개",
+      "summary": "[Edge][Tool] 실환경 장기 과제(long-horizon) 수행에 특화된 에이전트형 소형 모델 'Nex-N2.5-mini'가 공개됐다. license: apache-2.0(HF API 확인, 최초공개 2026-09-08, 최근 업데이트 2026-09-08). cocy.io에서 쓸모: 반복적인 콘텐츠 파이프라인 작업(에셋 태깅, 번역 QA, 배포 전 체크리스트 자동화)을 로컬에서 굴리는 에이전트 실험에 시도해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nex-agi/Nex-N2.5-mini",
+      "publishedAt": "2026-09-08T14:08:43+09:00"
     }
   ]
 }
