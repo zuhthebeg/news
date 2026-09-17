@@ -81,6 +81,51 @@
       "source": "Polygon",
       "sourceUrl": "https://www.polygon.com/diablo-5-early-reveal-blizzard-diablo-4-future/",
       "publishedAt": "2026-09-16T15:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "ACE-Step 1.5 — MIT 라이선스 텍스트-투-뮤직/SFX 생성 모델",
+      "summary": "[Audio] ACE-Step 1.5(HF license 태그 mit 확인, 2026-01-23 공개)는 텍스트 프롬프트로 BGM·효과음을 뽑아내는 오픈 음악 생성 모델. cocy.io에서 쓸모: 고스톱/카드게임 BGM 제작에 쓰는 ACE-Step 로컬 파이프라인을 그대로 최신판으로 업그레이드 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ACE-Step/Ace-Step1.5",
+      "publishedAt": "2026-01-23T18:59:48+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Chatterbox Flash — Resemble AI의 저지연 실시간 TTS (MIT)",
+      "summary": "[Audio] Resemble AI가 공개한 Chatterbox Flash(HF license 태그 mit 확인, 2026-05-28 공개, 2026-07-06 최종 업데이트)는 기존 Chatterbox보다 응답 지연을 줄인 실시간형 TTS 변형. cocy.io에서 쓸모: 게임 인게임 음성 안내나 실시간 더빙처럼 지연에 민감한 곳에 로컬 TTS로 바로 시도 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox-flash",
+      "publishedAt": "2026-05-29T03:13:52+09:00"
+    },
+    {
+      "id": "12",
+      "title": "VibeVoice-Realtime-0.5B ONNX 포팅 — 브라우저 WebGPU에서 도는 실시간 TTS",
+      "summary": "[Audio][Edge] onnx-community가 이번 주(2026-09-11 공개, HF license 태그 mit 확인) 마이크로소프트 VibeVoice-Realtime-0.5B를 ONNX로 포팅해 ONNX Runtime/WebGPU로 브라우저에서 바로 돌아가는 스트리밍 TTS를 공개했다. cocy.io에서 쓸모: 서버 TTS 비용 없이 tool.cocy.io 같은 페이지에 클라이언트 사이드 음성 안내를 붙일 수 있음.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/onnx-community/VibeVoice-Realtime-0.5B-Onnx",
+      "publishedAt": "2026-09-11T22:30:20+09:00"
+    },
+    {
+      "id": "13",
+      "title": "NVIDIA Sana 1.6B — 저사양 로컬 GPU용 경량 이미지 생성 모델 (Apache-2.0)",
+      "summary": "[Image] Sana 1600M(Efficient-Large-Model/NVIDIA, HF license 태그 apache-2.0 확인, 2026-07-31 최종 업데이트)은 파라미터 수를 줄여 소비자용 GPU에서도 빠르게 돌아가도록 설계된 텍스트-투-이미지 모델. cocy.io에서 쓸모: FLUX/SDXL보다 가벼운 대안으로 프로모 이미지 초안·대량 배리에이션 생성에 활용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Efficient-Large-Model/Sana_1600M_1024px",
+      "publishedAt": "2026-07-31T23:28:54+09:00"
+    },
+    {
+      "id": "14",
+      "title": "Wan-Dancer-14B — 이미지 한 장으로 캐릭터 댄스 영상 생성 (Apache-2.0)",
+      "summary": "[Video] Alibaba Wan-AI가 공개한 Wan-Dancer-14B(HF license 태그 apache-2.0 확인, 2026-07-10 공개)는 정지 이미지 한 장과 모션 레퍼런스로 캐릭터 댄스 영상을 만드는 image-to-video 모델. cocy.io에서 쓸모: 게임 캐릭터 홍보용 짧은 모션 클립을 정적 아트워크만으로 뽑아낼 여지.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan-Dancer-14B",
+      "publishedAt": "2026-07-10T17:41:49+09:00"
     }
   ]
 }
