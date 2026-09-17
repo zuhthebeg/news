@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-17",
+  "articles": [
+    {
+      "id": "1",
+      "title": "與 \"재테크 방법 몰라\" vs 野 \"아들 간수 못하는데 50만 軍 지휘?\"…강신철 '부동산 논란' 공방전",
+      "summary": "16일 국회 강신철 국방부 장관 후보자 인사청문회에서 여야가 철거민 특별공급 수혜 의혹과 아들의 7억원대 상가 매입 신고 누락 문제를 놓고 정면 충돌했다.",
+      "category": "domestic",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://n.news.naver.com/mnews/hotissue/article/016/0002698230?type=series&cid=2000330",
+      "publishedAt": "2026-09-16T20:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "US interest rates raised for first time in three years",
+      "summary": "미 연방준비제도가 3년 만에 기준금리를 인상했다. 도널드 트럼프 대통령의 인하 요구에도 불구한 만장일치 결정으로, 국내 전기·난방 요금 상승 압력과 원자재 가격에 영향이 예상된다.",
+      "category": "economy",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/news/articles/cw4gmlyvj422o",
+      "publishedAt": "2026-09-16T22:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "김여정, IAEA 총회 경고에도 \"핵보유국 지위 절대적\"",
+      "summary": "김여정 북한 노동당 부부장이 국제원자력기구(IAEA) 총회의 비핵화 촉구에 \"핵보유국 지위는 그 무엇으로도 되돌릴 수 없다\"고 반발했다. 북한 국방성도 한미 대량살상무기 대응에 강경 입장을 냈다.",
+      "category": "world",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/016/0002698449",
+      "publishedAt": "2026-09-16T21:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "The European Union Sets Limits on Teen Social Media Use. Video Games and AI Chatbots Might Be Next",
+      "summary": "EU가 'EU Kids Act'를 발표해 13세 미만 소셜미디어 이용을 금지하고, 13~15세는 보호자 감독형 '미니 계정'만 허용하는 방안을 추진한다. 향후 동영상 플랫폼과 AI 챗봇으로도 규제를 확대할 방침이다.",
+      "category": "tech",
+      "source": "Gizmodo",
+      "sourceUrl": "https://gizmodo.com/the-european-union-sets-age-limits-for-teens-online-2000812481",
+      "publishedAt": "2026-09-16T18:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Pangram's Max Spero on why AI detection is harder than 'Real or Fake'",
+      "summary": "AI 생성 콘텐츠 탐지 스타트업 팬그램(Pangram)이 900만 달러를 유치하고 Substack과 파트너십을 맺어 AI 이미지·텍스트 탐지 도구를 뉴스레터 플랫폼에 제공한다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/video/pangrams-max-spero-on-why-ai-detection-is-harder-than-real-or-fake/",
+      "publishedAt": "2026-09-02T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "James Webb reveals Chariklo's mysterious rings are changing faster than expected",
+      "summary": "제임스웹 우주망원경이 토성과 천왕성 사이를 도는 소천체 카리클로(Chariklo)의 고리를 관측한 결과, 불과 몇 년 새 안쪽 고리는 더 불투명해지고 바깥쪽 고리는 옅어지는 급격한 변화를 발견했다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260915232124.htm",
+      "publishedAt": "2026-09-16T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "Scientists \"truly astonished\" by discovery that challenges Earth's origin story",
+      "summary": "새 연구에 따르면 지구는 목성 너머 물이 풍부한 외곽 태양계 물질이 아니라 거의 전적으로 내태양계 물질로 형성됐을 가능성이 제기됐다. 사실이라면 지구 물의 기원에 대한 기존 이론을 뒤집는다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260915232132.htm",
+      "publishedAt": "2026-09-16T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Monster Hunter Wilds players won't have to pay to edit their characters starting next year",
+      "summary": "캡콤이 '몬스터헌터 와일즈' 확장팩 'Ascendance' 출시에 맞춰 캐릭터·팔리코 편집권을 유료 아이템 없이 무료로 제공한다. 그 전까지는 무료 편집권 10장을 지급한다.",
+      "category": "gaming",
+      "source": "Capcom (Monster Hunter 공식)",
+      "sourceUrl": "https://www.monsterhunter.com/wilds/en-us/info-character-edits/",
+      "publishedAt": "2026-09-16T13:30:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Blizzard is playing 4D chess with Diablo 5's early reveal",
+      "summary": "블리자드가 '디아블로4'의 미래가 불확실한 상황에서도 '디아블로5'를 이례적으로 일찍 공개했다. 엑스박스 내부 혼란이 이번 조기 공개 결정에 영향을 준 것으로 분석된다.",
+      "category": "gaming",
+      "source": "Polygon",
+      "sourceUrl": "https://www.polygon.com/diablo-5-early-reveal-blizzard-diablo-4-future/",
+      "publishedAt": "2026-09-16T15:00:00+09:00"
+    }
+  ]
+}
