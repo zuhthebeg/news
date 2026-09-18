@@ -81,6 +81,33 @@
       "source": "The Game Business",
       "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lNndYRXVqdzFRS1RqQ1ZHbkJZazlfSEFiNUF4TGhKZ1Y5SkxLeVdRb2dFZllrQ1AxdDdiSmxjYm55SHE1Vnd4ZzY1WEM2Sm9FcV94RjlyMVNwa18wbzZmSjgyWXVzX3M3WEp6MFFzcU8yRjNEeDcwS1ZzNA?oc=5",
       "publishedAt": "2026-09-17T22:01:32+09:00"
+    },
+    {
+      "id": "10",
+      "title": "MBZUAI, 8GB급 VRAM에서 돌리는 초대형 오픈소스 MoE 'K2 Horizon MoVA 36B-A4B' 공개",
+      "summary": "[Edge] 아부다비 MBZUAI 산하 IFM이 9/3 공개한 K2 Horizon 패밀리 중 MoVA(Mixture of Value Attention) 구조를 쓴 36B(활성 4B) 모델로, llama.cpp/vLLM에서 8GB급 VRAM 로컬 서버에 얹을 수 있게 설계됐다(HF API 확인, createdAt 2026-09-01, license apache-2.0 상업 이용 가능). cocy.io에서 쓸모: 저사양 서버·엣지 디바이스에서 돌리는 백엔드 추천/어시스턴트 로직을 4B 활성 파라미터로 저비용 로컬 서빙할 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/IFM/K2-Horizon-MoVA-36B-A4B",
+      "publishedAt": "2026-09-03T00:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "ComfyUI 노드팩 'WAS Node Suite'가 의존성 제로 'v3 Reborn'으로 전면 재작성",
+      "summary": "[Tool] 2023년부터 쓰이던 ComfyUI 커스텀 노드팩 WAS Node Suite가 9/8 'v3 Reborn'으로 전면 재작성되어 220→457개 노드로 확장되고 기본 설치 의존 패키지가 20개→0개로 줄었다(GitHub API 확인, MIT 라이선스, pushed 2026-09-14). cocy.io에서 쓸모: 게임 에셋용 ComfyUI 파이프라인에서 pip 설치 충돌 없이 이미지/애니메이션/텍스트 노드를 바로 꽂아 쓸 수 있어 로컬 파이프라인 안정성을 높일 후보다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/WASasquatch/was-node-suite-comfyui",
+      "publishedAt": "2026-09-08T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "ComfyUI용 MiniMax H3 카메라 경로 편집기 'Camera H3' 공개",
+      "summary": "[Video] bruxosdovfx가 9/10 공개한 ComfyUI 커스텀 노드 'Camera H3'는 3D 카메라를 드래그·키프레임으로 조작해 MiniMax H3용 카메라 트래젝토리 프롬프트를 자동 컴파일해준다(GitHub API 확인, createdAt 2026-09-10, Apache-2.0 상업 이용 가능). cocy.io에서 쓸모: 게임 트레일러·인게임 컷씬 영상 생성 시 카메라 무빙을 수치 대신 시각적으로 잡아 MiniMax H3 프롬프트로 바로 넘길 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/NyckM/3d-Camera-control-H3-Minimax",
+      "publishedAt": "2026-09-10T00:00:00Z"
     }
   ]
 }
