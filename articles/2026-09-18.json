@@ -108,6 +108,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/NyckM/3d-Camera-control-H3-Minimax",
       "publishedAt": "2026-09-10T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "온디바이스 TTS 'NeuTTS Air', GGUF 양자화로 CPU만으로 즉시 보이스클로닝",
+      "summary": "[Audio] Neuphonic이 공개한 NeuTTS Air는 Qwen 0.5B LLM 백본 + NeuCodec 신경 오디오 코덱 구조의 온디바이스 TTS로, GGUF Q4/Q8 양자화 덕분에 GPU 없이 노트북·라즈베리파이 CPU에서 실시간에 가깝게 돌고 짧은 샘플만으로 즉시 보이스 클로닝이 된다(HF API 확인: createdAt 2025-09-15, lastModified 2026-08-26, license apache-2.0 상업 이용 가능). cocy.io에서 쓸모: 서버 비용 없이 로컬 CPU에서 캐릭터 내레이션·보이스 클로닝 프로토타입을 돌려볼 저사양 TTS 후보다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/neuphonic/neutts-air",
+      "publishedAt": "2026-08-26T00:00:00Z"
+    },
+    {
+      "id": "14",
+      "title": "Alibaba Tongyi, 고속 few-step 이미지 생성모델 'Z-Image-Turbo' 아파치 공개",
+      "summary": "[Image] Alibaba Tongyi-MAI 산하 팀이 공개한 Z-Image-Turbo는 diffusers 라이브러리 기반 text-to-image 모델로, 적은 스텝으로 빠르게 이미지를 뽑는 turbo/distill 계열이다(HF API 확인: createdAt 2025-11-25, lastModified 2026-01-30, license apache-2.0 상업 이용 가능, 다운로드 67만+). cocy.io에서 쓸모: 카드아트·프로모 이미지 초안을 빠르게 여러 장 뽑아보는 로컬 반복 프리뷰용으로 검토할 만하다(정확한 속도/VRAM 수치는 카드에 명시 안 돼 있어 생략).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2026-01-30T00:00:00Z"
+    },
+    {
+      "id": "15",
+      "title": "Wan2.2-Animate-14B, 레퍼런스 영상으로 캐릭터 모션 입히는 video-to-video 모델",
+      "summary": "[Video] Wan-AI가 Wan2.2-I2V-A14B를 베이스로 내놓은 Wan2.2-Animate-14B는 레퍼런스 영상의 모션을 캐릭터 이미지에 입히는 video-to-video 모델이다(HF API 확인: createdAt 2025-09-11, lastModified 2025-11-05, license apache-2.0 상업 이용 가능, 다운로드 5.3만+). cocy.io에서 쓸모: 게임 캐릭터 정지 이미지에 레퍼런스 동작을 입혀 트레일러·컷씬용 애니메이션 초안을 로컬에서 뽑아볼 후보다(파라미터 14B급이라 3080Ti 12GB는 양자화 필요, 실측 VRAM 수치는 미확인).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-Animate-14B",
+      "publishedAt": "2025-11-05T00:00:00Z"
+    },
+    {
+      "id": "16",
+      "title": "브라우저에서 서버 없이 도는 TTS 'Kokoro-82M ONNX', WebGPU/WASM 지원",
+      "summary": "[Edge] onnx-community가 배포하는 Kokoro-82M-v1.0-ONNX는 82M 초경량 TTS 원본 모델(hexgrad/Kokoro-82M)의 ONNX 변환판으로, Transformers.js를 통해 브라우저 WebGPU/WASM에서 서버 호출 없이 직접 음성을 합성한다(HF API 확인: createdAt 2025-02-07, lastModified 2025-02-08, license apache-2.0 상업 이용 가능, 다운로드 74만+). cocy.io에서 쓸모: page.cocy.io/game.cocy.io 계열 정적 페이지에 서버 비용 없이 클라이언트 사이드 TTS를 바로 붙일 엣지 추론 후보다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX",
+      "publishedAt": "2025-02-07T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "ComfyUI-Pixaroma v1.4.152, 배경제거 3노드→1노드로 단순화 + 신규 노드 인터페이스 호환",
+      "summary": "[Tool] ComfyUI 커스텀 노드팩 ComfyUI-Pixaroma가 9/17 v1.4.152로 업데이트되어 배경제거 3노드 체인을 모델선택 내장 단일 노드 'Remove Background Pixaroma'로 단순화했고, 전체 노드가 ComfyUI 신규 노드 인터페이스(Mute Switch/Image Resize/Label 등)와 호환되도록 정리됐다(GitHub API 확인: license MIT, pushed_at 2026-09-17, stars 393). cocy.io에서 쓸모: 게임 에셋 배경제거 단계를 노드 하나로 줄여 ComfyUI 파이프라인 유지보수 부담을 낮출 도구로 바로 적용해볼 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/pixaroma/ComfyUI-Pixaroma",
+      "publishedAt": "2026-09-17T14:37:39Z"
     }
   ]
 }
