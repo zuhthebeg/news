@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-18",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이 대통령, 오늘 오전 기자회견…\"주요 현안 분명한 입장 설명\"",
+      "summary": "이재명 대통령이 18일 오전 기자회견을 열어 최근 국정 지지율 하락 배경과 국정 운영 방향 등 주요 현안에 대해 입장을 밝힐 예정이다.",
+      "category": "domestic",
+      "source": "다음뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9TX2U2TGJBTEswTEduQVZrdEl3a1hyTTlIRGdqMnFYWmNXMjRQb182UVo0MHdPRXlobGx0bWhpeGtJSWFIWE9EMm1Wa3YyZlE?oc=5",
+      "publishedAt": "2026-09-18T06:14:44+09:00"
+    },
+    {
+      "id": "2",
+      "title": "\"긴장의 끈 놓지 않겠다\"…유류세 인하 연장·고속道 ℓ당 100원↓",
+      "summary": "정부가 물가 안정을 위해 유류세 인하 조치를 연장하고, 고속도로 통행료를 리터당 100원 수준으로 인하하는 방안을 발표했다.",
+      "category": "economy",
+      "source": "마켓인(이데일리)",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1sSk1yd1VUb1pyN1dmajNXRFVYbWNFQkxaNUY4UkFoM0VDakdJbGpaNXdkZGs1RzhxQXZFS3p4VjA0YmNMVml3aUlBY05aUGJLWEZ3alU0S05HYjl5cngtS2trNk5peUtxY0ZMMjEwa3ZGVnc?oc=5",
+      "publishedAt": "2026-09-18T08:43:17+09:00"
+    },
+    {
+      "id": "3",
+      "title": "[속보]조현 외교, '파병' 질문에 \"국제 협력엔 참여하되, 국민 안전 우선 검토\"",
+      "summary": "조현 외교부 장관이 18일 워싱턴에서 마코 루비오 미 국무장관과 회담을 앞두고 호르무즈해협 파병 관련 질문에 국제 협력 참여 원칙과 국민 안전 우선 검토 입장을 밝혔다.",
+      "category": "world",
+      "source": "아시아경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5UNURxZFlhZlVhbHVWQkdmdzFVYUc2T1UwMVBfSVVPN1hrOEluQ1o5UGNHRFNTaEwwb0JxV3hMRTFPV1N4NkxEWWhGWkMtcWFpV0lYc0ZqSF9iek9vMU93Qw?oc=5",
+      "publishedAt": "2026-09-17T10:04:47+09:00"
+    },
+    {
+      "id": "4",
+      "title": "AI has transformed the Pentagon's aging networks into a national security risk",
+      "summary": "미 국방부(펜타곤)가 노후 IT 네트워크에 AI 시스템을 무리하게 접목하면서, 오래된 인프라가 새로운 국가안보 리스크로 부상하고 있다는 진단이 나왔다.",
+      "category": "tech",
+      "source": "The Washington Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYWlZeXBDaEdjX3BLOGJ2WGJlbGtLMXVTMXNnNTZzNHRnLWNWaGtyUmplc3hEdVdpYnFnejVuRmV5REpNMHotWlFvTmpISXd1MENQb2xlWXYxTXA5cnVmYkNQMmtiSDFPSU5QQzdMbElOblpsWGlPSk9ES1ZEOEE1UXJvRVhPSms1LVBqZEdCdlNwMjR3YmRMWHVXd0ZTQ3FDNHo3Y0lhTEdoaE1ER21rUkl2WGkyMkNGMVN0SzJYWnFINXM?oc=5",
+      "publishedAt": "2026-09-18T01:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Valve: Steam Data Safe After CEVA Logistics Breach",
+      "summary": "물류업체 CEVA 로지스틱스가 해킹 공격을 받았지만, 밸브는 스팀(Steam) 이용자 데이터에는 영향이 없었다고 밝혔다.",
+      "category": "tech",
+      "source": "shattered.io",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1kUWw2c2pkSlZtNlBzTENiNEtCQmx2Um9EbjVjU0RSTmVNdHpuNzdZa0d0d2t6MTBTbmJ2Rkk1NjRWalpZTEx1aVZFdW1tX3JTV3Q1TDlmVXlkVzFMazhQRGJOSTlidkhOQjJ2VQ?oc=5",
+      "publishedAt": "2026-09-18T07:51:22+09:00"
+    },
+    {
+      "id": "6",
+      "title": "Drugmakers prepare for next phase of space pharmaceuticals as ISS retirement nears",
+      "summary": "국제우주정거장(ISS) 퇴역 시점이 가까워지면서 제약회사들이 우주 환경을 활용한 신약 연구·생산의 다음 단계를 준비하고 있다.",
+      "category": "science",
+      "source": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWWR3SllXNXk3WlRNVGNNeXRObFVvR1VSRlcycEp1ckZMRWVrZkNXTk5vLXFmU0UyenhwNUItTGVyQmllZkMxZnF1M3RqWVdDN3FqZnhocUN4dHZtMHIxWVFzOVAxUDJ2N3FSVklSQkRxZUVWakF1d2UwZ1BLYUtacm1FejY2V1hodUtMVG5MNmVCQ0NwT3dMOE51MWIzNTVYck9mUkc2VzZYSVFDbWRsT0VzRVkyY0NFNWhBdXlxUFJSS0E?oc=5",
+      "publishedAt": "2026-09-18T00:36:59+09:00"
+    },
+    {
+      "id": "7",
+      "title": "NASA Invites Media to SpaceX's 35th Resupply Launch to Space Station",
+      "summary": "나사(NASA)가 스페이스X의 35번째 국제우주정거장(ISS) 화물 보급 임무 발사 취재를 위해 미디어를 초청했다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNRUw2Rl96azRzMHZGUUlMeGpyRzRyNVZvT3J3akd5VF9EemU3NWVnWXpwdktCakpGWlA3NDVhNTNGbjlGWURYNDk5TnUtcXR6LTRvb2Rwc0N4LURhRGJpUlRJSl9YOEJSWEE2T1ZobFN2dW5vR0dMWlRLamNNX3N1aVFLcTh0ZzY5QXFHVHplaVZXSEFXS3J4QUx5STdnOUMtNmVBdg?oc=5",
+      "publishedAt": "2026-09-18T03:48:11+09:00"
+    },
+    {
+      "id": "8",
+      "title": "Gaming industry faces its worst crash in decades — but Japan is dodging the bullet",
+      "summary": "글로벌 게임업계가 수십 년 만의 최악 침체를 겪고 있는 가운데, 일본 게임산업은 상대적으로 그 충격을 피해가고 있다는 분석이 나왔다.",
+      "category": "gaming",
+      "source": "Notebookcheck",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQN3kzdkpTOVZFMFRSVDNaSmgxS0RERmV3QzkzQVNQeWM1bDlWQXpDUnhUMW12cTZIRDJxZFNEajExdXltbmhkOVdlb0hHQ2swajgwTjJOazNoMENoMVloc0RlWXM2MmJ1Mml2aUd4aVZQNnlVb2ZRWjc2U1ZVN1J1WG5OQldsUG0xZC1KLW9vZHJnVm1RSUZZMnB1ZkRGY3FKaDBJellKdkF3X2RSeUIteWhCa21aS1I4c1N6TVpzNFNta2c?oc=5",
+      "publishedAt": "2026-09-18T06:28:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Five things we've learned about Japan's games industry, plus how GTA 6 influenced Valor Mortis' $40 price point",
+      "summary": "도쿄게임쇼 2026을 계기로 정리된 일본 게임업계의 최근 동향과, GTA6가 신작 '발러 모르티스'의 4만원대 가격 책정에 미친 영향을 다룬 분석 기사.",
+      "category": "gaming",
+      "source": "The Game Business",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9lNndYRXVqdzFRS1RqQ1ZHbkJZazlfSEFiNUF4TGhKZ1Y5SkxLeVdRb2dFZllrQ1AxdDdiSmxjYm55SHE1Vnd4ZzY1WEM2Sm9FcV94RjlyMVNwa18wbzZmSjgyWXVzX3M3WEp6MFFzcU8yRjNEeDcwS1ZzNA?oc=5",
+      "publishedAt": "2026-09-17T22:01:32+09:00"
+    }
+  ]
+}
