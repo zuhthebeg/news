@@ -45,6 +45,87 @@
       "source": "GitHub / Comfy-Org",
       "sourceUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.36.0",
       "publishedAt": "2026-09-15T22:26:17Z"
+    },
+    {
+      "id": "23",
+      "title": "'지지율 30%대' 이재명 대통령, 국정 기자회견서 몸 낮춰 민심 수습 나서",
+      "summary": "이재명 대통령이 취임 후 최저치인 긍정평가 37%까지 떨어진 지지율 속에 기자회견을 열고 국민에게 사과하며 국정 운영 방향 쇄신을 예고했다.",
+      "category": "domestic",
+      "source": "네이트뉴스",
+      "sourceUrl": "https://m.news.nate.com/view/20260918n30114",
+      "publishedAt": "2026-09-18T09:00:00+09:00"
+    },
+    {
+      "id": "24",
+      "title": "지난해 공공부문 적자 83조 원, 2007년 통계 작성 이후 최대",
+      "summary": "한국은행이 발표한 자료에 따르면 지난해 정부와 공기업을 포함한 공공부문 수지가 83조1000억 원 적자를 기록해 관련 통계 작성 이후 최대치를 나타냈다.",
+      "category": "economy",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202609181048320422",
+      "publishedAt": "2026-09-18T10:48:00+09:00"
+    },
+    {
+      "id": "25",
+      "title": "교사 머리채 잡은 초등학생 사건, 학부모가 되레 교사 등 고소",
+      "summary": "충북 청주에서 초등학생이 담임교사의 머리채를 잡고 폭행한 사건과 관련해 학생 학부모가 오히려 교사와 교감을 '아동학대'로 고소하면서 논란이 커지고 있다.",
+      "category": "domestic",
+      "source": "서울신문",
+      "sourceUrl": "https://www.seoul.co.kr/news/society/accident/2026/09/17/20260917500289",
+      "publishedAt": "2026-09-17T10:00:00+09:00"
+    },
+    {
+      "id": "26",
+      "title": "'BragJack' 공격, 크롬·엣지·오페라 등 5개 브라우저 AI 에이전트 탈취",
+      "summary": "보안 연구진이 악성 브라우저 확장 프로그램으로 크롬·엣지·오페라 네온·코멧·클로드 인 크롬 등 5개 브라우저 내장 AI 어시스턴트를 탈취하는 'BragJack' 공격 기법을 공개했다. 로컬 파일·방문 기록 열람과 이메일 요약 유출까지 시연됐으며 일부 브라우저는 아직 패치가 없다.",
+      "category": "tech",
+      "source": "Cybersecurity News",
+      "sourceUrl": "https://cybersecuritynews.com/bragjack-ai-agent-hijacking/",
+      "publishedAt": "2026-09-19T08:00:00Z"
+    },
+    {
+      "id": "27",
+      "title": "애플·엔비디아·구글 등 빅테크 8곳, 인텔 차세대 1.4나노 '14A' 공정 평가",
+      "summary": "애플, 엔비디아, 아마존, 구글, AMD, 테슬라, 마이크로소프트, 퀄컴 등 8개 빅테크 기업이 인텔의 차세대 1.4나노급 파운드리 공정 '14A'를 평가하고 있는 것으로 알려졌다.",
+      "category": "tech",
+      "source": "글로벌이코노믹",
+      "sourceUrl": "https://www.g-enews.com/article/Global-Biz/2026/09/2026091920380512419a1f309431_1",
+      "publishedAt": "2026-09-19T20:38:05+09:00"
+    },
+    {
+      "id": "28",
+      "title": "NASA 로먼 우주망원경, 연료 절약으로 최소 22년 관측 가능해져",
+      "summary": "낸시 그레이스 로먼 우주망원경이 발사 초기 궤도 수정에서 예상보다 훨씬 적은 연료를 사용하고 발사 중량도 가벼워, 설계 수명(10년)의 두 배 이상인 최소 22년간 관측이 가능할 것으로 전망됐다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260918024802.htm",
+      "publishedAt": "2026-09-18T02:48:02Z"
+    },
+    {
+      "id": "29",
+      "title": "NASA, 2024년 달에 생긴 태양계 최대 신규 충돌구 발견",
+      "summary": "NASA 달 정찰 궤도선(LRO)이 2024년 4~5월 사이 달 표면에 형성된 지름 약 222m의 충돌구를 확인했다. '맥게치' 충돌구로 명명된 이 지형은 태양계에서 관측된 최근 형성 충돌구 중 최대 규모로, 이런 규모의 충돌은 132년에 한 번꼴로 발생하는 것으로 추정된다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260917003715.htm",
+      "publishedAt": "2026-09-17T00:37:15Z"
+    },
+    {
+      "id": "30",
+      "title": "슈퍼셀 '브롤스타즈', 듀오링고와 글로벌 콜라보 진행",
+      "summary": "슈퍼셀의 모바일 게임 '브롤스타즈'가 9월 19일부터 30일까지 듀오링고와 크로스오버 콜라보를 진행한다. 듀오링고 마스코트 '듀오'가 브롤스타즈에 보스로 등장하는 20대1 보스전 등 신규 콘텐츠가 추가됐다.",
+      "category": "gaming",
+      "source": "게임포커스",
+      "sourceUrl": "https://gamefocus.co.kr/detail.php?number=179223",
+      "publishedAt": "2026-09-19T09:00:00+09:00"
+    },
+    {
+      "id": "31",
+      "title": "'하늘의 궤적 the 2nd' 한국어판 패키지, 국내 정식 출시",
+      "summary": "궤적 시리즈 20주년 리메이크작 '하늘의 궤적 the 2nd'가 PS5·닌텐도 스위치2·PC(스팀)용 한국어판 패키지로 9월 17일 국내에 정식 출시됐다.",
+      "category": "gaming",
+      "source": "웹진 인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=321042",
+      "publishedAt": "2026-09-17T10:00:00+09:00"
     }
   ]
 }
