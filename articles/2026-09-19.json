@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-19",
+  "articles": [
+    {
+      "id": "18",
+      "title": "[Edge][Tool] Hugging Face Kernels v0.17.1 — WebGPU 로컬 AI 커널 200종을 한 패키지로",
+      "summary": "[Edge][Tool] Hugging Face의 kernels가 v0.17.1로 2026-09-16 공개됐다. GitHub API에서 Apache-2.0 라이선스를 확인했으며, WebGPU/가속 커널을 공통화해 브라우저·로컬 추론 엔진에 붙이기 좋다. cocy.io에서 쓸모: WebGPU 기반 로컬 모델 기능을 직접 커널 최적화하지 않고 제품에 넣는 기반으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / GitHub",
+      "sourceUrl": "https://github.com/huggingface/kernels/releases/tag/v0.17.1",
+      "publishedAt": "2026-09-16T18:21:14Z"
+    },
+    {
+      "id": "19",
+      "title": "[Edge][Tool] SwarmLLM v0.2.0 — 여러 브라우저의 WebGPU로 27B 모델 분산 추론",
+      "summary": "[Edge][Tool] SwarmLLM v0.2.0이 2026-09-07 공개됐다. MIT 라이선스를 GitHub API에서 확인했으며, 브라우저 탭 사이를 WebRTC로 연결해 모델 레이어를 나누는 P2P WebGPU 엔진이다. 27B Q4_0 가중치 15GB를 여러 기기에 분산하는 데 초점이 있어 12GB 단일 GPU용 모델로 과장하면 안 된다. cocy.io에서 쓸모: 설치·서버 없이 여러 사용자 기기를 묶는 실험형 로컬 추론 데모에 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Nehanth/swarmllm/releases/tag/v0.2.0",
+      "publishedAt": "2026-09-07T18:32:48Z"
+    },
+    {
+      "id": "20",
+      "title": "[Edge][Tool] WebLLM v0.2.85 — OpenAI 호환 API를 브라우저 WebGPU에서 실행",
+      "summary": "[Edge][Tool] MLC WebLLM v0.2.85가 2026-09-08 공개됐다. Apache-2.0 라이선스를 GitHub API에서 확인했으며, 서버 없이 브라우저에서 Llama·Phi·Gemma·Mistral·Qwen 계열을 WebGPU로 실행하고 OpenAI 호환 API를 제공한다. cocy.io에서 쓸모: 작은 모델을 골라 개인정보를 브라우저 밖으로 보내지 않는 도구·게임 기능의 기본 런타임으로 재사용하기 좋다.",
+      "category": "ai-tech",
+      "source": "GitHub / MLC AI",
+      "sourceUrl": "https://github.com/mlc-ai/web-llm/releases/tag/v0.2.85",
+      "publishedAt": "2026-09-08T00:08:52Z"
+    },
+    {
+      "id": "21",
+      "title": "[Edge][Tool] goinfer v0.19.0 — 단일 정적 바이너리 로컬 LLM 런타임과 웹 UI",
+      "summary": "[Edge][Tool] goinfer v0.19.0이 2026-09-19 공개됐다. MIT 라이선스를 GitHub API에서 확인했으며, GGUF·safetensors를 CPU/Metal/CUDA에서 실행하고 `serve -web`으로 로컬 채팅 UI도 제공한다. 공식 측정 예시는 Qwen2.5-Coder-1.5B Q4_K_M이며 12GB급 GPU에서 시험하기 쉬운 소형 모델 경로다. cocy.io에서 쓸모: 별도 서버·런타임 의존성 없이 게임 도구용 로컬 모델 번들을 만드는 후보가 된다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/townsendmerino/goinfer/releases/tag/v0.19.0",
+      "publishedAt": "2026-09-19T02:08:35Z"
+    },
+    {
+      "id": "22",
+      "title": "[Image][Video][Tool] ComfyUI v0.36.0 — 최신 모델 블루프린트와 워크플로 정리",
+      "summary": "[Image][Video][Tool] ComfyUI v0.36.0이 2026-09-15 공개됐고 새 모델 블루프린트와 서브그래프 카테고리 정리를 포함한다. GitHub API에서 GPL-3.0 라이선스를 확인했으며 상업 사용은 가능하지만 배포 방식의 코퓰레프트 의무를 검토해야 한다. cocy.io에서 쓸모: 이미지·영상·오디오 생성 모델을 한 로컬 그래프와 API 파이프라인으로 묶는 제작 허브 업데이트다.",
+      "category": "ai-tech",
+      "source": "GitHub / Comfy-Org",
+      "sourceUrl": "https://github.com/Comfy-Org/ComfyUI/releases/tag/v0.36.0",
+      "publishedAt": "2026-09-15T22:26:17Z"
+    }
+  ]
+}
