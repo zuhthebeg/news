@@ -1048,6 +1048,32 @@
         "architecture"
       ],
       "addedAt": "2026-09-15"
+    },
+    {
+      "title": "Apple App Intents Skill",
+      "description": "Siri·Shortcuts·Apple Intelligence와 연동되는 iOS 앱을 만들도록 코딩 에이전트를 가르치는 MIT 라이선스 오픈소스 스킬.\nApp Schema 가이드·Swift 예제·테스트 워크플로까지 포함되어 유료 구독·API키 없이 바로 적용할 수 있다.",
+      "icon": "🍎",
+      "category": "dev",
+      "url": "https://github.com/Sdefendre/apple-app-intents-skill",
+      "tags": [
+        "ios",
+        "apple-intelligence",
+        "siri"
+      ],
+      "addedAt": "2026-09-20"
+    },
+    {
+      "title": "tldr",
+      "description": "코딩 에이전트가 긴 설명에 답을 묻는 버릇 대신 3줄 요약을 먼저 내놓고 상세는 접어 놓게 만드는 MIT 스킬. Claude Code·Codex·Cursor를 포함해 20종 이상 에이전트를 지원하며 실측 이벤트를 공개한다.",
+      "icon": "📝",
+      "category": "dev",
+      "url": "https://github.com/SurefireStudios/tldr",
+      "tags": [
+        "coding-agent",
+        "output-format",
+        "productivity"
+      ],
+      "addedAt": "2026-09-20"
     }
   ]
 }

@@ -72,6 +72,15 @@
       "source": "IGN",
       "sourceUrl": "https://www.ign.com/articles/diablo-5-announced-release-date-2029",
       "publishedAt": "2026-09-12T00:00:00Z"
+    },
+    {
+      "id": "40",
+      "title": "[Video][Tool] ComfyUI-Hyperflow — MiniMax-H3용 8스텝 고속 영상+오디오 LoRA 노드팩",
+      "summary": "[Video][Tool] Saganaki22가 2026-09-19 공개한 ComfyUI-Hyperflow는 Video Rebirth의 MiniMax-H3용 8스텝 고속 LoRA 'HyperFlow'를 ComfyUI 네이티브 MiniMax-H3 모델에 코어 파일 수정 없이 이식한 노드팩이다. GitHub API에서 노드팩 코드는 Apache-2.0으로 확인했지만, 실제 가중치는 MiniMax-H3를 파생한 MiniMax H3 Community License가 적용되므로 상업 사용 전 가중치 라이선스는 별도 확인이 필요하다. ApplyHyperFlow 노드가 스텝별 두 시점(t, r) 조건화를 SIGMAS로 바꿔 끼워 기존 샘플러 그대로 8스텝까지 줄인다. cocy.io에서 쓸모: 게임 트레일러·인게임 컷씬용 영상+오디오를 MiniMax-H3 파이프라인에서 훨씬 적은 스텝으로 로컬 반복 프리뷰할 후보다(가중치 라이선스 별도 확인 필요).",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Saganaki22/ComfyUI-Hyperflow",
+      "publishedAt": "2026-09-19T05:24:27Z"
     }
   ]
 }
