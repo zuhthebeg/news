@@ -81,6 +81,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/Saganaki22/ComfyUI-Hyperflow",
       "publishedAt": "2026-09-19T05:24:27Z"
+    },
+    {
+      "id": "41",
+      "title": "[Tool][Edge] @huggingface/kernels — 브라우저용 WebGPU 커널 207개 라이브러리",
+      "summary": "[Tool][Edge] Hugging Face가 2026-09-01 npm에 공개한 @huggingface/kernels는 HF Hub에 등록된 최적화 WebGPU 커널 207개를 브라우저에서 바로 로드·실행하는 라이브러리다(Apache-2.0 확인, 최신 배포 2026-09-08). 각 커널이 셰이더 코드·정확성 테스트·벤치마크까지 버전 관리된 개별 저장소로 공개된다. cocy.io에서 쓸모: 게임/툴 페이지에 서버 없이 브라우저에서 도는 로컬 추론(온디바이스 필터·태깅 등)을 붙여볼 실험 재료로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/blog/webgpu-kernels",
+      "publishedAt": "2026-09-01T14:25:43Z"
+    },
+    {
+      "id": "42",
+      "title": "[Image] FLUX.2-klein-4B — Black Forest Labs의 4B 경량 오픈웨이트 이미지 모델",
+      "summary": "[Image] Black Forest Labs가 2026-01-14 공개한 FLUX.2-klein-4B는 FLUX.2 계열의 4B 파라미터 경량판으로 Apache-2.0 라이선스다(HF license 태그 확인, image-to-image 파이프라인). cocy.io에서 쓸모: 기존 FLUX.1-dev보다 파라미터가 작아 3080Ti(12GB) 로컬 환경에서 카드아트·썸네일 생성 시 속도·VRAM 여유를 비교해볼 후보다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/FLUX.2-klein-4B",
+      "publishedAt": "2026-01-14T13:42:59Z"
+    },
+    {
+      "id": "43",
+      "title": "[Video] Wan2.2-TI2V-5B — Wan-AI의 5B 경량 텍스트/이미지-투-비디오 모델",
+      "summary": "[Video] Wan-AI의 Wan2.2-TI2V-5B는 텍스트·이미지-투-비디오를 지원하는 5B 파라미터 모델로 Apache-2.0 라이선스다(HF license 태그 확인, 공개 2025-07-18). Wan2.2 계열 중 상대적으로 가벼운 버전이다. cocy.io에서 쓸모: 14B급 Wan2.2 변형은 12GB VRAM엔 빡빡했는데(09-18 레이더 참고), 5B는 로컬 GPU로 게임 트레일러·짧은 인게임 클립을 시험 제작하기에 더 현실적인 후보다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B",
+      "publishedAt": "2025-07-18T09:35:44Z"
+    },
+    {
+      "id": "44",
+      "title": "[Audio] Chatterbox — ResembleAI의 MIT 라이선스 음성 클로닝 TTS",
+      "summary": "[Audio] ResembleAI의 chatterbox는 MIT 라이선스 음성 클로닝 TTS 모델로, 최근 업데이트가 2026-06-10에 반영됐다(HF lastModified 확인). 오픈소스 음성 클로닝 진영에서 꾸준히 관리되는 축에 속한다. cocy.io에서 쓸모: 현재 CosyVoice3 클로닝 파이프라인과 라이선스·품질을 나란히 비교해볼 MIT 대안 후보로, 제약 없는 상업 사용이 가능하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-06-10T21:16:06Z"
+    },
+    {
+      "id": "45",
+      "title": "[Edge][Audio] chatterbox-multilingual-v3-onnx — Chatterbox 다국어 TTS의 ONNX 엣지 변환판",
+      "summary": "[Edge][Audio] KitsuMate가 2026-09-19 공개한 chatterbox-multilingual-v3-onnx는 ResembleAI Chatterbox Multilingual v3를 ONNX로 변환한 엣지 배포용 버전이다(HF license 태그 MIT, createdAt 2026-09-19 — 이번 주 공개 확인). cocy.io에서 쓸모: 서버 없이 브라우저·저사양 기기에서 다국어 음성 클로닝을 돌려볼 수 있어, 로컬 GPU 없는 환경(모바일 등)용 음성 기능 프로토타입에 시도해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KitsuMate/chatterbox-multilingual-v3-onnx",
+      "publishedAt": "2026-09-19T16:38:59Z"
     }
   ]
 }
