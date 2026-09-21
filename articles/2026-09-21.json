@@ -90,6 +90,33 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/audio-cpp/LiveAvatar-GGUF",
       "publishedAt": "2026-09-18T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "텐센트 AuK 오디오 파운데이션 모델, audio.cpp GGUF 엣지 양자화 공개",
+      "summary": "[Audio][Edge] 텐센트가 8월 공개한 오디오 파운데이션 모델 AuK(제로샷 TTS·보이스클로닝·음성편집·음성향상·화자분리를 한 모델로 처리)를 로컬 추론 엔진 audio.cpp 팀이 GGUF로 양자화해 공개했다(HuggingFace, 2026-09-20). 베이스 모델(tencent/AuK, 2026-08-18 공개)과 GGUF 포팅 모두 MIT 라이선스로 완전 상업 허용. cocy.io에서 쓸모: TTS 하나로 끝내지 않고 사용자 제보 음성의 잡음 제거·편집까지 한 파이프라인에서 처리하는 로컬 오디오 후처리 도구로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/audio-cpp/AuK-Base-and-Flash-GGUF",
+      "publishedAt": "2026-09-20T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "swarmllm: 브라우저 탭 여러 개로 27B 모델 쪼개 돌리는 WebGPU P2P 추론 엔진",
+      "summary": "[Edge][Tool] GitHub 프로젝트 swarmllm이 WebRTC로 여러 브라우저 탭(=여러 기기)을 P2P 연결해 27B급 모델 추론을 분산 처리하는 순수 WebGPU 엔진을 공개했다(2026-09-01 첫 공개, 2026-09-20 업데이트 확인, MIT 라이선스, 스타 426). 서버 없이 참가자 기기 GPU만으로 큰 모델을 나눠 돌리는 구조라 설치 없는 브라우저 기반 로컬/엣지 추론 실험에 적합하다. cocy.io에서 쓸모: 여러 기기(개발용 PC+노트북 등)를 묶어 무거운 로컬 모델을 실험적으로 돌려보는 용도로 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Nehanth/swarmllm",
+      "publishedAt": "2026-09-20T00:00:00+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Qwen-Image-Edit-2509용 노션 스타일 아바타 변환 LoRA 공개",
+      "summary": "[Image][Tool] Qwen의 이미지 편집 모델 Qwen-Image-Edit-2509(2025-09-22 공개, Apache-2.0) 위에 사진을 노션 스타일 라인아트 아바타로 바꿔주는 LoRA가 새로 공개됐다(HuggingFace, 2026-09-19, Apache-2.0). 베이스·LoRA 모두 상업 허용 라이선스로 확인됨. cocy.io에서 쓸모: 사용자 프로필 사진을 게임/서비스용 심플 라인아트 아바타로 자동 변환하는 기능에 로컬로 바로 시도해볼 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ns2agi/notion-avatar-qwen-image-edit-2509-lora",
+      "publishedAt": "2026-09-19T00:00:00+09:00"
     }
   ]
 }
