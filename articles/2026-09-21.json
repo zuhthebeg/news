@@ -72,6 +72,24 @@
       "source": "Kotaku",
       "sourceUrl": "https://kotaku.com/hideo-kojima-says-sony-canceled-physint-over-a-zoom-call-and-he-still-doesnt-know-the-reason-why-2000735931",
       "publishedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Vocetta2: 27만 파라미터 초경량 TTS, CPU에서 실시간 80배속",
+      "summary": "[Audio] 27만 6765개 파라미터짜리 완전 새로운 초소형 오프라인 TTS 'Vocetta2'가 공개됐다(HuggingFace, 2026-09-20). 지속시간·음향·디코더 3개 네트워크와 사전 기반 G2P만으로 영어 음성을 합성하며, CPU 단독으로 실시간 대비 약 80배 속도(RTF 0.0125)를 낸다고 모델카드가 보고한다. 다만 영어 단일 화자 전용이고 문장당 약 25초로 길이 제한이 있다. 라이선스는 MIT(런타임·가중치), 번들 G2P 사전은 Apache-2.0으로 완전 상업 허용. cocy.io에서 쓸모: GPU 없는 게임 서버·모바일 클라이언트에서 NPC 대사·UI 안내음성을 초저지연으로 실시간 합성하는 백업 TTS 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/VantoraLabs/Vocetta2-276k",
+      "publishedAt": "2026-09-20T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "audio.cpp, 사진+음성으로 말하는 아바타 영상 만드는 LiveAvatar GGUF 지원 추가",
+      "summary": "[Video] 로컬 오디오 추론 엔진 audio.cpp가 이미지 1장과 음성 오디오, 텍스트 설명만으로 말하는 아바타 영상을 생성하는 LiveAvatar(Wan2.2-S2V-14B 기반)의 GGUF 패키지를 새로 공개했다(2026-09-18). 저VRAM 모드로 RTX 5090 기준 1280x720 영상을 약 16GB VRAM에서 생성했다고 모델카드가 보고한다(4분 36초 소요). 베이스 모델과 LiveAvatar 어댑터 모두 Apache-2.0 라이선스이며, GGUF 패키징 자체는 audio.cpp 프로젝트의 비공식 배포물이다. cocy.io에서 쓸모: 게임 캐릭터 립싱크 인트로나 대사 컷신을 정지 이미지 한 장과 음성 파일만으로 로컬 생성하는 파이프라인 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/audio-cpp/LiveAvatar-GGUF",
+      "publishedAt": "2026-09-18T00:00:00+09:00"
     }
   ]
 }
