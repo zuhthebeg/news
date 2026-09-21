@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-22",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 22일 유엔총회 기조연설…한반도 평화공존 청사진 제시",
+      "summary": "이재명 대통령이 21일부터 27일까지 미국 뉴욕 유엔총회 참석과 멕시코 국빈방문 일정에 올랐다. 22일(현지시간) 기조연설에서 유엔 개혁 방향과 한반도 평화공존 구상을 밝히고, 24일에는 멕시코에서 셰인바움 대통령과 정상회담을 갖는다.",
+      "category": "domestic",
+      "source": "한국일보",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/A2026092112340001840",
+      "publishedAt": "2026-09-21T18:30:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "9월 1~20일 수출 714억달러 역대 최대…반도체 259% 급증",
+      "summary": "관세청에 따르면 9월 1~20일 수출액이 714억달러로 전년 동기 대비 78.3% 증가하며 같은 기간 기준 역대 최고치를 기록했다. 반도체 수출이 259.4% 급증하며 전체 수출의 절반 가까이를 차지, 이날 코스피도 7000선을 재탈환했다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026092171217",
+      "publishedAt": "2026-09-21T09:03:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "환자 20여명에 프로포폴 불법투약한 논현동 피부과 원장 구속",
+      "summary": "서울 강남구 논현동에서 피부과를 운영하는 30대 원장이 의료 목적을 넘어 환자 20여명에게 프로포폴을 360여 차례 불법 투약한 혐의로 구속됐다. 법원은 증거 인멸 우려가 있다고 보고 구속영장을 발부했다.",
+      "category": "domestic",
+      "source": "서울경제",
+      "sourceUrl": "https://www.sedaily.com/article/20093697",
+      "publishedAt": "2026-09-21T21:28:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "체크포인트, 루트 권한 탈취 가능한 치명적 취약점 CVE-2026-91843 긴급 패치",
+      "summary": "체크포인트 시큐리티 매니지먼트 서버·로그 서버의 로그인 과정에서 스택 기반 버퍼 오버플로 취약점이 발견돼 인증 없이 원격 공격자가 루트 권한으로 코드를 실행할 수 있는 것으로 확인됐다. 공격 난이도가 낮고 사용자 상호작용이 필요 없어 즉시 패치나 IP 제한 등 완화 조치가 요구된다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/check-point-warns-critical-flaw-lets-hackers-execute-code-as-root/",
+      "publishedAt": "2026-09-18T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "오픈AI·앤스로픽, 대형 대신 '미니 데이터센터' 확보 나서",
+      "summary": "오픈AI와 앤스로픽이 초대형 시설 대신 20~30MW 규모의 소형 데이터센터를 확보하려는 움직임을 보이고 있다. AI 산업의 중심이 대규모 모델 훈련에서 실제 사용자 대상 추론 서비스로 옮겨가면서 빠르게 확보 가능한 소규모 인프라의 중요성이 커진 데 따른 것이다.",
+      "category": "tech",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20260918001161",
+      "publishedAt": "2026-09-18T21:49:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "MeerKAT, 수십억 광년 밖 희미한 수소 신호 직접 검출 성공",
+      "summary": "남아프리카공화국 MeerKAT 전파망원경을 이용한 국제 연구팀이 수십억 광년 떨어진 우주의 중성수소가 내는 극도로 희미한 전파 신호를 직접 검출하는 데 성공했다. '수소 강도 매핑' 기법이 개별 은하를 특정하지 않고도 우주의 거대 구조를 지도화할 수 있는 실용적 도구임을 입증한 성과다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260907201556.htm",
+      "publishedAt": "2026-09-08T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "\"위성은하가 왜 이렇게 적을까\" 의문 풀리나…'유령 왜소은하' 50개 발견",
+      "summary": "칠레 초대형망원경(VLT)을 이용한 연구팀이 나선·렌즈형·타원은하 3곳 주변에서 기존에 알려지지 않았던 왜소은하 47개를 새로 찾아냈다. 이는 시뮬레이션 예측보다 실제 관측된 위성은하 수가 훨씬 적었던 '누락된 위성은하' 문제를 해소하는 단서가 될 것으로 평가된다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/astronomy/galaxies/astronomers-discover-50-missing-ghost-dwarf-galaxies",
+      "publishedAt": "2026-09-17T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "30주년 도쿄게임쇼 2026, 태풍에 마지막 날 취소되고도 25만7642명 방문",
+      "summary": "제25호 태풍 '두쥐안' 탓에 도쿄게임쇼 2026 마지막 날 행사가 전면 취소돼 5일 중 4일만 진행됐음에도 나흘간 누적 관람객 25만7642명을 기록했다. 넷마블 '샹그릴라 프론티어' 시연권이 첫날 오전 매진되는 등 한국 게임사 부스에도 인파가 몰렸다.",
+      "category": "gaming",
+      "source": "국민일보",
+      "sourceUrl": "https://v.daum.net/v/1Iu8U9UZTH?f=p",
+      "publishedAt": "2026-09-21T09:03:00+09:00"
+    }
+  ]
+}
