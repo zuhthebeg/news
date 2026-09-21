@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-21",
+  "articles": [
+    {
+      "id": "1",
+      "title": "북한, 원산 일대서 동해상으로 단거리 탄도미사일 발사",
+      "summary": "합동참모본부는 북한이 21일 오후 원산 일대에서 동해상으로 단거리 탄도미사일(SRBM) 1발을 발사해 약 450km를 비행했다고 밝혔다. 이후 미상 발사체를 추가로 발사한 것으로 파악됐다.",
+      "category": "domestic",
+      "source": "KBS",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/056/0012260734",
+      "publishedAt": "2026-09-21T09:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "김승원 법무부 장관 후보자, 지명 20일 만에 자진 사퇴",
+      "summary": "이재명 대통령이 8·30 개각에서 지명한 김승원 법무부 장관 후보자가 신약 로비 청탁 의혹 등 후폭풍 속에 자진 사퇴했다. 여야 공방이 이어지며 청와대·민주당의 인사검증 책임론이 불거지고 있다.",
+      "category": "domestic",
+      "source": "뉴시스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/003/0014203247",
+      "publishedAt": "2026-09-20T09:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "트럼프, 이란 대응 '결정 모드'…유엔총회서 페제시키안 회동 가능성",
+      "summary": "트럼프 미국 대통령이 이란에 대한 대응이 결정 단계에 들어섰다고 밝히며 군사적 옵션과 협상 가능성을 동시에 언급했다. 22~28일 뉴욕 유엔총회 기간 이란 대통령과의 만남 가능성도 열려 있다.",
+      "category": "world",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/international/us/2026/09/21/GB37AS6LOBAARFUXMFZBDJHXBA/",
+      "publishedAt": "2026-09-21T10:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "실리콘밸리 빅테크 보안인력 대규모 파업",
+      "summary": "OpenAI, 구글, 아마존, 메타, 마이크로소프트 등 실리콘밸리 주요 테크 기업의 보안 경비 인력 수천명이 시급 인상과 의료·퇴직 혜택 확대를 요구하며 9월 18일부터 파업에 돌입했다.",
+      "category": "tech",
+      "source": "Fast Company",
+      "sourceUrl": "https://www.fastcompany.com/91609749/thousands-of-security-workers-for-major-tech-companies-are-on-strike",
+      "publishedAt": "2026-09-19T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "MS 9월 패치 튜즈데이, 사상 최다 972건 취약점 패치",
+      "summary": "마이크로소프트가 2026년 9월 패치 튜즈데이에서 역대 최다인 972건의 취약점을 패치했다. 실제 악용된 제로데이 2건과 치명적 결함 113건이 포함됐으며, MSMQ·Hyper-V·DNS 서버 등 원격 코드 실행 취약점이 다수 수정됐다.",
+      "category": "tech",
+      "source": "CrowdStrike",
+      "sourceUrl": "https://www.crowdstrike.com/en-us/blog/patch-tuesday-analysis-september-2026/",
+      "publishedAt": "2026-09-15T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "형성 100만년도 안 된 '가장 어린' 외계행성 발견",
+      "summary": "천문학자들이 지구에서 약 450광년 떨어진 젊은 별 주변 잔해구름에서 형성된 지 100만년이 채 되지 않은 외계행성 '엘리아스 2-24b'를 발견했다. 질량은 목성의 2~4배로, 지금까지 발견된 외계행성 중 가장 어리다.",
+      "category": "science",
+      "source": "ZDNet Korea",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20260918144330",
+      "publishedAt": "2026-09-18T14:43:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "중국 전통의학, 유인 우주임무 건강관리에 활용",
+      "summary": "중국이 톈궁 우주정거장에서 전통 중의학(TCM)을 활용해 우주비행사의 심박 불안정, 소화불량, 수면장애 등을 관리하고 있다고 전문가들이 밝혔다. 미세중력 환경에서의 심혈관 기능·근육 위축 예방 연구도 진행 중이다.",
+      "category": "science",
+      "source": "Xinhua",
+      "sourceUrl": "https://english.news.cn/20260920/6f77527f0eb647a0a4888018daec307c/c.html",
+      "publishedAt": "2026-09-20T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "코지마 히데오, 소니가 Zoom 통화로 '피지인트' 취소 통보",
+      "summary": "히데오 코지마는 소니가 지난 6월 Zoom 통화로 신작 '피지인트'의 개발 지원 중단을 통보했으며, 여전히 정확한 이유를 듣지 못했다고 밝혔다. 코지마 프로덕션은 이후 Xbox와 새로운 퍼블리싱 계약을 맺었다.",
+      "category": "gaming",
+      "source": "Kotaku",
+      "sourceUrl": "https://kotaku.com/hideo-kojima-says-sony-canceled-physint-over-a-zoom-call-and-he-still-doesnt-know-the-reason-why-2000735931",
+      "publishedAt": "2026-09-17T00:00:00Z"
+    }
+  ]
+}
