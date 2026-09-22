@@ -72,6 +72,24 @@
       "source": "국민일보",
       "sourceUrl": "https://v.daum.net/v/1Iu8U9UZTH?f=p",
       "publishedAt": "2026-09-21T09:03:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Modly, 사진 한 장을 로컬 GPU로 3D 메시로 바꾸는 오픈소스 데스크톱 앱 공개",
+      "summary": "[Tool] Lightning Pixel이 이미지→3D 메시 변환 데스크톱 앱 'Modly'의 베타 v0.4.2를 공개했다. Windows·Linux·Apple Silicon macOS를 지원하며 Hunyuan3D 등 로컬 GPU 모델로 완전 오프라인 추론하고, 생성된 메시의 스무딩·디시메이션까지 앱 안에서 바로 처리한다. MIT 라이선스로 상업 이용 가능. cocy.io에서 쓸모: 레퍼런스 사진이나 컨셉 이미지를 게임용 3D 프롭·소품 메시로 빠르게 초안화하는 로컬 파이프라인으로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/lightningpixel/modly",
+      "publishedAt": "2026-08-28T16:11:50Z"
+    },
+    {
+      "id": "10",
+      "title": "inclusionAI, 말하는 도중에도 보고 듣는 풀듀플렉스 대화 모델 'Realtime-Venus' 9B 공개",
+      "summary": "[Audio] Ant Group 산하 inclusionAI가 오디오·비디오를 동시에 스트리밍 인식하며 끼어들기·정정까지 처리하는 풀듀플렉스 대화 모델 'Realtime-Venus'(9B, MiniCPM-o 4.5 기반, Qwen3-8B 백본)를 공개했다. Apache-2.0 라이선스로 상업 이용 가능하며 텍스트와 네이티브 음성을 함께 생성한다. cocy.io에서 쓸모: 사용자의 말을 끊지 않고 실시간으로 듣고 답하는 인앱 음성 어시스턴트·NPC 대화 프로토타입에 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Realtime-Venus",
+      "publishedAt": "2026-09-16T08:02:28Z"
     }
   ]
 }
