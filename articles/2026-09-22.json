@@ -90,6 +90,33 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/inclusionAI/Realtime-Venus",
       "publishedAt": "2026-09-16T08:02:28Z"
+    },
+    {
+      "id": "11",
+      "title": "OpenMOSS, 텍스트 설명만으로 효과음을 생성하는 'MOSS-SoundEffect-v2.0' 공개",
+      "summary": "[Audio] OpenMOSS-Team이 Qwen3-1.7B 기반 flow-matching 사운드이펙트 생성 모델 'MOSS-SoundEffect-v2.0'을 공개했다(HF 최초 공개 2026-05-25, apache-2.0 라이선스로 상업 이용 가능). 텍스트 설명만 입력하면 효과음을 직접 합성하며 영어·중국어 프롬프트를 지원한다. cocy.io에서 쓸모: 게임 UI 클릭음·타격음 같은 짧은 효과음을 TangoFlux와 함께 로컬에서 텍스트로 바로 뽑는 보조 파이프라인으로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+      "publishedAt": "2026-05-25T14:19:58.000Z"
+    },
+    {
+      "id": "12",
+      "title": "구글 LiteRT 팀, 다국어 TTS 'Sopro v2 turbo'를 브라우저용 .tflite로 변환 공개",
+      "summary": "[Edge][Audio] litert-community가 참조음성 조건부 TTS 모델 'Sopro v2 turbo'(영어·포르투갈어·프랑스어·독일어)를 구글 LiteRT CompiledModel 포맷(.tflite)으로 변환해 2026-09-21 공개했다. 원본·변환판 모두 apache-2.0으로 상업 이용 가능하며 24kHz 출력에 스트리밍 보코더를 포함한다. cocy.io에서 쓸모: 별도 서버 없이 브라우저(CPU/WebGPU)에서 바로 도는 다국어 TTS를 웹게임·툴 페이지에 내장하는 참고 구현으로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/litert-community/sopro-v2-turbo",
+      "publishedAt": "2026-09-21T07:25:48.000Z"
+    },
+    {
+      "id": "13",
+      "title": "Wan-AI, 레퍼런스 영상의 동작을 캐릭터에 옮기는 'Wan2.2-Animate-2-14B' 공개",
+      "summary": "[Video] Alibaba Wan-AI가 레퍼런스 영상 속 동작·표정을 캐릭터 이미지에 입히는 영상 생성 모델 'Wan2.2-Animate-2-14B'를 2026-07-14 공개했다(최근 업데이트 2026-08-09). apache-2.0 라이선스로 상업 이용 가능하지만 14B라 3080Ti(12GB) 환경에선 양자화 버전이 필요할 수 있다. cocy.io에서 쓸모: 모션캡처 장비 없이 레퍼런스 영상만으로 게임 캐릭터 애니메이션 초안을 뽑는 파이프라인에 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-Animate-2-14B",
+      "publishedAt": "2026-07-14T09:16:12.000Z"
     }
   ]
 }
