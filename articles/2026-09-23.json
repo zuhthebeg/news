@@ -81,6 +81,24 @@
       "source": "Polygon",
       "sourceUrl": "https://www.polygon.com/halo-studios-activision-blizzard-new-games/",
       "publishedAt": "2026-09-22T20:30:15+00:00"
+    },
+    {
+      "id": "10",
+      "title": "Fire3D, 사진 한 장으로 1분 만에 시뮬레이션용 3D 씬 재구성 — MIT 라이선스 공개",
+      "summary": "[Tool] 단일 RGB 이미지나 짧은 영상만으로 물체별 위치·메시·PBR 텍스처를 갖춘 배치 가능한 3D 씬을 테스트 시점 최적화 없이 피드포워드로 재구성하는 Fire3D가 2026년 9월 8일 MIT 라이선스로 공개됐다(GitHub·HF 모두 상업적 사용 가능). cocy.io에서 쓸모: 참고 사진 한 장으로 게임/웹 프로젝트용 3D 씬 배치 초안을 빠르게 뽑아내는 에셋 파이프라인 실험에 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/hongchi/Fire3D",
+      "publishedAt": "2026-09-08T00:04:30+00:00"
+    },
+    {
+      "id": "11",
+      "title": "GINIGEN, 완전 오프라인 4B 엣지 모델 'Edge-4B-TELL' 공개 — llama.cpp GGUF + 답변 신뢰도 프로브",
+      "summary": "[Edge] Gemma-4 4B를 llama.cpp GGUF로 양자화하고, 모델의 마지막 레이어 은닉 상태에서 답변 신뢰도를 실시간 추정하는 'TELL' 선형 프로브(10KB)를 얹은 Edge-4B-TELL이 2026년 9월 19일 공개됐다(Apache-2.0, 베이스는 Gemma 약관 적용). 네트워크 없이 안드로이드에서 텍스트·비전·오디오를 완전 로컬로 처리하도록 설계됐다. cocy.io에서 쓸모: 오프라인/저연결 환경에서 로컬 추론과 함께 답변 신뢰도를 같이 표시해야 하는 모바일 웹앱 기능 설계에 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ginigen-ai/Edge-4B-TELL",
+      "publishedAt": "2026-09-19T03:16:26+00:00"
     }
   ]
 }
