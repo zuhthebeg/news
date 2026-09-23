@@ -99,6 +99,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/ginigen-ai/Edge-4B-TELL",
       "publishedAt": "2026-09-19T03:16:26+00:00"
+    },
+    {
+      "id": "12",
+      "title": "Prism ML, 27B 모델을 5.95GB로 압축한 Ternary Bonsai 2 GGUF 공개",
+      "summary": "[Edge] Prism ML이 2026년 9월 16일 공개한 Ternary-Bonsai-2-27B는 27.36B 모델을 PTQ1_0 기준 5.95GB, PQ2_0 기준 7.21GB로 패킹해 llama.cpp의 CUDA·Metal에서 구동한다. HF API 확인값은 createdAt 2026-09-16, lastModified 2026-09-17, Apache-2.0으로 상업 이용 가능하다. cocy.io에서 쓸모: 12GB RTX 3080 Ti에 27B급 로컬 모델을 올려 콘텐츠 초안·도구 호출 실험을 할 수 있는 현실적인 후보다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/prism-ml/Ternary-Bonsai-2-27B-gguf",
+      "publishedAt": "2026-09-16T23:40:56+00:00"
+    },
+    {
+      "id": "13",
+      "title": "Cactus Needle 3, 8~29MB 온디바이스 도구 호출 모델 공개 — 브라우저·모바일·MCU 지원",
+      "summary": "[Edge] Cactus Compute가 2026년 9월 16일 공개한 Needle 3는 121M 파라미터 모델을 2~20개 레이어로 잘라 배포하며, 전체 파일도 8~29MB에 그친다. WebAssembly·WASI·Android·iOS·Windows·Linux 엔진과 구조화 출력용 문법 제약·신뢰도 점수를 제공한다. HF API 확인값은 lastModified 2026-09-19, Apache-2.0이다. cocy.io에서 쓸모: 서버 호출 없이 브라우저나 모바일에서 버튼·기능을 고르는 소형 도구 호출 라우터로 붙이기 좋다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Cactus-Compute/needle3",
+      "publishedAt": "2026-09-16T06:41:36+00:00"
+    },
+    {
+      "id": "14",
+      "title": "Ming-Image-0.1-Design 공개 — 투명 배경·한글 포함 텍스트 중심 디자인용 6B 이미지 모델",
+      "summary": "[Image] inclusionAI가 2026년 9월 17일 공개하고 9월 22일 갱신한 Ming-Image-0.1-Design은 UI·인포그래픽·포스터처럼 글자가 많은 시각물과 RGBA 투명 배경 출력을 겨냥한 6B 텍스트-이미지 모델이다. HF API와 모델카드에서 MIT 라이선스를 확인했다. 공식 검증 환경은 CUDA GPU 80GiB라 12GB 로컬 GPU용은 아니다. cocy.io에서 쓸모: 서비스 카드·포스터·투명 PNG 에셋의 텍스트 렌더링 품질을 기존 SDXL 파이프라인과 비교할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-Image-0.1-Design",
+      "publishedAt": "2026-09-17T07:17:31+00:00"
+    },
+    {
+      "id": "15",
+      "title": "Supra2-IMG 공개 — 104.1M 파라미터 초경량 텍스트-이미지 DiT",
+      "summary": "[Image] SupraLabs가 2026년 9월 21일 공개한 Supra2-IMG는 104.1M 파라미터 DiT와 Flan-T5-Base, SD-VAE 조합으로 256×256 이미지를 생성한다. 체크포인트와 추론 스크립트가 함께 공개됐고 HF API 확인 라이선스는 Apache-2.0이다. cocy.io에서 쓸모: 고해상도 최종 아트보다 아이콘·게임 오브젝트 콘셉트 썸네일을 로컬에서 빠르게 대량 탐색하는 경량 프리뷰 모델로 시험할 가치가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SupraLabs/Supra2-IMG",
+      "publishedAt": "2026-09-21T14:05:35+00:00"
+    },
+    {
+      "id": "16",
+      "title": "Laya 공개 — 421M 로컬 의사결정·라우팅 모델, 상업 이용 가능한 Apache-2.0",
+      "summary": "[Tool][Edge] ConvAI Innovations가 2026년 9월 18일 공개하고 9월 20일 갱신한 Laya는 일반 답변 생성 대신 여러 후보 행동을 점수화하고 실행·에스컬레이션 여부를 고르는 421M 분류·라우팅 모델이다. 모델카드의 T4 측정 단건 지연은 32.8ms이며 HF API 라이선스는 Apache-2.0이다. cocy.io에서 쓸모: 여러 로컬 모델·툴 중 무엇을 호출할지 고르는 저비용 게이트로 실험하되, 실제 자동 실행 전에는 한국어 정확도 검증이 필요하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/convaiinnovations/laya",
+      "publishedAt": "2026-09-18T05:05:55+00:00"
     }
   ]
 }
