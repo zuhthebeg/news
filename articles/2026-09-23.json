@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-23",
+  "articles": [
+    {
+      "id": "1",
+      "title": "설탕·밀가루 왜 비싼가 했더니…\"기업 담합으로 15조원 매출\"",
+      "summary": "설탕·밀가루 등 필수 먹거리 시장에서 식품 대기업들이 올해에만 15조원에 육박하는 담합을 저지르고도 과징금은 미미한 수준에 그친 것으로 나타났다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260923030900055",
+      "publishedAt": "2026-09-23T08:48:34+09:00"
+    },
+    {
+      "id": "2",
+      "title": "이정현 신임 대검 차장 \"공소청, 인권보호기관 안착 노력\"",
+      "summary": "이정현 신임 대검찰청 차장검사가 취임 첫 출근에서 사회적 약자·범죄 피해자 보호에 만전을 기하고, 이재명 대통령 공소취소 사건은 진상조사 결과를 지켜봐야 한다고 밝혔다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260923035200004",
+      "publishedAt": "2026-09-23T08:53:19+09:00"
+    },
+    {
+      "id": "3",
+      "title": "이란 숨구멍 막힐까…미국, 해운 이어 항공까지 3자제재 봉쇄",
+      "summary": "미국이 전쟁 상대국인 이란에 대해 해운에 이어 항공 분야까지 제3자 제재를 확대하며 경제 봉쇄 공세를 강화하고 있다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260923027600009",
+      "publishedAt": "2026-09-23T08:38:19+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Hacking group ShinyHunters claims it breached the FBI, stole agents' and applicants' data",
+      "summary": "해킹 그룹 ShinyHunters가 FBI를 침해해 요원 및 지원자들의 개인정보를 탈취했다고 주장했다. 유출 시 요원과 가족이 외국 정부에 협박당할 수 있는 방첩 리스크로 지적된다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/09/22/hacking-group-shinyhunters-claims-it-breached-the-fbi-stole-agents-and-applicants-data/",
+      "publishedAt": "2026-09-22T18:40:30+00:00"
+    },
+    {
+      "id": "5",
+      "title": "San Francisco sues Trump Media for selling early access to Trump posts",
+      "summary": "샌프란시스코시가 트럼프 미디어 앤 테크놀로지 그룹(Truth Social 모회사)을 상대로, 트럼프 대통령 게시물에 대한 선행 접근권(Truth API 피드)을 판매한 행위가 '부패한 사업 구조'라며 소송을 제기했다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/998914/trump-truth-social-api-lawsuit-san-francisco",
+      "publishedAt": "2026-09-22T00:00:00+00:00"
+    },
+    {
+      "id": "6",
+      "title": "Stem cells reverse stroke damage and restore movement in mice",
+      "summary": "줄기세포 이식이 뇌졸중으로 손상된 마우스 뇌 조직을 재생시켜 새로운 뉴런을 생성하고 운동 기능을 회복시켰다. 혈관·염증·혈뇌장벽도 개선돼 향후 인간 뇌 손상 치료에 대한 기대를 높였다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260921081116.htm",
+      "publishedAt": "2026-09-21T21:49:32-04:00"
+    },
+    {
+      "id": "7",
+      "title": "NASA just powered up Roman's massive 300-megapixel camera",
+      "summary": "NASA의 낸시 그레이스 로먼 우주망원경이 3억 화소급 적외선 카메라를 성공적으로 가동했다. 허블급 해상도로 광대한 우주 영역을 촬영하며, 행성 탐사용 코로나그래프도 탑재하고 있다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260921081058.htm",
+      "publishedAt": "2026-09-21T08:10:58-04:00"
+    },
+    {
+      "id": "8",
+      "title": "State of Decay Developer Undead Labs Confirms 'Significant' Layoffs Following Independence from Xbox",
+      "summary": "'스테이트 오브 디케이 3' 개발사 언데드랩스가 Xbox로부터 독립한 이후 '상당한' 규모의 인력 감축을 단행했다고 확인했다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/state-of-decay-developer-undead-labs-confirms-significant-layoffs-following-independence-from-xbox",
+      "publishedAt": "2026-09-22T23:19:27+00:00"
+    },
+    {
+      "id": "9",
+      "title": "It's Officially the End of an Era For Halo",
+      "summary": "액티비전 블리자드가 차기 헤일로 게임을 개발한다고 Xbox가 9월 발표하면서, 두 FPS 진영 간 수십 년에 걸친 경쟁 구도가 상징적으로 막을 내렸다.",
+      "category": "gaming",
+      "source": "Polygon",
+      "sourceUrl": "https://www.polygon.com/halo-studios-activision-blizzard-new-games/",
+      "publishedAt": "2026-09-22T20:30:15+00:00"
+    }
+  ]
+}
