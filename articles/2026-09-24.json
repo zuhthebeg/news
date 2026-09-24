@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-24",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'전강후약' 반복 코스피⋯7000선 턱걸이 마감",
+      "summary": "코스피가 이틀 연속 오후에 상승폭을 줄이는 흐름을 보이며 7000선을 간신히 유지했다. 반도체 대형주는 강세를 이어갔지만 개인과 외국인 매도세로 상승폭 상당 부분을 반납했다.",
+      "category": "economy",
+      "source": "아이뉴스24",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/031/0001061082",
+      "publishedAt": "2026-09-23T23:01:00Z"
+    },
+    {
+      "id": "2",
+      "title": "코인 과세 D-100...투자자 반발에 '유예론' 확산",
+      "summary": "내년 1월 1일 가상자산 과세 시행을 100일 앞두고 여야 모두에서 재검토 요구가 잇따른다. 투자자 반발이 거센 가운데 과세 유예 필요성에 정치권 공감대가 확산되는 분위기다.",
+      "category": "domestic",
+      "source": "디지털타임스",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/029/0003049720",
+      "publishedAt": "2026-09-23T21:01:00Z"
+    },
+    {
+      "id": "3",
+      "title": "시진핑 워싱턴 도착…트럼프 공항서 직접 영접, 25일 미중정상회담",
+      "summary": "시진핑 중국 국가주석이 국빈 자격으로 11년 만에 미국을 방문해 워싱턴 인근 앤드루스 공군기지에 도착했다. 트럼프 대통령이 직접 공항에 나가 맞이했으며 25일 정상회담이 예정돼 있다.",
+      "category": "world",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/422/0000909279",
+      "publishedAt": "2026-09-23T22:01:00Z"
+    },
+    {
+      "id": "4",
+      "title": "퀄컴, '스냅드래곤 사운드 엘리트 2세대' 공개",
+      "summary": "퀄컴이 미국 하와이 마우이에서 열린 행사에서 무선 이어폰 등 오디오 웨어러블용 신형 칩 '스냅드래곤 사운드 엘리트 2세대'를 공개했다. 대화형 AI 비서 기능 강화가 특징이다.",
+      "category": "tech",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/092/0002438689",
+      "publishedAt": "2026-09-23T21:01:00Z"
+    },
+    {
+      "id": "5",
+      "title": "FBI 조사 착수, 채용 사이트 해킹당해…해커들 \"매우 민감한 데이터\" 탈취 주장",
+      "summary": "해커들이 채용 관련 웹사이트를 해킹해 민감한 개인정보를 탈취했다고 주장하면서 FBI가 조사에 나섰다. 뉴욕타임스는 별도로 FBI 인사 기록 수천 건이 유출됐다는 해커 주장도 보도했다.",
+      "category": "tech",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com",
+      "publishedAt": "2026-09-23T19:24:00Z"
+    },
+    {
+      "id": "6",
+      "title": "가위바위보 이기는 로봇손...'인공 뇌' 반도체 개발",
+      "summary": "국내 연구진이 사람의 뇌를 모방한 반도체(뉴로모픽 칩)를 개발해 로봇손에 적용, 가위바위보를 이기는 실험에 성공했다. 인간 뇌는 AI 반도체보다 최대 1억 배 적은 에너지로 기억·판단·움직임을 수행한다.",
+      "category": "science",
+      "source": "YTN",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/052/0002410752",
+      "publishedAt": "2026-09-23T16:01:00Z"
+    },
+    {
+      "id": "7",
+      "title": "전전두엽 발달부터 노화까지…'뇌의 일생' 유전자지도로 본다",
+      "summary": "0~97세 뇌세포 130만개를 분석해 생애 전반의 뇌 발달·노화 변화를 유전자지도로 그려낸 연구가 발표됐다. 24세부터 안정기에 접어들고 60세경 재활성화되며, 노인성 치매는 아교세포 염증에서 시작된다는 분석이다.",
+      "category": "science",
+      "source": "서울신문",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/081/0003683213",
+      "publishedAt": "2026-09-23T21:01:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Xbox, 268명 추가 감원…옵시디언은 베데스다에 통합, 헤일로는 액티비전이 담당",
+      "summary": "마이크로소프트 Xbox가 268명을 추가 감원하며 옵시디언 엔터테인먼트를 베데스다 산하로 통합하고, 헤일로 스튜디오 운영을 액티비전 산하로 이관하는 대규모 조직 개편을 단행했다.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://www.pcgamer.com",
+      "publishedAt": "2026-09-22T15:05:28Z"
+    },
+    {
+      "id": "9",
+      "title": "\"명절엔 게임이지\"…주요 게임사 추석 이벤트 살펴보니",
+      "summary": "추석 연휴를 맞아 국내 주요 게임사들이 일제히 이용자 맞이 이벤트에 나섰다. 출석 보상부터 송편·보름달·윷놀이 등 명절 테마 콘텐츠, 경험치 증가 이벤트까지 다양하게 진행된다.",
+      "category": "gaming",
+      "source": "데일리안",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/119/0003136124",
+      "publishedAt": "2026-09-23T23:30:00Z"
+    }
+  ]
+}
