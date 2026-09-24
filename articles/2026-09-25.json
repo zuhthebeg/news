@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-25",
+  "articles": [
+    {
+      "id": "1",
+      "title": "유시민 \"이재명 대통령이 국민 속였다\" 발언에…대통령실, 법적 대응 검토",
+      "summary": "유시민 작가가 이재명 대통령의 검찰개혁 발언을 두고 \"국민을 속였다\"고 비판하자 대통령실이 사실과 다른 주장으로 대통령의 개혁 의지를 왜곡하고 있다며 법적 대응을 검토하고 있다고 밝혔다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202609241640178717",
+      "publishedAt": "2026-09-24T16:40:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "미중 정상회담 앞두고 '부산 합의' 무역 휴전 내년 1월까지 연장",
+      "summary": "시진핑 중국 국가주석의 방미와 백악관 정상회담을 앞두고 미국과 중국이 11월 10일 종료 예정이던 '부산 합의' 무역 휴전을 내년 1월 10일까지 2개월 연장하기로 합의했다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://www.mt.co.kr/world/2026/09/24/2026092409173830117",
+      "publishedAt": "2026-09-24T09:17:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "세월호·이태원·여객기 참사 허위 게시글 122건 유포한 60대 구속",
+      "summary": "경찰청 국가수사본부는 세월호·이태원·제주항공 여객기 참사에 대해 조작·허위 정보를 담은 게시글 122건을 수년간 블로그에 올려 유가족을 모욕한 혐의로 60대 남성을 구속했다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202609231725001/",
+      "publishedAt": "2026-09-23T17:25:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "F5 BIG-IP APM 제로데이 취약점 실공격 확인…CVSS 9.8",
+      "summary": "F5가 BIG-IP APM의 OAuth 인증 서버 기능에서 인증 없이 원격코드실행이 가능한 제로데이 취약점(CVE-2026-94127)이 실제 공격에 악용되고 있다고 경고하며 긴급 패치를 배포했다. CISA도 이를 알려진 악용 취약점 목록에 등재했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/f5-patches-critical-big-ip-apm-zero-day.html",
+      "publishedAt": "2026-09-22T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "MS, AI 활용한 대규모 피싱 서비스 'EvilTokens' 단속…사이트 50곳 압류",
+      "summary": "마이크로소프트가 연방법원의 승인을 받아 AI로 피해자 메일함을 분석해 사기를 벌이는 피싱 서비스 'EvilTokens' 관련 웹사이트 50곳과 지원 도메인 150여 개를 압류했다. 전 세계 1만여 개 기업의 계정 1만2000여 개가 침해된 것으로 파악됐으며 영국 경찰은 용의자 2명을 체포했다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/microsoft-takes-down-eviltokens-device.html",
+      "publishedAt": "2026-09-22T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA 로먼 우주망원경, 3억 화소 광시야 카메라 가동 성공",
+      "summary": "NASA의 낸시 그레이스 로먼 우주망원경이 핵심 관측장비인 3억 화소급 광시야 적외선 카메라(WFI)를 성공적으로 가동했다. 허블급 해상도로 훨씬 넓은 우주 영역을 촬영할 수 있게 되며, 2027년 본격 과학 관측을 앞두고 있다.",
+      "category": "science",
+      "source": "NASA Science",
+      "sourceUrl": "https://science.nasa.gov/blogs/roman/2026/09/15/nasa-activates-romans-primary-instrument-checks-out-coronagraph/",
+      "publishedAt": "2026-09-15T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "\"렘수면 많을수록 질병 83종 위험 낮아져\"…9만5000명 추적 연구",
+      "summary": "영국 바이오뱅크 참가자 9만5559명의 손목 가속도계 데이터를 분석한 결과, 렘수면이 많을수록 심부전·치매·파킨슨병 등 83종 질환 위험이 낮아지는 것으로 나타났다. 하루 6~8시간 수면이 중장년층 건강에 안전판 역할을 하는 것으로 분석됐다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/09/260923035930.htm",
+      "publishedAt": "2026-09-23T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "EA 스포츠 FC 27, 오늘 전 세계 정식 출시",
+      "summary": "EA 스포츠의 축구 시리즈 신작 'FC 27'이 PC·PS5·엑스박스 시리즈 등 전 플랫폼에서 정식 출시됐다. 클럽·길거리 축구를 즐기는 오픈월드 공간 '더 그라운즈'가 새롭게 추가됐으며, 무료 체험판 'FC 27 라이트'도 함께 공개됐다.",
+      "category": "gaming",
+      "source": "Notebookcheck",
+      "sourceUrl": "https://www.notebookcheck.net/EA-Sports-FC-27-launches-this-September-2026.1406555.0.html",
+      "publishedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "넷마블, 도쿄게임쇼서 '나 혼자만 레벨업: 카르마' 미디어 발표회",
+      "summary": "넷마블이 도쿄게임쇼(TGS) 2026에서 개발 중인 로그라이트 액션 RPG 신작 '나 혼자만 레벨업: 카르마'를 공개했다. 인기 웹툰 IP를 기반으로 한 신작으로, 국내 게임사들의 일본 시장 공략 행보가 이어지고 있다.",
+      "category": "gaming",
+      "source": "서울타임즈",
+      "sourceUrl": "https://www.seoultimes.news/news/article.html?no=2000099797",
+      "publishedAt": "2026-09-17T00:00:00+09:00"
+    }
+  ]
+}
