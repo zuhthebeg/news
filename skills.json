@@ -1,6 +1,19 @@
 {
   "skills": [
     {
+      "title": "Mentio",
+      "description": "Reddit·HN·X·GitHub·Bluesky·LinkedIn·YouTube·뉴스까지 키워드 언급을 점수매김해 추적·트리아지하는 브랜드 모니터링 스킬. Mentio REST API 기반으로 알림·분석까지 에이전트가 직접 처리.",
+      "icon": "📣",
+      "category": "productivity",
+      "url": "https://github.com/mentio-dev/openclaw-skill",
+      "tags": [
+        "brand-monitoring",
+        "social-listening",
+        "clawhub"
+      ],
+      "addedAt": "2026-09-25"
+    },
+    {
       "title": "yaps",
       "description": "음성·오디오·영상·이미지·번역·메모리를 하나로 묶은 미디어 스킬 모음. TTS/받아쓰기/오디오 노이즈 제거/영상 컷 편집/영상→오디오 추출/이미지 생성/배경 제거/자막 번역까지 10여 개 세부 스킬로 나뉘어 openclaw skills install로 바로 설치된다.",
       "icon": "🎙️",

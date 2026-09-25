@@ -81,6 +81,33 @@
       "source": "서울타임즈",
       "sourceUrl": "https://www.seoultimes.news/news/article.html?no=2000099797",
       "publishedAt": "2026-09-17T00:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "알리바바 SparkDiffusion, Wan2.1 영상생성 어텐션 90~97% 스파스화로 가속 (Apache-2.0)",
+      "summary": "[Video] 알리바바 리서치가 Wan2.1 이미지→영상 14B(720P) 모델에 학습된 스파스 어텐션(RoLA)과 소수단계 증류(CrossDistill)를 적용한 SparkWan2.1 체크포인트를 공개했다(HF createdAt 2026-09-24, license:apache-2.0 확인). 어텐션 스파시티 90~97%를 지원하며 4-step 추론으로 지연시간을 줄인다. cocy.io에서 쓸모: 로컬 3080Ti에서 Wan2.1 기반 영상 생성 시 추론 속도를 크게 줄여 트레일러·프로모 클립 제작 실험 사이클을 단축할 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face (alibabagroup/SparkWan2.1-I2V-14B-720P-0.97Sparsity)",
+      "sourceUrl": "https://huggingface.co/alibabagroup/SparkWan2.1-I2V-14B-720P-0.97Sparsity",
+      "publishedAt": "2026-09-25T02:00:00Z"
+    },
+    {
+      "id": "11",
+      "title": "구글, Descript 오디오 코덱 온디바이스 GPU 추론용 LiteRT 빌드 공개 (MIT)",
+      "summary": "[Edge] 구글 LiteRT 커뮤니티가 Descript의 신경망 오디오 코덱(DAC) 16kHz 버전을 온디바이스 GPU(LiteRT CompiledModel)용으로 변환해 공개했다(HF createdAt 2026-09-22, license:mit 확인). Pixel 8a 실기기에서 실시간보다 빠른 RTF 0.82로 검증됐으며 43:1 압축률(1초→12x50코드)을 지원한다. cocy.io에서 쓸모: 모바일·웹 게임에서 서버 없이 온디바이스로 음성을 초경량 코덱으로 인코딩/디코딩해 보이스라인 전송 용량을 줄이는 데 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face (litert-community/DAC-16kHz-LiteRT)",
+      "sourceUrl": "https://huggingface.co/litert-community/DAC-16kHz-LiteRT",
+      "publishedAt": "2026-09-25T02:05:00Z"
+    },
+    {
+      "id": "12",
+      "title": "MS WebNN팀, 브라우저에서 바로 도는 HTDemucs 스템 분리기 ONNX 공개 (MIT)",
+      "summary": "[Edge] 마이크로소프트 WebNN Developer Preview 팀이 메타의 HTDemucs v4 보컬·드럼·베이스·기타 분리 모델을 ONNX로 변환해 공개했다(HF createdAt 2026-09-24, license:mit 확인, 원본 Meta Demucs도 MIT). ONNX Runtime Web + WebNN(NPU/GPU) 가속으로 서버 없이 브라우저에서 곡을 4트랙으로 분리한다. cocy.io에서 쓸모: 로컬 GPU 앱 설치 없이 웹에서 바로 BGM 소스를 보컬/드럼으로 분리해 게임 리믹스나 SFX 재료로 재활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face (webnn/stem-separator)",
+      "sourceUrl": "https://huggingface.co/webnn/stem-separator",
+      "publishedAt": "2026-09-25T02:10:00Z"
     }
   ]
 }
