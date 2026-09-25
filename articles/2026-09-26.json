@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-26",
+  "articles": [
+    {
+      "id": "1",
+      "title": "젤렌스키 '북한군 포로 한국행' 유엔서 전격 공개…靑 \"비공개 양해와 달라져\"",
+      "summary": "젤렌스키 우크라이나 대통령이 유엔총회 연설에서 러시아 쿠르스크에서 생포한 북한군 포로 2명을 한국으로 보냈다고 공개했다. 청와대는 그간 당사자 자유의사를 존중해 비공개로 협의를 진행해왔는데 우크라이나 측 입장이 나중에 바뀌었다고 밝혔다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202609251505001",
+      "publishedAt": "2026-09-25T15:05:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "추석 특수로 소비심리 반짝…하반기 내수회복은 여전히 난망",
+      "summary": "추석 연휴를 앞두고 백화점 매출이 전년 동기 대비 16.3% 늘어나는 등 명절 특수 소비가 살아났지만, 업계는 이를 일시적 반등으로 보고 하반기 내수 경기 회복에는 여전히 회의적인 시각을 보이고 있다.",
+      "category": "economy",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/1206313",
+      "publishedAt": "2026-09-25T06:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "경기 양주 빌라서 휘발유 뿌린 뒤 폭발…1명 사망 6명 부상",
+      "summary": "25일 새벽 경기 양주시 덕계동의 한 빌라 3층에서 술에 취한 60대 남성이 휘발유를 뿌린 뒤 폭발과 화재가 발생해 해당 남성이 숨지고 출동한 경찰관·소방대원 등 6명이 다쳤다. 경찰은 방화 가능성을 두고 조사 중이다.",
+      "category": "domestic",
+      "source": "세계일보",
+      "sourceUrl": "https://www.segye.com/newsView/20260925506534",
+      "publishedAt": "2026-09-25T05:30:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "가상자산 거래소 비트겟서 3억5160만달러 해킹…북한 소행 추정",
+      "summary": "글로벌 가상자산 거래소 비트겟이 지갑 인프라 백엔드 시스템이 침해당해 3억5160만달러 상당의 자산을 도난당했다고 밝혔다. 이더리움·XRP레저·아발란체 등 여러 블록체인에 걸친 19건의 거래로 자금이 빠져나갔으며, IP 패턴 등을 근거로 북한 해킹조직의 소행으로 추정된다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/bitget-says-suspected-north-korean.html",
+      "publishedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "MS, 사상 최대 974건 취약점 패치…제로데이 2건 포함",
+      "summary": "마이크로소프트가 9월 정기 보안 업데이트에서 역대 최대 규모인 974건의 취약점을 패치했다. 이 중 윈도 ALPC와 업데이트 스택에서 발견된 제로데이 2건은 이미 시스템 권한 탈취 공격에 악용되고 있는 것으로 확인됐다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/09/microsoft-patches-record-974-flaws.html",
+      "publishedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "제임스웹, 우리은하 블랙홀 코앞에서 살아남은 '물' 흔적 포착",
+      "summary": "제임스웹 우주망원경이 우리은하 중심 초거대질량 블랙홀 궁수자리 A*에서 불과 0.55광년 떨어진 죽어가는 별 'IRS 3' 주변에서 물의 흔적을 발견했다. 극심한 방사선 환경에서도 물과 먼지가 형성·생존할 수 있음을 보여준 첫 사례로 평가된다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/astronomy/james-webb-space-telescope/water-can-survive-surprisingly-close-to-the-milky-ways-supermassive-black-hole-james-webb-space-telescope-finds",
+      "publishedAt": "2026-09-23T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "허블 우주망원경, 발사 36년 만에 지구 20만 바퀴 돌았다",
+      "summary": "1990년 발사된 허블 우주망원경이 지난 19일 지구 궤도 20만 바퀴 비행이라는 새 이정표를 세웠다. 누적 이동 거리는 50억 마일을 넘었으며, 이날도 우주 팽창률 측정을 위한 초신성 관측 임무를 수행 중이었다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/astronomy/hubble-space-telescope/hubble-space-telescope-finishes-200-000-earth-orbits-in-style-while-studying-a-warped-star-explosion",
+      "publishedAt": "2026-09-19T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "엔씨 '아이온2 글로벌', 9월 30일 얼리액세스로 해외 진출",
+      "summary": "엔씨소프트가 '아이온2 글로벌'의 5일간 얼리액세스를 9월 30일부터 시작하고 10월 5일 정식 출시한다고 밝혔다. 북미·남미·유럽·일본 등지에 퍼플과 스팀 플랫폼으로 서비스되며 10개 언어를 지원한다.",
+      "category": "gaming",
+      "source": "게임뷰",
+      "sourceUrl": "https://www.gamevu.co.kr/news/articleView.html?idxno=59497",
+      "publishedAt": "2026-07-23T10:51:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "빌리빌리 리듬게임 '뱅드림! 아워 노트', 사전예약 200만 넘기고 글로벌 출시",
+      "summary": "빌리빌리게임즈의 신작 리듬게임 '뱅드림! 아워 노트'가 9월 24일 iOS·안드로이드로 글로벌 정식 출시됐다. 한국어·중국어·영어를 지원하며 사전예약 200만 명 돌파에 따른 보상과 초반 접속 이벤트가 함께 제공된다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=321384",
+      "publishedAt": "2026-09-23T10:45:00+09:00"
+    }
+  ]
+}
