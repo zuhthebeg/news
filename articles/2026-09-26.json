@@ -99,6 +99,33 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/mlx-community/moge-3-vitl-mlx-fp32",
       "publishedAt": "2026-09-02T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "koko-tts — 2460만 파라미터 초경량 오픈 TTS (Apache-2.0)",
+      "summary": "[Voice][Edge] saki22가 공개한 flow-matching 기반 초경량 TTS 모델(약 24.6M 파라미터). 2026-09-20 공개(HF API createdAt 확인, license: apache-2.0), 09-24까지 업데이트 이어짐. 파라미터가 작아 브라우저/WebGPU 온디바이스 추론 후보로 적합. cocy.io에서 쓸모: 게임/툴 페이지에 서버 비용 없이 브라우저에서 바로 돌리는 내레이션·안내음성 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/saki22/koko-tts",
+      "publishedAt": "2026-09-20T19:22:50.000Z"
+    },
+    {
+      "id": "13",
+      "title": "Ming-Image-0.1-Design — 텍스트 렌더링 특화 이미지 생성 모델 (MIT)",
+      "summary": "[Image] inclusionAI(Ant Group 계열)가 공개한 text-to-image 모델(약 6.15B 파라미터, BF16). 2026-09-17 공개(HF API 확인, license: MIT), 그래픽 디자인·텍스트 렌더링·RGBA 출력 특화 태그. BF16 그대로면 약 12.3GB라 3080Ti(12GB)엔 빠듯하고 양자화판은 아직 미확인. cocy.io에서 쓸모: 게임 포스터·배너에 들어가는 한글/영문 텍스트가 안 깨지는 이미지 생성 후보, 양자화판 나오면 재검토.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-Image-0.1-Design",
+      "publishedAt": "2026-09-17T07:17:31.000Z"
+    },
+    {
+      "id": "14",
+      "title": "FastWan2.2-TI2V-5B MLX q8 — 애플실리콘용 경량 양자화 비디오 생성 모델 (Apache-2.0)",
+      "summary": "[Video][Edge] FastVideo/Wan2.2-TI2V-5B(Apache-2.0)를 MLX용 8bit로 양자화한 배포판. 2026-09-21 공개(HF API 확인, license: apache-2.0 상속), 애플실리콘 온디바이스 추론 전용이라 3080Ti 같은 CUDA GPU엔 그대로 못 쓴다. cocy.io에서 쓸모: 로컬(CUDA) 파이프라인엔 직접 적용 불가, CUDA 양자화판이 나오면 재검토할 참고 사례.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/jboone100/FastWan2.2-TI2V-5B-MLX-q8",
+      "publishedAt": "2026-09-21T04:11:13.000Z"
     }
   ]
 }
