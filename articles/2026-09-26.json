@@ -81,6 +81,24 @@
       "source": "인벤",
       "sourceUrl": "https://www.inven.co.kr/webzine/news/?news=321384",
       "publishedAt": "2026-09-23T10:45:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "텐센트, 통합 음성 생성·편집 파운데이션 모델 'AuK' 오픈소스 공개",
+      "summary": "[Audio] 텐센트가 9월 9일 15억 파라미터 음성 파운데이션 모델 AuK를 MIT 라이선스로 오픈소스 공개했다. 제로샷/지시문 기반 TTS부터 내용 편집, 화자 특성(파라링귀스틱) 편집, 음성 강화, 음원 분리까지 자연어 지시 하나로 처리하는 통합 인터페이스가 특징이며 4스텝 고속 추론용 경량판 AuK-Flash도 함께 제공된다. cocy.io에서 쓸모: 현재 CosyVoice로 처리하는 보이스라인 녹음을 같은 모델에서 잡음 제거·발음 교정·음원 분리까지 이어서 처리할 수 있어 게임 대사 후처리 파이프라인 단계를 줄일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/tencent/AuK",
+      "publishedAt": "2026-09-09T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "단일 이미지→3D 지오메트리 추정 모델 'MoGe-3', 애플 실리콘 로컬 추론용 MLX 버전 공개",
+      "summary": "[Edge] 단일 이미지에서 깊이맵·노멀맵·포인트맵·카메라 내부 파라미터까지 한 번에 추정하는 MIT 라이선스 모델 MoGe-3의 MLX 변환판이 9월 2일 공개됐다. mlx-vlm으로 변환된 fp32 버전은 macOS에서 클라우드 GPU 없이 로컬로 구동되며, 파이토치 레퍼런스 대비 깊이 오차 0.2% 미만의 정확도를 유지한다. cocy.io에서 쓸모: 콘셉트 아트 한 장을 뎁스/노멀 데이터로 변환해 패럴랙스 배경이나 간이 3D 에셋 제작에 활용할 수 있고, Mac에서 바로 로컬 구동이 가능해 클라우드 GPU 비용 없이 파이프라인에 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/mlx-community/moge-3-vitl-mlx-fp32",
+      "publishedAt": "2026-09-02T00:00:00+09:00"
     }
   ]
 }
