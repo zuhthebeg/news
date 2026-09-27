@@ -1,86 +1,95 @@
 {
-  "date": "2026-09-27",
-  "articles": [
-    {
-      "id": "1",
-      "title": "한동훈 \"DMZ 지뢰사고 합동조사 27일로 변경\"…유엔사 요구 거부 의혹 제기",
-      "summary": "무소속 한동훈 의원이 서부전선 DMZ 지뢰 추정 폭발 사고와 관련해 군과 유엔군사령부의 합동 현장조사가 애초 29일에서 27일로 앞당겨졌다며, 유엔사의 신속한 조사 요구를 우리 군이 받아들이지 않아 조사가 지연된 경위를 밝혀야 한다고 주장했다.",
-      "category": "domestic",
-      "source": "경향신문",
-      "sourceUrl": "https://www.khan.co.kr/article/202609261831001/",
-      "publishedAt": "2026-09-26T18:31:00+09:00"
-    },
-    {
-      "id": "2",
-      "title": "9월 1~20일 수출 714억달러 '역대 최대'…반도체 비중 47.8%로 급등",
-      "summary": "관세청이 발표한 9월 1~20일 수출입 현황에 따르면 반도체 수출이 259.4% 급증해 사상 첫 300억달러를 돌파했고, 전체 수출도 전년 동기 대비 78.3% 늘어난 714억달러로 동기간 역대 최대 실적을 기록했다.",
-      "category": "economy",
-      "source": "서울신문",
-      "sourceUrl": "https://www.seoul.co.kr/news/economy/2026/09/21/20260921500200",
-      "publishedAt": "2026-09-21T00:00:00+09:00"
-    },
-    {
-      "id": "3",
-      "title": "30억대 강남 아파트 두고 '배다른 형제' 상속분쟁…법원, 부양 기여도 인정해 원고 패소",
-      "summary": "재혼 전후 서로 다른 혼인관계에서 태어난 형제들이 30억원대 강남 아파트를 둘러싸고 벌인 상속 소송에서 서울중앙지법은 장기간 부친을 간병하고 아파트 분양대금을 실질적으로 마련한 동생 측 손을 들어주며 원고의 유류분 청구를 기각했다.",
-      "category": "domestic",
-      "source": "서울경제",
-      "sourceUrl": "https://m.sedaily.com/article/20095008",
-      "publishedAt": "2026-09-25T00:00:00+09:00"
-    },
-    {
-      "id": "4",
-      "title": "ShinyHunters, 오라클 피플소프트 취약점으로 WAF 우회해 웹셸 유포",
-      "summary": "ShinyHunters 연계 해커들이 오라클 피플소프트 툴스의 CVE-2026-35273 취약점을 악용해 방화벽(WAF) 탐지를 우회하고 다수 시스템에 웹셸을 심는 공격을 이어가고 있다. 이 취약점은 이미 대학·병원·정부기관 등 100여 개 조직, 약 300건의 피플소프트 설치본을 노린 대규모 침해에 사용된 바 있다.",
-      "category": "tech",
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
-      "publishedAt": "2026-09-26T00:00:00Z"
-    },
-    {
-      "id": "5",
-      "title": "1000만 사이트 쓰는 엘리멘터 플러그인, CSRF 취약점으로 관리자 계정 탈취 가능",
-      "summary": "1000만 개 이상 워드프레스 사이트가 사용하는 엘리멘터(Elementor) 4.3.0·4.3.1 버전에서 CSRF 방어가 우회되는 고위험 취약점(CVE-2026-62062, CVSS 8.8)이 발견됐다. 공격자가 관리자에게 악성 링크 클릭을 유도하면 별도 인증 없이 관리자 계정을 새로 만들어 사이트를 장악할 수 있다.",
-      "category": "tech",
-      "source": "The Hacker News",
-      "sourceUrl": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
-      "publishedAt": "2026-09-26T00:00:00Z"
-    },
-    {
-      "id": "6",
-      "title": "허블, 토성 남극에서 성장 중인 '10각형' 구름 패턴 포착",
-      "summary": "허블 우주망원경이 토성 북극의 유명한 육각형 제트기류와 대칭을 이루는, 남극 상공 지름 약 16만7000km 규모의 10각형(데카곤) 대기 패턴을 확인했다. 2023년 이후 관측 자료를 재구성한 결과 이 패턴은 최근 몇 년 새 형성돼 점점 강해지고 있는 것으로 나타나 새로운 대기 현상 발달 과정을 실시간으로 관찰할 기회로 평가된다.",
-      "category": "science",
-      "source": "Space.com",
-      "sourceUrl": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole",
-      "publishedAt": "2026-09-03T00:00:00Z"
-    },
-    {
-      "id": "7",
-      "title": "NASA 로먼 우주망원경, 3억 화소 광시야 카메라 첫 가동",
-      "summary": "8월 말 발사된 낸시 그레이스 로먼 우주망원경이 핵심 관측 장비인 3억 화소 적외선 광시야기기(WFI)를 처음으로 가동해 첫 우주광을 포착했다. 보름달보다 넓은 하늘 영역을 허블급 선명도로 촬영할 수 있으며, 행성 탐색용 코로나그래프도 정상 작동이 확인돼 2027년 초 정식 과학관측 개시를 앞두고 있다.",
-      "category": "science",
-      "source": "NASA Science",
-      "sourceUrl": "https://science.nasa.gov/blogs/roman/2026/09/15/nasa-activates-romans-primary-instrument-checks-out-coronagraph/",
-      "publishedAt": "2026-09-15T00:00:00Z"
-    },
-    {
-      "id": "8",
-      "title": "엔씨 '아스트라에 오라티오', 도쿄게임쇼 2026 단독 부스에 3만명 방문",
-      "summary": "엔씨소프트의 신작 서브컬처 RPG '아스트라에 오라티오'가 도쿄게임쇼 2026에서 단독 부스로 첫 시연을 공개해 3만 명이 방문했다. 태풍으로 행사가 하루 조기 폐막하자 엔씨는 시연 공간을 긴급 증설하고 유튜브로 온라인 상영회를 진행하며 대응했다.",
-      "category": "gaming",
-      "source": "NCSOFT",
-      "sourceUrl": "https://about.ncsoft.com/news/article/AO_update_20260922_2",
-      "publishedAt": "2026-09-22T00:00:00+09:00"
-    },
-    {
-      "id": "9",
-      "title": "넥슨, 신작 경쟁형 MMORPG '템빨: 오버기어드' 10월 1일 사전등록 시작",
-      "summary": "넥슨이 웹소설·웹툰 합산 13억뷰를 기록한 '템빨' IP 기반 MMORPG '템빨: 오버기어드'의 사전등록을 10월 1일부터 진행한다고 밝혔다. 장비 성장과 경쟁형 콘텐츠를 앞세운 이 게임은 한국·대만·홍콩·마카오에 PC·모바일 크로스플랫폼으로 연내 출시될 예정이다.",
-      "category": "gaming",
-      "source": "뉴스핌",
-      "sourceUrl": "https://www.newspim.com/news/view/20260917000493",
-      "publishedAt": "2026-09-17T00:00:00+09:00"
-    }
-  ]
+    "date": "2026-09-27",
+    "articles": [
+        {
+            "id": "1",
+            "title": "한동훈 \"DMZ 지뢰사고 합동조사 27일로 변경\"…유엔사 요구 거부 의혹 제기",
+            "summary": "무소속 한동훈 의원이 서부전선 DMZ 지뢰 추정 폭발 사고와 관련해 군과 유엔군사령부의 합동 현장조사가 애초 29일에서 27일로 앞당겨졌다며, 유엔사의 신속한 조사 요구를 우리 군이 받아들이지 않아 조사가 지연된 경위를 밝혀야 한다고 주장했다.",
+            "category": "domestic",
+            "source": "경향신문",
+            "sourceUrl": "https://www.khan.co.kr/article/202609261831001/",
+            "publishedAt": "2026-09-26T18:31:00+09:00"
+        },
+        {
+            "id": "2",
+            "title": "9월 1~20일 수출 714억달러 '역대 최대'…반도체 비중 47.8%로 급등",
+            "summary": "관세청이 발표한 9월 1~20일 수출입 현황에 따르면 반도체 수출이 259.4% 급증해 사상 첫 300억달러를 돌파했고, 전체 수출도 전년 동기 대비 78.3% 늘어난 714억달러로 동기간 역대 최대 실적을 기록했다.",
+            "category": "economy",
+            "source": "서울신문",
+            "sourceUrl": "https://www.seoul.co.kr/news/economy/2026/09/21/20260921500200",
+            "publishedAt": "2026-09-21T00:00:00+09:00"
+        },
+        {
+            "id": "3",
+            "title": "30억대 강남 아파트 두고 '배다른 형제' 상속분쟁…법원, 부양 기여도 인정해 원고 패소",
+            "summary": "재혼 전후 서로 다른 혼인관계에서 태어난 형제들이 30억원대 강남 아파트를 둘러싸고 벌인 상속 소송에서 서울중앙지법은 장기간 부친을 간병하고 아파트 분양대금을 실질적으로 마련한 동생 측 손을 들어주며 원고의 유류분 청구를 기각했다.",
+            "category": "domestic",
+            "source": "서울경제",
+            "sourceUrl": "https://m.sedaily.com/article/20095008",
+            "publishedAt": "2026-09-25T00:00:00+09:00"
+        },
+        {
+            "id": "4",
+            "title": "ShinyHunters, 오라클 피플소프트 취약점으로 WAF 우회해 웹셸 유포",
+            "summary": "ShinyHunters 연계 해커들이 오라클 피플소프트 툴스의 CVE-2026-35273 취약점을 악용해 방화벽(WAF) 탐지를 우회하고 다수 시스템에 웹셸을 심는 공격을 이어가고 있다. 이 취약점은 이미 대학·병원·정부기관 등 100여 개 조직, 약 300건의 피플소프트 설치본을 노린 대규모 침해에 사용된 바 있다.",
+            "category": "tech",
+            "source": "The Hacker News",
+            "sourceUrl": "https://thehackernews.com/2026/09/attackers-bypass-wafs-to-exploit-oracle.html",
+            "publishedAt": "2026-09-26T00:00:00Z"
+        },
+        {
+            "id": "5",
+            "title": "1000만 사이트 쓰는 엘리멘터 플러그인, CSRF 취약점으로 관리자 계정 탈취 가능",
+            "summary": "1000만 개 이상 워드프레스 사이트가 사용하는 엘리멘터(Elementor) 4.3.0·4.3.1 버전에서 CSRF 방어가 우회되는 고위험 취약점(CVE-2026-62062, CVSS 8.8)이 발견됐다. 공격자가 관리자에게 악성 링크 클릭을 유도하면 별도 인증 없이 관리자 계정을 새로 만들어 사이트를 장악할 수 있다.",
+            "category": "tech",
+            "source": "The Hacker News",
+            "sourceUrl": "https://thehackernews.com/2026/09/elementor-csrf-flaw-lets-attackers-take.html",
+            "publishedAt": "2026-09-26T00:00:00Z"
+        },
+        {
+            "id": "6",
+            "title": "허블, 토성 남극에서 성장 중인 '10각형' 구름 패턴 포착",
+            "summary": "허블 우주망원경이 토성 북극의 유명한 육각형 제트기류와 대칭을 이루는, 남극 상공 지름 약 16만7000km 규모의 10각형(데카곤) 대기 패턴을 확인했다. 2023년 이후 관측 자료를 재구성한 결과 이 패턴은 최근 몇 년 새 형성돼 점점 강해지고 있는 것으로 나타나 새로운 대기 현상 발달 과정을 실시간으로 관찰할 기회로 평가된다.",
+            "category": "science",
+            "source": "Space.com",
+            "sourceUrl": "https://www.space.com/astronomy/saturn/astronomers-discover-mysterious-10-sided-cloud-structure-at-saturns-south-pole",
+            "publishedAt": "2026-09-03T00:00:00Z"
+        },
+        {
+            "id": "7",
+            "title": "NASA 로먼 우주망원경, 3억 화소 광시야 카메라 첫 가동",
+            "summary": "8월 말 발사된 낸시 그레이스 로먼 우주망원경이 핵심 관측 장비인 3억 화소 적외선 광시야기기(WFI)를 처음으로 가동해 첫 우주광을 포착했다. 보름달보다 넓은 하늘 영역을 허블급 선명도로 촬영할 수 있으며, 행성 탐색용 코로나그래프도 정상 작동이 확인돼 2027년 초 정식 과학관측 개시를 앞두고 있다.",
+            "category": "science",
+            "source": "NASA Science",
+            "sourceUrl": "https://science.nasa.gov/blogs/roman/2026/09/15/nasa-activates-romans-primary-instrument-checks-out-coronagraph/",
+            "publishedAt": "2026-09-15T00:00:00Z"
+        },
+        {
+            "id": "8",
+            "title": "엔씨 '아스트라에 오라티오', 도쿄게임쇼 2026 단독 부스에 3만명 방문",
+            "summary": "엔씨소프트의 신작 서브컬처 RPG '아스트라에 오라티오'가 도쿄게임쇼 2026에서 단독 부스로 첫 시연을 공개해 3만 명이 방문했다. 태풍으로 행사가 하루 조기 폐막하자 엔씨는 시연 공간을 긴급 증설하고 유튜브로 온라인 상영회를 진행하며 대응했다.",
+            "category": "gaming",
+            "source": "NCSOFT",
+            "sourceUrl": "https://about.ncsoft.com/news/article/AO_update_20260922_2",
+            "publishedAt": "2026-09-22T00:00:00+09:00"
+        },
+        {
+            "id": "9",
+            "title": "넥슨, 신작 경쟁형 MMORPG '템빨: 오버기어드' 10월 1일 사전등록 시작",
+            "summary": "넥슨이 웹소설·웹툰 합산 13억뷰를 기록한 '템빨' IP 기반 MMORPG '템빨: 오버기어드'의 사전등록을 10월 1일부터 진행한다고 밝혔다. 장비 성장과 경쟁형 콘텐츠를 앞세운 이 게임은 한국·대만·홍콩·마카오에 PC·모바일 크로스플랫폼으로 연내 출시될 예정이다.",
+            "category": "gaming",
+            "source": "뉴스핌",
+            "sourceUrl": "https://www.newspim.com/news/view/20260917000493",
+            "publishedAt": "2026-09-17T00:00:00+09:00"
+        },
+        {
+            "id": "10",
+            "title": "UNITE-AUDIO, 연속 토크나이저+플로우 매칭을 함께 학습한 경량 text-to-audio 모델 공개",
+            "summary": "[Audio] 중국 연구팀이 오디오 연속 토크나이저와 잠재 플로우 매칭을 하나의 모델로 함께 학습시키는 새 프레임워크 UNITE-AUDIO를 공개했다(HuggingFace, 2026-09-24, Apache-2.0, 상업적 사용 가능 확인). 핵심 플로우 모델 117.7M + 디코더 45.5M 파라미터로 구성돼 기존 대형 오디오 생성 모델보다 훨씬 가볍다. cocy.io에서 쓸모: 가벼운 파라미터 크기 덕분에 게임/웹 서비스에 들어갈 배경음·효과음을 로컬 GPU에서 저비용으로 실험해볼 대안 후보로 검토할 만하다.",
+            "category": "ai-tech",
+            "source": "HuggingFace",
+            "sourceUrl": "https://huggingface.co/RunwuShi/UNITE-AUDIO",
+            "publishedAt": "2026-09-24T00:00:00Z"
+        }
+    ]
 }
