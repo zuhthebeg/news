@@ -81,6 +81,15 @@
       "source": "The Verge",
       "sourceUrl": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
       "publishedAt": "2026-09-26T12:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "텐센트 ARC, 카메라 제어 가능한 일관성 비디오 월드모델 'WorldCrafter' 공개",
+      "summary": "[Video] 텐센트 ARC 연구팀이 카메라 앵글을 지정하면서도 여러 프레임에 걸쳐 배경·오브젝트 일관성을 유지하는 비디오 월드 모델 'WorldCrafter'를 9월 21일 공개했다. 암묵적 3D 인식 메모리로 장면 일관성을 잡아주며 Base/Fast 두 체크포인트로 제공된다. cocy.io 게임 컷신이나 배경 프리비주얼 초안을 카메라 워크 고정한 채로 빠르게 뽑아볼 때 참고할 만하다. 다만 HF 모델 카드에 라이선스 표기가 없어 상업적 사용 가능 여부는 라이선스 미확인 상태다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/TencentARC/WorldCrafter-Base",
+      "publishedAt": "2026-09-21T14:30:04Z"
     }
   ]
 }
