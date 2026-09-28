@@ -90,6 +90,42 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/TencentARC/WorldCrafter-Base",
       "publishedAt": "2026-09-21T14:30:04Z"
+    },
+    {
+      "id": "11",
+      "title": "구글 LiteRT, 온디바이스 제로샷 보이스클로닝 TTS 'Audio8-TTS-Preview-0.6b' 변환판 공개",
+      "summary": "[Audio][Voice][Edge] 구글 LiteRT 팀이 Fish Audio S2 Pro 계열 DualAR 음성모델 Audio8-TTS-Preview-0.6b를 온디바이스용 .tflite로 변환해 9월 28일 공개했다(Apache-2.0, HF API 확인). 한국어 포함 11개 언어 제로샷 보이스클로닝을 44.1kHz 네이티브로 지원하며 서버 없이 폰/PC CPU에서 바로 구동된다. cocy.io에서 쓸모: 웹게임 내레이션이나 캐릭터 보이스를 TTS 서버 없이 브라우저/앱에서 즉석 생성할 때 활용.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/litert-community/Audio8-TTS-Preview-0.6b",
+      "publishedAt": "2026-09-28T00:12:17Z"
+    },
+    {
+      "id": "12",
+      "title": "구글 LiteRT, 통이랩 'Fun-ASR-Nano-2512' 온디바이스 음성인식 변환판 공개",
+      "summary": "[Edge][Tool] 구글 LiteRT 팀이 알리바바 통이랩의 Qwen3-0.6B 기반 음성인식 모델 Fun-ASR-Nano-2512를 온디바이스 .litertlm 포맷으로 변환해 9월 27일 공개(Apache-2.0, HF API 확인). 중국어(7방언·26개 지역 억양)·영어·일본어를 오프라인에서 인식하고 핫워드 프롬프트도 지원한다. cocy.io에서 쓸모: 콘텐츠 더빙/보이스라인 자막 초안을 서버 호출 없이 로컬에서 뽑아 검수 시간 단축.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/litert-community/Fun-ASR-Nano-2512",
+      "publishedAt": "2026-09-27T06:24:23Z"
+    },
+    {
+      "id": "13",
+      "title": "NVIDIA 계열 SANA-Video 2.0 5B, 4-step 증류 프리뷰 체크포인트 추가",
+      "summary": "[Video] NVIDIA 랩 출신 Efficient-Large-Model이 720p 텍스트투비디오 모델 SANA-Video 2.0 5B(4.47B 파라미터, gemma-2-2b-it 텍스트인코더 + LTX 2.3 VAE 사용, Apache-2.0, HF API 확인)를 8월에 공개했고, 9월 초 4단계로 추론을 끝내는 증류 프리뷰 체크포인트가 추가됐다. cocy.io에서 쓸모: Wan 계열보다 가벼운 트랜스포머 구조라 3080Ti에서 짧은 프로모 클립 초안을 더 빠르게 뽑아볼 대안으로 검토할 만함. 다만 공식 VRAM 수치는 모델카드에 없어 확인되지 않음(research preview 표기).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Efficient-Large-Model/SANA-Video_2.0_5B_720p_4step",
+      "publishedAt": "2026-08-27T08:11:49Z"
+    },
+    {
+      "id": "14",
+      "title": "LogoLabs, 260M 초경량 text-to-image 모델 'Agate-preview-001' 공개",
+      "summary": "[Image] 로고 생성 스타트업 LogoLabs가 260M 파라미터 text-to-image 모델 Agate-preview-001을 9월 25일 공개했다(MIT, HF API 확인). GenEval 0.550으로 SDXL(0.55)과 동급 점수를 내면서 소비자 GPU에서 2초 이내 추론이 가능하다고 밝혔다(256x256 해상도, from-scratch 학습). cocy.io에서 쓸모: 게임 아이콘·로고·썸네일처럼 작은 해상도 에셋을 초경량 모델로 대량 초안 생성할 때 로컬 GPU 부담 없이 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Logolabs/agate-preview-001",
+      "publishedAt": "2026-09-25T14:11:48Z"
     }
   ]
 }
