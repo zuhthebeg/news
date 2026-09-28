@@ -1,0 +1,86 @@
+{
+  "date": "2026-09-28",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 유엔총회서 트럼프와 깜짝 정상회담…멕시코와는 \"원유·공급망 협력\"",
+      "summary": "이재명 대통령이 유엔총회 참석 및 멕시코 국빈방문 기간 도널드 트럼프 미국 대통령과 예정에 없던 정상회담을 가졌다. 멕시코와는 원유·핵심광물 공급망 협력을 위한 대화 채널을 출범시켰다.",
+      "category": "domestic",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/422/0000910136",
+      "publishedAt": "2026-09-27T12:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "담관암 신약 FDA 승인 … 반전 모멘텀 찾은 HLB",
+      "summary": "코스닥 상장사 HLB가 담관암 신약 '리픽투'(리라푸그라티닙)로 국내 기업 최초 미국 FDA 직접 허가 성과를 냈다. 간암 신약 도전 3차례 실패 이후 재도전한 결과다.",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/009/0005740348",
+      "publishedAt": "2026-09-28T07:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "인도 북부·네팔, 홍수·산사태로 최소 80여명 사망·실종",
+      "summary": "몬순철 폭우로 인도 우타르프라데시주와 네팔에서 홍수, 산사태, 눈사태가 잇따라 발생해 최소 80여명이 사망하거나 실종됐다.",
+      "category": "world",
+      "source": "KBS",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/056/0012263735",
+      "publishedAt": "2026-09-27T09:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "챗GPT 다음은 클로드…국내 AI앱 2위 굳혀",
+      "summary": "앤트로픽의 AI 서비스 '클로드'가 국내 모바일 AI 앱 시장에서 월간 사용자 150만명에 근접, 챗GPT에 이어 2위 자리를 굳혔다. 신규 설치 수 기준으로도 5개월 연속 2위를 기록했다.",
+      "category": "tech",
+      "source": "연합뉴스",
+      "sourceUrl": "https://n.news.naver.com/mnews/hotissue/article/001/0016335920?type=series&cid=2003062",
+      "publishedAt": "2026-09-27T10:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Kobo 6.0 베타 업데이트, 일부 전자책 리더 먹통 사태",
+      "summary": "이북리더 제조사 Kobo의 6.0 베타 펌웨어를 설치한 기기 일부에서 무한 로딩, Libby 연동 오류, 주석·독서 기록 등 데이터 소실이 보고됐다. Kobo는 문제를 인지했으나 롤백 시 데이터가 영구 소실될 수 있다고 경고했다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech",
+      "publishedAt": "2026-09-27T17:33:00Z"
+    },
+    {
+      "id": "6",
+      "title": "우주 데이터센터, 미중 패권 전쟁 시작됐다",
+      "summary": "무제한 무료 전력이라는 매력에도 진공 상태로 인한 열 방출 난제가 남아있는 우주 데이터센터를 둘러싼 미중 경쟁이 본격화되고 있다는 분석이 나왔다.",
+      "category": "science",
+      "source": "KBS",
+      "sourceUrl": "https://n.news.naver.com/mnews/article/056/0012263871",
+      "publishedAt": "2026-09-28T07:30:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "인간-마우스 혼합 뇌, 과학적 돌파구로 개발돼",
+      "summary": "스탠퍼드대 연구진이 인간의 뇌세포를 받아들이고 기능할 수 있도록 유전적으로 조작한 마우스를 개발했다고 발표했다.",
+      "category": "science",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/news/articles/c60m3k28j81mo",
+      "publishedAt": "2026-09-16T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Xbox, 레이오프·구조조정으로 뒤숭숭한 한 주",
+      "summary": "Xbox가 대규모 인력 감축과 조직 개편을 발표하면서 게임업계에 어두운 소식이 이어졌으나, 가을 신작 출시 일정은 예정대로 진행되고 있다.",
+      "category": "gaming",
+      "source": "Polygon",
+      "sourceUrl": "https://www.polygon.com/patch-notes-xbox-layoffs-restructuring-fall-good-games/",
+      "publishedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "마인크래프트 던전스 2, 신규 차원 'The Sift' 2027년 추가",
+      "summary": "9월 29일 출시하는 '마인크래프트 던전스 2'를 통해 14년 만에 마인크래프트에 새로운 차원 'The Sift'가 선보인다. 마이크로소프트는 이 차원을 자바·베드락 에디션에도 2027년 적용할 계획이라고 확인했다.",
+      "category": "gaming",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/games/939551/minecraft-dungeons-ii-2-release-date-trailer",
+      "publishedAt": "2026-09-26T12:00:00Z"
+    }
+  ]
+}
