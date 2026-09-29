@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-29",
+  "articles": [
+    {
+      "title": "軍 \"DMZ 폭발 원인, 북 지뢰 가능성 매우 높아\"… 최종 판정 시 상응한 조치",
+      "summary": "군 당국이 DMZ 내 폭발 사고의 원인을 북한이 매설한 지뢰일 가능성이 매우 높다고 중간조사 결과 발표했다. 군은 최종 판정이 나오면 상응 조치를 취하겠다고 밝혔다.",
+      "category": "domestic",
+      "source": "한국일보",
+      "sourceUrl": "https://n.news.naver.com/article/469/0000956453?ntype=RANKING",
+      "publishedAt": "2026-09-29T00:00:00+09:00",
+      "id": "1"
+    },
+    {
+      "title": "SK하이닉스 ADR 5.04%↓… 뉴욕증시 일제히 하락 마감",
+      "summary": "미국 국채금리 급등 여파로 나스닥·다우 등 뉴욕증시가 일제히 하락 마감했고, SK하이닉스 ADR도 5.04% 급락했다.",
+      "category": "economy",
+      "source": "국민일보",
+      "sourceUrl": "https://n.news.naver.com/article/005/0001875552?ntype=RANKING",
+      "publishedAt": "2026-09-29T00:00:00+09:00",
+      "id": "2"
+    },
+    {
+      "title": "미중, 81조원어치 상호관세 인하...트럼프, 무기구매 제안 부인",
+      "summary": "미국과 중국이 81조원 규모의 상호관세를 인하하기로 했으며, 트럼프 대통령은 중국에 무기 판매를 제안했다는 보도를 부인했다.",
+      "category": "world",
+      "source": "YTN",
+      "sourceUrl": "https://n.news.naver.com/article/052/0002412215?ntype=RANKING",
+      "publishedAt": "2026-09-29T00:00:00+09:00",
+      "id": "3"
+    },
+    {
+      "title": "Nvidia Unveils AI Agent Safety Platform With Hardware Watchdog",
+      "summary": "엔비디아가 AI 에이전트의 이상행동을 하드웨어 수준에서 즉시 차단하는 'Sentry' 워치독과 오픈소스 'OpenShell'로 구성된 Open Agent Safety Platform을 공개했다. 마이크로소프트, 퍼플렉시티 등 100여개 기업이 이미 사용 중이다.",
+      "category": "tech",
+      "source": "PBS NewsHour",
+      "sourceUrl": "https://www.pbs.org/newshour/world/nvidia-unveils-security-platform-to-stop-ai-agents-from-going-rogue",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "id": "4"
+    },
+    {
+      "title": "\"China Considering Allowing Alibaba and ByteDance to Purchase New Nvidia Chips\"",
+      "summary": "중국 정부가 알리바바, 바이트댄스 등 자국 빅테크 기업들에 신형 엔비디아 AI 칩 구매 계획을 제출하라고 요청한 것으로 알려졌다.",
+      "category": "tech",
+      "source": "아시아경제",
+      "sourceUrl": "https://www.asiae.co.kr/en/article/world-stockmarket/2026092809573957033",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "id": "5"
+    },
+    {
+      "title": "This cat is new to science: Leopardus tilcayo identified as first new cat species in a century",
+      "summary": "미국 노스이스턴대 연구진이 남미에서 100년 만의 새로운 고양이과 종 'Leopardus tilcayo'를 확인해 발표했다.",
+      "category": "science",
+      "source": "Northeastern Global News",
+      "sourceUrl": "https://news.northeastern.edu/2026/09/28/new-cat-species-leopardus-tilcayo/",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "id": "6"
+    },
+    {
+      "title": "'마인즈아이' 개발사 빌드 어 로켓 보이, 결국 파산",
+      "summary": "대규모 인력 감축에 이어 데뷔작 '마인즈아이'의 부정적 평가로 막대한 영업손실을 낸 빌드 어 로켓 보이가 법정관리 절차를 시작하며 사실상 파산했다.",
+      "category": "gaming",
+      "source": "게임메카",
+      "sourceUrl": "https://www.gamemeca.com/view.php?gid=1781050",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "id": "7"
+    },
+    {
+      "title": "e스포츠, 2026년 끝으로 아시안게임 정식 종목서 제외",
+      "summary": "아시아올림픽평의회(OCA)가 2026 아이치·나고야 대회를 끝으로 e스포츠를 아시안게임 정식 종목에서 제외하기로 했다.",
+      "category": "gaming",
+      "source": "이투데이",
+      "sourceUrl": "https://www.etoday.co.kr/news/view/2629671",
+      "publishedAt": "2026-09-28T00:00:00+09:00",
+      "id": "8"
+    }
+  ]
+}
