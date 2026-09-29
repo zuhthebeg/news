@@ -72,6 +72,51 @@
       "sourceUrl": "https://www.etoday.co.kr/news/view/2629671",
       "publishedAt": "2026-09-28T00:00:00+09:00",
       "id": "8"
+    },
+    {
+      "title": "audio.cpp: Python 없는 로컬 오디오 추론 엔진(ggml 기반, GitHub 3,133★)",
+      "summary": "[Tool][Edge] llama.cpp 스타일로 ggml 위에서 동작하는 순수 C++ 오디오 추론 엔진. TTS/STT/VAD/음성변환/음악생성을 GGUF 포맷으로 지원하고 Python 의존성이 없다. GitHub 확인: 생성 2026-06-23, 마지막 push 2026-09-28(활발히 업데이트 중), star 3,133개. 라이선스: Apache-2.0(LICENSE 파일 직접 확인). cocy.io에서 쓸모: 3080Ti/CPU에서 Python 런타임 없이 TTS·SFX 모델을 경량 서빙할 수 있어 게임/툴 백엔드 경량화에 바로 검토 가능.",
+      "category": "ai-tech",
+      "source": "GitHub (0xShug0/audio.cpp)",
+      "sourceUrl": "https://github.com/0xShug0/audio.cpp",
+      "publishedAt": "2026-09-29T06:38:56+09:00",
+      "id": "9"
+    },
+    {
+      "title": "구글 LiteRT팀, 온디바이스 TTS 프리뷰 'Audio8-TTS-Preview-0.6b' 공개(0.6B, 이번 주 신규)",
+      "summary": "[Audio][Edge] 구글 LiteRT 팀이 0.6B 파라미터 온디바이스 텍스트투스피치 프리뷰 모델을 공개. HF API 확인: createdAt 2026-09-28(7일 이내, 이번 주 신규), lastModified 2026-09-28. 모바일/브라우저에서 서버 호출 없이 TTS를 돌리는 걸 목표로 하는 LiteRT 최적화 버전. 라이선스: apache-2.0(HF cardData 직접 확인). cocy.io에서 쓸모: 그놈/보이스매치처럼 온디바이스 처리가 강점인 서비스에 서버 비용 없는 TTS 옵션으로 테스트해볼 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face (litert-community)",
+      "sourceUrl": "https://huggingface.co/litert-community/Audio8-TTS-Preview-0.6b",
+      "publishedAt": "2026-09-28T09:12:17+09:00",
+      "id": "10"
+    },
+    {
+      "title": "구글 Magenta, 실시간 음악 생성 모델 'magenta-realtime-2' (CC-BY-4.0)",
+      "summary": "[Audio] 구글 마젠타 팀의 실시간 스트리밍 음악 생성 모델. HF API 확인: createdAt 2026-05-28, lastModified 동일(5월 공개 이후 최근까지 활용됨 — '이번 주 신작'은 아님). 라이선스: cc-by-4.0(HF cardData 직접 확인, 출처 표기 조건으로 상업적 이용 가능). cocy.io에서 쓸모: 고스톱류 게임 BGM을 미리 렌더링하지 않고 실시간으로 이어붙여야 하는 씬에서 기존 ACE-Step 파이프라인 대비 검토할 대안.",
+      "category": "ai-tech",
+      "source": "Hugging Face (google)",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-05-29T06:55:47+09:00",
+      "id": "11"
+    },
+    {
+      "title": "알리바바 통이, 고속 이미지 생성 모델 'Z-Image-Turbo' 업데이트(Apache-2.0, 5,385 likes)",
+      "summary": "[Image] Tongyi-MAI의 터보 증류 이미지 생성 모델. HF API 확인: createdAt 2025-11-25, lastModified 2026-01-30(신작 아닌 지속 업데이트 모델). 적은 스텝으로 빠르게 이미지를 뽑는 게 특징. 라이선스: apache-2.0(HF cardData 직접 확인). cocy.io에서 쓸모: FLUX.1-dev 로컬 파이프라인 대비 3080Ti에서 카드아트·썸네일 대량 생성 시 속도 이점이 있는지 비교 테스트 대상.",
+      "category": "ai-tech",
+      "source": "Hugging Face (Tongyi-MAI)",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2026-01-31T01:58:07+09:00",
+      "id": "12"
+    },
+    {
+      "title": "알리바바 Wan, 경량 5B 이미지-투-비디오 모델 'Wan2.2-TI2V-5B' (Apache-2.0)",
+      "summary": "[Video] Wan-AI의 5B 파라미터 텍스트/이미지-투-비디오 모델. HF API 확인: createdAt 2025-07-18, lastModified 2025-08-07(신작 아닌 기존 경량 모델). 라이선스: apache-2.0(HF cardData 직접 확인). VRAM/속도 수치는 공식 발표에서 확인되지 않아 생략. cocy.io에서 쓸모: 게임 트레일러·카드 모션 클립처럼 짧은 영상을 클라우드 API 없이 로컬에서 실험해볼 후보(5B급이라 대형 비디오 모델보다 로컬 시도 여지가 있음, 정확한 구동 조건은 별도 실측 필요).",
+      "category": "ai-tech",
+      "source": "Hugging Face (Wan-AI)",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B",
+      "publishedAt": "2025-08-07T19:22:24+09:00",
+      "id": "13"
     }
   ]
 }
