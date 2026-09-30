@@ -1,0 +1,77 @@
+{
+  "date": "2026-09-30",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[속보] 김여정 \"국경 안 넘어, 자작극 대가 각오해야\"…'DMZ 북 지뢰' 부인",
+      "summary": "북한 김여정 노동당 부부장이 DMZ 북측 지뢰 매설 발표를 '서울의 자작극'이라며 부인하고, 도발 시 가차 없는 보복을 경고했다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBjd3o4TFIxSE05dmswRVZ6UUg2SFRYV0hLOEtwX2trakFHY19fYU1XenljYkJrdkhzWkplREdOd09OSmRuYjdTckYxTWc0eEUyYUZqQ3ZfNVFzeUZUQjVTeVhqUktnd2JDcGpaY3FWVXgxMnhB?oc=5",
+      "publishedAt": "2026-09-29T23:11:00Z"
+    },
+    {
+      "id": "2",
+      "title": "美 국채금리 5.2%까지 치솟아…韓 경제·반도체에 복병",
+      "summary": "미국 국채금리가 5.2%까지 급등하며 연준의 추가 금리인상 가능성이 부각, 한국 경제와 반도체 업황에 변수로 작용할 것이란 우려가 나온다.",
+      "category": "economy",
+      "source": "뉴시스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5abmtvNXVQaXlSZUxodVFUUXpZZm9LZTFfSWQzOGo2Sm85MEd3UnV6R24wdjNmeFNJUFNHVWRlaTczYU5pNGVRb1czVmREZi1LdnY3dDgwUVhjME5ERGtkT9IBeEFVX3lxTE12dFRZUklsLVlyY1F2NjhjM0xyZkFBblByZ1FvcU5WYnhXMm5Gd2ZGdE9yNk11R25yejNOamVMQkVHRnZMZmZ6UVlFdWxfV2NpMU5DcVhFOHpWNUJyQ0hjeW82R3YxVTJ1dkVpY1RzLUZVeUxzYVJoaA?oc=5",
+      "publishedAt": "2026-09-28T22:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "美中, 81조원어치 상호관세 인하…트럼프 공들인 美대두는 빠져(종합2보)",
+      "summary": "미국과 중국이 약 81조원 규모의 상호 관세를 인하하기로 합의했으나, 트럼프 대통령이 공들였던 미국산 대두 관련 조치는 이번 합의에서 빠졌다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE0wTWxKYzFEbV9NWWtkY0hWSGNjMVhJWFhocFA3alJQSU5qaGFjanRtWW5zZy1xa0tkWWlTV2JNWGV5enhLel9VTWJhazRsNnd6SUV0YlBpblY5X2_SAWBBVV95cUxQMlEyWjVxWHlXX1lJZFNzcGZDZ1RwWnJvZldRcjBlSVl4TTl3Uko0Vy02MVkxS3lxVmhvYVI0WFZScmJzRlprQS1TWTlXSVJ2ZTkwRW4xWEVaZldPQ1RJM0E?oc=5",
+      "publishedAt": "2026-09-28T14:34:47Z"
+    },
+    {
+      "id": "4",
+      "title": "Nvidia unveils security platform to rein in AI agents and $150bn stock buyback",
+      "summary": "엔비디아가 AI 에이전트의 보안 위협을 관리하기 위한 'Open Agent Safety Platform'을 공개하는 동시에 1,500억 달러 규모의 자사주 매입 계획을 발표했다.",
+      "category": "tech",
+      "source": "The Guardian",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZ2ZDbzFoNURoVDVfazFBZVpDelc3aWRUaURxYTNTX0tWdGt4QldvYW5SLVJvNmY5TV9hX3hka3UweWIteGVZTHpxbmx1bjJsaVg3MmozZThoRzlSdXltaGRSaFpUVHZBODAwb245MnRPTExCSjl2UV9ZRGMyLWdTeTE4ZmlTZWxyc09ISjI4NEFwS1BpNFFkdXF2UG5zcms?oc=5",
+      "publishedAt": "2026-09-28T22:54:06Z"
+    },
+    {
+      "id": "5",
+      "title": "빅테크와 격차 커지는데…韓 플랫폼 '규제 프레임' 바꿔야",
+      "summary": "글로벌 빅테크와 국내 플랫폼 기업 간 경쟁력 격차가 벌어지는 가운데, 국내 플랫폼 규제 체계를 산업 육성 관점으로 전환해야 한다는 지적이 나온다.",
+      "category": "tech",
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBwRjZsTnZOdjlqd3VTdTVXUVlqWTZMU3Q2SWtFYzE3R25mbkNiTFNnb050M2JkdkFDS3ROZkVrOVRyc2M3alZtbXViSlRuWlZXakUyWQ?oc=5",
+      "publishedAt": "2026-09-22T06:02:08Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA-Funded Research Finds Complex Life Defying Record Heat",
+      "summary": "NASA 지원 연구팀이 극한 고온 환경에서도 생존하는 복잡한 생명체를 발견, 외계 생명체 탐사 및 지구 극한생물 연구에 시사점을 제공한다.",
+      "category": "science",
+      "source": "NASA Science",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPUFduM2VHa1VOZkdhN09tRXJ6OWkzRnFDbmMtU2d1dU1PcEhpVkd3M3hBWTJTTkVGdUJleGVrOUNLR2dRbDZiR0N0Vk9rck5WODI3YVJuQkVMNnl1SHdsVEJzRkkxRkRENVNTc3VNU0RpMWlKV29JYjlQSXkzM0xCVk9hNTFwYWJodm1ST0xZOWU0T25oOHU2TkwzZ2s2UlFTXzFnQmp4aS1WNU56SmwyU1hKTXRZbUNLbHVBSg?oc=5",
+      "publishedAt": "2026-09-22T17:33:10Z"
+    },
+    {
+      "id": "7",
+      "title": "글로벌 게임사 몰려온다…지스타 2026, 신작·인디 총집결",
+      "summary": "오는 지스타 2026에 글로벌 게임사들의 신작과 인디 게임들이 대거 참가해 부산 전시장을 채울 예정이다.",
+      "category": "gaming",
+      "source": "서울경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBlU0JsR21ZeTJSMDNDc2Y2c3RxQTJ2NGpidHR4RkRZTW16NHVOSE9YeTJNRS0wSzNkb3VHcEVkSmQxd05kUmZhVDR6QXYyZnp0d3fSAVNBVV95cUxOc1RfaGgzTmNJQ2dCeTBVaFNpN1BkalowUm04Q3BEUTNwT3RKZkhtVk1WSUdTMlp0dUJ5M2NRazZrYmc3V2NqbHZnWjN4NU9YbVNaQQ?oc=5",
+      "publishedAt": "2026-09-29T20:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "카카오게임즈, 신작 '아키에이지 S: 자유의 해협' 개발 다큐멘터리 및 인게임 최초 공개",
+      "summary": "카카오게임즈가 신작 MMORPG '아키에이지 S: 자유의 해협'의 개발 다큐멘터리와 인게임 화면을 최초 공개하며 성장부터 해상전까지 콘텐츠를 소개했다.",
+      "category": "gaming",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qT3hfVENnZWtSRXBfMmxKM1RWVk9wZTBMTHNiSG9zUmtqY3IwTElrU3NTcEZGalpCQXkzZWFNM1JpNXhKcUg5X0ROUTJKNGFkcU9kaEhB?oc=5",
+      "publishedAt": "2026-09-29T09:27:01Z"
+    }
+  ]
+}
