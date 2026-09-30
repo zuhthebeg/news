@@ -81,6 +81,51 @@
       "source": "Hugging Face (nvidia/Nemotron-3-Diarization)",
       "sourceUrl": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
       "publishedAt": "2026-09-23T05:52:51Z"
+    },
+    {
+      "id": "10",
+      "title": "MOSS-SoundEffect v2.0 — Qwen3 기반 DiT 사운드이펙트 생성, Apache-2.0",
+      "summary": "[Audio][SFX] OpenMOSS Team이 올해 5월 공개(HF lastModified 2026-05-26)한 MOSS-SoundEffect v2.0은 Qwen3-1.7B 텍스트 인코더 + Diffusion Transformer(Flow Matching) 구조로 자연어 프롬프트에서 환경음·도시음·생물음·사람 행동음 SFX를 최대 30초·48kHz로 생성한다. 라이선스는 apache-2.0으로 상업적 사용 가능. 텍스트 인코더가 1.7B급이라 모델 전체가 가벼운 편. cocy.io에서 쓸모: 고스톱 화투패 효과음이나 게임 UI 사운드처럼 짧은 SFX를 TangoFlux 대신 로컬 3080Ti에서 시도해볼 대안으로, 특히 30초 길이 제어가 되는 앰비언스 트랙 제작에 적합하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (OpenMOSS-Team/MOSS-SoundEffect-v2.0)",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-SoundEffect-v2.0",
+      "publishedAt": "2026-05-26T09:41:39Z"
+    },
+    {
+      "id": "11",
+      "title": "텐센트 AuK 공개 — 제로샷 TTS·음성편집·화자분리 올인원 파운데이션 모델, MIT",
+      "summary": "[Audio][TTS] 텐센트가 모델카드 뉴스란 기준 2026년 9월 9일 오픈소스로 공개한 AuK는 제로샷 음성 클로닝, 지시어 기반 TTS, 음성/음향 콘텐츠 편집, 화자분리·음원분리까지 하나의 자연어 지시 인터페이스로 처리하는 통합 음성 생성 모델이다. HF 라이선스 태그는 mit로 상업적 사용 가능. HF 확인 기준 lastModified는 9월 10일. cocy.io에서 쓸모: 제보 음성이나 캐릭터 보이스 소스를 정리할 때 CosyVoice3 클로닝 파이프라인과 별도로 '지시어 한 줄로 억양·감정만 바꾸는' 후처리 단계로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (tencent/AuK)",
+      "sourceUrl": "https://huggingface.co/tencent/AuK",
+      "publishedAt": "2026-09-10T02:54:12Z"
+    },
+    {
+      "id": "12",
+      "title": "Z-Image-Turbo — 6B 이미지생성 모델, 16GB 소비자 GPU 대응·Apache-2.0",
+      "summary": "[Image] 알리바바 Tongyi-MAI가 공개한 Z-Image-Turbo는 6B 파라미터 이미지 생성 모델로, 8 NFE 증류를 통해 sub-second 추론과 영어·중국어 이중언어 텍스트 렌더링을 지원한다. 모델카드에 \"16GB VRAM 소비자 GPU에서 무난히 구동\"이라고 명시돼 있다(3080Ti 12GB는 공식 확인 대상 아니라 별도 오프로드 테스트 필요). 라이선스는 apache-2.0으로 상업적 사용 가능. HF 기준 최초 공개는 작년 11월, lastModified는 올해 1월 30일. cocy.io에서 쓸모: FLUX.1-dev(비상업 제한 라이선스)를 상업 프로젝트에 못 쓰는 문제를 피해, 로컬 SDXL/FLUX 파이프라인의 상업 이용 가능한 대체 후보로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (Tongyi-MAI/Z-Image-Turbo)",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2026-01-30T16:58:07Z"
+    },
+    {
+      "id": "13",
+      "title": "Wan2.2-TI2V-5B — 720P 영상생성 5B 모델, Apache-2.0이지만 최소 24GB VRAM",
+      "summary": "[Video][Edge] Wan-AI의 Wan2.2-TI2V-5B는 5B 파라미터 밀집 모델로 텍스트/이미지-투-비디오를 하나의 프레임워크에서 720P·24fps로 생성한다. 라이선스는 apache-2.0으로 상업적 사용 가능하지만, 공식 README에 \"최소 24GB VRAM(RTX 4090 기준)\" 요구사항이 명시돼 있어 3080Ti(12GB)에서는 그대로 돌리기 어렵다. HF 기준 최초 공개는 작년 7월, lastModified는 작년 8월. cocy.io에서 쓸모: 지금 3080Ti에선 어렵지만, 라이선스가 깨끗한 몇 안 되는 로컬 영상생성 모델이라 GPU 업그레이드 시 게임 트레일러·숏폼 초안용으로 후보에 올려둘 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (Wan-AI/Wan2.2-TI2V-5B)",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B",
+      "publishedAt": "2025-08-07T10:22:24Z"
+    },
+    {
+      "id": "14",
+      "title": "VoiceStudio — 완전 로컬 구동 오픈소스 ElevenLabs 대안, GitHub 트렌딩",
+      "summary": "[Tool][Edge] debpalash/VoiceStudio는 완전 로컬 구동을 표방하는 오픈소스 음성 툴로, 음성 클로닝·보이스 디자인·영상 더빙·받아쓰기·오디오북 제작을 646개 언어로 지원하며 기본 엔진은 k2-fsa/OmniVoice다. 이번 주(2026-09-30 확인) GitHub 트렌딩에 올라왔다. 저장소 LICENSE 파일 확인 결과 AGPL-3.0 — 상업적 사용 자체는 허용되지만 네트워크 서비스로 운영 시 소스 공개 의무가 따르는 강한 카피레프트라 배포 방식에 따라 검토가 필요하다(기본 엔진 k2-fsa/OmniVoice는 HF 라이선스 태그가 비어 있어 라이선스 미확인). cocy.io에서 쓸모: 사내 프로토타입용 로컬 TTS/더빙 워크스테이션으로 써보되, 실서비스에 얹을 엔진은 라이선스가 명확한 AuK·Qwen3-TTS 쪽으로 분리하는 게 안전하다.",
+      "category": "ai-tech",
+      "source": "GitHub (debpalash/VoiceStudio)",
+      "sourceUrl": "https://github.com/debpalash/VoiceStudio",
+      "publishedAt": "2026-09-30T03:02:24Z"
     }
   ]
 }
