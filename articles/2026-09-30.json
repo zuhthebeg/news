@@ -72,6 +72,15 @@
       "source": "지디넷코리아",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE9qT3hfVENnZWtSRXBfMmxKM1RWVk9wZTBMTHNiSG9zUmtqY3IwTElrU3NTcEZGalpCQXkzZWFNM1JpNXhKcUg5X0ROUTJKNGFkcU9kaEhB?oc=5",
       "publishedAt": "2026-09-29T09:27:01Z"
+    },
+    {
+      "id": "9",
+      "title": "NVIDIA Nemotron 3 Diarization 공개 — 8명까지 스트리밍 화자분리, 지연 80ms",
+      "summary": "[Audio][Edge] NVIDIA가 2026년 9월 1일 공개하고 9월 23일 갱신한 Nemotron 3 Diarization은 오디오에서 \"누가 언제 말했는지\"를 실시간으로 구분하는 화자분리 모델이다. Sortformer/Streaming Sortformer 계열 기법(도착 순서 화자 캐시+FIFO 큐)으로 최대 8명 화자를 스트리밍·오프라인 양쪽에서 처리하며, 입력 버퍼 지연을 최소 80ms까지 낮출 수 있다. HF 모델카드에 \"상업적·비상업적 사용 모두 가능\"이라고 명시되어 있다(라이선스 태그 openmdw-1.1). cocy.io에서 쓸모: 유저 제보 음성이나 멀티플레이어 보이스채팅 로그에서 화자를 자동 분리해 CosyVoice3 후처리 파이프라인 앞단에 붙이면 다인 대화 녹음을 화자별로 정리하는 작업을 자동화할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (nvidia/Nemotron-3-Diarization)",
+      "sourceUrl": "https://huggingface.co/nvidia/Nemotron-3-Diarization",
+      "publishedAt": "2026-09-23T05:52:51Z"
     }
   ]
 }
