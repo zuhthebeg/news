@@ -126,6 +126,87 @@
       "source": "GitHub (debpalash/VoiceStudio)",
       "sourceUrl": "https://github.com/debpalash/VoiceStudio",
       "publishedAt": "2026-09-30T03:02:24Z"
+    },
+    {
+      "id": "15",
+      "title": "이재명 대통령 \"자주국방은 주권\"…신형 구축함 '김종서함' 인수식서 강조",
+      "summary": "이재명 대통령이 신형 이지스구축함 인수식에 참석해 자주국방이 곧 주권이라며 타국 군사력에 의존할 수 없다는 점을 강조했다.",
+      "category": "domestic",
+      "source": "KBS News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1rMEgtSWhndldwM0xidzdIdXhBWVk0ZWRzV1FNUDhHSHdqRkJuMGgtYUVtU1pSVEREQ1NwUzMyQ2xQeEJQYWQzSEljRVlKcUtidWcwcG1Ld2tsZlk",
+      "publishedAt": "2026-09-30T21:14:00Z"
+    },
+    {
+      "id": "16",
+      "title": "[속보] 트럼프 \"한국, 알래스카 LNG 파이프라인 사업 포함 2000억달러 대미투자\"",
+      "summary": "트럼프 미국 대통령이 한국의 대미 투자 2000억달러 패키지에 발전소·원전과 알래스카 LNG 파이프라인 사업 참여가 포함됐다고 발표했다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE83Y3BhZnNZaGhiUm85RldSMVdLWjEyYlpzamJBb3RqbFVzWUUybDVpM3p0eWN4Zlo2SERwU2xxWGloZU9ZOTdraWJQN3VHdlhnMVQxc05NNmhtUQ",
+      "publishedAt": "2026-09-30T20:35:00Z"
+    },
+    {
+      "id": "17",
+      "title": "고교생 살해 피고인 장윤기, 1심서 무기징역",
+      "summary": "고등학생을 살해한 피고인 장윤기가 1심에서 무기징역을 선고받았으며, 재판부는 영구적인 사회로부터의 격리 필요성을 강조했다.",
+      "category": "domestic",
+      "source": "v.daum.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE00TmxkTEFGNEVIQmVrQVVwRjRDSHk0akpkOEpkcVZBYk1HX0w5VzRiUXB5UHAyVnJLcVVLUDNXWnBpSC1DX1p1ZjVGV0VVN1k",
+      "publishedAt": "2026-09-30T21:03:00Z"
+    },
+    {
+      "id": "18",
+      "title": "Massive 12-Terabyte Steam Breach Exposes Portal 2 Beta Builds, Persona 6, Kingdom Hearts 4",
+      "summary": "밸브의 스팀 플랫폼에서 12테라바이트 규모의 대규모 데이터 유출이 발생해 미공개 게임 빌드와 내부 자료가 노출됐다.",
+      "category": "tech",
+      "source": "Geeky Gadgets",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1WelNkbGRjNTlLOFN4NnJyOHZyNmNIZHBmLURLWGlRaE9SQXZQcWY0ZzZENVBzYU1rY3pPWnM3WHV4ZGhxMzFOejFfVTBjZjZSa2tQREZydktmNHlMS2V3M0VLZHV0d3BW",
+      "publishedAt": "2026-09-30T09:27:48Z"
+    },
+    {
+      "id": "19",
+      "title": "FTAPI data breach confirmed after The Gentlemen ransomware claim",
+      "summary": "독일 보안전송 업체 FTAPI에서 랜섬웨어 조직 'The Gentlemen'의 침해 주장 이후 실제 데이터 유출 사실이 확인됐다.",
+      "category": "tech",
+      "source": "Cybernews",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSFBBSkpKMzliay1pR0JYUWtERy1tX2JRaFRBN1hiTnlVbno1c1RfcEdkVXpKS09ubVI4WnVBQTRhVmhKUWtRbHluWW92Z1d0ZWNwdDM2UUVGbjBtbUlBdGljdnJNQ0NBVURQLVNPVFVjTkE3eHZvemFVN3hsU0ZNVg?oc=5",
+      "publishedAt": "2026-09-30T14:03:32Z"
+    },
+    {
+      "id": "20",
+      "title": "Roman Space Telescope's Wide Field Instrument Activated – Coronagraph Checked Out",
+      "summary": "NASA의 로먼 우주망원경이 3억 화소급 광시야 카메라를 활성화했으며, 2027년부터 본격적인 관측을 시작할 예정이다.",
+      "category": "science",
+      "source": "Astrobiology Web",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWGR3a3JXc3F4UHRNQ1VndWZ5TTdmME1hVXR0NERicVc5ZS1wNGV4QWstM1J6N0tHOFV5blozUkN0bC1qZnpFdkJ4bFRaNGFOaDZxMEJMdWtudzJ2QnNScTBlUEJ5a3B1TjJXdWg4aGt0WGo0eF9rTVJXa2F3aURTbjJ3QTFsTFppQ0pRWGM4WTlwV2huZXBwTURxMjRJOU80RlJaUlppTTFEb0ZUS2s1a3NFWkRWdw",
+      "publishedAt": "2026-09-30T16:31:08Z"
+    },
+    {
+      "id": "21",
+      "title": "Watch Live: NASA's Crew-13 could make the fastest U.S. trip to the ISS ever",
+      "summary": "스페이스X의 크루-13 임무가 발사 후 9시간 이내에 국제우주정거장(ISS)에 도착해 미국 최단 기록을 세울 것으로 기대된다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1rUE5vVDBQY21UR0ZFam43cllMYUFjSnM5YjVCY1ZLQ0NVclo4cTNtcnZDdmZMYnhJVVR3aUhtZnVieGszMXRxbzNtUF9GS2dlcVcxY0lUSjhJRGRValZJUTctVDJVV3ZZZDB4NWRxaw?oc=5",
+      "publishedAt": "2026-09-30T09:39:18Z"
+    },
+    {
+      "id": "22",
+      "title": "18년 만에 왕좌 흔들리나…넥슨, 크래프톤에 매출 1위 위협받아",
+      "summary": "18년간 국내 게임업계 매출 1위를 지켜온 넥슨이 크래프톤의 거센 추격으로 선두 자리를 위협받고 있다.",
+      "category": "gaming",
+      "source": "비즈니스포스트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTFBZQkZFTUx3TnpjOEE0TW13R294WHBlbDBBWjNBYml0T1FvWmJmeG1nWnQxbWZfaGhvbEtxREM0UWhKWEVHZjY1MksyRkVYRndHVU4zNFZDdE41MlFoRVdpbUFjNG00UVJNendTVnBNdUxPX0U?oc=5",
+      "publishedAt": "2026-09-29T23:08:00Z"
+    },
+    {
+      "id": "23",
+      "title": "위메이드, 대주주 변경 앞두고 노조 결성…고용보장 요구",
+      "summary": "위메이드 임직원들이 대주주 변경이 임박한 상황에서 노동조합을 결성하고 고용 안정 보장을 요구하고 있다.",
+      "category": "gaming",
+      "source": "팝콘뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBhZUZVQkRyMmhLclVCQXRsX2pGdUlUZERKUklqZWhFQjMyZElBcUlqNjJVaGh3cFB1UXQwY1BiVEdrOV9rMUcxYlplVEE1dGE1ODBRRnptcEdnYTlZUzFGVGFxZzhHalg3MDJvdEp30gFyQVVfeXFMT3ZQN1JWMThqbEpkNld1cGNJRG1VTm5kNWpSRHh2VThvdnlQWHFOVWd5MDBfSktPbVo3ZjVBU3Jrc292Z01wQUpZcDZZZ2dMRXdfNUxScFhRQUNpckFRTFNZU3F0NDBZSmVDV2F0azI3d01B?oc=5",
+      "publishedAt": "2026-09-30T08:07:00Z"
     }
   ]
 }
