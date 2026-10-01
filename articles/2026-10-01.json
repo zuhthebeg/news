@@ -81,6 +81,69 @@
       "source": "Eurogamer",
       "sourceUrl": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
       "publishedAt": "2026-09-30T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "로컬 우선 2D 게임 스프라이트 제작 데스크톱 툴 'Sprite Studio' 오픈소스 공개",
+      "summary": "[Tool] John Kinyanjui가 공개한 Sprite Studio(저장소명 sprite-maker)는 Tauri+Svelte+Rust 기반 로컬 데스크톱 앱으로, 채팅형 프롬프트로 캐릭터 마스터 이미지를 생성하고 이를 앵커로 삼아 투명배경 스프라이트 시트와 고프레임수 애니메이션까지 한 워크스페이스에서 만들고 루프를 검증·익스포트한다. 설치된 Codex/Cursor/Antigravity CLI를 생성 엔진으로 활용하며, GitHub 라이선스 메타 확인 결과 MIT로 상업 이용 가능하다(최근 커밋 2026-09-24, 스타 414개). cocy.io에서 쓸모: 게임 포털 신작 캐릭터·아이템 스프라이트 시트를 로컬에서 아이덴티티 일관되게 뽑아내는 파이프라인 후보로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub (JohnKinyanjui/sprite-maker)",
+      "sourceUrl": "https://github.com/JohnKinyanjui/sprite-maker",
+      "publishedAt": "2026-09-26T00:00:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "드럼 연주 자동 분석·채보 오픈소스 파이썬 툴 'DrumScript' 공개",
+      "summary": "[Audio][Tool] DrumScript는 드럼 오디오 트랙을 분석해 자동으로 드럼 채보를 생성하는 오픈소스 파이썬 라이브러리 겸 CLI 툴이다. GitHub 라이선스 메타 확인 결과 Apache-2.0으로 상업 이용 가능하며, 최근 커밋은 2026-09-30이다. cocy.io에서 쓸모: 레퍼런스 BGM의 드럼 패턴을 미디로 뽑아 ACE-Step 작곡 전 리듬 가이드 트랙으로 쓰거나, 리듬 게임 콘텐츠 제작 시 자동 채보 보조 도구로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub (DrumScript/DrumScript)",
+      "sourceUrl": "https://github.com/DrumScript/DrumScript",
+      "publishedAt": "2026-09-30T00:00:00+09:00"
+    },
+    {
+      "id": "12",
+      "title": "SupraLabs, FLUX-Reason-6M으로 처음부터 학습한 경량 이미지 생성 모델 'Supra2-IMG' 공개",
+      "summary": "[Image] SupraLabs가 FLUX-Reason-6M 데이터셋만으로 처음부터(from scratch) 학습한 소형 text-to-image 모델(SupraDiT 아키텍처). HF API로 라이선스 확인 결과 Apache-2.0, 공개일 2026-09-21(HF 기준). 가중치 용량이 약 400MB로 가벼워 데모 스페이스 4개가 이미 올라와 있다. cocy.io에서 쓸모: FLUX.1-dev 로컬 생성이 무거울 때 3080Ti에서 빠르게 돌려볼 경량 대안 후보로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (SupraLabs/Supra2-IMG)",
+      "sourceUrl": "https://huggingface.co/SupraLabs/Supra2-IMG",
+      "publishedAt": "2026-09-21T14:05:35.000Z"
+    },
+    {
+      "id": "13",
+      "title": "구글 마젠타팀, 실시간 온디바이스 음악 생성 모델 'Magenta RealTime 2' 공개",
+      "summary": "[Audio][Edge] 구글 마젠타팀의 실시간 온디바이스 음악 생성 모델. TFLite/MLX 체크포인트로 배포돼 브라우저·모바일에서 실시간 잼 세션이 가능하며, HF 데모 스페이스가 15개 넘게 올라와 있다. HF API로 라이선스 확인 결과 CC-BY-4.0(출처 표기 시 상업 이용 가능), 공개 2026-05-28(HF 기준). cocy.io에서 쓸모: ACE-Step 같은 배치형 BGM 생성과 달리 실시간 반응형이라, 게임 내 라이브 BGM 프로토타입용으로 WebGPU/모바일 데모를 먼저 확인해볼 가치가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (google/magenta-realtime-2)",
+      "sourceUrl": "https://huggingface.co/google/magenta-realtime-2",
+      "publishedAt": "2026-05-28T21:55:47.000Z"
+    },
+    {
+      "id": "14",
+      "title": "Wan2.2-TI2V-5B용 few-step 가속 LoRA 'LongLive-Plug' 공개",
+      "summary": "[Video][Edge] 기존 Wan2.2-TI2V-5B 비디오 생성 모델을 몇 스텝(few-step) 증류로 가속하는 LoRA 플러그인. HF API로 라이선스 확인 결과 Apache-2.0, 공개 2026-09-29(7일 이내 신규). cocy.io에서 쓸모: 추론 스텝이 줄면 속도는 빨라지지만 베이스 모델 자체가 공식 권장 VRAM이 커서, 3080Ti(12GB)에서 실사용 가능한지는 별도 확인이 필요하다(수치 미확인).",
+      "category": "ai-tech",
+      "source": "Hugging Face (Efficient-Large-Model/LongLive-Plug-Wan2.2-TI2V-5B-few-step)",
+      "sourceUrl": "https://huggingface.co/Efficient-Large-Model/LongLive-Plug-Wan2.2-TI2V-5B-few-step",
+      "publishedAt": "2026-09-29T16:18:08.000Z"
+    },
+    {
+      "id": "15",
+      "title": "Supertone, 온디바이스 멀티링구얼 TTS 'Supertonic 3' 공개",
+      "summary": "[TTS][Edge] 온디바이스(ONNX) 멀티링구얼 TTS, 한국어 포함 30개 언어 지원. 가중치 용량 약 400MB로 가볍고 HF 데모·포크 스페이스가 30개 넘게 올라와 있다(좋아요 974). HF API로 라이선스 확인 결과 openrail(상업 이용 가능, 행동 제약 포함), 공개 2026-05-06(HF 기준). cocy.io에서 쓸모: 한국어 네이티브 온디바이스 TTS라 보이스매치·그놈처럼 로컬 추론이 필요한 서비스의 오프라인 TTS 후보로 바로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (Supertone/supertonic-3)",
+      "sourceUrl": "https://huggingface.co/Supertone/supertonic-3",
+      "publishedAt": "2026-05-06T20:46:20.000Z"
+    },
+    {
+      "id": "16",
+      "title": "Qwen3-TTS 기반 다국어 음성 클로닝 체크포인트 'A3S-T-1-10' 공개",
+      "summary": "[TTS] Qwen3-TTS 아키텍처 기반 다국어(한중일 포함 10개 언어) 음성 클로닝 모델. HF API로 라이선스 확인 결과 Apache-2.0, 공개 2026-09-30(오늘, 신규). 다만 체크포인트 20개가 그대로 올라온 학습 중간 산출물 형태라 안정 버전인지는 불확실하다(라이선스는 확인됨, 완성도 미확인). cocy.io에서 쓸모: 품질 검증 전이라 바로 도입은 이르지만, Qwen3-TTS 생태계의 다국어 파인튜닝 레퍼런스로 체크해둘 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (MahmoudIbrahim/A3S-T-1-10)",
+      "sourceUrl": "https://huggingface.co/MahmoudIbrahim/A3S-T-1-10",
+      "publishedAt": "2026-09-30T23:40:34.000Z"
     }
   ]
 }
