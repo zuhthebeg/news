@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-01",
+  "articles": [
+    {
+      "id": "1",
+      "title": "가계대출 꽁꽁 조이니…DSR 적용 예외 70% 넘었다",
+      "summary": "지난 2분기 금융권 가계대출 신규취급액 중 약 70%가 총부채원리금상환비율(DSR) 규제 적용을 받지 않는 대출로 나타났다. 가계대출 총량 관리 속에서 집단대출·소액대출 등 DSR 예외 비중이 늘어난 영향이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260930188500002?section=economy/all",
+      "publishedAt": "2026-10-01T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "수도권서도 가까운 병원서 애 낳기 어려워…분만실적 곳곳 '0'",
+      "summary": "국내 분만 인프라가 점점 약화하는 가운데 수도권 일부 지역은 의원급은 물론 종합병원에서조차 수년간 분만청구 실적이 전무한 것으로 나타났다. 2018~2024년 건보심사평가원 자료 기반.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20260930170100530?section=society/all",
+      "publishedAt": "2026-10-01T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "\"이스라엘행 여객기 추락 시도 부조종사는 종교적 극단주의자\"",
+      "summary": "이스라엘인 승객을 태운 플라이두바이 여객기를 고의로 추락시키려 한 혐의를 받는 오만 국적 부조종사가 평소 종교적 극단주의 성향을 보였다는 동료 조종사의 증언이 나왔다. 인도인 기장을 흉기로 찌른 혐의도 받고 있다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261001004600079?section=international/all",
+      "publishedAt": "2026-10-01T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "RAM price hikes: the latest on the global memory shortage",
+      "summary": "AI 데이터센터 수요 급증으로 D램·낸드 가격이 치솟으며 PC·스마트폰 제조사와 소비자까지 영향을 받고 있다. 글로벌 메모리 공급 부족 현황을 정리한 기사.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news",
+      "publishedAt": "2026-09-30T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Elon Musk and Palmer Luckey will advise the government on the future of warfare",
+      "summary": "미 국방장관 헤그세스가 머스크, 팔머 럭키, 뉴트 깅리치를 공동 책임자로 하는 'Project Meridian'을 발족시켰다. AI·자율무기·우주 등 차세대 전장 기술을 식별하는 프로젝트로, 120일 내 보고서를 제출할 예정이다.",
+      "category": "tech",
+      "source": "Engadget",
+      "sourceUrl": "https://www.engadget.com/2274082/elon-musk-and-palmer-luckey-will-advise-the-government-on-the-future-of-warfare/",
+      "publishedAt": "2026-09-30T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Earth and Mars: Built from different cosmic recipes",
+      "summary": "45억년 전 태양계를 형성한 가스·먼지 구름에서 지구와 화성이 어떻게 서로 다른 화학적 조성을 갖게 됐는지를 규명한 새 연구 결과.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-09-earth-mars-built-cosmic-recipes.html",
+      "publishedAt": "2026-09-29T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Diving into an out-of-sync galaxy",
+      "summary": "허블우주망원경이 나선은하 NGC 4693을 정밀 관측, 이 은하의 비동기적 회전 패턴과 과거 이력에 대한 단서를 찾아낸 연구.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://phys.org/news/2026-09-sync-galaxy.html",
+      "publishedAt": "2026-09-29T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "\"Xbox is not for sale\": CEO Asha Sharma says \"we will do whatever it takes\" to turn the console maker's fortunes around",
+      "summary": "마이크로소프트 게이밍 신임 CEO 아샤 샤르마가 Xbox 매각설을 일축하며 콘솔 사업 반등을 위해 모든 수단을 동원하겠다고 밝혔다.",
+      "category": "gaming",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net/xbox-not-for-sale-ceo-asha-sharma-console",
+      "publishedAt": "2026-09-30T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "GTA 6 completely \"re-engineered\" Rockstar's weather systems to \"achieve a sense of scale we haven't felt before,\" adding hurricanes, rainbows and heavy rain",
+      "summary": "록스타 게임즈가 GTA6를 위해 날씨 시스템을 전면 재설계했다고 밝혔다. 허리케인, 무지개, 폭우 등 이전作보다 훨씬 큰 스케일의 기상 연출이 추가됐다.",
+      "category": "gaming",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net/gta6-rockstar-weather-systems-hurricanes-rainbows-rain",
+      "publishedAt": "2026-09-30T00:00:00Z"
+    }
+  ]
+}
