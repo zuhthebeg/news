@@ -1101,6 +1101,45 @@
         "productivity"
       ],
       "addedAt": "2026-09-20"
+    },
+    {
+      "title": "Audio Ducking",
+      "description": "내레이션 구간에서 배경음악을 자연스럽게 낮추고 플랫폼별 LUFS 목표로 마스터링한다.\n음성 타이밍 기반 자동화·사이드체인·FFmpeg 검증 절차를 함께 제공한다.",
+      "icon": "🎚️",
+      "category": "media",
+      "url": "https://github.com/vidmoat/skills/tree/main/skills/core/audio-ducking",
+      "tags": [
+        "audio",
+        "mixing",
+        "ffmpeg"
+      ],
+      "addedAt": "2026-10-02"
+    },
+    {
+      "title": "Caption Styling",
+      "description": "모바일 영상 자막의 길이·속도·위치·대비·안전영역을 체계적으로 정한다.\nSRT·VTT 오류 검사와 FFmpeg 번인 검증 절차를 제공한다.",
+      "icon": "💬",
+      "category": "media",
+      "url": "https://github.com/vidmoat/skills/tree/main/skills/core/caption-styling",
+      "tags": [
+        "caption",
+        "video",
+        "accessibility"
+      ],
+      "addedAt": "2026-10-02"
+    },
+    {
+      "title": "Premium SaaS Web",
+      "description": "SaaS·AI 랜딩 페이지를 고급 템플릿 수준으로 설계하는 디자인·모션 스킬이다.\n글로우·글래스·벤토 그리드·GSAP 구성과 접근성 검증 절차를 제공한다.",
+      "icon": "✨",
+      "category": "dev",
+      "url": "https://github.com/MiddleSugar7000/premium-saas-web-skill/tree/main/skills/premium-saas-web",
+      "tags": [
+        "frontend",
+        "saas",
+        "design"
+      ],
+      "addedAt": "2026-10-02"
     }
   ]
 }

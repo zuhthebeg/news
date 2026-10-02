@@ -72,6 +72,51 @@
       "sourceUrl": "https://b2bnews.co.nz/news/nz-video-game-industry-hits-1-point-01bn-95-percent-from-exports/",
       "publishedAt": "2026-10-02T05:39:08+09:00",
       "id": "8"
+    },
+    {
+      "title": "미니맥스 H3 싱귤래리티, 액션·VFX 강화 영상 생성 모델 공개",
+      "summary": "[Video]\nMiniMax-H3 기반 파인튜닝 모델로 텍스트·이미지·참조·비디오 입력을 모두 지원하며 ComfyUI 워크플로를 제공한다. 모델 카드 기준 Apache-2.0 라이선스다. cocy.io에서 쓸모: 게임 트레일러의 전투 장면과 판타지 이펙트 시안을 로컬 ComfyUI 파이프라인에서 빠르게 비교하는 데 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/WarmBloodAban/Minimax-h3_Singularity",
+      "publishedAt": "2026-09-06T03:51:01+09:00",
+      "id": "9"
+    },
+    {
+      "title": "수프라TTS 0.1 베타, 4천만 매개변수대 경량 영어 음성합성 모델 공개",
+      "summary": "[Audio]\nGlow-TTS와 HiFi-GAN으로 구성된 영어 단일 화자 모델로, 음향 모델은 약 2,960만 매개변수이며 로컬 실행 스크립트를 함께 제공한다. 모델 카드 기준 MIT 라이선스다. cocy.io에서 쓸모: 짧은 영어 내레이션과 게임용 안내 음성을 저비용 로컬 배치로 생성하는 후보로 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SupraLabs/SupraTTS-0.1-Beta",
+      "publishedAt": "2026-09-27T19:06:31+09:00",
+      "id": "10"
+    },
+    {
+      "title": "리얼ESRGAN 오픈비노 INT4, 엣지용 초해상도 변환본 공개",
+      "summary": "[Edge]\nRealESRGAN_x4plus를 OpenVINO IR로 변환해 INT4·INT8·FP16 버전을 제공하며, 가장 작은 INT4 모델은 11MB이고 실행 시 PyTorch가 필요 없다. 모델 카드 기준 Apache-2.0 라이선스다. cocy.io에서 쓸모: 저사양 CPU·NPU 환경에서 게임 이미지와 썸네일을 4배 업스케일하는 경량 후처리 단계로 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/HelloSun/Real-ESRGAN-OpenVINO-INT4",
+      "publishedAt": "2026-10-02T09:55:46+09:00",
+      "id": "11"
+    },
+    {
+      "title": "아게이트 프리뷰 002 4스텝, 브라우저 WebGPU 이미지 생성을 4회 추론으로 경량화",
+      "summary": "[Image]\n2억6천만 매개변수 Agate Preview 002를 4스텝으로 증류한 모델로, ONNX Runtime WebGPU 빌드와 브라우저 데모를 제공한다. 모델 카드 기준 MIT 라이선스다. cocy.io에서 쓸모: 서버 호출 없이 브라우저에서 256픽셀 게임 아이콘·구도 초안을 즉시 생성하는 실험에 적합하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ML-Intern-lab/agate-preview-002-4step",
+      "publishedAt": "2026-09-30T14:31:48+09:00",
+      "id": "12"
+    },
+    {
+      "title": "스팬신스 에디트, MIDI로 다중 악기 오디오를 부분 수정하는 로컬 모델 공개",
+      "summary": "[Audio]\nMIDI를 바꿔 녹음의 선택 구간에서 음표를 추가·삭제·수정하는 오디오 편집 모델로, CUDA·애플 실리콘·CPU와 ComfyUI 워크플로를 지원한다. 모델 카드 기준 Apache-2.0 라이선스다. cocy.io에서 쓸모: 생성된 게임 BGM 전체를 다시 만들지 않고 특정 악기나 구간만 교정하는 파이프라인에 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/mimbres/spansynth-edit",
+      "publishedAt": "2026-09-22T11:36:09+09:00",
+      "id": "13"
     }
   ]
 }
