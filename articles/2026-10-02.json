@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-02",
+  "articles": [
+    {
+      "title": "트럼프 “한국 67조 투자” 일방 발표…한미 엇박자",
+      "summary": "도널드 트럼프 미국 대통령이 한국의 67조 원 규모 대미 투자를 발표했지만 한국 정부와 조율되지 않은 내용이 포함돼 정부가 미국 측에 항의했다.",
+      "category": "world",
+      "source": "채널A 뉴스",
+      "sourceUrl": "https://ichannela.com/news/detail/amp/000000553188.do",
+      "publishedAt": "2026-10-01T19:34:00+09:00",
+      "id": "1"
+    },
+    {
+      "title": "기아 '질주' 현대차 '반등 준비'…한국GM·KGM, 수출서 해법 찾았다",
+      "summary": "기아는 미국·유럽 맞춤형 전략으로 성장세를 이어가고, 현대차는 신차 7종 출시로 반등을 준비한다. 한국GM과 KGM도 수출 확대와 가성비 PHEV로 돌파구를 모색하고 있다.",
+      "category": "economy",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/industry/auto-industry/6308220",
+      "publishedAt": "2026-10-02T07:15:00+09:00",
+      "id": "2"
+    },
+    {
+      "title": "DMZ 지뢰 폭발...한국 땅에 얼마나 많은 지뢰가 묻혀 있을까?",
+      "summary": "최근 비무장지대 지뢰 폭발로 한국군 3명이 다친 사건을 계기로 국내 지뢰 매설 규모와 종류, 군인·민간인 피해 및 제거 작업의 한계를 짚었다.",
+      "category": "domestic",
+      "source": "BBC 코리아",
+      "sourceUrl": "https://www.bbc.com/korean/articles/cr86x8eyvyqyo.amp",
+      "publishedAt": "2026-10-01T16:45:56+09:00",
+      "id": "3"
+    },
+    {
+      "title": "Introducing Cloudflare Basin: an open, serverless data platform, now generally available",
+      "summary": "Cloudflare가 Apache Iceberg와 R2 기반의 서버리스 데이터 분석 플랫폼 Basin을 정식 출시했다. 데이터 수집·카탈로그 관리·분산 SQL 질의를 하나의 개발자 플랫폼에서 제공한다.",
+      "category": "tech",
+      "source": "Cloudflare Blog",
+      "sourceUrl": "https://blog.cloudflare.com/cloudflare-basin/",
+      "publishedAt": "2026-10-01T22:00:33+09:00",
+      "id": "4"
+    },
+    {
+      "title": "California AG Bonta issues subpoena to OpenAI over AI cybersecurity risks",
+      "summary": "캘리포니아 법무장관 롭 본타가 AI 사이버보안 위험과 관련해 OpenAI에 조사 소환장을 발부했다.",
+      "category": "tech",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/legal/litigation/california-attorney-general-issues-investigative-subpoena-openai-2026-10-01/",
+      "publishedAt": "2026-10-02T06:49:01+09:00",
+      "id": "5"
+    },
+    {
+      "title": "Crew-13 Research Advances Health, Food, and Deep-Space Science",
+      "summary": "NASA의 Crew-13이 국제우주정거장에서 줄기세포 유래 조직, 우주 혈류 이상, 비행 중 진단기기와 자율 식물재배 시설을 연구한다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/blogs/spacestation/2026/10/01/crew-13-research-advances-health-food-and-deep-space-science/",
+      "publishedAt": "2026-10-01T22:55:32+09:00",
+      "id": "6"
+    },
+    {
+      "title": "Bose Acquires FMOD Developer Firelight Technologies to Expand Interactive Audio Business",
+      "summary": "Bose가 게임 오디오 미들웨어 FMOD 개발사 Firelight Technologies를 인수했다. FMOD는 독립적으로 폭넓은 플랫폼 지원을 유지하고 Bose는 게임·VR/AR·자동차용 인터랙티브 오디오 사업을 확대한다.",
+      "category": "gaming",
+      "source": "audioXpress",
+      "sourceUrl": "https://audioxpress.com/news/bose-acquires-fmod-developer-firelight-technologies-to-expand-interactive-audio-business",
+      "publishedAt": "2026-10-02T06:09:09+09:00",
+      "id": "7"
+    },
+    {
+      "title": "NZ video game industry hits $1.01bn, 95% from exports",
+      "summary": "뉴질랜드 게임 개발 산업이 2026년 3월까지 연간 매출 10억1000만 뉴질랜드달러를 기록했고 약 95%를 해외에서 벌어들였다. 업계는 당초 2028년 목표를 2년 앞당겨 달성했다.",
+      "category": "gaming",
+      "source": "B2B News",
+      "sourceUrl": "https://b2bnews.co.nz/news/nz-video-game-industry-hits-1-point-01bn-95-percent-from-exports/",
+      "publishedAt": "2026-10-02T05:39:08+09:00",
+      "id": "8"
+    }
+  ]
+}
