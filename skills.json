@@ -1140,6 +1140,48 @@
         "design"
       ],
       "addedAt": "2026-10-02"
+    },
+    {
+      "title": "GitHub README Authoring",
+      "description": "저장소 코드를 근거로 사실을 검증한 README를 작성한다.\n템플릿·린터·독립 검토 단계까지 포함한 SKILL.md 패키지다.",
+      "icon": "📘",
+      "category": "dev",
+      "url": "https://github.com/Omer-Dahan/readme-skill/tree/main/skills/github-readme-authoring",
+      "tags": [
+        "README",
+        "문서화",
+        "GitHub",
+        "검증"
+      ],
+      "addedAt": "2026-10-03"
+    },
+    {
+      "title": "Cognitive Complexity",
+      "description": "TypeScript·JavaScript 함수의 인지 복잡도를 번들 스크립트로 계산한다.\n점수 근거를 바탕으로 중첩 제어 흐름을 리팩터링하는 SKILL.md다.",
+      "icon": "🧠",
+      "category": "dev",
+      "url": "https://github.com/realdreamer/agent-skills/tree/main/skills/cognitive-complexity",
+      "tags": [
+        "TypeScript",
+        "JavaScript",
+        "리팩터링",
+        "품질"
+      ],
+      "addedAt": "2026-10-03"
+    },
+    {
+      "title": "Content Originality Check",
+      "description": "게시 전 영상·채널의 재사용·대량생산 콘텐츠 위험을 공식 정책 기준으로 점검한다.\n위험도와 구체적인 수정안을 내는 SKILL.md 패키지다.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://github.com/ducdg88/ducpt-skills/tree/main/skills/content-originality-check",
+      "tags": [
+        "콘텐츠",
+        "유튜브",
+        "정책",
+        "품질검사"
+      ],
+      "addedAt": "2026-10-03"
     }
   ]
 }

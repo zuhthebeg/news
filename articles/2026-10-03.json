@@ -81,6 +81,51 @@
       "source": "IT타임스",
       "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=87216",
       "publishedAt": "2026-10-01T05:09:00Z"
+    },
+    {
+      "id": "10",
+      "title": "터키어 음성 복제 TTS ‘키자간 v1.0’ 공개",
+      "summary": "[Audio]\nVoxCPM2를 터키어 단일 화자 데이터로 LoRA 미세조정한 키자간 v1.0이 9월 7일 공개됐다. 참조 음성만으로 새 문장을 합성하며, 병합 가중치와 실행 스크립트가 포함되고 Apache-2.0 라이선스를 사용한다. cocy.io에서 쓸모: 다국어 캐릭터 보이스 확장 시 참조 음성 기반 현지화 파이프라인의 구현 사례로 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/AlicanKiraz0/Kizagan-TTS-v1.0",
+      "publishedAt": "2026-09-07T13:55:29Z"
+    },
+    {
+      "id": "11",
+      "title": "CPU 전용 이미지 생성 패키지 ‘POCKET-Zimage-CPU’ 공개",
+      "summary": "[Edge]\nZ-Image-Turbo를 stable-diffusion.cpp용 Q4_0 GGUF로 묶은 POCKET-Zimage-CPU가 9월 25일 공개됐다. 모델 카드 기준 GPU·CUDA·Python 없이 CPU에서 실행하며 Apache-2.0 라이선스를 사용한다. cocy.io에서 쓸모: GPU가 없는 서버나 사용자 PC에서도 로컬 썸네일·프로토타입 이미지를 만드는 저비용 경로를 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/FINAL-Bench/POCKET-Zimage-CPU",
+      "publishedAt": "2026-09-25T09:42:59Z"
+    },
+    {
+      "id": "12",
+      "title": "단일 이미지로 새 시점을 만드는 ‘OVIE-512’ 공개",
+      "summary": "[Image]\nKyutai가 한 장의 이미지와 카메라 조건으로 512×512 새 시점 이미지를 생성하는 OVIE-512를 9월 29일 공개했다. 별도 장면별 3D 구축 없이 단일 순전파로 동작하며 MIT 라이선스를 사용한다. cocy.io에서 쓸모: 게임 오브젝트나 배경 콘셉트 한 장에서 다른 카메라 각도의 참고 이미지를 빠르게 만드는 파이프라인에 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/kyutai/ovie-512",
+      "publishedAt": "2026-09-29T09:24:47Z"
+    },
+    {
+      "id": "13",
+      "title": "164MB 온디바이스 영어 음성인식 모델 ‘Phonon-2’ 공개",
+      "summary": "[Edge]\nFermion Research가 NVIDIA Parakeet 계열을 약 2.1비트로 양자화한 164MB 영어 음성인식 모델 Phonon-2를 9월 28일 공개했다. Apple Silicon용 MLX와 Windows·Linux CPU 실행 경로를 제공하며 CC-BY-4.0 라이선스로 상업 활용이 가능하다. cocy.io에서 쓸모: 업로드 음성의 로컬 자막·검색 인덱싱을 서버 API 비용 없이 처리하는 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/FermionResearch/Phonon-2",
+      "publishedAt": "2026-09-28T11:48:47Z"
+    },
+    {
+      "id": "14",
+      "title": "브라우저 WebGPU 의사결정 모델 ‘Julia 1 ONNX’ 공개",
+      "summary": "[Edge]\nSupersonic Labs가 상태·질문·선택지를 브라우저 안에서 점수화하는 Julia 1의 ONNX WebGPU판을 9월 25일 공개했다. ONNX Runtime WebGPU와 WASM 토크나이저로 로컬 실행하며 Apache-2.0 라이선스를 사용한다. cocy.io에서 쓸모: 사용자 데이터를 서버로 보내지 않고 콘텐츠 분류·라우팅·UI 선택을 수행하는 프런트엔드 기능에 적용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SupersonicLabs/Julia-1-ONNX",
+      "publishedAt": "2026-09-25T16:12:36Z"
     }
   ]
 }
