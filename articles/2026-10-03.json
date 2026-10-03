@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-03",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'정치자금법 위반' 오세훈 2심 징역 1년6개월 구형…23일 선고(종합)",
+      "summary": "정치자금법 위반 혐의로 재판 중인 오세훈 서울시장에게 2심에서도 징역 1년 6개월이 구형됐으며 선고는 23일로 예정됐다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202610021733457733",
+      "publishedAt": "2026-10-02T10:33:00Z"
+    },
+    {
+      "id": "2",
+      "title": "김민석 \"대미투자 프로젝트, 상업적 합리성 유지되도록 노력\"",
+      "summary": "김민석 총리가 대미 투자 프로젝트를 추진할 때 상업적 합리성이 유지되도록 노력하겠다고 밝혔다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261002049900001",
+      "publishedAt": "2026-10-02T03:24:00Z"
+    },
+    {
+      "id": "3",
+      "title": "건보공단 고강도 조사에 의료계 반발…경기도의사회 \"전면 거부\"",
+      "summary": "건강보험공단의 고강도 조사 방식에 반발한 경기도의사회가 조사 전면 거부 방침을 밝혔다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202610021610332080",
+      "publishedAt": "2026-10-02T09:10:00Z"
+    },
+    {
+      "id": "4",
+      "title": "잇따른 은행 해킹에…금융당국 \"전 금융권 보안점검 실시\"",
+      "summary": "은행권 해킹과 정보유출 우려가 이어지자 금융당국이 전 금융권을 대상으로 보안점검에 나섰다.",
+      "category": "tech",
+      "source": "IT조선",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE4zVTRSUHprd3pTd1loVWx2emlzR2tib1NkLXZqQmFaRGs4QkZGak94aVhQVnBUOWlraFpGZUw2YzM4SmpxM05Mc0xNQ0RzbVFENWR0aEpnX0M2cHM3bjFXYXFfX0ZORnRGV1A5MHhQN05jcUlU0gF0QVVfeXFMTjNVNFJQemt3elN3WWhVbHZ6aXNHa2JvU2QtdmpCYVpEazhCRkZqT3hpWFBWcFQ5aWtoWkZlTDZjMzhKanEzTkxzTE1DRHNtUUQ1ZHRoSmdfQzZwczduMVdhcV9fRk5GdEZXUDkweFA3TmNxSVQ?oc=5",
+      "publishedAt": "2026-10-02T13:46:05Z"
+    },
+    {
+      "id": "5",
+      "title": "티빙, AWS와 클라우드 보안 체계 강화…접근 관리부터 위협 대응까지",
+      "summary": "티빙이 AWS와 협력해 클라우드 접근권한 관리와 위협 대응을 포함한 보안 체계를 강화했다.",
+      "category": "tech",
+      "source": "비즈니스포스트",
+      "sourceUrl": "https://www.businesspost.co.kr/BP?command=article_view&num=448578",
+      "publishedAt": "2026-10-02T08:11:27Z"
+    },
+    {
+      "id": "6",
+      "title": "구글, '우주 데이터센터' 첫 궤도 실험…TPU 위성 발사 성공",
+      "summary": "구글이 TPU를 실은 위성 발사에 성공하며 우주 데이터센터 구상을 검증하는 첫 궤도 실험에 착수했다.",
+      "category": "science",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tUDhfRHZtb1FRQkh4bFZKSVJ3MHlmX1k1emN2Rl9id1c1blkwbG5ZYnF2aTNYbWhVZmthTElQaHlzV1pwVGdIUzNOcHRRd3FGb1dLcVRManphVWJ2ZXdmWHp6SktCSzQ?oc=5",
+      "publishedAt": "2026-10-02T13:55:00Z"
+    },
+    {
+      "id": "7",
+      "title": "녹십자, mRNA-LNP 연구 성과 공개…반복투여·간 외 전달 가능성 확인",
+      "summary": "GC녹십자가 자체 mRNA-LNP 플랫폼 연구에서 반복 투여와 간 이외 조직 전달 가능성을 확인한 성과를 공개했다.",
+      "category": "science",
+      "source": "이데일리",
+      "sourceUrl": "https://www.edaily.co.kr/News/Read?newsId=03122566645608984",
+      "publishedAt": "2026-10-02T01:23:28Z"
+    },
+    {
+      "id": "8",
+      "title": "게임 플랫폼 스팀, 가을 할인 시작…최대 85%↓",
+      "summary": "게임 플랫폼 스팀이 가을 할인 행사를 시작해 주요 게임을 최대 85% 할인 판매한다.",
+      "category": "gaming",
+      "source": "지디넷코리아",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE10NHA1T3N6LVVsM0k0LWNwUjZtQmN0NTU1ZDZVYjA0Y0R4VFJkQWV2VGlXWGh2VEU5d1FtOGpaeHJpTlFZWGNnODN2RWR3MUUtbHg4aVNR?oc=5",
+      "publishedAt": "2026-10-02T00:26:07Z"
+    },
+    {
+      "id": "9",
+      "title": "넥슨, 신작 '템빨: 오버기어드' 사전등록 시작…연내 PC·모바일 출시",
+      "summary": "넥슨이 신작 MMORPG '템빨: 오버기어드' 사전등록을 시작하고 PC와 모바일 출시를 예고했다.",
+      "category": "gaming",
+      "source": "IT타임스",
+      "sourceUrl": "https://www.ittimes.com/news/articleView.html?idxno=87216",
+      "publishedAt": "2026-10-01T05:09:00Z"
+    }
+  ]
+}
