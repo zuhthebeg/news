@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-04",
+  "articles": [
+    {
+      "id": "1",
+      "title": "경찰신청 구속영장, 검찰단계 기각률 30% 넘어…\"협력보단 견제?\"",
+      "summary": "올해 경찰이 신청한 구속영장을 검찰이 청구하지 않고 기각하는 비율이 처음으로 30%를 넘어섰다. 검찰의 수사권 전면 폐지와 공소청 전환이 맞물리며 검경 갈등이 배경으로 지목된다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261002168700004",
+      "publishedAt": "2026-10-02T04:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "AI로 상호금융까지 광범위 공격…\"해킹 시도 훨씬 많을 수도\"",
+      "summary": "AI 에이전트를 활용한 해커들이 시중은행뿐 아니라 저축은행·캐피털사·상호금융까지 전방위로 노린 정황이 드러났다. 금융당국은 기존 보안 역량의 한계를 지적하며 보안체계 전면 개편을 추진할 방침이다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261003042400002",
+      "publishedAt": "2026-10-03T01:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "트럼프 \"알래스카에 인류 역사상 누구보다 많은 것 가져와\"",
+      "summary": "도널드 트럼프 미국 대통령이 알래스카에 전례 없는 성과를 가져왔다고 밝혔다. 한국 정부가 투자 참여를 확정하지 않은 알래스카 LNG 개발 사업에 한국 자금이 투입될 것이라고 미 행정부가 일방적으로 발표한 가운데 나온 발언이다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261004000900071",
+      "publishedAt": "2026-10-04T00:30:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Apple Pushes iOS 27.0.1 Fix After iPhone 18 Pro Max AT&T Cellular Outages",
+      "summary": "일부 iPhone 18 Pro Max AT&T 사용자가 셀룰러 서비스를 잃는 문제가 발생하자 애플이 iOS 27.0.1 업데이트로 긴급 대응했다. 업데이트로 해결되지 않으면 기기 교체가 필요하다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1001592/ios-27-0-1-is-out-now-with-a-fix-for-unexpected-iphone-18-pro-restarts",
+      "publishedAt": "2026-10-02T12:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "미 법무부, 3억달러 규모 엔비디아 AI칩 중국 밀수출 혐의로 캘리포니아 남성 기소",
+      "summary": "수출 통제 대상인 엔비디아 AI 칩 서버 3억 달러어치를 말레이시아·싱가포르를 거쳐 중국으로 밀수출한 혐의로 캘리포니아 남성이 공모·자금세탁·밀수 혐의로 기소됐다. 유사한 밀수 사건으로 작년에도 4명이 체포됐다.",
+      "category": "tech",
+      "source": "The Verge / DOJ",
+      "sourceUrl": "https://www.justice.gov/opa/pr/california-man-arrested-smuggling-more-300-million-export-controlled-computer-servers-china",
+      "publishedAt": "2026-10-02T15:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA, SpaceX Set No Earlier Than Oct. 7 for Crew-12 Departure",
+      "summary": "기상 및 스플래시다운 조건 검토 후 NASA와 스페이스X가 크루-12의 국제우주정거장(ISS) 도킹 해제를 10월 7일 이후로 목표하고 있다고 밝혔다.",
+      "category": "science",
+      "source": "NASA",
+      "sourceUrl": "https://www.nasa.gov/blogs/commercialcrew/2026/10/03/nasa-spacex-set-no-earlier-than-oct-7-for-crew-12-departure/",
+      "publishedAt": "2026-10-03T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "GTA 창조자 댄 하우저, GTA6 공개 외면하며 신작 오픈월드 게임 개발 중",
+      "summary": "록스타 창립자 댄 하우저가 자신이 세운 신생 스튜디오 Absurd Ventures에서 새 오픈월드 게임을 개발하면서 GTA6 게임플레이 공개를 일부러 보지 않았다고 밝혔다.",
+      "category": "gaming",
+      "source": "Polygon",
+      "sourceUrl": "https://www.polygon.com/dan-houser-absured-ventures-open-world-game/",
+      "publishedAt": "2026-10-03T08:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "캡콤, 차세대 RE 엔진에 AI 접목 발표…생성형 AI는 아니다",
+      "summary": "레지던트 이블·오니무사 개발사 캡콤이 차세대 RE 엔진을 'AI와 함께' 게임을 만들 수 있도록 설계하고 있다고 밝혔다. 다만 생성형 AI는 아직 사용하지 않는다고 강조했다.",
+      "category": "gaming",
+      "source": "Polygon",
+      "sourceUrl": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/",
+      "publishedAt": "2026-10-03T06:00:00Z"
+    }
+  ]
+}
