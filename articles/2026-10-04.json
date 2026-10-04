@@ -72,6 +72,15 @@
       "source": "Polygon",
       "sourceUrl": "https://www.polygon.com/capcom-ai-re-engine-statement-2026/",
       "publishedAt": "2026-10-03T06:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "KittenTTS 2 공개 — 1.7B 경량 음성클로닝 TTS, GGUF로 로컬 추론 지원",
+      "summary": "[Audio] Stellon Labs가 KittenTTS 2(1.7B)를 공개했다. 5~30초 샘플만으로 인컨텍스트 보이스 클로닝이 가능하고 47개 내장 보이스, 감정·강조 태그(베타)를 지원하며 safetensors와 GGUF 포맷을 함께 제공해 로컬·엣지 추론에 바로 쓸 수 있다. 라이선스는 Stellon Labs Community License로 연매출·누적투자 100만 달러 미만이면 상업적 사용이 무료이고 이를 넘으면 별도 계약이 필요하다(완전한 apache/mit은 아님, 조건부 상업 허용). cocy.io에서는 게임 NPC 대사·튜토리얼 보이스를 로컬에서 빠르게 뽑아내는 보조 TTS로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KittenML/kitten-tts-2",
+      "publishedAt": "2026-09-30T00:43:12Z"
     }
   ]
 }
