@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-05",
+  "articles": [
+    {
+      "id": "1",
+      "title": "李대통령 \"盧 정신 이어 적대·대결 악순환 끊어야\"…10·4 남북선언 19주년 강조",
+      "summary": "이재명 대통령이 10·4 남북정상선언 19주년 기념행사에서 노무현 전 대통령의 뜻을 이어 적대와 대결의 악순환을 끊어야 평화와 번영의 선순환을 만들 수 있다고 강조했다. 최근 제시한 '세 가지 평화공존 청사진'이 10·4 선언 정신의 현대적 재해석이라고 밝혔다.",
+      "category": "domestic",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20261004000089",
+      "publishedAt": "2026-10-04T09:56:00Z"
+    },
+    {
+      "id": "2",
+      "title": "금융권 해킹 확산에 과기정통부·KISA 24시간 비상대응체계 가동…2만8천개사 보안점검 권고",
+      "summary": "신한·KB국민·하나 등 주요 은행권 해킹 사고가 잇따르자 과학기술정보통신부와 한국인터넷진흥원(KISA)이 24시간 비상대응체계를 가동했다. CISO 신고기업 약 2만8000곳에 보안점검 권고 메일을 발송하고 해외 공격 IP 정보를 클라우드 사업자에 공유해 차단을 요청했다.",
+      "category": "economy",
+      "source": "ZDNet Korea",
+      "sourceUrl": "https://zdnet.co.kr/view/?no=20261004190923",
+      "publishedAt": "2026-10-04T10:09:00Z"
+    },
+    {
+      "id": "3",
+      "title": "AI 딥페이크 수천 건 제작·유포한 서울 경찰관 입건…불법촬영물도 다수 보유",
+      "summary": "서울 동대문경찰서 소속 현직 경찰관이 AI로 만든 성착취 딥페이크 영상 수백 건을 제작·유포하고 불법 촬영물 등 약 5600건을 소지한 혐의로 입건됐다. 그는 임용 전부터 범행을 시작해 임용 후에도 계속한 것으로 조사됐다.",
+      "category": "domestic",
+      "source": "The Korea Herald",
+      "sourceUrl": "https://www.koreaherald.com/article/10892869",
+      "publishedAt": "2026-10-04T02:45:05Z"
+    },
+    {
+      "id": "4",
+      "title": "구글, AI가 쏟아낸 '가짜 버그'에 몸살…오픈소스 버그바운티 프로그램 잠정 중단",
+      "summary": "구글이 AI가 자동 생성한 취약점 제보가 급증하면서 오픈소스 소프트웨어 버그바운티 프로그램을 2027년 1분기까지 일시 중단했다. 제출된 리포트 대부분이 실제로는 존재하지 않는 '환각(hallucination)' 취약점으로 확인돼 엔지니어들의 검증 부담이 커졌다는 설명이다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/04/google-froze-its-open-source-bug-bounty-program-due-to-a-significant-rise-in-ai-submissions/",
+      "publishedAt": "2026-10-04T20:31:00Z"
+    },
+    {
+      "id": "5",
+      "title": "美 연방판사 \"번호판 인식 카메라 수색은 무차별 대중감시\"…수정헌법 4조 위반 판결",
+      "summary": "미국 연방판사가 털사 보안관보가 영장 없이 번호판 인식 시스템 '플록(Flock)'으로 한 여성의 차량을 추적한 것이 수정헌법 4조를 위반했다고 판결했다. 플록의 감시 방식을 '무차별 대중감시'로 규정한 첫 연방 판결 사례로 꼽힌다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/10/03/federal-judge-calls-flock-indiscriminate-mass-surveillance/",
+      "publishedAt": "2026-10-03T19:33:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA 로먼 우주망원경, 코로나그래프 가동하며 외계행성 탐색 '눈' 떴다",
+      "summary": "NASA의 낸시 그레이스 로먼 우주망원경이 미세조준 시스템 시험과 코로나그래프 가동에 성공해 외계행성과 먼지 원반 탐색에 필요한 정밀한 초점 성능을 입증했다. 대마젤란은하 별들의 첫 이미지를 포착하며 안정적인 관측 성능을 확인했다.",
+      "category": "science",
+      "source": "ScienceDaily / NASA",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001214057.htm",
+      "publishedAt": "2026-10-02T15:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "고용량 비타민B3(니아신), 최악의 뇌암 '교모세포종' 치료 보조로 초기 성과",
+      "summary": "캐나다 캘거리대 연구팀이 고용량 비타민B3(니아신)를 표준 치료와 병행한 소규모 임상에서 참가자의 82%가 6개월 후에도 재발하지 않았다고 밝혔다. 니아신이 교모세포종이 억제하는 면역 기능을 되살리는 역할을 할 수 있다는 가설이며, 대규모 후속 연구가 필요하다.",
+      "category": "science",
+      "source": "ScienceDaily / University of Calgary",
+      "sourceUrl": "https://www.sciencedaily.com/releases/2026/10/261001095423.htm",
+      "publishedAt": "2026-10-04T13:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "워너브러더스·파라마운트, 'Skydance'로 합병 공식화…모탈컴뱃 등 게임 사업도 통합",
+      "summary": "오랜 협상과 규제 심사를 거쳐 워너브러더스와 파라마운트가 'Skydance'라는 새 이름으로 합병을 공식화했다. MTV부터 모탈컴뱃 개발사 네더렐름 스튜디오까지 영화·TV·게임 자산이 한 회사 아래 통합되며, 제임스 건과 피터 사프란은 DC 부문 리더십을 유지한다.",
+      "category": "gaming",
+      "source": "Kotaku",
+      "sourceUrl": "https://kotaku.com/warner-bros-and-paramount-unveil-new-name-as-both-studios-restructure-2000739662",
+      "publishedAt": "2026-10-04T21:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "'월드 오브 워크래프트: 포에버' 베타, 레벨 캡 30 상향 등 대규모 변경 공개",
+      "summary": "블리자드가 '월드 오브 워크래프트: 포에버' 베타에 레벨 캡을 20에서 30으로 올리고 신규 던전 'Excavation Site: Wetlands'를 추가하는 등 대규모 업데이트를 내놨다. 던전 퀘스트 경험치 보상은 줄었고, 인기 퀘스트라인 'Kyle's Gone Missing!'도 복귀했다.",
+      "category": "gaming",
+      "source": "Kotaku",
+      "sourceUrl": "https://kotaku.com/5-big-things-world-of-warcraft-forever-beta-2000739404",
+      "publishedAt": "2026-10-02T18:00:00Z"
+    }
+  ]
+}
