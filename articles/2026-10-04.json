@@ -81,6 +81,42 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/KittenML/kitten-tts-2",
       "publishedAt": "2026-09-30T00:43:12Z"
+    },
+    {
+      "id": "10",
+      "title": "PhysWave 공개 — 물리 기반 공간음향(ambisonics) 생성 디퓨전 모델",
+      "summary": "[Audio] 연구팀(Univ. of Houston 등, EMNLP 2026)이 PhysWave를 공개했다. 음향 캡션과 경로(waypoint) 조건으로 약 10초 길이의 1차 앰비소닉(W/X/Y/Z 4채널) 공간음향을 생성하는 물리 기반 레이턴트 디퓨전 모델이다. 체크포인트(physwave.ckpt+vae.ckpt)와 코드가 공개됐고 라이선스는 apache-2.0으로 상업적 사용이 가능하다(HF API로 createdAt 2026-09-28 확인). cocy.io에서는 게임 공간음향 SFX(발소리 이동감, 환경음 위치감)를 로컬에서 바로 뽑아보는 용도로 테스트할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/10wind/PhysWave",
+      "publishedAt": "2026-09-28T19:44:55Z"
+    },
+    {
+      "id": "11",
+      "title": "vLLM Semantic Router, Decision 2.0 공개 — 경량 의사결정 분류 모델군 + WebGPU ONNX 포팅",
+      "summary": "[Edge][Tool] vLLM 세만틱 라우터 팀이 Decision 2.0(Kai-0.6B·Eos-0.8B·Sol-2B·Nox-4B·Lux-9B·Vega-27B)을 공개했다. 텍스트를 넣으면 선택형·Yes/No·점수형 질문에 한 번의 forward pass로 확률값을 동시에 답하는 '시스템1' 분류 모델로, 생성 없이 수 ms대 응답을 낸다. 전부 Apache-2.0이며(HF API로 createdAt 2026-09-28, 라이선스 확인), 이번 주(10/3) onnx-community가 Sol-2B·Eos-0.8B·Kai-0.6B를 ONNX로 포팅해 transformers.js+WebGPU로 브라우저에서 바로 돌릴 수 있게 됐다. cocy.io에서는 게임 내 NPC 대화 분기나 챗봇 의도 분류를 서버 없이 브라우저에서 처리하는 용도로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/vllm-sr/Decision-2.0-Sol-2B",
+      "publishedAt": "2026-09-28T19:41:43Z"
+    },
+    {
+      "id": "12",
+      "title": "Nucleus-Image — 17B MoE 완전 오픈소스 베이스 이미지 모델, INT8 변환판 공개",
+      "summary": "[Image] WithNucleusAI가 올해 3월 공개한 Nucleus-Image(17B 총 파라미터, forward pass당 약 2B만 활성화되는 sparse MoE diffusion transformer)는 가중치·학습코드·데이터셋을 모두 공개한 base 이미지 생성 모델이다. 라이선스는 Apache-2.0(HF API 확인, 베이스 createdAt 2026-03-17). 이번 주(10/3) 커뮤니티가 INT8 양자화판(Nucleus-Image-INT8-Convrot)을 올려 더 적은 VRAM으로 테스트할 길이 열렸다(정확한 VRAM 수치는 모델카드에 없어 미확인). cocy.io에서는 3080Ti에서 INT8판이 실제로 로딩·생성되는지부터 확인해볼 만한 후보다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/NucleusAI/Nucleus-Image",
+      "publishedAt": "2026-03-17T07:37:41Z"
+    },
+    {
+      "id": "13",
+      "title": "LongLive-Plug 공개 — Wan2.2-TI2V-5B용 few-step 고속 영상생성 LoRA",
+      "summary": "[Video] Efficient-Large-Model(NVIDIA 산하)이 Alibaba Wan2.2-TI2V-5B용 LongLive-Plug LoRA 어댑터(few-step/cfg 세트)를 공개했다. 적은 디노이징 스텝으로도 영상을 뽑도록 증류한 어댑터로, few-step:cfg=1:0.5 비율로 베이스 모델에 얹어 쓴다. 라이선스는 Apache-2.0(HF API로 createdAt 2026-09-29 확인), 베이스 Wan2.2-TI2V-5B도 Apache-2.0이라 상업 이용 가능. cocy.io에서는 이미 테스트 중인 Wan2.2-TI2V-5B 로컬 영상생성 속도를 줄이는 용도로 바로 붙여볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Efficient-Large-Model/LongLive-Plug-Wan2.2-TI2V-5B-few-step",
+      "publishedAt": "2026-09-29T16:18:08Z"
     }
   ]
 }
