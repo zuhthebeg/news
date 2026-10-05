@@ -1182,6 +1182,34 @@
         "품질검사"
       ],
       "addedAt": "2026-10-03"
+    },
+    {
+      "title": "Search Ninja Lite",
+      "description": "비즈니스·경쟁사 조사, 공개 문서 검색에 특화된 안전한 구글 검색 연산자(Dork) 패턴 스킬.\n민감한 개인정보·보안 취약점 탐색은 거부하고 합법적 공개 정보 조사만 수행한다.",
+      "icon": "🔎",
+      "category": "dev",
+      "url": "https://github.com/HaroldMansfield/search-ninja-lite",
+      "tags": [
+        "검색",
+        "리서치",
+        "경쟁사분석",
+        "OSINT"
+      ],
+      "addedAt": "2026-10-05"
+    },
+    {
+      "title": "LinkedIn/SNS Manager",
+      "description": "LinkedIn·X·Instagram·YouTube·WhatsApp용 게시물을 초안 작성 후 반드시 승인받아야 발행하는 소셜 매니지먼트 스킬.\n자동 발행(autopilot) 없이 draft-show-approve 흐름을 강제해 실수로 공개 발송되는 사고를 막는다.",
+      "icon": "📣",
+      "category": "productivity",
+      "url": "https://github.com/CodesbyFebin/linkedin-manager",
+      "tags": [
+        "SNS",
+        "소셜미디어",
+        "콘텐츠초안",
+        "승인워크플로"
+      ],
+      "addedAt": "2026-10-05"
     }
   ]
 }
