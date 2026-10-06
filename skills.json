@@ -1210,6 +1210,48 @@
         "승인워크플로"
       ],
       "addedAt": "2026-10-05"
+    },
+    {
+      "title": "Music with ComfyUI",
+      "description": "사용자가 지정한 ComfyUI 서버(AceStep Audio 1.5)를 호출해 설명·가사만으로 음악·오디오를 생성하는 스킬.\n자체 ComfyUI 서버가 있는 환경에서 로컬 음악 생성 파이프라인으로 바로 연결할 수 있다.",
+      "icon": "🎵",
+      "category": "media",
+      "url": "https://clawhub.ai/sunshinejnjn/skills/music-with-comfyui",
+      "tags": [
+        "음악생성",
+        "ComfyUI",
+        "AceStep",
+        "오디오"
+      ],
+      "addedAt": "2026-10-06"
+    },
+    {
+      "title": "AO Job Heartbeat",
+      "description": "크론·반복 작업이 정상 완료될 때만 핑을 보내는 호스팅형 데드맨 스위치 스킬.\n지정 시간 내 핑이 없으면 지연을 감지해 이메일·웹훅으로 알려준다.",
+      "icon": "⏱️",
+      "category": "dev",
+      "url": "https://clawhub.ai/jkhxz7k72d-cmd/skills/job-heartbeat",
+      "tags": [
+        "크론모니터링",
+        "데드맨스위치",
+        "작업감시",
+        "알림"
+      ],
+      "addedAt": "2026-10-06"
+    },
+    {
+      "title": "OnePress Deck",
+      "description": "피치덱·강의·리서치 브리핑용 슬라이드를 즉시 생성하는 스킬. 계정 없이도 로컬에서 완성된 HTML 덱을 만든다.\nOnePress 연동 시 실시간 리서치 인용, 이미지 생성, PDF·PPTX export, 내레이션 영상까지 파이프라인이 확장된다.",
+      "icon": "📊",
+      "category": "productivity",
+      "url": "https://clawhub.ai/guiyanzhong/skills/onepress-deck",
+      "tags": [
+        "슬라이드덱",
+        "프레젠테이션",
+        "피치덱",
+        "문서생성"
+      ],
+      "addedAt": "2026-10-06"
     }
   ]
 }
