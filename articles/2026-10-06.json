@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-06",
+  "articles": [
+    {
+      "id": "1",
+      "title": "군 \"북한, 자발적 제거 안 하면 제거 작전 지속\"···DMZ 사고 현장 북한 지뢰지대 제거",
+      "summary": "군 당국은 북한이 DMZ 사고 현장 일대 지뢰를 자발적으로 제거하지 않을 경우 자체 제거 작전을 계속하겠다고 밝혔다. 북한군이 매설한 것으로 추정되는 지뢰지대에 대한 정밀 제거 작업이 진행 중이다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1BUEtJS0k4a0FiRE5jajRiQVVZdk5zeWJrbjN1Z1hmTmhMekFJOW1rTThMaVVGNDZEd3VuOUpMNEgyWk9MQ1o2MGFHVjdaaWdja1ctUUI2Z0NqZ9IBX0FVX3lxTE1sUTYxTHRjQldUT21qTDRoa0NGYWFRN2xFNl9aMHU3WnJKd2lGUTZfMGVSQWJiWGJxTnFlUjBKRjdwbl9saXFLUlRGTGxOUW5odDRwb21US0ItQi1LWF9n?oc=5",
+      "publishedAt": "2026-10-05T07:16:00Z"
+    },
+    {
+      "id": "2",
+      "title": "국채 금리 고공행진에도 뉴욕 증시 상승...나스닥 사상 최고",
+      "summary": "미 국채 금리가 급등했음에도 뉴욕 증시는 상승세를 이어가며 나스닥이 사상 최고치를 경신했다. AI 실적 기대감이 반영되며 엔비디아 시가총액은 6조 달러에 근접했다.",
+      "category": "economy",
+      "source": "YTN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5aMVJ5emVkUWx4cFllZXFCVEdVSUoyMmoxZkpCWXVReEUwdldzVGp0dXI2cG55cDZaa1RHcUFOdkJjMXdCN1hxeUQ2LXQ5TUI4UXBHQnk2Q3hUeUxQMlE?oc=5",
+      "publishedAt": "2026-10-05T20:52:00Z"
+    },
+    {
+      "id": "3",
+      "title": "튀르키예·파키스탄, 후티 공격받는 사우디에 병력 신속 배치키로",
+      "summary": "튀르키예와 파키스탄이 예멘 후티 반군의 공격을 받는 사우디아라비아에 병력을 신속 배치하기로 결정했다. 예멘 정부군과 후티 반군 간 군사 충돌이 격화되며 중동 지역 긴장이 고조되고 있다.",
+      "category": "world",
+      "source": "뉴스핌",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1oQmtVQnFQYzloZUpNSTRQTGl1RkZ2RDFTX3JkSFJhelRzeUxLb05jZzJmMGZ0YkROTXJYQWk5TzlwTENYcXJTNjJubmxMOV85VnhyUk5BMEM0cFZW?oc=5",
+      "publishedAt": "2026-10-05T23:10:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Command-line tool quickly removes Apple Intelligence from macOS 27",
+      "summary": "A newly released command-line utility lets macOS 27 users quickly strip out Apple Intelligence features, reflecting continued demand among power users to disable built-in AI integrations at the OS level.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRDJyOW5nM1VlbmFyOFRTMVFmOW8wc3djcjN4VF9ZTFptUkVIYW5EUWREd0J6Q0w3TEJ4bV9ubWs5WjdsWlUyX2gxSGJwTTJKU2FqT3EwNl83RW53X0o2aDJaa0VTQ1Fja0NERmJybWZKX2lfc2N3eFFLdy1pYVh6c0ZKSzhyUmdsNGNkMXE1eFBwWnVEeEFldnVzU1pGWHp6NGE3bUNSb3Q?oc=5",
+      "publishedAt": "2026-10-05T19:14:44Z"
+    },
+    {
+      "id": "5",
+      "title": "Windows 11 26H2 blighted by new audio issue",
+      "summary": "Microsoft's Windows 11 26H2 update has introduced a new audio bug affecting users, adding to a string of post-update stability complaints as the company works on a fix.",
+      "category": "tech",
+      "source": "The Register",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPNDVra19ocFVGUXUxS2Q0cTM1TE12ZGFyNjNzZl82bFVENE9hT29WckE2ZjBjV1p0S0t5WmhvS3JRajBxQzFlZ1dMdUM3Z0s3eDFoZDhrWF9uelFidENoeXJhbTVGUlE1SWJMSWZMQWJxVFozR0JfMERKYUQ4aTZmWjhsOV8wUE84M1BJNXU2eGszT1VUYnJPUFBYQXJ4SkY5SmNxT1BR?oc=5",
+      "publishedAt": "2026-10-05T17:24:00Z"
+    },
+    {
+      "id": "6",
+      "title": "'Phoenix planet' may have formed from a dead star's ashes",
+      "summary": "Astronomers report a candidate 'second-generation' planet that may have coalesced from material shed by a dying star, offering a possible solution to a long-standing Hubble puzzle about white dwarf systems.",
+      "category": "science",
+      "source": "CNN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijgFBVV95cUxORVRTamdGMUV5Y0xrNE9SbURHdkZsakhvRUU5cF9XMDhLYkZRenJocHZka2podnpWTjIxdkV2U3VuWl9QWk15ejdjRGRHSkU0U1BSNk9aSTd3S1hZYy1mdUN6OENvdGJPUF9pMjNNMkNocjdrajcyRnpLRDFrbGdjVkRRUzY2X1FwNUdiM2tn?oc=5",
+      "publishedAt": "2026-10-05T15:58:37Z"
+    },
+    {
+      "id": "7",
+      "title": "Milky Way may have begun as thousands of galaxies, new simulations suggest",
+      "summary": "New cosmological simulations suggest the Milky Way may have formed from the merger of thousands of smaller proto-galaxies, reshaping ideas about how large spiral galaxies like our own assembled over cosmic time.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPQzQ2Qll0NldQUEI0UHdnamF6QUdQWGtURUdwOVpMUWRTZ3R6YnMwM2pubVl1WUwxaDlDY3JWMk9nd2E4STJaQm5ENWphdW5RaUwxUDRheXljLUt6ZS1MZmJJX2lmcVJmM2RIbkNtVkdyNS1VTms3V2ZSUVpOOEs3MmpxQQ?oc=5",
+      "publishedAt": "2026-10-03T13:00:07Z"
+    },
+    {
+      "id": "8",
+      "title": "Ninja Theory Laying Off Employees Ahead Of Possible Closure",
+      "summary": "Xbox-owned studio Ninja Theory is laying off staff after talks over its future reportedly fell through, raising the possibility of a full studio closure amid wider cuts across the Xbox game development group.",
+      "category": "gaming",
+      "source": "Aftermath",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE43ZXhVdXZwcjFxaTRFWTIzMndEc3Z0ZWdkV2E1Q1RsdUlySTJBMzJJcGd5WWFNTVA5Y1k0LXF1NVd3LXVhajRENmNQb3I4U1ZfbTYxdEhRcUdZWjNVNjlpSlQybnJ1QkM4RU5qcm0wN1QwZnNLRDdEcnZR?oc=5",
+      "publishedAt": "2026-10-05T20:41:06Z"
+    },
+    {
+      "id": "9",
+      "title": "NCsoft's Aion 2 Global Release Lifts Stock Price",
+      "summary": "NCsoft shares rose after the global launch of Aion 2 drew strong early player interest, giving the Korean publisher a much-needed win in a competitive MMO market.",
+      "category": "gaming",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOUW5Lb3laVzFIOUVHV0VXaTlNTG1KV0NXbWFXVXpCdV9XR3dkMXB5Q1dhRGpDVUpWUDBfVUpfTXIzZjVDZzJ1QTB4bmlzRmplWnp0cTFTeHRVaUhFUnRvbW5kcG1pRUlxcXVsc29HUDJwdHZRUFZySVNabmVLVkN2c0FqT1NvUFNH?oc=5",
+      "publishedAt": "2026-10-05T22:51:37Z"
+    }
+  ]
+}
