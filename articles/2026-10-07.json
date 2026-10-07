@@ -81,6 +81,24 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20261006127200017?section=industry/game",
       "publishedAt": "2026-10-06T14:00:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "8.6M 파라미터 초소형 터키어 TTS 'EMA Lightning' 공개, RTX 4090서 실시간 440배 속도",
+      "summary": "[Audio] 터키어 특화 EMA Lightning은 5.6M 파라미터 DiT 음향모델과 3M 파라미터 보코더로 이루어진 8.6M 파라미터(약 34MB) 초소형 TTS로, RTX 4090에서 실시간 대비 440배(배칭 시 1,316배) 속도를 내고 스트리밍 생성과 CPU 전용 완전 오프라인 구동까지 지원한다. Apache-2.0 라이선스라 상업적 사용이 자유롭고 GitHub·PyPI(`pip install ema-lightning`)로 바로 설치할 수 있다. cocy.io에서는 네트워크 지연 없이 즉시 응답해야 하는 로컬 UI 보이스 피드백이나 저사양 기기용 다국어 TTS 엔진 설계 참고용으로 구조를 뜯어볼 만하다(터키어 전용 모델이라 직접 재사용보다는 설계 참고 목적).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/canberkkkkkk/ema-lightning",
+      "publishedAt": "2026-10-01T14:18:49+00:00"
+    },
+    {
+      "id": "11",
+      "title": "KandinskyLab, 오디오 동기화 텍스트/이미지→비디오 생성 모델 'Kandinsky 6.0' 공개",
+      "summary": "[Video] 러시아 KandinskyLab이 공개한 Kandinsky 6.0 Video는 29B 파라미터 Pro와 3B 파라미터 Lite 두 체급으로 구성된 디퓨전 모델로, 5초짜리 비디오를 44kHz 오디오(립싱크 포함)와 함께 한 번에 생성하며 텍스트→영상(T2AV)·이미지→영상(TI2AV) 모드를 모두 지원하고 별도 초해상도 모델로 풀HD(1920×1080)까지 업스케일한다. 가중치는 MIT 라이선스로 상업적 사용이 가능하지만 HF 게이트 동의가 필요하며 Diffusers·ComfyUI·vLLM 연동도 공식 지원한다. cocy.io 게임 트레일러나 짧은 티저 영상을 대사+배경음까지 한 번에 뽑아내는 로컬 파이프라인으로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-6.0-Pro-5s-Diffusers",
+      "publishedAt": "2026-09-09T10:55:05+00:00"
     }
   ]
 }
