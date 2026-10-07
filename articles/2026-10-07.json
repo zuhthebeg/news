@@ -99,6 +99,33 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-6.0-Pro-5s-Diffusers",
       "publishedAt": "2026-09-09T10:55:05+00:00"
+    },
+    {
+      "id": "12",
+      "title": "TinyPine, EzAudio-XL 기반 상업용 SFX 생성 모델 'TinyPine-Sound-Effects' 공개",
+      "summary": "[Audio] TinyPine Studio가 공개한 TinyPine-Sound-Effects는 OpenSound의 EzAudio-XL(MIT) 음향모델과 구글 FLAN-T5-XL(Apache-2.0) 텍스트 인코더를 묶어 텍스트 설명만으로 효과음을 생성하고, 모든 출력물에 Meta AudioSeal(MIT) 워터마크를 자동 삽입한다. 구성 요소 전부 상업적 사용 가능한 라이선스(MIT/Apache-2.0)로 HF API 확인됐고 2026-10-06 공개된 신규 모델이다. cocy.io에서 쓸모: 게임 UI 클릭음·이벤트 SFX를 프롬프트만으로 로컬에서 대량 생성해 에셋 제작 시간을 줄일 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/pinecoresystems/TinyPine-Sound-Effects",
+      "publishedAt": "2026-10-06T13:48:47.000Z"
+    },
+    {
+      "id": "13",
+      "title": "알리바바 Tongyi-MAI, 6B 경량 이미지 생성 모델 'Z-Image-Turbo' — 소비자 GPU 지원",
+      "summary": "[Image] Tongyi-MAI의 Z-Image-Turbo는 6B 파라미터 단일스트림 DiT(S3-DiT) 구조로 8 NFE만에 사진급 이미지를 생성하며, 공식 모델카드 기준 16GB VRAM 소비자 GPU에서 구동 가능하고 영어·중국어 이중언어 텍스트 렌더링을 지원한다. Apache-2.0 라이선스로 상업적 사용이 자유롭다. HF 기록상 2025-11-25 최초 공개, 2026-01-30 마지막 수정이라 '이번 주 신작'은 아니고 꾸준히 쓰이는 레퍼런스 모델이다(likes 5,414 / downloads 59만+). cocy.io에서 쓸모: 3080Ti 12GB에서 로컬 아트워크·마케팅 이미지 초안을 뽑는 베이스 모델로 테스트할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2025-11-25T15:09:48.000Z"
+    },
+    {
+      "id": "14",
+      "title": "BiRefNet_lite 512 WebGPU 포팅판 공개 — 브라우저에서 즉시 배경 제거",
+      "summary": "[Edge] Wattsey가 2026-10-07 공개한 birefnet-lite-512-webgpu는 ZhengPeng7의 BiRefNet_lite(MIT, 512×512 fp16 ONNX)를 WebGPU 전용 그래프로 재작성해 서버 없이 브라우저·폰 GPU에서 이미지 배경 제거를 돌린다. deformable-conv GatherND·wide Split 노드를 WebGPU 호환 연산으로 교체했고 출력은 원본과 bit-identical이라고 모델카드에 명시돼 있다. 베이스 모델과 포팅판 모두 MIT 라이선스로 상업적 사용 가능. cocy.io에서 쓸모: tool.cocy.io 같은 정적 사이트에 서버 비용 없이 상품/캐릭터 이미지 배경 제거 기능을 바로 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wattsey/birefnet-lite-512-webgpu",
+      "publishedAt": "2026-10-07T00:07:32.000Z"
     }
   ]
 }
