@@ -1252,6 +1252,20 @@
         "문서생성"
       ],
       "addedAt": "2026-10-06"
+    },
+    {
+      "title": "genspark-claw",
+      "description": "OpenClaw/Hermes/Genspark Claw용 커뮤니티 스킬팩+CLI. 딥리서치·리포트 작성·슬라이드 생성·DOM 기반 브라우저 자동화·AI 전화 준비까지 SKILL.md 5종을 한 줄 설치로 제공.",
+      "icon": "🦀",
+      "category": "productivity",
+      "url": "https://github.com/breakstageaxe61/genspark-claw",
+      "tags": [
+        "skill-pack",
+        "deep-research",
+        "browser-automation",
+        "openclaw"
+      ],
+      "addedAt": "2026-10-08"
     }
   ]
 }

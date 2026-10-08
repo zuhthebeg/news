@@ -90,6 +90,15 @@
       "source": "Hugging Face (LiquidAI)",
       "sourceUrl": "https://huggingface.co/LiquidAI/d1-3B",
       "publishedAt": "2026-10-05T09:55:28Z"
+    },
+    {
+      "id": "11",
+      "title": "yovoice, 클라우드 API 없이 로컬에서 돌아가는 보이스 클로닝 데스크톱 앱 공개",
+      "summary": "[Tool] macOS/Windows용 오픈소스 데스크톱 앱 'yovoice'가 공개됐다(GitHub, 2026-09-15 등록, Apache-2.0 라이선스). 클라우드 TTS API나 글자당 과금 없이 로컬에서 TTS 합성·보이스 클로닝·감정 톤 조절까지 처리하는 것이 특징이다. cocy.io에서 쓸모: 게임/툴 프로젝트의 나레이션·캐릭터 보이스를 API 비용 없이 로컬에서 대량 생성하는 백오피스 파이프라인 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/leemysw/yovoice",
+      "publishedAt": "2026-09-15T15:18:35Z"
     }
   ]
 }
