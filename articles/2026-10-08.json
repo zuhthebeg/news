@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-08",
+  "articles": [
+    {
+      "id": "1",
+      "title": "[속보] 삼성전자 3분기 매출 전년비 127%↑ 195조…역대 최대",
+      "summary": "삼성전자가 2026년 3분기 매출이 전년 동기 대비 127% 증가한 195조원으로 역대 최대치를 기록했다고 발표했다.",
+      "category": "economy",
+      "source": "매일경제 마켓",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5HcDdYQVJ4WjBCb1ZKNEtraU85dXdvcU9MSWdMR2NvN2x0MkZfWG9ObE8zRk14QXdTaTI5V0ZQOHl6RGtKdm1QMUpkMl9ic2hUa1E?oc=5",
+      "publishedAt": "2026-10-07T17:40:00Z"
+    },
+    {
+      "id": "2",
+      "title": "탄식 터진 국회 모처럼 '대동단결'...병역특례 전면 손질 예고",
+      "summary": "국회가 병역특례 제도 전면 개편에 여야 모처럼 공동 보조를 맞추기로 했다고 밝혔다.",
+      "category": "domestic",
+      "source": "YTN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5fc28wVU5uNEYxaTM0YnBJMmFVSDNCcmY3ZVhMYzNDRnRibjJFOTd5ZGhHOF9vcG4zNzNTOFQ3a2Y1UkpzRWEyQ0hnMjh3bnNTWkItTDJRZXF0eWExNWc?oc=5",
+      "publishedAt": "2026-10-07T23:40:00Z"
+    },
+    {
+      "id": "3",
+      "title": "NYC Mayor Mamdani Oct. 7 statement sparks outrage from Jewish leaders",
+      "summary": "뉴욕시장 조란 맘다니가 10월 7일 발표한 성명이 유대계 지도자들의 거센 반발을 불러일으켰다.",
+      "category": "world",
+      "source": "ABC7 Eyewitness News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPWFZ6cW5EYURGY18weUxHTWQ3b0ZPbUJ2YXREc3gzRE1MSzd0QmVtWXZ3cWlqRThWSjM3dnJzV0o1R2dIeDFCeXZ3cjFLejRqZTNJei00RmJWYzQ5SGM4RTE4TlNva0FLWVFlZHhQUkk4MDBBS2NXbkFpNXZGTEpqT0QtM0l1N2E5Z1YzTmF3dElodE44cXVma0l5T0RpaFdzSjFnMkNfTVM3Y01JNk12RFc3d9IBuAFBVV95cUxPQlROb25SSU5zVHFiR0R1NjNTYUdxQi0zS3BjWWRoVC1HaTFpdGtoTEw4ZVRkZzVOY2xld1U2Ui11cEs3eWVwbGZFWXhqWFhpdFhXU1djTno5S2wtODlzT0d3SzNuN0ItM0RWWXlmZFJCOU5kWGpxd2h3NHhPQUx5dTNXWC1wYndYRjFCMmZya1ZiQ0VIZkFiZ05HUFVjS2VGdVhjMHhmQlhEOGpIZnRvcE1WblJTRm45?oc=5",
+      "publishedAt": "2026-10-07T17:56:09Z"
+    },
+    {
+      "id": "4",
+      "title": "Big tech group urges Trump administration to drop patent rule",
+      "summary": "빅테크 업계 단체가 트럼프 행정부에 특허 관련 규정 추진 철회를 공개 요청했다.",
+      "category": "tech",
+      "source": "The Center Square",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQbVJOMC12RVNuUjd1eGhNVnNjdlh2cmZqeVBKX0J2dk1QY2VtVkpfcnlIVWE5MDlwWG53MGdjQkd3Mmx4b24yb0p3dFI0eHBFcnVCLUtMd2Zqd1dOUzczQlZqRVRmbHJveEJmMGJadlYxN2d4TGlrMTI0SFZJc1E3d3lkMkVwUk51bmFJSUJEblNmbG5S0gGaAUFVX3lxTFBxMEpvTVlRUjdnbUlGM0RadnpwX1JWNXRROWRJdzhDZEczUElvd2hUd1l5dkVXb3FlS2pWUGtWTzBCX2VuVll4VmkyWDBpdUtRaklTUENtVThMUEpEeUNWN0ExUFNnZ0ptN25GUmVTdnkyNjBuTjBVLUVLd1JBbHFlc2daUy11OUtTelNhOV9RZ19uUlVjdVp2V3c?oc=5",
+      "publishedAt": "2026-10-07T20:45:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Texas AG: DriveWealth Data Breach May Have Impacted 2.5M",
+      "summary": "텍사스 검찰총장이 핀테크 업체 드라이브웰스의 데이터 유출로 최대 250만명이 영향을 받았을 수 있다고 밝혔다.",
+      "category": "tech",
+      "source": "GovTech",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbnNoSGVONExVX3Ntcm1QQzZvRlZVQmdzTXRNRmdkckRVd2wzTWdpeG9CYi1jLVBJVGxTXzhzcFBmdG5lSnphajZGd0EtTnFEN0pMMmdUbmVEVTBqanpBY3BZT2NpOFhrcjNFMEltVWctbHZldE12Mkx4LWJzYV9KQW9MR3NoQzd1TVNneHEwaUZfdw?oc=5",
+      "publishedAt": "2026-10-07T21:26:49Z"
+    },
+    {
+      "id": "6",
+      "title": "누리호 4연속 궤도 진입 성공…\"군집위성 수송 능력 확인\"",
+      "summary": "한국형 발사체 누리호가 4차 연속 궤도 진입에 성공하며 군집위성 수송 능력을 확인했다고 한겨레가 보도했다.",
+      "category": "science",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE9udXQ1YmNpaXZ1M0tXSjBUNXRnOTUtY25rWnNkdUs1MkExZFdKeVo3dU1va1NTeFZNZm5ZR2FQaHE1QUhGQ0dRWUhVQ05ldmoxY2JPR3M1UHY3TmJqTzRMWFdJLW83UGlWeUtJQ00zUXlKQQ?oc=5",
+      "publishedAt": "2026-10-07T17:40:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Nobel Prize in Chemistry Is Awarded to Henri Kagan and Kenso Soai",
+      "summary": "2026년 노벨 화학상이 앙리 카강과 겐소 소아이에게 수여됐다고 뉴욕타임스가 보도했다.",
+      "category": "science",
+      "source": "The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5VbmlIVWJmQ2t6UnFVMEl1eVE3ZV9kTWZ5b0VlOUZQR0xXYWYyemlBVjZQdmVCdGVndTN6bkVnRVd0aV84WFlIcWtGX1QwaUhMSm8yY19ZZV9sUzNiaHdpQmlVdVNuNlpJNW54dXhXamNuM0VvY1lZRQ?oc=5",
+      "publishedAt": "2026-10-07T15:17:03Z"
+    },
+    {
+      "id": "8",
+      "title": "Unity's new AI game-creation tool has a twist: You still have to put the work in",
+      "summary": "유니티가 신규 AI 게임 제작 툴을 공개했지만, 여전히 개발자가 직접 많은 작업을 투입해야 한다는 평가가 나왔다.",
+      "category": "gaming",
+      "source": "Game File | Stephen Totilo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibEFVX3lxTFB0QndYRjFGbkExcUdvVmhqVkhMQVhhR0pJMWswNGZkWDlGbi1Ndk5XSUZvX25kQ3Bidi1Xb3YwbTd4UDUyU0JnVWtjNzdWLUNpel9OeExBQjE2ZGRkRm1oSW5FVHRsY0FtaHNkTw?oc=5",
+      "publishedAt": "2026-10-07T20:19:21Z"
+    },
+    {
+      "id": "9",
+      "title": "Video-Game Designer Behind 'Sky,' 'Journey' Raises $35 Million",
+      "summary": "'저니', '스카이' 개발자 자경 첸의 스튜디오가 신작 개발을 위해 3500만 달러 투자를 유치했다고 블룸버그가 보도했다.",
+      "category": "gaming",
+      "source": "Bloomberg.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalUwQmgtaG1ITnlXOFByVTRua3BLMVZzaFdDVllRSE1FOG16VHdFTklaT1hlZkpzOVBhX2t5eUpyX20yazI4REtwWEpFOEVoN3dWRUNoQkV2dkl2dF9ZajdBWDZaY3ZTLURmbF9zMjBUSlY4SENEOGE4OWoyTExDaXNEeXJlTy1YbEw4TEZoVXdRd3dkMlctZVVkeExuWEpDX1FZQ1VOSTFweW44eVlWclpDbFZOZjdfYld4NjFMaGR6dw?oc=5",
+      "publishedAt": "2026-10-07T14:06:51Z"
+    }
+  ]
+}
