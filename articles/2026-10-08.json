@@ -81,6 +81,15 @@
       "source": "Bloomberg.com",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalUwQmgtaG1ITnlXOFByVTRua3BLMVZzaFdDVllRSE1FOG16VHdFTklaT1hlZkpzOVBhX2t5eUpyX20yazI4REtwWEpFOEVoN3dWRUNoQkV2dkl2dF9ZajdBWDZaY3ZTLURmbF9zMjBUSlY4SENEOGE4OWoyTExDaXNEeXJlTy1YbEw4TEZoVXdRd3dkMlctZVVkeExuWEpDX1FZQ1VOSTFweW44eVlWclpDbFZOZjdfYld4NjFMaGR6dw?oc=5",
       "publishedAt": "2026-10-07T14:06:51Z"
+    },
+    {
+      "id": "10",
+      "title": "리퀴드AI, 토큰 생성 없이 즉시 판단하는 엣지용 결정모델 'd1' 시리즈 공개",
+      "summary": "[Edge] 리퀴드AI가 LFM2.5 기반 3B/600M 파라미터 '결정모델' d1-3B·d1-omni-600M을 공개했다. 텍스트·이미지·최대 30초 음성을 한 번의 포워드 패스로 처리해 출력 토큰 생성 없이 분류·라우팅·모더레이션 판단만 내리며, RTX 4090에서 8ms, Apple M5 Pro에서 30ms로 동작한다. LFM Open License v1.0(연 매출 1000만 달러 미만 상업적 사용 허용)으로 배포돼 소규모 서비스는 무료로 쓸 수 있다. cocy.io에서는 유저 생성 콘텐츠 검수나 이미지/음성 생성 요청을 사전 필터링·라우팅하는 경량 온디바이스 단계로 끼워 넣기 좋다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (LiquidAI)",
+      "sourceUrl": "https://huggingface.co/LiquidAI/d1-3B",
+      "publishedAt": "2026-10-05T09:55:28Z"
     }
   ]
 }
