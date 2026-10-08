@@ -99,6 +99,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/leemysw/yovoice",
       "publishedAt": "2026-09-15T15:18:35Z"
+    },
+    {
+      "id": "12",
+      "title": "게임 전용 SFX 생성 모델 'GameForge-MusicGen-SFX-v1' 공개 — MusicGen 파인튠, MIT 라이선스",
+      "summary": "[Audio] HuggingFace에 2026-10-07 공개된 MusicGen 기반 파인튠 모델로 Foley/게임 효과음을 텍스트 프롬프트로 생성. license:mit(상업 이용 가능, HF 메타 확인). cocy.io에서 쓸모: game.cocy.io 게임들의 발소리·UI 효과음을 프롬프트로 즉석 생성해 에셋 제작 시간 단축.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ffuy87y/GameForge-MusicGen-SFX-v1",
+      "publishedAt": "2026-10-07T17:58:41Z"
+    },
+    {
+      "id": "13",
+      "title": "ACE-Step 1.5 브라우저 포팅 'ACE-Step-1.5-WebGPU' 공개 — 서버 없이 WebGPU로 음악 생성",
+      "summary": "[Audio][Edge] GitHub에 2026-10-06 공개된 TypeScript 패키지로 ACE-Step 1.5 음악 생성 모델을 WebGPU로 브라우저에서 직접 추론(48kHz 스테레오). license:MIT(상업 이용 가능, GitHub 메타 확인). cocy.io에서 쓸모: 서버 비용 없이 tool.cocy.io에 브라우저 BGM 생성 데모를 바로 붙일 수 있음.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/zeon-net/ACE-Step-1.5-WebGPU",
+      "publishedAt": "2026-10-06T20:23:51Z"
+    },
+    {
+      "id": "14",
+      "title": "초경량 TTS 'EMA Lightning' WebGPU/ONNX 브라우저 포팅판 공개",
+      "summary": "[Audio][Edge] 8.6M 파라미터 초소형 TTS 'EMA Lightning'의 WebGPU ONNX 포팅판이 2026-10-07 HuggingFace에 공개됨. license:apache-2.0(상업 이용 가능, HF 메타 확인). cocy.io에서 쓸모: 서버 없이 브라우저에서 바로 캐릭터 음성/안내 멘트를 생성하는 tool.cocy.io 데모 제작에 활용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/fr0stb1rd/ema-lightning-web-onnx",
+      "publishedAt": "2026-10-07T19:53:23Z"
+    },
+    {
+      "id": "15",
+      "title": "안드로이드용 WebGPU 추론 런타임 'webgpu-inference' 공개 — Kotlin, 온디바이스 GPU 가속",
+      "summary": "[Edge][Tool] 2026년 9월 공개된 Kotlin 기반 Android GPU 추론 런타임으로 AndroidX WebGPU 위에서 동작. license:MIT(상업 이용 가능, GitHub 메타 확인). cocy.io에서 쓸모: 모바일 game.cocy.io 타이틀에 온디바이스 AI 추론(이미지/음성 모델)을 넣을 때 참고할 안드로이드 런타임.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/l2hyunwoo/webgpu-inference",
+      "publishedAt": "2026-09-26T01:18:11Z"
+    },
+    {
+      "id": "16",
+      "title": "Qwen-Image-2.1용 ComfyUI 보정 노드 'ComfyUI-qwen_img_2_1_enhancer' 이번 주 업데이트",
+      "summary": "[Image][Tool] Qwen-Image-2.1 출력을 보정하는 ComfyUI 커스텀 노드 세트로 2026-10-04 공개, 10-07 업데이트. license:MIT(상업 이용 가능, GitHub 메타 확인) — 단 기반 모델 Qwen-Image-2.1 자체는 qwen-research 라이선스(비상업)이므로 실제 이미지 생성엔 상업용 대체 체크포인트 필요. cocy.io에서 쓸모: ComfyUI 워크플로우에 바로 추가해 게임 아트/썸네일 후보정 자동화 가능(단, 베이스 모델은 상업용으로 교체 필요).",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/capitan01R/ComfyUI-qwen_img_2_1_enhancer",
+      "publishedAt": "2026-10-04T03:40:02Z"
     }
   ]
 }
