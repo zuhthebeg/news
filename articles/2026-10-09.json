@@ -99,6 +99,33 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/suryatmodulus/iris-3b",
       "publishedAt": "2026-10-08T21:14:23Z"
+    },
+    {
+      "id": "12",
+      "title": "로컬 TTS 'Chatterbox Turbo', 이번 주 ONNX·MLX·CoreML 포팅 쏟아짐",
+      "summary": "[Audio][Edge] Resemble AI의 TTS 모델 'chatterbox-turbo'(MIT 라이선스, HF 확인: 2025-12-02 공개, 2025-12-15 최종 업데이트)를 기반으로 이번 주(10/8~9) 커뮤니티가 MLX·ONNX·CoreML용 경량 포팅을 잇따라 올렸다(chatterbox-multilingual-MLX-Q8-G64, chatterbox-turbo-coreai 등, 모두 10/8~9 업로드). cocy.io에서 쓸모: 모바일/맥 로컬에서 서버 없이 바로 돌릴 수 있는 음성 더빙(고스톱 콜 등) TTS 백엔드 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox-turbo",
+      "publishedAt": "2026-10-09T00:24:02Z"
+    },
+    {
+      "id": "13",
+      "title": "Sber Kandinsky-6.0 Lite distill, 5초 영상 생성 모델 최근 업데이트",
+      "summary": "[Video] 러시아 Sber의 이미지→비디오 모델 'Kandinsky-6.0-Lite-distill-5s'(MIT 라이선스, HF 확인: 2026-09-09 공개, 2026-10-07 최종 업데이트)는 distill 버전으로 5초 분량 영상을 빠르게 생성한다. cocy.io에서 쓸모: 게임 홍보용 짧은 이미지→영상 클립을 상업 제약 없이 로컬에서 뽑아낼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-6.0-Lite-distill-5s-Diffusers",
+      "publishedAt": "2026-10-07T08:38:07Z"
+    },
+    {
+      "id": "14",
+      "title": "transformers.js 4.3.1 출시 — 브라우저 WebGPU 추론에 EmbeddingGemma 2 지원 추가",
+      "summary": "[Edge][Tool] 허깅페이스 transformers.js 4.3.1(Apache-2.0, GitHub 확인: 2026-10-07 출시)이 구글의 멀티모달 임베딩 모델 EmbeddingGemma 2(텍스트·이미지·오디오를 768차원 벡터로 통합, 총 7.4억 파라미터) 지원을 추가했다. cocy.io에서 쓸모: 서버 호출 없이 브라우저 WebGPU에서 바로 돌아가는 멀티모달 임베딩/검색 기능을 tool.cocy.io 웹앱에 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/huggingface/transformers.js/releases/tag/4.3.1",
+      "publishedAt": "2026-10-07T03:19:38Z"
     }
   ]
 }
