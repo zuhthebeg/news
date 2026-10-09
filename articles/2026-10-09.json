@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-09",
+  "articles": [
+    {
+      "id": "1",
+      "title": "삼성전자, 3분기 영업이익 107조원…국내 기업 첫 분기 100조 돌파",
+      "summary": "삼성전자가 3분기 잠정실적 발표에서 연결기준 매출 195조원, 영업이익 107조4천억원을 기록했다. 반도체 초호황에 힘입어 국내 기업 중 분기 영업이익이 100조원을 넘어선 것은 이번이 처음이며, 국영기업 아람코를 제외하면 전 세계 민간기업 중에서도 최초다.",
+      "category": "economy",
+      "source": "문화일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1heldHZTZaMXFwTS1DelJ1M0VNZHo0R2Jzb1h4TnBIcDdzUkpMbEttLUhxakVoY3RMdnZ5RXNVNEFCVXk5OVZkbnRYVkt6YUxY?oc=5",
+      "publishedAt": "2026-10-07T23:11:20Z"
+    },
+    {
+      "id": "2",
+      "title": "서울 민간아파트 국평 분양가 20억원 다시 넘어…전년비 23%↑",
+      "summary": "서울 민간아파트 전용 84㎡(국민평형) 평균 분양가가 지난달 다시 20억원을 넘어서며 1년 전보다 23% 올랐다. 고분양가 논란에도 서울 청약 열기는 여전히 뜨겁다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwQXROb1lqcWRnYUJNV3FNMHRrek5oTzZJVXpqNG9HaXRHSkZCcVg1TUpNQWZSbU5uMFNtTGhSNmFySnIxNjhKV3ozV3NVWWNtZ1VtX202OFFTR3fSAWBBVV95cUxNNDNJVHJsV3JWak5uajhySGZBaXdYUUpyZUEwc3EwWThtRDJ2dlBHcmx4UUg2MFlweWRBZHdSTU44Slc3aHlWYzFMN1JRNkhmQTFHb2t6UW43dGhicHpjdmE?oc=5",
+      "publishedAt": "2026-10-08T00:39:35Z"
+    },
+    {
+      "id": "3",
+      "title": "이재명 대통령, 우크라이나에 \"北 포로 송환 사과 거부하면 추가조치\" 경고",
+      "summary": "북한군 포로 2명의 한국 송환 사실이 공개되며 외교 갈등이 불거지자, 이재명 대통령이 우크라이나 측에 사과를 요구하며 거부할 경우 추가 조치를 취하겠다고 밝혔다. 외교부는 우크라이나와 사과를 포함한 공동 발표를 논의 중이라고 전했다.",
+      "category": "world",
+      "source": "네이트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5EaTB2NDdreW15bHYzZV9LV2ItbEVGMmVXWG1JNnlBb3ItOWYwQ2JWVnVJZ19PTFFsMUJHT1kydTY0ZVFxVEhRSnoxS1Q2X1dtbGNV?oc=5",
+      "publishedAt": "2026-10-02T01:57:00Z"
+    },
+    {
+      "id": "4",
+      "title": "누리호 5차 발사 성공…위성 15기 중 14기 사출, 1기는 실패",
+      "summary": "한국형 발사체 누리호가 5차 발사에 성공해 목표 궤도에 진입했다. 역대 최다인 위성 15기를 탑재했으며 이 중 14기는 정상적으로 분리됐지만 큐브위성 1기는 사출관 뚜껑이 열리지 않아 분리에 실패했다.",
+      "category": "science",
+      "source": "전자신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9fS2piU2pvODhQa3d5T3hHclBfTXI3SldCYUNCXy1CNUdMSE1QY2VlU05OVVhsSEpEZExfMHh5THVrcDhkV1BpaWlhVHlnQQ?oc=5",
+      "publishedAt": "2026-10-07T06:37:08Z"
+    },
+    {
+      "id": "5",
+      "title": "NASA, 발광 오징어 국제우주정거장 보내 무중력 영향 연구",
+      "summary": "NASA가 작은 발광 오징어를 국제우주정거장(ISS)에 보내 무중력 상태가 생물과 발광 공생균의 관계 형성에 미치는 영향을 연구했다.",
+      "category": "science",
+      "source": "The Times of India",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAJBVV95cUxPUEhnYllWS2pmOGtZTHA1R0NhbU5Jb1RSVzlSYnNKRFdTSjNral84bFFlS1VBRUNVYkRKSFhrd3lkX05Sa2NBX2xlN0JQWjJfUUVWVXFMSEVmREJBakNkNnZBenhDMDZnNTVFY1BkTVhOMzdQc29jbXh6bWNPZy1GdVlhUHUwZHZyWUxCdHJBQnZvZkt5Yk9YUzlGNnBOTDZRS1lJY0Nab0xQSEtpOVJuR25BeWU2XzMxbWV4dnFKZkxFcmRoWGJRZ2ZkNzh1Q2duR0ZsQnVyMmhCY2g5VHMxWVU1WWxLNFFuZEJnTzJNaEhXNDE3R25ER01GQmRremNFa1M4aFNmV3M1QkpTaWxrbHpJdTNyby14RU9FNzZnSGZFeXplVjJodG9ITHNYUVU0ZEZJeG9jV1hBMGxGWFN2Yno5WDNMUVdB0gHOAkFVX3lxTFBPdl93dW5RaUFKczZxc1ZnREl6LUZJRlc1RDZyVGRNWXVzbnp4TjcwNm1YMjF5NWVfRDBiNTJaTDVrV0dKQzFqY2FTRFFpYUREdG8yRnRUQnREM2p5TW8xb3RscTlKRFF4U3hhUjZMV05iWldKV2cwYURTaTNaOTZPc2ZZM3c1RDBxWlQ2b2JvUTdoM0dOZ0ppWGRFcG5HZnZTa0R0NlBqOVlyZExqZGZhN081dUFfeUNEcjdQSlpLeGVodHJ3ejVyV1FnZC1kaWZleUtZdjVNZ0d4RzlscVZaWjA2M0wyaWhfMzN5akpUUm5pUUE2MGhhN0JSRkhKRVhOTjVOYmJVTThqaXlpaUkyMmI3M00zNHhSMlRfWFJEOFJjSnl4YUtoYjZKRzdYRmJ0X05aU3FhUGlydzM3X1Vqb3Nud1JnTjE5YUQwNlE?oc=5",
+      "publishedAt": "2026-10-08T20:30:00Z"
+    },
+    {
+      "id": "6",
+      "title": "트레이딩 플랫폼 웹불, 중국 연계로 美 국가안보 위험 지적…주가 18% 급락",
+      "summary": "미국 의회 패널이 온라인 트레이딩 플랫폼 웹불(Webull)의 중국과의 연계가 국가안보 위험이 된다고 지적했다. 이 소식에 웹불 주가는 18% 급락했다.",
+      "category": "tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOQlpHOW1fMm1KLVoxVFFqXy03bUVhMDh1QW80SENTdml4RXBmX0JGeFRRaTdybXRsUDZGTGVPSUhDT1g2M2VGb2xtOG1yT2VUXzJLU0FyUGd3cTc3WVl5RHVKWUt6YVNKdG5xX1dLUk9qRGZMa0hEd29pUHhfejJ0VmRHd3ltckdV0gGOAUFVX3lxTE9zeWJGWnhTbUltaXRuUUEzVEFiLXdNM3ZBZ1ZvXzFLcmxCUkdOYVJMYTBxSzk0U21mSnpNSHJNNU5WRjQxNDk1Y0p2WXE3UGpIRGNHSWJ1X3lBQl9SSG1Vb0RoM3ZzdC15aExKTVZpVHZVY0tTQ3FWMHJRQXAzYVQzR2Jxdy1BZVVheEFrUGc?oc=5",
+      "publishedAt": "2026-10-07T11:00:01Z"
+    },
+    {
+      "id": "7",
+      "title": "액센추어 계약직, FBI 데이터 유출 사고로 업무서 배제",
+      "summary": "로이터 보도에 따르면 FBI와 일하던 액센추어 소속 계약직 직원이 심각한 데이터 유출 사고 이후 업무에서 배제됐다.",
+      "category": "tech",
+      "source": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPNnh4WEZTOEFBQUo1TmMzeGNFQ1FPaDQzY21NY0lpMjZJM2tiazlCSG5nb3BsdDVmaHVnc0RzbWpZZG1tUDBJdmNJN3pBcFN0eDdRTTlmZEt2YmZtck1Nc3ZzZTdzd1Ftb3FPNzVHcTFXQ2cxTGdXZHppeTlFUU5lSWxKY3ZmYnFtVWl6eGxueXFGaTBoVHd6WjUxSU80WkMyNE9pTkRHZnVyZ0tEN01pM0tCcHo1ZVdIOUpfRXVQaw?oc=5",
+      "publishedAt": "2026-10-06T00:56:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'스타워즈: 제로 컴퍼니', 전술성은 호평…버그는 숙제",
+      "summary": "신작 전략 게임 '스타워즈: 제로 컴퍼니'가 뛰어난 전술적 완성도를 보여주지만 다수의 버그 문제로 아쉬움을 남겼다는 평가를 받았다.",
+      "category": "gaming",
+      "source": "Gameindustry.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMWdkdXphb3M4d290S2Z3cWtsUFctc0xSWGNrU3d0SWxtXzY3Q0xQN1FQb0dWak9RM0Vib0NfcFFpcGcxVVhjVk9VaGlRTjVMMWJNZC1NQnNxbWxzOEM1WmE1OGFoVndhbVg0bUVxeTBUWVI1ZUtJQkNfQ1Y3SDY4LWczQWVCdTR2bF9tNkpISVl0dlFud1VfSl91VjE2UWk5X2lOdGlhWFJ5ak9sQ3c4?oc=5",
+      "publishedAt": "2026-10-07T13:34:45Z"
+    },
+    {
+      "id": "9",
+      "title": "'저니'·'스카이' 디자이너 신작 스튜디오, 3500만달러 투자 유치",
+      "summary": "블룸버그 보도에 따르면 '저니(Journey)', '스카이(Sky)' 개발로 유명한 비디오게임 디자이너의 스튜디오가 신작 개발을 위해 3500만달러의 투자를 유치했다.",
+      "category": "gaming",
+      "source": "Bloomberg",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNalUwQmgtaG1ITnlXOFByVTRua3BLMVZzaFdDVllRSE1FOG16VHdFTklaT1hlZkpzOVBhX2t5eUpyX20yazI4REtwWEpFOEVoN3dWRUNoQkV2dkl2dF9ZajdBWDZaY3ZTLURmbF9zMjBUSlY4SENEOGE4OWoyTExDaXNEeXJlTy1YbEw4TEZoVXdRd3dkMlctZVVkeExuWEpDX1FZQ1VOSTFweW44eVlWclpDbFZOZjdfYld4NjFMaGR6dw?oc=5",
+      "publishedAt": "2026-10-07T14:06:51Z"
+    }
+  ]
+}
