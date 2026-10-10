@@ -1266,6 +1266,45 @@
         "openclaw"
       ],
       "addedAt": "2026-10-08"
+    },
+    {
+      "title": "Void Lore Index",
+      "description": "로컬 마크다운 로어 금고를 색인해 세계관 설정 질문에 항상 실제 문서 발췌+출처로 답하는 세계관 위키 스킬. 아크 단위/기간 만료, 레트콘 예외를 지원해 게임·RP 서버의 세계관 문서가 꼬이지 않게 관리.",
+      "icon": "📜",
+      "category": "media",
+      "url": "https://clawhub.ai/paradoxfuzzle/skills/void-lore-index",
+      "tags": [
+        "worldbuilding",
+        "lore-wiki",
+        "game-design"
+      ],
+      "addedAt": "2026-10-10"
+    },
+    {
+      "title": "Meeting Transcription",
+      "description": "로컬 Whisper로 회의/인터뷰 오디오를 타임스탬프 트랜스크립트·SRT/VTT 자막·마크다운 노트로 변환하는 스킬. 클라우드 API 호출 없이 전부 로컬에서 처리되고 액션아이템도 자동 추출.",
+      "icon": "🎙️",
+      "category": "productivity",
+      "url": "https://clawhub.ai/iyeque/skills/iyeque-meeting-transcription",
+      "tags": [
+        "transcription",
+        "whisper",
+        "local-first"
+      ],
+      "addedAt": "2026-10-10"
+    },
+    {
+      "title": "Subscription Auditor",
+      "description": "구독 서비스의 비용·결제주기·갱신일을 로컬에만 기록해 월간/연간 총액과 갱신 리마인더를 제공하는 개인 재무 관리 스킬. 연체된 갱신도 숨기지 않고 그대로 표시.",
+      "icon": "🧾",
+      "category": "lifestyle",
+      "url": "https://clawhub.ai/paradoxfuzzle/skills/subscription-auditor",
+      "tags": [
+        "personal-finance",
+        "subscriptions",
+        "local-only"
+      ],
+      "addedAt": "2026-10-10"
     }
   ]
 }
