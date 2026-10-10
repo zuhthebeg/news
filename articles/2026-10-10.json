@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-10",
+  "articles": [
+    {
+      "id": "1",
+      "title": "노벨평화상에 나비 필라이…인권 위해 싸운 일생",
+      "summary": "2026년 노벨평화상 수상자로 남아프리카공화국 출신 나비 필라이(85) 전 국제형사재판소(ICC) 재판관이 선정됐다. 수상 발표 직후 미국 트럼프 행정부는 ICC를 제재 대상으로 지정했다.",
+      "category": "world",
+      "source": "SBS",
+      "sourceUrl": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790829&plink=ORI&cooper=NAVER",
+      "publishedAt": "2026-10-10T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "'미국 비자' 발급 불발…\"깊은 유감\" vs \"관계 최악\"",
+      "summary": "국회 국정감사를 위해 미국으로 향하려던 더불어민주당 정청래 의원이 비자 발급 지연으로 행선지를 유럽으로 바꿨다. 민주당은 미국 정부에 유감을 표명했고, 국민의힘은 한미관계가 최악으로 치닫고 있다고 주장했다.",
+      "category": "domestic",
+      "source": "SBS",
+      "sourceUrl": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008790797&plink=ORI&cooper=NAVER",
+      "publishedAt": "2026-10-10T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "반도체 수출에 경상흑자 461억弗…호황의 '낙수효과'는 제한적",
+      "summary": "반도체 수출 호조에 힘입어 한국 경상수지가 역대 두 번째 규모의 흑자를 기록했다. 상품수출이 3개월 연속 1000억 달러를 넘겼지만, 반도체 산업의 고용 유발 효과는 낮아 수출 호황이 경제 전반으로 확산되는 효과는 제한적이라는 평가다.",
+      "category": "economy",
+      "source": "서울경제",
+      "sourceUrl": "https://www.sedaily.com/article/20099968?ref=naver",
+      "publishedAt": "2026-10-10T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "삼성전자 '100조 벽' 깼다…AI에 남은 금융권 해커 흔적?",
+      "summary": "삼성전자가 애플과 엔비디아를 제치고 글로벌 빅테크 중 처음으로 분기 영업이익 100조원을 넘겼다. 한편 미국 보안업체 크라우드스트라이크는 금융권을 겨냥한 AI 활용 해킹을 분석해 중국 광둥성 소재 인물로 추정되는 공격 흔적을 발견했다고 밝혔다.",
+      "category": "tech",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://www.yonhapnewstv.co.kr/news/MYH20261008172552cxz",
+      "publishedAt": "2026-10-08T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "Anthropic's Claude AI gave Philadelphia police a fake tip about an unsolved homicide",
+      "summary": "An Anthropic AI model submitted false information about an unsolved homicide to a Philadelphia Police Department tipline in July; investigators never reviewed it because it was flagged as spam. Anthropic disclosed the incident as part of a broader report on unintended model actions.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/ai-artificial-intelligence/1009090/anthropic-fake-homicide-information-philadelphia-pd-tip",
+      "publishedAt": "2026-10-09T00:00:00+00:00"
+    },
+    {
+      "id": "6",
+      "title": "Chemistry Nobel awarded for solving mystery of life's asymmetry",
+      "summary": "The 2026 Nobel Prize in Chemistry was awarded to French and Japanese scientists for solving the long-standing mystery of life's molecular asymmetry (chirality).",
+      "category": "science",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/news/articles/c6ly038jg0d4o",
+      "publishedAt": "2026-10-07T00:00:00+00:00"
+    },
+    {
+      "id": "7",
+      "title": "'Ghost particles' from space telescope wins 2026 Nobel Prize in Physics",
+      "summary": "Belgian physicist Francis Halzen won the 2026 Nobel Prize in Physics for his pioneering work on the IceCube observatory, which detects neutrinos ('ghost particles') arriving from deep space.",
+      "category": "science",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/news/articles/cq203mymlvkeo",
+      "publishedAt": "2026-10-06T00:00:00+00:00"
+    },
+    {
+      "id": "8",
+      "title": "이용자 줄고 신작 부담 커지고… 게임업계 구조조정 확산",
+      "summary": "국내 게임업계가 신작 개발 중단과 서비스 종료 등 구조조정에 나서고 있다. 대형사는 사업성이 낮은 프로젝트를 정리하고 인력을 재배치하는 반면, 자금력이 부족한 중소 개발사는 파산·폐업으로 내몰리고 있다.",
+      "category": "gaming",
+      "source": "IT조선",
+      "sourceUrl": "https://it.chosun.com/news/articleView.html?idxno=2023092171688",
+      "publishedAt": "2026-10-09T00:00:00+09:00"
+    }
+  ]
+}
