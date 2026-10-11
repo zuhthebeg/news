@@ -72,6 +72,24 @@
       "source": "Eurogamer",
       "sourceUrl": "https://www.eurogamer.net/games/star-wars-galactic-racer",
       "publishedAt": "2026-10-06T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "코코로를 8M 파라미터로 증류한 초경량 엣지 TTS 'Paradee' 공개",
+      "summary": "[Edge] Kokoro-82M을 8.07M 파라미터로 증류한 영어 TTS 모델 'Paradee'가 공개됐다. 9MB 단일 ONNX 파일로 CPU 한 스레드에서 실시간 대비 약 18~25배 속도를 내면서도 Kokoro와 동일한 단어 오류율(5.7%)을 유지한다(Apache-2.0, HF 등록 2026-09-25). 브라우저 확장 'Chickadee'에서는 WebGPU나 다운로드 없이 그대로 구동된다. cocy.io에서 쓸모: 웹/모바일 게임 내레이션이나 UI 음성 안내를 서버 호출 없이 클라이언트에서 즉시 재생하는 초경량 로컬 TTS로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub / Hugging Face",
+      "sourceUrl": "https://huggingface.co/sahilmahendrakar/Paradee-8M-v1.0",
+      "publishedAt": "2026-09-25T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "VoxCPM2를 MLX로 포팅한 애플 실리콘 온디바이스 동시통역 툴 'VoxWeft' 공개",
+      "summary": "[Edge] OpenBMB의 다국어 TTS 모델 VoxCPM2(2B)를 Apple MLX로 포팅해 M시리즈 맥에서 완전 오프라인으로 동작하는 동시통역 툴 'VoxWeft'가 공개됐다(Apache-2.0, 2026-09-20). 음성 입력→번역→합성을 스트리밍 처리해 M5 기준 약 170ms 안에 첫 음성이 나오고, 5초 분량 레퍼런스 음성만으로 목소리를 복제한다. cocy.io에서 쓸모: 서버 비용 없이 맥 로컬에서 콘텐츠 다국어 더빙·통역 프로토타입을 바로 만들어볼 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/HenryZ838978/VoxWeft",
+      "publishedAt": "2026-09-20T00:00:00Z"
     }
   ]
 }

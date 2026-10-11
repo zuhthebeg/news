@@ -1305,6 +1305,45 @@
         "local-only"
       ],
       "addedAt": "2026-10-10"
+    },
+    {
+      "title": "HyperFrames Motion Reel Skill",
+      "description": "한 줄 테마만 주면 비트 싱크된 쇼릴급 모션그래픽 영상을 코드로 만들어내는 Claude Code 스킬. HyperFrames(Apache-2.0)+GSAP 기반으로 렌더링까지 자동화한다.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://github.com/Sunwood-ai-labs/hyperframes-motion-reel-skill",
+      "tags": [
+        "motion-graphics",
+        "hyperframes",
+        "video-gen"
+      ],
+      "addedAt": "2026-10-11"
+    },
+    {
+      "title": "Copycat",
+      "description": "URL 하나로 픽셀퍼펙트 복제 웹사이트를 만드는 Claude Code 스킬. 브라우저에서 폰트·색상·간격을 직접 측정하고 픽셀 diff로 검증해 '눈으로 보기 좋음'이 아닌 수치로 동일성을 확인한다.",
+      "icon": "🧬",
+      "category": "dev",
+      "url": "https://github.com/minosdevs/copycat-skill",
+      "tags": [
+        "web-clone",
+        "pixel-diff",
+        "claude-code"
+      ],
+      "addedAt": "2026-10-11"
+    },
+    {
+      "title": "Sno Station Skills",
+      "description": "실제 팀의 협업 습관을 22개 유닛·31개 스킬로 패키징한 Claude Code/Codex용 스킬 모음. 크로스벤더 피어리뷰, 한도 도달 시 자동 인계 같은 팀 운영 패턴을 그대로 설치한다.",
+      "icon": "🧊",
+      "category": "dev",
+      "url": "https://github.com/sno-ai/sno-station-skills",
+      "tags": [
+        "team-workflow",
+        "peer-review",
+        "skill-pack"
+      ],
+      "addedAt": "2026-10-11"
     }
   ]
 }
