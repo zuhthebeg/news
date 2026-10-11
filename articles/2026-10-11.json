@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-11",
+  "articles": [
+    {
+      "id": "1",
+      "title": "대구 상가 천장마감재 붕괴사고 원인 규명 본격화…합동 감식",
+      "summary": "지난 10일 대구 북구 관음동 4층짜리 상가건물 2층 천장 마감재가 무너져 수십명이 다친 사고의 원인 규명을 위해 경찰이 국립과학수사연구원 등과 합동 감식에 나섰다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261011011200053?section=society/all",
+      "publishedAt": "2026-10-11T00:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "AI해킹 알고도 당한 금융권…사고 2주전에도 '노출자산' 경고",
+      "summary": "금융권 대규모 해킹 사고가 발생하기 불과 2주 전 금융보안원이 금융사들에 외부 노출 자산 관련 보안 위험을 공유하며 대응을 촉구했으나, 이후 유사한 해킹 사고가 잇따랐다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261010027300002?section=economy/all",
+      "publishedAt": "2026-10-10T00:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "사우디 리야드공항 피격, 사망 12명·부상 309명…美 \"개입 검토\"",
+      "summary": "사우디아라비아 수도 리야드의 킹칼리드 국제공항이 10일(현지시간) 재차 공격받아 최소 12명이 숨지고 309명이 다쳤다. 예멘 후티 반군의 공격으로 추정되며, 미국은 개입을 검토 중이다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261011000752099?section=international/all",
+      "publishedAt": "2026-10-10T00:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Asos, 수백만 고객 이름·주소·검색기록 해킹 당해",
+      "summary": "영국 온라인 패션 리테일러 Asos가 해커들에게 고객 수백만명의 이름, 주소, 전화번호, 검색기록이 유출됐다고 확인했다. 해커는 직원 계정을 '신뢰하는 연락처'로 가장해 접근했다.",
+      "category": "tech",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/business/2026/oct/08/asos-customer-data-accessed-hacker-posing-impersonated",
+      "publishedAt": "2026-10-08T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "디스코드 서버봇 'Double Counter' 해킹…이용자 정보 12GB 유출",
+      "summary": "디스코드 서버 보안봇 'Double Counter'가 해킹당해 사용자명, 유저ID, IP주소, 위치정보, 이메일 등 약 12GB의 데이터가 탈취됐다. 공격자는 봇의 디스코드 토큰을 장악해 약 50개 대형 서버에 악성 링크를 게시했다.",
+      "category": "tech",
+      "source": "Double Counter",
+      "sourceUrl": "https://doublecounter.gg/blog/security-incident-october-2026",
+      "publishedAt": "2026-10-06T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "구글 AI 위성, 우주로 성공적으로 발사",
+      "summary": "구글의 텐서처리장치(TPU)를 탑재한 위성이 스페이스X의 팰컨9 로켓에 실려 우주로 발사됐다. 데이터센터를 우주로 옮기려는 구글 '프로젝트 선캐처'의 일환이다.",
+      "category": "science",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1000015/google-ai-satellite-space-project-suncatcher",
+      "publishedAt": "2026-10-01T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "'클라이브 바커의 헬레이저: 리바이벌' 출시",
+      "summary": "매드 헤드 게임즈가 개발한 호러 액션어드벤처 '클라이브 바커의 헬레이저: 리바이벌'이 PC, PS5, Xbox Series X/S, 닌텐도 스위치2로 출시됐다.",
+      "category": "gaming",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net/games/clive-barkers-hellraiser-revival",
+      "publishedAt": "2026-10-08T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'스타워즈: 갤럭틱 레이서' 출시",
+      "summary": "PC, PS5, Xbox Series X/S용 액션 레이싱 신작 '스타워즈: 갤럭틱 레이서'가 출시됐다.",
+      "category": "gaming",
+      "source": "Eurogamer",
+      "sourceUrl": "https://www.eurogamer.net/games/star-wars-galactic-racer",
+      "publishedAt": "2026-10-06T00:00:00Z"
+    }
+  ]
+}
