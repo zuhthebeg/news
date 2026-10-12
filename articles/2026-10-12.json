@@ -90,6 +90,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/Cactus-Compute/whistle",
       "publishedAt": "2026-09-30T00:00:00Z"
+    },
+    {
+      "title": "openbmb, 2B 파라미터 TTS 'VoxCPM2' 공개 — 토크나이저 없는 디퓨전 방식, 48kHz·30개 언어 제로샷 보이스클로닝",
+      "summary": "[Audio] openbmb가 토크나이저 없는 디퓨전-오토리그레시브 구조의 TTS 모델 VoxCPM2를 공개했다(최초 공개 2026-04, 2026-08 업데이트). 2B 파라미터, 48kHz 출력, 30개 언어 지원, 제로샷 보이스클로닝이 가능하며 HF 라이선스 태그는 apache-2.0으로 상업적 사용이 허용된다. cocy.io에서 쓸모: 게임 캐릭터 보이스오버·다국어 더빙을 로컬 3080Ti에서 돌려볼 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/openbmb/VoxCPM2",
+      "publishedAt": "2026-08-18T00:00:00+00:00",
+      "id": "11"
+    },
+    {
+      "title": "ResembleAI 'Chatterbox' 실시간 보이스클로닝 TTS, 올해 6월 업데이트 — MIT 라이선스",
+      "summary": "[Audio] Resemble AI가 오픈소스로 공개한 실시간 보이스클로닝 TTS 모델 Chatterbox가 2026-06 업데이트됐다(최초 공개 2025-04). HF 라이선스 태그는 mit로 상업적 사용 가능. cocy.io에서 쓸모: 그놈(보이스피싱 체크) 데모용 보이스 샘플 생성이나 고스톱 콜 보이스 실험에 로컬로 바로 써볼 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-06-10T00:00:00+00:00",
+      "id": "12"
+    },
+    {
+      "title": "inclusionAI, 디자인 특화 이미지 생성 모델 'Ming-Image-0.1-Design' 9월 공개 — MIT 라이선스",
+      "summary": "[Image] Ant그룹 산하 inclusionAI가 디자인(UI/포스터류) 특화 이미지 생성 모델 Ming-Image-0.1-Design을 2026-09-17 공개, 2026-09-23 업데이트했다. HF 라이선스 태그는 mit로 상업적 사용 가능. cocy.io에서 쓸모: 감자특공대 등 게임 UI·포스터 목업을 로컬에서 빠르게 뽑아볼 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-Image-0.1-Design",
+      "publishedAt": "2026-09-23T00:00:00+00:00",
+      "id": "13"
+    },
+    {
+      "title": "Wan-AI, 5B 경량 텍스트·이미지-투-비디오 모델 'Wan2.2-TI2V-5B' — Apache-2.0",
+      "summary": "[Video] 알리바바 산하 Wan-AI가 작년 7월 공개한 Wan2.2-TI2V-5B는 Wan2.2 계열 중 가장 작은 5B 파라미터로 소비자용 GPU 구동을 겨냥한 text/image-to-video 모델이다. HF 라이선스 태그는 apache-2.0으로 상업적 사용 가능. cocy.io에서 쓸모: 5B급이라 3080Ti 12GB에서 게임 트레일러·티저용 짧은 클립을 실험해볼 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B",
+      "publishedAt": "2025-08-07T00:00:00+00:00",
+      "id": "14"
+    },
+    {
+      "title": "Kokoro TTS의 ONNX 변환판, WebGPU 브라우저 구동 지원 — 82M 경량, Apache-2.0",
+      "summary": "[Edge] onnx-community가 변환한 Kokoro-82M-v1.0-ONNX는 transformers.js/WebGPU로 브라우저 안에서 직접 구동 가능한 82M 경량 TTS다. HF 라이선스 태그는 apache-2.0으로 상업적 사용 가능. cocy.io에서 쓸모: 서버 비용 없이 브라우저(WebGPU)에서 게임 내 TTS 내레이션 데모를 바로 붙여볼 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/onnx-community/Kokoro-82M-v1.0-ONNX",
+      "publishedAt": "2025-02-08T00:00:00+00:00",
+      "id": "15"
     }
   ]
 }
