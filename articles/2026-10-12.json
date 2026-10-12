@@ -81,6 +81,15 @@
       "source": "Gematsu",
       "sourceUrl": "https://www.gematsu.com/2026/10/grand-theft-auto-vi-previews-six-in-game-radio-stations",
       "publishedAt": "2026-10-08T10:13:00-04:00"
+    },
+    {
+      "id": "10",
+      "title": "모바일·마이크로컨트롤러용 온디바이스 음성인식 모델 'Whistle' 공개",
+      "summary": "[Edge] Cactus Compute가 2026년 9월 30일 공개한 Whistle은 16.9MB 단일 파일로 GPU 없이 CPU만으로 구동되는 온디바이스 음성인식(STT) 모델이다. 영어·독어·불어·스페인어·이탈리아어·네덜란드어·폴란드어를 지원하고 단어 단위 타임스탬프와 키워드 바이어싱(인명·지명·제품명 인식 보정)을 제공하며, 같은 팀의 온디바이스 LLM 'Needle'과 동일한 .cact 컨테이너·커널을 공유해 한 바이너리로 묶어 배포할 수 있다(라이선스 apache-2.0, createdAt 2026-09-30 HF API 확인). cocy.io에서 쓸모: 클라우드 STT 비용 없이 모바일 앱의 음성 명령·자막 생성 기능을 온디바이스로 바로 붙일 수 있는 초경량 후보다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Cactus-Compute/whistle",
+      "publishedAt": "2026-09-30T00:00:00Z"
     }
   ]
 }
