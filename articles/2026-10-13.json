@@ -90,6 +90,51 @@
       "source": "Hugging Face / GitHub (ASLP-lab)",
       "sourceUrl": "https://huggingface.co/ASLP-lab/SemBridge",
       "publishedAt": "2026-10-12T17:10:32Z"
+    },
+    {
+      "id": "11",
+      "title": "SemBridge, 시맨틱 토큰 앵커링 기반 통합 TTS·노래 생성 모델 공개 (ASLP-lab)",
+      "summary": "[Audio] 중국 ASLP-lab이 시맨틱 토큰으로 연속 잠재공간을 앵커링해 TTS와 노래(싱잉) 생성을 하나의 continuous-latent 모델로 통합한 SemBridge를 2026-10-12 HuggingFace에 공개(license: apache-2.0, HF API 확인). GitHub 코드도 Apache-2.0. cocy.io에서 쓸모: 게임 캐릭터 대사와 테마곡 보컬을 별도 모델 없이 한 파이프라인으로 처리할 로컬 TTS 교체 후보로 테스트 가치 있음.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ASLP-lab/SemBridge",
+      "publishedAt": "2026-10-13T02:10:32+09:00"
+    },
+    {
+      "id": "12",
+      "title": "Stability AI, Stable Audio 3 Small SFX 모델 업데이트(2026-10-06)",
+      "summary": "[Audio] Stability AI의 효과음 전용 text-to-audio 모델 stable-audio-3-small-sfx가 2026-10-06 HF에서 업데이트됨(license: stable-audio-community — HF API 확인 결과 'other/stable-audio-community' 태그, 연매출 기준 이하 조직은 상업적 사용 무료인 조건부 커뮤니티 라이선스, 초과 시 별도 엔터프라이즈 라이선스 필요). cocy.io에서 쓸모: 현재 쓰는 MOSS-SoundEffect와 비교해볼 로컬 SFX 생성 대안 후보, small 버전이라 3080Ti에서 추론 가능할 가능성 있음(실측 필요).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-small-sfx",
+      "publishedAt": "2026-10-07T04:37:57+09:00"
+    },
+    {
+      "id": "13",
+      "title": "Kyutai Pocket TTS, 브라우저용 WebAssembly/ONNX 포팅판 공개",
+      "summary": "[Edge] justdataplz가 Kyutai의 Pocket TTS(음성 복제 미지원 버전)와 Myned AI의 그리스어 Pocket TTS를 onnxruntime-web + WebAssembly(싱글 스레드)로 포팅한 'Pocket TTS for the browser'를 2026-10-12 공개(license: CC BY 4.0, HF README 확인). 서버 없이 브라우저에서 바로 음성 합성 실행. cocy.io에서 쓸모: game.cocy.io 웹게임에 서버 비용 없이 바로 넣을 수 있는 브라우저 내장 TTS 후보 — WebGPU/WASM 엣지 추론 사례로 참고할 것.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/justdataplz/pocket-tts-web",
+      "publishedAt": "2026-10-13T03:25:21+09:00"
+    },
+    {
+      "id": "14",
+      "title": "Wan-AI, 캐릭터 애니메이션 모델 Wan2.2-Animate-2-14B 공개(2026-07-14, 8월 업데이트)",
+      "summary": "[Video] Alibaba Wan-AI가 2026-07-14 공개하고 2026-08-09 업데이트한 캐릭터 영상 애니메이션 모델 Wan2.2-Animate-2-14B(license: apache-2.0, HF API 확인). 14B 파라미터급으로 VRAM 요구가 커서 3080Ti 12GB에서는 양자화(fp8/int8) 버전 필요. cocy.io에서 쓸모: 캐릭터 모션·댄스 영상을 자동 생성해 게임 프로모션/스레드 홍보 영상 제작에 쓸 수 있는 상업 허용 비디오 모델 — 로컬 돌리려면 양자화본부터 테스트.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-Animate-2-14B",
+      "publishedAt": "2026-08-09T13:09:19+09:00"
+    },
+    {
+      "id": "15",
+      "title": "Tongyi-MAI, 경량 이미지 생성 모델 Z-Image-Turbo (apache-2.0 확인)",
+      "summary": "[Image] Alibaba Tongyi-MAI의 text-to-image 모델 Z-Image-Turbo(약 6.15B 파라미터, F32 기준 HF safetensors 메타 확인)는 license: apache-2.0(HF API 확인), 2026-01-30 마지막 업데이트. 적은 스텝으로 빠른 추론을 목표로 한 경량 모델. cocy.io에서 쓸모: 로컬 3080Ti에서 LuminarQMix SDXL 대비 더 빠른 초안/썸네일 생성용으로 테스트해볼 상업 허용 이미지 모델 후보.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2026-01-31T01:58:07+09:00"
     }
   ]
 }
