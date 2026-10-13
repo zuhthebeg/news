@@ -81,6 +81,15 @@
       "source": "PocketGamer.biz",
       "sourceUrl": "https://www.pocketgamer.biz/mtg-postpones-playsimples-potential-ipo/",
       "publishedAt": "2026-10-12T12:21:00Z"
+    },
+    {
+      "id": "10",
+      "title": "대화와 노래를 한 목소리로 잇는 통합 음성생성 모델 'SemBridge' 공개",
+      "summary": "[Audio] 중국어·영어 음성 합성과 노래 합성을 하나의 모델로 처리하는 'SemBridge'가 공개됐다. 시맨틱 토큰으로 연속 잠재공간 오토리그레시브 생성 과정을 앵커링해 발음 정확도를 높이는 방식이며, 추론 코드와 체크포인트가 2026년 10월 공개됐다(Apache-2.0, arXiv:2608.07462, HF 등록 2026-10-12). cocy.io에서 쓸모: 게임 캐릭터가 대화와 노래(BGM 보컬)를 같은 목소리로 자연스럽게 넘나들어야 하는 컷신·뮤직 시퀀스 프로토타입에 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face / GitHub (ASLP-lab)",
+      "sourceUrl": "https://huggingface.co/ASLP-lab/SemBridge",
+      "publishedAt": "2026-10-12T17:10:32Z"
     }
   ]
 }
