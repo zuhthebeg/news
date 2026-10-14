@@ -99,6 +99,51 @@
       "source": "Hugging Face / GitHub",
       "sourceUrl": "https://huggingface.co/lightx2v/LightVAE",
       "publishedAt": "2026-10-10T06:10:20Z"
+    },
+    {
+      "id": "12",
+      "title": "TTS 보이스클로닝 모델 'Chatterbox'(ResembleAI), 2026-06 업데이트 이후에도 MIT 라이선스 유지",
+      "summary": "[Audio] ResembleAI의 영어 중심 실시간 보이스클로닝 TTS 'Chatterbox'가 MIT 라이선스로 공개돼 있다(HF 등록 2025-04-24, 최근 업데이트 2026-06-10, 다국어 버전 다수 언어 지원). 짧은 레퍼런스 음성만으로 화자 음색을 복제하고 감정 과장(exaggeration) 파라미터로 톤을 조절할 수 있다. cocy.io에서 쓸모: 그놈·고스톱 같은 서비스의 콜/대사 보이스를 외주 없이 로컬에서 바로 뽑아 데모·버전업에 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ResembleAI/chatterbox",
+      "publishedAt": "2026-06-10T21:16:06Z"
+    },
+    {
+      "id": "13",
+      "title": "Qwen 이미지 생성 베이스 모델 'Qwen-Image', Apache-2.0 유지 — 후속 2.1은 연구 전용 라이선스로 분리",
+      "summary": "[Image] 알리바바 Qwen팀의 텍스트-이미지 생성/편집 모델 'Qwen-Image'는 Apache-2.0으로 공개돼 있다(HF 등록 2025-08-02). 후속 'Qwen-Image-2.1'은 HF API로 직접 확인한 결과 license_name이 'qwen-research'(비상업 연구 전용, LICENSE 본문에 'NON-COMMERCIAL PURPOSES ONLY' 명시)라서 이번 선정에서는 제외하고 상업 허용되는 구버전을 기준으로 삼는다. cocy.io에서 쓸모: UI 목업·포스터·아이템 아이콘 등 에셋 초안을 로컬 GPU로 상업 제약 없이 생성할 수 있는 베이스로 쓸 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen-Image",
+      "publishedAt": "2025-08-18T02:42:19Z"
+    },
+    {
+      "id": "14",
+      "title": "소비자 GPU 타깃 경량 비디오 생성 모델 'Wan2.2-TI2V-5B', Apache-2.0",
+      "summary": "[Video] Wan-AI(Alibaba)의 5B 경량 텍스트/이미지→비디오 모델 'Wan2.2-TI2V-5B'는 Apache-2.0이며, 모델카드에 '4090 같은 소비자급 GPU에서 720P·24fps 구동 가능'이라고 명시돼 있다(HF 등록 2025-07-18, 최근 업데이트 2025-08-07). 3080Ti 12GB에서는 모델카드 기준 VRAM보다 여유가 적어 양자화·해상도 하향이 필요할 수 있다(실측 수치 미확인이라 과장하지 않음). cocy.io에서 쓸모: 14B급 모델 대비 가벼워서 게임 트레일러·짧은 프로모 클립 로컬 실험용 1순위 후보로 적합하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Wan-AI/Wan2.2-TI2V-5B",
+      "publishedAt": "2025-08-07T10:22:24Z"
+    },
+    {
+      "id": "15",
+      "title": "온디바이스 멀티모달 엣지 모델 'LFM2' 계열(Liquid AI), 매출 1000만달러 미만 상업 무료",
+      "summary": "[Edge] Liquid AI의 엣지 전용 모델군 'LFM2'(LFM2-VL-1.6B, LFM2-Audio-1.5B 등)는 자체 'LFM Open License v1.0'을 쓰는데, 라이선스 원문을 직접 확인한 결과 연매출 1000만 달러(Threshold) 미만이면 상업적 사용(Commercial Use)이 허용된다(Apache/MIT은 아니지만 cocy.io 규모엔 상업 허용 조건 충족). LFM2-VL은 2025-08-12 공개·2026-03-30 업데이트, LFM2-Audio는 2025-08-28 공개·2026-03-27 업데이트. cocy.io에서 쓸모: 서버 호출 없이 로컬·엣지에서 도는 비전/음성 보조 모델이 필요한 툴(동물상 등)에 경량 대안으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM2-VL-1.6B",
+      "publishedAt": "2026-03-30T13:42:02Z"
+    },
+    {
+      "id": "16",
+      "title": "WebGPU TypeScript 툴킷 'TypeGPU'(software-mansion), MIT — 오늘도 활발히 업데이트 중",
+      "summary": "[Edge][Tool] software-mansion의 'TypeGPU'는 WebGPU 셰이더를 TypeScript로 타입 안전하게 작성하는 오픈소스 툴킷으로, GitHub API로 확인한 라이선스는 MIT이며 2026-10-13 기준으로도 커밋이 계속 올라오는 활발한 프로젝트다(GitHub 생성 2024-02, 스타 3,200+). 브라우저 내 추론 엔진이나 커스텀 셰이더 기반 비주얼 효과를 WebGPU로 짤 때 타입 추론·보일러플레이트를 줄여준다. cocy.io에서 쓸모: tool.cocy.io/game.cocy.io에서 서버 없이 브라우저 WebGPU로 돌아가는 로컬 추론 UI나 커스텀 셰이더 이펙트를 만들 때 개발 속도를 올릴 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/software-mansion/TypeGPU",
+      "publishedAt": "2026-10-13T22:59:25Z"
     }
   ]
 }
