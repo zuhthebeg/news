@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-14",
+  "articles": [
+    {
+      "id": "1",
+      "title": "정부, 44개 중앙행정기관 세종시 이전 추진…공무원 1만명 이동",
+      "summary": "정부가 수도권에 남은 44개 중앙행정기관을 2027년부터 2031년까지 세종시로 단계적으로 이전하는 계획을 발표했다. 27개 기관은 임차청사를 활용해 2027년 우선 이전하고, 신축청사가 필요한 17개 기관은 2031년까지 순차 이전한다. 약 1만 명의 공무원과 가족이 근무지를 옮기게 된다.",
+      "category": "domestic",
+      "source": "코리아중앙데일리",
+      "sourceUrl": "https://www.koreajoongangdaily.com/korea/nearly-10000-civil-servants-to-move-to-sejong-in-sweeping-government-relocation-plan/12918056",
+      "publishedAt": "2026-10-13T18:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "IMF, 한국 2026년 성장률 전망 3.3%로 상향…AI 반도체 호황 영향",
+      "summary": "국제통화기금(IMF)이 한국의 2026년 경제성장률 전망치를 지난 7월 2.6%에서 3.3%로 0.7%포인트 상향 조정했다. AI 반도체 수출 호조가 주된 배경으로 꼽혔으며, 이는 IMF의 세계 평균 성장률 전망(3.1%)을 웃도는 수치다. 2027년 전망치도 2.5%에서 2.8%로 올랐다.",
+      "category": "economy",
+      "source": "코리아중앙데일리",
+      "sourceUrl": "https://www.koreajoongangdaily.com/business/imf-raises-koreas-2026-growth-forecast-to-33-percent-on-ai-chip-boom/12917572",
+      "publishedAt": "2026-10-13T09:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "美 재무부, 뱅크오브아메리카에 12억 달러대 자금세탁방지 위반 벌금",
+      "summary": "미국 재무부 산하 FinCEN이 뱅크오브아메리카(BofA)의 자금세탁방지·제재 준수 실패를 이유로 12억 달러 벌금을 부과했다. OCC도 별도로 7억5000만 달러 과징금을 매겨 역대 최대 규모 제재 중 하나로 기록됐다. BofA는 50억 달러 넘는 의심거래를 보고하지 않은 것으로 드러났다.",
+      "category": "world",
+      "source": "The Business Journal",
+      "sourceUrl": "https://thebusinessjournal.com/bank-of-america-1-2-billion-treasury-fines-money-laundering/",
+      "publishedAt": "2026-10-13T10:00:00-04:00"
+    },
+    {
+      "id": "4",
+      "title": "애플, 스마트홈 신제품 라인업 'Home Collection' 공개",
+      "summary": "애플이 299달러 스마트 디스플레이 'HomeView'를 비롯해 LG가 제조한 카메라, 비디오 도어벨, 스마트락 등을 포함한 홈 액세서리 라인업 'Home Collection'을 발표했다. 아마존이 주도해온 스마트홈 시장에 정면 도전하는 행보로 평가된다.",
+      "category": "tech",
+      "source": "Apple Newsroom",
+      "sourceUrl": "https://www.apple.com/newsroom/2026/10/introducing-apple-home-collection-a-new-lineup-of-smart-home-accessories/",
+      "publishedAt": "2026-10-14T00:00:00-07:00"
+    },
+    {
+      "id": "5",
+      "title": "트럼프 대통령, 머스크·젠슨 황·나델라 등 빅테크 리더에 과학기술 훈장 수여",
+      "summary": "도널드 트럼프 대통령이 일론 머스크(테슬라·스페이스X), 젠슨 황(엔비디아), 리사 수(AMD), 세르게이 브린(구글)에게 국가과학훈장을, 마이클 델(델)과 사티아 나델라(마이크로소프트)에게 국가기술혁신훈장을 수여했다. 테크 경영진에 대한 이례적 규모의 훈장 수여로 평가된다.",
+      "category": "tech",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://www.scmp.com/news/china/diplomacy/article/3370777/trumps-golden-age-push-hands-top-science-honours-big-tech-will-it-work",
+      "publishedAt": "2026-10-14T06:00:00+08:00"
+    },
+    {
+      "id": "6",
+      "title": "제임스웹 망원경, 초기 우주 은하단서 비정상적 암흑물질 밀집 포착",
+      "summary": "제임스웹우주망원경(JWST)이 약 104억 광년 거리의 은하단 XLSSC 122에서 표준 우주론 모델(람다-CDM)의 예측을 뛰어넘는 암흑물질 밀집도를 확인했다. 현재까지 발견된 가장 먼 거리의 강한 중력렌즈 은하단으로, 초기 우주 구조 형성 속도에 대한 기존 이론에 의문을 제기한다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/astronomy/galaxies/the-james-webb-space-telescope-peered-into-one-of-the-universes-oldest-galaxy-clusters-and-scientists-cant-explain-what-they-saw",
+      "publishedAt": "2026-10-12T12:00:00-04:00"
+    },
+    {
+      "id": "7",
+      "title": "코나미, 2D 액션 신작 '캐슬바니아: 벨몬트의 저주' 출시",
+      "summary": "코나미와 에빌엠파이어가 공동 개발한 신작 2D 액션 어드벤처 게임 '캐슬바니아: 벨몬트의 저주'가 PC와 현세대 콘솔 플랫폼으로 정식 출시됐다.",
+      "category": "gaming",
+      "source": "Steam (Konami)",
+      "sourceUrl": "https://store.steampowered.com/app/4231820/Castlevania_Belmonts_Curse/",
+      "publishedAt": "2026-10-14T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "美 펜실베이니아주, '스킬게임' 전면 불법화…단속 착수",
+      "summary": "펜실베이니아주가 10월 14일부로 오락실형 '스킬게임' 기계를 전면 불법으로 규정했다. 주 대법원 판결과 입법 공백 만료에 따른 조치로, 주 경찰은 무허가 영업 업체에 대해 기계 압수와 형사처벌을 예고했다.",
+      "category": "gaming",
+      "source": "Casino.org",
+      "sourceUrl": "https://www.casino.org/news/pennsylvania-skill-game-d-day-looms-legislative-fix-fails/",
+      "publishedAt": "2026-10-14T00:00:00-04:00"
+    }
+  ]
+}
