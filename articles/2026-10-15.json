@@ -1,0 +1,50 @@
+{
+  "date": "2026-10-15",
+  "articles": [
+    {
+      "id": "1",
+      "title": "Supertonic-3 INT8 sherpa-onnx 패키지 공개 — 31개 언어 온디바이스 TTS",
+      "summary": "[Audio][Edge] 10월 14일 공개된 Supertonic-3 INT8 패키지는 sherpa-onnx용 ONNX 파일 4개와 10개 프리셋 보이스를 고정 리비전으로 묶었고, HF 메타의 라이선스는 OpenRAIL이다(상업 이용 가능, 사용 제한 준수 필요). cocy.io에서 쓸모: 한국어를 포함한 31개 언어 TTS를 서버 API 없이 게임·앱에 내장하는 후보로 바로 검토할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/threebobss/supertonic-3-tts-int8-sherpa",
+      "publishedAt": "2026-10-14T14:48:10.000Z"
+    },
+    {
+      "id": "2",
+      "title": "Chatterbox Multilingual V3 BF16 변환판 공개 — RTX 3060 12GB 실측 포함",
+      "summary": "[Audio] 10월 14일 공개된 Chatterbox Multilingual V3 BF16 변환판은 6.78억 파라미터 가중치를 2.71GB에서 1.36GB로 줄였고, 모델카드는 RTX 3060 12GB에서 피크 MLX 할당 3.14GiB와 비실시간보다 빠른 생성 실측을 제시한다. HF 메타 라이선스는 MIT. cocy.io에서 쓸모: 3080 Ti 12GB에서 다국어 보이스 클로닝 TTS를 로컬 제작 파이프라인에 붙여볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/groxaxo/chatterbox-multilingual-v3-bf16",
+      "publishedAt": "2026-10-14T21:45:08.000Z"
+    },
+    {
+      "id": "3",
+      "title": "FLUX.2 klein 4B ONNX WebGPU 변환판 공개 — 브라우저 이미지 생성용 4비트 모델",
+      "summary": "[Image][Edge] 10월 14일 공개된 변환판은 FLUX.2-klein-4B 트랜스포머를 ONNX로 옮기고 선형층을 4비트 양자화해 ONNX Runtime Web의 WebGPU 백엔드를 겨냥한다. HF 메타와 원본 모델 라이선스는 Apache-2.0. cocy.io에서 쓸모: 서버 추론 비용 없이 브라우저 안에서 이미지 생성 기능을 제공하는 PoC 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/danyalmalik/FLUX.2-klein-4B-ONNX-WebGPU",
+      "publishedAt": "2026-10-14T21:13:52.000Z"
+    },
+    {
+      "id": "4",
+      "title": "119.5M 경량 텍스트→비디오 모델 MiniDance 공개 — 8GB GPU 추론",
+      "summary": "[Video] 10월 14일 공개된 MiniDance는 1.195억 파라미터 DiT로 256×256, 33프레임, 12fps 자연 풍경 영상을 만들며 모델카드는 8GB GPU 추론을 명시한다. HF 메타와 구성 모델 라이선스는 Apache-2.0. cocy.io에서 쓸모: 3080 Ti에서 배경 루프·라이브 월페이퍼형 게임 영상 에셋을 저비용으로 생성하기 좋다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/JuniverseLi/MiniDance",
+      "publishedAt": "2026-10-14T13:24:13.000Z"
+    },
+    {
+      "id": "5",
+      "title": "TencentARC Multics 공개 — 하나의 체크포인트로 4~10인 멀티플레이 영상 생성",
+      "summary": "[Video] 10월 12일 공개된 Multics는 계층형 통신으로 멀티플레이어 영상을 생성하며, 완전한 4인 DiT 체크포인트 하나를 재학습 없이 6·8·10인 생성에도 사용한다. HF 메타와 배포 가중치 라이선스는 Apache-2.0. cocy.io에서 쓸모: 여러 캐릭터가 동시에 움직이는 게임 콘셉트 영상과 멀티에이전트 장면 제작을 실험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/TencentARC/Multics",
+      "publishedAt": "2026-10-12T15:16:41.000Z"
+    }
+  ]
+}
