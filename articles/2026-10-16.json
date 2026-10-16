@@ -99,6 +99,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/ZhengmingYu/DMAD",
       "publishedAt": "2026-10-02T00:48:03Z"
+    },
+    {
+      "id": "12",
+      "title": "ACE-Step 1.5 Turbo 음악 생성 모델, 3.71GB WebGPU 온디바이스 팩으로 공개",
+      "summary": "[Audio][Edge] 10월 15일 최초 공개된 p0pc0rn Songs 팩은 ACE-Step 1.5 Turbo를 8비트로 변환해 WebGPU 온디바이스 실행을 지원하며, 본체 2.77GB와 선택형 가사 플래너 0.94GB로 구성된다. HF 메타는 other이지만 모델카드가 본체·플래너 MIT와 Qwen 구성요소 Apache-2.0을 직접 명시해 상업 이용이 가능하다. cocy.io에서 쓸모: 브라우저 기반 BGM·게임 음악 생성 기능을 서버 추론비 없이 실험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/JoshHughes/p0pc0rn-songs-ace-step-15-turbo",
+      "publishedAt": "2026-10-15T19:50:24.000Z"
+    },
+    {
+      "id": "13",
+      "title": "Qwen3-TTS 0.6B, 1.39GB WebGPU 음성 복제 팩 공개",
+      "summary": "[Audio][Edge] 10월 15일 최초 공개된 p0pc0rn Voice는 Qwen3-TTS 12Hz 0.6B Base의 토커와 코드 예측기를 8비트로 변환한 1.39GB 온디바이스 팩으로, WebGPU 음성 합성과 허가받은 음성 복제를 겨냥한다. HF API에서 확인한 라이선스는 Apache-2.0. cocy.io에서 쓸모: 브라우저 안에서 개인정보를 외부 서버로 보내지 않는 캐릭터 TTS·보이스 클로닝 기능을 만들 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/JoshHughes/p0pc0rn-voice-qwen3-tts-06b",
+      "publishedAt": "2026-10-15T19:08:12.000Z"
+    },
+    {
+      "id": "14",
+      "title": "FLUX.2 klein 4B, 4.62GB WebGPU 이미지 생성 팩 공개",
+      "summary": "[Image][Edge] 10월 15일 최초 공개된 p0pc0rn Pictures는 FLUX.2 klein 4B 트랜스포머와 Qwen3-4B 텍스트 인코더를 4비트로 변환한 4.62GB 팩으로, 브라우저·온디바이스 텍스트→이미지와 이미지 편집을 지원한다. HF API에서 확인한 라이선스는 Apache-2.0. cocy.io에서 쓸모: 설치형 GPU 서버 없이 웹에서 게임 카드·배경·캐릭터 시안을 생성하는 기능을 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/JoshHughes/p0pc0rn-klein-4b-q4",
+      "publishedAt": "2026-10-15T20:31:36.000Z"
+    },
+    {
+      "id": "15",
+      "title": "Wan2.2 5B, RTX 3080 Ti 검증 포함 WebGPU 영상 생성판 공개",
+      "summary": "[Video][Edge] 10월 16일 최초 공개된 Karume Wan2.2 TI2V 5B는 텍스트·이미지→비디오 파이프라인을 WebGPU용 컨테이너로 옮기고 트랜스포머와 텍스트 인코더를 int8로 변환했다. 모델카드는 RTX 3080 Ti에서 9·33프레임 이미지→비디오 실행을 검증했으며 HF API 라이선스는 Apache-2.0이다. cocy.io에서 쓸모: 현재 보유한 12GB GPU로 브라우저 영상 에셋 생성 파이프라인을 직접 검증할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/hdae/karume-wan2.2",
+      "publishedAt": "2026-10-16T02:03:09.000Z"
+    },
+    {
+      "id": "16",
+      "title": "D-FINE Small 객체 탐지 모델, 40.3MB ExecuTorch WebGPU 판 공개",
+      "summary": "[Edge][Tool] 10월 16일 최초 공개된 D-FINE Small 변환판은 10.3M 파라미터·40.3MB 크기로, 브라우저 GPU에서 80개 COCO 객체 클래스를 온디바이스 탐지한다. 모델카드는 고정 640×640 입력과 단일 WebGPU delegate 실행을 명시하며 HF API 라이선스는 Apache-2.0이다. cocy.io에서 쓸모: 사진·카메라 프레임을 서버로 전송하지 않는 사물 인식 미니게임과 웹 도구에 바로 연결할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/executorch-community/D-FINE-Small-COCO-ExecuTorch-WebGPU",
+      "publishedAt": "2026-10-16T00:49:17.000Z"
     }
   ]
 }
