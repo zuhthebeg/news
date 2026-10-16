@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-16",
+  "articles": [
+    {
+      "id": "1",
+      "title": "유럽국가들, 한-우크라 갈등에 관심표명…\"韓의 지원 유지돼야\"",
+      "summary": "북한군 포로 송환 공개를 둘러싼 한국과 우크라이나의 외교 갈등에 유럽 주요국들이 관심을 표명하며 한국의 우크라이나 지원 지속을 기대한다는 메시지를 전달했다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261015147200504",
+      "publishedAt": "2026-10-15T16:37:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "경제인협회, 미국 싱크탱크와 한국 성장전략 모색…이창용 대담",
+      "summary": "한국경제인협회와 미국 피터슨국제경제연구소가 관세 갈등과 공급망 재편 속 한국의 성장·일자리·경제 회복력 전략을 논의하는 국제 콘퍼런스를 개최한다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261015167000003",
+      "publishedAt": "2026-10-16T06:00:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "'배민 라이더' 201명 개인정보 노출 정황…로그인 없이 열람",
+      "summary": "배달대행 협력사가 운영하는 것으로 추정되는 사이트에서 배달의민족 라이더 약 201명의 이름과 전화번호가 인증 없이 노출된 정황이 확인됐다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261015051700017",
+      "publishedAt": "2026-10-15T09:47:05+09:00"
+    },
+    {
+      "id": "4",
+      "title": "[2026 국감] KISA 사이버보안 대응체계 부실 지적…여야 한목소리",
+      "summary": "국회 국정감사에서 여야 의원들이 KISA 침해대응 시스템 노후화와 예산 부족, 국가 사이버보안 컨트롤타워 부재를 함께 지적했다.",
+      "category": "tech",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20261015000452",
+      "publishedAt": "2026-10-15T19:01:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "KR, '사이버 복원력 플랫폼 시범서비스' 런칭",
+      "summary": "한국선급이 국제 선박 사이버 복원력 규제 대응과 선급검사 효율화를 지원하는 디지털 플랫폼 KR-CRP의 시범서비스를 공개했다.",
+      "category": "tech",
+      "source": "투데이에너지",
+      "sourceUrl": "https://www.todayenergy.kr/news/articleView.html?idxno=304201",
+      "publishedAt": "2026-10-15T10:39:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "스페이스린텍 \"우주의약 실험모듈 ISS로 발사\"",
+      "summary": "스페이스린텍이 표적 단백질과 신약 후보물질을 미세중력 환경에서 공결정화하는 차세대 우주의약 실험 모듈 BEE-PC2를 국제우주정거장으로 보냈다.",
+      "category": "science",
+      "source": "뉴시스",
+      "sourceUrl": "https://files.newsis.com/view/NISX20261014_0003826127",
+      "publishedAt": "2026-10-14T16:48:58+09:00"
+    },
+    {
+      "id": "7",
+      "title": "컴투스, '도원암귀 크림슨 인페르노' 일본 사전예약 시작",
+      "summary": "컴투스가 일본 애니메이션 도원암귀를 기반으로 개발 중인 모바일·PC 멀티플랫폼 턴제 RPG의 일본 사전예약을 시작했다.",
+      "category": "gaming",
+      "source": "디지털투데이",
+      "sourceUrl": "https://www.digitaltoday.co.kr/news/articleView.html?idxno=707451",
+      "publishedAt": "2026-10-15T15:37:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "넥슨 '템빨: 오버기어드', 서버 경계 허문 '차원' 시스템 공개",
+      "summary": "넥슨이 신작 MMORPG 템빨: 오버기어드에서 다른 서버를 방문해 자원·보스·거래 콘텐츠를 공유하는 차원 시스템을 공개했다.",
+      "category": "gaming",
+      "source": "게임뷰",
+      "sourceUrl": "https://www.gamevu.co.kr/news/articleView.html?idxno=61467",
+      "publishedAt": "2026-10-15T14:31:00+09:00"
+    }
+  ]
+}
