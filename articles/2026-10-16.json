@@ -72,6 +72,33 @@
       "source": "게임뷰",
       "sourceUrl": "https://www.gamevu.co.kr/news/articleView.html?idxno=61467",
       "publishedAt": "2026-10-15T14:31:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "LTX-2.5 영상 모델, 로컬 실행용 GGUF 양자화 공개",
+      "summary": "[Video] Unsloth가 LTX-2.5의 22B 오디오·비디오 생성 모델을 2~8비트 GGUF로 공개했으며, ComfyUI-GGUF와 Unsloth Studio에서 텍스트·이미지 기반 영상 생성에 사용할 수 있다. 증류판은 8+3단계, 최저 용량 파일은 8.46GB이며 LTX 커뮤니티 라이선스상 연매출 1,000만 달러 미만 조직은 상업 이용이 허용된다. cocy.io에서는 짧은 게임 홍보 영상과 움직이는 배경을 로컬 파이프라인으로 시험하는 데 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/unsloth/LTX-2.5-GGUF",
+      "publishedAt": "2026-10-13T09:07:16Z"
+    },
+    {
+      "id": "10",
+      "title": "미니맥스 H3용 통합 컨트롤넷 2.0 공개…8종 제어와 영상 인페인팅 지원",
+      "summary": "[Video] Alibaba PAI가 MiniMax-H3에 캐니·깊이·포즈·레이아웃 등 8가지 조건과 영상 인페인팅을 한 체크포인트로 적용하는 ControlNet-Union 2.0을 공개했다. 공식 모델카드는 40단계, 704×1280 픽셀 예시와 13.5GB 제어 브랜치 구성을 제공하며, MiniMax H3 커뮤니티 라이선스는 연매출 2,000만 달러 이하의 상업 이용을 허용한다. cocy.io에서는 캐릭터 동작과 구도를 고정한 게임 트레일러 컷 제작에 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/alibaba-pai/MiniMax-H3-Fun-Controlnet-Union-2.0",
+      "publishedAt": "2026-09-22T03:26:09Z"
+    },
+    {
+      "id": "11",
+      "title": "DMAD, 미니맥스 H3 오디오·비디오 생성을 4단계로 압축",
+      "summary": "[Video] DMAD가 MiniMax-H3의 50단계 교사를 4단계 생성기로 줄이는 LoRA 학생 모델과 ComfyUI 워크플로를 공개했다. 공식 모델카드 기준 5초 영상은 저메모리 옵션으로 8GB GPU에서도 실행할 수 있고, 영상과 오디오를 함께 생성한다. MiniMax H3 커뮤니티 라이선스는 연매출 2,000만 달러 이하의 상업 이용을 허용하며, cocy.io에서는 RTX 3080 Ti로 사운드가 포함된 짧은 게임 티저를 빠르게 반복 제작하는 데 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ZhengmingYu/DMAD",
+      "publishedAt": "2026-10-02T00:48:03Z"
     }
   ]
 }

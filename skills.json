@@ -1344,6 +1344,45 @@
         "skill-pack"
       ],
       "addedAt": "2026-10-11"
+    },
+    {
+      "title": "Ship Guard",
+      "description": "출시 전 저장소에서 비밀키 노출, .gitignore 누락, OpenGraph·캐노니컬 태그 부재를 결정론적 스캐너로 점검하는 스킬. 수정 후 재검사까지 한 흐름으로 수행해 보안과 SEO 출시 준비를 함께 확인한다.",
+      "icon": "🛡️",
+      "category": "dev",
+      "url": "https://github.com/harsha-pyla/ship-guard",
+      "tags": [
+        "security-audit",
+        "secret-scan",
+        "seo"
+      ],
+      "addedAt": "2026-10-16"
+    },
+    {
+      "title": "Bug Solver Pro",
+      "description": "언어와 프레임워크를 가리지 않고 실행 흐름, 불변식, 반증 가능한 가설을 중심으로 버그 원인을 좁히는 에이전트 스킬. 동시성·상태·성능·통합 문제용 로컬 검색 카탈로그와 회귀 검증 절차를 함께 제공한다.",
+      "icon": "🐛",
+      "category": "dev",
+      "url": "https://github.com/Rhyru9/bug-solver-pro",
+      "tags": [
+        "debugging",
+        "root-cause",
+        "regression-testing"
+      ],
+      "addedAt": "2026-10-16"
+    },
+    {
+      "title": "Phone Drop",
+      "description": "리눅스·WSL 호스트의 대용량 파일을 복사 없이 임시 브라우저 링크로 휴대폰에 보내는 OpenClaw 스킬. HTTP Range 재개 다운로드, 무작위 경로 토큰, Cloudflare 퀵 터널과 종료 시 정리를 지원한다.",
+      "icon": "📲",
+      "category": "productivity",
+      "url": "https://github.com/Wailt0326/phone-drop",
+      "tags": [
+        "file-transfer",
+        "cloudflare-tunnel",
+        "mobile"
+      ],
+      "addedAt": "2026-10-16"
     }
   ]
 }
