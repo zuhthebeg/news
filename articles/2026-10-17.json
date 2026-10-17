@@ -1,0 +1,77 @@
+{
+  "date": "2026-10-17",
+  "articles": [
+    {
+      "id": "N1",
+      "title": "'소방관 등 8명 중경상' 부천 공장 화재…오늘 오전 합동감식",
+      "summary": "경찰과 소방 당국이 부천 금속사출 인쇄공장 화재의 발화 지점과 급격한 연소 확대 원인, 인화성 물질 보관 과정의 위법 여부를 조사한다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261017008800061",
+      "publishedAt": "2026-10-17T06:48:00+09:00"
+    },
+    {
+      "id": "N2",
+      "title": "트럼프 \"현대차 공장 확장...7천5백억 원 투자 방금 발표\"",
+      "summary": "도널드 트럼프 미국 대통령이 현대트랜시스가 조지아주 웨스트포인트 공장 현대화와 신축에 5억6천만 달러를 투자할 계획이라고 밝혔다.",
+      "category": "economy",
+      "source": "YTN",
+      "sourceUrl": "https://www.ytn.co.kr/_ln/0104_202610170741567738",
+      "publishedAt": "2026-10-17T07:41:00+09:00"
+    },
+    {
+      "id": "N3",
+      "title": "브런슨, 한국 영토주권 부정 발언 논란…“대한민국은 남쪽 철책선에서 시작”",
+      "summary": "제이비어 브런슨 주한미군사령관이 유엔사 관점에서 대한민국이 DMZ 남쪽 철책선에서 시작한다고 발언해 영토주권 논란이 불거졌다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://www.khan.co.kr/article/202610161637001",
+      "publishedAt": "2026-10-16T16:37:00+09:00"
+    },
+    {
+      "id": "N4",
+      "title": "센스톤, AI 무인공장 보안 기술 개발…비인가 제어 명령 사전 차단",
+      "summary": "센스톤이 다크팩토리 산업설비에 전달되는 제어 명령의 출처와 권한을 검증해 비인가 명령을 실행 전에 차단하는 OT 보안 기술 개발에 참여한다.",
+      "category": "tech",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20261016000344",
+      "publishedAt": "2026-10-16T21:10:00+09:00"
+    },
+    {
+      "id": "N5",
+      "title": "Critical BlockStrap flaw lets hackers run code on Magento servers",
+      "summary": "Magento와 Adobe Commerce의 최고 심각도 취약점 CVE-2026-103849가 원격 PHP 코드 실행으로 이어질 수 있어 보안 연구진이 신속한 패치를 권고했다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/critical-blockstrap-flaw-lets-hackers-run-code-on-magento-servers/",
+      "publishedAt": "2026-10-16T16:00:00-04:00"
+    },
+    {
+      "id": "N6",
+      "title": "40년 만에 바뀐 방광암 표준치료, '누구에게 잘 듣는지' 미리 알 수 있는 단서 찾았다",
+      "summary": "서울대와 미국 마운트시나이 공동 연구팀이 치료 전 NECTIN4 유전자 발현과 종양변이부담으로 전이성 요로상피암의 EV+P 치료 효과를 예측할 가능성을 제시했다.",
+      "category": "science",
+      "source": "서울대학교",
+      "sourceUrl": "https://snu.ac.kr/snunow/press?bbsidx=177299&md=v",
+      "publishedAt": "2026-10-16T00:00:00+09:00"
+    },
+    {
+      "id": "N7",
+      "title": "GTA 6, 청소년이용불가로 등급분류 통과…11월 출시 '파란불'",
+      "summary": "게임콘텐츠등급분류위원회가 GTA 6를 청소년이용불가 등급으로 판정하면서 11월 19일 국내 출시가 예정대로 진행될 전망이다.",
+      "category": "gaming",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261016147100017",
+      "publishedAt": "2026-10-16T17:03:00+09:00"
+    },
+    {
+      "id": "N8",
+      "title": "라인게임즈, PC 신작 ‘어메이징 슬롯 서바이버’ 데모 스팀 공개",
+      "summary": "라인게임즈가 슬롯머신과 서바이벌 요소를 결합한 PC 로그라이크 신작의 개선된 데모를 스팀에 공개하고 글로벌 이용자 피드백 수집에 나섰다.",
+      "category": "gaming",
+      "source": "게임샷",
+      "sourceUrl": "https://msmart.gameshot.net/common/con_view.php?code=GA6ad1c96a52af2",
+      "publishedAt": "2026-10-16T15:51:22+09:00"
+    }
+  ]
+}
