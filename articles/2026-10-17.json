@@ -117,6 +117,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/shraey/aptavatar-mlx",
       "publishedAt": "2026-10-17T04:13:05+09:00"
+    },
+    {
+      "id": "N14",
+      "title": "1.03M 파라미터 초경량 CPU TTS SupraTTS 1.0 Preview 공개",
+      "summary": "[Audio] 영어 단일 화자 TTS SupraTTS 1.0 Preview가 MIT 라이선스로 공개됐다. 모델 카드 기준 1,031,754개 파라미터와 약 4MB 가중치로 구성되며, 동일 데스크톱 CPU 측정에서 약 85배 실시간 속도를 기록했다. cocy.io에서 쓸모: 서버 없이 영문 게임 안내 음성과 짧은 NPC 대사를 대량 생성하는 초경량 배치에 적합하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SupraLabs/SupraTTS-1.0-Preview",
+      "publishedAt": "2026-10-16T05:13:28+09:00"
+    },
+    {
+      "id": "N15",
+      "title": "모바일 온디바이스용 Paradee 8M ExecuTorch TTS 공개",
+      "summary": "[Edge] Paradee-8M 영어 TTS를 React Native ExecuTorch에서 쓰도록 XNNPACK .pte 두 파일로 변환한 패키지가 Apache-2.0 라이선스로 공개됐다. 모델 카드 기준 Galaxy A33에서 음성 길이의 약 절반 시간에 합성했고 앱 피크 메모리는 약 370MB였다. cocy.io에서 쓸모: 모바일 게임 안에서 네트워크 없이 짧은 영어 음성을 생성하는 프로토타입에 바로 붙여볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/dr33m/paradee-8m-executorch",
+      "publishedAt": "2026-10-13T19:24:05+09:00"
+    },
+    {
+      "id": "N16",
+      "title": "말하기와 노래를 한 모델로 잇는 SemBridge 체크포인트 공개",
+      "summary": "[Audio] 텍스트 음성, 음표 조건부 노래, 말하기-노래 혼합 생성을 지원하는 SemBridge 체크포인트와 추론 코드가 Apache-2.0 라이선스로 공개됐다. 중국어·영어를 지원하고 44.1kHz WAV를 출력하며 CUDA BF16 추론 예제를 제공한다. cocy.io에서 쓸모: 게임 캐릭터가 대사에서 노래로 자연스럽게 넘어가는 보컬 에셋 제작을 한 파이프라인에서 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ASLP-lab/SemBridge",
+      "publishedAt": "2026-10-13T02:10:32+09:00"
+    },
+    {
+      "id": "N17",
+      "title": "8GB GPU에서도 도는 MOSS-Image ComfyUI 양자화판 공개",
+      "summary": "[Image] MOSS-Image-SFT의 DiT를 INT8, Qwen3.5-9B 텍스트 인코더를 W4A8로 줄인 ComfyUI 단일 파일 패키지가 Apache-2.0 라이선스로 공개됐다. 모델 카드에는 RTX 3060 Ti 8GB에서 1024×1536 이미지를 50단계로 약 210초에 생성한 검증값이 제시됐다. cocy.io에서 쓸모: 12GB RTX 3080 Ti에서 고해상도 게임 카드와 홍보 이미지를 로컬로 만드는 현실적인 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nif0/MOSS-Image-SFT-ComfyUI",
+      "publishedAt": "2026-10-16T17:06:32+09:00"
+    },
+    {
+      "id": "N18",
+      "title": "브라우저 WebGPU용 FLUX.2-klein 4B ONNX 변환판 공개",
+      "summary": "[Edge] FLUX.2-klein-4B의 트랜스포머를 4비트 선형층으로 양자화해 ONNX Runtime Web WebGPU 백엔드에서 실행하도록 만든 변환판이 Apache-2.0 라이선스로 공개됐다. 텍스트 인코더와 VAE는 별도 호환 패키지를 결합해야 한다. cocy.io에서 쓸모: 설치 없는 브라우저 이미지 생성 데모와 클라이언트 측 에셋 시안 생성 가능성을 검증할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/danyalmalik/FLUX.2-klein-4B-ONNX-WebGPU",
+      "publishedAt": "2026-10-15T06:13:52+09:00"
     }
   ]
 }
