@@ -72,6 +72,51 @@
       "source": "게임샷",
       "sourceUrl": "https://msmart.gameshot.net/common/con_view.php?code=GA6ad1c96a52af2",
       "publishedAt": "2026-10-16T15:51:22+09:00"
+    },
+    {
+      "id": "N9",
+      "title": "16×16 게임 아이콘 전용 MOSS-Image LoRA 공개",
+      "summary": "[Image] MOSS-Image 기반으로 단일 오브젝트와 짙은 외곽선, 색상 키 제거용 자홍색 배경을 갖춘 16×16 픽셀아트 게임 아이콘을 생성하는 LoRA가 공개됐다. Apache-2.0 라이선스이며 모델 카드에는 투명 배경 스프라이트로 변환하는 예제 코드도 포함됐다. cocy.io에서 쓸모: 웹게임 아이템·UI 아이콘 시안을 빠르게 대량 제작하는 파이프라인에 바로 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Angais/MOSS-Image-PixelArt-16x16",
+      "publishedAt": "2026-10-17T07:02:05+09:00"
+    },
+    {
+      "id": "N10",
+      "title": "MOSS-Image를 4단계로 줄인 고속 생성 어댑터 공개",
+      "summary": "[Image] MOSS-Image-SFT를 CFG 없이 4단계로 생성하도록 증류한 rapid-moss 어댑터가 공개됐다. Apache-2.0 라이선스이며 모델 카드 기준 단일 H100에서 1024² 이미지의 DiT 처리 시간이 교사 모델 16.2초에서 0.81초로 줄었다. cocy.io에서 쓸모: 이미지 에셋 후보를 반복 생성할 때 처리량과 비용을 낮추는 실험 대상으로 가치가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/darask0/rapid-moss",
+      "publishedAt": "2026-10-17T09:26:49+09:00"
+    },
+    {
+      "id": "N11",
+      "title": "1.3B 영상 모델의 온디바이스용 GGUF 양자화판 공개",
+      "summary": "[Video] LingBot-Video Dense 1.3B를 stable-diffusion.cpp에서 실행할 수 있도록 변환한 Q4·Q8 GGUF 체크포인트가 공개됐다. Apache-2.0 라이선스이며 동반 Qwen3-VL 4B와 VAE 파일을 사용해 로컬 텍스트-투-비디오 생성을 구성한다. cocy.io에서 쓸모: 클라우드 API 없이 짧은 게임 홍보 영상과 배경 모션을 만드는 로컬 파이프라인의 경량 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/offgrid-ai/LingBot-Video-Dense-1.3B-GGUF",
+      "publishedAt": "2026-10-15T22:31:13+09:00"
+    },
+    {
+      "id": "N12",
+      "title": "Wan2.2 5B 영상 모델, OpenVINO INT4 변환판 공개",
+      "summary": "[Edge] Wan2.2 TI2V 5B를 OpenVINO용 혼합 INT4·INT8로 압축한 이미지-투-비디오 체크포인트가 공개됐다. Apache-2.0 라이선스이며 704×544 해상도와 21프레임 고정 입력으로 CPU 종단 실행을 검증했다. cocy.io에서 쓸모: 인텔 CPU 중심 환경에서 이미지 에셋을 짧은 영상으로 확장하는 오프라인 배치 파이프라인을 검토할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/xgirls/wan2.2-ti2v-5b-openvino-int4-awq",
+      "publishedAt": "2026-10-16T08:55:42+09:00"
+    },
+    {
+      "id": "N13",
+      "title": "애플 실리콘용 APT-Avatar MLX 패키지 공개",
+      "summary": "[Edge] 정지 인물 이미지와 음성을 말하는 아바타 영상으로 만드는 APT-Avatar의 MLX용 BF16·INT8 패키지가 공개됐다. Apache-2.0 계열 체크포인트를 계승하며 INT8 가중치는 메모리 절감을 목표로 하고, 모델 카드는 32GB 구성을 하드웨어 검증 대상으로 명시한다. cocy.io에서 쓸모: 애플 실리콘에서 캐릭터 안내 영상과 립싱크 NPC 자산을 로컬 제작하는 후보로 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/shraey/aptavatar-mlx",
+      "publishedAt": "2026-10-17T04:13:05+09:00"
     }
   ]
 }

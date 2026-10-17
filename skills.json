@@ -1383,6 +1383,32 @@
         "mobile"
       ],
       "addedAt": "2026-10-16"
+    },
+    {
+      "title": "LLMs Generator",
+      "description": "프로젝트의 llms.txt와 AI 검색·발견용 패키지를 한 번에 생성하는 SKILL.md 기반 도구. 저장소 링크와 설명, 선택한 문서 원문을 표준 구조로 묶어 에이전트가 프로젝트를 더 쉽게 읽게 한다.",
+      "icon": "🗺️",
+      "category": "dev",
+      "url": "https://clawhub.ai/zhaoxinghua09-cell/skills/llms-generator",
+      "tags": [
+        "llms-txt",
+        "ai-discoverability",
+        "documentation"
+      ],
+      "addedAt": "2026-10-17"
+    },
+    {
+      "title": "Skill Admission Gate",
+      "description": "외부 에이전트 스킬을 설치하거나 공개하기 전에 파괴적 명령, 원격 실행, 데이터 유출, 프롬프트 주입과 난독화 흔적을 결정론적으로 검사한다. 파일 해시와 패키지 지문, 등급별 판정을 남겨 스킬 공급망 검수에 쓸 수 있다.",
+      "icon": "🚧",
+      "category": "dev",
+      "url": "https://clawhub.ai/zhaoxinghua09-cell/skills/skill-admission-gate",
+      "tags": [
+        "skill-security",
+        "supply-chain",
+        "static-analysis"
+      ],
+      "addedAt": "2026-10-17"
     }
   ]
 }
