@@ -81,6 +81,51 @@
       "source": "GamesBeat",
       "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXVRSzNpUTZYa25nc0xxTlBPUl9FUWtyOG8waW15eVBTZkljd0s2bHltY1pFN0xvMzRuYWlPdlpYN010ZmNzLVh0akZucHlMWDhHSDhSUXk3OFgwa3VuZ01vV05iLWtFaEpyX3ZjXzFWeHhyQUVRdnppTWplS0VNeFJEOA?oc=5",
       "publishedAt": "2026-10-19T19:06:08Z"
+    },
+    {
+      "id": "10",
+      "title": "오픈모스, Apache-2.0 텍스트-이미지 모델 'MOSS-Image' 공개",
+      "summary": "[Image] 중국 OpenMOSS팀이 5B급 텍스트-이미지 생성모델 MOSS-Image(Base/SFT)를 apache-2.0으로 공개(HF 공개 2026-10-11, 최근 갱신 2026-10-19). cocy.io에서 쓸모: 이미 Enhance 효과음 파이프라인에서 쓰는 MOSS-SoundEffect와 같은 팀 모델이라, 로컬 이미지 생성(현재 FLUX.1-dev/SDXL) 보강 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+      "publishedAt": "2026-10-19T08:31:00Z"
+    },
+    {
+      "id": "11",
+      "title": "라이트릭스, LTX-2.5 공개 — 멀티샷 비디오+오디오 동시생성",
+      "summary": "[Video] Lightricks가 LTX-2.5를 공개(HF 공개 2026-07-23, 최근 갱신 2026-10-11). 여러 샷에 걸쳐 캐릭터·조명·스타일을 유지하는 멀티샷 생성과 비디오-오디오 동시생성을 지원. 라이선스는 연매출 1000만달러 미만 엔티티는 무료 상업이용 가능(LTX-2.x Community License), 이상이면 별도 계약 필요. cocy.io에서 쓸모: 게임 트레일러·쇼츠용 비디오+사운드 동시 생성 후보, 매출 임계값 재확인 전제.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5",
+      "publishedAt": "2026-10-11T07:00:53Z"
+    },
+    {
+      "id": "12",
+      "title": "피시오디오, 멀티스피커 드라마 TTS 'Drama 3' 공개",
+      "summary": "[Audio] Fish Audio가 35B(활성 3B) MoE 기반 멀티스피커 TTS 'Drama 3'를 공개(HF 공개 2026-10-01, 최근 갱신 2026-10-17). 화자 태그로 최대 16명 대화, 감정 태그([sighs] 등), 보이스클로닝 지원. 라이선스는 연매출 50만달러 미만이면 상업이용 무료(Fish Audio Community License), 호스팅형 서비스 제공은 별도 계약 필요. cocy.io에서 쓸모: 고스톱 등 게임 캐릭터 다중 콜보이스 더빙에 참고, 호스팅 조항 주의.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/fishaudio/drama-3",
+      "publishedAt": "2026-10-17T05:06:07Z"
+    },
+    {
+      "id": "13",
+      "title": "스태빌리티AI, Stable Audio 3 ONNX/TFLite 최적화 체크포인트 공개",
+      "summary": "[Edge] Stability AI가 Stable Audio 3의 ONNX/TFLite 최적화 실험 체크포인트를 공개(최근 갱신 2026-10-10), 맥북 M4급 소비자 하드웨어에서 수 초 내 음악/SFX 생성을 목표로 함. 상업이용은 stability.ai/license 기준 연매출 100만달러 미만 무료. cocy.io에서 쓸모: 현재 WSL 로컬 전용인 SFX 파이프라인을 경량 온디바이스/브라우저 추론으로 옮길 때 참고할 체크포인트.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/stabilityai/stable-audio-3-optimized",
+      "publishedAt": "2026-10-10T04:01:21Z"
+    },
+    {
+      "id": "14",
+      "title": "Cactus Compute, 16.9MB 온디바이스 음성인식 모델 'Whistle' 공개(Apache-2.0)",
+      "summary": "[Edge] Cactus Compute가 모바일·웨어러블·MCU까지 GPU 없이 CPU만으로 구동되는 16.9MB 음성인식 모델 Whistle을 apache-2.0으로 공개(HF 공개 2026-09-30, 최근 갱신 2026-10-18). WebAssembly 지원, 단어 타임스탬프·화자 임베딩 제공. cocy.io에서 쓸모: 서버(VibeVoice-ASR) 의존 STT를 브라우저/온디바이스로 옮겨 llm.cocy.io 부하를 줄이는 대안으로 검토.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Cactus-Compute/whistle",
+      "publishedAt": "2026-10-18T16:58:08Z"
     }
   ]
 }
