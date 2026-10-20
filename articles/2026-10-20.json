@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-20",
+  "articles": [
+    {
+      "id": "1",
+      "title": "추미애 '빨대' 발언 사과 뒤 부승찬 \"소방이 재정 쭉쭉 빨아\"",
+      "summary": "추미애 의원의 '재정 빨대' 발언 논란이 사과 이후에도 부승찬 의원의 유사 발언으로 재점화되며 여권 내부 비판이 확산되고 있다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5XUFgzalBOUnNpbF9iZHBRNHh5Qmp5dFlwWUxiSi1wN1puR0hCb3FUb25PeDlwVXRyOFdOTUhoX2V1SGVEQTZtTEp5LThwTXlJOVZ5NW13WnBMd9IBX0FVX3lxTE0xblZGYUdMcF9PVEtqVU9VZ3FqaENhYV8xcUg3NlVmSENmZnE2ZEx2eUN4ZDFFQWFRZGdmX0V1N3o3ZTdSZVhfVEpDc2hCZ1VUbWpkSmRoQVBWOTQySVVN?oc=5",
+      "publishedAt": "2026-10-19T12:58:00Z"
+    },
+    {
+      "id": "2",
+      "title": "트럼프, '11월 김정은 회담' 질문에 \"모르겠다, 요청 확실치 않아\"",
+      "summary": "도널드 트럼프 미국 대통령이 11월 중국에서 김정은 북한 국무위원장과의 회담 가능성에 대해 회담 요청 자체가 불확실하다고 답하며 신중한 입장을 보였다.",
+      "category": "world",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5VQUtjWWl0ZDhCcHcxbWhTZkZEZDluaUpjbkIzTGFYTkZsY1V5dW84Tk5tNHZKSEIteWVrQUg5X05EQXZvVkFQeWtwc29LZGd3VndIbFhIUTFpX28tamhUNkJIVU91UUllVElvajBkYw?oc=5",
+      "publishedAt": "2026-10-19T22:02:00Z"
+    },
+    {
+      "id": "3",
+      "title": "기술주 반등에 나스닥 1%↑···필라델피아 반도체 9거래일만에 상승마감",
+      "summary": "빅테크 실적 기대에 힘입어 나스닥이 1% 넘게 오르고, 필라델피아 반도체지수가 9거래일 만에 상승 마감하며 SK하이닉스 ADR도 강세를 보였다.",
+      "category": "economy",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE93SkhTVWMwalpyc2xBd0g2NGF2QW9ER3A0TmRWZWZmeXI4Sk9GZ1VpZTN1ZEVGVFNQTGJQU0JrMG4xRnpQYWhNZ2Q2LXNpRXlkZGU2RDR6UU9BUdIBX0FVX3lxTE1VRTRCNloxalVCMEtSUXJPWG1wbGE1S1RqMUJPV3pkNjZqbVlsY2JpdmtaamYzOUJDVlBfSURleEw5UFd3U3oxLS1GT3BaSW1RY1NtcDY5Qm55Vl9TdTNj?oc=5",
+      "publishedAt": "2026-10-19T22:23:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Apple Starts Moving Up iPhone Duo Delivery Dates",
+      "summary": "애플이 신제품 '아이폰 듀오'의 배송 일정을 예정보다 앞당기기 시작했다고 MacRumors가 보도했다.",
+      "category": "tech",
+      "source": "MacRumors",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQQ3VJbzAzcEtEM0FmR1VGT1RLWVREVXFrQ2xDaTRiY19oeXFkS3NuS2VWZTB6c0lkN1VfOEdsVzlvS2VKVkdoNHFKUTJGZ1lhWWt3azBURkNWVFRGR3ZWZzdzbGJSZXd3TmMzUnlYNVh5R05XUFVlUTY2VDM1dlpnRUpHdEhfRVdPQ3NtcWlRZw?oc=5",
+      "publishedAt": "2026-10-19T19:31:38Z"
+    },
+    {
+      "id": "5",
+      "title": "Hackers Exploit Plex2Shell Flaws to Install Crypto Miners and Linux Proxy Backdoor",
+      "summary": "공격자들이 미디어 서버 소프트웨어 Plex의 취약점을 악용해 암호화폐 채굴 악성코드와 리눅스 프록시 백도어를 설치하는 공격이 확인됐다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1Ta1JaVmN3TXhUWVgwajQ3MmhSbUNmZXZWNDF4R2FFQ0pTOHo3WWE4VDVBQ01EQzQxRWtIbkVMY3R6VTZHMGNROGtNd2I0bHFTSndyd05xRG5pVDNqNkFES1BDeDZZMXo3YlFCSTFscHZlT3J6V1NXaUdfZzVfR00?oc=5",
+      "publishedAt": "2026-10-19T17:32:00Z"
+    },
+    {
+      "id": "6",
+      "title": "Japan launches historic MMX sample-return mission to Mars' moon Phobos",
+      "summary": "일본이 화성의 위성 포보스에서 토양 샘플을 채취해 지구로 가져오는 MMX 임무를 발사하며 사상 최초의 화성 위성 샘플 귀환 미션에 나섰다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQdWYzRjVLZUxJU3hDdGN3U2Y5MkRjUUhDNF9qX3VRVWJ0aXk4Y1lTcFlSazhKRmVHNEtoaXAtWGpYQnV1SWdrYy1YTk5FZWNBOFRUd1pBeGFmSUI5QTByYWVmTjJjQWJlVkdxMlBESDB4elk4MjFvQmxFMC12YXNTT2NTbmRjbHZTWE5qU3dIU2dxeXY4WTUzeXNLNVZLeUJpaDRieGQzb0cwTU43b3h4N1dPVkJiMFFTUEltV25hM3BmbE5INF9FeA?oc=5",
+      "publishedAt": "2026-10-19T19:53:21Z"
+    },
+    {
+      "id": "7",
+      "title": "Scientists Just Revived Pig Kidneys Frozen for a Year",
+      "summary": "연구진이 1년간 동결 보관했던 돼지 신장을 성공적으로 되살려내며, 향후 장기 이식 보관 방식을 바꿀 수 있는 가능성을 제시했다.",
+      "category": "science",
+      "source": "Gizmodo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQTEVrdzVaS0FzYU4zSEhuVVdGbjJlVC1vT1lodVFuVGc4cXF6akRUalhFQzE1MVg5S1FPaWVvNFBKTnRuRHVkRHF4SUVsc2JxbmRYNjJWNFZQQXNxRHVoZzM1UEdzeXc1cnVhSFZvTHBqcFdRUG1pSjZQLUo1Q0JSemxubjdYc1RDZWtLclE4Uk5tX1ZiVmFNUVFiVGxPV3YyTHNKNll0bDJOZDFfWUpfcDlQQ1FOandObk5sM0ZTZjBpeDBZTHVxWTBqanhVdw?oc=5",
+      "publishedAt": "2026-10-19T11:30:53Z"
+    },
+    {
+      "id": "8",
+      "title": "Korea game giants face Q3 profit slump as costs rise and new hits lag",
+      "summary": "국내 주요 게임사들이 비용 증가와 신작 흥행 부진 속에 3분기 실적 둔화를 겪고 있다고 분석됐다.",
+      "category": "gaming",
+      "source": "Chosunbiz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1lSGRXaWZ4eDZycThvV3ZjbklZUXFYZ0Nyem1YUkk0OUtGdW9CNG5OaUxOQkM0bzN1T1VNMkJoZUtmTmhRbzc3TGk1d19KUjl0VzRjeGwyN1N1MEtsSVVQRWpQR3VLeHIyZlA0X0JFY25FcGswS1BTV2JB0gGOAUFVX3lxTFBVLWNxdUZJaDNkbFdDNURhemFIU2U0bTRfUUpUVVZWWkRjSHlsdk9Dc0J1MmtDY3dhTmFQN3VhODFaNm1idXlGU0JBY3c5YThlOWVjb2JfMzVkRFc0cDQ5VWxEX2UtT1U4YnVHUDNOdllmejVHaE1XZWZBWVZZVHJvd2ItdG9HYjcyNnFqMWc?oc=5",
+      "publishedAt": "2026-10-19T06:27:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Game industry pay has fallen 13% since 2022",
+      "summary": "업계 분석가 아미르 사트바트에 따르면 게임업계 평균 보수가 2022년 이후 13% 하락한 것으로 나타났다.",
+      "category": "gaming",
+      "source": "GamesBeat",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPOXVRSzNpUTZYa25nc0xxTlBPUl9FUWtyOG8waW15eVBTZkljd0s2bHltY1pFN0xvMzRuYWlPdlpYN010ZmNzLVh0akZucHlMWDhHSDhSUXk3OFgwa3VuZ01vV05iLWtFaEpyX3ZjXzFWeHhyQUVRdnppTWplS0VNeFJEOA?oc=5",
+      "publishedAt": "2026-10-19T19:06:08Z"
+    }
+  ]
+}
