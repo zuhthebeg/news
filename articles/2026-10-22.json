@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-22",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'운명의 하루' 앞둔 오세훈…23일 시장직·정치생명 갈림길",
+      "summary": "서울시장 오세훈이 23일 자신의 시장직 거취와 정치적 명운이 갈릴 중대 발표를 앞두고 있다.",
+      "category": "domestic",
+      "source": "뉴스1",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE5Bc1g5NUZ4QWktYWFpTjRPemtoekRVa0RHY3dwNGRxckxTeEpwYnJGY3BoRU9mQ0VhQ1A5NlRLeXQyZXVFYkVJVHRLUlo1aVU?oc=5",
+      "publishedAt": "2026-10-21T20:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "코스피 3.3% 급등한 5,735 마감",
+      "summary": "전날 급락했던 코스피가 반도체주 강세와 AI 투자심리 개선에 힘입어 3.3% 급등해 5,735.66으로 마감했다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB2dDNVVVRrR0l6WmEyaEdHSEY1YzBjMjFwNFUwTU1vNll6QUtJUWFiMG9QUVNIcUNZOTZHY2ZpSFdod21QSDEtSkJUeWF3Ql9yekJOV1gwLVBFOWRzdWMtatIBYEFVX3lxTFB2dDNVVVRrR0l6WmEyaEdHSEY1YzBjMjFwNFUwTU1vNll6QUtJUWFiMG9QUVNIcUNZOTZHY2ZpSFdod21QSDEtSkJUeWF3Ql9yekJOV1gwLVBFOWRzdWMtag?oc=5",
+      "publishedAt": "2026-10-21T06:46:21Z"
+    },
+    {
+      "id": "3",
+      "title": "노년의 자립 돕는다…초고령사회 난제 해결 나선 '한국형 ARPA-H'의 도전",
+      "summary": "초고령사회의 노년 자립 문제를 해결하기 위해 미국 ARPA-H를 본뜬 한국형 연구개발 모델 도입 시도가 확산되고 있다.",
+      "category": "domestic",
+      "source": "헬스경향",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5kQm1Ra2NTdnd3T1NMeVpKY0I5U1E2LVc1UEpETFRyRkFnV1hHSFBIVTF3ak0tMkU5V1gwbVdCN3JHR29iMTl0aUt2bGxVNVVGZjRBSUEwMjdtcmVzcW4ydHdOWWx2VTM0OC1j?oc=5",
+      "publishedAt": "2026-10-21T16:23:46Z"
+    },
+    {
+      "id": "4",
+      "title": "Judge orders Meta to pay $25 billion for violating New Mexico law in the Cambridge Analytica data breach",
+      "summary": "뉴멕시코 법원이 메타에 캠브리지 애널리티카 데이터 유출과 관련해 주법 위반을 이유로 250억 달러 배상 판결을 내렸다.",
+      "category": "tech",
+      "source": "ABC7 Los Angeles",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNbll4UzdvUHI2cndEeThqTjU3TVM0ZHN0VDdad0hCdTFaYjJxeGwtZ2NhbFVRMnZXNGJfaV9yZVRKYjVwcTY5QXRISVFicXdobEVwZTRYeWM4SWluUDhDaWJDbXlQTFhIOWtxdmlSTzhWdFJwSDRXbE4zaEZGcERwNUptSmZPSjJ5WkVmd0hYX1hUa3ZySTF0cVIxTHNYV2J3T0FZd2NwbVFyZ0lVTXU0dHhBN0NNMzJXM3gxMV9Ybw?oc=5",
+      "publishedAt": "2026-10-21T17:33:39Z"
+    },
+    {
+      "id": "5",
+      "title": "OpenCode Security Breach: Distillation Attack Hit Console Users With Linked AI Providers",
+      "summary": "오픈소스 개발자 콘솔 OpenCode에서 연동된 AI 제공업체 계정을 노린 '디스틸레이션 공격'으로 보안 침해가 발생했다.",
+      "category": "tech",
+      "source": "StepSecurity",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5IMDlSVTJTVTQzXzlNNS1zSXFBRm52eFRjcUw1ZWxZcW9NZlhOekM3QUw2WlhYeUttRFlqQWNPeUFPdVBvUENDWmJYT3kySFZnZ2xCZHB3TU5LaWZLeUhSZ1ZDLUJmc3JH?oc=5",
+      "publishedAt": "2026-10-21T17:47:19Z"
+    },
+    {
+      "id": "6",
+      "title": "New Report Identifies Four Moon Sites for Crewed Missions to Explore to Advance Scientific Discovery",
+      "summary": "미국과학공학의학한림원이 향후 유인 달 탐사를 위한 과학적 가치가 높은 4곳의 달 착륙 후보지를 담은 신규 보고서를 발표했다.",
+      "category": "science",
+      "source": "National Academies of Sciences, Engineering, and Medicine",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPRF9TRXV3MVBxbXV5ZFNzcFhReGdBNm9FQnlmMjRPTU5hc2h4cmhKRDM2cXMwOGFIRG12YUdHakxmSjlyYm03eWFUSHd4bG5kMEltZEFXM1FzZ1lId2VTaGdkVWR3RzBpUnRrLXFKYVdyUmlJRHlEUFB2YWRwSzEtWkxzT0hyYW1wUldrbzF3di1GOHFWbk9fcU9yNTl3bmZibXR4S3pEaUkzUVpxMEJMWjRNU1pWZHowVjJlcWNnVlFzNzNlNjltNnBBNWJqTkZiUGFwYmpn?oc=5",
+      "publishedAt": "2026-10-21T15:44:18Z"
+    },
+    {
+      "id": "7",
+      "title": "AstroPath: Astronomy Meets Pathology to Study Cancer Immunotherapy",
+      "summary": "천문학 영상 분석 기법을 병리학에 접목한 'AstroPath' 프로젝트가 암 면역치료 연구의 새로운 분석 도구로 활용되고 있다.",
+      "category": "science",
+      "source": "Simons Foundation",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5HeEF3b3ZUSWMxdEt6LVJXbjhVUnN5SkdteGRobDhlU0FWRzE0YUVhc01Db3RUZE9HekpBdEUtQ3VCSGJwSERja1ZPSTZ0TXpNbE1odDZvVl9tMmt1LTRMYUJVMEgyYzJEZmJHYUVhX2JKN3RZR3c?oc=5",
+      "publishedAt": "2026-10-21T13:29:29Z"
+    },
+    {
+      "id": "8",
+      "title": "RIP BioWare: EA has shut down the legendary RPG developer",
+      "summary": "EA가 전설적인 RPG 개발사 바이오웨어를 폐쇄하고 400명을 감원하며, 차기 매스 이펙트 신작도 함께 취소됐다.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQQzZidnBWYnNWbGJyVWRkdGZ5YkktbXhqVUFWSlFFd2N0NGtueGcwbWM3V2RkVjV4ZGZ1NVBtVkVnVTlDWDVvVVhEdDJHODFwY3FWX1F1dG0zb2habEdubVlzRTQ3ckhnV19iZEg4cnRaQVNMZkFIRDVkcEtPZXZHZ3FWY1ZCb0x4VXljaWpaM1JnSWY0QWg2NjVuMHItdw?oc=5",
+      "publishedAt": "2026-10-21T17:16:53Z"
+    },
+    {
+      "id": "9",
+      "title": "Xbox Insiders Can Now Stream Games by Buying Cloud Playtime Without Game Pass",
+      "summary": "마이크로소프트가 엑스박스 인사이더를 대상으로 게임패스 가입 없이도 클라우드 플레이타임을 구매해 스트리밍할 수 있는 서비스를 시작했다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZnk3WVRzRWF5U2tQcl9wc0dNR3lrQWcyblNudW45ak03UGJYMXVLQkZHNnFoLTY4WFZhN0J2TUNXMm1LMlRrNFlSQU5vLXFqWWhLR3NyU3k1THE4NGloUk1ZRkNfcVQ5QnJVZm5aU2ZqdndMSkhYclQ0Y1NvRjU3MkxtaVNGVWtZTXVZQ2VHd3dFb0pfNFdFVk5yNjI0R2Y2UTd3U1JlNU9TYUtsdVc4c0dZMC13bFlKQkg2Rm1TTV9VaEdMYzI3aUFfLXdnc1Z2SzhrZUhjNzZINDA?oc=5",
+      "publishedAt": "2026-10-21T18:00:27Z"
+    }
+  ]
+}
