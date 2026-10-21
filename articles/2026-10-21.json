@@ -99,6 +99,42 @@
       "source": "Mobidictum",
       "sourceUrl": "https://mobidictum.com/ludo-ai-brings-ai-game-asset-creation-new-cli/",
       "publishedAt": "2026-10-20T09:53:00Z"
+    },
+    {
+      "id": "12",
+      "title": "Kyutai 계열 Gradium, 브라우저 탭에서 도는 31M 초경량 TTS 'phonon-31m-en' 공개",
+      "summary": "[Audio][Edge] Gradium이 Kyutai의 Pocket TTS·Mimi 코덱 기반 초경량 영어 TTS 'phonon-31m-en'을 Apache-2.0으로 공개했다(HF 등록일 2026-10-19, 이번 주 공개). 파라미터 31M·8비트 양자화 가중치 64.5MB로 브라우저 탭·폰·노트북 CPU에서 스트리밍 추론이 가능하다(동일 패밀리 다국어 버전은 CC-BY-NC-4.0이라 영어판만 상업 허용). cocy.io에서 쓸모: 서버 비용 없이 웹페이지 내 로컬 TTS 버튼(산 체크리스트, 고스톱 자막 보조 등)을 클라이언트 단에서 바로 구현할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/gradium/phonon-31m-en",
+      "publishedAt": "2026-10-19T12:02:53.000Z"
+    },
+    {
+      "id": "13",
+      "title": "lodestones, OpenMOSS MOSS-Image 기반 8-step 터보 파인튠 'Kromoss' 공개",
+      "summary": "[Image] Chroma 제작자 lodestones가 OpenMOSS의 MOSS-Image-Base(텍스트 인코더 Qwen3.5-9B, FLUX.2 소형 VAE)를 1024px로 풀파인튠한 'Kromoss'를 Apache-2.0으로 공개했다(HF 등록일 2026-10-19, 이번 주 공개). DMD/DMD2로 증류한 8-step·CFG1 터보 LoRA 2종을 동봉해 50-step 대비 추론을 크게 줄인다. cocy.io에서 쓸모: 로컬 SDXL/FLUX 카드·캐릭터 아트 파이프라인에 8-step 고속 경로를 추가해 초안 생성 반복속도를 높일 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lodestones/Kromoss",
+      "publishedAt": "2026-10-19T01:34:35.000Z"
+    },
+    {
+      "id": "14",
+      "title": "KittenML, 인컨텍스트 보이스클로닝 지원하는 'KittenTTS 2' 공개",
+      "summary": "[Audio] KittenML이 1.7B 스피치 언어모델 'KittenTTS 2'를 공개했다(HF 등록일 2026-09-30, 최근 업데이트). 5~30초 레퍼런스로 목소리를 즉석 클로닝하며 사람 음성 38종+언어별 억양 음성 9종, 총 47개 보이스를 지원한다. 라이선스는 Stellon Labs 커뮤니티 라이선스(연매출·총 펀딩 각 100만 달러 미만이면 상업 사용 무료, 초과 시 별도 계약 필요)로, apache/mit는 아니지만 cocy.io 규모에선 상업 사용이 가능하다. cocy.io에서 쓸모: 고스톱 콜·캐릭터 보이스 더빙에 쓸 보이스클로닝 대체 후보로, 규모 커지면 라이선스 재검토 필요.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KittenML/kitten-tts-2",
+      "publishedAt": "2026-09-30T00:43:12.000Z"
+    },
+    {
+      "id": "15",
+      "title": "Baidu, MIT 라이선스 OCR 모델 'Unlimited-OCR' 10월 업데이트",
+      "summary": "[Tool][Edge] Baidu의 3B OCR 모델 'Unlimited-OCR'(HF 등록일 2026-06-19, MIT 라이선스, 2026-10-14 최근 업데이트, 좋아요 4,844개)가 꾸준히 갱신되며 주목받고 있다. 작은 파라미터로 텍스트·표·레이아웃 인식을 처리한다. cocy.io에서 쓸모: log.cocy.io 재고관리의 사진→텍스트 인식(현재 qwen→haiku 체인) 구간을 로컬 MIT 모델로 대체해 비용·레이턴시를 줄이는 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/baidu/Unlimited-OCR",
+      "publishedAt": "2026-06-19T09:40:33.000Z"
     }
   ]
 }
