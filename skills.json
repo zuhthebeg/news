@@ -1409,6 +1409,32 @@
         "static-analysis"
       ],
       "addedAt": "2026-10-17"
+    },
+    {
+      "title": "AI Video Camera Work",
+      "description": "Veo·Sora·Kling·Runway용 AI 영상 프롬프트를 카메라 용어(무브·샷사이즈·앵글·렌즈)로 구조화해주는 스킬. \"더 역동적으로\" 같은 모호한 지시 대신 100개 카메라 용어 인덱스로 샷리스트를 만들어준다.",
+      "icon": "🎥",
+      "category": "media",
+      "url": "https://clawhub.ai/deepseekoracle/skills/ai-video-camera-work",
+      "tags": [
+        "ai-video",
+        "camera",
+        "prompting"
+      ],
+      "addedAt": "2026-10-21"
+    },
+    {
+      "title": "WebAbility Accessibility",
+      "description": "웹페이지·컴포넌트·HTML을 WCAG 2.2/ADA/Section 508 기준으로 스캔하고 문제를 고쳐주는 MCP 스킬. 호스팅 MCP 서버라 설치·키 없이 바로 접근성 점검·수정 증명까지 가능.",
+      "icon": "♿",
+      "category": "dev",
+      "url": "https://clawhub.ai/snayyar00/skills/webability-accessibility",
+      "tags": [
+        "accessibility",
+        "wcag",
+        "mcp"
+      ],
+      "addedAt": "2026-10-21"
     }
   ]
 }

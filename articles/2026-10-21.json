@@ -72,6 +72,33 @@
       "source": "IGN Southeast Asia",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRlN3NzZFTW54V2syNEM4YjdiNnkwYUg4Ti1TR1JmRHFRT0JYSWY0djZWRUczR0lIWk16by01TEJFa1RCTnJJdnpoNHQtTndzS2dUMmtoOUt5NVplTFF5aWxDU3dlZG9oQ3loRGNqVW1udkpwSHZNMmtqVGRTTG5uMS05Y1E3RDVFWXZScnFYTnNVOHYtemF0NUwzU0JWbGJoVDl2WVhoRkpBek1iNS1qUmljSzBqZXlSbUJ0cFRKSTdwQTlwX01r?oc=5",
       "publishedAt": "2026-10-20T21:30:24Z"
+    },
+    {
+      "id": "9",
+      "title": "앤트그룹 산하 inclusionAI, MIT 라이선스 경량 TTS 'Ming-3.0-tts' 공개",
+      "summary": "[Audio] 앤트그룹 산하 inclusionAI가 0.5B 크기의 다국어 음성합성 모델 'Ming-3.0-tts-0.5B'를 MIT 라이선스로 공개했다(HF 등록일 2026-09-22). 보이스클로닝을 지원하며 한국어 포함 7개 언어(중/영/독/스페인/프랑스/한/일)를 커버한다. cocy.io에서 쓸모: 0.5B급 경량 모델이라 로컬 GPU에서도 더빙·내레이션용 다국어 보이스클로닝을 저비용으로 실험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-3.0-tts-0.5B",
+      "publishedAt": "2026-09-22T12:46:58Z"
+    },
+    {
+      "id": "10",
+      "title": "PrismML, 온디바이스용 Ternary Bonsai 2 패밀리에 2B·4B·9B 모델 추가",
+      "summary": "[Edge] PrismML이 Qwen3.5 기반 3진(ternary) 양자화 모델 Bonsai 2 패밀리를 2B·4B·9B 크기로 확장했다(PR Newswire 2026-10-15, Apache-2.0). 풀프리시전 대비 9배 이상 작은 용량(0.43~2.00GB)으로 비전·툴콜·추론 성능을 90% 이상 유지하며, RTX 4090·M5 Pro·아이폰18 급 기기에서 구동 가능하다. 기존에 다룬 27B GGUF와 달리 더 작은 사이즈로 모바일·웹 배포에 특화된 신규 공개다. cocy.io에서 쓸모: 저사양 기기에서도 돌아가는 로컬 에이전트 백엔드 후보로, 모바일 어드민 자동화 실험에 적합하다.",
+      "category": "ai-tech",
+      "source": "PR Newswire",
+      "sourceUrl": "https://www.prnewswire.com/news-releases/prismml-expands-bonsai-2-family-with-2b-4b-and-9b-models-for-on-device-ai-302910593.html",
+      "publishedAt": "2026-10-15T20:14:00Z"
+    },
+    {
+      "id": "11",
+      "title": "Ludo.ai, 터미널에서 바로 쓰는 게임 에셋 생성 CLI 출시",
+      "summary": "[Tool] 게임 에셋 생성 서비스 Ludo.ai가 브라우저 없이 터미널에서 스프라이트·애니메이션·3D 모델·영상·오디오를 생성하는 Ludo CLI를 출시했다(Mobidictum 2026-10-20). 기존 REST API·MCP 연동에 이어 Claude Code 같은 코딩 에이전트가 직접 명령어로 에셋을 생성해 프로젝트 폴더에 저장할 수 있다. cocy.io에서 쓸모: 로컬 SDXL/FLUX 파이프라인으로 못 돌리는 3D·영상 에셋을 에이전트가 CLI로 바로 요청·배치 생성하는 보조 경로로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Mobidictum",
+      "sourceUrl": "https://mobidictum.com/ludo-ai-brings-ai-game-asset-creation-new-cli/",
+      "publishedAt": "2026-10-20T09:53:00Z"
     }
   ]
 }
