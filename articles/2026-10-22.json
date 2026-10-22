@@ -99,6 +99,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/Ysz2022/UniVOE",
       "publishedAt": "2026-10-21T06:03:25.000Z"
+    },
+    {
+      "id": "12",
+      "title": "OpenMOSS 이미지 생성모델 'MOSS-Image', GGUF·mflux 양자화 확산으로 로컬 구동 문턱 낮춤",
+      "summary": "[Image] OpenMOSS 팀이 10월 11일 공개한 이미지 생성모델 MOSS-Image-Base/SFT(Apache-2.0, HF 좋아요 500+)에 이번 주 unsloth의 GGUF(llama.cpp용, HF 등록 2026-10-22)와 mflux(Apple Silicon용) 양자화, ComfyUI 노드가 잇따라 올라오며 로컬 구동 장벽이 크게 낮아졌다. cocy.io에서 쓸모: 기존 SDXL 로컬 파이프라인 외 대안으로 게임 아트·프로모 이미지 생성 품질/속도 비교 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+      "publishedAt": "2026-10-22T00:04:31.000Z"
+    },
+    {
+      "id": "13",
+      "title": "퀄컴, 스냅드래곤 온디바이스용 영어·한국어·일본어 TTS 음성 공개",
+      "summary": "[Audio][Edge] 퀄컴이 Piper·MeloTTS 기반 엣지 최적화 TTS 음성 PiperTTS-EN-Amy·MeloTTS-KO·MeloTTS-JA를 MIT 라이선스로 공개했다(HF 등록일 2026-10-21). 스냅드래곤 NPU 구동을 염두에 둔 경량 모델이라 서버 호출 없이 온디바이스 음성합성이 가능하다. cocy.io에서 쓸모: 모바일 PWA(로그·레시피 등)에 서버 TTS 없는 오프라인 음성 안내를 넣을 때 검토 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/qualcomm/PiperTTS-EN-Amy",
+      "publishedAt": "2026-10-21T17:40:25.000Z"
+    },
+    {
+      "id": "14",
+      "title": "경량 TTS 'neutts-air', 브라우저 WebGPU 전용 ONNX 변환판 공개",
+      "summary": "[Audio][Edge] Neuphonic의 경량 TTS 모델 neutts-air(Apache-2.0)를 브라우저 WebGPU에서 바로 추론하도록 ONNX로 포팅한 NeuTTS-Air-ONNX-WebGPU가 Apache-2.0으로 공개됐다(HF 등록일 2026-10-21). 같은 작성자가 Orpheus-3B·VoxCPM2 WebGPU 포팅판도 함께 올렸다. cocy.io에서 쓸모: 서버 TTS 없이 브라우저 안에서만 돌아가는 완전 온디바이스 음성 데모(그놈·방카류)에 적용 검토.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/danyalmalik/NeuTTS-Air-ONNX-WebGPU",
+      "publishedAt": "2026-10-21T22:00:47.000Z"
+    },
+    {
+      "id": "15",
+      "title": "리듬게임에 쓰는 작곡모델 HeartMuLa, 3B 오픈소스 버전 신규 공개",
+      "summary": "[Audio] cocy.io 리듬게임 어드민 파이프라인에서 쓰는 작곡 모델 HeartMuLa 계열의 3B 오픈소스 버전 HeartMuLa-oss-3B가 Apache-2.0으로 새로 올라왔다(HF 등록일 2026-10-20). cocy.io에서 쓸모: rhythmproto 등 어드민 자동작곡 체인에서 기존 HeartMuLa 대비 품질·속도 비교 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/loscrossos/HeartMuLa-oss-3B",
+      "publishedAt": "2026-10-20T18:20:40.000Z"
+    },
+    {
+      "id": "16",
+      "title": "48kHz 음성 노이즈 제거 모델 MossFormer2, ONNX 변환판 공개",
+      "summary": "[Audio][Edge] 알리바바의 48kHz 음성 향상(노이즈 제거) 모델 MossFormer2_SE_48K를 ONNX로 변환한 sonroom-mossformer2-se-48k-onnx가 Apache-2.0으로 공개됐다(HF 등록일 2026-10-21). 48kHz 풀밴드를 그대로 지원해 품질 손실 없이 가볍게 돌릴 수 있다. cocy.io에서 쓸모: voicematch에 올라오는 사용자 녹음 전처리(잡음 제거)로 매칭 정확도를 높일 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/incomen/sonroom-mossformer2-se-48k-onnx",
+      "publishedAt": "2026-10-21T20:22:43.000Z"
     }
   ]
 }
