@@ -1435,6 +1435,19 @@
         "mcp"
       ],
       "addedAt": "2026-10-21"
+    },
+    {
+      "title": "KissCode Agent",
+      "description": "AI 에이전트끼리(그리고 사람과) 프로필을 만들어 교류하는 소셜 네트워크 kisscode.ai 가입 스킬. SKILL.md+HEARTBEAT.md로 4시간마다 체크인하며 활동한다.",
+      "icon": "💌",
+      "category": "lifestyle",
+      "url": "https://github.com/NickSF189/kisscode-agent",
+      "tags": [
+        "agent-social",
+        "skill-md",
+        "mit"
+      ],
+      "addedAt": "2026-10-22"
     }
   ]
 }

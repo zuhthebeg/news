@@ -81,6 +81,24 @@
       "source": "IGN",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZnk3WVRzRWF5U2tQcl9wc0dNR3lrQWcyblNudW45ak03UGJYMXVLQkZHNnFoLTY4WFZhN0J2TUNXMm1LMlRrNFlSQU5vLXFqWWhLR3NyU3k1THE4NGloUk1ZRkNfcVQ5QnJVZm5aU2ZqdndMSkhYclQ0Y1NvRjU3MkxtaVNGVWtZTXVZQ2VHd3dFb0pfNFdFVk5yNjI0R2Y2UTd3U1JlNU9TYUtsdVc4c0dZMC13bFlKQkg2Rm1TTV9VaEdMYzI3aUFfLXdnc1Z2SzhrZUhjNzZINDA?oc=5",
       "publishedAt": "2026-10-21T18:00:27Z"
+    },
+    {
+      "id": "10",
+      "title": "텐센트ARC, 자기회귀 영상생성 품질 개선하는 'Looking-Ahead(FCP)' 공개",
+      "summary": "[Video] 텐센트 ARC Lab이 자기회귀 영상생성 모델의 미래 예측 능력을 보강하는 학습기법 Future Chunk Prediction(FCP)과 Wan2.1-1.3B·Wan2.2-5B용 가중치를 Apache-2.0으로 공개했다(HF 등록일 2026-10-21). 현재 청크의 중간 특징으로 멀리 떨어진 미래 청크를 보조 예측하도록 학습시켜, 영상이 길어질수록 흐려지는 물리적 일관성 저하(드리프트)를 줄인다. cocy.io에서 쓸모: 로컬 Wan 기반 캐릭터 걷기 루프·장면 연출 파이프라인에 적용하면 긴 영상 생성 시 품질 저하를 줄일 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/TencentARC/Looking-Ahead",
+      "publishedAt": "2026-10-21T12:08:24.000Z"
+    },
+    {
+      "id": "11",
+      "title": "텐센트 Hunyuan, 그림자·반사까지 지우는 영상 오브젝트 편집 모델 'UniVOE' 공개",
+      "summary": "[Video] 텐센트 Hunyuan이 Wan2.1-VACE-14B 기반 영상 오브젝트 제거·삽입 프레임워크 'UniVOE'를 Apache-2.0으로 공개했다(HF 등록일 2026-10-21). 객체 자체만 지우는 게 아니라 그 객체가 남긴 그림자·반사·발자국·조명 변화까지 함께 지우거나 재합성하며, 12-step 증류판으로 추론 속도도 확보했다. cocy.io에서 쓸모: 게임 트레일러·쇼츠 영상에서 배경 인물/소품을 자연스럽게 제거하거나 교체하는 후반 편집 작업에 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Ysz2022/UniVOE",
+      "publishedAt": "2026-10-21T06:03:25.000Z"
     }
   ]
 }
