@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-25",
+  "articles": [
+    {
+      "id": "1",
+      "title": "오세훈 서울시장, 오늘 2심 선고 생중계…'정치생명' 운명의 갈림길",
+      "summary": "오세훈 서울시장의 공직선거법 위반 2심 선고가 생중계로 진행되며 정치적 명운이 갈릴 것으로 전망된다. 1심 무죄 판결 이후 2심 결과에 정치권의 관심이 집중되고 있다.",
+      "category": "domestic",
+      "source": "JTBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFA2UEd1UzJhS3B3eFBmQkh3ZEZDRXdNMjJGYXBUbHhrdUdyYUtSUnk2dFkxRzZ0b2VCRHZ?oc=5",
+      "publishedAt": "2026-10-24T19:34:03Z"
+    },
+    {
+      "id": "2",
+      "title": "한국 경상흑자, 독일·일본 합계 첫 추월…반도체 수출이 견인",
+      "summary": "한국의 경상수지 흑자가 사상 처음으로 독일과 일본의 흑자를 합친 금액을 넘어섰다. 반도체 수출 호조가 흑자 확대를 이끈 것으로 분석된다.",
+      "category": "economy",
+      "source": "BBS불교방송",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBxcWk2a2hzNlhXdEt0bkNlZUozRmdOUkdhSGJ3WXN6YWpGYnBMUkhLZkMtM2thVkpBd0x?oc=5",
+      "publishedAt": "2026-10-24T21:41:44Z"
+    },
+    {
+      "id": "3",
+      "title": "가둘 곳도 치료할 곳도 없다…사회로 복귀하는 고위험군 논란",
+      "summary": "범죄 고위험군이 수용 시설과 치료 기관 부족 속에 다시 사회로 복귀하는 사례가 늘며 안전 공백 우려가 커지고 있다. 관련 제도 정비가 시급하다는 지적이 나온다.",
+      "category": "domestic",
+      "source": "머니투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBTSjItbXUwOVFBS0Rmam9Oeld1bWFYc3RHMTM3aURqR292LTBYQXVQZ3RaMHV1WUtINUl?oc=5",
+      "publishedAt": "2026-10-24T21:25:00Z"
+    },
+    {
+      "id": "4",
+      "title": "굿스마일컴퍼니, 대형 보안 사고로 공식 온라인 스토어 폐쇄",
+      "summary": "피규어 제작사 굿스마일컴퍼니가 대규모 보안 사고 여파로 공식 온라인 스토어 운영을 중단했다. 이용자 정보 유출 가능성에 대한 우려가 제기되고 있다.",
+      "category": "tech",
+      "source": "Essential Japan",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbk9TblJYWFZQb2FiTnVjdUhzRlM5ZVRQc0FOYTlaVGxLRjBLdjdkbEFUdDdyQkNVZ1B1cURlUHZBWlM5TlJZT0dQdWRRNDJOeVA0dzBwNV9ET1lERlN0ME5uTlFnQnZSUEstMVl5TEd1TWRHMTN3enlFOEx5U0ZYU2kxWWlQX3I5ekpwZlR1eldUMzJweDlQUEpkdERXSjRVLUs4WHQ4bXZVQ0FJOHF0elNfaG5NZw?oc=5",
+      "publishedAt": "2026-10-24T14:22:34Z"
+    },
+    {
+      "id": "5",
+      "title": "메타, 빅테크 '마이너스 현금흐름' 클럽에 합류",
+      "summary": "메타가 대규모 AI 인프라 투자 여파로 자유현금흐름이 마이너스로 전환되며 빅테크 기업들의 '마이너스 캐시플로우' 그룹에 이름을 올렸다. 업계의 과잉 투자 우려가 재확인됐다.",
+      "category": "tech",
+      "source": "Axios",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE82RG5aRFNGOHJIM2ZhOWpZSkx0ODFrRTBQQ01sU0p4bE95MjROdEo4MmRKVVFrYWJBWll?oc=5",
+      "publishedAt": "2026-10-24T05:40:30Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA 베누 소행성 샘플서 45억년 전 비밀 발견",
+      "summary": "NASA가 분석한 소행성 베누(Bennu) 샘플에서 태양계 형성 초기인 45억년 전의 흔적이 확인됐다. 이번 발견은 태양계 초기 화학적 진화 과정을 밝히는 데 중요한 단서가 될 것으로 보인다.",
+      "category": "science",
+      "source": "Science Daily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBwLWlya3JGbVY4b0cxYzZ4UjlxeVpfRGF2dS1LeTB1RU52eWZ5TmFjeWQ2cWJfTUQ1OHZGM3NJSmVPRkJZSWhKeW0xUlJObjEtZUFEU3hRRmVPUU8wUURwMDVZTFBmZnBsVlNPc2o1Yw?oc=5",
+      "publishedAt": "2026-10-24T13:15:40Z"
+    },
+    {
+      "id": "7",
+      "title": "지방 태우고 새 지방세포 생성 막는 '숨은 스위치' 발견",
+      "summary": "연구진이 체내 지방을 태우는 동시에 새로운 지방세포 생성을 억제하는 유전자 스위치를 발견했다. 비만 및 대사질환 치료제 개발에 새로운 가능성을 열어줄 것으로 기대된다.",
+      "category": "science",
+      "source": "Science Daily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE96Ql9QNng2UUR4VlB4ejB5S1B5enh4dVpTVHpzUFVjc3pPWUFkeWFRaG5jLUczOEdqdFZXd1lqMjVkWlBJaG9YcmxkQU5oSnV6VmdHUU42TTFxVUlycGg4UjRtVDdyLUs0VEIyV3JPYw?oc=5",
+      "publishedAt": "2026-10-24T11:18:09Z"
+    },
+    {
+      "id": "8",
+      "title": "엑스박스 초대 COO 헬렌 치앙, 취임 3개월 만에 퇴사",
+      "summary": "마이크로소프트 엑스박스의 초대 최고운영책임자(COO) 헬렌 치앙이 브랜드 '리셋' 승진 발표 이후 단 3개월 만에 자리에서 물러났다. 엑스박스 경영진의 잇따른 이탈이 업계의 주목을 받고 있다.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON1ZUUWlkMnZwVkZMNHhyVVk2UWZVSEd6SU9NYUdHeUFMZENaWFA4alZyU1NBcXNzOGh?oc=5",
+      "publishedAt": "2026-10-24T18:58:24Z"
+    },
+    {
+      "id": "9",
+      "title": "바이오웨어 스튜디오 폐쇄에 업계 거장들 분노 표출",
+      "summary": "EA 산하 바이오웨어 스튜디오 폐쇄 소식에 게임업계 유명 개발자들이 '황금알을 낳는 거위를 죽인다'며 강하게 비판했다. 잇따른 대형 스튜디오 폐쇄로 업계 구조조정 우려가 커지고 있다.",
+      "category": "gaming",
+      "source": "Inven Global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORlRfZWkzd29HS0tYakZlTVRlekJKc1EyeWhUVG0yZk92cjVHX19zZnJJRnFMOVk0Q1B?oc=5",
+      "publishedAt": "2026-10-24T17:24:36Z"
+    }
+  ]
+}
