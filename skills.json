@@ -1448,6 +1448,32 @@
         "mit"
       ],
       "addedAt": "2026-10-22"
+    },
+    {
+      "title": "Blender Skills",
+      "description": "Blender 5.2 모델링·UV·PBR 베이킹·리깅·애니메이션·익스포트를 Claude Code/Codex용 Agent Skill로 묶은 패키지. QA 체크까지 포함된 전문 3D 워크플로우.",
+      "icon": "🧊",
+      "category": "dev",
+      "url": "https://github.com/EL4CTEO/blender-skills",
+      "tags": [
+        "blender",
+        "3d-modeling",
+        "agent-skill"
+      ],
+      "addedAt": "2026-10-24"
+    },
+    {
+      "title": "Awesome Short Drama Skills",
+      "description": "AI 숏폼 드라마·웹툰 제작용 스킬 모음. 극본·각색·스토리보드부터 Seedance/Kling/MiniMax용 영상 프롬프트까지 커버.",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://github.com/UnderleveledBuilder/awesome-short-drama-skills",
+      "tags": [
+        "short-drama",
+        "video-prompt",
+        "agent-skill"
+      ],
+      "addedAt": "2026-10-24"
     }
   ]
 }
