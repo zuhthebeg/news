@@ -90,6 +90,42 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-BF16",
       "publishedAt": "2026-10-05T04:26:43Z"
+    },
+    {
+      "title": "OpenMOSS, 한글/중문 텍스트 렌더링 강화한 이미지 생성 모델 'MOSS-Image-SFT' 공개",
+      "summary": "[Image] OpenMOSS 팀이 2026-10-11(HF 확인) MOSS-Image-Base를 파인튜닝한 MOSS-Image-SFT를 공개했다. 라이선스 apache-2.0(상업 허용, HF 확인). Qwen3.5-9B 텍스트 인코더와 FLUX.2 small VAE를 써서 이미지 안에 들어가는 한글·중문 문구(메모, 간판 등) 렌더링 품질이 특징. cocy.io에서 쓸모: 이미 쓰는 MOSS-SoundEffect와 같은 OpenMOSS 생태계라 파이프라인 재사용이 쉽고, 게임 내 한글 간판·아이템 텍스트가 들어간 아트 생성에 바로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+      "publishedAt": "2026-10-11T07:01:17Z",
+      "id": "11"
+    },
+    {
+      "title": "알리바바 inclusionAI, 0.5B 경량 다국어 TTS 'Ming-3.0-tts-0.5B' MIT 공개",
+      "summary": "[Audio] inclusionAI(알리바바 계열)가 2026-09-22(HF 확인) Qwen2.5-0.5B 백본의 0.5B 경량 TTS Ming-3.0-tts를 공개했다. 라이선스 MIT(상업 허용, HF 확인). 제로샷 보이스클로닝, 한국어 포함 다국어, 샘플레이트 44.1kHz. cocy.io에서 쓸모: 파라미터가 작아 CPU/엣지에서도 구동 가능해 고스톱 같은 콜 보이스나 모바일 게임의 서버 없는 즉석 음성 생성 실험에 적합하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-3.0-tts-0.5B",
+      "publishedAt": "2026-09-22T12:46:58Z",
+      "id": "12"
+    },
+    {
+      "title": "KittenML, 115보이스 클로닝 지원하는 1.7B TTS 'KittenTTS 2' 공개(GGUF 포함)",
+      "summary": "[Audio] KittenML이 2026-09-30(HF 확인) 1.7B 음성클로닝 TTS 'kitten-tts-2'를 공개했다(GGUF 제공, 라이선스 Stellon Labs 커뮤니티 라이선스 — 연 매출·펀딩 각 100만달러 미만이면 상업 사용 무료, HF 확인. cocy.io 규모엔 해당하지만 완전한 OSI 라이선스는 아니라 성장 시 재확인 필요). 115개 보이스(한국어 포함)와 5~30초 레퍼런스 클로닝 지원. cocy.io에서 쓸모: 보이스매치·고스톱처럼 다인 보이스가 필요한 게임의 레퍼런스 클로닝 보이스 후보로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KittenML/kitten-tts-2",
+      "publishedAt": "2026-09-30T00:43:12Z",
+      "id": "13"
+    },
+    {
+      "title": "브라우저에서 바로 돌리는 ACE-Step 1.5 WebGPU 구현체 공개, cocy의 BGM 파이프라인과 직결",
+      "summary": "[Edge][Tool] zeon-net이 2026-10-06(GitHub 확인) ACE-Step 1.5 음악생성 모델의 독립 TypeScript/WebGPU 구현체를 공개했다(MIT 라이선스, GitHub 확인). HF 공식 체크포인트를 변환 없이 브라우저에서 바로 추론해 48kHz 스테레오 음악을 생성하며, 2B 모델은 VRAM 4GB·XL(4B) 모델은 12GB면 구동 가능. cocy.io에서 쓸모: 지금 WSL CUDA 서버에서 돌리는 ACE-Step BGM 파이프라인을 브라우저 클라이언트 추론으로 옮기면 게임이나 page.cocy.io에서 유저가 직접 BGM을 생성하는 기능을 서버 GPU 비용 없이 구현할 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/zeon-net/ACE-Step-1.5-WebGPU",
+      "publishedAt": "2026-10-06T20:23:51Z",
+      "id": "14"
     }
   ]
 }
