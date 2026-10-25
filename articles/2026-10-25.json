@@ -81,6 +81,15 @@
       "source": "Inven Global",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORlRfZWkzd29HS0tYakZlTVRlekJKc1EyeWhUVG0yZk92cjVHX19zZnJJRnFMOVk0Q1B?oc=5",
       "publishedAt": "2026-10-24T17:24:36Z"
+    },
+    {
+      "id": "10",
+      "title": "[Edge] NVIDIA, 로컬 음성·디바이스 어시스턴트용 초경량 LLM 'Nemotron-3.5-Bolt-E4B' 공개",
+      "summary": "[Edge] NVIDIA가 구글 Gemma-4-E4B를 포스트트레이닝한 8B(실질 4B 활성) 파라미터 모델 Nemotron-3.5-Bolt-E4B를 공개했다. 컨텍스트 64K, 음성 어시스턴트·인터랙티브 페르소나·임베디드 인터페이스용으로 저지연·저메모리에 최적화됐고 GGUF 4GB 양자화판도 함께 나왔다. 라이선스는 OpenMDW-1.1로 상업적 사용 허용. cocy.io에서 쓸모: 게임 NPC 대화·판단 로직을 서버 호출 없이 로컬 GPU(RTX 3080 Ti)에서 저지연으로 돌릴 수 있어 Laya 로컬 판단모델 라인에 교체 후보로 검토 가치 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/nvidia/NVIDIA-Nemotron-3.5-Bolt-E4B-BF16",
+      "publishedAt": "2026-10-05T04:26:43Z"
     }
   ]
 }
