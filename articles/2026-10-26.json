@@ -3,48 +3,102 @@
   "articles": [
     {
       "id": "1",
-      "title": "Fish Audio, 다중화자 극 연기 TTS 'Drama 3' 공개",
-      "summary": "[Audio] Fish Audio가 10월 초 공개하고 10월 17일까지 업데이트한 Drama 3는 MoE 구조(총 35B, 토큰당 활성 3B)의 다화자 TTS로, 한 텍스트에 최대 16명 화자 태그를 섞어 성우극처럼 연기 지시(웃음·한숨 등)와 보이스 클로닝을 함께 처리한다. 라이선스는 Fish Audio Community License(HF 확인)로 매출 임계값 이하는 상업적 사용 허용, 그 이상이나 호스티드 서비스는 별도 계약 필요. cocy.io에서 쓸모: 고스톱 콜 음성처럼 멀티 캐릭터 대화형 더빙을 한 번에 생성해볼 만한 모델이라, 멀티플레이 콜 음성 제작 때 비교 대상으로 검토 가치 있음.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/fishaudio/drama-3",
-      "publishedAt": "2026-10-17T05:06:07Z"
+      "title": "오세훈 2심 무죄 생환에 '보수 통합' 주도권 논쟁 시작",
+      "summary": "오세훈 서울시장이 2심에서 무죄를 받으며 정치적 입지를 회복, 오세훈·한동훈·이준석 연대를 두고 보수 진영 내 주도권 다툼이 시작됐다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dWd3bFlGWHRvRllTWFJBeG1DM3paVXg0Z0tWZ1hRNGVxMnA4OGxiUDdIaDBLaG8zc09jZGJ2UE5RSVZpZjljR0ZMSFFqOWtoUmtadHhvUlp6UdIBX0FVX3lxTE9VQWJuYjQxVGVIa285c2dsVzRPYlJLM2l1dFktMHRCWFNILVRYQkJ6Q1dhX3ZKOUdOM3E4VWN5S01PSnlWamRrNGJ6ZllidGRTMjlQcXczYWJFdzFINWpF?oc=5",
+      "publishedAt": "2026-10-26T07:33:00Z"
     },
     {
       "id": "2",
-      "title": "lodestones, OpenMOSS MOSS-Image 파인튜닝한 8스텝 초고속 이미지 생성 'Kromoss' 공개",
-      "summary": "[Image] 개발자 lodestones가 10월 19일 공개하고 10월 24일까지 업데이트한 Kromoss는 OpenMOSS MOSS-Image-Base를 1024px로 풀 파인튜닝한 모델로, DMD/DMD2로 증류한 8스텝 터보 LoRA 2종을 함께 제공해 50스텝 대비 훨씬 빠르게 추론한다. 라이선스는 apache-2.0(HF 확인, 상업적 사용 허용). cocy.io에서 쓸모: 로컬 FLUX 파이프라인과 별도로, ComfyUI에서 바로 쓸 수 있는 8스텝 경량 이미지 생성 옵션이라 게임 아트 러프 스케치나 빠른 반복 작업에 시험해볼 만함.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/lodestones/Kromoss",
-      "publishedAt": "2026-10-19T01:34:35Z"
+      "title": "코스피 7개월 만에 최저, 외국인 매도 폭탄에 5,400선까지 밀려",
+      "summary": "외국인 투자자의 대규모 매도세로 코스피가 1.46% 하락하며 7개월 만에 최저치인 5,400선까지 밀렸고, 코스닥도 3%대 급락했다.",
+      "category": "economy",
+      "source": "KBS뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWGY1dFUyXzVtZkJLOVlna05LM1ZTU0JGM0RIU1NYZjRkRzZrdkFCWGF2LVFxc0lBNHNHUXdKaFY3WkZOMWlOOUZSQWdWckMwNDZoRUFjVDUxb0k?oc=5",
+      "publishedAt": "2026-10-26T04:30:00Z"
     },
     {
       "id": "3",
-      "title": "Supertone, 66M 파라미터 온디바이스 TTS 'Supertonic' — WebGPU로 167배속 재생",
-      "summary": "[Audio][Edge] Supertone이 2025년 11월 공개한 Supertonic은 66M 파라미터의 초경량 온디바이스 TTS로, ONNX Runtime 기반이라 Python/Node/브라우저(WebGPU·WASM)/Java/C++/C#/Go/Swift/Rust/Flutter까지 동일 모델을 포팅할 수 있다. 모델 카드 기준 M4 Pro에서 실시간 대비 최대 167배속, RTX4090에서는 수백 배속까지 나온다. 라이선스는 OpenRAIL(HF 확인, 샘플코드는 MIT), 상업적 사용 허용. cocy.io에서 쓸모: 서버 호출 없이 브라우저에서 바로 돌아가는 TTS라 게임 내 실시간 대사·안내 음성처럼 지연시간이 중요한 기능에 적합한 후보.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/Supertone/supertonic",
-      "publishedAt": "2025-11-18T08:07:35Z"
+      "title": "룰라, 브라질 대선 '대역전' 첫 4선 대통령... 보우소나루 불복 선언",
+      "summary": "룰라 다시우바가 브라질 대선에서 역전승을 거두며 첫 4선 대통령이 됐으나, 상대 보우소나루 측이 투표 결과에 불복을 선언하며 혼란이 이어지고 있다.",
+      "category": "world",
+      "source": "YTN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LaE5aaF9NdmE0bnlydFNXcU11TXd3Wi1QWmlQalpQdV9NZEtidThCeGF5TFJGYXd0eWFGMXU0V3ZybVktN1Z2MXpoWDlJY3FpdmYtUDNZQ0N2WDlBMXNkMXpZRUZ1ZElZNEZZRk1fcw?oc=5",
+      "publishedAt": "2026-10-26T05:49:00Z"
     },
     {
       "id": "4",
-      "title": "Lightricks, 비디오+오디오 동시 생성 모델 'LTX-2.5' 업데이트 — 멀티샷 연출 지원",
-      "summary": "[Video] Lightricks의 LTX-2.5는 10월 11일 기준 최신 업데이트로, 여러 샷에 걸쳐 캐릭터·조명·목소리·스타일을 유지하는 멀티샷 생성과 새 디퓨전 비디오 디코더(선명한 얼굴·텍스처), Gemma 4 12B 텍스트 인코더를 추가했다. 라이선스는 커스텀 상업 라이선스(HF 확인)로 전체 계열사 매출 기준 임계값 이하는 자가 호스팅 상업적 사용 허용. cocy.io에서 쓸모: 기존에 캐릭터 걷기 루프 제작에 쓰던 LTX-2.3의 상위 버전이라[[reference_character_motion_models]], I2V 모션 파이프라인 교체 후보로 바로 비교 테스트 가능.",
-      "category": "ai-tech",
-      "source": "Hugging Face",
-      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5",
-      "publishedAt": "2026-10-11T07:00:53Z"
+      "title": "Apple, 20년 만에 터치스크린 MacBook Pro 공개 예정",
+      "summary": "애플이 오랫동안 거부해온 터치스크린 방식을 받아들여 터치 지원 MacBook Pro를 공개할 예정이라고 블룸버그가 보도했다.",
+      "category": "tech",
+      "source": "Bloomberg",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
+      "publishedAt": "2026-10-26T06:30:21Z"
     },
     {
       "id": "5",
+      "title": "미 육군, 민간 소프트웨어 도입 가속화 '프로젝트 게이트키퍼' 출범",
+      "summary": "미 육군이 상업용 소프트웨어 도입을 가속화하고 보안 인증 절차를 간소화하기 위한 '프로젝트 게이트키퍼'를 출범시켰다.",
+      "category": "tech",
+      "source": "Army.mil",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVjhSTVZ5MnEwZGNTSXhZLVBMQ1hLYnVvaGRoOFpZT0Y4c3dKQkQ0NHZjaWxJQXBod056NWZCWjdIMUpGTXJzdmJpZ0N2bDJwTGlGRFJJMFF6YkhpLXpfX2hNbUZJUWxzZmt6VWNqcjFzc1RtVVBXWDdsdXdqbkRwN01RQjlLdERtNUhfVElSMHJMb0hQZXBtSHRUenRDdkhnaTVsbk5WcE1ZdTQ1djI2cEg1UklQRnUzeklzTWE0WGpkMVpXZWxBN3YtaWpOaWtBd29XUjJLTG0zWm5TNzd5Si1MWURtV3JK0gHuAUFVX3lxTFB2TUdHWkcyT2tPb3ZhNl9KXzBzZlBlYkQ3V2wxVHVybEkyT1h4ODFlQU9IMHJIRUVZYVRleEM1YTRIZlVlVFpxNThTV3QyMUZHZEtaSGNuMGNwNkxFb3h1T3lFM3VWajNOYXRQd3F2R09nNUhIQ05Kb19tSHhYT1BlU3JPcjBwZEtteFUwbklSdTdkOGVoSUdBTW56empMLW9vWE5kazVQTU5tYXJ4OXFQLWNkMk5maWdjaFZhc3V2RHlBTmduRnhwNU95Ry1Yd3J5R0cteDM3azNyNUttcHp3NnNGQmRHUktHdk1Ia0E?oc=5",
+      "publishedAt": "2026-10-26T04:21:58Z"
+    },
+    {
+      "id": "6",
+      "title": "슈퍼컴퓨터 시뮬레이션 'Lumina', 우주 초기 2억년 역사 재현",
+      "summary": "제임스웹 망원경의 관측 결과를 검증하기 위해 만들어진 초대형 시뮬레이션 'Lumina'가 우주 탄생 초기 2억년의 '우주 거미줄' 형성 과정을 재현했다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpUUowMlpqa2FzclVmZllQRkJESTRaTkg0NlBtUzF0b0NxcUhGX0M3OVV3ZW5hcTM1bDlpdk1SZVgwNWkyWUJndk1pZkt2akszcEx2Uk9JYlZuRzB1cWFNajlxT1JYZFJkN0xuNXltU3loWlVDdFRWU1QxWGc?oc=5",
+      "publishedAt": "2026-10-26T00:10:01Z"
+    },
+    {
+      "id": "7",
+      "title": "하와이대 학생들, NASA 화성 연구에 기여하는 성과 도출",
+      "summary": "하와이대(힐로) 학생들이 전통 지식을 접목한 연구로 NASA의 화성 탐사 프로젝트에 기여할 성과를 냈다.",
+      "category": "science",
+      "source": "University of Hawaii System",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qblFrRzFKVktSZFNKTzJrZVpwMWU3UDJpUVhOa3N3YVFUV2tRV3MyNFkzSzNrLUdCc25BVWljZE5PRkRoMFRjMENjQ0thMnNOeUdZY2tXbXNUTm54MHc?oc=5",
+      "publishedAt": "2026-10-26T04:59:27Z"
+    },
+    {
+      "id": "8",
+      "title": "'크림슨 데저트'부터 'AION 2'까지, 2026 대한민국 게임대상 후보 발표",
+      "summary": "2026 대한민국 게임대상 후보작이 발표되면서 '크림슨 데저트', 'AION 2' 등 국내 대형 신작들이 경쟁을 벌이게 됐다.",
+      "category": "gaming",
+      "source": "Inven Global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUNCc3NwQTVKbUhOUmZnNjhPaExwN2tRa0NYTkhlcGc2YjluQldDSl9CcmxNWjlVQjV6eWFUblZiVnRWNFFLNk0tMHdIaTVwUGI0ZTNWV0hUSWhHcEwwYzJEYTNoRTd3RE9lSFctZFF0aDZSM2M3dF8zZjlMZ2UwMmJRQjJTaTJVWUljQTV5U1FKWDdhSXctTXYwTEVzWEk0RVNMN1otVjJmREpJOGtqbXFUMA?oc=5",
+      "publishedAt": "2026-10-26T07:19:08Z"
+    },
+    {
+      "id": "9",
+      "title": "에픽게임즈 CEO, 스팀의 AI 공개 정책 비판 \"정치적 에세이 의무화와 같다\"",
+      "summary": "에픽게임즈 팀 스위니 CEO가 스팀(밸브)이 게임에 AI 사용 여부를 의무적으로 공개하도록 한 정책이 지나치게 편향적이라고 비판했다.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObmt4X3FVeEZWSk5DeGljOG9pbUFxb2pFc2RjLWE4Nm9DdFFKbUplVTMtcXUxbEZ2QmdrdnJuVGF5ZUl5Mllsc3hvMW1YYnE4Zm5scDVuZExvUEdReXFwdHJYY3RNSVJqcnNPcFJvTURmZXNnVkR4UVA5MEM0QmgzYUFQUlBDVVRsdUlQOENQMUMzU1RzSE5xTFpqQ3d5eGtKMVJCVHFFeWRqd3VmZndHOGhkWGJpS2ZHVjhFMkRDZXF0eFRpOWY3VjdPbUtyMkJBRUlPMzJWa1M3ZGdCSUJRS2RpNExIX0VPSGExTUota0lVR2RhdTNZWlhVdktnTVFrN2c?oc=5",
+      "publishedAt": "2026-10-26T03:18:17Z"
+    },
+    {
+      "id": "10",
+      "title": "커뮤니티 제작자, 퀄컴 스냅드래곤 NPU에서 통째로 도는 영상생성 'Wan2.2-TI2V-5B-hexpack' 공개",
+      "summary": "[Edge] 커뮤니티 제작자 Pexqman이 Alibaba Wan2.2-TI2V-5B 영상생성 모델을 퀄컴 스냅드래곤 Hexagon NPU(QNN)에서 그대로 구동하도록 GGUF+hexpack 포맷으로 양자화한 'Wan2.2-TI2V-5B-hexpack'을 Apache-2.0으로 공개했다(HF 등록일 2026-10-24). 텍스트/이미지→비디오 생성을 서버 호출 없이 온디바이스 NPU에서 실행하도록 VAE 인코더/디코더까지 패키징했다. cocy.io에서 쓸모: 모바일 기기에서 서버 비용 없이 짧은 영상 에셋을 즉석 생성하는 실험(쇼츠·게임 트레일러 프리뷰)의 아키텍처 참고 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Pexqman/Wan2.2-TI2V-5B-hexpack",
+      "publishedAt": "2026-10-24T20:28:17.000Z"
+    },
+    {
+      "id": "11",
       "title": "datalab, CPU에서 44페이지/초 처리하는 100만 파라미터 OCR 모델 'Indra OCR' 공개",
-      "summary": "[Tool][Edge] datalab이 10월 10일 공개한 Indra OCR은 단 1M 파라미터로 CPU에서만 돌아가는 문서 OCR 모델로, PDF·이미지를 마크다운/JSON으로 변환하며 한국어 포함 80개 이상 언어와 손글씨, 기울어진 스캔본까지 처리한다. 32코어 CPU에서 44페이지/초로 Tesseract보다 15배, PaddleOCR PP-OCR보다 10배 빠르다고 모델 카드에 명시. 라이선스는 OpenRAIL(HF 확인, 상업적 사용 허용). cocy.io에서 쓸모: log.cocy.io 재고 등록이나 ocr-translate 확장에서 쓰는 비전 모델 OCR 단계를 GPU 없이 훨씬 가볍게 대체할 수 있는 후보.",
+      "summary": "[Tool][Edge] datalab이 공개한 Indra OCR은 단 1M 파라미터로 CPU에서만 돌아가는 문서 OCR 모델로, PDF·이미지를 마크다운/JSON으로 변환하며 한국어 포함 80개 이상 언어와 손글씨, 기울어진 스캔본까지 처리한다(HF 최근 업데이트 2026-10-19, OpenRAIL, 좋아요 420+). 32코어 CPU에서 44페이지/초로 Tesseract보다 15배, PaddleOCR PP-OCR보다 10배 빠르다고 모델 카드에 명시. cocy.io에서 쓸모: log.cocy.io 재고 등록이나 ocr-translate 확장에서 쓰는 비전 모델 OCR 단계를 GPU 없이 훨씬 가볍게 대체할 수 있는 후보.",
       "category": "ai-tech",
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/datalab-to/indra-ocr",
-      "publishedAt": "2026-10-19T14:36:52Z"
+      "publishedAt": "2026-10-19T14:36:52.000Z"
     }
   ]
 }
