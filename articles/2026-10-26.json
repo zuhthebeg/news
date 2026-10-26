@@ -3,84 +3,12 @@
   "articles": [
     {
       "id": "1",
-      "title": "오세훈 2심 무죄 생환에 '보수 통합' 주도권 논쟁 시작",
-      "summary": "오세훈 서울시장이 2심에서 무죄를 받으며 정치적 입지를 회복, 오세훈·한동훈·이준석 연대를 두고 보수 진영 내 주도권 다툼이 시작됐다.",
-      "category": "domestic",
-      "source": "경향신문",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE13dWd3bFlGWHRvRllTWFJBeG1DM3paVXg0Z0tWZ1hRNGVxMnA4OGxiUDdIaDBLaG8zc09jZGJ2UE5RSVZpZjljR0ZMSFFqOWtoUmtadHhvUlp6UdIBX0FVX3lxTE9VQWJuYjQxVGVIa285c2dsVzRPYlJLM2l1dFktMHRCWFNILVRYQkJ6Q1dhX3ZKOUdOM3E4VWN5S01PSnlWamRrNGJ6ZllidGRTMjlQcXczYWJFdzFINWpF?oc=5",
-      "publishedAt": "2026-10-26T07:33:00Z"
-    },
-    {
-      "id": "2",
-      "title": "코스피 7개월 만에 최저, 외국인 매도 폭탄에 5,400선까지 밀려",
-      "summary": "외국인 투자자의 대규모 매도세로 코스피가 1.46% 하락하며 7개월 만에 최저치인 5,400선까지 밀렸고, 코스닥도 3%대 급락했다.",
-      "category": "economy",
-      "source": "KBS뉴스",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1tWGY1dFUyXzVtZkJLOVlna05LM1ZTU0JGM0RIU1NYZjRkRzZrdkFCWGF2LVFxc0lBNHNHUXdKaFY3WkZOMWlOOUZSQWdWckMwNDZoRUFjVDUxb0k?oc=5",
-      "publishedAt": "2026-10-26T04:30:00Z"
-    },
-    {
-      "id": "3",
-      "title": "룰라, 브라질 대선 '대역전' 첫 4선 대통령... 보우소나루 불복 선언",
-      "summary": "룰라 다시우바가 브라질 대선에서 역전승을 거두며 첫 4선 대통령이 됐으나, 상대 보우소나루 측이 투표 결과에 불복을 선언하며 혼란이 이어지고 있다.",
-      "category": "world",
-      "source": "YTN",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9LaE5aaF9NdmE0bnlydFNXcU11TXd3Wi1QWmlQalpQdV9NZEtidThCeGF5TFJGYXd0eWFGMXU0V3ZybVktN1Z2MXpoWDlJY3FpdmYtUDNZQ0N2WDlBMXNkMXpZRUZ1ZElZNEZZRk1fcw?oc=5",
-      "publishedAt": "2026-10-26T05:49:00Z"
-    },
-    {
-      "id": "4",
-      "title": "Apple, 20년 만에 터치스크린 MacBook Pro 공개 예정",
-      "summary": "애플이 오랫동안 거부해온 터치스크린 방식을 받아들여 터치 지원 MacBook Pro를 공개할 예정이라고 블룸버그가 보도했다.",
-      "category": "tech",
-      "source": "Bloomberg",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQU050VmdaXzZvZzVfNXRjQXo2SnVzYVRPOHppZ3QxcmN5ejItUy10Mm50Z1VkdGVSUlNKaXJRVnBUbmdmdEs2T1Z2UXhzRmNQYTZzdVFmeVdXcmt5VmRvOFA5dHRCX2RDajBlZFF1ZlZnWE03Qk1ZWUpNUndjTHNEWnpXOEpuV080OXFXTTN1UldKU3N2YjdfNzlCbENQWkNmWVJPbEJ6eHVQRU85MzJBNGMzS2VyakJGanJIZTMzUTlNUnpicXJKbDJR?oc=5",
-      "publishedAt": "2026-10-26T06:30:21Z"
-    },
-    {
-      "id": "5",
-      "title": "미 육군, 민간 소프트웨어 도입 가속화 '프로젝트 게이트키퍼' 출범",
-      "summary": "미 육군이 상업용 소프트웨어 도입을 가속화하고 보안 인증 절차를 간소화하기 위한 '프로젝트 게이트키퍼'를 출범시켰다.",
-      "category": "tech",
-      "source": "Army.mil",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOVjhSTVZ5MnEwZGNTSXhZLVBMQ1hLYnVvaGRoOFpZT0Y4c3dKQkQ0NHZjaWxJQXBod056NWZCWjdIMUpGTXJzdmJpZ0N2bDJwTGlGRFJJMFF6YkhpLXpfX2hNbUZJUWxzZmt6VWNqcjFzc1RtVVBXWDdsdXdqbkRwN01RQjlLdERtNUhfVElSMHJMb0hQZXBtSHRUenRDdkhnaTVsbk5WcE1ZdTQ1djI2cEg1UklQRnUzeklzTWE0WGpkMVpXZWxBN3YtaWpOaWtBd29XUjJLTG0zWm5TNzd5Si1MWURtV3JK0gHuAUFVX3lxTFB2TUdHWkcyT2tPb3ZhNl9KXzBzZlBlYkQ3V2wxVHVybEkyT1h4ODFlQU9IMHJIRUVZYVRleEM1YTRIZlVlVFpxNThTV3QyMUZHZEtaSGNuMGNwNkxFb3h1T3lFM3VWajNOYXRQd3F2R09nNUhIQ05Kb19tSHhYT1BlU3JPcjBwZEtteFUwbklSdTdkOGVoSUdBTW56empMLW9vWE5kazVQTU5tYXJ4OXFQLWNkMk5maWdjaFZhc3V2RHlBTmduRnhwNU95Ry1Yd3J5R0cteDM3azNyNUttcHp3NnNGQmRHUktHdk1Ia0E?oc=5",
-      "publishedAt": "2026-10-26T04:21:58Z"
-    },
-    {
-      "id": "6",
-      "title": "슈퍼컴퓨터 시뮬레이션 'Lumina', 우주 초기 2억년 역사 재현",
-      "summary": "제임스웹 망원경의 관측 결과를 검증하기 위해 만들어진 초대형 시뮬레이션 'Lumina'가 우주 탄생 초기 2억년의 '우주 거미줄' 형성 과정을 재현했다.",
-      "category": "science",
-      "source": "Phys.org",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBpUUowMlpqa2FzclVmZllQRkJESTRaTkg0NlBtUzF0b0NxcUhGX0M3OVV3ZW5hcTM1bDlpdk1SZVgwNWkyWUJndk1pZkt2akszcEx2Uk9JYlZuRzB1cWFNajlxT1JYZFJkN0xuNXltU3loWlVDdFRWU1QxWGc?oc=5",
-      "publishedAt": "2026-10-26T00:10:01Z"
-    },
-    {
-      "id": "7",
-      "title": "하와이대 학생들, NASA 화성 연구에 기여하는 성과 도출",
-      "summary": "하와이대(힐로) 학생들이 전통 지식을 접목한 연구로 NASA의 화성 탐사 프로젝트에 기여할 성과를 냈다.",
-      "category": "science",
-      "source": "University of Hawaii System",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5qblFrRzFKVktSZFNKTzJrZVpwMWU3UDJpUVhOa3N3YVFUV2tRV3MyNFkzSzNrLUdCc25BVWljZE5PRkRoMFRjMENjQ0thMnNOeUdZY2tXbXNUTm54MHc?oc=5",
-      "publishedAt": "2026-10-26T04:59:27Z"
-    },
-    {
-      "id": "8",
-      "title": "'크림슨 데저트'부터 'AION 2'까지, 2026 대한민국 게임대상 후보 발표",
-      "summary": "2026 대한민국 게임대상 후보작이 발표되면서 '크림슨 데저트', 'AION 2' 등 국내 대형 신작들이 경쟁을 벌이게 됐다.",
-      "category": "gaming",
-      "source": "Inven Global",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxORUNCc3NwQTVKbUhOUmZnNjhPaExwN2tRa0NYTkhlcGc2YjluQldDSl9CcmxNWjlVQjV6eWFUblZiVnRWNFFLNk0tMHdIaTVwUGI0ZTNWV0hUSWhHcEwwYzJEYTNoRTd3RE9lSFctZFF0aDZSM2M3dF8zZjlMZ2UwMmJRQjJTaTJVWUljQTV5U1FKWDdhSXctTXYwTEVzWEk0RVNMN1otVjJmREpJOGtqbXFUMA?oc=5",
-      "publishedAt": "2026-10-26T07:19:08Z"
-    },
-    {
-      "id": "9",
-      "title": "에픽게임즈 CEO, 스팀의 AI 공개 정책 비판 \"정치적 에세이 의무화와 같다\"",
-      "summary": "에픽게임즈 팀 스위니 CEO가 스팀(밸브)이 게임에 AI 사용 여부를 의무적으로 공개하도록 한 정책이 지나치게 편향적이라고 비판했다.",
-      "category": "gaming",
-      "source": "PC Gamer",
-      "sourceUrl": "https://news.google.com/rss/articles/CBMiggJBVV95cUxObmt4X3FVeEZWSk5DeGljOG9pbUFxb2pFc2RjLWE4Nm9DdFFKbUplVTMtcXUxbEZ2QmdrdnJuVGF5ZUl5Mllsc3hvMW1YYnE4Zm5scDVuZExvUEdReXFwdHJYY3RNSVJqcnNPcFJvTURmZXNnVkR4UVA5MEM0QmgzYUFQUlBDVVRsdUlQOENQMUMzU1RzSE5xTFpqQ3d5eGtKMVJCVHFFeWRqd3VmZndHOGhkWGJpS2ZHVjhFMkRDZXF0eFRpOWY3VjdPbUtyMkJBRUlPMzJWa1M3ZGdCSUJRS2RpNExIX0VPSGExTUota0lVR2RhdTNZWlhVdktnTVFrN2c?oc=5",
-      "publishedAt": "2026-10-26T03:18:17Z"
+      "title": "커뮤니티 제작자, 퀄컴 스냅드래곤 NPU에서 통째로 도는 영상생성 'Wan2.2-TI2V-5B-hexpack' 공개",
+      "summary": "[Edge] 커뮤니티 제작자 Pexqman이 Alibaba Wan2.2-TI2V-5B 영상생성 모델을 퀄컴 스냅드래곤 Hexagon NPU(QNN)에서 그대로 구동하도록 GGUF+hexpack 포맷으로 양자화한 'Wan2.2-TI2V-5B-hexpack'을 Apache-2.0으로 공개했다(HF 등록일 2026-10-24). 텍스트/이미지→비디오 생성을 서버 호출 없이 온디바이스 NPU에서 실행하도록 VAE 인코더/디코더까지 패키징했다. cocy.io에서 쓸모: 모바일 기기에서 서버 비용 없이 짧은 영상 에셋을 즉석 생성하는 실험(쇼츠·게임 트레일러 프리뷰)의 아키텍처 참고 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Pexqman/Wan2.2-TI2V-5B-hexpack",
+      "publishedAt": "2026-10-24T20:28:17.000Z"
     }
   ]
 }
