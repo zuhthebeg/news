@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-27",
+  "articles": [
+    {
+      "id": "1",
+      "title": "3분기 한국경제 1% '깜짝 성장'…연간 3% 달성 유력",
+      "summary": "한국 3분기 GDP가 전기 대비 1% 성장하며 시장 예상을 상회했다. 반도체 업황 호조가 성장을 이끌었고, 연간 3% 성장 달성이 유력해졌다는 전망이 나온다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBFRy1BekFhT3FaTTNKekxaTVpCRmdqejktUEpDaVRsVjlEbTZrYUhlaFh1YTBOWWE3VU9kSF9pcmM0SVk1VG9STnM2T21aVVVnei1MOVRoX24xQQ?oc=5",
+      "publishedAt": "2026-10-26T23:38:16Z"
+    },
+    {
+      "id": "2",
+      "title": "강신철 \"북한과 전쟁 났을 때 미군 믿을 수 있나… 그렇지 않은 것\"",
+      "summary": "국회 국방위 질의에서 전시작전통제권(전작권) 전환 시 주한미군의 역할에 의문을 제기하는 발언이 나와 논란이 됐다. 전작권 전환 시기와 방식을 둘러싼 여야 공방도 이어졌다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWWIzYmtKNkxOb01zOERZQ1B1dUxFZ096MVJPR2VMT3JpSjR4dVRDdnExUWJseDY2TV9pT3FLblRhZmJlOEw2Sld0RVFpd0J1SXp0dV9qVDlYOVhGY2w5UVhvcHhpRUFabkVJRFVLekxjNFJGMHhFMUJkcHU3VjJTLWlTaWRqQVZRekR0NndDSXNmZw?oc=5",
+      "publishedAt": "2026-10-26T15:48:00Z"
+    },
+    {
+      "id": "3",
+      "title": "\"쓰레기 같은 나라\"…'노벨상 뒤끝' 트럼프, 노르웨이에 막말",
+      "summary": "도널드 트럼프 미국 대통령이 노벨평화상 수상에서 배제된 데 불만을 표하며 노르웨이를 향해 거친 언사를 쏟아냈다. 노벨위원회의 선정 과정을 둘러싼 갈등이 재점화됐다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9OWlJtUG96VXB4dnZ2WTFROTl4Z3Q5QnNxTnZYV21RODNUOGRmZlh4S3pTUzk4clFydzdGYzRwOHIycUNBYW5oamZLSHhXd3UzVmZsaUpHNExkS1XSAWBBVV95cUxQbUFLTnlyUWFlU3g3OVk5aVhJQlBXb3pnXzBJUzJJdktSNnE0MjRYZ25jczNZRVZDeHExWkRFRUZDTDNFVmNtOWJJbkI5MzVkaWV6YUFfeFJRWEJJdW5NOUI?oc=5",
+      "publishedAt": "2026-10-26T17:35:56Z"
+    },
+    {
+      "id": "4",
+      "title": "애플 폴더블 '아이폰 듀오', 출시 직후 액정 균열 논란",
+      "summary": "애플이 처음 출시한 폴더블 스마트폰 아이폰 듀오에서 구매자들이 화면 중앙 균열 문제를 잇따라 제기하고 있다. 애플이 공식 대응에 나섰지만 초기 품질 논란이 커지는 모양새다.",
+      "category": "tech",
+      "source": "404 Media",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBmR2hCNWpSOTZhWnNVZEFYLUlPVWhxNUpQTjU1TG1fSW9JZTFXVk44VnJMLUdfZXdHdDRIbHRjR01iVmN2ME1kVVM2X0hIZzFuSEQxTGUzX0JuNXNUWDdaU043SEtIYXRLYnhuaFB3NzI0Z3Bv?oc=5",
+      "publishedAt": "2026-10-26T16:14:26Z"
+    },
+    {
+      "id": "5",
+      "title": "인스타그램, 최장 90분 영상 테스트…유튜브와 달리 광고 수익 공유는 안 해",
+      "summary": "인스타그램이 최대 90분 길이의 긴 영상 업로드를 테스트하고 있다. 다만 유튜브처럼 크리에이터에게 광고 수익을 나누지는 않아, 플랫폼 간 창작자 유치 경쟁 구도가 주목받고 있다.",
+      "category": "tech",
+      "source": "Variety",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNMTVFWE1JZjdKejRudHJBYWhfN3dvbWNfUGdVeUxWa0ppSThueG4yTTR3Nm1taEphVUxOY3pUbHFHZFBVT1dzUEJyYUxNemRQbGtUMTdZYjNtMXYxdjZRYWdEakFFT3NtYWdpZGlNZXhOeXpOVDlhRk94YWo0NGwxOEN2dUFHa2lsVDBWMzJNYTh4TVdoaHMxdDRGRGpZQnl0WTlCcjd0dE9CQQ?oc=5",
+      "publishedAt": "2026-10-26T17:57:00Z"
+    },
+    {
+      "id": "6",
+      "title": "\"더 자주, 더 많이\"…NASA, 과학 임무 선정 방식 전면 개편",
+      "summary": "NASA가 과학 미션을 선정하는 절차를 개편해 더 빈번하고 저비용인 임무를 늘리는 쪽으로 방향을 틀었다. 대형 프로젝트 중심 구조의 한계를 보완하려는 조치로 풀이된다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxORGhVX21FMk9JbXlGRXk3MGV2YnZ3NDE2WUNFSkRuczd3U2xoZjl1cmVhelVzU3k0NS1FU3hGLW5EVThFWUN0UndvdlpSZXZVaTlPQkRTX19fZ3NaZ2hFYWtFcTNXVWJ5VWtzd3hlN1JDdDlrMWRLdDktTmRhSkpmbnNsMy0wQ0x3ZDlWWW1sMnJZMTZMVVBKMXVNQjU0ellVZHd6UGFicUt6a0NfWG1vNXk1UW1JYmc?oc=5",
+      "publishedAt": "2026-10-26T10:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "뉴트리노는 어디에나 있다…물리학자가 설명하는 유령 입자",
+      "summary": "우주 어디에나 존재하지만 거의 상호작용하지 않는 입자인 뉴트리노의 특성을 물리학자가 풀어 설명했다. 태양과 원자로는 물론 매초 인체를 통과하는 뉴트리노의 수까지 소개됐다.",
+      "category": "science",
+      "source": "The New York Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNZTFYVFFraVlnX25sV3dTWTJHUmZ1dWRqSnNhRm11Q2dZOW1rcnlGMUVESHdFX3JyUm9sT05wblEyaWVJdENZZC1NREtscVpxSVhJNVlsUDJOTS1TUVhTUDZrazl1eHhYZDlSZFMwMm5YME9jSU1XQlA2azNzU2I1M2ZHckZaTUU?oc=5",
+      "publishedAt": "2026-10-26T09:02:16Z"
+    },
+    {
+      "id": "8",
+      "title": "GTA6 출시가 바꾸는 게임 유통·마케팅 플레이북",
+      "summary": "'GTA6' 출시를 앞두고 게임 업계의 유통 전략과 마케팅 방식이 크게 달라지고 있다는 분석이 나왔다. 초대형 타이틀 하나가 소매·플랫폼 전반의 룰을 재편하는 양상이다.",
+      "category": "gaming",
+      "source": "GamesBeat",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQX1FNbk01YTM4d3o4eFhLX3JVME1JZUp4STBhclBUblBoRWlSUDB1NWZUcEpGVFFKWENHd2hMSm44ZGg5WE55WGNwYW1oLUV0SjBXMTEyckdJM1huR01WY2s3b2hwVnV4YXVrWTFNSFFwX1RCVXlzZHRNbVlZZ1pobXVybHRDSy1GdGk2MTlsZmR3ZjNRbXJrb0RtTEw1b2xOZnI0eGlnOEN1UQ?oc=5",
+      "publishedAt": "2026-10-26T12:00:49Z"
+    },
+    {
+      "id": "9",
+      "title": "EA 산하 바이오웨어 폐쇄, 게임업계에 충격",
+      "summary": "EA가 '매스 이펙트' 시리즈로 알려진 스튜디오 바이오웨어의 문을 닫기로 하면서 게임 업계 전반에 충격을 안겼다. 개발자와 팬들 사이에서 시리즈 존속을 요구하는 목소리도 커지고 있다.",
+      "category": "gaming",
+      "source": "CBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZC1KRnhWOTN0cWpPckpSaG5CQWhBSE1lZzlGN3Bwc1BQZjFpUURNd2p2dVpyMUQxU2pBV0FkX1hadzIzRHpfcV9lNTZrMWpIN2JaM3ZwaFJfdw?oc=5",
+      "publishedAt": "2026-10-26T10:19:14Z"
+    }
+  ]
+}
