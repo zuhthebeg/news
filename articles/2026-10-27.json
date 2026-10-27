@@ -99,6 +99,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/hi3d-official/Hi3Dv1.0",
       "publishedAt": "2026-10-16T07:51:15Z"
+    },
+    {
+      "id": "12",
+      "title": "Ming-3.0-tts-0.5B, 한국어 포함 7개 언어 지원 0.5B 경량 TTS 공개",
+      "summary": "[Audio] 앤트그룹 inclusionAI가 Qwen2.5-0.5B 백본 기반 경량 TTS 'Ming-3.0-tts-0.5B'를 공개했다(HF 2026-09-22 등록, 10-21 업데이트 확인, MIT 라이선스). 한국어 포함 중/영/독/스/프/일 7개 언어와 쓰촨어·광둥어 방언을 지원하며 화자 인코더로 보이스클로닝도 가능하다(44.1kHz, 추론은 별도 GitHub 레포 필요). cocy.io에서 쓸모: 0.5B라 3080Ti에서 여유 있게 돌릴 로컬 한국어 TTS 후보, 게임 NPC 대사·쇼츠 보이스 실험에 적합.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-3.0-tts-0.5B",
+      "publishedAt": "2026-09-22T12:46:58.000Z"
+    },
+    {
+      "id": "13",
+      "title": "OpenMOSS, 텍스트 레이아웃 제어 강점의 이미지 생성 기반모델 'MOSS-Image-Base' 공개",
+      "summary": "[Image] OpenMOSS가 텍스트-이미지 기반모델 'MOSS-Image-Base'를 공개했다(HF 2026-10-11 등록, 10-21 업데이트 확인, Apache-2.0). 자연어 프롬프트뿐 아니라 태그 시퀀스·JSON 레이아웃으로 텍스트 배치/객체 배치를 직접 제어할 수 있고, 한글·중문 손글씨 메모 같은 긴 텍스트 렌더링을 예시로 내세운다(diffusers 커스텀 파이프라인, CUDA GPU 필요). cocy.io에서 쓸모: 로컬 SFX 파이프라인에 쓰던 OpenMOSS 팀의 이미지 생성판이라, 간판·메뉴판처럼 텍스트가 들어간 게임/페이지 아트 생성 실험 대상.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+      "publishedAt": "2026-10-11T06:49:17.000Z"
+    },
+    {
+      "id": "14",
+      "title": "텐센트, 카메라 제어 가능한 인터랙티브 월드 생성 비디오모델 'Hy-Nomas' 공개",
+      "summary": "[Video] 텐센트가 자유형식 인터랙티브 월드 생성 모델 'Hy-Nomas'를 공개했다(HF 2026-10-21 등록, Apache-2.0 — 7일 이내 공개). 텍스트 지시와 카메라 트래젝토리로 세그먼트 단위 비디오를 이어 생성하는 월드모델로, 증류 추론 기준 8스텝·720x1280·24fps이며 INT8 DiT+INT8 KV캐시+FP8 디코더+CPU 오프로드 조합으로 RTX 4090 1장에서도 구동 가능한 설정을 별도 제공한다. cocy.io에서 쓸모: 게임 배경·컷씬 실험용 로컬 비디오 월드모델 후보(다만 3080Ti 12GB는 4090 기준보다 VRAM 여유가 적어 추가 양자화 검증 필요).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/tencent/Hy-Nomas",
+      "publishedAt": "2026-10-21T02:17:37.000Z"
+    },
+    {
+      "id": "15",
+      "title": "ACE-Step v1.5, RTX 3090에서 10초 내 곡 생성하는 상업용 음악생성모델",
+      "summary": "[Audio] ACE-Step 팀의 오픈소스 음악생성모델 'ACE-Step v1.5'가 MIT 라이선스로 공개돼 있다(HF 2026-01-23 등록, 10월에도 MLX/ONNX 커뮤니티 포팅이 계속 올라오는 중). RTX 3090에서 곡 1곡을 10초 이내로 생성하고 VRAM 4GB 미만으로 구동되며, 라이선스 명시된 음원·로열티프리·합성데이터로만 학습해 상업적 사용을 명시적으로 허용한다고 모델카드에 적혀 있다. cocy.io에서 쓸모: 현재 BGM 파이프라인이 ACE-Step v1 기반인데, v1.5는 VRAM 요구치가 더 낮고 속도도 빨라 3080Ti 파이프라인 업그레이드 후보로 검토할 만함.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ACE-Step/Ace-Step1.5",
+      "publishedAt": "2026-01-23T09:59:48.000Z"
+    },
+    {
+      "id": "16",
+      "title": "Irodori-TTS v4.1, 서버 없이 브라우저에서 바로 돌리는 WebGPU TTS 포팅판 공개",
+      "summary": "[Edge] 일본어 TTS 'Irodori-TTS v4.1'(Aratako)을 ONNX Runtime Web(WebGPU)에서 바로 추론하도록 변환한 포팅판이 공개됐다(HF 2026-10-26 등록, MIT — 7일 이내 공개). 서버 호출 없이 브라우저 안에서 텍스트+보이스 캡션으로 음성합성이 되는 구조로, 4스텝 MeanFlow 버전은 빠른 응답에, 40스텝 버전은 품질에 최적화돼 있다(현재 일본어만 지원, WebGPU 지원 브라우저 필요). cocy.io에서 쓸모: page.cocy.io 같은 정적 페이지에 서버 LLM 호출 없이 클라이언트에서 도는 TTS 데모를 붙일 때 참고할 아키텍처 사례.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ryusei-46/Irodori-TTS-v4.1-ONNX-WebGPU",
+      "publishedAt": "2026-10-26T05:50:49.000Z"
     }
   ]
 }
