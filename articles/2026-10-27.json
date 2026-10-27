@@ -81,6 +81,24 @@
       "source": "CBC",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5hZC1KRnhWOTN0cWpPckpSaG5CQWhBSE1lZzlGN3Bwc1BQZjFpUURNd2p2dVpyMUQxU2pBV0FkX1hadzIzRHpfcV9lNTZrMWpIN2JaM3ZwaFJfdw?oc=5",
       "publishedAt": "2026-10-26T10:19:14Z"
+    },
+    {
+      "id": "10",
+      "title": "VAST-AI, 레퍼런스 영상으로 실시간 스타일 변환하는 'EdenLive' 공개",
+      "summary": "[Video] VAST-AI(Tripo3D)가 2026-10-12(HF 확인) 실시간 생성 렌더링 모델 'EdenLive'를 공개했다. 프록시/레퍼런스 영상과 목표 첫 프레임, 텍스트 프롬프트를 입력받아 실시간으로 스타일이 입혀진 영상을 렌더링한다(Wan2.1/2.2 기반 디퓨전 트랜스포머 + DINOv3 비전 인코더). 핵심 비디오 파이프라인은 Apache 2.0·MIT로 상업 허용이지만, 실시간 워크벤치의 포토리얼 첫 프레임 생성에만 쓰이는 FLUX.2[klein] LoRA 부분은 비상업 전용이라 그 기능만 빼고 써야 한다(HF 확인). cocy.io에서 쓸모: 게임 인게임 영상이나 레퍼런스 클립을 즉석에서 다른 아트스타일로 입혀보는 실시간 프리뷰 실험에 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/VAST-AI/EdenLive",
+      "publishedAt": "2026-10-12T01:59:14Z"
+    },
+    {
+      "id": "11",
+      "title": "Hi3D v1.0, Sparc3D 기반 고해상도 3D 메쉬 정제 모델 공개",
+      "summary": "[Tool] 오셔노 HK 홀딩이 2026-10-16(HF 확인) 거친 메쉬를 1536³ 해상도까지 정제하는 3D 지오메트리 정제 모델 'Hi3D v1.0'을 공개했다(약 200만 개 3D 에셋으로 학습, Sparc3D 아키텍처 기반). 자체 라이선스(Hi3D Open License 1.0)로 상업적 이용·재배포·SaaS 호스팅이 기본 허용되며 별도 매출 임계치는 없지만 대규모 이용자(MAU) 관련 조항이 있어 서비스 규모가 커지면 원문 재확인이 필요하다(HF 확인). cocy.io에서 쓸모: 로컬 FLUX/SDXL로 뽑은 캐릭터·오브젝트 이미지를 거친 3D 메쉬로 만든 뒤 이 모델로 고해상도 디테일을 입혀 게임용 3D 에셋 품질을 올리는 후반 정제 단계로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/hi3d-official/Hi3Dv1.0",
+      "publishedAt": "2026-10-16T07:51:15Z"
     }
   ]
 }

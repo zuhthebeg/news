@@ -1474,6 +1474,34 @@
         "agent-skill"
       ],
       "addedAt": "2026-10-24"
+    },
+    {
+      "title": "HoneyBadger",
+      "description": "설치 전 스킬·MCP 서버·도구를 정적분석만으로 검사하는 보안 스캐너. 시크릿·CVE·공급망 공격·프롬프트 인젝션을 탐지하며 코드를 실행하지 않는다. Go 단일 바이너리, MIT.",
+      "icon": "🦡",
+      "category": "dev",
+      "url": "https://github.com/famclaw/honeybadger",
+      "tags": [
+        "security",
+        "skill-vetting",
+        "mcp",
+        "pre-install-gate"
+      ],
+      "addedAt": "2026-10-27"
+    },
+    {
+      "title": "skill-advisor",
+      "description": "설치된 SKILL.md를 전부 인벤토리해 작업에 맞는 스킬을 추천하고, 중복·충돌·트리거 모호성을 진단하는 메타 스킬. Claude Code/Codex/Cursor/Hermes/OpenClaw 등 모든 에이전트를 한 번에 스캔하며 한국어 조사(보고서를/보고서는)까지 인식한다. 완전 로컬, 의존성 없음.",
+      "icon": "🧭",
+      "category": "dev",
+      "url": "https://github.com/under71/skill-advisor",
+      "tags": [
+        "skill-discovery",
+        "meta-skill",
+        "korean",
+        "diagnostics"
+      ],
+      "addedAt": "2026-10-27"
     }
   ]
 }
