@@ -99,6 +99,33 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/Harsha001/Maya2-Native-GGUF",
       "publishedAt": "2026-10-26T02:58:10Z"
+    },
+    {
+      "id": "12",
+      "title": "[Audio] cocy.io가 쓰는 작곡모델 'HeartMuLa', GGUF 변환으로 Python 없이 C++만으로 로컬 작곡 가능해짐",
+      "summary": "[Audio] HeartMuLa Team의 음악 생성 모델(HeartMuLa-oss-3B 계열, 2026-01 공개, Apache-2.0)과 오디오 디코더 HeartCodec이 scragnog/HeartMuLa-GGUF(Apache-2.0, 2026-10-26 업로드)로 분할 GGUF 변환되어, 순수 C++/GGML 런타임 'HOT-Step'에서 Python 변환 과정 없이 바로 추론 가능해졌다. K/IQ/FP4 양자화 변형별로 별도 importance matrix를 적용해 품질을 보존했다고 공개됨. cocy.io에서 쓸모: 리듬게임 어드민 파이프라인(가사→곡 생성)에 이미 HeartMuLa를 쓰고 있는데, 이 GGUF판으로 Python/PyTorch 의존 없이 더 가벼운 로컬 작곡 백엔드로 교체 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/scragnog/HeartMuLa-GGUF",
+      "publishedAt": "2026-10-26T12:02:02.000Z"
+    },
+    {
+      "id": "13",
+      "title": "[Edge] FastWan2.2 5B 영상생성모델, stable-diffusion.cpp용 GGUF 변환으로 순수 C++ 로컬 영상생성 지원",
+      "summary": "[Edge] FastVideo의 경량 영상생성모델 FastWan2.2-TI2V-5B(2025-08 공개, Apache-2.0)가 PatiPix/FastWan2.2-TI2V-5B-GGUF(Q6_K, Apache-2.0, 2026-10-27 업로드)로 변환되어 stable-diffusion.cpp에서 Python 없이 바로 텍스트→짧은 영상 생성이 가능해졌다. 트랜스포머 825개 텐서를 전부 원본 Wan2.2 레이아웃과 대조 검증했다고 명시됨. cocy.io에서 쓸모: 로컬 FLUX/SDXL 이미지 파이프라인 옆에 '가벼운 로컬 영상 생성' 옵션으로, 특히 GPU VRAM 여유가 적을 때 기존 Wan2.2 계열보다 가벼운 5B 모델로 짧은 프로모 영상·캐릭터 모션 테스트 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/PatiPix/FastWan2.2-TI2V-5B-GGUF",
+      "publishedAt": "2026-10-27T16:39:53.000Z"
+    },
+    {
+      "id": "14",
+      "title": "[Image] MOSS-Image-Base, 8스텝 DMD 증류+INT8 양자화로 ComfyUI 드롭인 고속 로컬 이미지 생성 지원",
+      "summary": "[Image] 2026-10-11 공개된 OpenMOSS-Team/MOSS-Image-Base(Apache-2.0)에 lodestones의 8-step DMD 증류 LoRA를 병합해 INT8 ConvRot로 양자화한 Spectrallic/MOSS-Image-Base-8step-DMD-int8-convrot(Apache-2.0, 2026-10-26 업로드)가 공개됐다. Comfy-Org 공식 INT8 파일과 텐서 레이아웃이 동일한 드롭인 교체본이라 별도 LoRA 로더 없이 8스텝만으로 이미지를 생성한다. cocy.io에서 쓸모: 로컬 SDXL/FLUX 게임 아트 파이프라인에 '빠른 초안 생성' 단계로 8스텝 증류 이미지모델을 끼워 넣으면 반복 아트 실험 속도를 올릴 수 있는 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Spectrallic/MOSS-Image-Base-8step-DMD-int8-convrot",
+      "publishedAt": "2026-10-26T15:17:55.000Z"
     }
   ]
 }
