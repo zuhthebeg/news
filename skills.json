@@ -1502,6 +1502,34 @@
         "diagnostics"
       ],
       "addedAt": "2026-10-27"
+    },
+    {
+      "title": "Security Audit Skill (Cloudflare)",
+      "description": "클라우드플레어가 자사 취약점 발굴 하니스의 출발점으로 공개한 코딩 에이전트용 보안 감사 스킬. 정찰→커버리지 기반 헌팅→후보 검증→구조화 출력→독립 재검증→리포트까지 6단계로 격리된 서브에이전트를 오케스트레이션해, confirmed/needs_validation/rejected로 등급을 나눈 기계가독 결과물을 낸다.",
+      "icon": "🛡️",
+      "category": "dev",
+      "url": "https://github.com/cloudflare/security-audit-skill",
+      "tags": [
+        "security-audit",
+        "vulnerability-hunting",
+        "cloudflare",
+        "agent-skill"
+      ],
+      "addedAt": "2026-10-28"
+    },
+    {
+      "title": "Claude SEO",
+      "description": "웹사이트 하나를 넣으면 10~15분 안에 기술 SEO·E-E-A-T·구조화데이터·AI검색(GEO/AEO)·백링크·로컬SEO·이커머스까지 26개 서브스킬+19개 서브에이전트로 감사해 우선순위별 실행계획을 뽑아주는 Claude Code용 무료 오픈소스 SEO 플러그인.",
+      "icon": "📈",
+      "category": "dev",
+      "url": "https://github.com/AgriciDaniel/claude-seo",
+      "tags": [
+        "seo",
+        "geo-aeo",
+        "claude-code",
+        "audit"
+      ],
+      "addedAt": "2026-10-28"
     }
   ]
 }

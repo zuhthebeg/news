@@ -81,6 +81,24 @@
       "source": "이뉴스투데이",
       "sourceUrl": "http://www.enewstoday.co.kr/news/articleView.html?idxno=2485133",
       "publishedAt": "2026-10-27T23:48:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Image] 블랙포레스트랩스, 이미지·영상·오디오 통합 멀티모달 'FLUX 3' 공개 — 오픈웨이트 경량판 'Klein'(5.6B) 동시 출시",
+      "summary": "[Image] 블랙포레스트랩스가 이미지·비디오·오디오를 하나의 아키텍처로 함께 학습한 신규 파운데이션 모델 'FLUX 3'를 발표했고, 그중 오픈 웨이트 경량 증류판 'FLUX 3 Image Klein'(5.6B, 텍스트 인코더는 Qwen3-VL-4B 별도)은 텍스트→이미지 생성, 참조 이미지 최대 10장 기반 편집, 바운딩박스 레이아웃 지정까지 한 모델로 처리한다. HF 저장소가 게이트(접근 승인) 걸려 있고 라이선스 태그가 'other'로만 표기돼 상업적 사용 허용 범위는 확인 못 함 — 라이선스 미확인. cocy.io에서 쓸모: 현재 FLUX.1-dev/SDXL 기반 게임 아트 파이프라인에 '레이아웃 지정형' 캐릭터·배경 합성을 더할 수 있을지 라이선스 확정 후 검토할 후보.",
+      "category": "ai-tech",
+      "source": "Black Forest Labs / Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+      "publishedAt": "2026-10-13T10:58:40Z"
+    },
+    {
+      "id": "11",
+      "title": "[Edge] 인도 다언어 TTS 'Maya2-Native', llama.cpp GGUF 양자화로 파이썬 없는 C++ 온디바이스 추론 지원",
+      "summary": "[Edge] 영어 포함 12개 언어(힌디·벵골리·타밀·칸나다 등 인도 주요 언어)를 지원하는 TTS 모델 'maya-research/maya2-native'(Apache-2.0)가 llama.cpp 포크 'ROCmFPX' 기반 GGUF로 양자화돼 Python·PyTorch 없이 순수 C++(ggml) 런타임으로 CPU·Vulkan·CUDA에서 바로 음성 합성이 가능해졌다. 백본은 Qwen3 28레이어+깊이 디코더+Mimi 오디오 디코더 구조이며 Q4_K_M 양자화도 원본과 음성 코사인 유사도 0.999 이상을 유지한다고 공개됨. cocy.io에서 쓸모: 서버 GPU 없이 CPU만으로 돌리는 경량 다국어 TTS 백엔드 후보로, 기존 VibeASR·CosyVoice 라인업에 '풀 CPU 구동' 옵션을 더할 때 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Harsha001/Maya2-Native-GGUF",
+      "publishedAt": "2026-10-26T02:58:10Z"
     }
   ]
 }
