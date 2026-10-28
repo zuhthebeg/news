@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-29",
+  "articles": [
+    {
+      "id": "1",
+      "title": "與 '조작기소' 특검법안 재추진…\"정치검찰 책임 물을 시간\"",
+      "summary": "여당 민주당이 '조작기소 특검법' 재추진에 나서며 다음 주 국회 법사위 상정을 추진한다. 검찰의 '조작기소' 의혹에 대한 책임을 묻고 진실을 규명하겠다는 취지다.",
+      "category": "domestic",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1QY1dNeFkwU2t6M3dsRFJDZDU2ajItM1VrRjRHZHJEVnZGOUNLNndQVzhFRENqZDFmYlprcW05eUtnVy1sODdZTmlWdFRGQWdhQktkYjZvejFJek9aN3doNW02YUE4V3c?oc=5",
+      "publishedAt": "2026-10-28T08:39:00Z"
+    },
+    {
+      "id": "2",
+      "title": "'3년치 완판' SK하이닉스 10%↑…코스피 6000 돌파 마감",
+      "summary": "SK하이닉스 주가가 10% 가까이 급등하며 코스피가 장중 6000선을 재돌파한 뒤 마감했다. 반도체 업황 호조와 외국인 매수세가 지수 상승을 이끌었다.",
+      "category": "economy",
+      "source": "서울신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1kdjRRMUlLbE9vZGVFTW1RWTNmWElDUWFzUzFmR3FVcUw3TndkODRpMVU0NGpyVWI1dVFqTW5UbmlfVWY2Y3kyWm56UlptdFNvTnUzcHlNaTJuU3BOdHZFbEFWVU1QdmhPQkxNaURxbTZNbUltRmhuRl9pR1hMZw?oc=5",
+      "publishedAt": "2026-10-28T06:49:15Z"
+    },
+    {
+      "id": "3",
+      "title": "\"美, 중간선거 후 이란 재공격 준비 통보\"…국제유가 3% 가까이 급등",
+      "summary": "미국이 중간선거 이후 이란을 재공격할 준비를 하고 있다는 통보가 알려지며 국제유가가 3% 가까이 급등했다. 중동 긴장이 고조되면서 브렌트유는 수개월 만에 최고 수준으로 올랐다.",
+      "category": "world",
+      "source": "뉴스1",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5CaU1Kalo4ZVF1WXNjdzBndmkzWUN3U1I4RklpejhjX0JMaVFMTzRsdEktNzJhLVFKTDI2X1Q4WnM5bEFfT2pHcnpJNzA0NlZXUzB1RUhGWVpCbW94dHZGLUM4T3pFbDA?oc=5",
+      "publishedAt": "2026-10-28T19:51:00Z"
+    },
+    {
+      "id": "4",
+      "title": "금융권 해킹 시도서 북한 IP 다수 확인…당국 \"각별 유의\"",
+      "summary": "금융권을 겨냥한 해킹 시도에서 북한발 IP가 다수 확인돼 금융당국이 금융사에 보안 점검 강화를 당부했다. 북한 연계 해킹 조직의 금융 인프라 공격 시도가 계속되고 있는 것으로 분석된다.",
+      "category": "tech",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5lQmlIZmppMnhwZ2VsTk5YT3NUeGJ5eTFlNmpScHdDUFBwVlM3ZHg2SEJ6V1U0TUhZU0RXaE5rNnhCVnRJNTROejdmeExkZTEwYzRGYWx6UVpfTTjSAWBBVV95cUxOcXdXMHNwQy1JSDNvMktsZGdsUDY5SGR2amlkOFJLbEVMUHk2YllzMUpLbTd4TGlBaUF3TUNhTVY1dHJVaVBBamxEZDU1OGRYMnNsRkZaOHo4VU5DTjhTTFA?oc=5",
+      "publishedAt": "2026-10-28T05:25:25Z"
+    },
+    {
+      "id": "5",
+      "title": "'윈도우의 MS, 검색의 구글은' 옛말…데이터센터가 빅테크 효자",
+      "summary": "마이크로소프트와 구글의 3분기 실적에서 데이터센터·클라우드 사업이 핵심 성장 동력으로 떠올랐다. 검색과 윈도우 중심이었던 두 회사의 사업 구조가 AI 인프라 중심으로 재편되고 있다는 평가다.",
+      "category": "tech",
+      "source": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE96bFpYSW9rT0d3cjVSQXhSZkNPSmFnZlJGeFRyaG1nRUdoa3RhdEpubGh6SnduYnpRXzdVYWQ1c0RYWWJxMlh1TTRHd2IzeHY0MzFFU2RiMHhwZw?oc=5",
+      "publishedAt": "2026-10-28T21:53:18Z"
+    },
+    {
+      "id": "6",
+      "title": "\"2년 전 우주에서 찍혔던 우주비행물체, 중국 것이었다\" 미 국방부 확인",
+      "summary": "2년 전 미국 상공에서 포착돼 UFO 논란을 낳았던 우주비행물체가 중국의 자산이었던 것으로 미국 국방부가 공식 확인했다. 정체불명 물체를 둘러싼 의혹이 일단락됐다.",
+      "category": "science",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQVjF5Ml9MMXkzVG9pVjhkaXNQb28tRUNtcW5HTU5fMFZpUmVkeDB1cEN0eFVQMHpBQVVnNDZjWjNXOHpBb1U0T0FnYXFibkRRTlFTT3ViTDBwTmFQSnE1VVctSzRvU01hTU5FTk9OZUlvNGhFMHRONE5IOExkTGY2RWtNYkVmUUdBS1Q1VlA4TTJTeV9fR0dzaTl4bGNoQQ?oc=5",
+      "publishedAt": "2026-10-28T05:54:00Z"
+    },
+    {
+      "id": "7",
+      "title": "[기초과학의 시간] ⑦세계 최고 극저온 원자현미경 개발…\"10년의 뚝심과 집념의 결과\"",
+      "summary": "국내 연구진이 세계 최고 수준의 분해능을 갖춘 극저온 전자현미경 개발에 성공했다. 10년에 걸친 연구 끝에 이룬 성과로, 신약·소재 연구 등에 활용될 전망이다.",
+      "category": "science",
+      "source": "DongA Science",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9hUENKbHpJdDZsdDRhNkN4ay1YUWNGYjRua3Y5NnpjNUFUbjRMeFBNTlBzTWV3ZHpvQTJ0dHdSVUoyZlBhSm5BTjIzemdHeGp4LU5CNA?oc=5",
+      "publishedAt": "2026-10-28T18:23:41Z"
+    },
+    {
+      "id": "8",
+      "title": "美 액티비전 신작에 '이태원 참사' 영상 썼다… 유족·게이머 발칵",
+      "summary": "액티비전의 신작 '콜 오브 듀티'에 이태원 참사 실제 영상이 삽입된 사실이 알려지며 유가족과 게이머들의 거센 반발을 샀다. 게임이용자협회는 제작사에 삽입 경위 설명과 사과를 요구했다.",
+      "category": "gaming",
+      "source": "IT조선",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5Fd3NvWWRtdWIxRnpYb09QNk5JMVNVek12czduLVAxc0ZhdF9EZnBBV0lrc3V1cVl2X0E2VGVwTVRHajFaS3hJaTAwZ1p3b2dBQjJjeVhZNzNKV1ZzcndaemtsNklGenIwRi1FbTdyaVnSAXRBVV95cUxQZF9YYmZQWlB1ZGdjdFp5dHlLQkJVYXJxN3RrQVhCcmR2Y3lzdVYzd2JuckdUQnRWSjE2Q2xfYlNSZzBKLWxjVWgzVnZRRWxWLXdLdVl6MHZxQW9FOXdRYUh6NlNxZmlsb2d0SndhWXhPSUtXVQ?oc=5",
+      "publishedAt": "2026-10-28T08:24:21Z"
+    },
+    {
+      "id": "9",
+      "title": "'신작 경쟁' 지스타 vs '팬덤 결집' AGF…흥행 공식 달라지나",
+      "summary": "국내 게임사들이 지스타 대신 팬덤 행사인 AGF로 눈을 돌리며 흥행 전략에 변화가 나타나고 있다. 신작 공개 중심의 지스타와 달리 팬덤 결집에 초점을 맞춘 행사가 주목받고 있다는 분석이다.",
+      "category": "gaming",
+      "source": "스트레이트뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ENXkzeW5qSXAzMnlfcGQtTXl1YUZJTU9aVU5tbmpMWDc3V1IyTmZIUEFpby1nbG9MZE4zR0JMZDZGQzJjOGttcjdrbTBkd0F5YUZ4ZkNkMFdYdDZpemI3c2gyVXR5aGM5eFFYOUtnem11Rlk?oc=5",
+      "publishedAt": "2026-10-28T07:45:00Z"
+    }
+  ]
+}
