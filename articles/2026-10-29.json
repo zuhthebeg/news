@@ -81,6 +81,51 @@
       "source": "스트레이트뉴스",
       "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ENXkzeW5qSXAzMnlfcGQtTXl1YUZJTU9aVU5tbmpMWDc3V1IyTmZIUEFpby1nbG9MZE4zR0JMZDZGQzJjOGttcjdrbTBkd0F5YUZ4ZkNkMFdYdDZpemI3c2gyVXR5aGM5eFFYOUtnem11Rlk?oc=5",
       "publishedAt": "2026-10-28T07:45:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Magenta RealTime 2 — audio.cpp GGUF 포팅 공개 (CC-BY-4.0)",
+      "summary": "[Audio][Edge] 구글 딥마인드 Magenta RealTime 2(Small 230M/Base 2.4B, 48kHz 스테레오 텍스트/오디오 조건 음악 생성)의 GGUF 포팅이 audio-cpp 조직에서 공개됐다(HF createdAt 2026-10-28, license cc-by-4.0). audio.cpp 런타임으로 CUDA/Vulkan/CPU에서 Python/JAX 없이 추론 가능, 스트리밍 생성 지원. cocy.io에서 쓸모: 현재 ACE-Step 중심 BGM 파이프라인에 JAX 기반으로 쓰던 Magenta RT2를 경량 C++ 바이너리로 대체 가능해져, 게임 BGM 생성 환경을 단순화할 여지가 있음(단, CC-BY라 출처 표기 필요).",
+      "category": "ai-tech",
+      "source": "Hugging Face (audio-cpp)",
+      "sourceUrl": "https://huggingface.co/audio-cpp/Magenta-RealTime-2-GGUF",
+      "publishedAt": "2026-10-28T05:33:19Z"
+    },
+    {
+      "id": "11",
+      "title": "LiquidAI LFM3-Audio-2B — 엣지용 Any-to-Any 음성 모델 업데이트",
+      "summary": "[Audio][Edge] Liquid AI의 LFM3-Audio-2B(2B, 18개 언어 ASR/TTS/음성대화/오디오 이해, 32K 컨텍스트)가 최근 업데이트됐다(HF lastModified 2026-10-27, license: LFM Open License v1.0 — Apache-2.0 기반에 대규모 서비스시 고지의무 조항 추가, 소규모 상업 사용은 허용). GGUF/ONNX/MLX 체크포인트 제공으로 노트북·엣지에서 로컬 음성챗 구동 가능. cocy.io에서 쓸모: 보이스매치·고스톱 등 음성 기능에 로컬 STT/TTS 통합형 소형 모델로 테스트해볼 만함(현재 VibeASR+별도 TTS 이원 구조를 단일 모델로 대체 가능성).",
+      "category": "ai-tech",
+      "source": "Hugging Face (LiquidAI)",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM3-Audio-2B",
+      "publishedAt": "2026-10-27T16:22:47Z"
+    },
+    {
+      "id": "12",
+      "title": "audio.cpp — 오디오 모델용 ggml 추론 엔진이 빠르게 성장 중",
+      "summary": "[Edge][Tool] whisper.cpp/llama.cpp 계열의 pure C++ 오디오 추론 엔진 audio.cpp가 TTS/STT/VAD/음성변환/음악생성까지 포괄하며 최근 2주간 MusicGen, Magenta RT2, Ming-3.0, SAM Audio 등 GGUF 포팅을 연쇄 공개 중(HF audio-cpp 조직, 17개 모델). PyTorch/Python 런타임 없이 추론. 라이선스 미확인(런타임 자체 라이선스 재확인 필요, 포팅 대상 모델별 라이선스는 개별 확인). cocy.io에서 쓸모: 현재 Python venv(diffusion-env/ace-step 등) 기반 오디오 생성 스택을 장기적으로 단일 C++ 바이너리로 통합할 수 있는 후보 — WSL 환경 의존성 관리 부담을 줄일 가능성.",
+      "category": "ai-tech",
+      "source": "Hugging Face (audio-cpp)",
+      "sourceUrl": "https://huggingface.co/audio-cpp",
+      "publishedAt": "2026-10-29T00:00:00Z"
+    },
+    {
+      "id": "13",
+      "title": "Z-Image-Turbo 커뮤니티 LoRA/포팅 확산 (Apache-2.0)",
+      "summary": "[Image] 알리바바 Tongyi-MAI의 4스텝 고속 이미지 생성 모델 Z-Image-Turbo(license: apache-2.0, HF 공개 2025-11-25)를 기반으로 한 LoRA·최적화 포팅이 이번 주 다수 올라왔다(ComfyUI unet 변환, sd.cpp 포팅 등). 상업 사용 전면 허용. cocy.io에서 쓸모: SDXL/FLUX 대비 더 적은 스텝으로 이미지를 뽑는 옵션으로, 게임 아이템/카드 아트 등 저해상도 대량 생성 구간에서 FLUX보다 빠른 1차 드래프트용으로 테스트 가치 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face (Tongyi-MAI / community)",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2025-11-25T15:09:48Z"
+    },
+    {
+      "id": "14",
+      "title": "FastWan2.2-TI2V-5B GGUF 포팅 공개 (Apache-2.0)",
+      "summary": "[Video][Edge] 알리바바 Wan2.2-TI2V-5B(text/image-to-video, license apache-2.0)의 GGUF 양자화 포팅이 이번 주 올라왔다(HF createdAt 2026-10-27). 5B 규모 영상생성 모델을 GGUF로 양자화해 VRAM 부담을 낮춤. cocy.io에서 쓸모: 3080Ti(12GB) 환경에서 영상 생성은 아직 시도 안 해본 영역인데, 5B GGUF라면 로컬에서 캐릭터 모션/프로모 영상용 짧은 클립 생성을 실험해볼 수 있는 진입점.",
+      "category": "ai-tech",
+      "source": "Hugging Face (PatiPix / Wan-AI)",
+      "sourceUrl": "https://huggingface.co/PatiPix/FastWan2.2-TI2V-5B-GGUF",
+      "publishedAt": "2026-10-27T16:39:53Z"
     }
   ]
 }
