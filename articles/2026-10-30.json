@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-30",
+  "articles": [
+    {
+      "id": "1",
+      "title": "경기 버스 노사, 11시간 만에 협상 타결…총파업 철회",
+      "summary": "경기도 버스 노사가 11시간에 걸친 협상 끝에 합의에 도달하며 예고됐던 총파업을 철회했다. 출근길 교통 혼란은 피한 것으로 보인다.",
+      "category": "domestic",
+      "source": "MBC 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBZdm11TWVUUlNaZWQyY3V0Ym1oZU5Sek16Y01yaWVkS3lZcDViazJKQXctUjBnQ0NaYnlWNzR5YWpIOURtaGd2OUJuMUdSZXdRUE9oeU94a19tVHdILUtnX2lMYkhTR0FsMkRqQWhQVjdOWVloUDZr0gF3QVVfeXFMTUk1ZWxnRWN6aG5wUzNuTXhGTkptVS0xWE1KZkI0NzFwb0k3ODV3YlhNZDd2M0J0cnJhUkt5dUlla2tsSEFtdjgyaDN2dXZqMTJpazVIM1VsR1JSdm9OdTNHUTZSTDhPYkxSbG4xcDZxeUhfRHlVbFE?oc=5",
+      "publishedAt": "2026-10-29T17:38:22Z"
+    },
+    {
+      "id": "2",
+      "title": "9월 생산 3.0%↑·소비 3.6%↑…투자까지 5.3% 늘며 '트리플 증가'",
+      "summary": "9월 산업생산·소비·투자가 모두 늘어나는 '트리플 증가'를 기록했다. 생산 3.0%, 소비 3.6%, 투자 5.3% 증가로 내수 회복 신호로 해석된다.",
+      "category": "economy",
+      "source": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBtSTlJLXAyaVhnNHkzSmcxNmU5UUU1Y1RPYnprdWROVzZRSkZUNV9wTnZOdkRNTDJPNHRrbVdBZEVFakdMOEFYdlBvYVFLcHhiRVNkVFVWRXdHcjZjWU9vUjNURWJDVzVHSlY0WENCWlA?oc=5",
+      "publishedAt": "2026-10-29T23:00:03Z"
+    },
+    {
+      "id": "3",
+      "title": "한·독일, '강화된 전략적 동반자 관계' 격상…\"첨단산업·방산 협력 강화\"",
+      "summary": "한국과 독일이 양국 관계를 '강화된 전략적 동반자 관계'로 격상했다. 첨단산업과 방산 분야 협력을 강화하는 데 뜻을 모았다.",
+      "category": "world",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9YMjRacVhaVzJ2WlQyNzd0OGlBc3N2bHhkc0RlYW9NMm1wTnc2T1N1cGp1U190MUVKTlhuVzFXbkF0TUx0LUU1cWt6QUZNVEJpeFdQNXZoQVRId9IBX0FVX3lxTE5URzNGNG1mT3poZ2xnd3kwMHlFMmMyZmg4SXljR09IcHJPNkFMbTZRMHFoajN5cDhXNGstdDE3dVRQZWlWR3F0VFpWaGQ2d1BkUi1qZVlzd19aNF9UYzlF?oc=5",
+      "publishedAt": "2026-10-29T12:30:00Z"
+    },
+    {
+      "id": "4",
+      "title": "A Hacker Targeted High-Stakes Poker Players With Malware That Exposed Their Cards",
+      "summary": "해커가 하이스테이크 포커 플레이어들을 겨냥해 상대 패를 노출시키는 악성코드를 유포한 사실이 드러났다. 온라인 포커 생태계의 보안 취약점이 다시 부각됐다.",
+      "category": "tech",
+      "source": "WIRED",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNlhQY2xOeTVJXzB6QllJeEdreFpkNURjYmJtUktXM0ZJZkwwSHRSZWk2Zzc4S0VIbnRtdkRtcnlJWEFtZERDU1dlLTBEMFMzNFVHYUFUNWZ0bWZtVHU5NG8tSmxEQlRySDVNb2xHM1duSVdldlZmY3piSm4xVTRYdGpydmNiYmxaUkhnU2Y0bDBhcFNMWTNadlJCYTNpYnFjWUxaX1hVNnpZQjdiWUNr?oc=5",
+      "publishedAt": "2026-10-29T10:30:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Amazon debuts the Alexa Photo Frame and Echo Time smart clock, plus other upgraded devices",
+      "summary": "아마존이 알렉사 포토 프레임과 에코 타임 스마트 시계 등 신규 기기 라인업을 공개했다. 생성형 AI 기반 알렉사+ 경험을 가정용 하드웨어 전반으로 확대하는 전략이다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxON3JRTElUWVRpVHFYeURxenBkSHZDVU85NnhneFctbDJoZ3lrS1JRNlZQeWo2bE1OZ0hUbDNWaFVXbDNkRVlSVXk2LXdxZXdTbm9vdWV1VDMzT2lLdy14ZXhlbUF1OTFsUnFSNk9TVmdrYXJNWFdUdlFpN085aHV5NGVMWm5iSmRxT0dBZGdYV0RVRXRUZmU5TXZ2UDBvMEdLSlF4dnVwcllnUkk0aWY1a1lLdV8wdWZLaGI1eFpFOUZ5QQ?oc=5",
+      "publishedAt": "2026-10-28T14:34:25Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA adopting Apollo's urgency to build a moon base and land astronauts within two years",
+      "summary": "NASA가 아르테미스 계획 지연 속에 아폴로 시대의 속도감을 되살려 2년 내 달 기지 건설과 유인 착륙을 추진하겠다고 밝혔다.",
+      "category": "science",
+      "source": "AP News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQa0h5UmtYWUN2RnJJbUlacnl0ejQzZmhsUU9YOVVHY2M3SjVldDJ0UXdaR3J4bXh4dlU1QXpKU2sxN3lOYUxibEhkczkxYmFTVi04aUotTng4UWNUQTUyOGxDa1BoRlBBY21kcnlkZ2lpdzdWenVRamxqNmd2RmVrcDV3SkdyOW40MGY5QTA3TVFDWm9TT3NyMHJ3?oc=5",
+      "publishedAt": "2026-10-27T01:04:37Z"
+    },
+    {
+      "id": "7",
+      "title": "Scientists may have found new dwarf planet",
+      "summary": "태양에서 약 69억km 떨어진 영역에서 새로운 왜소행성 후보가 발견됐다. 초고화소 관측 장비를 활용한 성과로, 추가 확인 관측이 이어질 예정이다.",
+      "category": "science",
+      "source": "Yahoo Tech",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQQ2EydkRjcVpNWllzQnNqNTU1akJlZ0w2SlRYODM2aEotVS1tRjI3bm5xejVLMG1qYWhMOEJ4RVB3SndIU3ZQZjZYTjRMZHZzQnZtWHBPbll0dFJuVGRzak9NdzhxS1dJanNqbXVsVkxuX21VOHJVcVlEc1ZLUExoTTNHQWQ4RE53NmFneEJpUEthQQ?oc=5",
+      "publishedAt": "2026-10-29T11:20:10Z"
+    },
+    {
+      "id": "8",
+      "title": "FromSoftware Delays The Duskbloods To 2027",
+      "summary": "프롬소프트웨어가 닌텐도 스위치2 독점작 '더스크블러드' 출시를 2027년으로 연기했다. 완성도를 높이기 위한 결정으로 설명됐다.",
+      "category": "gaming",
+      "source": "Insider Gaming",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE0zNEhOT1A5Vkg3RjJ0a0c4WXpDVzRxeEQxOWFkakhUYWxTV3VWNHVlWmVhdUhXdk41NF9aSGxJOUplVC1IZnU5Vm4yT2E4NFphMzkwb012T0FfdlFVYmQ4anY5RWRYT2h0VDVtV1pKZC04NXllejM5bWpQSi1PVFU?oc=5",
+      "publishedAt": "2026-10-29T14:16:03Z"
+    },
+    {
+      "id": "9",
+      "title": "Xsolla Highlights Southeast Asia's $5.6B Games Market Ahead of Gamescom Asia",
+      "summary": "엑솔라가 곰스컴 아시아를 앞두고 동남아시아 게임 시장 규모가 56억 달러에 달한다는 분석을 내놨다. 신흥 게임 시장으로서의 성장세가 부각됐다.",
+      "category": "gaming",
+      "source": "Morningstar",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZW9wU1JfR2NSVXBMRVphemg2M0s1Z19lWkV0NDZ1aEZrdnBfaGZQQnZjXzJuOTh0bnM4UV9NMEU0WlZ5NS1UOEpfVTZjckJyeVJWay1xY0ZOUlVMREl0ZzhTRXVfLVRRYlNrdV9Kd1RfMWxKTldkdVM5Q0NiV2tTSlBPeHdod2V6TkFsMWVvWC1GandYSG1oZk9hSldveTBlWG04N18xX3ozMkdCUzhnUnkyeTBBWU90emtaWVh3NXc2dEFyR2FDbGpOZmRaXzlW?oc=5",
+      "publishedAt": "2026-10-29T16:57:00Z"
+    }
+  ]
+}
