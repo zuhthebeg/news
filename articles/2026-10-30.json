@@ -108,6 +108,24 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b",
       "publishedAt": "2026-10-14T03:02:49Z"
+    },
+    {
+      "id": "13",
+      "title": "[Image] OpenMOSS팀, 아파치2.0 텍스트→이미지 모델 'MOSS-Image' 공개",
+      "summary": "SFX 모델 MOSS-SoundEffect를 만든 OpenMOSS팀이 50억 파라미터급 텍스트→이미지 생성모델 Base/SFT 두 버전을 공개했다(2026-10-21 업데이트 확인, HF 다운로드 1.5만·좋아요 826). 영어·중국어 프롬프트를 지원하며 SFT 버전은 사람 선호에 맞춰 후처리 튜닝됐다. cocy.io에서 쓸모: 이미 SFX 파이프라인에서 쓰는 OpenMOSS 생태계로 게임 아트까지 로컬 생성 범위를 넓힐 수 있는 후보. 라이선스: Apache-2.0(상업 이용 가능).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+      "publishedAt": "2026-10-21T01:52:00Z"
+    },
+    {
+      "id": "14",
+      "title": "[Audio] inclusionAI, MIT 라이선스 음성 이해·합성 통합모델 'Ming-3.0-audio-flash' 공개",
+      "summary": "중국 inclusionAI가 음성인식(STT)·음성이해·음성합성(TTS)을 하나의 MoE 모델로 묶은 Ming-3.0-audio-flash를 공개했다(2026-10-29 업데이트 확인, 다운로드 948·좋아요 68). ONNX export도 함께 제공돼 엣지 배포 실험이 쉽다. cocy.io에서 쓸모: STT/TTS를 따로 조합하던 보이스 파이프라인을 단일 모델로 단순화할 여지가 있는지 검토 대상(대형 MoE라 로컬 VRAM 적합성은 별도 확인 필요). 라이선스: MIT(상업 이용 가능).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-3.0-audio-flash",
+      "publishedAt": "2026-10-29T09:26:50Z"
     }
   ]
 }
