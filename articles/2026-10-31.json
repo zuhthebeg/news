@@ -1,0 +1,86 @@
+{
+  "date": "2026-10-31",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'국민 아버지' 최불암 별세...이재명 대통령 등 정치권도 추모",
+      "summary": "국민 배우 최불암이 별세하며 이재명 대통령을 비롯한 정치권 인사들의 추모가 이어졌다. 드라마 '수사반장' 등으로 오랜 세월 대중의 사랑을 받아온 배우였다.",
+      "category": "domestic",
+      "source": "YTN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBLaDlwTVFabnpIclRkbENyMkxLSzRpX2ltc3VzUGM1cDlCMjUxTkVVdmV5aWRPMGMxcWJjcENJSExnMkxuRFJkRFdSV2RiVkUwbUpfN2J1MnlLLXZFdXc?oc=5",
+      "publishedAt": "2026-10-30T07:36:00Z"
+    },
+    {
+      "id": "2",
+      "title": "[박상영의 경제본색] 세 차례 미룬 가상자산 과세, 또 미루면 해결될까",
+      "summary": "정부가 세 차례나 시행을 유예해온 가상자산 과세를 또 미룰지를 두고 논란이 이어지고 있다. 유예가 반복되면서 제도 정비 지연에 대한 우려가 커지고 있다.",
+      "category": "economy",
+      "source": "주간경향",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9zRWdGby05S1VnZDNfa1pvQUxNYXhTU0FsSmN3M20yYm5TenJLem1rNU5qNlM2WUFoOFFManlScFZkN0xKbVBYMGwtVFRRZ1BTYTRjVHp6RGRoV0hGVmc?oc=5",
+      "publishedAt": "2026-10-30T21:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "美, 전작권 전환 의지 재확인…내년 초 SCM서 실질 성과",
+      "summary": "위성락 국가안보실장이 미국이 전시작전통제권 전환 의지를 재확인했다며 내년 초 한미안보협의회(SCM)에서 실질적 성과가 나올 것으로 기대했다. 최근 발생한 DMZ 지뢰폭발 사건에 대해서도 필요한 조치를 취하겠다고 덧붙였다.",
+      "category": "world",
+      "source": "아시아투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1qaFVWeTBRdEN5dC1XbENQaldVbzlqLVF6SDB3aHVicXdDSkl2dnN5dkdHRk5ZN1NNYnQ1WFNjS0NzWGVwdkg0NndkZDZKNjliNGo0ZWR5cjJSeTZnclhhcDE4U3U0TE9NbXN5WHln?oc=5",
+      "publishedAt": "2026-10-30T02:57:51Z"
+    },
+    {
+      "id": "4",
+      "title": "Crypto platform Binance confirms major hack, more than $2.5b frozen",
+      "summary": "바이낸스가 대규모 해킹 피해를 공식 확인했으며 25억 달러 이상의 자산이 동결됐다고 밝혔다. 가상자산 거래소 보안에 대한 우려가 다시 커지고 있다.",
+      "category": "tech",
+      "source": "The Jakarta Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOTVNoTXZialNleDZwUHA3b0F5bDl6ZVZpcUJOaTBYTHVmbVdPdVNlQ2dJUFZiSmw5b0hmY2owSTNtVy0zLTVNNzF3MU1KYlVBd1pyQjY4al96OVFvR1NrRS1lY00wbUV5RUZvVlVKajE5VzAwbmU0X0Z6Uno2eUlmY1RLY1NwOHExOW9SdXVnZnNBdFhPX09LYmtEUVFIWHJuX2NoOUFnVVpScjR4cGJxLURmUnVHdw?oc=5",
+      "publishedAt": "2026-10-30T01:19:12Z"
+    },
+    {
+      "id": "5",
+      "title": "Apple makes deal to acquire company focused on agentic data engineering tech",
+      "summary": "애플이 에이전틱 데이터 엔지니어링 기술을 보유한 기업을 인수하는 계약을 체결했다. 자사 플랫폼 전반에 자율 에이전트 기반 데이터 처리 역량을 강화하려는 행보로 풀이된다.",
+      "category": "tech",
+      "source": "MacTech.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOY2NDNWRhUHJvYXJIeUZNS29NUmRMRERDdC1lQzFkUHAyM3M4WmZVd2w2bm9kWDVjdEY2WkVNWUdKRjVYdl9SXzRGWVB2ZEJzNlhEYXhvblFQOHZPakRrcEhycklDODl0dXZxNmFxaDVsQVlfaTRmQl9mSW04LXN6QzNQM2Q0V0VvUTNiNTRHN2RpQjd1ZVVYbnVTelhmQXltNU5tOTNRLWN6V2lzOHFsMnY0VmRMQQ?oc=5",
+      "publishedAt": "2026-10-30T12:56:56Z"
+    },
+    {
+      "id": "6",
+      "title": "Space-grown glioblastoma organoids could help advance brain cancer treatments",
+      "summary": "미세중력 환경에서 배양된 교모세포종(글리오블라스토마) 오가노이드가 뇌종양 치료 연구에 새로운 가능성을 제시하고 있다. 지상에서는 재현하기 어려운 종양 특성을 우주 환경에서 관찰할 수 있다는 점이 주목된다.",
+      "category": "science",
+      "source": "EurekAlert!",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAyX2FBODF6QzlDMzNKOGp6d0kwYlFUOUV3eExFdjJqazdHM3Y4aVZrYmVka2NqNlp1dWhKR1FuNUNibUdfUWd0eHJ6M3JJVmJLUkVHWTE0d1BZV1lu?oc=5",
+      "publishedAt": "2026-10-30T18:27:39Z"
+    },
+    {
+      "id": "7",
+      "title": "Harnessing Microbes for Space Manufacturing",
+      "summary": "국제우주정거장(ISS)에서 미생물을 활용해 우주 환경에서 소재와 제품을 제조하는 연구가 진행되고 있다. 미세중력을 이용한 생물학적 제조 기술이 향후 우주 산업의 새로운 축이 될 수 있다는 평가다.",
+      "category": "science",
+      "source": "International Space Station National Laboratory",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaldaMEVSVV9QSC1IT3QzMkxoUHZDZWJpaDZIMnBPcEQ5MUJQNHBabGpqcVhFNkVnbm5idGhhZXhZaXJtc3FKTlU4Vnh6YzVlSFlLaUliSU90WkhrcVZxTndPS0JsWEFfNFVDOXpScjQ3NDM4VzlIWWw0WE9pcnNGRDNYbGNSREpKb2c?oc=5",
+      "publishedAt": "2026-10-30T19:46:37Z"
+    },
+    {
+      "id": "8",
+      "title": "Roblox Q3 results beat expectations despite bookings falling 12% to $1.7bn",
+      "summary": "로블록스가 3분기 예약 매출이 전년 대비 12% 감소한 17억 달러를 기록했지만 시장 예상치는 상회했다. 이용자 성장 둔화 속에서도 AI 기반 신규 서비스에 투자를 늘리고 있다.",
+      "category": "gaming",
+      "source": "GamesIndustry.biz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQZFN2dlpZZHhrOUk0SDhJcm84SnBMVjlfbUFGNWpkVmRVZl9wZ0NaLUdYb29wbEItdUc2alFrc19lRjNsRHN4Q3M1aWZ6dGt1M3pobDVFd0NXYW16dTN0X1Z5NGJmak1adnFJdzJ3b2hZRDByWjZxVVRycXpaQ1pXQ0FqbFBlX2RBYVA5cVFHTThMN3Z5R0JJbThoTUtodmRaR3ZB?oc=5",
+      "publishedAt": "2026-10-30T10:44:44Z"
+    },
+    {
+      "id": "9",
+      "title": "Media: Gears of War: E-Day sold over 400,000 copies in three weeks",
+      "summary": "리메이크작 '기어스 오브 워: E-데이'가 출시 3주 만에 40만 장 이상 판매된 것으로 알려졌다. 클래식 IP 리부트에 대한 팬들의 꾸준한 수요를 보여주는 결과로 평가된다.",
+      "category": "gaming",
+      "source": "WN Hub",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sTGZaOUktSnpKSFh0X3hGX1UybnAtcjlDZ1BhRmNDcGdxdDlTcDFIcVA3U05NR1Y3Z1cwWHg4MDgxODlSNEtRVjFjbGEwZ0U?oc=5",
+      "publishedAt": "2026-10-30T09:30:16Z"
+    }
+  ]
+}
