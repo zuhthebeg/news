@@ -81,6 +81,33 @@
       "source": "Morningstar",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNZW9wU1JfR2NSVXBMRVphemg2M0s1Z19lWkV0NDZ1aEZrdnBfaGZQQnZjXzJuOTh0bnM4UV9NMEU0WlZ5NS1UOEpfVTZjckJyeVJWay1xY0ZOUlVMREl0ZzhTRXVfLVRRYlNrdV9Kd1RfMWxKTldkdVM5Q0NiV2tTSlBPeHdod2V6TkFsMWVvWC1GandYSG1oZk9hSldveTBlWG04N18xX3ozMkdCUzhnUnkyeTBBWU90emtaWVh3NXc2dEFyR2FDbGpOZmRaXzlW?oc=5",
       "publishedAt": "2026-10-29T16:57:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Image] speridlabs, 이미지 한 장을 3D 가우시안 스플랫으로 바꾸는 'Idol' 공개",
+      "summary": "사진이나 생성 이미지 한 장을 입력하면 2초 안에 최대 100만 개 가우시안으로 구성된 3D 모델(.ply)을 만들어내는 Idol이 공개됐다. 소비자용 GPU(VRAM 7.2GB)에서 돌아가며 사진에 안 보이는 뒷면까지 추론해 채워준다. cocy.io에서 쓸모: 게임 캐릭터·아이템 컨셉 아트를 즉석 3D 프리뷰 에셋으로 바로 변환해 아트 파이프라인 시간을 줄일 수 있다. 라이선스: Apache-2.0(상업 이용 가능, 단 입력 인코더로 쓰는 FLUX.2/DINOv3는 게이트 모델이라 별도 약관 동의 필요).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/speridlabs/idol",
+      "publishedAt": "2026-10-28T15:55:17Z"
+    },
+    {
+      "id": "11",
+      "title": "[Tool] SegerEnd, CPU 전용 14M 텍스트→애니메이션 모델 'SprongMotion' 블렌더 애드온 공개",
+      "summary": "영어 문장으로 동작을 묘사하면 22관절 인간 스켈레톤 애니메이션을 생성하는 1380만 파라미터급 초경량 모델이 블렌더 애드온 형태로 공개됐다. GPU 없이 CPU만으로 10초 분량 모션을 1초 안에 뽑아내며 33MB GGUF 단일 파일로 배포된다. cocy.io에서 쓸모: 게임 캐릭터 걷기·공격 모션을 키프레임 수작업 없이 텍스트만으로 초벌 생성해 모션 파이프라인 비용을 줄일 수 있다(단, 소형 모델 특성상 결과물이 어색하거나 재시도가 필요할 수 있음). 라이선스: Apache-2.0.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SegerEnd/SprongMotion-14M",
+      "publishedAt": "2026-10-21T14:56:37Z"
+    },
+    {
+      "id": "12",
+      "title": "[Audio] Edge0, 23개 언어 지원 0.6B 경량 음성클로닝 TTS 'Audio8-TTS-Realistic' 공개",
+      "summary": "6억 파라미터 소형 모델로 한국어 포함 23개 언어 제로샷 음성 클로닝을 지원하는 TTS가 공개됐다. 44.1kHz 신경망 오디오 코덱을 자체 내장해 실제감 있는 음질을 낸다. cocy.io에서 쓸모: 게임 NPC 대사나 멀티캐릭터 보이스를 레퍼런스 음성 하나로 저비용 로컬 생성할 수 있다. 라이선스: Apache-2.0.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b",
+      "publishedAt": "2026-10-14T03:02:49Z"
     }
   ]
 }

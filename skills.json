@@ -1530,6 +1530,20 @@
         "audit"
       ],
       "addedAt": "2026-10-28"
+    },
+    {
+      "title": "Publora Skills",
+      "description": "LinkedIn·X·Instagram·Threads·TikTok·YouTube·Facebook·Bluesky·Mastodon·Telegram에 글을 올리고 예약 발행하는 Publora 공식 소셜포스팅 스킬 모음. MCP 서버로 9개 SKILL.md 번들, npx 한 줄 설치.",
+      "icon": "📱",
+      "category": "productivity",
+      "url": "https://github.com/publora/skills",
+      "tags": [
+        "social-media",
+        "scheduling",
+        "mcp",
+        "openclaw"
+      ],
+      "addedAt": "2026-10-30"
     }
   ]
 }
