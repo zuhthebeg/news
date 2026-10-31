@@ -81,6 +81,51 @@
       "source": "WN Hub",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9sTGZaOUktSnpKSFh0X3hGX1UybnAtcjlDZ1BhRmNDcGdxdDlTcDFIcVA3U05NR1Y3Z1cwWHg4MDgxODlSNEtRVjFjbGEwZ0U?oc=5",
       "publishedAt": "2026-10-30T09:30:16Z"
+    },
+    {
+      "id": "10",
+      "title": "구글 Magenta RealTime 2, GGUF 양자화로 llama.cpp 계열 엣지 추론 지원",
+      "summary": "[Audio][Edge] 구글의 실시간 음악 생성 모델 Magenta RealTime 2가 audio-cpp/Magenta-RealTime-2-GGUF로 양자화 공개됨(HF 생성일 2026-10-28 확인, license:cc-by-4.0 확인). llama.cpp 계열 런타임으로 돌릴 수 있어 풀 파이토치 환경 없이도 실시간 음악 추론이 가능해졌다. cocy.io에서 쓸모: 현재 WSL+JAX로 돌리는 Magenta RT2 BGM 파이프라인을 GGUF 경량 런타임으로 옮기면 설치·구동 부담을 줄일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/audio-cpp/Magenta-RealTime-2-GGUF",
+      "publishedAt": "2026-10-28T05:33:19Z"
+    },
+    {
+      "id": "11",
+      "title": "MOSS-SoundEffect v2.0, GGUF 양자화로 llama.cpp 런타임 지원",
+      "summary": "[Audio][Edge] cocy.io SFX 파이프라인이 쓰는 MOSS-SoundEffect v2.0이 agentory/moss-soundeffect-gguf로 GGUF 양자화 공개됨(HF 생성일 2026-10-28 확인, license:apache-2.0 확인, 원본 MOSS-SoundEffect도 apache-2.0). cocy.io에서 쓸모: 현재 WSL CUDA 전용 스크립트로 돌리는 SFX 생성을 llama.cpp 계열 경량 런타임으로 옮겨 구동 환경을 단순화할 여지가 생겼다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/agentory/moss-soundeffect-gguf",
+      "publishedAt": "2026-10-28T21:46:50Z"
+    },
+    {
+      "id": "12",
+      "title": "MOSS-Image + NVIDIA PiD, 4스텝+4스텝으로 초고해상도 이미지 고속 생성",
+      "summary": "[Image] ComfyUI 워크플로 'MOSS-PiD-SuperFast-HighRes'가 OpenMOSS의 MOSS-Image(license:apache-2.0 확인, HF 생성일 2026-10-11)를 4스텝 LoRA로 저해상도 렌더한 뒤 NVIDIA PiD 디코더로 VAE·업스케일러 없이 4배 해상도(예: 704×384→2816×1536)로 바로 복원한다(워크플로 저장소 자체는 license:apache-2.0 확인, HF 생성일 2026-10-30). 단, nvidia/PiD 원본 모델은 HF에 라이선스 태그가 없어 라이선스 미확인. cocy.io에서 쓸모: SDXL 기반 게임 아트 생성에서 고해상도 출력 단계를 줄일 수 있어 검토 가치가 있으나, 실사용 전 PiD 라이선스 재확인이 필요하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lvladikov/MOSS-PiD-SuperFast-HighRes",
+      "publishedAt": "2026-10-30T23:50:31Z"
+    },
+    {
+      "id": "13",
+      "title": "FastWan2.2-TI2V-5B GGUF, stable-diffusion.cpp로 돌리는 경량 5B 영상 생성",
+      "summary": "[Video][Edge] Wan-AI(알리바바)의 Wan2.2-TI2V-5B를 FastVideo팀(Hao AI Lab)이 몇 스텝으로 증류한 FastWan2.2-TI2V-5B가 Q6_K GGUF(약 4.1GB)로 공개돼 stable-diffusion.cpp에서 로컬 텍스트/이미지→영상 생성이 가능해졌다(license:apache-2.0 확인, HF 생성일 2026-10-27). cocy.io에서 쓸모: 3080Ti 12GB에 여유 있게 올라가는 크기라 게임 프로모션 영상 등 경량 로컬 영상 생성 후보로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/PatiPix/FastWan2.2-TI2V-5B-GGUF",
+      "publishedAt": "2026-10-27T16:39:53Z"
+    },
+    {
+      "id": "14",
+      "title": "KittenTTS 2, 1.58비트 삼진 양자화 1.7B 음성클로닝 TTS",
+      "summary": "[Audio][Tool] KittenML/kitten-tts-2가 1.7B 음성언어모델을 1.58비트 삼진(ternary) 양자화로 954MB까지 줄이고, 5~30초 레퍼런스로 음성 클로닝·감정/이벤트 태그·16개 언어(한국어 포함) 음성을 지원한다(HF 마지막 업데이트 2026-10-23 확인). 라이선스는 Stellon Labs Community License — 연매출·누적펀딩 100만 달러 미만이면 상업 사용 무료, 초과 시 별도 라이선스 필요(동봉된 pyannote 화자임베딩은 MIT, kittenml 패키지는 apache-2.0). cocy.io에서 쓸모: 고스톱 콜 더빙·쇼츠 보이스 등에 쓸 저용량 CPU TTS 후보로, 현재 Edge-TTS로 새는 쇼츠 보이스 폴백 이슈를 보완할 대안으로 검증할 가치가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KittenML/kitten-tts-2",
+      "publishedAt": "2026-10-23T22:04:46Z"
     }
   ]
 }
