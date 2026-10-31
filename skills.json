@@ -1,6 +1,19 @@
 {
   "skills": [
     {
+      "title": "Taste Skill",
+      "description": "프론트엔드 디자인 품질을 봐주는 스킬. polish/bolder로 방향 지시, critique/audit로 리뷰하며 브라우저로 실제 렌더링을 확인해 'AI 느낌 나는 뻔한 페이지'를 걸러낸다.",
+      "icon": "🎨",
+      "category": "dev",
+      "url": "https://github.com/Leonxlnx/taste-skill",
+      "tags": [
+        "design-review",
+        "frontend",
+        "ai-slop-detection"
+      ],
+      "addedAt": "2026-10-31"
+    },
+    {
       "title": "Mentio",
       "description": "Reddit·HN·X·GitHub·Bluesky·LinkedIn·YouTube·뉴스까지 키워드 언급을 점수매김해 추적·트리아지하는 브랜드 모니터링 스킬. Mentio REST API 기반으로 알림·분석까지 에이전트가 직접 처리.",
       "icon": "📣",
