@@ -108,6 +108,33 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/hyz317/HairDeck",
       "publishedAt": "2026-10-27T23:31:26Z"
+    },
+    {
+      "id": "13",
+      "title": "23개 언어 제로샷 보이스클로닝 TTS 'Audio8-TTS-Realistic-0.6B' 업데이트",
+      "summary": "[Audio] HF API 확인값: createdAt 2026-10-14, lastModified 2026-10-27, 라이선스 Apache-2.0. 6억1백만 파라미터의 DualAR 구조(Fish Audio S2 Pro 계열)로 참조 음성+전사만 있으면 제로샷 보이스클로닝이 되고, 참조 없이도 생성 가능하다. Preview 대비 지원 언어가 11개→23개로 늘며 한국어를 포함한다. 44.1kHz 신경 코덱 포함, OpenAI 호환 음성 API 어댑터(SGLang Omni) 제공. cocy.io에서 쓸모: 쇼츠 표준 보이스 파이프라인(현재 CosyVoice3가 Edge-TTS로 몰래 폴백 중인 문제)의 대체·검증 후보로, 한국어 지원 명시된 경량 Apache-2.0 TTS라 테스트 가치가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b",
+      "publishedAt": "2026-10-27T11:07:20Z"
+    },
+    {
+      "id": "14",
+      "title": "로컬에서 쓰는 MOSS-SoundEffect v2.0의 GGUF 경량 변환판 공개",
+      "summary": "[Audio][Tool] HF API 확인값: createdAt 2026-10-28, 라이선스 Apache-2.0(원본 OpenMOSS-Team/MOSS-SoundEffect-v2.0과 동일). BF16/Q8 GGUF로 양자화돼 PyTorch 풀스택 없이 audio.cpp 계열 C++ 런타임에서 구동 가능하다. cocy.io에서 쓸모: 현재 쓰는 로컬 SFX 파이프라인(WSL moss-soundeffect-v2 venv, 클립당 ~30초)의 경량·고속화 대안으로 벤치마크해볼 만하다. 다만 torchcodec 저장 함정처럼 포맷 호환 재검증 필요.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/agentory/moss-soundeffect-gguf",
+      "publishedAt": "2026-10-28T21:46:50Z"
+    },
+    {
+      "id": "15",
+      "title": "llama.cpp 스타일 오디오 전용 추론 엔진 'audio.cpp' — TTS·SFX·음악·ASR GGUF 통합 런타임",
+      "summary": "[Edge][Tool] GitHub 확인값: 코어 엔진(ShugoAI LLC, github.com/0xShug0/audio.cpp) 라이선스 Apache-2.0. ACE-Step1.5·Chatterbox·AudioSR 등 18개 패키지를 GGUF로 통합 서빙하며, 모델별 원본 라이선스는 별도 표(docs/model_licenses.md)로 관리해 상업 사용 가능 여부를 패키지 단위로 확인하게 해준다(묶음 저장소 자체 태그는 license:other이므로 쓰려는 패키지마다 개별 확인 필수). HF 배포 저장소 다운로드 786만+. cocy.io에서 쓸모: 지금 ACE-Step·MOSS-SoundEffect·Magenta RT2를 각각 다른 Python venv(JAX/torch)로 돌리는 구조를 단일 C++ GGUF 런타임으로 통합해 배포 복잡도를 낮출 잠재력이 있다. 3080Ti 실측 전 확정 금지.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/0xShug0/audio.cpp",
+      "publishedAt": "2026-10-27T01:38:47Z"
     }
   ]
 }
