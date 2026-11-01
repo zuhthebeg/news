@@ -1557,6 +1557,20 @@
         "openclaw"
       ],
       "addedAt": "2026-10-30"
+    },
+    {
+      "title": "Better Interfaces (jakubkrehel/skills)",
+      "description": "UI 리뷰·타이포그래피·색상·접근성·레이아웃·제품 카피를 각각 전담하는 10여개 에이전트 스킬 모음. PR 변경분의 인터페이스 회귀를 점검하는 interface-review, 스크린샷만으로 구현 방식을 설명하는 explain-interface 등 실무형 서브스킬을 포함한다.",
+      "icon": "🎨",
+      "category": "dev",
+      "url": "https://github.com/jakubkrehel/skills",
+      "tags": [
+        "ui-review",
+        "accessibility",
+        "typography",
+        "design-engineering"
+      ],
+      "addedAt": "2026-11-01"
     }
   ]
 }

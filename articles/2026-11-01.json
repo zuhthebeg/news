@@ -81,6 +81,33 @@
       "source": "GamesIndustry.biz",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUVcxZ09FR0o3YUU3dTRXaUFCaDBvQnd4SFpuUTU2SmZpVVJ5a3I5aWliU29SYTZvM0FmSWplWF9PU1BqNGlQaS12SlU5S3hQLTlPeVBSb0w1ODcxbGdUdHl1WmRUcWJwMEIxY21VSV9WTmE2eEJOcmF3QllBN3FZTDV5Z2YtRlVmUFRDR05tZVNaZmFObmI1MF9ucWtMWkszX0MyQWRtQTNlOWQya243WV9nQ29EV2NrUDlqNGhoeFNBRE1Bb1dud1VHNE1iNzZocklnV2NvUnpiTGpFTWEya0gxMXJKS0RVZ2lnaVBKOEpxU0JvMERzTQ?oc=5",
       "publishedAt": "2026-10-28T13:30:00Z"
+    },
+    {
+      "id": "10",
+      "title": "처음부터 학습한 5천만 파라미터 초소형 text-to-image 모델 'AuroraIMG2-50M-Preview' 공개",
+      "summary": "[Image] HF API 확인값: createdAt 2026-10-28, 라이선스 Apache-2.0. 5040만 파라미터 디퓨전 트랜스포머와 1260만 파라미터 텍스트 인코더를 단일 RTX PRO 6000에서 10시간 학습해 만든 256×256 해상도 text-to-image 모델로, FLUX.2 VAE 레이턴트 공간과 공개된 FLUX.2 소형 디코더를 그대로 재사용해 가볍게 돌아간다. cocy.io에서 쓸모: 저해상도 아이콘·타일 단위 에셋이나 게임 UI 목업을 로컬 GPU에서 거의 즉시 뽑아보는 초기 프로토타이핑 스케치 검증용으로 FLUX.1-dev 본 작업 전 단계에 참고할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/AuroraAI-Research/AuroraIMG2-50M-Preview",
+      "publishedAt": "2026-10-28T00:25:21Z"
+    },
+    {
+      "id": "11",
+      "title": "사진 한 장을 2초 만에 3D 가우시안 스플랫으로 변환하는 'Idol' 공개",
+      "summary": "[Image] HF API 확인값: createdAt 2026-10-28, 라이선스 Apache-2.0. 객체 사진이나 생성 이미지 한 장을 넣으면 배경을 자동 제거하고 최대 104만 개 가우시안으로 구성된 표준 3DGS .ply 파일을 만들어내며, 원본 사진에 없던 뒷면까지 복원한다. 모델카드 기준 소비자 GPU에서 VRAM 7.2GB·2초 이내로 동작한다. cocy.io에서 쓸모: SDXL/FLUX로 뽑은 캐릭터·소품 컨셉아트를 빠르게 3D 프리뷰로 돌려보는 게임 에셋 파이프라인 전처리 단계로 검토할 만하다(RTX 3080 Ti 12GB로 VRAM 여유 충분하나 실측 전 확정 금지).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/speridlabs/idol",
+      "publishedAt": "2026-10-28T15:55:17Z"
+    },
+    {
+      "id": "12",
+      "title": "한 장의 이미지에서 애니메이션용 헤어카드를 생성하는 'HairDeck' 공개",
+      "summary": "[Image] HF API 확인값: createdAt 2026-10-27, 라이선스 Apache-2.0. 칭화대 등 연구진이 공개한 모델로, 단일 이미지에서 애니메이션/VRM 캐릭터에 바로 붙일 수 있는 애니메이션 레디 헤어카드 메시를 디퓨전 기반으로 생성한다(arXiv 2610.40599). cocy.io에서 쓸모: 캐릭터 일관성 파이프라인에서 SDXL로 뽑은 캐릭터 컨셉의 헤어를 3D 리깅 가능한 형태로 바로 넘기는 후반 작업 후보로 R&D 검토할 수 있다(상업 서비스화는 4090급 인프라 확보 후).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/hyz317/HairDeck",
+      "publishedAt": "2026-10-27T23:31:26Z"
     }
   ]
 }
