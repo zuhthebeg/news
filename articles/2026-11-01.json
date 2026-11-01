@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-01",
+  "articles": [
+    {
+      "id": "1",
+      "title": "北, 8조원대 암호화폐 해킹 배후 지목… 불과 20분 걸린 가공할 능력",
+      "summary": "북한이 국내 8조원 규모 암호화폐 거래소 해킹의 배후로 지목됐다. 보안 전문가들은 불과 20분 만에 자금을 탈취해간 공격 수법에 주목하며 재발 방지 대책 마련을 요구하고 있다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOR3lnOHZoZFdoVV9fUEtEdGxWWW81RlkzNjVhZFJ2M3NFMmdHZGZDWG84WjY5M20xcklHS3BPWmRHblI0TGhKRGFyRkJVdzNWdnREaGR3RVN4em5xRDB3WlBZSDJCaHBudXhBLVc2a0xGU29OUmVaSmFNX1JLUDZXYVJYdWM?oc=5",
+      "publishedAt": "2026-10-31T19:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "'AI 수익성 회의론', 증시 계속 짓누르나…美중간선거에 촉각",
+      "summary": "인공지능 투자 수익성에 대한 회의론이 글로벌 증시를 계속 짓누르고 있다는 분석이 나왔다. 미국 중간선거 결과가 시장 변동성을 더 키울 수 있어 투자자들의 관심이 집중되고 있다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5mMUNmcGN2bkVDNm0zeEtodzhDeFNUVzBjODRjWE50ZjZMRVZTSnQ1cDlEcnhqNXpmdlk3cEFjZzRzdGdGdFNQZVdyR1RnMHhjc1hUbGwtUzBCWHPSAWBBVV95cUxQMm9lWGR1ZU40RktpZ1BVeFM5RFdCS255eG1LUXR1WUlra1FVeGNkeVFQbDVXWS01a0FsWEVybnotRjkyaU5HVGNtSWdyeFFNb3ZWY0pXeVZ0V2VzMGdOLWU?oc=5",
+      "publishedAt": "2026-10-31T21:00:08Z"
+    },
+    {
+      "id": "3",
+      "title": "美중간선거 사전투표 5천만명 돌파…공화후보 인신공격도 과열",
+      "summary": "미국 중간선거 사전투표 참여자가 5천만명을 넘어서며 역대급 열기를 보이고 있다. 공화당 후보 간 인신공격성 네거티브 공세도 과열되면서 선거 분위기가 격화되고 있다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1PSTNQSjZGWkN1SEcwdXB2NWlWNkl1NlFHYnplc2xXazlXQkFQYnpXR2FXX2ppSmhWc0NMWk9ib3hNTG1SOWJlU1NvY1g3cG9obndnNmM1MzREeFnSAWBBVV95cUxNbVdnSlNKclJhZlVleVBjWmROX2JVeFRzdHczWnYyeU1XckJrek5LejgzZ2VGZUpDTnNLZlZBb1o2NUxVSVR1aDNnV3FacnRGc2ZjQ2pUX0YxNllMYWt0cjU?oc=5",
+      "publishedAt": "2026-10-31T18:26:54Z"
+    },
+    {
+      "id": "4",
+      "title": "Over 41,000 U.S. Homeland Security officials' details apparently exposed after massive data breach",
+      "summary": "미국 국토안보부 소속 직원 4만1천여명의 개인정보가 대규모 데이터 유출로 노출된 것으로 알려졌다. 정부기관 보안 체계의 취약성이 다시 도마에 올랐다.",
+      "category": "tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9VUVkyZ0E5cnhtX09Xb3ZMSnRsNF9zVnNZUlVkRnIwaThrQmk4SjJKaTJBZHVvTXZURzUyck1mWk5vejFNZmF5d25tcmllNkZlbXE0U2g3SDlQVVY3R3dRb1M4ZU5XWjJtajhKMkt5WDc0RlhmODZxOEpwTThwUdIBgwFBVV95cUxOQWs1VUc1V21GaEZ4Q3c2NGJyZkZLWEU5aEpZTVpScUpobXpJVXN4NEtCTV9iTkN6WjRXd3ptYU1BV3RjYWtRNkZBYjlEMEpwWS03MWoxMHl3c0I3Nklnd1FOZFJDUTNzNXNXRGNVTEpMOUE5bm1LcDN1MU1mUE5SN2tMSQ?oc=5",
+      "publishedAt": "2026-10-29T04:29:32Z"
+    },
+    {
+      "id": "5",
+      "title": "Chainalysis Confirms Intrusion Into Internal Tools and Exposure of Customer Identity Data",
+      "summary": "블록체인 분석업체 체이널리시스가 내부 도구 침해 사건을 공식 확인하며 고객 신원정보가 노출됐다고 밝혔다. 가상자산 보안 인프라 업체마저 공격 대상이 됐다는 점에서 업계 긴장이 높아지고 있다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1yeThhb1ZVTTlFdkFrWWF4Z24xS2FqUVF2WGs4TlpaaG45SWVjUldpYmJLOFo0czFRVjROZWIyRkkyMFJXd19XRGpvVUpCT2xrVFdUNkUxWHpKb0Q3WEx4VDlmZzBGREk5eDVDRy10OEFJQXo4cW9xMmxuOTMyV1k?oc=5",
+      "publishedAt": "2026-10-31T12:01:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA satellite to plunge back to Earth after 22 years in space",
+      "summary": "22년간 임무를 수행한 NASA 인공위성이 지구 대기권으로 재진입해 소멸할 예정이다. 장수명 위성의 수명 종료 운용과 우주쓰레기 관리 사례로 주목받고 있다.",
+      "category": "science",
+      "source": "Scripps News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT0RWdS1Pd2Q3UjMtZVpTUmhWTHd6NkhqdTNTMTNSX29zU2FlaEZaNjJWWkxDY0Vua0VMdkNVNXJidHl5ZFVDUVdJU3RjbkcwY2hObFdueFdpcGxKQUVjcmdyTkV3RjFiMFdqSURwUDNTTEFISzFkeGQ0ZDVXVGREZWh0V3BDTndhcXgxcUZhRkpoUFAtdHAtbWM1WGoxb2o2dUNUVFNVSjhZR0o1WnZTX1VXVQ?oc=5",
+      "publishedAt": "2026-10-31T22:42:36Z"
+    },
+    {
+      "id": "7",
+      "title": "Looking for bats after dark can help science—and change how we see them",
+      "summary": "야간에 박쥐를 관찰하는 시민과학 활동이 생태 연구에 실질적으로 기여하고 있다는 연구 결과가 나왔다. 박쥐에 대한 대중의 인식 개선에도 도움이 되고 있다고 분석됐다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5kd1UwaUpyQS13aTk2Nlk2LXV5MVl5ZU9WLURQYm1FMUUxRXRtRG5UZUN1MGZIc2RlYlU0S3pLdjlPRV94T21yVGNER1Qwd21JcGVlbTU5NThEX0U?oc=5",
+      "publishedAt": "2026-10-31T22:30:01Z"
+    },
+    {
+      "id": "8",
+      "title": "As GTA VI Looms, The Game Industry Faces A Painful Transition",
+      "summary": "GTA 6 출시가 다가오면서 게임업계가 고통스러운 구조 전환기를 맞고 있다는 분석이 나왔다. 대형 타이틀 집중 전략과 개발비 급증이 중소 스튜디오의 생존을 위협하고 있다.",
+      "category": "gaming",
+      "source": "Forbes",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjN5WkVCNjhvM0Q5aG1nX0lYVS1XbjBQTUs0bVVWUDMzRHFEM3ltOHFZa04tRWo3dTdGSE1NZnZ0TzBmUk1TTHhxRGdxSzNfV0JUVlJ6UVk3SWhVWElrb0JuU05WYkdOS0d6cTRRTzZ4WExzOHVER3hNeHFFRk5XY2FDUmhrMHNMMHhsdUk3bUlfS2h6NkQtSUg2QUhpS1h6MVZtSlkyYWxWTkZ4eFE?oc=5",
+      "publishedAt": "2026-10-31T19:56:43Z"
+    },
+    {
+      "id": "9",
+      "title": "\"Taking several years with several thousand people… It's almost impossible\" – PlayStation creator Ken Kutaragi on the current state of gaming",
+      "summary": "플레이스테이션 창업자 켄 쿠타라기가 수천명 규모 인력과 수년이 걸리는 현재 게임 개발 방식이 \"거의 불가능한\" 수준에 이르렀다고 진단했다. 대형 게임 개발의 지속가능성에 대한 업계 원로의 우려가 전해졌다.",
+      "category": "gaming",
+      "source": "GamesIndustry.biz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPUVcxZ09FR0o3YUU3dTRXaUFCaDBvQnd4SFpuUTU2SmZpVVJ5a3I5aWliU29SYTZvM0FmSWplWF9PU1BqNGlQaS12SlU5S3hQLTlPeVBSb0w1ODcxbGdUdHl1WmRUcWJwMEIxY21VSV9WTmE2eEJOcmF3QllBN3FZTDV5Z2YtRlVmUFRDR05tZVNaZmFObmI1MF9ucWtMWkszX0MyQWRtQTNlOWQya243WV9nQ29EV2NrUDlqNGhoeFNBRE1Bb1dud1VHNE1iNzZocklnV2NvUnpiTGpFTWEya0gxMXJKS0RVZ2lnaVBKOEpxU0JvMERzTQ?oc=5",
+      "publishedAt": "2026-10-28T13:30:00Z"
+    }
+  ]
+}
