@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-02",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령 \"정치적 올바름 반발, 내로남불 때문\"",
+      "summary": "이재명 대통령이 2일 SNS에 \"스스로 지키지 못하는 기준을 남에게만 강요하는 내로남불이 지속되는 한 정치적 올바름에 대한 비판은 피하기 어렵다\"고 밝혔다. 검찰개혁·다문화 가정 지원 논란 등을 겨냥한 발언으로 해석된다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261102022100001?section=politics/all",
+      "publishedAt": "2026-11-02T08:50:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "에이피알, 환율 부담에 3분기 영업익 전망치 11% 밑돌아",
+      "summary": "증권가는 원화 강세로 에이피알의 3분기 영업이익률이 전분기보다 3.6%p 하락했다고 분석했다. 매출은 7천731억원으로 전년 동기 대비 100.3% 늘었으나, 해외 매출 원화 환산 손실이 수익성을 끌어내렸다. 4분기는 블랙프라이데이 등 성수기 효과로 반등이 기대된다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261102025200008?section=economy/all",
+      "publishedAt": "2026-11-02T08:55:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "러-우크라 올레시키 국지 휴전 종료, 공방 격화 우려",
+      "summary": "러시아와 우크라이나가 지난달 27일부터 이어온 헤르손주 올레시키 국지 휴전이 1일(현지시간) 공식 종료됐다. 양측은 에너지 시설을 겨냥한 공격을 재개했고, 우크라이나는 공습경보 시스템 해킹 의심 사례도 발표했다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261102026700009?section=international/all",
+      "publishedAt": "2026-11-02T08:57:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "전 세계 전광판 해킹돼 음란물 송출, 해킹 그룹 자백",
+      "summary": "이집트·말레이시아·브라질 등 여러 국가의 디지털 전광판이 해킹돼 음란 영상이 송출됐다. 'Leakers$'라는 그룹이 범행을 자처했으며, 기본 보안도 없는 노출된 시스템을 자동 스캔으로 찾아냈다고 주장했다. 이집트 당국은 해당 전광판 운영사의 해외 협력사 웹사이트가 공격당했다고 밝혔다.",
+      "category": "tech",
+      "source": "Gizmodo",
+      "sourceUrl": "https://gizmodo.com/billboards-in-multiple-countries-hacked-to-show-porn-2000833555",
+      "publishedAt": "2026-10-31T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "레딧 주가 29% 폭락, CEO \"구글 AI 모드가 트래픽 죽였다\"",
+      "summary": "레딧 CEO 스티브 허프먼이 구글의 AI 기반 검색 모드가 레딧으로의 트래픽을 '유의미하게' 줄였다고 밝힌 다음날, 레딧 주가가 2024년 상장 이후 최대폭인 29% 급락했다. 3분기 실적 발표에서 검색 유입 감소가 핵심 우려로 지목됐다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1022848/reddit-ceo-google-ai-mode-traffic",
+      "publishedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "\"뱀·거미 무서워해도 자연은 좋아할 수 있다\"…어린이 295명 조사",
+      "summary": "미국 듀크대 연구팀이 미국·콩고민주공화국 어린이 295명을 조사한 결과, 특정 동물에 대한 두려움과 생물다양성에 대한 호감 사이에 유의한 상관관계가 없는 것으로 나타났다. 두 감정이 서로 구별되는 심리 체계일 수 있다는 의미다. 국제학술지 '심리학 프런티어스'에 게재됐다.",
+      "category": "science",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261101022900017?section=industry/technology-science",
+      "publishedAt": "2026-11-02T08:39:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "멸종 위기 바나나, 세계 최초 '비옥한 캐번디시' 품종으로 구할까",
+      "summary": "치키타와 작물개량사 KeyGene의 연구 협력체 'Yelloway'가 완전히 비옥한 캐번디시 바나나를 개발했다고 발표했다. 1950년대 파나마병으로 멸종한 그로미셸의 뒤를 이은 캐번디시마저 불임 번식종이라 질병에 취약했는데, 교배를 통해 질병 저항성 신품종을 만들 길이 열렸다.",
+      "category": "science",
+      "source": "The Guardian",
+      "sourceUrl": "https://www.theguardian.com/global-development/2026/oct/22/have-scientists-finally-found-a-way-to-save-the-banana-from-disaster",
+      "publishedAt": "2026-10-22T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "LoL 월드 챔피언십 8강 진출…한국 젠지·T1·DK 모두 생존",
+      "summary": "2026 리그 오브 레전드 월드 챔피언십 스위스 스테이지가 마무리되며 한국 LCK 3팀(젠지·T1·디플러스 기아)이 모두 8강 녹아웃 스테이지에 진출했다. 미드시즌 인비테이셔널 챔피언 한화생명e스포츠는 중국 빌리빌리 게이밍에 0-2로 패해 유일하게 탈락했다.",
+      "category": "gaming",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261101026700017?section=industry/game",
+      "publishedAt": "2026-11-01T13:57:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "T1, LoL 카드게임 '리프트바운드' 대회에 256명 몰려",
+      "summary": "e스포츠 기업 T1이 경기 킨텍스에서 라이엇게임즈의 실물 트레이딩 카드 게임 '리프트바운드' 예선 'T1 트라이얼스'를 열어 256명이 참가했다. 상위 16명은 8일 서울 T1 베이스캠프 결선에 진출하며, T1은 내년부터 프로 선수를 영입해 카드게임 교육 프로그램도 확대할 계획이다.",
+      "category": "gaming",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261101021300017?section=industry/game",
+      "publishedAt": "2026-11-01T11:17:00+09:00"
+    }
+  ]
+}
