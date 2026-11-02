@@ -108,6 +108,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
       "publishedAt": "2026-10-13T10:58:40.000Z"
+    },
+    {
+      "id": "13",
+      "title": "Edge0 Audio8-TTS-Realistic 0.6B — 경량 제로샷 보이스클로닝 TTS (Apache-2.0)",
+      "summary": "[Audio] Edge0이 공개한 0.6B 파라미터 제로샷 보이스클로닝 TTS. 한국어 포함 20여개 언어 지원, HF 공개일 2026-10-14·최근 업데이트 2026-11-01. 라이선스 apache-2.0(상업 허용 확인). cocy.io에서 쓸모: 3080Ti에서 돌릴 수 있는 초경량 음성클로닝이라 고스톱 콜 보이스나 캐릭터 더빙 파이프라인에 ACE-Step/CosyVoice 대안으로 테스트해볼 만함.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-0.6b",
+      "publishedAt": "2026-11-01T14:38:29Z"
+    },
+    {
+      "id": "14",
+      "title": "Gradium Phonon-31M — 31M 초경량 스트리밍 온디바이스 TTS, WebGPU 변종 존재 (Apache-2.0)",
+      "summary": "[Audio][Edge] Gradium이 공개한 31M 파라미터 스트리밍 TTS 패밀리. 2026-10-19 공개, blixt/phonon-31m-en-webgpu로 브라우저 WebGPU 추론 변종까지 올라와 있음. 라이선스 apache-2.0(상업 허용). cocy.io에서 쓸모: 서버 없이 브라우저에서 바로 돌아가는 TTS라 game.cocy.io 게임 내 음성 안내·접근성 기능에 서버비용 없이 붙일 수 있음.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/gradium/phonon-31m-en",
+      "publishedAt": "2026-10-22T08:02:14Z"
+    },
+    {
+      "id": "15",
+      "title": "OpenMOSS MOSS-Image-Base/SFT — 5B 오픈 text-to-image, FLUX급 대안 (Apache-2.0)",
+      "summary": "[Image] cocy.io가 이미 MOSS-SoundEffect로 쓰고 있는 OpenMOSS 팀이 내놓은 5B 텍스트-투-이미지 모델. 2026-10-11 공개, apache-2.0 라이선스로 FLUX.1-dev(비상업 느낌 강한 생태계) 대신 완전 상업 허용 대안. cocy.io에서 쓸모: 게임 카드/캐릭터 아트 로컬 생성 파이프라인(현재 FLUX.1-dev GGUF)에 라이선스 더 깨끗한 선택지로 벤치마크 가치 있음.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+      "publishedAt": "2026-10-21T01:51:54Z"
+    },
+    {
+      "id": "16",
+      "title": "Lightricks LTX-2.5 — 비디오+오디오(Foley) 동시생성 파이프라인으로 확장 (라이선스 미확인)",
+      "summary": "[Video] cocy.io가 캐릭터 모션 파이프라인에 이미 쓰는 LTX-2.3의 후속 LTX-2.5. text-to-video 외에 text-to-audio-video, video-to-audio 태그가 추가돼 영상+폴리 사운드를 한번에 뽑는 구조로 확장됨(2026-07 공개, 2026-10-22 최신 업데이트). 모델 접근이 게이트돼 있어 정확한 상업 조건은 라이선스 미확인(이전 LTX-2.3 사용 전례 있음, 재확인 필요). cocy.io에서 쓸모: 걷기모션 I2V 생성에 쓰던 LTX 라인이 오디오까지 합쳐지면 보스전 컷신용 영상+SFX 동시생성 테스트 가치 있음.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Lightricks/LTX-2.5-Diffusers",
+      "publishedAt": "2026-10-22T08:58:38Z"
+    },
+    {
+      "id": "17",
+      "title": "audio.cpp — TTS/ASR/음성변환용 GGUF 양자화 추론 엔진, ACE-Step 양자화 지원 (라이선스 미확인)",
+      "summary": "[Tool][Edge] whisper.cpp/llama.cpp 스타일로 오디오 모델(TTS·ASR·음성변환·소스분리·화자분리)을 GGUF 양자화로 돌리는 C++ 추론 엔진. GitHub 3.9k 스타, cocy.io가 BGM에 쓰는 ACE-Step 양자화 가중치도 이미 올라와 있음(HF audio-cpp/audio.cpp-gguf, 2026-10-27 업데이트). GitHub 라이선스가 NOASSERTION(표준 SPDX 미매칭)이라 상업 조건은 라이선스 미확인. cocy.io에서 쓸모: 서버 없이 가벼운 바이너리로 TTS/BGM 추론 돌릴 수 있으면 llm-proxy 쪽 오디오 서빙 부담을 줄일 수 있어 라이선스 재확인 후 검토 가치 있음.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/0xShug0/audio.cpp",
+      "publishedAt": "2026-10-27T01:38:47Z"
     }
   ]
 }
