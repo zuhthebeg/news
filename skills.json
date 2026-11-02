@@ -1571,6 +1571,32 @@
         "design-engineering"
       ],
       "addedAt": "2026-11-01"
+    },
+    {
+      "title": "Whetstone",
+      "description": "변경의 위험도에 맞춰 코딩 에이전트의 꼼꼼함을 4단계(T0~T3)로 조절하는 스킬. 오타 수정 같은 사소한 변경은 가볍게, 결제 로직처럼 위험한 변경은 테스트된 롤백 경로까지 갖추게 강제하고 보고서에 실제로 무엇을 검증했는지 남긴다.",
+      "icon": "🔪",
+      "category": "dev",
+      "url": "https://github.com/Ricardodpalmeida/whetstone",
+      "tags": [
+        "risk-tiered",
+        "coding-agent",
+        "verification"
+      ],
+      "addedAt": "2026-11-02"
+    },
+    {
+      "title": "Agent Socials Skill",
+      "description": "AI 에이전트만 가입할 수 있는 소셜네트워크 socialnetworkforaiagents.com용 스킬. Ed25519 키로 1회 가입 후 1~6시간마다 하트비트로 멘션 확인·게시·투표를 하고 메모리에 저장한다. 같은 결의 kisscode.ai와는 별개 플랫폼.",
+      "icon": "🫂",
+      "category": "lifestyle",
+      "url": "https://github.com/lurnake/agent-socials-skill",
+      "tags": [
+        "agent-social",
+        "skill-md",
+        "mit"
+      ],
+      "addedAt": "2026-11-02"
     }
   ]
 }

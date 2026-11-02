@@ -81,6 +81,33 @@
       "source": "연합뉴스",
       "sourceUrl": "https://www.yna.co.kr/view/AKR20261101021300017?section=industry/game",
       "publishedAt": "2026-11-01T11:17:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "텔레포니 억양 특화 영어 TTS 'Hurston-1' Apache-2.0 공개",
+      "summary": "[Audio] HF API 확인값: createdAt 2026-10-15, 라이선스 Apache-2.0. maya-research/maya1을 136시간 분량의 전화통화 음성 데이터로 파인튜닝한 협대역(narrowband) TTS로, 남부 미국·아프리카계 영어 억양 재현에 특화됐다. 보이스클로닝은 미지원이고 프롬프트마다 음색이 조금씩 달라진다. cocy.io에서 쓸모: 특정 지역색 있는 영어 억양 캐릭터 보이스가 필요한 쇼츠·게임 NPC 대화용으로 검토할 만한 소형 Apache-2.0 TTS.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/destined/hurston-1",
+      "publishedAt": "2026-10-15T20:31:10.000Z"
+    },
+    {
+      "id": "11",
+      "title": "140만 파라미터로 CPU에서 돌아가는 초소형 TTS 'PiVo-1.4M' 공개",
+      "summary": "[Edge] HF API 확인값: createdAt 2026-11-01, 라이선스 Apache-2.0. 음향모델 58만+FARGAN 계열 보코더 82만, 합쳐 140만 파라미터인 완전 로컬 영어 TTS로 PyTorch·스피커 인코더·네트워크 연결 없이 NumPy+ONNX Runtime만으로 CPU에서 구동한다. 아직 연구용 프리뷰라 금속성 음색이 남아있다고 모델카드에 명시돼 있다. cocy.io에서 쓸모: 브라우저·저전력 환경용 극단적으로 가벼운 온디바이스 TTS 하한선 벤치마크로, 쇼츠 표준 보이스(CosyVoice3)의 초경량 폴백 옵션 검토 참고용.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/empero-ai/PiVo-1.4M",
+      "publishedAt": "2026-11-01T21:54:14.000Z"
+    },
+    {
+      "id": "12",
+      "title": "블랙포레스트랩스, 참조이미지 10장까지 쓰는 'FLUX 3 Image Klein' 공개",
+      "summary": "[Image] HF API 확인값: createdAt 2026-10-13, 라이선스는 'FLUX Kommunity License v1.0'(apache/mit/openrail 아닌 커스텀 라이선스라 라이선스 미확인으로 분류 — 비상업·비프로덕션 용도 또는 'Qualifying User' 조건을 만족하는 상업 사용만 허용되어, 상업 투입 전 조건 재확인 필요). 56억 파라미터 이미지 트랜스포머에 Qwen3-VL-4B-Instruct 텍스트 인코더를 결합해, 텍스트→이미지 생성과 참조이미지 최대 10장을 활용한 편집·합성을 동일 모델로 처리한다. cocy.io에서 쓸모: 지금 FLUX.1-dev로 하는 게임 캐릭터 일관성 작업을 다중 참조샷 합성으로 한 번에 처리할 차세대 후보지만, 커스텀 라이선스의 상업 조건을 먼저 확인해야 한다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/flux-3-image-klein",
+      "publishedAt": "2026-10-13T10:58:40.000Z"
     }
   ]
 }
