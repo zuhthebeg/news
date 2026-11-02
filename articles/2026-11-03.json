@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-03",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, 국회 시정연설…2027년도 예산 820조9천억원 역대 최대 편성",
+      "summary": "이재명 대통령이 2일 국회 본회의에서 시정연설을 하고 2027년도 예산안과 기금운용계획안 처리에 대한 협조를 당부했다. 총지출 820조9천억원 규모로 반도체 산업 호황을 바탕으로 역대 최대치를 기록했으며, 162조원 규모 미래대응기금 신설 등이 핵심 내용으로 제시됐다.",
+      "category": "domestic",
+      "source": "뉴스핌",
+      "sourceUrl": "https://www.newspim.com/news/view/20261102001008",
+      "publishedAt": "2026-11-02T14:00:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "코스피 2.24% 올라 5859선 마감, 원·달러 환율은 1343원대로 약세",
+      "summary": "2일 코스피는 반도체 대형주 강세와 기관 순매수에 힘입어 전 거래일보다 128.34포인트(2.24%) 오른 5859.08에 장을 마쳤다. 삼성전자와 SK하이닉스가 각각 1.78%, 3.81% 상승했으며, 원·달러 환율은 9.5원 오른 1343.8원으로 마감해 원화는 약세를 보였다.",
+      "category": "economy",
+      "source": "네이트뉴스(연합뉴스)",
+      "sourceUrl": "https://m.news.nate.com/view/20261102n26887",
+      "publishedAt": "2026-11-02T15:40:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "서울 역삼동 연쇄방화 피의자 신상정보, 3일 오전 서울경찰청이 공개",
+      "summary": "서울경찰청 신상정보공개심의위원회는 특허법인 사무실 두 곳에 불을 질러 20여명을 다치게 한 70대 이모씨에 대해 현존건조물방화치상·살인미수 혐의로 신상 공개를 의결했다. 이씨의 얼굴·이름·나이는 3일 오전 9시부터 30일간 서울경찰청 홈페이지에 게재된다.",
+      "category": "domestic",
+      "source": "노컷뉴스",
+      "sourceUrl": "https://nocutnews.co.kr/news/6598958",
+      "publishedAt": "2026-10-29T10:00:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "메타·틱톡·엑스, 영국 온라인안전법 규제 소송서 패소",
+      "summary": "메타, 틱톡, 엑스(X)가 영국 통신규제기관 오프컴의 온라인안전법(Online Safety Act) 규제에 반발해 제기한 소송에서 패소했다. 법원은 플랫폼의 유해 콘텐츠 관리 의무를 강화한 규제 조치가 적법하다고 판단해, 빅테크의 자율 규제 주장을 받아들이지 않았다.",
+      "category": "tech",
+      "source": "뉴스1",
+      "sourceUrl": "https://www.news1.kr/world/europe/6338407",
+      "publishedAt": "2026-10-30T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "애플 앱스토어 가짜 암호화폐 앱 '패드레 터미널', 솔라나 지갑서 2만3천달러 탈취",
+      "summary": "보안업체 아이리스에 따르면 애플 앱스토어에 올라왔던 가짜 암호화폐 트레이딩 앱 'Padre Terminal'이 솔라나 지갑 27곳에서 약 2만3천달러를 빼간 것으로 드러났다. 실제 서비스는 웹 전용으로만 제공돼 모바일 앱은 모두 사칭임이 확인됐으며, 애플은 해당 앱을 제거했지만 공식 입장은 내지 않았다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://www.bleepingcomputer.com/news/security/fake-crypto-app-on-apple-app-store-linked-to-23k-wallet-theft/",
+      "publishedAt": "2026-10-29T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA 퍼서비어런스 로버, 화성서 역대 최장 주행거리 28.10마일 경신",
+      "summary": "NASA의 화성 탐사로버 퍼서비어런스가 임무 2006솔(10월 11일)에 누적 주행거리 45.22km(28.10마일)를 기록하며 기존 오퍼튜니티 로버의 기록(28.06마일)을 넘어섰다. 전체 주행거리의 90% 이상을 자율주행 시스템 '오토내브'로 수행한 것이 특징이다.",
+      "category": "science",
+      "source": "NASA JPL",
+      "sourceUrl": "https://www.jpl.nasa.gov/images/pia26645-nasas-perseverance-breaks-own-rover-driving-record",
+      "publishedAt": "2026-10-14T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "허블·웹 망원경, 해왕성 너머 왜소천체 27개 관측…태양계 초기 모습 그대로 보존",
+      "summary": "NASA의 허블과 제임스웹 우주망원경이 해왕성 궤도 너머 작고 희미한 천체 27개를 공동 관측한 결과, 태양계 형성 초기의 물질이 수십억 년간 거의 변하지 않은 채 보존돼 있다는 단서를 발견했다. 이들 천체의 크기와 개수 분포는 기존 행성 형성 이론과 맞지 않는 부분도 있어 추가 연구가 필요하다.",
+      "category": "science",
+      "source": "ScienceDaily",
+      "sourceUrl": "https://sciencedaily.com/releases/2026/10/261031221209.htm",
+      "publishedAt": "2026-10-31T00:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "넥슨 신작 MMORPG '템빨: 오버기어드', 11월 5일 쇼케이스서 출시일 공개",
+      "summary": "넥슨은 그레이게임즈가 개발한 신작 MMORPG '템빨: 오버기어드'의 온라인 쇼케이스 '오버 월드'를 11월 5일 오후 8시 공식 유튜브 채널에서 연다고 밝혔다. 이날 정식 출시일과 출시 후 6개월간의 업데이트 로드맵이 공개되며, 캐릭터명 사전 선점은 공개 6시간 만에 전 서버에서 마감됐다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.invenglobal.com/articles/27862/overgeared-showcase-to-be-held-on-november-5",
+      "publishedAt": "2026-10-29T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "넥슨 '아주르 프로밀리아', 11월 26일 국내 정식 출시 확정",
+      "summary": "넥슨은 '벽람항로' 개발사 만쥬게임즈의 판타지 RPG '아주르 프로밀리아'를 11월 26일 PC와 모바일(구글 플레이·앱스토어·갤럭시 스토어)로 국내 정식 출시한다고 밝혔다. 한국어 풀더빙을 지원하며, 출시 공유 이벤트와 웹 이벤트 등 사전 프로모션도 함께 진행된다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://www.invenglobal.com/articles/27610/nexons-azur-promilia-officially-launches-november-26",
+      "publishedAt": "2026-10-23T00:00:00Z"
+    }
+  ]
+}
