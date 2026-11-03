@@ -189,6 +189,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/Velmet44/rmbg",
       "publishedAt": "2026-10-26T16:07:33Z"
+    },
+    {
+      "id": "22",
+      "title": "힌디 등 인도 11개 언어 스트리밍 TTS 'Maya 2 Native' 공개",
+      "summary": "[Audio] HF 확인값: Apache-2.0, 2026-10-26 공개(createdAt), 10-29 최종 업데이트. 12개 언어(인도 11개+영어) 스트리밍 TTS, 20개 내장 보이스, 3~10초 레퍼런스로 제로샷 보이스클로닝, 언어 간 보이스 전이(힌디 레퍼런스로 타밀 발화 등) 지원. OpenAI 호환 API+WebSocket 스트리밍 포함. cocy.io에서 쓸모: NPC·캐릭터 다국어 보이스나 쇼츠 더빙에 로컬 클로닝으로 바로 적용 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/maya-research/maya2-native",
+      "publishedAt": "2026-10-26T02:58:10Z"
+    },
+    {
+      "id": "23",
+      "title": "블랙포레스트랩스, 5.6B 이미지 편집 모델 'FLUX 3 Image Klein' 공개",
+      "summary": "[Image] HF 확인값: createdAt 2026-10-14, ComfyUI 패키징판 최종 업데이트 2026-11-02. 레퍼런스 이미지 최대 10장 조합+bbox로 레이아웃 지정해 편집·생성·합성을 한 모델로 처리. 라이선스는 FLUX Kommunity License — 완전 오픈(apache/mit)은 아니고 연매출 500만달러 미만 조직만 무상 상업 이용 허용(초과 시 별도 계약 필요). cocy.io에서 쓸모: 게임 캐릭터·프로모 이미지의 포즈/구도 변형 배치 작업을 로컬 ComfyUI로 테스트할 가치(단, 매출 조건 재확인 필수).",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/black-forest-labs/flux-3-image-klein-comfy",
+      "publishedAt": "2026-10-14T12:00:13Z"
+    },
+    {
+      "id": "24",
+      "title": "텍스트/이미지로 동기화 오디오까지 뽑는 영상모델 'Kandinsky 6.0 Video' 공개",
+      "summary": "[Video] MIT, HF 확인값: createdAt 2026-09-09, lastModified 2026-10-12. Pro(29B)/Lite(3B) 두 체급으로 5초 영상과 동기화된 44kHz 오디오를 한 번에 생성. cocy.io에서 쓸모: 쇼츠 파이프라인에서 BGM 별도 생성 없이 영상+사운드를 동시에 뽑는 보조 루트로 검토할 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-6.0-Pro-5s-Diffusers",
+      "publishedAt": "2026-09-09T10:55:05Z"
+    },
+    {
+      "id": "25",
+      "title": "소니AI, SFX 파운데이션 모델 'Woosh' 공개",
+      "summary": "[Audio] GitHub 저장소 라이선스 확인값: Apache-2.0, v1.0.1 공개 2026-09-10. 오디오 인코더/디코더+텍스트 조건화+T2A(텍스트→오디오)·V2A(영상→오디오) 생성모델 풀세트, 저자원 환경용 distilled 경량판 포함. 공개 데이터셋만 학습에 써 가중치까지 깨끗한 라이선스임을 명시. StableAudio-Open·TangoFlux 대비 경쟁력 있는 성능이라고 자체 평가. cocy.io에서 쓸모: 기존 MOSS-SoundEffect 외에 영상→사운드 자동 SFX 보강용 대안으로 검토 가치.",
+      "category": "ai-tech",
+      "source": "GitHub (Sony AI)",
+      "sourceUrl": "https://github.com/SonyResearch/Woosh",
+      "publishedAt": "2026-09-10T12:47:26Z"
+    },
+    {
+      "id": "26",
+      "title": "허깅페이스, 브라우저 WebGPU 커널 207개 공개 '@huggingface/kernels'",
+      "summary": "[Edge] Apache-2.0, 2026-10-25 발표(webgpu.com 확인). 행렬곱·정규화·컨볼루션·어텐션·양자화 등 브라우저 추론에 반복적으로 쓰이는 저수준 연산 207개를 버전별 저장소로 공개, npm 패키지(@huggingface/kernels)로 HF Hub에서 바로 받아 쓰는 구조. Apple M4에서 ONNX Runtime Web 대비 벤치마크 결과도 공개. cocy.io에서 쓸모: 배경제거·동물상 판정류 온디바이스 브라우저 서비스의 추론 속도 개선 기반기술로 추적할 가치.",
+      "category": "ai-tech",
+      "source": "webgpu.com",
+      "sourceUrl": "https://webgpu.com/news/hugging-face-webgpu-kernels-browser-ai/",
+      "publishedAt": "2026-10-25T00:00:00Z"
     }
   ]
 }
