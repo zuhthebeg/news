@@ -81,6 +81,87 @@
       "source": "인벤",
       "sourceUrl": "https://www.invenglobal.com/articles/27610/nexons-azur-promilia-officially-launches-november-26",
       "publishedAt": "2026-10-23T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "아침 출근길 기온 ‘뚝’…수도권 등 일부 지역에선 빗방울 - 경향신문",
+      "summary": "서울 등 수도권 아침 기온이 전날보다 크게 떨어지고 일부 지역엔 빗방울이 떨어지며 출근길 체감 추위가 심해졌다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1FSHhmV015YmE3YUswcXI0QTZxM3NIRFVoNkFxT2xIa0dXeXVkdVIzT0RaZ0xDakFmVm9YbXJZNzV6Y2NBVXlRR3B0LXBoa0tMTEgtM0w1VUlaZ9IBX0FVX3lxTFBQeENaOHczcEtPX0lFUEczNDlCRUlRZ1V2R0t5X0IyNVZCWnFGcG8xMEVnVWdZQzViYXVSNVBDLWJCTVRnZVRuVTlKa3d0cmdBMkxCZGpxUmVhV0JJa1ZV?oc=5",
+      "publishedAt": "2026-11-02T22:33:00Z"
+    },
+    {
+      "id": "11",
+      "title": "10월 물가 2.8%↑…석유류 14.9%·가공식품 2.9% 상승 - 한국무역협회-KITA.NET",
+      "summary": "10월 소비자물가가 전년 동월 대비 2.8% 올랐다. 석유류가 14.9%, 가공식품이 2.9% 상승하며 물가 상승을 이끌었다.",
+      "category": "economy",
+      "source": "한국무역협회-KITA.NET",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNRHVBMTB0TF9BRmd6YVBfZW5ZeVc1cUFEY3FKaDRFOFRFekU2dUZaMVoxcnozTXNfY1VoS2EwWWNZb3pyektncmpEVndNa0czdUVuWUViQXlxOWNjcS1weTB6QnY1NWRPSDByY0JoVDZBNDl5cEJKaFZjXzZJZHVOd3kwZHZlcDI1RURQbWRsekZfV29QTEY2RlFwQUwzOFdrMjRUZWhQLXhIaE15alZvVmNQdWhBSHBiM1JVMDZKUFhxN1hyY3pjV3FPYTNObDkxa1hIYjd3?oc=5",
+      "publishedAt": "2026-11-02T23:53:21Z"
+    },
+    {
+      "id": "12",
+      "title": "'트럼프 운명의 날' 美 중간선거…민주당 하원 탈환 유력 - 한국경제",
+      "summary": "미국 중간선거 투표가 임박한 가운데 민주당이 하원 다수당 탈환에 유력하다는 전망이 나온다. 트럼프 행정부의 남은 2년 국정 운영에 분수령이 될 전망이다.",
+      "category": "world",
+      "source": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE43WFpxTzV6c25vWHdCaEJzbndhOGZjMEFob0xyNFhpN1JUMTJETGNsMXJyQWl5YU5ZQjFFRnhicEZhSmMtbWhKVG1xRmp4c0pQMjZVYzBTR3V3dw?oc=5",
+      "publishedAt": "2026-11-02T21:33:32Z"
+    },
+    {
+      "id": "13",
+      "title": "애플, 제품값 올려 부품 폭등 상쇄… 7~9월 역대 최대 매출 - 조선일보",
+      "summary": "애플이 부품 가격 폭등분을 제품 가격 인상으로 상쇄하며 7~9월 분기 역대 최대 매출을 기록했다.",
+      "category": "tech",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQZlBEemluME83M3J1ckRKYkNIeUhQVTZhcW5aZEFNVmhjblJpYVZEYzdpcy01dXNuYVh4aGdOb2ljY0RGMXZSWmhub2RES0hpczdQQWVocTBLbVN0d0NSZmtpazNUYi1DRG8tSWNwZGZLcGNVSHFqUTNxRzVUMk84RnNmNA?oc=5",
+      "publishedAt": "2026-11-02T23:04:00Z"
+    },
+    {
+      "id": "14",
+      "title": "금투업계로 확산하는 해킹, 한양증권 고객·직원 정보 유출 - 비즈워치",
+      "summary": "금융투자업계로 해킹 공격이 확산하는 가운데 한양증권에서 고객 및 직원 정보가 유출되는 사고가 발생했다.",
+      "category": "tech",
+      "source": "비즈워치",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1DQ0dJWHpOM0pRbDJyT3JZNHphNWNqclByZWNlYnRfU1c4dHVfLVdyaGNISFdXYm13bzJtUF9USUNkVnFUeS15Q3QyVHpzLUluR25GUVZGZlJ6R0hxUTF6U3p1VFl5VjQ4b0E?oc=5",
+      "publishedAt": "2026-11-02T23:43:03Z"
+    },
+    {
+      "id": "15",
+      "title": "보이저 1호, 11월 18일 인공물 최초로 지구에서 \"1광일\" 거리 도달 예정 - GeekNews",
+      "summary": "NASA의 보이저 1호가 11월 18일 인류가 만든 인공물 중 최초로 지구로부터 '1광일' 거리에 도달할 예정이다.",
+      "category": "science",
+      "source": "GeekNews",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiS0FVX3lxTE1vUXpVbHlwSnVodE1WdHhUMkxEU0p3TlU4RjZDZWlzdk9QMXdaU2pvM0xFQnRBM3c0VElzVGVCXzl3T3Z2ZThLMUZRbw?oc=5",
+      "publishedAt": "2026-11-02T01:32:24Z"
+    },
+    {
+      "id": "16",
+      "title": "논문 1417편 하루만에 무더기 철회…학술단체 역대 최대 규모 - DongA Science",
+      "summary": "국제 학술단체가 하루 만에 논문 1417편을 무더기로 철회하며 역대 최대 규모의 철회 사태가 발생했다.",
+      "category": "science",
+      "source": "DongA Science",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE9qWTZGdFpDT3hTd0ZZNjVmWS1QaWdRNmh3dVc5RVhLam5zOVAyLV9rbWFDVThORUkzci1ydlA2NGt1SGxEbmZrdXpvSTNDbFU5U3RjOA?oc=5",
+      "publishedAt": "2026-11-01T04:16:00Z"
+    },
+    {
+      "id": "17",
+      "title": "11월 게임업계, 신작 공개부터 e스포츠까지 '활발' - 현대경제신문",
+      "summary": "11월 국내 게임업계가 신작 공개부터 e스포츠 행사까지 다양한 활동을 이어가며 활발한 모습을 보이고 있다.",
+      "category": "gaming",
+      "source": "현대경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9PSnk4bXJPWkRrNFRwZ2xGNnhscDI2bTRBNXI0Sml4M1RIYWFzcWNOZmRGUnlVOUJvbmFYMXp2TUZZZWFwcm9LZlU1enBiOG84ZEkwNWZTcER0eEJuc0tlNnRoMWpkTkln0gFrQVVfeXFMUHVyY0l2YlZRbnh4U2Z3TTBsVk8yUlVXbjhId0RKdktPc01rR202Y3JuMjAzMHVJZU9YbkRMU0JfcEtNbmVVTjZHWS1mcjFhVU9pYVlJZ2FsRVlWNk1nLVNIcW9tRTFuUC1mQUE?oc=5",
+      "publishedAt": "2026-11-02T07:45:09Z"
+    },
+    {
+      "id": "18",
+      "title": "[게임업계 소식] 펄어비스 붉은사막, PS ‘플레이어스 초이스’ 후보 선정 外 - 브릿지경제",
+      "summary": "펄어비스의 신작 '붉은사막'이 플레이스테이션 '플레이어스 초이스' 후보에 선정되는 등 게임업계 소식이 이어졌다.",
+      "category": "gaming",
+      "source": "브릿지경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKTjFXRmxCLUZpR1l6UTlseWFCT3MwNUpoQUU4T1dVU0RjRGxnNmNlQWY3TWg2SXVENEhkX3BHU2pjaHVsRjlyM2hCWTFDRVNBRmswbW9CcXZtQQ?oc=5",
+      "publishedAt": "2026-11-02T04:01:00Z"
     }
   ]
 }
