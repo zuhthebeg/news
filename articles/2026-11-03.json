@@ -162,6 +162,33 @@
       "source": "브릿지경제",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBKTjFXRmxCLUZpR1l6UTlseWFCT3MwNUpoQUU4T1dVU0RjRGxnNmNlQWY3TWg2SXVENEhkX3BHU2pjaHVsRjlyM2hCWTFDRVNBRmswbW9CcXZtQQ?oc=5",
       "publishedAt": "2026-11-02T04:01:00Z"
+    },
+    {
+      "id": "19",
+      "title": "게임 NPC가 Fish Audio로 실시간 음성 대화하는 오픈소스 툴킷 'NPCTalk' 공개",
+      "summary": "[Tool] GitHub 확인값: MIT 라이선스, 2026-10-15 공개, 215 stars. 어떤 게임의 어떤 NPC든 Fish Audio(Drama 3·S2 Pro) 클론보이스로 즉석 대화하게 만드는 셀프호스팅 음성 서버+에이전트 스킬 모음. GTA V 실제 적용 예제가 포함돼 있고 Claude Code·Codex·Cursor 등 코딩 에이전트가 바로 게임에 연동하도록 설계됐다. cocy.io에서 쓸모: 현재 수동 녹음 중인 고스톱 콜 음성이나 추후 ARPG NPC 대화에 실시간 보이스클로닝 연동 구조를 참고할 만한 MIT 오픈소스 레퍼런스.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/christos-antono/NPCTalk",
+      "publishedAt": "2026-10-15T23:37:25Z"
+    },
+    {
+      "id": "20",
+      "title": "로컬 ComfyUI 기반 게임 에셋 올인원 스위트 'OpenCartridge' 출시",
+      "summary": "[Tool] GitHub 확인값: MIT 라이선스, 2026-10-29 공개, 자체 GPU에서 ComfyUI 워커로 돌아가는 100% 로컬 게임 에셋 제작 스위트. 이미지·스프라이트시트·애니메이션·오디오·3D(GLB)를 레이어·언두 있는 캔버스에서 합성하고 Docker 한 줄로 설치, 워커 모델은 '카트리지' 단위로 원클릭 설치·실행된다. cocy.io에서 쓸모: 현재 SDXL/FLUX/ACE-Step 등 파이프라인이 각각 스크립트로 분리된 상태인데, 이런 통합 로컬 워크벤치 UI 구조를 게임 에셋 제작 내부 툴링 참고용으로 볼 만하다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/camenduru/OpenCartridge",
+      "publishedAt": "2026-10-29T21:30:41Z"
+    },
+    {
+      "id": "21",
+      "title": "업로드 없이 브라우저에서 바로 도는 배경제거 툴 'RMBG' 공개",
+      "summary": "[Edge] GitHub 확인값: MIT 라이선스, 2026-10-26 최종 업데이트. BiRefNet-lite(512px, MIT) 모델을 WebGPU/WASM으로 브라우저에서 직접 구동해 이미지를 서버로 전혀 업로드하지 않고 배경을 제거하는 온디바이스 웹앱. 모발 등 디테일 보존, 투명 PNG 내보내기, 지우기/복원 브러시, 최대 24장 일괄 처리를 지원한다. cocy.io에서 쓸모: 현재 캐릭터 모션 파이프라인에서 쓰는 서버사이드 rembg 단계를 브라우저 클라이언트 측으로 옮기는 경량 대안 참고 사례.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Velmet44/rmbg",
+      "publishedAt": "2026-10-26T16:07:33Z"
     }
   ]
 }

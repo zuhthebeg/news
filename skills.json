@@ -1597,6 +1597,32 @@
         "mit"
       ],
       "addedAt": "2026-11-02"
+    },
+    {
+      "title": "디지털 휴먼 코우보 (digital-human-koubo)",
+      "description": "사진 한 장+문장 하나로 립싱크된 AI 발표자 숏폼 영상을 자동 제작하는 스킬. 스크립트·보이스 클린업·자막·유튜버풍 패키징까지 48개 컴포넌트로 전부 에이전트가 처리.",
+      "icon": "🧑‍💻",
+      "category": "media",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "tags": [
+        "digital-human",
+        "talking-head",
+        "video-generation"
+      ],
+      "addedAt": "2026-11-03"
+    },
+    {
+      "title": "Reverse Engineer Anything (Self-Learning Loop)",
+      "description": "라이선스 허가된 제품을 리버스엔지니어링해 자체 버전을 만들고, 체크리스트의 모든 필수항목을 통과할 때까지 원본과 대조·수정을 반복하는 자가학습 루프 스킬.",
+      "icon": "🔁",
+      "category": "dev",
+      "url": "https://github.com/Speedrunlab/reverse-engineer-anything-self-learning-loop",
+      "tags": [
+        "reverse-engineering",
+        "self-learning",
+        "qa-loop"
+      ],
+      "addedAt": "2026-11-03"
     }
   ]
 }
