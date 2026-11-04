@@ -108,6 +108,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/glincker/awesome-selfhosted-ai",
       "publishedAt": "2026-10-31T05:50:40.000Z"
+    },
+    {
+      "id": "13",
+      "title": "HeartMuLa, 3B 작곡 모델 'HeartMuLa-oss-3B' MLX 포팅 공개 — Apache-2.0",
+      "summary": "[Audio] HeartMuLa 팀의 3B 파라미터 작곡(music-generation) 모델이 mlx-community를 통해 애플 실리콘용 bf16/8bit 포팅으로 공개됐다(베이스 모델 HeartMuLa/HeartMuLa-oss-3B-happy-new-year HF 등록일 2026-02-13, 최근 업데이트는 같은 날). 라이선스는 apache-2.0으로 상업 사용 가능. 함께 나온 오디오 코덱 HeartCodec-oss도 동일 라이선스. cocy.io에서 쓸모: 이미 리듬게임 어드민 파이프라인(가사→곡 자동생성)에 HeartMuLa 계열을 쓰고 있어, 이 체크포인트를 BGM/트랙 생성 품질 비교 테스트에 바로 넣어볼 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/HeartMuLa/HeartMuLa-oss-3B-happy-new-year",
+      "publishedAt": "2026-02-13T07:16:34.000Z"
+    },
+    {
+      "id": "14",
+      "title": "gradium, 31M 초경량 영어 TTS 'phonon-31m-en' 공개 — WebGPU 브라우저 구동, Apache-2.0",
+      "summary": "[Edge] gradium이 공개한 'phonon-31m-en'은 파라미터 31M짜리 초경량 영어 TTS 모델이다(HF 등록일 2026-10-19). 커뮤니티가 바로 WebGPU 온브라우저 버전(blixt/phonon-31m-en-webgpu)으로 포팅했고 두 모델 모두 apache-2.0 라이선스로 상업 사용 가능. 같은 gradium 계열의 독일어판(phonon-40m-de)은 cc-by-nc-4.0이라 상업 이용 불가라 영어판과는 라이선스가 다르니 혼동 주의. cocy.io에서 쓸모: 서버 호출 없이 브라우저에서 바로 돌아가는 초경량 TTS라 게임·페이지 내장 음성 안내용으로 적합.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/gradium/phonon-31m-en",
+      "publishedAt": "2026-10-19T12:02:53.000Z"
+    },
+    {
+      "id": "15",
+      "title": "Tongyi-MAI, 고속 이미지 생성 모델 'Z-Image-Turbo' — Apache-2.0, AMD NPU 포팅도 등장",
+      "summary": "[Image] Tongyi-MAI(알리바바)가 공개한 'Z-Image-Turbo'는 적은 스텝으로 빠르게 생성하는 턴보형 이미지 생성 모델이다(HF 등록일 2025-11-25, 최근 업데이트 2026-01-30). 라이선스는 apache-2.0으로 상업 사용 가능하며, 최근 AMD Ryzen AI(XDNA2) NPU용 INT8 양자화 포팅도 올라왔다. cocy.io에서 쓸모: 로컬 SDXL/FLUX 이미지 파이프라인 대비 생성 속도가 중요한 아이콘·썸네일류 대량 생성 작업에 대안으로 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2025-11-25T15:09:48.000Z"
+    },
+    {
+      "id": "16",
+      "title": "메이투안, 영상생성+연속생성 모델 'LongCat-Video' MIT 라이선스로 공개",
+      "summary": "[Video] 메이투안(美团)이 공개한 'LongCat-Video'는 text-to-video·image-to-video·비디오 연속생성(video-continuation)을 한 모델로 지원한다(HF 등록일 2025-10-24). 라이선스는 MIT로 상업 사용 가능. 다만 공식 VRAM 요구치가 모델카드에 명시돼 있지 않아 12GB급 로컬 GPU에서 실제로 돌아가는지는 확인하지 못했다(수치 미확인). cocy.io에서 쓸모: 캐릭터 걷기 루프 등 모션 생성에 현재 LTX/Wan I2V를 쓰고 있는데, VRAM 요구치를 실측한 뒤 대안으로 검토할 가치는 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/meituan-longcat/LongCat-Video",
+      "publishedAt": "2025-10-24T16:04:08.000Z"
+    },
+    {
+      "id": "17",
+      "title": "Supertone, 다국어 온디바이스 TTS 'Supertonic 3' — openrail, 안드로이드 sherpa-onnx 포팅 등장",
+      "summary": "[Tool] Supertone이 공개한 'Supertonic 3'(베이스 모델 HF 등록일 2026-05-06, 최근 업데이트 2026-05-18)은 한국어·일본어 포함 30개 이상 언어를 지원하는 온디바이스 TTS다. 라이선스는 openrail로 상업 사용이 허용된다(2026-10-01 Threads에서 이미 한 차례 소개한 모델인데, 이번에 안드로이드/sherpa-onnx용 INT8 포팅이 추가로 올라왔다). cocy.io에서 쓸모: 한국어 지원+모바일 on-device 배포가 쉬워 subway-dice 같은 앱 내 로컬 TTS 후보로 계속 추적 중.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Supertone/supertonic-3",
+      "publishedAt": "2026-05-06T20:46:20.000Z"
     }
   ]
 }
