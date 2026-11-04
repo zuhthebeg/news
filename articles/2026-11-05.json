@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-05",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령 \"대통령 주도 개헌, 국민 수용성 낮아... 오해 키울 수도\"",
+      "summary": "이재명 대통령이 임기 내 개헌 추진 제안에 대해 대통령이 주도하는 개헌은 국민 수용성이 낮다며 신중한 입장을 밝혔다. 개헌은 여야 합의를 통해 추진돼야 한다는 점을 강조했다.",
+      "category": "domestic",
+      "source": "한국일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE0tVjIwM1ROVEdYX1pTRlp4UlVqV3EyVmdvRzJ6ZlFiclZTQ1pfVDFId0dtRTFFZ1VTX2VEZFQtaG05enJIbGp1dDNidlZJeEFMTjBqTll5akROaXFSYmEtd1htbGpFWjJKc1doc09BeDM?oc=5",
+      "publishedAt": "2026-11-04T08:08:04Z"
+    },
+    {
+      "id": "2",
+      "title": "과징금·화재에…쿠팡 올해 누적손실 1.8조",
+      "summary": "쿠팡이 당국의 과징금 부과와 물류센터 화재 등의 영향으로 올해 누적 손실이 1조8000억원에 달한 것으로 나타났다. 실적 악화에 투자자들의 우려가 커지고 있다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1ZbmplYTVYZVFEekFsOUV0SEFjMUJEVU4zTEdueWNCOGNkMGlicnJhWTRNZmlHYl9aSmF4cDBUalF3bnZTdEpLY2dyM2NMUzItWWxQS1dDWUNVQQ?oc=5",
+      "publishedAt": "2026-11-04T09:26:03Z"
+    },
+    {
+      "id": "3",
+      "title": "신촌세브란스 정신과 교수 흉기 피습…경찰, 살인미수 혐의 검토",
+      "summary": "서울 신촌세브란스병원에서 정신과 교수가 흉기에 피습당하는 사건이 발생해 경찰이 살인미수 혐의를 검토하고 있다. 병원 측은 피해 교수 치료와 재발 방지 대책 마련에 나섰다.",
+      "category": "domestic",
+      "source": "주간조선",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5IOUQxZXBsaS1VMmI4STZaRFRTS1JWRnhoMlI1WlZrSTNZZHViaUdpMTVueHMxTnRpREtlZnA2MDlwLWZPME03UXg2eFozU04tTEdkZFVsUmRQZHFiclUzUWVWM1QyWW5CcmfSAW5BVV95cUxQZF9JRUhYS1huTE1Ba2R5VXdLMTYyQ2RwMG1JS3hfbFFzdzFiaFpCNk1Ia3F0TDBfT29lemk1ZVhkMHB3SFVMSFZjVjl0eDIxR0RpcjRVbmVmWmQ0aVA1aGo4OEhnNG9CR1VoaFdxUQ?oc=5",
+      "publishedAt": "2026-11-04T08:42:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Democrats eye Big Tech after midterm wins",
+      "summary": "미국 중간선거에서 승리한 민주당이 빅테크 기업에 대한 규제와 조사를 강화할 것으로 전망된다. AI 데이터센터 확장과 반독점 이슈가 주요 타깃이 될 것으로 보인다.",
+      "category": "tech",
+      "source": "The Hill",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNb3loX0VQeHJjMmVFajRxU0d2Y1V6NG1YampYUUlsY0lOd21mR1JQU255NUxFRUxvS0NmVEVFY2ZDUUJXdUFNbTY4U25fOU9xSWF5ZGptOEJhNUJCTU5zR1QwbE02clhFQW5fMWhGUVBJTUI0TmcyTkpXMFdBNE5VN3ZQellSbWR1T2J2clBwaVM3WEFnMElfZWNJWXllTXPSAaQBQVVfeXFMUGdKaENDYXZERU9QNVg4VHJlUnA5MzYtX0NpZUxLV0llRTBIREc4dThBUHdsUHNNLVNCdlI2WENnVGtaS0pndDlTZGhmeHRuQ1otaXhqOXZCanpXOXZVcGE0SDh1ajY2a1UwY2lGb1FITE9RN21oZHNhNWt0YlUtV05LekJTYXdSYzEwN2RzdFhubXBrUkpScnlQbklIRUNPbkgycmQ?oc=5",
+      "publishedAt": "2026-11-04T16:24:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Hyperscalers and Apple surge after election results remove investor uncertainty",
+      "summary": "미국 중간선거 결과로 정치적 불확실성이 해소되면서 애플을 비롯한 하이퍼스케일러 빅테크 주가가 동반 상승했다. 투자자들은 AI 인프라 투자 기조가 이어질지 주목하고 있다.",
+      "category": "tech",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWmplNFEtTXU2b1NKbUJMa01Wd09UUGVIdGVFLS1UM053RUNzRlpKX0pOb3JTcWFzZjlUSkdobEcyVTM5V3U5WTJKWDNnWHN4ejF1dXpGcFZ5eXY5eVVWaHVfZGpSb3pVVW8zWnlWeG5LUlFsWHF4V2FiWlFEbW4wSUt1MDE4UDZUSmdCclYycFdwNERTWTk2MlpCb2hUbUg2Q3Zmc3Jn0gGrAUFVX3lxTE9Rc0NOODZwbWVUdjMwQTNON09qTzYtcFdOSy1MaVRsWTh5TW1jT2NVdndaeW55RkowcXlwOEpiUTVzLXBsWjhWbmtSRWVzZWJBSi1DWnAxUlA3elBKUGdvZFpEQlNBckpUUjNFeWVYbENaTDNDT0Fqczdyd3VoU1JQS2wzcXd6QkRSUUxPU1c0c0J6ak1NUEdGZGk1Sms0X2hBbC1LNUNmV0I0VQ?oc=5",
+      "publishedAt": "2026-11-04T19:37:43Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA's James Webb Space Telescope is wobbly—scientists have a fix that could reveal new alien worlds",
+      "summary": "제임스웹 우주망원경에서 미세한 흔들림 현상이 발견됐으나, 과학자들은 이를 보정할 방법을 찾아내 외계 행성 관측에 활용할 수 있다고 밝혔다. 이 보정 기술은 향후 외계 세계 발견에 기여할 전망이다.",
+      "category": "science",
+      "source": "Scientific American",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNd3dhUy1kM3dpTjk3b3NHOE80Sk96ZXhNYVJOczZtRUk0blFvSjBNM0xyR2VXOVFzbjVFaVBvSjd3bkJMQzZYTXJWbUZsVXZUTWFqcnVTMUZmdmY3VFE2SW5WYk9kenBZZFZXcTRPek5EQkJNbVpNbkJ0RzY3UnFjZWMwWGRkd1FHY3FtYWJDa3I1M29iQVdUZ18tV1FGNDBWU1Q3RUhOWWtCMnM5WUlGcTFaV0U1aFZVWXVrSDV0TWNodVNqdGlwQmlZNXhoVFFIOExOTUh3WGdHYzg?oc=5",
+      "publishedAt": "2026-11-04T16:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Gene editing could replace a lifetime of medication, but there's a catch",
+      "summary": "유전자 편집 기술이 평생 복용해야 하는 약물 치료를 대체할 수 있는 가능성을 보여주고 있지만, 안전성과 장기적 효과에 대한 우려도 함께 제기되고 있다. 연구진은 추가 임상 검증이 필요하다고 설명했다.",
+      "category": "science",
+      "source": "Science Daily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5LdnJGaV93eFdIUVVGRG92VTJLTHBfYVFObkI4eXpwR1h3SkVhc1BXbmdHMHJzRFZDN2hsNG0wWlRZaFVsbFFVRWEyWmlKeVV1U3p6NzhoWTVaRUZxbDBoMDhCdmtBRTVDT1RGZWcwOA?oc=5",
+      "publishedAt": "2026-11-04T04:35:08Z"
+    },
+    {
+      "id": "8",
+      "title": "GTA VI tops Japan's developer poll as the industry counts down to its November 19, 2026 launch",
+      "summary": "오는 11월 19일 출시를 앞둔 'GTA 6'가 일본 게임 개발자 설문조사에서 가장 기대되는 게임으로 꼽혔다. 업계는 출시 임박에 따라 기대감이 고조되고 있다고 전했다.",
+      "category": "gaming",
+      "source": "Latin Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSm8ydGhudW5LeG9QQzNkWVdOMjB1YVVCQzkyZ21QalhwZV92aEY5RmFBbVBJYUhwS040SnR5bkxPVWZwRC02QlpCQkRsTkpVanFPdzgwd21hQTZRUHFXODU5eTgybTNrZXRnLUU3aGR6QnVOdjZoeU80NElkRnQzckRPWnNwaTFtN0NMb2dIYw?oc=5",
+      "publishedAt": "2026-11-04T16:32:40Z"
+    },
+    {
+      "id": "9",
+      "title": "Tripwire expands publishing to focus on smaller games",
+      "summary": "게임 퍼블리셔 트립와이어가 대형 프로젝트 대신 소규모 게임 퍼블리싱에 집중하는 방향으로 사업을 확장한다고 밝혔다. 업계의 비용 효율화와 리스크 관리 전략 변화를 보여주는 사례로 평가된다.",
+      "category": "gaming",
+      "source": "Game Developer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ3BEVEtTNjBhTW5wT0ozYWQ0LTJkZVNEa2p5eXY5bE9kcUVNOG9QQVd1MHZzUGtvRkg3LXRxSDVoNV82VnFYWG56WmU3Z0p5Mk5Ib3BGci1hQXIxMm5GLWtrd3BPc2t2RlVmSzVrd1FUX1dQWERWU1laT2I4d1dxYTZROXYyU3FmWks0aEpBYW1VNkdDR1hzUkhsVkY0YWlZRU9pR2xxWTNpNXo3eHRrc2tjcEFheFlNcGZjZ1ppT0IwVTlNZXp3?oc=5",
+      "publishedAt": "2026-11-04T19:45:31Z"
+    }
+  ]
+}
