@@ -81,6 +81,33 @@
       "source": "Mashable Benelux",
       "sourceUrl": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPZFBvZU1iZGEzV2hSVVVzYmh0czU4ZEdtRGRrU2RzODhiekRGX2NvYmhvZlF6MlJiZkttUE45VUZRREQyRFBUZ05ia3lzTVRmOWdRb1NINng5ZWJQNGhfcUlUcldGa0I1M05CanFyVE5aaUhwd0VnR1VmQXUyQ1NJVms0MWVnMkhmaENJOWZOMmdWSjlVV2JuUXBxX0d2RjVVb29mWU5xRQ?oc=5",
       "publishedAt": "2026-11-03T18:02:50Z"
+    },
+    {
+      "id": "10",
+      "title": "Pika Labs, MiniMax-H3 기반 영상생성 LoRA 'Pika H3 Flex' 공개 — 6스텝 생성·오디오 동기화",
+      "summary": "[Video] Pika Labs가 MiniMax-H3 베이스모델 위에 포스트트레이닝한 영상생성 모델 'Pika H3 Flex'를 오픈웨이트로 공개했다(HF 등록일 2026-10-29). 6스텝 샘플링으로 빠르게 생성하면서도 최대 12장의 레퍼런스 이미지를 입력받아 동기화된 오디오까지 포함한 480p/768p 영상을 로컬에서 뽑을 수 있다. 라이선스는 MiniMax-H3 커뮤니티 라이선스로 apache/mit/openrail 계열이 아니라 상업 허용 여부는 라이선스 미확인 상태다. cocy.io에서 쓸모: 게임 프로모 영상이나 Threads 조공용 숏폼 클립을 레퍼런스 이미지+프롬프트만으로 빠르게 시안 제작할 때 검토 가능하나, 상용 서비스 반영 전 라이선스 조항 재확인 필요.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Pika-Labs/Pika-H3-Flex",
+      "publishedAt": "2026-10-29T17:08:44.000Z"
+    },
+    {
+      "id": "11",
+      "title": "에이전트와 사람이 같은 워크스페이스 쓰는 터미널 이미지 CLI 'ImagenCli' 공개",
+      "summary": "[Image] 개발자 NekoCCN이 터미널/TUI에서 이미지 생성·편집을 다루는 'ImagenCli'를 MIT 라이선스로 공개했다(GitHub 등록일 2026-10-22). OpenAI 호환 Images 엔드포인트나 Gemini generateContent를 연결해 생성 요청을 세션·플랜 단위로 관리하고, 로컬 업스케일링·복원 같은 후처리도 지원한다. 사람과 코딩 에이전트가 동일한 세션·작업물을 공유해 이어서 작업할 수 있는 구조다. cocy.io에서 쓸모: 서브에이전트가 게임 아트 생성 요청을 구조화된 JSON으로 큐에 넣고 검토·승인 후 실행하는 파이프라인으로 참고 가능.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/NekoCCN/ImagenCli",
+      "publishedAt": "2026-10-22T16:38:33.000Z"
+    },
+    {
+      "id": "12",
+      "title": "로컬 AI 생성툴 전수조사 리스트 'awesome-selfhosted-ai', 매주 자동 헬스체크로 큐레이션",
+      "summary": "[Tool] glincker가 만든 'awesome-selfhosted-ai'는 로컬 LLM·채팅UI·에이전트·RAG·음성·이미지 생성 등 셀프호스팅 오픈소스 AI 도구를 분류한 리스트로, 매주 자동으로 레포 상태를 점검해 죽은 프로젝트를 제거한다(GitHub 등록일 2026-10-31, CC0). 단순 나열이 아니라 유지보수 상태를 자동 검증한다는 점이 차별점이다. cocy.io에서 쓸모: 이 데일리 레이더가 신규 로컬 모델/툴 후보를 찾을 때 상시 참고할 2차 소스로 활용 가능.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/glincker/awesome-selfhosted-ai",
+      "publishedAt": "2026-10-31T05:50:40.000Z"
     }
   ]
 }
