@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-06",
+  "articles": [
+    {
+      "id": "1",
+      "title": "홍준표 \"이 대통령, 트럼프식 SNS 감정정치···더 나가면 위험\"",
+      "summary": "홍준표 전 국민의힘 대표가 이재명 대통령의 SNS 정치 방식을 트럼프식 감정정치에 빗대며 자제가 필요하다고 지적했다. 그는 대통령의 메시지 전달 방식이 도를 넘으면 위험할 수 있다고 경고했다.",
+      "category": "domestic",
+      "source": "주간경향",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE5yaGZlTzIwbmZFS0lEb2ZGUm5Hd0RiN2dfb1VaZEt1V05fSldQWlYwcGY0V2RGeXM5cWJHUEp4QWlZaEVRRjE1LVhnWkJ2QWQzRDJVQVRPUWJjd3RmU3c?oc=5",
+      "publishedAt": "2026-11-05T15:43:00Z"
+    },
+    {
+      "id": "2",
+      "title": "미 선거에 흔들린 반도체…복잡해진 우리 경제 셈법",
+      "summary": "미국 중간선거 이후 정치 지형 변화로 반도체 업계의 불확실성이 커지면서 한국 경제에 미칠 파장에 대한 우려가 제기됐다. 전문가들은 통상·투자 전략 재검토가 필요하다고 진단했다.",
+      "category": "economy",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBENzhfQ0lZWDNkZEVlMmlCSmQyOGMzdEt0dDNoclpuOFRlU3I0a19OT0diV2xtRGozRnBxSXJidGtocVNZbldpemxnQXhKem44X0pVa0g2V3NBYWs?oc=5",
+      "publishedAt": "2026-11-05T12:07:00Z"
+    },
+    {
+      "id": "3",
+      "title": "삼성바이오 노조, 오늘부터 부분파업 돌입",
+      "summary": "삼성바이오로직스 노동조합이 노사 임금 협상 교착에 따라 5일부터 부분파업에 들어갔다. 법원이 전면파업을 금지한 가운데 비생산 부서 중심의 파업이 진행되고 있다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE96QzFRRkU4LXIzZHlsOFZIZHBueWk4dTFIX09YTUU3SVJhbzNGYnJhemp3M0Vqc29HUWUtbFZnRGFRNGxCOTNpX2RsV2pHc19KWTUxSTQwQmVVNjDSAWBBVV95cUxQSmtPc01EWVBVY2VLdHZqbDNQMVo3bTBFNDVhM1V2bXJLc29KU2k4aTlnLWJOVEk0YmtSb08yMklTZ29USERTRzBobHpFMXM0UVlna0hxdWstV2hiT2RGdVI?oc=5",
+      "publishedAt": "2026-11-05T15:01:00Z"
+    },
+    {
+      "id": "4",
+      "title": "DigiCert data breach exposes customer information, identity documents",
+      "summary": "글로벌 인증기관 디지서트(DigiCert)에서 데이터 유출 사고가 발생해 고객 개인정보와 신원 확인 문서가 노출됐다. 회사는 영향받은 고객에게 통지하고 보안 조치를 강화하고 있다고 밝혔다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPR0pKaThvaTRjdm5PWThSR2xlWE1WVWlQSUcyQkdhVEdIMjhlWFNNaEdaNU5JLWF4WHZNWTlPZEFTMVVSMWRkUzh6aDllWk1mbkhaTG5LcURSNFhQVDdqRVNLUDFrM3AxSXVhRDZKb0dDQTJrMjFqeDJtOFUxWEtsS3p4ejQ4SnowZW0zTGhRU0tyWl9mRFBRaVFRSkpEWkNBN3lJdlNTazV4SHZiV2hRQ0I5VUlNVkE?oc=5",
+      "publishedAt": "2026-11-05T16:12:46Z"
+    },
+    {
+      "id": "5",
+      "title": "Tech stocks are suffering their biggest selloff since Covid, as investors see premature end to AI datacenter boom",
+      "summary": "AI 데이터센터 투자 붐이 조기에 꺾일 수 있다는 우려로 빅테크 기술주가 코로나19 이후 최대 규모의 매도세를 겪고 있다. 투자자들은 과도한 자본지출에 대한 수익성 의문을 제기하고 있다.",
+      "category": "tech",
+      "source": "Fortune",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQMkVYUk9kS1BvOXM0S2FGZllMUU5oaFctVE1iVTNJUzhfVkJxbmxQcFhORzVscVZHMEhKZGxhYlZyRkVHdmhOei1NZTF4R0VxUVVKMkwtZEpIRVdlTmhIaTEzUzBEb0xoSndDS0ZoVEM3SXdQWjIwR0Z6b0VqWFQ1Yl9GMjFla254bEJPcGF4VldzQnZ5dlZ4Z09JQWJRVXRfWDgtdUYxdUJZSUs3b1dhSHZUUU9iWUxBc2J1ME5jdkVHYlItZ29aOXlFdjZXdjJjWU1UN1AyeGRNUQ?oc=5",
+      "publishedAt": "2026-11-05T20:48:00Z"
+    },
+    {
+      "id": "6",
+      "title": "China's Tiangong Space Station Achieves Record 9.7 Picokelvin Atomic Gas",
+      "summary": "중국 톈궁 우주정거장에서 원자 기체를 절대온도 9.7피코켈빈까지 냉각시키는 데 성공해 극저온 물리 실험의 새로운 기록을 세웠다. 이 성과는 미세중력 환경에서의 양자물리 연구에 중요한 전환점이 될 것으로 평가된다.",
+      "category": "science",
+      "source": "DongA Science",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE5heUhzMktaemtYUTJfNXJLdXFaMGtuMmEzUy1lRGxzS2hfaEswVFhnT1RBQWg1UVVFZlcxQ2ZmRjVleXUwSzJTdnNPUTV5THhjaE9lUA?oc=5",
+      "publishedAt": "2026-11-05T19:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Scientists turn viruses into weapons against deadly superbugs",
+      "summary": "연구진이 박테리오파지(세균을 공격하는 바이러스)를 이용해 항생제 내성균에 대응하는 새로운 치료법을 개발했다. 이 접근법은 기존 항생제가 효과를 내지 못하는 치명적인 슈퍼박테리아 감염 치료에 돌파구가 될 수 있다는 평가다.",
+      "category": "science",
+      "source": "Science Daily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE10YVVTTnVHeFMzQmRNU3M3YmFIcWUyZC11c0UyeEF3MnVUekpYZzdzSlMxY3pDOXM3VDVEWm9xN1FPVWp0Ym1udC1KYjhEMERUWTRNVTJHRTdsZXB6NHFzUEc5LUNodWVfVXRlN1Y4cw?oc=5",
+      "publishedAt": "2026-11-05T02:42:06Z"
+    },
+    {
+      "id": "8",
+      "title": "넷마블, 내년 신작 13종 내놓는다···출시 속도 조절 '끝'",
+      "summary": "넷마블이 2027년에 13종 이상의 신작 게임을 출시하겠다고 밝히며 그동안의 출시 지연 흐름을 끝내겠다는 계획을 공개했다. 회사는 AI 기반 업무 환경 구축으로 개발 속도를 끌어올렸다고 설명했다.",
+      "category": "gaming",
+      "source": "시사저널e",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTE5lMWI5Y2VzU01Lc3JieGR2WWpLVzNQaWQ3WGVRSnVldlptUnpCWUpuY2NZNDlodkRNcVlPZUFNR29RU202OGNfMGlMck0yclFZX0FuWEpRcTJBeU5RbHpSeUpUWmxHd2RtUF8yQTBWeHlxUdIBdkFVX3lxTE1VOFM0VFAyMlIwLWZNNnVoek1MUGZFb1JTV0xURGJxd1MxZ3RZb3VQeVNLbi10ZDMtNnlXUkE4enlGRk8ySlA0TFU2RVR1OFpMZ2EtQmRfWFZMMDFyMUVOcW9rVTItV3lGc3BYSFNlT1IwRm5qQmc?oc=5",
+      "publishedAt": "2026-11-05T08:07:08Z"
+    },
+    {
+      "id": "9",
+      "title": "AI 생성 게임의 리뷰 대기열 폭주에 따라 Valve, Steam 게임 제출 규정 강화",
+      "summary": "AI로 제작된 게임의 스팀 심사 요청이 폭증하면서 심사 대기 기간이 최대 12영업일까지 늘어나자, 밸브가 출시 전 5분간 게임을 직접 실행해야 하는 의무 규정을 새로 도입했다. 이는 저품질·부정 게임의 대량 등록을 막기 위한 조치로 풀이된다.",
+      "category": "gaming",
+      "source": "Hypebeast.KR",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMifkFVX3lxTE90RV9ybURka3hIVGFmbGN5bWZfYVNhcF9Ub3dhVUpYU1pndGRaZDR6Y1FndlNlVkVkazFGTTIxM0dDNlREUE5qLV93ZDR5UmJJS3JJNmhvX0pZUEJvSFlVTmtZeWFUd2NvM3hfYWtSX0Z1Znpqcno4UGd2eW5wdw?oc=5",
+      "publishedAt": "2026-11-05T08:35:39Z"
+    }
+  ]
+}
