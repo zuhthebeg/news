@@ -1,6 +1,19 @@
 {
   "skills": [
     {
+      "title": "Skill Vetter",
+      "description": "스킬 설치 전 먼저 돌리는 보안 점검 프로토콜. curl/eval·자격증명 접근·MEMORY.md 읽기 등 레드플래그를 체크리스트로 훑어 설치 승인 여부를 판단한다.",
+      "icon": "🔒",
+      "category": "dev",
+      "url": "https://clawhub.ai/spclaudehome/skills/skill-vetter",
+      "tags": [
+        "security",
+        "skill-vetting",
+        "code-review"
+      ],
+      "addedAt": "2026-11-05"
+    },
+    {
       "title": "Taste Skill",
       "description": "프론트엔드 디자인 품질을 봐주는 스킬. polish/bolder로 방향 지시, critique/audit로 리뷰하며 브라우저로 실제 렌더링을 확인해 'AI 느낌 나는 뻔한 페이지'를 걸러낸다.",
       "icon": "🎨",

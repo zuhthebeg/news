@@ -81,6 +81,33 @@
       "source": "Game Developer",
       "sourceUrl": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQ3BEVEtTNjBhTW5wT0ozYWQ0LTJkZVNEa2p5eXY5bE9kcUVNOG9QQVd1MHZzUGtvRkg3LXRxSDVoNV82VnFYWG56WmU3Z0p5Mk5Ib3BGci1hQXIxMm5GLWtrd3BPc2t2RlVmSzVrd1FUX1dQWERWU1laT2I4d1dxYTZROXYyU3FmWks0aEpBYW1VNkdDR1hzUkhsVkY0YWlZRU9pR2xxWTNpNXo3eHRrc2tjcEFheFlNcGZjZ1ppT0IwVTlNZXp3?oc=5",
       "publishedAt": "2026-11-04T19:45:31Z"
+    },
+    {
+      "id": "10",
+      "title": "[Edge] Liquid AI, 2.2B 온디바이스 옴니모달 모델 'LFM3-Omni-2B' 공개",
+      "summary": "[Edge] Liquid AI가 텍스트·이미지·영상·오디오를 한 모델로 입력받아 텍스트와 24kHz 음성으로 답하는 2.17B 파라미터 온디바이스 옴니모달 모델 LFM3-Omni-2B를 공개했다. ASR·VLM·LLM·TTS 네 모델을 하나로 대체해 폰·노트북급 엣지 기기에서 돌리도록 설계됐으며, 한국어를 포함한 16개 언어 텍스트와 다국어 음성을 지원한다. cocy.io에서 쓸모: 음성 질의응답형 미니앱이나 온디바이스 보이스 어시스턴트 프로토타입을 서버 비용 없이 띄워볼 수 있다. 라이선스는 Liquid AI 자체 LFM Open License로 표기돼 상업적 허용 범위가 명시적으로 확인되지 않아 라이선스 미확인으로 분류.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/LiquidAI/LFM3-Omni-2B",
+      "publishedAt": "2026-11-03T07:41:18Z"
+    },
+    {
+      "id": "11",
+      "title": "[Image] 49.8M 초소형 CPU 구동 픽셀아트 게임 아이콘 생성 모델 'pixelart-50m'",
+      "summary": "[Image] 개인 개발자 azyg0s가 32×32 RGBA 투명배경 픽셀아트 게임 아이콘을 뽑는 49.8M 파라미터 플로우매칭 UNet 모델을 처음부터 학습해 공개했다. OpenGameArt CC0 스프라이트 등 17만5000여 장으로 학습했고 GPU 없이 CPU에서도 돌아가며 MIT 라이선스로 상업 사용이 자유롭다. cocy.io에서 쓸모: 게임 아이템·포션·소품 아이콘을 FLUX 같은 대형 모델 없이 로컬 CPU에서 즉석으로 대량 생성하는 보조 파이프라인으로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/azyg0s/pixelart-50m",
+      "publishedAt": "2026-10-23T11:47:07Z"
+    },
+    {
+      "id": "12",
+      "title": "[Edge] TRELLIS 3D 생성모델, 애플 실리콘 Metal GGUF로 양자화돼 맥에서 로컬 구동",
+      "summary": "[Edge] 개발자 memgrafter가 이미지 한 장을 3D 메시로 바꾸는 TRELLIS 기반 모델을 애플 실리콘 Metal용 GGUF로 양자화하고, 배경 제거에 쓰이는 BiRefNet까지 묶어 맥북에서 바로 돌리는 'conjure3d-mac-gguf'를 공개했다. MIT 라이선스로 상업 사용이 자유로우며, 클라우드 GPU 없이 맥 한 대로 이미지→3D 변환을 끝낸다. cocy.io에서 쓸모: 윈도우 SDXL/FLUX 파이프라인이 막혀있을 때 맥에서 바로 3D 게임 에셋 프로토타입을 뽑아볼 수 있는 보조 경로가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/memgrafter/conjure3d-mac-gguf",
+      "publishedAt": "2026-11-04T07:17:31Z"
     }
   ]
 }
