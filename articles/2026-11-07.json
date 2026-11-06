@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-07",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'조작기소 특검법' 국회 통과...\"정치검찰 엄벌\" vs \"대통령 죄 지우기\"",
+      "summary": "국회가 여당 주도로 '조작기소 특검법'을 본회의에서 통과시켰다. 여야는 법안을 둘러싸고 \"정치검찰을 엄벌해야 한다\"는 입장과 \"대통령의 죄를 지우려는 시도\"라는 입장으로 극명하게 대립했다.",
+      "category": "domestic",
+      "source": "YTN",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1PSF9GTjJqcS1hUmVuMnRKcW02T0RTeEprV2ZuQ1E3eFp0M0cwZXV2Nzllekl1U1pWZ01vZTF1U0NUNVBLN0E1OWVHZUJXbkNjTk1TZi0tcndOd19MTkJEaU9qdFVrSzVmXy1NeUFRaw?oc=5",
+      "publishedAt": "2026-11-06T12:37:00Z"
+    },
+    {
+      "id": "2",
+      "title": "코스피 장중 5000선 붕괴…패닉장세 지속",
+      "summary": "글로벌 AI 데이터센터 투자 과열 우려로 뉴욕증시 기술주 매도세가 이어지는 가운데, 코스피가 장중 5000선 아래로 떨어지며 패닉장세가 계속됐다. 투자자들의 불안감이 확산되며 국내 증시 전반에 충격파가 번지고 있다.",
+      "category": "economy",
+      "source": "한국일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5KXzhhUmRTN09yT2Y2b2dXczYwc1VCZDJTT3pJUkdCX0hGNC1zM0FWODV6OGRQVHM2cnRsSU1DMEx3eTRtY2tHUnYwTkZVdnV3X1RjNEY3VEZOdlQyMldRcVZ4ckgwZ29UQTc5YUU2cEZoRDR2U1Aw0gFzQVVfeXFMT1NsWC1SSkhsYUc3UWJPbTNzTVJRQkt4QkIzWXktNy0yTDg5MlZSaG0zYnk2cjlRRnZuNlhoUDlxNHZpQUdLZVVkZzZTQXNuYXRwMHVmUDFkdUNKVm9mZzRUTk82cTI2dkVDelkzc1dvN2R4WQ?oc=5",
+      "publishedAt": "2026-11-06T19:30:00Z"
+    },
+    {
+      "id": "3",
+      "title": "김민석 사과에도 논란 더 커진 신천지…경찰 수사 나설까",
+      "summary": "김민석 국무총리가 신천지 관련 발언에 대해 사과했음에도 논란이 더 커지면서 경찰 수사 가능성이 거론되고 있다. 종교단체를 둘러싼 정치권 발언 파장이 사회적 논쟁으로 확산되는 모습이다.",
+      "category": "domestic",
+      "source": "에너지경제신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4xeHNCYXR4Mnl3MjQxbWYwQTBBUEtNYVBKQ0NJUjNFMzlwN1dCRVZKTG9UYkVDY1A4RTFpN2xKZzBnYmxaaFRzakptTUstU0dHUjBIOWMxX1VObnEwanhubmNmVQ?oc=5",
+      "publishedAt": "2026-11-06T22:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "California's new teen social media law challenged in court by Meta, TikTok and Google",
+      "summary": "메타, 틱톡, 구글 등 빅테크 기업들이 캘리포니아주의 청소년 소셜미디어 이용 제한법에 대해 법원에 소송을 제기했다. 플랫폼 규제를 둘러싼 빅테크와 주정부 간 갈등이 다시 표면화됐다.",
+      "category": "tech",
+      "source": "CalMatters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNVV96UVNGOHFmOHBWbW1RYkVKMTJJb01IMUFRdU1LSVlONlduQllxeTdIVU04ZGNlVFBZbFRaUGxRUXhwazZaSXg5UWtrUWxFcmltX1BBN0V1bHJ2WUZNSE9GM0wwamVlbmZmVXhjUU5tczRKQmxyNl9zczVaZ3czeVphRXphWTN2LWZBSWV5cHA4cmtocnBIVW9wcDFzWlNCZGN5Rw?oc=5",
+      "publishedAt": "2026-11-06T21:15:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Hackers enlist Artex to scan GitHub repositories for exposed secrets",
+      "summary": "해커들이 'Artex' 도구를 이용해 깃허브 저장소에서 노출된 API 키와 비밀정보를 자동으로 스캔하고 있는 것으로 나타났다. 개발자들의 보안 관리 소홀이 공급망 공격의 새로운 통로가 되고 있다는 우려가 제기된다.",
+      "category": "tech",
+      "source": "Cybersecurity Dive",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNcjNheko0OEJXcmdMSm82LWVPaTVHZlVzeURjYXJ6WG1jaENyajNVUEVFNkFFWUJDOXBKNG00MWZZSWlCY3RIR2lvZkkzdWtmTGFnZ2VlTzl0OTBlTUtRejE4cTlXbGJrbEROMVlLekQxY3ZzUTJ5ejIycGVBNDdCTk1HMXdTaVJ5NUFMdnJJeTd4WDdQSnZ1TDNiblA?oc=5",
+      "publishedAt": "2026-11-06T16:51:27Z"
+    },
+    {
+      "id": "6",
+      "title": "Scientists achieve record-breaking low temperature on China's space station, paving the way for new physics experiments",
+      "summary": "중국 우주정거장에서 과학자들이 사상 최저 온도를 기록하는 데 성공해 극저온 물리 실험의 새 지평을 열었다. 이번 성과는 미세중력 환경에서의 양자물리 연구에 중요한 발판이 될 것으로 기대된다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQWm0zQVJneDhFeHR5Z0F4cTUxallaZEZoMnZFeVNocVNIS1QzSTJwLXVzVjg3REx3NjA1RC1OMjAxYU5oMVJzYUEzZkxMbkE5bkQtTGxWTFNsT2ZadWJLZ1VoMVUxM1huT25DUzhwZXRydmFNNmQ3R2VtVHN5T1RkYUZKSQ?oc=5",
+      "publishedAt": "2026-11-06T17:00:17Z"
+    },
+    {
+      "id": "7",
+      "title": "New research identifies biological differences in pancreatic cancer",
+      "summary": "연구진이 췌장암의 생물학적 차이를 규명해 환자별 맞춤 치료 전략 수립에 기여할 수 있는 연구 결과를 발표했다. 이번 발견은 치료 저항성이 높은 췌장암 치료법 개발에 새로운 단서를 제공할 것으로 기대된다.",
+      "category": "science",
+      "source": "Medical Xpress",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQVjBzSlB3MFhzZTF6eGc3Um12dmJLMEZTUExSTUdsMWtTdE9fRTJfTWd3SFpmWWV5azF1akZ1cXJpbl9xNzlaZlRtVEM4cHdMMzJESEJNQXRsZ2VGdkNMVUp0QzlWc3p4QzU5SldSODRLS1VrN01CY1dpNXE0QktsUG9scFN4TWFUX1E5Ng?oc=5",
+      "publishedAt": "2026-11-06T19:20:06Z"
+    },
+    {
+      "id": "8",
+      "title": "'니케' 해킹 불똥…넥슨·넷마블 등 게임사 보안 비상",
+      "summary": "모바일 게임 '니케' 해킹 사고의 여파로 넥슨, 넷마블 등 주요 게임사들이 보안 점검에 나서며 업계 전반에 긴장감이 확산되고 있다. 게임업계의 공급망 및 계정 보안 체계 강화 필요성이 다시 부각되고 있다.",
+      "category": "gaming",
+      "source": "서울경제TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1sU0oweTJPckI4V3dMRVlQQW9CSUxDcVdhLWpnVGF5ZUdvQ0dxcEdkUEZsX0dGQ1BzbFVBR1RkajBYMzFlLWZPa3pnTWVsN0lLTGV0aDludlB2V1hnWlZhVGJTTWo?oc=5",
+      "publishedAt": "2026-11-06T09:53:31Z"
+    },
+    {
+      "id": "9",
+      "title": "[미리 보는 지스타 2026] 붉은사막·아이온2 '대상' 놓고 격돌",
+      "summary": "'대한민국 게임대상' 시상식에서 펄어비스의 '붉은사막'과 엔씨소프트의 '아이온2'가 대상을 놓고 치열한 경쟁을 벌일 것으로 전망된다. 지스타 2026을 앞두고 신작 기대작들의 격돌이 업계 관심을 모으고 있다.",
+      "category": "gaming",
+      "source": "이뉴스투데이",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE92NTkySUNDa1pYU3gxa2FPbHkyVUxjbExzaUh4cndUaDV4XzBOZ0I5YlFkaDJiSGQwSGRicTR0VGNEamhIa3Yya3JRWE9qWFc4T09OTnZUdkUzcjhDcEhtTnF6QkZkYkQ0Y2o1aUwtS2lzeHJN0gF0QVVfeXFMT3Y1OTJJQ0NrWlhTeDFrYU9seTJVTGNsTHNpSHhyd1RoNXhfME5nQjliUWRoMmJIZDBIZGJxNHRUY0RqaEhrdjJrclFYT2pYVzhPT05OdlR2RTNyOENwSG1OcXpCRmRiRDRjajVpTC1LaXN4ck0?oc=5",
+      "publishedAt": "2026-11-06T08:53:05Z"
+    }
+  ]
+}
