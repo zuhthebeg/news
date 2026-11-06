@@ -162,6 +162,51 @@
       "source": "GamesIndustry.biz",
       "sourceUrl": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNMllSNlE0YmdfTGtISTV3VlpKVS1jX203dVhpbkpoVnRlMjhSekktZVprbHk4aVBsX05fbUIwZ3k0ZXowcWlPUzdZSUYzbFNrSXdpbjlXcUNUbFdQU0N3ckwyZm1RSWIwMXc2X0VHTURySi1wWl9lLVJxT1EzN0oza0lkNEh5eFFUS2o2bUVfTi1yeE5PenhmOFdBd3VvU1ZmUFFHaFlHVHlqWFM5bXNDdEtVUXpsdzVoNkE2OXQ1Z1F4MEE0YmtUWHQ3aEtUU3RScERQUHN6eHFsOU1YaWFHc1RrQWs2NE1hSnFHamxEOThXb05P?oc=5",
       "publishedAt": "2026-11-05T13:15:00Z"
+    },
+    {
+      "id": "19",
+      "title": "Resemble AI Chatterbox-turbo TTS, ggml GGUF 양자화로 CPU 로컬 구동 가능",
+      "summary": "[Audio][Edge] Resemble AI의 TTS 모델 Chatterbox-turbo(MIT, HF 공개 2025-12-02)를 ggml-org가 2026-11-05 GGUF(BF16/Q8_0)로 양자화해 공개했다. llama.cpp류 CPU 추론 생태계에서 그대로 돌릴 수 있어 GPU 없는 환경에서도 TTS 서빙이 가능해졌다. cocy.io에서 쓸모: 쇼츠·고스톱 콜 더빙처럼 GPU를 점유하지 않고 TTS를 돌려야 할 때 CPU 전용 대체 경로로 검토 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ggml-org/chatterbox-turbo-GGUF",
+      "publishedAt": "2026-11-05T19:53:26Z"
+    },
+    {
+      "id": "20",
+      "title": "Alibaba Qwen3-TTS 1.7B 베이스(Apache-2.0) 기반 파생 모델 활발",
+      "summary": "[Audio] 알리바바 Qwen팀의 경량 TTS 베이스 Qwen3-TTS-12Hz-1.7B-Base(Apache-2.0, 2026-01-21 공개)를 기반으로 VoiceDesign·보이스클로닝 파생 모델들이 2026-11-05 연이어 huggingface에 올라왔다. 1.7B급이라 로컬 구동 부담이 적다. cocy.io에서 쓸모: 보이스매치·고스톱 콜처럼 다국어 TTS가 필요한 서비스에 경량 베이스+커뮤니티 파인튠 조합으로 음성 다양화 검토.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-Base",
+      "publishedAt": "2026-11-05T18:45:05Z"
+    },
+    {
+      "id": "21",
+      "title": "OpenMOSS SoundEffect v2.0, GGUF 양자화로 더 가벼워짐",
+      "summary": "[Audio][Edge] cocy.io SFX 파이프라인에서 이미 쓰는 OpenMOSS-Team의 MOSS-SoundEffect-v2.0(Apache-2.0)이 2026-10-28 GGUF로 양자화돼 공개됐다. CPU·저VRAM 환경에서도 사운드이펙트 생성이 가능해진다. cocy.io에서 쓸모: 현재 WSL CUDA로 돌리는 SFX 생성을 저VRAM/CPU 백업 경로로도 돌릴 수 있는지 검증 대상.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/agentory/moss-soundeffect-gguf",
+      "publishedAt": "2026-10-28T21:46:50Z"
+    },
+    {
+      "id": "22",
+      "title": "Alibaba Z-Image-Turbo(6B, Apache-2.0) 로컬 이미지 생성 생태계 활발",
+      "summary": "[Image] 알리바바 Tongyi-MAI의 경량 터보 디퓨전 모델 Z-Image-Turbo(약 62억 파라미터, Apache-2.0, 2025-11-25 공개)가 이번 주에도 LoRA 파생작이 다수 올라오며 로컬 이미지 생성 생태계에서 꾸준히 쓰이고 있다. cocy.io에서 쓸모: 현재 FLUX.1-dev·SDXL 위주 아트 파이프라인에 라이선스가 깨끗한 경량 대안으로 속도·품질 비교 검토(FLUX.1-dev는 비상업 라이선스).",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Tongyi-MAI/Z-Image-Turbo",
+      "publishedAt": "2025-11-25T15:09:48Z"
+    },
+    {
+      "id": "23",
+      "title": "Wan2.2 TI2V-5B(Apache-2.0) FastWan Turbo GGUF Q8 양자화 공개(11/4)",
+      "summary": "[Video][Edge] 알리바바 Wan-AI의 경량 비디오 생성 모델 Wan2.2-TI2V-5B(50억 파라미터, Apache-2.0, 2025-07 공개)가 2026-11-04 FastWan Turbo 기반 GGUF Q8_0로 양자화돼 저VRAM 환경에서도 로컬 영상 생성이 가능해졌다. cocy.io에서 쓸모: 게임 프로모 영상·쇼츠용 짧은 클립을 로컬 3080Ti(12GB)에서 돌릴 수 있는지 검증 대상.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/karlsencoin/Wan2.2-TI2V-5B-Turbo-FastWan-Q8_0-GGUF",
+      "publishedAt": "2026-11-04T19:58:20Z"
     }
   ]
 }
