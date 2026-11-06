@@ -1636,6 +1636,19 @@
         "qa-loop"
       ],
       "addedAt": "2026-11-03"
+    },
+    {
+      "title": "SkillHone",
+      "description": "매 작업 결정을 로컬 Git issue/PR/wiki로 남겨 SKILL.md와 스크립트·레퍼런스 전체를 지속 개선하는 텐센트의 스킬 진화 프레임워크.",
+      "icon": "🧬",
+      "category": "dev",
+      "url": "https://github.com/Tencent/SkillHone",
+      "tags": [
+        "skill-evolution",
+        "tencent",
+        "decision-history"
+      ],
+      "addedAt": "2026-11-06"
     }
   ]
 }
