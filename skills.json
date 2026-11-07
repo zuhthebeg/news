@@ -1649,6 +1649,45 @@
         "decision-history"
       ],
       "addedAt": "2026-11-06"
+    },
+    {
+      "title": "weifan-skill (喂饭)",
+      "description": "낯선 코드베이스나 에이전트가 짜준 프로젝트의 아키텍처를 질문-답변식으로 한 조각씩 떠먹여 가르치는 스킬.",
+      "icon": "🍚",
+      "category": "dev",
+      "url": "https://github.com/ban-boi/weifan-skill",
+      "tags": [
+        "architecture",
+        "코드이해",
+        "교육"
+      ],
+      "addedAt": "2026-11-07"
+    },
+    {
+      "title": "Polymarket Complete-Set Checker (Lite)",
+      "description": "Polymarket YES+NO 가격차가 테이커 수수료를 넘는지 계산하는 읽기전용 스킬. 지갑·API키 없이 파이썬 표준라이브러리만 사용.",
+      "icon": "📊",
+      "category": "data",
+      "url": "https://github.com/0xNagato/polymarket-complete-set-checker-lite",
+      "tags": [
+        "polymarket",
+        "arbitrage",
+        "finance"
+      ],
+      "addedAt": "2026-11-07"
+    },
+    {
+      "title": "Agent Skills Free (GlowHalo)",
+      "description": "결과물을 독립 리뷰어 패스로 검토해 '수정안 있는 거부'만 받아들이는 QA 루프, 죽은 링크와 로그인 월·차단을 구분하는 체크 스킬 2종.",
+      "icon": "🔁",
+      "category": "dev",
+      "url": "https://github.com/glowhalo/agent-skills-free",
+      "tags": [
+        "qa",
+        "review",
+        "link-check"
+      ],
+      "addedAt": "2026-11-07"
     }
   ]
 }
