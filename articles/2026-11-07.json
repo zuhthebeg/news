@@ -90,6 +90,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/psychocrackpot/sdxs-512-dreamshaper-sketch-onnx-webgpu",
       "publishedAt": "2026-11-02T11:01:05.000Z"
+    },
+    {
+      "id": "11",
+      "title": "ACE-Step 1.5 플래너 LM, GGUF Q6_K 양자화로 경량화",
+      "summary": "[Audio] HF API 확인값: createdAt 2026-11-05, 라이선스 mit(원본 ACE-Step/Ace-Step1.5 모델카드 기준, 변환시점 기준). ACE-Step 1.5에서 곡 설명+가사를 템포/키/구조/오디오코드 플랜으로 바꾸는 1.7B '플래너' LM을 acestep.cpp용 GGUF Q6_K로 양자화(가중치는 변환·양자화 외 원본과 동일). cocy.io에서 쓸모: 현재 WSL CUDA로 돌리는 ACE-Step BGM 파이프라인의 플래너를 더 가벼운 GGUF로 교체해 저VRAM/CPU 환경에서도 BGM 플랜 생성을 실험해볼 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/GainPublications/ACE-Step-1.5-lm-1.7B-GGUF",
+      "publishedAt": "2026-11-05T14:10:05.000Z"
+    },
+    {
+      "id": "12",
+      "title": "Audio8-TTS-Realistic-Air, 0.6B로 23개 언어 제로샷 보이스클로닝",
+      "summary": "[Audio] HF API 확인값: createdAt 2026-10-14, lastModified 2026-11-02, 라이선스 apache-2.0. Edge0의 Audio8-TTS-Preview-0.6b 후속으로 601M 파라미터 경량 구조를 유지하면서 지원 언어를 11개→23개로 늘리고 자연스러움을 개선. 참조 음성+텍스트로 제로샷 보이스클로닝 또는 레퍼런스 없는 생성 모두 지원, 44.1kHz 코덱 포함. cocy.io에서 쓸모: 현재 쇼츠 표준 보이스(CosyVoice3)가 Edge-TTS로 폴백 중인 문제의 대체 후보로, 로컬 경량 보이스클로닝 TTS 실험 대상.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
+      "publishedAt": "2026-10-14T03:02:49.000Z"
+    },
+    {
+      "id": "13",
+      "title": "OpenMOSS MOSS-Image-SFT, 텍스트·레이아웃 제어 가능한 text-to-image",
+      "summary": "[Image] HF API 확인값: createdAt 2026-10-11, 라이선스 apache-2.0. MOSS-SoundEffect와 같은 OpenMOSS 팀이 공개한 MOSS-Image-Base의 SFT판으로, 자연어 프롬프트뿐 아니라 태그 시퀀스·JSON 레이아웃으로 텍스트 배치와 객체 배치를 직접 제어할 수 있다. ComfyUI 패키징판(Comfy-Org/MOSS-Image)은 누적 다운로드 527만회로 이미 널리 쓰이는 중. cocy.io에서 쓸모: 이미 MOSS-SoundEffect 로컬 파이프라인을 운영 중이라 같은 생태계 지식을 재사용할 수 있고, FLUX가 약한 '이미지 안 텍스트 정확히 박기'(카드/배너 문구)를 테스트해볼 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-SFT",
+      "publishedAt": "2026-10-11T07:01:17.000Z"
+    },
+    {
+      "id": "14",
+      "title": "BiRefNet-lite 1024 WebGPU 그래프, 브라우저 배경제거 OOM 버그 수정",
+      "summary": "[Edge] HF API 확인값: createdAt 2026-11-03, 라이선스 mit. BiRefNet-lite를 1024 해상도로 돌릴 때 onnxruntime-web이 그래프 대부분을 CPU EP로 떨어뜨려 std::bad_alloc으로 죽던 문제를 그래프 구조만 재작성해 해결(가중치는 원본과 동일, CPU EP 대비 max diff 0 검증됨). 실서비스 Backgroundless.io에서 서버 업로드 없는 브라우저 배경제거 상위 티어로 이미 쓰이는 중. cocy.io에서 쓸모: log.cocy.io 재고 사진이나 enhance 에셋의 배경제거를 서버 호출 없이 방문자 브라우저에서 1024 해상도로 처리하는 실험 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/namiklee/birefnet-lite-1024-webgpu",
+      "publishedAt": "2026-11-03T15:47:17.000Z"
+    },
+    {
+      "id": "15",
+      "title": "OmniGen2 int4/int8 양자화, ComfyUI 단일파일로 통합 생성+편집",
+      "summary": "[Image] HF API 확인값: createdAt 2026-11-06, 라이선스 apache-2.0(원본 OmniGen2/OmniGen2 기준). 통합 이미지 생성·편집 모델 OmniGen2를 ComfyUI용 단일파일로 int8(W8A16)·int4(W4A16) weight-only 양자화해 VRAM 사용량을 낮췄다. cocy.io에서 쓸모: 로컬 3080Ti(12GB)에서 '생성+편집'을 한 모델로 처리해 VRAM을 아끼는 FLUX 대안 후보로 실험해볼 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/JoaoZaokk/OmniGen2-W8A16-W4A16",
+      "publishedAt": "2026-11-06T23:51:18.000Z"
     }
   ]
 }
