@@ -81,6 +81,51 @@
       "source": "Linum AI",
       "sourceUrl": "https://www.linum.ai/field-notes/pjit-21k",
       "publishedAt": "2026-11-03T14:50:23.000Z"
+    },
+    {
+      "id": "10",
+      "title": "Wan2.2 Image-to-Video 14B, GGUF 양자화로 로컬 GPU 구동 쉬워짐",
+      "summary": "[Video] HF 확인값: Apache-2.0, createdAt 2026-11-05(이번 주). Alibaba 비디오 생성모델 Wan2.2의 14B Image-to-Video 버전을 GGUF로 양자화한 업로드(my-app-s)로, ComfyUI-GGUF 등 llama.cpp 계열 양자화 지원 툴체인에서 VRAM을 낮춰 구동할 수 있다. cocy.io에서 쓸모: 3080Ti 12GB에서 풀프리시전으로는 버거운 14B 영상생성모델을 양자화로 로컬 테스트해볼 경로. 캐릭터 걷기모션/루프 생성 실험에 적용 검토 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face (my-app-s)",
+      "sourceUrl": "https://huggingface.co/my-app-s/Wan2.2-I2V-A14B-GGUF",
+      "publishedAt": "2026-11-05T20:55:13.000Z"
+    },
+    {
+      "id": "11",
+      "title": "Transformers.js 4.3.2, Liquid AI LFM3/LFM3-VL 지원 추가",
+      "summary": "[Edge][Tool] GitHub 확인값: Apache-2.0, 릴리스 2026-10-28(10월 말). Hugging Face의 브라우저 네이티브 추론 라이브러리 Transformers.js 4.3.2가 Liquid AI의 엣지 특화 모델 LFM3/LFM3-VL 지원을 추가했다. ONNX Runtime Web + WebGPU 백엔드로 서버 없이 브라우저에서 바로 모델을 돌리는 런타임이다. cocy.io에서 쓸모: 서버 호출 없는 온디바이스 기능(동물상·그놈 성문대조류)을 늘릴 때 참고할 추론 런타임 업데이트.",
+      "category": "ai-tech",
+      "source": "GitHub (huggingface/transformers.js)",
+      "sourceUrl": "https://github.com/huggingface/transformers.js/releases/tag/4.3.2",
+      "publishedAt": "2026-10-28T02:23:09.000Z"
+    },
+    {
+      "id": "12",
+      "title": "Kandinsky S2V 1.0, 음성 구동 아바타 영상생성 모델 공개(Lite/Pro)",
+      "summary": "[Video] HF 확인값: MIT, createdAt 2026-11-05(이번 주). Kandinsky Lab이 오디오(음성) 입력으로 인물 아바타의 입모양·표정을 구동하는 Speech-to-Video 모델 'Kandinsky S2V 1.0'을 Lite/Pro 두 버전으로 공개했다(arXiv:2610.19290). cocy.io에서 쓸모: 기존 TTS/보이스 더빙(고스톱 콜, 쇼츠 내레이션)에 캐릭터 얼굴 영상을 입혀 짧은 아바타 클립을 만드는 후처리 단계로 테스트 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face (ml-resources / Kandinsky Lab)",
+      "sourceUrl": "https://huggingface.co/ml-resources/Kandinsky-S2V-1.0-Lite",
+      "publishedAt": "2026-11-05T06:42:25.000Z"
+    },
+    {
+      "id": "13",
+      "title": "FireRedTTS3, 애플 실리콘용 MLX int8 양자화판 등장",
+      "summary": "[Audio] HF 확인값: Apache-2.0, 베이스 FireRedTTS3 createdAt 2026-08-13·오늘(2026-11-08) MLX q8 양자화 업로드. 제로샷 보이스클로닝을 지원하는 FireRedTeam의 다국어(한국어 포함) TTS 모델 FireRedTTS3가 Apple Silicon에서 가볍게 도는 MLX int8 버전으로 변환됐다. cocy.io에서 쓸모: 직접적인 로컬(WSL+3080Ti) 활용은 아니지만, 베이스 모델 자체가 오픈소스 제로샷 멀티보이스 더빙 대안 후보로 남겨둘 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face (knyshukvova / FireRedTeam)",
+      "sourceUrl": "https://huggingface.co/knyshukvova/fireredtts3-mlx-q8",
+      "publishedAt": "2026-11-08T01:54:40.000Z"
+    },
+    {
+      "id": "14",
+      "title": "SperidLabs 'Idol', 사진 한 장을 3D 가우시안 스플랫으로 변환",
+      "summary": "[Image] HF 확인값: Apache-2.0, createdAt 2026-10-28(다운로드 2만·좋아요 1,135). 물체 사진 한 장을 입력하면 사진에 없던 뒷면까지 포함해 최대 100만 개 3D 가우시안으로 복원하는 image-to-3D 모델 'Idol'을 SperidLabs가 공개했다. cocy.io에서 쓸모: 캐릭터 레퍼런스 이미지 1장으로 3D 형태를 뽑아내는 파이프라인(기존 TRELLIS 활용과 비교·보완)으로 검토할 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face (speridlabs)",
+      "sourceUrl": "https://huggingface.co/speridlabs/idol",
+      "publishedAt": "2026-10-28T15:55:17.000Z"
     }
   ]
 }
