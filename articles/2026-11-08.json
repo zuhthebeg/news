@@ -72,6 +72,15 @@
       "source": "Newsday",
       "sourceUrl": "https://www.newsday.com/business/nintendo-earnings-japan-games-mario-profit-j09903",
       "publishedAt": "2026-11-07T05:21:59Z"
+    },
+    {
+      "id": "9",
+      "title": "2인 연구랩 Linum AI, VAE 없는 2B 픽셀공간 text-to-image 모델 'P-JiT' $21K 학습비로 공개",
+      "summary": "[Image] HF 확인값: Apache-2.0, createdAt 2026-11-03. 영상생성 모델을 처음부터 자체 학습하는 2인 연구랩 Linum AI가 VAE(오토인코더) 없이 픽셀 공간에서 직접 학습하는 2B 파라미터 text-to-image 모델 'P-JiT'를 실험적으로 공개했다. 본래 차세대 영상모델 개발 중 나온 부산물인데, H100 기준 학습비 약 $21,000에 불과한 2B급 모델 치고 결과물 품질이 예상보다 좋아 Apache-2.0으로 공유했다고 밝혔다(HN 280+점). cocy.io에서 쓸모: VAE 압축 손실 없이 더 적은 비용으로 이미지 모델을 처음부터 학습하는 구조라, 추후 게임 아이콘·카드 아트 전용 초소형 모델을 자체 학습시킬 때 참고할 아키텍처.",
+      "category": "ai-tech",
+      "source": "Linum AI",
+      "sourceUrl": "https://www.linum.ai/field-notes/pjit-21k",
+      "publishedAt": "2026-11-03T14:50:23.000Z"
     }
   ]
 }
