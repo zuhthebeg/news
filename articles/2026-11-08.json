@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-08",
+  "articles": [
+    {
+      "id": "1",
+      "title": "\"조작기소 특검법은 '이재명 탈옥법'\"…거리 나선 국힘, '탄핵' 거론",
+      "summary": "국민의힘이 '조작기소 특검법'을 '이재명 탈옥법'으로 규정하며 장외투쟁에 나섰다. 당내에서는 이재명 대통령 탄핵 가능성까지 거론되며 여야 갈등이 격화되고 있다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/politics/politics_general/1286236.html",
+      "publishedAt": "2026-11-07T09:25:00Z"
+    },
+    {
+      "id": "2",
+      "title": "국민 55.9% \"李정부 경제 잘못하고 있다\", 38.5% \"잘하고 있다\"-리얼미터",
+      "summary": "리얼미터 여론조사 결과 국민 55.9%가 이재명 정부의 경제 운용을 부정적으로 평가했으며, 38.5%만이 긍정적으로 평가한 것으로 나타났다.",
+      "category": "economy",
+      "source": "문화일보",
+      "sourceUrl": "https://www.munhwa.com/article/11629284",
+      "publishedAt": "2026-11-06T01:33:29Z"
+    },
+    {
+      "id": "3",
+      "title": "후티 \"사우디 공습으로 예멘 수도 인근서 27명 사망\" 주장(종합)",
+      "summary": "예멘 후티 반군이 사우디아라비아의 공습으로 수도 사나 인근에서 27명이 사망했다고 주장했다. 후티 반군은 이에 대한 보복으로 사우디 국제공항과 아람코 석유 저장시설을 미사일·무인기로 타격했다고 밝혔다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261107052851099",
+      "publishedAt": "2026-11-07T18:49:11Z"
+    },
+    {
+      "id": "4",
+      "title": "The iPhone Duo has more than 100,000 optimized apps, Apple says",
+      "summary": "애플이 자사의 듀얼스크린 기기 '아이폰 듀오'에 최적화된 앱이 10만 개를 넘어섰다고 발표했다. 신규 폼팩터에 대한 개발자 생태계 대응이 빠르게 확산되고 있음을 보여준다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1028813/apple-iphone-duo-optimized-apps",
+      "publishedAt": "2026-11-07T14:28:23Z"
+    },
+    {
+      "id": "5",
+      "title": "Fan Fiction Platform AO3, With 11 Million Users, Down for Ninth Day After Cyberattack",
+      "summary": "1100만 명이 이용하는 팬픽션 플랫폼 아카이브 오브 아워 온(AO3)이 사이버 공격을 받아 9일째 서비스가 중단된 상태다. 대규모 커뮤니티 플랫폼을 노린 장기 디도스성 공격의 피해 규모가 주목받고 있다.",
+      "category": "tech",
+      "source": "BigGo Finance",
+      "sourceUrl": "https://finance.biggo.com/news/f9209deb-3e43-46f7-88db-af09f3d41d9c",
+      "publishedAt": "2026-11-07T20:35:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA is advertising for new astronauts as it prepares to build a moon base",
+      "summary": "NASA가 아르테미스 프로그램 확대와 달 기지 건설을 위해 신규 우주비행사 모집에 나섰다. 유인 달 탐사 재개를 위한 인력 확충 작업이 본격화되고 있다.",
+      "category": "science",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/nasa-astronauts-moon-space-789a68a0425551b9870b17911eaa042e",
+      "publishedAt": "2026-11-07T18:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Gamescom 2026: What's next for the gaming industry?",
+      "summary": "세계 최대 게임 박람회 '게임스컴 2026'을 계기로 게임 산업의 향후 방향을 조망했다. 콘솔·PC·모바일 경계가 흐려지는 가운데 업계의 전략 변화가 관심을 모은다.",
+      "category": "gaming",
+      "source": "DW.com",
+      "sourceUrl": "https://www.dw.com/en/gamescom-2026-gaming-industry-future/a-78502849",
+      "publishedAt": "2026-11-07T03:57:20Z"
+    },
+    {
+      "id": "8",
+      "title": "Japanese video game company Nintendo reports rising profit, falling sales",
+      "summary": "닌텐도가 최근 실적 발표에서 매출은 감소했지만 이익은 증가했다고 밝혔다. 스위치2 전환기 속에서도 수익성 관리에 성공한 모습으로 평가된다.",
+      "category": "gaming",
+      "source": "Newsday",
+      "sourceUrl": "https://www.newsday.com/business/nintendo-earnings-japan-games-mario-profit-j09903",
+      "publishedAt": "2026-11-07T05:21:59Z"
+    }
+  ]
+}
