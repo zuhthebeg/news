@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-09",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'조작기소 특검법' 국회 통과…국민의힘, 장외투쟁 돌입하며 탄핵론까지",
+      "summary": "더불어민주당 등 범여권이 필리버스터를 강제 종료시키며 '조작기소 특검법'을 통과시키자 국민의힘이 강력 반발하고 있다. 장동혁 대표는 \"탄핵만이 답\"이라며 청와대 앞 집회 등 장외투쟁 일정을 이어가겠다고 밝혔다.",
+      "category": "domestic",
+      "source": "아이뉴스24",
+      "sourceUrl": "https://inews24.com/view/2023216",
+      "publishedAt": "2026-11-06T10:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "코스피, 美 중간선거 충격에 6% 급락…5059선 턱걸이 마감",
+      "summary": "미국 중간선거에서 민주당이 상·하원을 모두 장악하는 결과가 나오자 반도체주를 중심으로 투매가 쏟아지며 코스피가 전장보다 6.02% 급락한 5059.69에 마감했다. 삼성전자와 SK하이닉스도 각각 6%, 10% 넘게 하락했다.",
+      "category": "economy",
+      "source": "네이트뉴스",
+      "sourceUrl": "https://m.news.nate.com/view/20261106n22504",
+      "publishedAt": "2026-11-06T07:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "美 중간선거서 민주당 상·하원 모두 장악…'분점정부' 시대 열려",
+      "summary": "2026년 미국 중간선거에서 민주당이 상원과 하원 다수당을 모두 차지하며 압승을 거뒀다. 생활비 부담과 공직 부패에 대한 유권자 불만이 투표 결과에 큰 영향을 미친 것으로 분석된다.",
+      "category": "world",
+      "source": "KUT News",
+      "sourceUrl": "https://www.kut.org/politics/2026-11-03/democrats-win-full-control-of-congress-ushering-in-a-new-era-of-divided-government",
+      "publishedAt": "2026-11-04T05:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "인증기관 디지서트, 서버 이전 오류로 고객 여권·운전면허증 정보 유출",
+      "summary": "보안 인증기관 디지서트(DigiCert)가 2025년 서버 이전 과정의 오류로 내부 시스템이 외부에 노출돼 약 16개월간 고객 데이터와 일부 여권·운전면허증 등 신원 확인 문서가 유출됐다고 밝혔다. 핵심 인증 시스템인 CertCentral과 DigiCert ONE은 영향을 받지 않았다고 설명했다.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://bleepingcomputer.com/news/security/digicert-data-breach-exposes-customer-information-identity-documents",
+      "publishedAt": "2026-11-05T12:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "애플, iOS 27.3부터 iCloud 공개 링크 유해 콘텐츠 검사 시작",
+      "summary": "애플이 iOS·iPadOS·macOS·visionOS 27.3부터 '링크가 있는 모든 사용자'로 공유된 iCloud 파일에 대해 유해 콘텐츠 검사를 시작한다고 밝혔다. 유해 콘텐츠로 적발되면 해당 콘텐츠를 삭제하고 관련 애플 계정을 정지할 수 있다.",
+      "category": "tech",
+      "source": "9to5Mac",
+      "sourceUrl": "https://9to5mac.com/2026/11/04/with-ios-27-3-apple-will-start-checking-icloud-public-links-for-harmful-content/",
+      "publishedAt": "2026-11-04T15:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "우주서 키운 뇌종양 오가노이드, 지상 배양보다 더 공격적 특성 재현",
+      "summary": "미국 노터데임대 연구팀이 국제우주정거장(ISS)에서 40일간 교모세포종(글리오블라스토마) 오가노이드를 배양한 결과, 염증·혈관 형성 관련 유전자 발현이 높아지고 면역억제 종양 환경이 재현되는 등 지상 배양보다 진행성 암의 특징을 더 잘 구현했다고 밝혔다.",
+      "category": "science",
+      "source": "News-Medical.Net",
+      "sourceUrl": "https://www.news-medical.net/news/20261030/Space-grown-organoids-better-replicate-aggressive-glioblastoma-tumors.aspx",
+      "publishedAt": "2026-10-30T09:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "美 바르다 스페이스, 항암제 'PROTAC' 결정 우주 제조 실험 발사",
+      "summary": "미국 바르다 스페이스 인더스트리스가 지난 10월 20일 발사한 W-7 미션으로 차세대 항암제 PROTAC 성분이 무중력 환경에서 어떻게 결정화되는지 시험하고 있다. 중력이 없는 환경에서는 결정이 더 균일하게 자라 약물의 체내 흡수율을 높일 수 있을 것으로 기대된다.",
+      "category": "science",
+      "source": "Axios",
+      "sourceUrl": "https://www.axios.com/2026/10/20/cancer-drugs-space-varda",
+      "publishedAt": "2026-10-20T14:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "유니티, 사우디 PIF·실버레이크 컨소시엄과 약 25조원 규모 인수 협상",
+      "summary": "로이터통신에 따르면 게임엔진 기업 유니티가 사우디아라비아 공공투자기금(PIF)과 실버레이크가 주도하는 컨소시엄과 약 250억 달러 규모의 인수를 논의 중이다. 아직 초기 단계로 투자은행을 통해 옵션을 검토하고 있으며 확정된 계약은 없는 것으로 전해졌다.",
+      "category": "gaming",
+      "source": "PocketGamer.biz",
+      "sourceUrl": "https://pocketgamer.biz/silver-lake-and-pif-explore-25bn-deal-to-acquire-unity",
+      "publishedAt": "2026-11-06T10:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "레미디 엔터테인먼트, '컨트롤: 레조넌트' 흥행에 3분기 매출 226% 급증",
+      "summary": "핀란드 게임사 레미디 엔터테인먼트가 9월 24일 출시한 '컨트롤: 레조넌트'의 흥행에 힘입어 2026년 3분기 매출이 전년 동기 대비 226% 증가한 3960만 유로를 기록했다고 발표했다. 이 게임은 출시 3주 만에 전 세계 판매량 100만 장을 넘기며 회사 역사상 가장 빠르게 팔린 타이틀이 됐다.",
+      "category": "gaming",
+      "source": "InvenGlobal",
+      "sourceUrl": "https://www.invenglobal.com/articles/28095/remedys-revenue-triples-as-control-resonant-becomes-its-fastest-selling-game",
+      "publishedAt": "2026-11-03T09:00:00Z"
+    }
+  ]
+}
