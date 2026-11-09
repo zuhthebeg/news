@@ -81,6 +81,15 @@
       "source": "InvenGlobal",
       "sourceUrl": "https://www.invenglobal.com/articles/28095/remedys-revenue-triples-as-control-resonant-becomes-its-fastest-selling-game",
       "publishedAt": "2026-11-03T09:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Kyutai Pocket TTS 파인튠 'Silencio-2', 112MB 1파일로 감정·보이스클로닝 CPU 구동",
+      "summary": "[Audio][Edge] BlueRoseLabs가 Kyutai의 온디바이스 TTS 베이스 pocket-tts(18M)를 파인튠한 Silencio-2(CC-BY-4.0, 2026-10-31 공개)를 내놨다. 텍스트 안에 [sigh]·<whisper> 같은 태그로 한숨·속삭임 등 감정과 음향을 직접 지시할 수 있고, 몇 초짜리 레퍼런스 음성만으로 보이스클로닝이 가능하며, 가중치가 112MB 한 파일에 들어가 Apple M4 CPU 4스레드에서 실시간의 20배 속도로 돈다. cocy.io에서 쓸모: 고스톱 콜·쇼츠 더빙처럼 GPU 없이 빠른 감정 표현 TTS가 필요한 경로의 CPU 전용 대체재로 검토 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/BlueRoseLabs/Silencio-2",
+      "publishedAt": "2026-10-31T21:42:14Z"
     }
   ]
 }
