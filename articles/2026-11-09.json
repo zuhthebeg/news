@@ -90,6 +90,42 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/BlueRoseLabs/Silencio-2",
       "publishedAt": "2026-10-31T21:42:14Z"
+    },
+    {
+      "id": "11",
+      "title": "1~2스텝 초고속 이미지 생성 NitroFusion2, 오늘 GGUF 양자화 등록",
+      "summary": "[Image] ChenDY가 11월 3일 공개한 NitroFusion2(Apache-2.0)는 Tongyi Z-Image-Turbo를 기반으로 멀티모달 디퓨전 트랜스포머의 텍스트 스트림에 적대적 손실을 적용해 1~2스텝만에 선명한 텍스트·디테일을 렌더링하는 초고속 text-to-image 모델이다. 11월 9일 Q4_0 GGUF 양자화가 커뮤니티에 추가로 올라왔다. cocy.io에서 쓸모: 게임 썸네일·프로모 이미지를 1~2스텝으로 초고속 드래프트할 때 검토, Apache-2.0이라 상업 이용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ChenDY/NitroFusion2",
+      "publishedAt": "2026-11-03T00:00:00Z"
+    },
+    {
+      "id": "12",
+      "title": "50M 초경량 로컬 피아노 작곡 모델 Resonate MusiX T1 공개",
+      "summary": "[Audio] ResonateIntegrated가 11월 7일 공개한 Resonate-MusiX-T1-50M(MIT)은 5041만 파라미터 오토리그레시브 디코더 트랜스포머로, 자연어 프롬프트만으로 피아노 멜로디·화성진행을 생성하며 CPU나 CUDA에서 로컬 추론 CLI(generate.py)로 바로 돌린다. cocy.io에서 쓸모: 서버 호출 없이 CPU에서도 돌리는 초경량 BGM/멜로디 초안 생성기로 ACE-Step 대안 검토 가치, MIT라 상업 이용 자유.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ResonateIntegrated/Resonate-MusiX-T1-50M",
+      "publishedAt": "2026-11-07T17:18:32Z"
+    },
+    {
+      "id": "13",
+      "title": "브라우저에서 바로 도는 온디바이스 OCR, OvisOCR3 WebGPU 포팅 등장",
+      "summary": "[Edge] ATH-MaaS가 10월 21일 공개한 문서인식 모델 OvisOCR3(0.8B, Apache-2.0)의 WebGPU ONNX 변환본이 11월 7일 multimodal-vision-ai 계정에 올라왔다. 서버 전송 없이 브라우저 안에서 바로 문서·이미지 텍스트를 추출한다. cocy.io에서 쓸모: log.cocy.io 영수증/재고 사진 인식을 서버 LLM 호출 없이 브라우저에서 처리하는 경로로 검토 가능, Apache-2.0 상업 이용 가능.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/multimodal-vision-ai/OvisOCR3-0.8B-WebGPU-ONNX",
+      "publishedAt": "2026-11-07T02:49:59Z"
+    },
+    {
+      "id": "14",
+      "title": "Qwen3-TTS, llama.cpp GGUF 지원 추가로 CPU 로컬 구동 가능해짐",
+      "summary": "[Tool][Audio] Qwen팀이 1월 공개한 제로샷 보이스클로닝 TTS 모델군 Qwen3-TTS-12Hz(0.6B Base·1.7B CustomVoice·1.7B VoiceDesign, Apache-2.0)에 11월 8일 llama.cpp용 GGUF 변환이 새로 올라와 GPU 없이 CPU로도 구동할 수 있게 됐다. cocy.io에서 쓸모: 고스톱 콜·쇼츠 더빙처럼 GPU 자원이 없는 경로에서 커스텀보이스 TTS를 CPU로 돌리는 대체 경로로 검토.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Flexan/Qwen-Qwen3-TTS-12Hz-1.7B-CustomVoice-GGUF-llama.cpp",
+      "publishedAt": "2026-11-08T15:50:24Z"
     }
   ]
 }
