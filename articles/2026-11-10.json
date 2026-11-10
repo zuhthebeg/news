@@ -81,6 +81,24 @@
       "source": "GamesBeat",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPandicENmSGYzX29IaXdqRGxUemgybjkwSHhNRDhPNDBENVVsRGhNWVJ0MlFzam02LUpTZ0c2NlRHUVRNVFd4cm1LQzRHZUhPWUJVNlFIMERWRHpzNkMtRElTQzMyd0J1TkxOSS1BaEJIUk56ZVctYVp4S3l2cEpmdzBCelJYVzNQRTczV0FxMEE?oc=5",
       "publishedAt": "2026-11-09T20:16:51Z"
+    },
+    {
+      "id": "10",
+      "title": "인도 11개 언어용 초소형 TTS 'Mithi v1 Flash' 공개, 99M 파라미터로 상업 이용 무료",
+      "summary": "[Audio] Oomni가 11월 7일 공개한 Mithi v1 Flash는 힌디어 등 인도 11개 언어를 지원하는 99M 파라미터(197MB)짜리 초경량 텍스트음성합성 모델로, Maya2-native·Kokoro-82M 등 오픈소스 컴포넌트를 조합해 만들어졌으며 24kHz 음성을 생성한다. Apache-2.0 라이선스로 상업적 이용이 완전히 자유롭다. cocy.io에서 쓸모: 경량 모델 구조가 온디바이스/엣지 TTS 파이프라인 설계를 참고할 때 유용하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Oomni/mithi-v1-flash",
+      "publishedAt": "2026-11-07T08:08:24Z"
+    },
+    {
+      "id": "11",
+      "title": "50M 파라미터 미니급 다국어·다방언 음성클론 모델 'M5-TTS' 공개",
+      "summary": "[Audio] 중국 ASLP-lab이 공개한 M5-TTS-50M-VoiceClone은 'Multi Token Prediction' 구조를 적용한 미니스케일 다국어·다방언 음성합성 모델로, 50M 파라미터만으로 제로샷 음성클론을 지원한다. Apache-2.0 라이선스로 상업 이용이 가능하다. cocy.io에서 쓸모: 초소형 보이스클론 모델이라 저사양 서버·로컬 환경에서 다국어 음성 더빙 파이프라인에 적용해볼 여지가 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ASLP-lab/M5-TTS-50M-VoiceClone",
+      "publishedAt": "2026-11-09T11:42:34Z"
     }
   ]
 }
