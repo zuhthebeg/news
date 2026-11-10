@@ -99,6 +99,51 @@
       "source": "HuggingFace",
       "sourceUrl": "https://huggingface.co/ASLP-lab/M5-TTS-50M-VoiceClone",
       "publishedAt": "2026-11-09T11:42:34Z"
+    },
+    {
+      "id": "12",
+      "title": "5B 경량 이미지 모델 'Kromoss', 8스텝 DMD LoRA로 고속 추론 지원",
+      "summary": "[Image] lodestones가 OpenMOSS-Team의 MOSS-Image-Base(5B)를 파인튜닝한 Kromoss를 공개했다. 8-steps-dmd/dmd2 LoRA가 동봉돼 적은 스텝으로도 빠른 추론이 가능하며 int8 양자화 버전도 제공된다. Apache-2.0 라이선스로 상업 이용 가능하며, 2026-11-09 업데이트 기준 HF 트렌딩 상위권(좋아요 318)이다. cocy.io에서 쓸모: 현재 쓰는 로컬 FLUX/SDXL 대비 더 가벼운 5B급 대안으로, 빠른 생성이 필요한 게임 아트 프리뷰 단계에서 테스트해볼 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/lodestones/Kromoss",
+      "publishedAt": "2026-11-09T02:29:01Z"
+    },
+    {
+      "id": "13",
+      "title": "Z-Image-Turbo 1~2스텝 증류 모델 'NitroFusion2', GGUF Q2까지 양자화 지원",
+      "summary": "[Image] Tongyi-MAI의 Z-Image-Turbo(6B)를 적대적 증류(adversarial distillation)로 1~2스텝까지 줄인 NitroFusion2가 공개됐다(2026-11-08 업데이트). GGUF 포맷으로 Q2_K~Q8_0까지 다양한 양자화 버전을 제공해 저VRAM 환경에서도 구동할 수 있다. Apache-2.0 라이선스. cocy.io에서 쓸모: VRAM이 부족한 서버·노트북에서도 빠른 이미지 생성이 필요할 때(어드민 자동 콘텐츠 생성 등) 양자화 버전을 먼저 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/ChenDY/NitroFusion2",
+      "publishedAt": "2026-11-08T01:20:55Z"
+    },
+    {
+      "id": "14",
+      "title": "Zyphra ZONOS3-Mini의 MLX 포팅판 공개, 한국어 포함 20개 이상 언어 보이스 내장",
+      "summary": "[Audio] Zyphra의 ZONOS3-Mini(0.25B) TTS 모델을 Apple Silicon MLX용으로 포팅한 버전이 2026-11-09 공개됐다. 한국어(Minjun, Seoyeon 등) 포함 20개 이상 언어·화자 임베딩이 기본 내장돼 있다. Apache-2.0 라이선스로 상업 이용 가능. cocy.io에서 쓸모: Mac 로컬에서 돌리는 다국어 TTS 후보로, 보이스매치·고스톱 같은 서비스의 다국어 콜/더빙 확장 시 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/mlx-community/ZONOS3-Mini",
+      "publishedAt": "2026-11-09T23:29:34Z"
+    },
+    {
+      "id": "15",
+      "title": "ResembleAI Chatterbox-nano, ONNX+WebGPU로 브라우저 안에서 직접 TTS 구동",
+      "summary": "[Audio][Edge] ResembleAI의 MIT 라이선스 chatterbox-nano를 ONNX로 변환해 WebGPU에서 바로 추론하는 버전이 2026-11-09 공개됐다. 서버 호출 없이 브라우저 내부에서 음성합성이 가능하다. cocy.io에서 쓸모: 클라이언트 측에서 TTS를 처리할 수 있어 game.cocy.io 게임 음성 더빙이나 page.cocy.io 접근성 기능에 서버 비용 없이 적용할 여지가 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/serendipbrity/chatterbox-nano-onnx-webgpu",
+      "publishedAt": "2026-11-09T19:51:08Z"
+    },
+    {
+      "id": "16",
+      "title": "Qwen3-TTS, llama.cpp용 GGUF 양자화로 CPU 전용 추론 지원",
+      "summary": "[Audio][Edge] Alibaba Qwen3-TTS-12Hz(Apache-2.0, 좋아요 2200+)의 0.6B/1.7B 버전이 llama.cpp에서 돌아가는 GGUF로 양자화돼 2026-11-08 공개됐다. GPU 없이 CPU만으로 음성합성이 가능하다. cocy.io에서 쓸모: GPU 없는 저가 서버(llm.cocy.io 백엔드 등)에서도 TTS를 돌릴 수 있어, 로컬 STT(VibeASR)와 짝을 이루는 CPU 전용 TTS 옵션으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Flexan/Qwen-Qwen3-TTS-12Hz-0.6B-Base-GGUF-llama.cpp",
+      "publishedAt": "2026-11-08T16:56:14Z"
     }
   ]
 }
