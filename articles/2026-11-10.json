@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-10",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이용철, 공소취소 확답 없이 \"원칙 따라\"…검찰총장 인선 방향 눈길",
+      "summary": "검찰총장 후보로 거론되는 이용철 변호사가 특정 사건 공소취소 여부에 확답을 피하고 '원칙에 따라 판단하겠다'는 입장을 밝혔다. 야권은 관련 의혹을 제기하며 인선 방향에 주목하고 있다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMickFVX3lxTFBMY1NFUjJSOGxIWG83eXBLOElnR1VjUEQtWUFtVjYxaGpqZUZlR1dLbU51aXNyOTlqaFVrLVhvR1llcmNWdVJjeDM0Y3FVaDFsYXh6VDNSb3I2NXRXZVRvRWZ3Q3JiT3hRamt4aS1lUkZxZw?oc=5",
+      "publishedAt": "2026-11-09T13:27:00Z"
+    },
+    {
+      "id": "2",
+      "title": "엔비디아, 젠슨황의 중국 스파이 불륜에 장중 8% 급락",
+      "summary": "엔비디아 CEO 젠슨 황을 둘러싼 중국 스파이 연루 의혹 및 불륜설이 보도되며 엔비디아 주가가 장중 8% 급락했다. 미 상무부는 AI칩 밀수 조사 관련 개입 의혹까지 제기되며 파장이 커지고 있다.",
+      "category": "economy",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5jY3JtUjJ5ekhsb0l5dXA2Rm90NHVQdUM1QTNvRFZabXN0eXRPVERGY0NFd2d6S0Fqel9Ib2pHNWZXNURPVlhQY2xITS1LUGFZbzZNVWQxdXU3Zzg?oc=5",
+      "publishedAt": "2026-11-09T22:36:00Z"
+    },
+    {
+      "id": "3",
+      "title": "트럼프, 이란 공격 가능성에 \"우리가 원하면 언제든 준비돼\"",
+      "summary": "트럼프 대통령이 이란에 대한 추가 공격 가능성을 두고 \"원하면 언제든 준비돼 있다\"고 밝히면서도, 최근 분쟁 종식에 긍정적 모멘텀이 있다며 재공격 가능성은 낮다고 언급했다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5pRFFibHRTZFZnR1VvN1JRZnVXRW5wb0lUd085Q3ZweXhtRDgyZzA4Wnh1aHdISlk3dHVVcldqRkVpeGx1OWxBYVktMXUtQTl2WWQtTy1wVW5xSHfSAWBBVV95cUxQRUJNblJXYy1la3AwTU12OXdRZ0d3SkV0aTNQc3JETFBmYjdRX3JEcklfT3JWX0N1bWdmOXFUT1BXelYzVy1LcEhidUh2bzlOU084YzdaWVdfblVLdGEyblE?oc=5",
+      "publishedAt": "2026-11-09T21:24:21Z"
+    },
+    {
+      "id": "4",
+      "title": "Apple launches $50 'intelligence usage packs' for select AI features",
+      "summary": "애플이 자사 AI 기능 중 일부를 더 많이 쓰고 싶은 사용자를 위해 50달러짜리 '인텔리전스 사용량 팩'을 출시했다. 기본 AI 기능은 무료로 유지하되 과사용 구간을 유료화하는 전략이다.",
+      "category": "tech",
+      "source": "9to5Mac",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQbGhWTmxnNzJCckh4WURSV1JsWkVCdld2V2hlUzl6dk9SUkN5eU9Ra2hnTXhSbzVER0ZwWkFlY3AxYnc3T3FLM0FsLWFTdmRXVkQ3cm5NY2J3THVJclp1NGFnLUtHWWdNdkZFX2xSQVNudHBRZEUwVzZtSTVHWFRSanZLRnpmRXhidVZ0YVcwbjZGSXFGTVREUWpMdFd3dw?oc=5",
+      "publishedAt": "2026-11-09T16:32:00Z"
+    },
+    {
+      "id": "5",
+      "title": "iOS 27.2.1 has fixes for security issues in Messages, AirPlay, and more",
+      "summary": "애플이 메시지, 에어플레이 등에서 발견된 보안 취약점을 수정한 iOS 27.2.1 등 긴급 보안 업데이트를 배포했다. iPadOS, macOS, watchOS, visionOS 등 전 플랫폼에 동시 적용됐다.",
+      "category": "tech",
+      "source": "9to5Mac",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUy1HZm9fRnBBb1kxaWtKYmY2WGdncnFOLTNwVWpUZ05EcjdLaU96QWJIQlhTeDRObFp2N0lqMENBTEFVVjBEeGhjU0ZwYlBzN3psVDUxNmNtS1NSaEdGaHI2djZ2ZzZKWW0weEpsaEtDam9OT001UXJxSUQtSEVjS1g1ZHh3cG5GXzBRVXRzbXFXLUJlU2UtZ0dMS0hlSXV5c3JN?oc=5",
+      "publishedAt": "2026-11-09T20:20:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA is hiring astronaut candidates. Some could \"live and work\" on the moon.",
+      "summary": "NASA가 달에서 장기 체류하며 임무를 수행할 차세대 우주비행사 후보 모집을 시작했다. 지원 접수는 12월 3일까지이며, 아르테미스 이후 달 상주 프로그램을 염두에 둔 채용이다.",
+      "category": "science",
+      "source": "CBS News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNSDRmRElSOGJjYjJmVFFTVzFhNHZJd2tpUEhzZ1liak9lT1hCeVB3bU1RN0xzMW9oVlZYRnM0WDE5V2ZWV1BVNV9OZFZ6bWxTRk9BZGVkODZIdkZFV3lsQXFNbGVlWjRFS2I1aTQ0N3djQ3BOY29JZzBtcS1QWXR6SXBIQnpXWm1sVnc?oc=5",
+      "publishedAt": "2026-11-09T18:56:00Z"
+    },
+    {
+      "id": "7",
+      "title": "Forget Mosquitoes in Amber. Scientists May Have Found Dinosaur Blood in a 115 Million-Year-Old Bone.",
+      "summary": "연구진이 1억1500만 년 전 공룡 뼈 화석 내부에서 혈액 세포로 추정되는 구조를 발견했다고 밝혔다. 호박 속 곤충보다 훨씬 오래된 생체 조직 보존 사례로, 고대 유기물 보존 메커니즘 연구에 새로운 실마리를 제공한다.",
+      "category": "science",
+      "source": "Yahoo",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxNMThsaGsyYWVUNzhzaXl5SVJtNGNuQlFXZE1xMjRISU5pRGVTWnoyZXJxamJuUXR2clF5bDFOMFl6WWxEUkIxbHpmX1FWbUw4SkdkYVNMdUtQS0JkYXZ5VGtMa3RiV3BHa25lTVNmVjIwWFlOV1JpNU5KaUotQU5NMkVIQ0liX1IwLUZhazhxcWpHeUlTRnozSF82a0hIQQ?oc=5",
+      "publishedAt": "2026-11-09T13:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "Stunning Next-Gen Upgrades Breathe New Life Into Metro 2033 and Last Light",
+      "summary": "4A 게임즈가 '메트로 2033'과 '메트로: 라스트 라이트'에 차세대 그래픽 업그레이드를 적용한 리마스터를 선보였다. 조명과 텍스처 등 비주얼 전반이 현세대 기준으로 재작업됐다.",
+      "category": "gaming",
+      "source": "Gameindustry.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUDBnaXVMcnZORjB3VWNlaVpmNXlKdVc2MHJWcVpHN08yMmdZRVduamJPZ19zc1d6NWwxQm83cG5oWWpieUxPVjl0bVI4ZUh6TUlNX28tSTVGTGdPQmNQUzlCUkVPQzF6MmZBOGdydzloMlphcDdmeGZjMXZlTVZFazlfdEY1MjV4NThfSGZacmgyN2dndTRRRUlPZEVoOXhXeHpfeWs1LUlEdXdfMFo2dl91MkFkN2lMSGFyWktWN3pZZw?oc=5",
+      "publishedAt": "2026-11-09T14:04:34Z"
+    },
+    {
+      "id": "9",
+      "title": "SAG-AFTRA applauds Rockstar Games workers union recognition vote",
+      "summary": "배우·방송인 노조 SAG-AFTRA가 록스타 게임즈 노동자들의 노조 설립 인정 투표를 환영한다는 성명을 냈다. 게임업계에서 노동조합 결성 움직임이 확산되는 흐름을 보여주는 사례다.",
+      "category": "gaming",
+      "source": "GamesBeat",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPandicENmSGYzX29IaXdqRGxUemgybjkwSHhNRDhPNDBENVVsRGhNWVJ0MlFzam02LUpTZ0c2NlRHUVRNVFd4cm1LQzRHZUhPWUJVNlFIMERWRHpzNkMtRElTQzMyd0J1TkxOSS1BaEJIUk56ZVctYVp4S3l2cEpmdzBCelJYVzNQRTczV0FxMEE?oc=5",
+      "publishedAt": "2026-11-09T20:16:51Z"
+    }
+  ]
+}
