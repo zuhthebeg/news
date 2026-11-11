@@ -126,6 +126,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/SyzygyResearch/Mach-Boom",
       "publishedAt": "2026-11-10T09:55:44Z"
+    },
+    {
+      "id": "15",
+      "title": "브라우저·CPU용 1억 파라미터 TTS 'MOSS-TTS-Nano ONNX' 공개",
+      "summary": "[Audio] 11월 11일 최초 공개된 MOSS-TTS-Nano 100M의 ONNX 변환본으로, PyTorch 없이 ONNX Runtime CPU·브라우저에서 다국어 48kHz 스테레오 음성을 생성하도록 prefill·decode 그래프를 나눴다. HF API 확인 라이선스는 Apache-2.0이며 최종 수정은 2026-11-11 02:33 UTC다. cocy.io에서 쓸모: 웹 게임의 안내·NPC 음성을 서버 호출 없이 브라우저에서 스트리밍하는 실험에 바로 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/newbeeforever/MOSS-TTS-Nano-100M-ONNX",
+      "publishedAt": "2026-11-11T02:32:56Z"
+    },
+    {
+      "id": "16",
+      "title": "한 번의 확산 스텝으로 그리는 WebGPU 이미지 모델 'SDXS DreamShaper ONNX'",
+      "summary": "[Image] 11월 11일 공개된 SDXS-512-DreamShaper ONNX는 Stable Diffusion 1.5 계열을 1스텝 생성용으로 변환해 onnxruntime-web WebGPU에서 로컬 실행한다. 모델카드 기준 전체 983.3MB이며 HF API의 라이선스 태그는 OpenRAIL++이다. cocy.io에서 쓸모: 설치 없는 브라우저 캐릭터·아이템 시안 생성기와 빠른 512px 프리뷰 파이프라인을 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/creador/sdxs-512-dreamshaper-onnx",
+      "publishedAt": "2026-11-11T01:21:40Z"
+    },
+    {
+      "id": "17",
+      "title": "엔진음에서 휘파람·히스를 분리하는 42M HTDemucs GGUF 공개",
+      "summary": "[Audio] 11월 11일 공개된 HTDemucs whine/hiss v1은 엔진·기계음을 tonal whine과 broadband hiss 두 스템으로 분리하는 42M 모델이다. 모델카드는 44.1kHz 입력, 약 80MB F16 GGUF와 검증 SDR +21.3dB를 명시하며 HF API 라이선스는 MIT다. cocy.io에서 쓸모: 차량·기계 SFX의 톤과 노이즈를 따로 정리해 루프·레이어 에셋으로 재가공할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Super3dMax/htdemucs-whine-hiss_v1",
+      "publishedAt": "2026-11-11T01:23:53Z"
+    },
+    {
+      "id": "18",
+      "title": "ACE-Step 1.5 음악 생성용 4B 텍스트 인코더 FP8 가중치 공개",
+      "summary": "[Audio] 11월 10일 공개된 ACE-Step 1.5 XL Turbo·SFT용 Qwen 4B 텍스트 인코더 FP8 가중치로, safetensors 단일 파일 형태의 경량화 선택지를 제공한다. HF API에서 최초 공개 2026-11-10 01:21 UTC, 최종 수정 01:27 UTC, 라이선스 MIT를 직접 확인했다. cocy.io에서 쓸모: 12GB급 로컬 GPU의 ACE-Step BGM 생성 파이프라인에서 텍스트 인코더 메모리 부담을 줄이는 후보로 테스트할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/AnnettHolta/AceStep-15-Text-Encoders-FP8",
+      "publishedAt": "2026-11-10T01:21:32Z"
+    },
+    {
+      "id": "19",
+      "title": "2B 영상 생성 모델 Motif, 브라우저 CPU용 WASM 번들 공개",
+      "summary": "[Video] 11월 10일 공개된 Motif-Video-2B Web은 텍스트 또는 첫 이미지에서 영상을 만드는 모델을 기기 CPU용 WebAssembly 번들로 컴파일했다. 모델카드 기준 4비트 텍스트 번들 2,913MB와 7비트 영상 번들 2,413MB로 나뉘며 HF API 라이선스는 Apache-2.0이다. cocy.io에서 쓸모: 서버 GPU 없이 브라우저에서 짧은 게임 홍보 클립·이미지 모션화가 가능한지 검증할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/fusorlabs/motif-video-2b-web",
+      "publishedAt": "2026-11-10T15:52:51Z"
     }
   ]
 }
