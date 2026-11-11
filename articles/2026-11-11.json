@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-11",
+  "articles": [
+    {
+      "id": "1",
+      "title": "분당 사거리서 시내버스가 차 10여대 추돌…\"부상자 다수\"",
+      "summary": "경기 성남시 분당 사거리에서 시내버스가 승용차 10여 대와 잇따라 추돌하는 사고가 발생해 다수의 부상자가 나왔다.",
+      "category": "domestic",
+      "source": "한국경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4wUUF0aVlIRk82SjZRb1NKbGMyMzZBWXBoNTZtcVZmRE03S0ZjTTUzaXg1azJBWEk3YXRSMy1rT1NGQ0JFNjI5dk5iYWlLYUdZUmRBSC1DaWJtZw?oc=5",
+      "publishedAt": "2026-11-10T21:27:00Z"
+    },
+    {
+      "id": "2",
+      "title": "美 연준, 12월 '빅스텝'까지?…예상 웃돈 물가에 월러 \"0.5%p 인상도 고려\"",
+      "summary": "미국 11월 CPI가 예상치를 웃돌면서 연준 월러 이사가 12월 기준금리 0.5%포인트 인상(빅스텝) 가능성을 언급했고, 여파로 엔비디아 등 기술주가 급락하며 나스닥도 하락했다.",
+      "category": "economy",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPelVOMEJodkVJZ056MjE5eEdGc2I1RnplTkF0N3ZlTE8yQjR1aUUzR01lN1Boa00taG15YXk2UDRGNlFIaGd0ajJ1UEU4b3k0VFozaF9YdVhHTVJDR2Z3cHBibjhzc2RkS045RTJSRUNkTm5QcFlxZVY0bTVLUGtVN3QwM3l2OHBB?oc=5",
+      "publishedAt": "2026-11-10T14:51:50Z"
+    },
+    {
+      "id": "3",
+      "title": "러-우크라 종전협상 재개… 美 \"러, 긍정적\"-젤렌스키는 강경",
+      "summary": "러시아와 우크라이나의 종전협상이 재개된 가운데 미국은 러시아의 태도를 긍정적으로 평가했으나, 젤렌스키 대통령은 여전히 강경한 입장을 유지하고 있다.",
+      "category": "world",
+      "source": "동아일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMic0FVX3lxTE80eUFKaXRyUklHRmprSXpMSFFXcDE1Z2RDb3FRTnNQc2MxdHVUMXZ2XzdnMFgyRHdGVXM5eWxYQzN3QzFTeVB3eXdOb3BGRFh0aGsybW5yNExpNnJiMDJRYkJVaTQ3Z25rWlk0czFmdGNoTXfSAWZBVV95cUxOWURvaHd2YnI2N2laUzRkYTdXWkp3bjFQRWhjUVljeEZfMmpoVTZCbERSUUR4aEc1MENIRGRxZXlBaUw2QXFfZmVoellZREFncl9VSXRiUEU1VUFLR1MxT2dqYTdnemc?oc=5",
+      "publishedAt": "2026-11-10T19:30:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Microsoft November 2026 Patch Tuesday fixes 1,235 flaws, Outlook zero-day",
+      "summary": "Microsoft's November 2026 Patch Tuesday update addressed 1,235 vulnerabilities, including an actively exploited Outlook zero-day flaw.",
+      "category": "tech",
+      "source": "BleepingComputer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQUW5MOWdTMklESkxEYTVWSFV1enJ0ZF9JNGFSOG03UjQzelY4WVBrdWo5SGJZd1BrU0NweXVUcm1jWmExNFl6TmcyLXUxc3FpUlpsLU9UYmtJdE9RWjBmZXZoTXpzS08xNmI5Sjk5bm5rRTZZV2tINU5oaHVETkhVNEdZVlM5bXpzY0RfRFpleWNvQ1kxQ2V1SXQ2WHNScllpTjFMR0p2ZjhsaVpjVjYta3NHREIzS18zUVlPT3Zn?oc=5",
+      "publishedAt": "2026-11-10T19:07:36Z"
+    },
+    {
+      "id": "5",
+      "title": "Google Issues Chrome Security Update for Eighth Actively Exploited Zero-Day of 2026",
+      "summary": "Google released an emergency Chrome update patching the eighth actively exploited zero-day vulnerability found in the browser so far this year.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNYmdkeVduVTNxUDlRM3dXRTNwdl9Ec2J4T3ZqSjAxYUdoQW5BTG50MklmekowNWxDaVpJMndRWFBEcFFob3hWcjFabGY2cExUZzdTTXIwS1hmc0p5cjJWSmJ3MkVWRWZoQldjS3pqMlVubnA4d2J2YjFqa1Rodm43aw?oc=5",
+      "publishedAt": "2026-11-10T06:52:00Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA's twin ESCAPADE Mars probes slingshot around Earth in unprecedented double 'gravity assist'",
+      "summary": "NASA의 쌍둥이 화성 탐사선 ESCAPADE가 지구를 이용한 이중 중력보조(flyby) 기동을 전례 없는 방식으로 완료하며 화성을 향한 여정을 이어가고 있다.",
+      "category": "science",
+      "source": "Space",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPYjF0MGR6SXJDTmJoaUstWWRxQ2VwYUZJWjRZZXZTZ0FBSDFCOFVJTXM1RXhJb290QUh1TV9hSV9CeWpHTDNqWXRQbGd3SzZaWldSQ2NQejBFU2tTd2NsOTl1aXhqQldOOTBueTdsSkVqZlMxaUFBN05wQmkxMXNLWk5nM2pFRk92VWZiVVJnTWhxcXFvVUdBZ0RLMFRaMmV6OEFCNExEU1QxOEdrVUtuckVqN3lJaklHbnZMX01QczliWVU?oc=5",
+      "publishedAt": "2026-11-10T11:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "After 40 years, CERN finds evidence of a one-in-10-billion particle decay",
+      "summary": "CERN 연구진이 40년에 걸친 연구 끝에 10억 분의 1의 확률로 발생하는 희귀 입자 붕괴 현상의 증거를 발견했다.",
+      "category": "science",
+      "source": "Science Daily",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE4ybVVpYmhkMHQ2Tk5PQUZyaE1kdkxzeVk4TXUwSUhqbFJMRXlhZFNVd09MZkhiZGJhdkRuNXkwSk5Zb0RlQ0Vmb3VIeUoyQ3dSZm12dnp3S3VwdnRjQ2JDYXJKUFhFd19uVmkyb3dmNA?oc=5",
+      "publishedAt": "2026-11-10T00:44:33Z"
+    },
+    {
+      "id": "8",
+      "title": "Nexon axes eight projects in restructuring as S.Korean game sector tightens belt amid downturn",
+      "summary": "넥슨이 국내 게임업계 불황 속 구조조정에 나서며 8개 프로젝트를 정리했다.",
+      "category": "gaming",
+      "source": "KED Global",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5OX2dhVGc2enlLTVhfaFNtbkVIa3duR3BEZlVZYThPcXB4TWhrWERieXFvM25hUkZXcWFOd05kRDNtZnJwVWMxbGY1WTA4R2hiNlNOeUVoR2paVzAtMEpwQWh4UGdjRldOWWNaWGptZkI?oc=5",
+      "publishedAt": "2026-11-10T08:40:00Z"
+    },
+    {
+      "id": "9",
+      "title": "SAG-AFTRA applauds Rockstar Games workers union recognition vote",
+      "summary": "미국 배우·방송인 노조 SAG-AFTRA가 락스타 게임즈 노동자들의 노조 설립 인정 투표 결과를 환영한다고 밝혔다.",
+      "category": "gaming",
+      "source": "GamesBeat",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPandicENmSGYzX29IaXdqRGxUemgybjkwSHhNRDhPNDBENVVsRGhNWVJ0MlFzam02LUpTZ0c2NlRHUVRNVFd4cm1LQzRHZUhPWUJVNlFIMERWRHpzNkMtRElTQzMyd0J1TkxOSS1BaEJIUk56ZVctYVp4S3l2cEpmdzBCelJYVzNQRTczV0FxMEE?oc=5",
+      "publishedAt": "2026-11-09T20:16:51Z"
+    }
+  ]
+}
