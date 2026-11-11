@@ -81,6 +81,51 @@
       "source": "GamesBeat",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPandicENmSGYzX29IaXdqRGxUemgybjkwSHhNRDhPNDBENVVsRGhNWVJ0MlFzam02LUpTZ0c2NlRHUVRNVFd4cm1LQzRHZUhPWUJVNlFIMERWRHpzNkMtRElTQzMyd0J1TkxOSS1BaEJIUk56ZVctYVp4S3l2cEpmdzBCelJYVzNQRTczV0FxMEE?oc=5",
       "publishedAt": "2026-11-09T20:16:51Z"
+    },
+    {
+      "id": "10",
+      "title": "Qwen3-TTS 0.6B, 윈도우 DirectML용 고정형 ONNX 변환 공개",
+      "summary": "[Edge] Qwen3-TTS 0.6B를 ONNX Runtime DirectML에서 실행하도록 변환한 모델로, DirectX 12 GPU에서 CUDA와 파이썬 없이 음성 복제를 구동한다. 모델카드는 Radeon RX 6800 XT에서 80ms 프레임당 약 32ms를 보고했으며 Apache-2.0 라이선스다. cocy.io에서 쓸모: 윈도우 로컬 음성 NPC와 데스크톱 음성 도구의 GPU 호환 범위를 AMD·Intel까지 넓히는 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Neuralflows/qwen3-tts-0.6b-base-onnx-dml",
+      "publishedAt": "2026-11-10T23:52:14Z"
+    },
+    {
+      "id": "11",
+      "title": "Qwen3-TTS VoiceDesign 1.7B, 모바일용 LiteRT INT4 변환 공개",
+      "summary": "[Edge] Qwen3-TTS 1.7B VoiceDesign의 Talker를 블록 단위 INT4, 임베딩 표를 행 단위 INT8로 줄인 LiteRT/TFLite 변환본이 공개됐다. 호스트가 Talker·코드 예측기·코덱을 연결해야 하며 Apache-2.0 라이선스다. cocy.io에서 쓸모: 안드로이드 기기에서 캐릭터 음색 설계를 로컬로 실험할 수 있는 경량 TTS 경로를 검토할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Serkali-sudo/Qwen3-TTS-1.7B-VoiceDesign-LiteRT-INT4",
+      "publishedAt": "2026-11-10T20:00:04Z"
+    },
+    {
+      "id": "12",
+      "title": "ZONOS3-Mini, llama.cpp용 GGUF 양자화 버전 공개",
+      "summary": "[Edge] 10개 언어와 27개 내장 음성을 지원하는 ZONOS3-Mini를 llama.cpp에서 돌리는 GGUF 변환본이 공개됐다. 권장 Q4_K_M 백본과 F16 mmproj 조합은 약 1.13GB이며 Apache-2.0 라이선스지만, 현재 필요한 llama.cpp 지원은 아직 미병합 PR 기준이다. cocy.io에서 쓸모: 한국어 포함 다국어 게임 캐릭터 음성을 단일 로컬 런타임으로 묶는 실험 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/AtomicChat/ZONOS3-Mini-GGUF",
+      "publishedAt": "2026-11-10T16:57:12Z"
+    },
+    {
+      "id": "13",
+      "title": "웃음과 숨소리를 직접 넣는 44MB 초경량 TTS '골드핀치' 공개",
+      "summary": "[Audio] 골드핀치는 [laugh]·[breath]·[sigh] 같은 태그와 말더듬·추임새를 표현하는 영어 대화형 TTS다. 11.4M 파라미터 음향 모델과 13.5M 보코더를 44MB ONNX로 제공하며 CPU에서 실시간보다 빠르게 실행되고 Apache-2.0 라이선스다. cocy.io에서 쓸모: 클라우드 호출 없이 게임 NPC의 웃음·한숨·머뭇거림을 대사에 바로 섞는 경량 음성 파이프라인을 만들 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/flockspeech/goldfinch",
+      "publishedAt": "2026-11-10T16:31:22Z"
+    },
+    {
+      "id": "14",
+      "title": "19.5MB CPU TTS 'Mach Boom', 한 코어에서 실시간 8배 속도",
+      "summary": "[Edge] Mach Boom은 Phonon 31M 영어 TTS를 가중치당 3.5비트로 압축한 19.5MB 배포본이다. 공식 모델카드 기준 단일 CPU 코어에서 실시간의 8.3~8.4배, 피크 메모리 93MB, 첫 오디오 61~78ms를 기록했으며 Apache-2.0 라이선스다. cocy.io에서 쓸모: 저사양 서버나 엣지 장치에서 안내 음성과 NPC 대사를 빠르게 스트리밍하는 비용 절감형 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/SyzygyResearch/Mach-Boom",
+      "publishedAt": "2026-11-10T09:55:44Z"
     }
   ]
 }
