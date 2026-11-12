@@ -72,6 +72,87 @@
       "sourceUrl": "https://huggingface.co/svntax-dev/pixel_spritesheet_4walk_combat_32x48_v2",
       "publishedAt": "2026-11-11T14:01:06Z",
       "id": "8"
+    },
+    {
+      "id": "9",
+      "title": "李대통령, 16~19일 필리핀·중국 순방…아세안·APEC 참석",
+      "summary": "이재명 대통령이 16~19일 필리핀 아세안 정상회의와 중국 APEC 정상회의에 참석해 북-미 대화 지지를 당부하고 공급망·초국가범죄 대응을 논의할 예정이다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202611120902480522",
+      "publishedAt": "2026-11-12T01:34:00Z"
+    },
+    {
+      "id": "10",
+      "title": "젠슨 황, 엔비디아 부사장과도 불륜 의혹…\"이사회, 해임 준비\"",
+      "summary": "엔비디아 이사회가 CEO 젠슨 황의 추가 불륜 의혹 파문 속에 해임을 준비 중이라는 보도가 나오며 시간외 거래에서 주가가 급락했다.",
+      "category": "economy",
+      "source": "서울신문",
+      "sourceUrl": "https://www.seoul.co.kr/news/2026/11/12/20261112500025",
+      "publishedAt": "2026-11-12T00:18:00Z"
+    },
+    {
+      "id": "11",
+      "title": "러시아·우크라이나, 역대 최대 '포로 교환' 합의",
+      "summary": "러시아와 우크라이나가 역대 최대 규모의 포로 교환에 원칙적으로 합의하며 평화협상을 마무리했으나 영토·안보 입장차는 여전하다.",
+      "category": "world",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://news.kbs.co.kr/news/pc/view/view.do?ncd=8710495",
+      "publishedAt": "2026-11-11T14:52:00Z"
+    },
+    {
+      "id": "12",
+      "title": "Apple is shuttering its 28-year-old online community forum",
+      "summary": "애플이 28년간 운영해온 온라인 지원 커뮤니티 포럼을 11월 20일자로 폐쇄한다고 발표했다.",
+      "category": "tech",
+      "source": "Ars Technica",
+      "sourceUrl": "https://arstechnica.com/gadgets/2026/11/apple-is-shuttering-its-28-year-old-online-community-forum/",
+      "publishedAt": "2026-11-11T01:04:00Z"
+    },
+    {
+      "id": "13",
+      "title": "Google Wallet adds digital home keys to open your front door smart lock with a tap",
+      "summary": "구글 월렛이 NFC·UWB 기반 디지털 홈키 기능을 추가해 지원 스마트락을 탭 한 번으로 열 수 있게 됐다.",
+      "category": "tech",
+      "source": "Android Authority",
+      "sourceUrl": "https://www.androidauthority.com/google-wallet-digital-home-keys-nfc-uwb-unlocking-3734133/",
+      "publishedAt": "2026-11-11T13:16:00Z"
+    },
+    {
+      "id": "14",
+      "title": "Europe's Hera spacecraft begins close inspections of an asteroid rammed by NASA in a 2022 test",
+      "summary": "유럽우주국의 헤라 탐사선이 2022년 NASA의 행성방어 실험(DART)으로 충돌시킨 소행성 디모르포스에 대한 근접 정밀 조사를 시작했다.",
+      "category": "science",
+      "source": "AP News",
+      "sourceUrl": "https://apnews.com/article/asteroid-nasa-hera-didymos-dimorphos-c161a53a58e95b23a6c5a08315dd679a",
+      "publishedAt": "2026-11-11T14:13:00Z"
+    },
+    {
+      "id": "15",
+      "title": "NASA's ESCAPADE Completes Powered Earth Flybys, Now En Route to Mars",
+      "summary": "NASA의 쌍둥이 화성 탐사선 ESCAPADE가 전례 없는 동력 이중 지구 중력보조 비행을 완료하고 본격적으로 화성을 향해 출발했다.",
+      "category": "science",
+      "source": "NASA Science",
+      "sourceUrl": "https://science.nasa.gov/science-research/heliophysics/nasas-escapade-completes-powered-earth-flybys-now-en-route-to-mars/",
+      "publishedAt": "2026-11-09T08:01:00Z"
+    },
+    {
+      "id": "16",
+      "title": "PlayStation officially cancels live-service shooter Fairgames",
+      "summary": "소니가 플레이스테이션 라이브서비스 슈터 '페어게임즈'를 미온적인 플레이테스트 반응 끝에 전면 취소했다.",
+      "category": "gaming",
+      "source": "Polygon",
+      "sourceUrl": "https://www.polygon.com/sony-cancels-fairgames-live-service-shooter-ps5/",
+      "publishedAt": "2026-11-10T01:27:00Z"
+    },
+    {
+      "id": "17",
+      "title": "U.S. loses grip on $121 billion mobile gaming sector to China",
+      "summary": "미국이 1210억 달러 규모 모바일 게임 시장에서 중국에 주도권을 내주고 있다는 분석이 나왔다.",
+      "category": "gaming",
+      "source": "The Japan Times (Bloomberg)",
+      "sourceUrl": "https://www.japantimes.co.jp/business/2026/11/11/tech/us-mobile-gaming-china/",
+      "publishedAt": "2026-11-11T00:55:00Z"
     }
   ]
 }
