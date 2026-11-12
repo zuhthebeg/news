@@ -1753,6 +1753,32 @@
         "layout"
       ],
       "addedAt": "2026-11-11"
+    },
+    {
+      "title": "게임 기획과 아트 방향 (Game Design)",
+      "description": "원작 소재와 제품 요구사항을 받아 게임 콘셉트 선정부터 세계관·플레이 설계, 분기 내러티브, 아트 디렉션까지 단계별로 뽑아주는 스킬.",
+      "icon": "🎮",
+      "category": "dev",
+      "url": "https://clawhub.ai/worldwonderer/skills/game-design",
+      "tags": [
+        "game-development",
+        "game-design",
+        "art-direction"
+      ],
+      "addedAt": "2026-11-12"
+    },
+    {
+      "title": "Keymint",
+      "description": "앱에 소프트웨어 라이선스 체계를 붙여주는 스킬. 노드락/플로팅/오프라인/구독형 라이선스 발급, 기기 활성화·비활성화, 고객 관리를 REST API·SDK로 처리.",
+      "icon": "🔑",
+      "category": "dev",
+      "url": "https://clawhub.ai/keymint/skills/keymint",
+      "tags": [
+        "software-licensing",
+        "monetization",
+        "rest-api"
+      ],
+      "addedAt": "2026-11-12"
     }
   ]
 }
