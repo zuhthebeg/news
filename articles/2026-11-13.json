@@ -81,6 +81,51 @@
       "source": "Tech42",
       "sourceUrl": "https://www.tech42.co.kr/?p=123277",
       "publishedAt": "2026-11-04T00:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "자이프라, 경량 TTS 'ZONOS3-Mini' 공개(Apache-2.0)",
+      "summary": "[Audio] Zyphra가 소형 TTS 모델 ZONOS3-Mini를 2026-11-09 공개했다(Apache-2.0, HF 좋아요 233). cocy.io에서 쓸모: 보이스매치·고스톱 등 게임 콜 더빙용 로컬 TTS 후보로 테스트할 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "publishedAt": "2026-11-09T05:03:57Z"
+    },
+    {
+      "id": "11",
+      "title": "Edge0, 사실적 음색 TTS 'Audio8-TTS-Realistic-Air' 트렌딩(Apache-2.0)",
+      "summary": "[Audio] Edge0이 2026-10-14 공개한 TTS 모델 Audio8-TTS-Realistic-Air가 Apache-2.0 라이선스로 이번 주 HF 트렌딩에 올랐다(좋아요 482). cocy.io에서 쓸모: 보이스매치 폴백용이나 캐릭터 보이스라인 생성에 음색 품질을 비교해볼 가치가 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
+      "publishedAt": "2026-10-14T03:02:49Z"
+    },
+    {
+      "id": "12",
+      "title": "인텔, Wan2.2-T2V-A14B NVFP4 양자화 공개(Apache-2.0, 엣지용)",
+      "summary": "[Video][Edge] 인텔이 2026-11-12 Wan2.2-T2V-A14B 비디오 생성모델을 NVFP4로 양자화해 공개했다(Apache-2.0). cocy.io에서 쓸모: 3080Ti 12GB에서 로컬 비디오 생성 시 VRAM 부담을 줄이는 양자화 참고 사례로 쓸 만하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/intel-ai/Wan2.2-T2V-A14B-Diffusers-NVFP4-AutoRound",
+      "publishedAt": "2026-11-12T12:36:51Z"
+    },
+    {
+      "id": "13",
+      "title": "Linum, $21K 학습비 경량 T2I 모델 'P-JiT 21K' 공개(Apache-2.0)",
+      "summary": "[Image] Linum이 학습비 2만1천달러로 만든 VAE 없는 픽셀공간 소형 텍스트투이미지 모델 P-JiT 21K를 2026-11-03 공개했다(Apache-2.0). cocy.io에서 쓸모: SDXL보다 가벼운 로컬 이미지 생성 대안으로 실험해볼 가치가 있다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Linum-AI/pjit-21k",
+      "publishedAt": "2026-11-03T14:50:23Z"
+    },
+    {
+      "id": "14",
+      "title": "Qwen3-TTS 1.7B 커스텀보이스 모델, 이번 주 재트렌딩(Apache-2.0)",
+      "summary": "[Audio][Edge] Qwen이 올해 1월 공개한 1.7B 경량 보이스클로닝 TTS 모델 Qwen3-TTS-12Hz-1.7B-CustomVoice가 Apache-2.0으로 이번 주 HF 트렌딩에 다시 올랐다(좋아요 2226). cocy.io에서 쓸모: 3080Ti에서 돌릴 수 있는 초소형 커스텀 보이스 더빙(고스톱 콜 등) 모델로 적합하다.",
+      "category": "ai-tech",
+      "source": "HuggingFace",
+      "sourceUrl": "https://huggingface.co/Qwen/Qwen3-TTS-12Hz-1.7B-CustomVoice",
+      "publishedAt": "2026-01-21T08:56:49Z"
     }
   ]
 }
