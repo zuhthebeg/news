@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-14",
+  "articles": [
+    {
+      "id": "1",
+      "title": "美 전역 항공기 운항 전면 중단…관제통신시스템 장애",
+      "summary": "13일 오후 4시(미 동부시간)부터 미국 전역 공항에서 항공노선교통관제센터(ARTCC) 통신 장애로 추정되는 문제로 FAA가 전국 이륙을 전면 중단시켰다. 오후 5시 기준 8천여 편이 지연, 400편이 결항했다. 당국은 사이버공격 징후는 없다고 선을 긋고 소프트웨어 업데이트 문제 가능성을 조사 중이다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261114010352071?section=international/all",
+      "publishedAt": "2026-11-14T08:08:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "한국, 중국 수입시장 6개월 연속 1위…연간 수출 1조달러 초읽기",
+      "summary": "한국무역협회에 따르면 한국은 올해 4월부터 9월까지 중국 수입시장에서 점유율 9.8%로 1위를 유지했다. 반도체 수출 호조에 힘입은 결과로, 1~9월 누적 기준 중국의 최대 수입국 지위를 7년 만에 되찾았다. 무역흑자는 역대 최대인 2천949억달러를 기록했고, 이달 20일쯘 사상 첫 연간 수출 1조달러 달성이 전망된다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261113170500003?section=economy/all",
+      "publishedAt": "2026-11-14T07:01:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "한중 외교장관 베이징 회동…조현 \"한반도 중국 역할\" 당부",
+      "summary": "조현 외교부 장관과 왕이 중국 외교부장이 13일 베이징 댜오위타이에서 3시간에 걸쳐 회담·만찬을 가졌다. 조 장관은 한반도 비핵화·평화를 위한 중국의 건설적 역할을 당부했고, 왕 부장은 중국의 대한반도 정책에 변함이 없다고 재확인했다. 양측은 이달 선전 APEC 정상회의 계기 한중 정상 교류 가능성도 논의했다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261113174652083?section=politics/all",
+      "publishedAt": "2026-11-13T17:46:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "엔비디아 CEO 젠슨 황, 혼외관계 상대 '중국 스파이' 의혹에 안보 조사",
+      "summary": "엔비디아 CEO 젠슨 황이 직원들에게 보낸 서한에서 불륜을 인정했다. 상대로 지목된 메가스피드 임원 앨리스 황이 중국 국가안전부를 위해 활동한 스파이일 수 있다는 미 당국 내부 문건이 보도되며 법무부 국가안보국이 수출통제법 위반 여부를 조사 중이다. 엔비디아 이사회는 기업 기밀·국가안보 침해 증거는 없다고 밝혔고 황은 CEO직을 유지한다.",
+      "category": "tech",
+      "source": "Axios",
+      "sourceUrl": "https://axios.com/2026/11/09/jensen-huang-spy-scandal-ai",
+      "publishedAt": "2026-11-11T00:00:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "노션, AI 벤더 파이어웍스 해킹으로 AI 채팅 기록 일부 노출",
+      "summary": "노션은 AI 추론 공급업체 파이어웍스AI에서 발생한 보안 사고로 Insights 기능에 사용된 AI 채팅 기록 일부가 노출됐다고 공식 발표했다. 영향받은 워크스페이스는 전체의 1% 미만이며, 대부분 특정 사용자·회사로 역추적이 불가능하다고 설명했다. 노션은 Insights 기능을 비활성화하고 파이어웍스를 통한 오픈웨이트 모델 서비스를 중단했다.",
+      "category": "tech",
+      "source": "Notion Security Advisory",
+      "sourceUrl": "https://www.notion.com/security/advisories/security-incident-involving-a-third-party-ai-vendor-nov9",
+      "publishedAt": "2026-11-09T00:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "NASA 퍼서비어런스, 화성 암석서 복합 유기물 발견…생명체 흔적 가능성",
+      "summary": "화성 탐사로버 퍼서비어런스가 예제로 크레이터의 고대 하천 퇴적층(브라이트 엔젤 지층)에서 복합 거대분자 탄소를 검출했다고 NASA 연구팀이 밝혔다. 탄소는 모든 생명체의 화학적 기반이지만, 연구진은 유기물이 생물학적 또는 비생물학적 과정 중 어느 쪽에서 생성됐는지는 현재 장비로 확정할 수 없다고 밝혔다.",
+      "category": "science",
+      "source": "Science Advances / NASA JPL",
+      "sourceUrl": "https://www.sci.news/space/perseverance-complex-organic-matter-mars-14882.html",
+      "publishedAt": "2026-06-24T00:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "GTA6, 11월 19일 공식 출시 확정…록스타 \"추가 연기 없다\"",
+      "summary": "록스타게임즈가 거듭된 연기 끝에 'GTA6'의 PS5·엑스박스 시리즈 출시일을 11월 19일로 확정했다고 공식 발표했다. 디지털 사전 다운로드는 11월 12일 자정부터 시작됐으며, PC 버전 출시 계획은 아직 발표되지 않았다.",
+      "category": "gaming",
+      "source": "TweakTown",
+      "sourceUrl": "https://www.tweaktown.com/news/108727/rockstar-officially-delays-gta-6-again-will-now-release-on-november-19-2026/index.html",
+      "publishedAt": "2026-10-16T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "'월드 오브 워크래프트: 포에버' 11월 4일 출시…상시 운영 신규 버전",
+      "summary": "블리자드가 블리즈컨 2026에서 공개한 '월드 오브 워크래프트: 포에버'가 11월 4일(북미 기준) 출시됐다. 기존 라이브 서버·클래식과 병행 운영되는 영구 버전의 아제로스로, WoW 구독이나 게임타임이 있으면 추가 비용 없이 이용 가능하다.",
+      "category": "gaming",
+      "source": "Blizzard / BlizzCon 2026",
+      "sourceUrl": "https://pixeltwelve.com/articles/most-anticipated-games-november-2026",
+      "publishedAt": "2026-11-04T00:00:00+09:00"
+    }
+  ]
+}
