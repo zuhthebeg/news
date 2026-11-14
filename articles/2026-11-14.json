@@ -135,6 +135,78 @@
       "source": "Hugging Face (intel-ai)",
       "sourceUrl": "https://huggingface.co/intel-ai/Wan2.2-I2V-A14B-Diffusers-NVFP4-AutoRound",
       "publishedAt": "2026-11-13T04:36:36.000Z"
+    },
+    {
+      "id": "16",
+      "title": "민주당 부동산 세제개편 두고 당내 갈등…\"종부세 14억 기준 누가 정했나\"",
+      "summary": "더불어민주당 지도부가 종합부동산세 개편안(실거주 1주택자 14억원, 비거주 1주택자 12억원 기준)에 '함구령'을 내렸지만 수도권 의원들의 완화 요구가 이어지고 있다. 친정청래계 최고위원들은 당 지도부와 상의 없이 기준이 결정됐다고 반발했고, 이달 말 처리 시한을 앞두고 의원총회 개최 요구도 나왔다.",
+      "category": "domestic",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://www.fnnews.com/news/202611140840451211",
+      "publishedAt": "2026-11-14T08:40:00+09:00"
+    },
+    {
+      "id": "17",
+      "title": "이재명 대통령 지지율 41%로 반등…민주 36%·국민의힘 28%[한국갤럽]",
+      "summary": "한국갤럽이 11월 3~5일 실시한 조사에서 이재명 대통령 직무 긍정평가가 전주보다 2%p 오른 41%, 부정평가는 1%p 오른 50%로 나타났다. 민주당 지지율은 36%(+1%p), 국민의힘은 28%(-2%p)였으며, 부정평가 이유로는 부동산 정책(19%)이 가장 많이 꼽혔다.",
+      "category": "domestic",
+      "source": "아이뉴스24",
+      "sourceUrl": "https://www.inews24.com/view/2023359",
+      "publishedAt": "2026-11-06T10:27:00+09:00"
+    },
+    {
+      "id": "18",
+      "title": "\"AI에 돈 쏟아붓더니\"…빅테크 '빚테크'에 삼전닉스까지 흔들리나",
+      "summary": "아마존·구글·메타·MS·오라클 5개사가 올해 미국 투자등급 회사채 발행액(1조8800억달러) 중 상당 부분을 차지하며 AI 투자금을 빚으로 조달하고 있다. 오라클 신용등급 강등과 코어위브의 고금리 차입 등 위험 신호가 커지는 가운데, 10월 셋째주 코스피가 14% 넘게 급락하며 코스피 시총의 절반을 차지하는 삼성전자·SK하이닉스가 직격탄을 맞았다는 분석이다.",
+      "category": "economy",
+      "source": "머니투데이",
+      "sourceUrl": "https://v.daum.net/v/20261114174039629",
+      "publishedAt": "2026-11-14T17:40:00+09:00"
+    },
+    {
+      "id": "19",
+      "title": "엔비디아 CEO 젠슨 황 결국 사임…복귀 촉구 청원 11만명 서명",
+      "summary": "중국 스파이 의혹 상대와의 불륜 파문 끝에 젠슨 황이 지난 12일 엔비디아 CEO직에서 사임했고, 콜레트 크레스 CFO가 임시 CEO를 맡았다. 일론 머스크, 팀 스위니(에픽게임즈 CEO) 등이 동참한 'standwithjensen.com' 복귀 청원에는 현직·전직 직원과 주주를 포함해 11만5천명 이상이 서명했으며, 이들은 '적법한 절차 없이 해임됐다'고 주장했다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/elon-musk-other-tech-execs-sign-petition-calling-on-nvidia-to-reinstate-jensen-huang/",
+      "publishedAt": "2026-11-14T13:41:00-08:00"
+    },
+    {
+      "id": "20",
+      "title": "테슬라, 자율주행 '사이버캡' 개인용 사전예약 개시…월 299달러",
+      "summary": "테슬라가 금요일 저녁 일부 고객 대상으로 2도어 자율주행차 '사이버캡'의 개인용 사전예약을 시작했다고 발표했다. 차량 가격은 2만9990달러, 월 운영비는 299달러이며 텍사스 일부 도시에서만 인도·운행이 가능한 지역 제한이 있다. 일론 머스크는 월 운영비가 너무 비싸다며 115달러 수준으로 낮춰야 한다고 밝혔다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/14/tesla-opens-cybercab-pre-orders-for-personal-use-with-geo-restrictions-and-a-299-monthly-fee/",
+      "publishedAt": "2026-11-14T12:04:00-08:00"
+    },
+    {
+      "id": "21",
+      "title": "루빈 천문대, 명왕성 너머 '왜소행성 후보' 2026 ED138 발견",
+      "summary": "NSF·DOE의 베라 루빈 천문대가 태양으로부터 약 46AU 떨어진 거대 천체 '2026 ED138'을 발견했다고 밝혔다. 추정 지름은 600~1500km로, 확인되면 태양계의 6번째 왜소행성이 될 수 있지만 현재는 후보 단계이며 추가 관측을 통한 확인이 필요하다.",
+      "category": "science",
+      "source": "sci.news",
+      "sourceUrl": "https://sci.news/astronomy/vera-rubin-observatory-possible-new-dwarf-planet-15166.html",
+      "publishedAt": "2026-11-02T00:00:00+09:00"
+    },
+    {
+      "id": "22",
+      "title": "스팀 게임 심사 최대 12영업일로 지연…AI 게임 범람이 원인 지목",
+      "summary": "밸브가 스토어 페이지·빌드 심사 제출량 급증으로 스팀 게임 승인 심사가 최대 12영업일까지 걸린다고 밝혔다. 인디 개발사들은 AI로 저품질 게임이 범람해 지연이 발생한다고 주장하지만 밸브는 이를 직접 확인하지 않았으며, 제출 전 5분간 플레이테스트를 의무화하는 등 대응책을 내놨다.",
+      "category": "gaming",
+      "source": "GodisaGeek",
+      "sourceUrl": "https://godisageek.com/2026/11/steam-game-review-12-business-days/",
+      "publishedAt": "2026-11-13T00:00:00+09:00"
+    },
+    {
+      "id": "23",
+      "title": "GTA6, 역대 최대 게임 출시 전망…업계 전반에 파급효과",
+      "summary": "모건스탠리는 GTA6가 2027년 3월까지 4000만장 판매될 것으로 전망했고, 센서타워 집계로는 11월13일까지 사전예약이 1200만건을 넘었다. 출시일(19일) 연차 신청이 예년보다 13% 늘었고, PwC는 음식 배달 수요 증가와 마이애미 관광 특수를, 동시에 스트리밍 시청률 하락 우려도 함께 제기했다.",
+      "category": "gaming",
+      "source": "CNBC",
+      "sourceUrl": "https://www.cnbc.com/2026/11/14/gta-6-grand-theft-auto-launch.html",
+      "publishedAt": "2026-11-14T09:00:00-05:00"
     }
   ]
 }
