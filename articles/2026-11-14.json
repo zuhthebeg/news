@@ -90,6 +90,51 @@
       "source": "Hugging Face (hyz317)",
       "sourceUrl": "https://huggingface.co/hyz317/HairDeck",
       "publishedAt": "2026-10-28T08:31:00+09:00"
+    },
+    {
+      "id": "11",
+      "title": "Edge0, 0.6B 다국어 보이스클로닝 TTS 'Audio8 Realistic Air' 업데이트",
+      "summary": "[Audio][Edge] HF API 확인값: 10월 14일 최초 공개, 11월 13일 갱신, Apache-2.0. 6억110만 파라미터 본체로 한국어 포함 23개 언어와 제로샷 보이스클로닝을 지원하며 44.1kHz 코덱도 함께 제공한다. cocy.io에서 쓸모: RTX 3080 Ti에서 한국어 게임 대사와 캐릭터 보이스 시안을 로컬 생성하는 후보로 바로 비교 테스트할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (Edge0)",
+      "sourceUrl": "https://huggingface.co/Edge0/Audio8-TTS-Realistic-Air",
+      "publishedAt": "2026-11-13T05:30:42.000Z"
+    },
+    {
+      "id": "12",
+      "title": "Qwen3-TTS 0.6B, 안드로이드 완전 로컬 실행용 변환본 공개",
+      "summary": "[Audio][Edge] HF API 확인값: 11월 13일 최초 공개·갱신, Apache-2.0. Qwen3-TTS 0.6B를 GGUF·LiteRT/TFLite·ONNX 조합으로 변환해 네트워크 없이 안드로이드에서 사용자 음성을 복제하도록 구성했으며 Adreno 630에서도 보코더를 시험했다. cocy.io에서 쓸모: 모바일 게임의 온디바이스 캐릭터 읽어주기와 개인정보를 서버로 보내지 않는 음성 기능의 실험 기반으로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (luweigen)",
+      "sourceUrl": "https://huggingface.co/luweigen/qwen3-tts-0.6b-android",
+      "publishedAt": "2026-11-13T20:18:53.000Z"
+    },
+    {
+      "id": "13",
+      "title": "HeartMuLa 3B 음악 생성 모델, Apple Silicon용 MLX 양자화판 공개",
+      "summary": "[Audio][Edge] HF API 확인값: 11월 13일 최초 공개·갱신, Apache-2.0. 가사와 스타일 태그로 노래를 만드는 HeartMuLa 3B를 MLX용 BF16·8bit·6bit·4bit로 변환했으며 카드 기준 8bit는 7.3GB, 6bit는 6.4GB이고 두 버전 모두 검증 기준을 통과했다. cocy.io에서 쓸모: Mac 로컬 환경에서도 게임 BGM 초안을 뽑아 기존 ACE-Step 파이프라인과 품질·속도를 비교할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (moonbox-dev)",
+      "sourceUrl": "https://huggingface.co/moonbox-dev/HeartMuLa-oss-3B-MLX",
+      "publishedAt": "2026-11-13T14:18:41.000Z"
+    },
+    {
+      "id": "14",
+      "title": "ACE-Step 1.5 Turbo 2B, ONNX Runtime용 검증 변환본 공개",
+      "summary": "[Audio][Tool] HF API 확인값: 11월 8일 최초 공개·갱신, MIT. ACE-Step 1.5 Turbo 2B의 조건 인코더와 DiT를 ONNX로 내보내고 원본 PyTorch와 수치 오차를 검증했으며, 8스텝·무CFG 음악 생성과 최대 10분 길이 입력 구조를 지원한다. cocy.io에서 쓸모: 기존 ACE-Step BGM 생성기를 ONNX Runtime 기반 배치 파이프라인으로 단순화할 수 있는지 검증할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (DanielClough)",
+      "sourceUrl": "https://huggingface.co/DanielClough/music-gen-ace-step-v15-turbo-onnx",
+      "publishedAt": "2026-11-08T09:17:23.000Z"
+    },
+    {
+      "id": "15",
+      "title": "Intel, Wan2.2 I2V 14B용 NVFP4 W4A4 양자화 체크포인트 공개",
+      "summary": "[Video][Tool] HF API 확인값: 11월 13일 최초 공개·갱신, Apache-2.0. Wan2.2 I2V A14B의 두 diffusion transformer expert를 AutoRound 기반 NVFP4 W4A4로 양자화했으며 모델카드는 동일 평가셋 5개 지표에서 BF16 대비 평균 절대 하락 0.994%p를 보고한다. cocy.io에서 쓸모: 고급 GPU 배치 서버에서 캐릭터 이미지의 짧은 홍보 영상 생성 비용을 줄일 후보지만, 검증 환경이 B200이라 3080 Ti용으로 보기는 어렵다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (intel-ai)",
+      "sourceUrl": "https://huggingface.co/intel-ai/Wan2.2-I2V-A14B-Diffusers-NVFP4-AutoRound",
+      "publishedAt": "2026-11-13T04:36:36.000Z"
     }
   ]
 }
