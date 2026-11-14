@@ -72,6 +72,24 @@
       "source": "Blizzard / BlizzCon 2026",
       "sourceUrl": "https://pixeltwelve.com/articles/most-anticipated-games-november-2026",
       "publishedAt": "2026-11-04T00:00:00+09:00"
+    },
+    {
+      "id": "9",
+      "title": "Owen Song, 초소형 영어 TTS 'Inflect v3' 3종 공개",
+      "summary": "[Audio][Edge] 1인 개발자 Owen Song이 11월 10일 Inflect v3 시리즈(Mini 34.31M·Micro 11.79M·Atom 157.19K 파라미터)를 Apache-2.0으로 공개했다. 영어 6개 목소리를 지원하며 서버·GPU 없이 로컬에서 바로 음성을 합성한다. cocy.io에서 쓸모: Atom(15만 파라미터대) 모델은 브라우저/WebGPU에서도 돌릴 수 있는 크기라 log.cocy.io 알림음이나 게임 튜토리얼 안내음성처럼 서버 호출 없이 클라이언트에서 바로 재생하는 용도에 적합하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (owensong)",
+      "sourceUrl": "https://huggingface.co/owensong/Inflect-Mini-v3",
+      "publishedAt": "2026-11-10T16:42:00+09:00"
+    },
+    {
+      "id": "10",
+      "title": "Tsinghua·CMU·CUHK, 사진 한 장으로 VRM용 3D 헤어카드 만드는 'HairDeck' 공개",
+      "summary": "[Image][Tool] 칭화대·CMU·CUHK 연구팀이 10월 27일 HairDeck을 Apache-2.0으로 공개했다. 애니메이션 캐릭터 이미지 한 장을 입력하면 애니메이션에 바로 쓸 수 있는 스타일화된 3D 헤어카드를 생성하고 VRM 포맷으로 내보낸다. cocy.io에서 쓸모: 캐릭터 일관성 파이프라인에서 뽑은 2D 캐릭터 아트의 머리카락을 VRM 호환 3D 애셋으로 변환해 조커런·마작 같은 캐릭터 모델 제작 단계를 단축할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face (hyz317)",
+      "sourceUrl": "https://huggingface.co/hyz317/HairDeck",
+      "publishedAt": "2026-10-28T08:31:00+09:00"
     }
   ]
 }

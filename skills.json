@@ -1805,6 +1805,32 @@
         "video-automation"
       ],
       "addedAt": "2026-11-13"
+    },
+    {
+      "title": "OpenClaw Skills Doctor",
+      "description": "로드된 스킬들의 단계별 토큰 비용·중복(섀도잉)·끊긴 레퍼런스를 감사하는 진단 도구. CLI/MCP서버/네이티브 플러그인/스킬 4가지 형태로 제공되며 완전히 로컬에서 동작(텔레메트리 없음).",
+      "icon": "🩺",
+      "category": "dev",
+      "url": "https://github.com/wangyuchen5110/openclaw-skills-doctor",
+      "tags": [
+        "skill-audit",
+        "token-cost",
+        "openclaw"
+      ],
+      "addedAt": "2026-11-14"
+    },
+    {
+      "title": "Video Editing Skill",
+      "description": "말하는 얼굴(talking-head) 영상을 사람 편집자처럼 1차 가편집하는 무료 오픈소스 스킬. 침묵·말버릿·재촬영 컷 제거, 펀치인, 오디오 레벨링, SRT 자막·챕터까지 ffmpeg 기반 로컬 처리(MIT).",
+      "icon": "🎬",
+      "category": "media",
+      "url": "https://github.com/social-media-skills/video-editing-skill",
+      "tags": [
+        "video-editing",
+        "shorts",
+        "local-render"
+      ],
+      "addedAt": "2026-11-14"
     }
   ]
 }
