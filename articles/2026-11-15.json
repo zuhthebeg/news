@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-15",
+  "articles": [
+    {
+      "id": "1",
+      "title": "북한 해킹조직 라자루스, 한국 서버 30곳 공격 표적으로 포착",
+      "summary": "글로벌 위협 인텔리전스 기업 사이퍼마가 발간한 보고서에서 북한 정찰총국 연계 해킹조직 '라자루스'가 PHP 웹서버 취약점(PHP2Shell)을 악용해 한국의 정부·금융·통신 등 7대 산업군을 노린 정황이 공개됐다. 다크웹 해커 대화록에서 한국 IP 대역이 직접 지목됐고, 실제 표적 목록에서 국내 서버·도메인 30곳이 확인됐다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261114033800017?section=politics/all",
+      "publishedAt": "2026-11-15T07:45:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "수도권 전세수급 불균형 지속…경기·인천 '매도자 우위' 뚜렷",
+      "summary": "한국부동산원에 따르면 11월 둘째 주 기준 경기도 전세수급지수가 110.7로 2021년 8월 이후 최고치를 기록했다. 서울도 120.2로 여전히 수요가 공급을 크게 웃돌고 있어, 정부의 주택공급 속도전 발표에도 수도권 전세난 해소는 더디다는 평가가 나온다.",
+      "category": "economy",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261115004300003?section=economy/all",
+      "publishedAt": "2026-11-15T08:05:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "북한, 일본 '핵반입금지 예외' 추진에 \"절대적 힘의 우세로 평화 수호\"",
+      "summary": "일본이 연내 개정될 안보 문서에 '비핵 3원칙'의 예외를 명시해 핵무기 반입을 사실상 허용하는 방안을 검토 중인 것으로 알려지자, 북한 조선중앙통신이 이를 '핵야망의 전주곡'이라 비난하며 핵무력 증강 방침을 재확인했다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261115007000504?section=politics/all",
+      "publishedAt": "2026-11-15T07:59:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "마이크로소프트 아웃룩, 이틀 가까운 글로벌 장애 끝 복구 완료",
+      "summary": "거의 이틀간 이어진 마이크로소프트 아웃룩·365 전 세계 이메일 장애가 해소됐다. 마이크로소프트는 \"광범위한 복구와 안정화가 이뤄지고 있다\"며 이번 장애가 사이버공격이나 AI/에이전트와는 무관한 기술적 문제였다고 밝혔다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://www.theverge.com/tech/1032862/microsoft-outlook-down-outage",
+      "publishedAt": "2026-11-13T16:17:00Z"
+    },
+    {
+      "id": "5",
+      "title": "이탈리아, 메타에 불법 사진 접근 혐의로 8억500만유로 과징금",
+      "summary": "이탈리아 개인정보보호청(Garante)이 페이스북 앱 기능을 통해 약 2천만 명의 안드로이드 이용자 사진·동영상에 명확한 동의 없이 접근했다는 이유로 메타에 8억500만유로(약 1조2천억원)의 과징금을 부과했다. 메타에는 60일 내 해당 기능을 기본 비활성화하고 별도 동의를 받도록 요구했으며, 메타는 이의제기 계획을 밝혔다.",
+      "category": "tech",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/news/articles/cwn83gxemk35o",
+      "publishedAt": "2026-11-14T19:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "유클리드 우주망원경, 역대 최대 규모 3D 우주지도 공개",
+      "summary": "유클리드 컨소시엄과 유럽우주국(ESA)이 유클리드 우주망원경의 첫 대규모 데이터를 공개했다. 10억 개 이상의 천체에서 포착한 빛을 담아, 지금까지 나온 3D 우주지도 중 가장 넓은 영역을 포괄한다.",
+      "category": "science",
+      "source": "phys.org",
+      "sourceUrl": "https://phys.org/news/2026-11-euclid-3d-universe-date.html",
+      "publishedAt": "2026-11-12T00:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "스페이스X, 스타십 1단 로켓 '메카질라' 로봇팔로 최초 포획 성공",
+      "summary": "스페이스X가 발사·포획용 타워 '메카질라'의 로봇팔을 이용해 스타십 1단 로켓(부스터)을 공중에서 처음으로 포획하는 데 성공했다. BBC는 이를 \"역사적인 포획\"이라고 평가했다.",
+      "category": "science",
+      "source": "BBC",
+      "sourceUrl": "https://www.bbc.com/news/videos/cwlym2gy3y3eo",
+      "publishedAt": "2026-11-14T22:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'블레이드러너', AAA급 비디오게임화 논의 중",
+      "summary": "블레이드러너 2099 총괄 프로듀서이자 앨콘 엔터테인먼트 공동대표인 앤드류 코소브와 브로더릭 존슨이 IGN과의 인터뷰에서 블레이드러너 IP를 기반으로 한 AAA급 비디오게임 제작을 논의 중이라고 확인했다. 구체적인 세부 내용은 공개되지 않았지만, \"플레이어가 세계와 상호작용할 수 있어야 한다\"는 비전을 강조했다.",
+      "category": "gaming",
+      "source": "IGN",
+      "sourceUrl": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
+      "publishedAt": "2026-11-13T23:50:00Z"
+    }
+  ]
+}
