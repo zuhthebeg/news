@@ -72,6 +72,51 @@
       "source": "IGN",
       "sourceUrl": "https://www.ign.com/articles/blade-runner-2099-executive-producers-confirm-franchise-owners-are-in-talks-for-aaa-video-game-adaptation",
       "publishedAt": "2026-11-13T23:50:00Z"
+    },
+    {
+      "id": "9",
+      "title": "소울엑스 플래시헤드 라이트, 스트리밍 토킹헤드용 GGUF 공개",
+      "summary": "[Video] 오디오닷CPP가 소울엑스 플래시헤드 13억 매개변수 라이트 모델을 GGUF로 공개했다. 기준 얼굴 이미지와 음성만으로 512×512, 초당 25프레임의 말하는 인물 영상을 스트리밍 생성하며 CUDA·Vulkan 백엔드를 지원한다. Apache 2.0 라이선스다. cocy.io에서는 게임 NPC 대사 영상과 안내 캐릭터 립싱크를 로컬 파이프라인으로 만드는 데 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/audio-cpp/SoulX-FlashHead-GGUF",
+      "publishedAt": "2026-11-02T03:38:33Z"
+    },
+    {
+      "id": "10",
+      "title": "나이트로퓨전2 컨트롤넷 유니온, 1~2단계 이미지 제어 지원",
+      "summary": "[Image] 나이트로퓨전2용 컨트롤넷 유니온이 공개됐다. 캐니·HED·깊이·포즈·스크리블·회색조·인페인팅 조건을 하나의 모델에서 처리하고, 공식 컴피UI 1단계·2단계 워크플로를 제공한다. Apache 2.0 라이선스다. cocy.io에서는 캐릭터 포즈와 게임 배경 구도를 유지한 채 에셋 변형을 빠르게 양산하는 데 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ChenDY/NitroFusion2-Controlnet-Union",
+      "publishedAt": "2026-11-12T21:31:55Z"
+    },
+    {
+      "id": "11",
+      "title": "타이니오디오, CPU 실시간 생성을 겨냥한 8,700만 매개변수 공개",
+      "summary": "[Audio] 타이니오디오는 텍스트 인코더·생성기·디코더를 합쳐 8,700만 매개변수로 구성한 텍스트-오디오 모델이다. 44.1kHz 오디오를 생성하며, 1단계 MeanFlow 변형과 ONNX 런타임용 CPU 내보내기를 함께 제공한다. MIT 라이선스다. cocy.io에서는 서버 GPU 없이 짧은 게임 효과음과 환경음을 로컬·엣지에서 생성하는 실험에 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/junxiliu/TinyAudio",
+      "publishedAt": "2026-10-29T09:26:49Z"
+    },
+    {
+      "id": "12",
+      "title": "칸딘스키 5.0 5초 영상 모델, Q4·Q8 GGUF 변환본 공개",
+      "summary": "[Video] 칸딘스키 5.0 텍스트-비디오 프로 5초 모델의 변환기 가중치를 Q4_K_S와 Q8_0 GGUF로 양자화한 배포본이 공개됐다. 원본 디퓨저 체크포인트와 조합해 사용하는 구조이며 MIT 라이선스다. cocy.io에서는 짧은 게임 홍보 영상과 배경 루프 제작 시 메모리 사용량을 낮춘 로컬 영상 생성 후보로 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Teriks/Kandinsky-5.0-T2V-Pro-sft-5s-GGUF",
+      "publishedAt": "2026-11-13T22:39:57Z"
+    },
+    {
+      "id": "13",
+      "title": "월드크래프터 컨텍스트, 카메라 제어형 장기 영상 기준 모델 공개",
+      "summary": "[Video] 월드크래프터 컨텍스트는 과거 프레임을 잠재 표현으로 이어받고 UCPE 카메라 어댑터로 시점을 제어하는 자기회귀 영상 생성 기준 모델이다. 학습·맞춤형 메모리 모듈 개발을 위한 중간 체크포인트이며 MIT 라이선스다. cocy.io에서는 카메라 이동이 이어지는 게임 배경과 장면 전환용 영상 파이프라인을 연구하는 데 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Drexubery/WorldCrafter-Context",
+      "publishedAt": "2026-11-06T11:06:07Z"
     }
   ]
 }

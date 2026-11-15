@@ -1831,6 +1831,45 @@
         "local-render"
       ],
       "addedAt": "2026-11-14"
+    },
+    {
+      "title": "Undo First",
+      "description": "파일 수정·삭제, 설정 변경, Git 푸시, 메시지 발송 같은 부작용 작업 전에 복구 경로부터 준비하는 안전 실행 스킬. 에이전트 작업을 되돌릴 수 있는 단위로 감싸 실수의 피해를 줄인다.",
+      "icon": "↩️",
+      "category": "productivity",
+      "url": "https://clawhub.ai/thiennhant95/skills/undo-first",
+      "tags": [
+        "reversible-actions",
+        "safety",
+        "automation"
+      ],
+      "addedAt": "2026-11-15"
+    },
+    {
+      "title": "Academic Figures",
+      "description": "논문용 차트 40종과 저널 프리셋·색각 안전 테마·600dpi 출력을 제공하는 로컬 시각화 스킬. CSV·엑셀·JSON을 받아 겹침 검사와 배치 렌더링까지 자동화한다.",
+      "icon": "📊",
+      "category": "data",
+      "url": "https://clawhub.ai/docsor1212/skills/academic-figures",
+      "tags": [
+        "data-visualization",
+        "research",
+        "local"
+      ],
+      "addedAt": "2026-11-15"
+    },
+    {
+      "title": "A2A Exposed",
+      "description": "A2A 엔드포인트의 웹훅 깨우기, 페어링 요청, 메시지 읽기·답장을 처리하는 에이전트 간 통신 스킬. 허용한 피어와 공개 URL을 통해 OpenClaw 에이전트를 연결한다.",
+      "icon": "🔗",
+      "category": "dev",
+      "url": "https://clawhub.ai/telegraphic-dev/skills/a2a-exposed",
+      "tags": [
+        "a2a",
+        "agent-messaging",
+        "webhook"
+      ],
+      "addedAt": "2026-11-15"
     }
   ]
 }
