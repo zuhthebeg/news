@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-16",
+  "articles": [
+    {
+      "id": "1",
+      "title": "북한 김수키, 국회의원실 사칭 공격…신종 악성코드 포착",
+      "summary": "북한 연계 해킹조직 '김수키'로 의심되는 세력이 국회의원실 비서관을 사칭해 세미나 사례비를 미끼로 국내 세미나 참석자에게 접근, 온라인 메모 서비스를 악용한 신종 악성코드로 PC를 원격제어하려 한 정황이 포착됐다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE02aVBtQzFSVTFnMzNnZ3MwcGZpUkZTVXlzNVotdEhxN3pWbGxKSXVyb2lqVFB3RjA0c1JhNDF0OUcxUEZwTGNwMXNTQnhpR2lUclNFVmo5b2xIUDTSAWBBVV95cUxOcDBLbGM4VzV1aWNyWUd1ZzhPdlFPYURLcDRYc3VNdV9BNmVsZUtiS2lzQmJQTDVGcDVzd21vdW9iZUlCMC1nZ1VqTE9zOTg4eEFCYUNHYXNYVkRJVUVIQ3k?oc=5",
+      "publishedAt": "2026-11-15T23:28:30Z"
+    },
+    {
+      "id": "2",
+      "title": "한 총리 주재 'AI 부정행위 대응' 후속회의…범정부 총력 대응",
+      "summary": "한덕수 국무총리 주재로 AI 부정행위 대응을 위한 후속 회의가 열려 범정부 차원의 총력 대응 방안이 논의됐다.",
+      "category": "domestic",
+      "source": "뉴시스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBRN3Y0NGF5TlhidEREVlYySTI3bUlfSnE2bzdWSGZpM1p6Qk5EYjhBemJ1VUtva212R1lhY2p0cXhwUG9RVWx6bGNodUZzZWZWckQ0T19UcTFQTDhGZkN4YdIBeEFVX3lxTE05X2tsSFVpOGFfc2NleGFRemZjaWsybnlfQUtrZUtsMlNJZUdWQmFCQ05lcmladHlod3N1X2o3MG55M0FzYUtDUjFsclRqWXE4anZ1QjJma2xZVkpLZzVhY3ZlUHlDTDI3RTY4MmlaYmpwTHZ4Y3h6bA?oc=5",
+      "publishedAt": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "3",
+      "title": "Nvidia CEO Jensen Huang Resigns as Stock Tanks",
+      "summary": "Nvidia CEO Jensen Huang has resigned, sending the company's stock sharply lower and raising questions about the future direction of the AI chip ecosystem.",
+      "category": "world",
+      "source": "Yahoo Finance",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQNTJucVZFZS1YZmtjQmcyeDNKV2dXN0o0cThVZW1IWFQ1SU5KOXR1QlNSM1lEeTUwSDEwcTlrdlZsRjRNZ1pqb0JSWVVfal84YkhDUFpTUWFSM3VjYnN0UEpVX2Mxdmd2bUdhUXBKYU9GWWNBYWZFNnp0VkRlcXprZUtrQWYzS2htNDI3b0ZMQkF4QXJXV0ZQRDJjRk0?oc=5",
+      "publishedAt": "2026-11-15T21:20:02Z"
+    },
+    {
+      "id": "4",
+      "title": "Coles probes cyber security incident, says no evidence customer data compromised",
+      "summary": "Australian supermarket chain Coles is investigating a cyber security incident but says there is currently no evidence that customer data has been compromised.",
+      "category": "tech",
+      "source": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPUUozZVlTVHJkcG5vekViSUtBcWJQTXZ2UzVCZUVuazg3UFRwNXdlLVoxUmw0bTk3cWY2RUhsaE81VVFhMmtTb0RtTjVXZ09OTkVCbk94cldiZDJrcFBMTF9KNjJ5OVlGRnV0MjFETlZodTRUTUU1OHpRUk9uRkd2R21Gb1RDekJUQ2oyRjk3aUZ0MnZjSkdhdEk2ek05MkxaU3FGQkFXc0VBTnBmYWFYa0RpX0JpazNQd3M1Y3c1Y2lYQzN1dUFHb2EzZE8?oc=5",
+      "publishedAt": "2026-11-15T22:31:43Z"
+    },
+    {
+      "id": "5",
+      "title": "Workday back online after outage left clients unable to access the software",
+      "summary": "HR software provider Workday restored service after an outage left business clients unable to access the platform, disrupting payroll and HR operations for affected companies.",
+      "category": "tech",
+      "source": "San Francisco Chronicle",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQSWl4bGQ0OUtDQmw4cUhsYXFvbkVhODRlVUdOX0Q4Vnp0bmhvVTFMMkdoUnhOMkI2aVhac3hfNDdkQXFWdERLcVloLTJvX0lPRkx0WDZwSVljdGhIWkF6UTBfWk45Z1V4Q2ZORHlkQzhyWGVJUHFNTm4tVTRXd2NVQ0hvOHFJbEJXSHR4aGFINmY?oc=5",
+      "publishedAt": "2026-11-14T14:27:23Z"
+    },
+    {
+      "id": "6",
+      "title": "As Voyager 1 reaches one light-day from Earth, scientists reflect on its incredible 50-year legacy",
+      "summary": "Voyager 1, launched nearly 50 years ago, has now traveled far enough that its radio signals take a full day to reach Earth, prompting scientists to reflect on the probe's historic journey into interstellar space.",
+      "category": "science",
+      "source": "Live Science",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxObmtMbDhOY0hqZzNtbVcyRHJVMnNISVlkQ2JpVU1sN3FXb2FBa1BUZ215RjFxTC1SeElLT1NmXzh1MmY3YXNFZC0xME43M0VCZkQyUDRDOGFpTEZDRU9NZFROTVdEc1VJSVl2R3dfcW0tMVlCN0Y5NXA1d0wyMXhXd1NQTkwyb3RBTDRNd0VscW81SXJHbUtWbS05QkZlSVFXZXRUSkNZeGdjeDQ5WTBXSUwyLW5sbFRXVTREY2dRckdoZFMxMEt1aHhHdkRva2lXbENlaHBaZ1ZtZEFVMjhrMXIxa3VxWTVubFNxS1h5VHpMWHFfeUk3WmpYMHA3Y0VpcElkdEFBbmQ?oc=5",
+      "publishedAt": "2026-11-15T20:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "NIH: For the first time, researchers map out the brain's behavioral gatekeeper",
+      "summary": "NIH-backed researchers have for the first time mapped a brain circuit that acts as a behavioral gatekeeper, offering new insight into how the brain decides which actions to take.",
+      "category": "science",
+      "source": "Florida Hospital News and Healthcare Report",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPS0F4UUpOSnQ5RlQyRm9icklBLVI2N1BIQ1NucXdjZURWOUJfejd2MENFU2JveGdFSG5aTlFkSDNlNkpRaGIzbkdwQnU2aFU2NzZ0ZWFQR0JDVW1veXRkdFdlRDVZQmpwSmFXZ25ZR21PdHhrZ0o2UDNPWDQ3bW54SjFTMG1sdnd0dGhoY1RZM3hVS19MOGJjb01NWi04Y19LRXd0ZUgyREJibVNBNmlzSUYxLVBmWXBYaS1QWEwtV09nZw?oc=5",
+      "publishedAt": "2026-11-15T18:08:26Z"
+    },
+    {
+      "id": "8",
+      "title": "'Grand Theft Auto Flu': is the whole world really taking the day off work to play GTA VI?",
+      "summary": "The launch of Grand Theft Auto VI has driven reports of workers taking sick days to play, underscoring the scale of the game's release as one of the biggest entertainment events of the year.",
+      "category": "gaming",
+      "source": "The Guardian",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSlFFQ0RTVGY5RjloSGVvcHNlUUR2VEJmX1RZUU1XcWd4NGpTWjdLbkZ0enVGcjVOQTlZNE9ncFFHcnB1anRZWkdTdDYxcmJIQVg3QjlJQ0NWTlU5VmR5M2dfMXVrM2Y4NzFPQVNYMWhEV1M3LWd0S0xJbTg1cW1oWjZBRmh5SXVmT0x3YldXMnV6N09sQ0tVbkxUZE1WMHVnX3VWRVlibE0?oc=5",
+      "publishedAt": "2026-11-15T14:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "U.S. loses grip on $121 billion mobile gaming sector to China",
+      "summary": "A new industry analysis finds Chinese studios have overtaken U.S. developers in the $121 billion global mobile gaming market, as Chinese-made titles climb the top-grossing charts worldwide.",
+      "category": "gaming",
+      "source": "The Spokesman-Review",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXFOeThPQjF2SmVIRDhUTnJidTlFMVJuZDVDVXdCSnV0enZ3TEYxeEg4Y3dPbUdoUS1XTHQxQXJZaFhISElwT0hpWEN4S21SS2NsZlV5enlKaXJPQ3drbmt2NkVRQ3ZBTzRJMElYU01zbW8wSDA5T0hqbW1qSDVETWhsMGVzVjd1Uk93bHUycjNiV181d2U1c0htZnZLdw?oc=5",
+      "publishedAt": "2026-11-15T13:00:00Z"
+    }
+  ]
+}
