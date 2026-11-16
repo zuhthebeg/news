@@ -81,6 +81,33 @@
       "source": "The Spokesman-Review",
       "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxQOXFOeThPQjF2SmVIRDhUTnJidTlFMVJuZDVDVXdCSnV0enZ3TEYxeEg4Y3dPbUdoUS1XTHQxQXJZaFhISElwT0hpWEN4S21SS2NsZlV5enlKaXJPQ3drbmt2NkVRQ3ZBTzRJMElYU01zbW8wSDA5T0hqbW1qSDVETWhsMGVzVjd1Uk93bHUycjNiV181d2U1c0htZnZLdw?oc=5",
       "publishedAt": "2026-11-15T13:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Video] 월드모델 영상생성 'PAN2', ComfyUI 로컬 실행 지원으로 공개(Apache-2.0)",
+      "summary": "아부다비 MBZUAI 산하 IFM(Institute of Foundation Models)이 개발한 텍스트·이미지 기반 월드 시뮬레이션 영상생성 모델 PAN2가 ComfyUI용 디퓨전 싱글파일로 패키징돼 로컬 GPU 실행이 쉬워졌다(Apache-2.0). cocy.io에서 쓸모: 게임 티저·컷씬 등 짧은 영상 클립을 로컬에서 생성하는 파이프라인 후보로 검토할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Comfy-Org/PAN2",
+      "publishedAt": "2026-11-15T10:42:40Z"
+    },
+    {
+      "id": "11",
+      "title": "[Edge] 450만 파라미터 초경량 TTS 'tiny-voca' 공개, CPU에서 실시간 70배속",
+      "summary": "개인 개발자가 합성 음성 18시간 분량으로 처음부터 학습시킨 452만 파라미터 영어 TTS 모델 'tiny-voca'를 Apache-2.0으로 공개했다. CPU 4스레드에서 실시간 대비 약 70배 속도로 동작하며 ONNX로도 제공된다. cocy.io에서 쓸모: 서버 호출 없이 브라우저·엣지에서 즉시 재생되는 초경량 내레이션·알림 음성이 필요한 소형 웹게임에 바로 끼워 넣을 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/n4ze3m/tiny-voca",
+      "publishedAt": "2026-11-14T15:46:27Z"
+    },
+    {
+      "id": "12",
+      "title": "[Audio] 전이중(full-duplex) 음성대화 모델 'Haru-4B' 공개, 한국어 포함(Apache-2.0)",
+      "summary": "higurashi-ai가 전화 통화처럼 듣기·말하기가 동시에 가능한 40억 파라미터 전이중 음성대화 기반모델 Haru-4B를 공개했다. 133ms 프레임 단위로 입출력을 처리하며 한국어 포함 9개 언어를 지원하고, 텍스트 카드와 참조 음성으로 캐릭터·목소리를 지정할 수 있다(라이선스는 Apache-2.0이나 모델 자체는 연구용 베이스 모델로 공개됨). cocy.io에서 쓸모: NPC 실시간 음성대화나 끼어들기 가능한 음성 어시스턴트 프로토타입용 기반 모델로 검토할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "publishedAt": "2026-11-12T11:05:59Z"
     }
   ]
 }

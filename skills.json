@@ -1870,6 +1870,32 @@
         "webhook"
       ],
       "addedAt": "2026-11-15"
+    },
+    {
+      "title": "EmpirioLabs AI Music",
+      "description": "텍스트 설명만으로 음악과 사운드 이펙트를 생성하는 ClawHub 신규 스킬. 게임 BGM·SFX 초안을 빠르게 뽑아볼 때 쓸 수 있다.",
+      "icon": "🎶",
+      "category": "media",
+      "url": "https://clawhub.ai/empiriolabs/empiriolabs-music",
+      "tags": [
+        "music-generation",
+        "sound-effects",
+        "clawhub"
+      ],
+      "addedAt": "2026-11-16"
+    },
+    {
+      "title": "easyrender image to 3D",
+      "description": "제품 사진 한 장을 미리보고 승인한 뒤 GLB 3D 모델로 변환하는 ClawHub 신규 스킬. 게임 아이템/오브젝트 에셋 초안 제작에 활용 가능.",
+      "icon": "🧊",
+      "category": "media",
+      "url": "https://clawhub.ai/jorgerl02/easyrender-image-to-3d",
+      "tags": [
+        "image-to-3d",
+        "glb",
+        "clawhub"
+      ],
+      "addedAt": "2026-11-16"
     }
   ]
 }
