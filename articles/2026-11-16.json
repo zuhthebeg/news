@@ -108,6 +108,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/higurashi-ai/Haru-4B",
       "publishedAt": "2026-11-12T11:05:59Z"
+    },
+    {
+      "id": "13",
+      "title": "[Audio] ZONOS3-Mini 공개: 43개 언어·브라우저 WebGPU 음성복제 TTS",
+      "summary": "[Audio] Zyphra가 1억 활성 파라미터(총 8억)의 다국어 TTS ZONOS3-Mini를 공개했다. 한국어를 포함한 43개 언어, 참조 음성 기반 제로샷 음성복제, WebGPU·GGUF·CUDA·MLX 런타임을 제공한다. HF API 확인값은 createdAt 2026-11-09, lastModified 2026-11-14, Apache-2.0이다. cocy.io에서 쓸모: 3080 Ti 로컬 서버나 브라우저에서 NPC 음성·내레이션을 클라우드 호출 없이 만드는 후보로 바로 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "publishedAt": "2026-11-09T05:03:57Z"
+    },
+    {
+      "id": "14",
+      "title": "[Image] 32×32 RGBA 게임 스프라이트 전용 생성모델 sprite32 공개",
+      "summary": "[Image] sprite32는 66만 장으로 처음부터 학습한 32×32 RGBA 픽셀아트·아이콘 생성모델이다. fast판은 12스텝, 피크 GPU 메모리 2.6GiB로 모델카드에 명시돼 있다. HF API 확인값은 createdAt·lastModified 2026-11-16, Apache-2.0이다. cocy.io에서 쓸모: 12GB RTX 3080 Ti에서 웹게임용 아이콘·타일·소형 캐릭터 시안을 대량 생성하기 좋은 전용 파이프라인이다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/danemarguglio/sprite32",
+      "publishedAt": "2026-11-16T00:53:04Z"
+    },
+    {
+      "id": "15",
+      "title": "[Edge] Kokoro-82M Core ML 변환판, iPhone·Mac용 온디바이스 TTS 패키지 공개",
+      "summary": "[Edge] Kokoro-82M의 영어 음성 5종을 Core ML FP16 패키지로 변환한 저장소가 공개됐다. CPU 실행을 목표로 하며 변환 스크립트와 어휘·음성 스타일 데이터까지 포함한다. HF API 확인값은 createdAt 2026-11-13, lastModified 2026-11-16, Apache-2.0이다. cocy.io에서 쓸모: iOS·macOS 앱이나 오프라인 게임의 저비용 음성 안내를 서버 없이 구현할 때 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/rayan-m/kokoro-82M-coreml",
+      "publishedAt": "2026-11-13T02:36:46Z"
+    },
+    {
+      "id": "16",
+      "title": "[Tool] llama.cpp·ggml 1.0, 로컬 추론 라이브러리 API 안정성 기준 확립",
+      "summary": "[Tool] llama.cpp와 ggml이 2026-11-13 라이브러리 v1.0을 발표하고 공개 C API의 호환성 변경을 시맨틱 버전으로 관리하기 시작했다. 150개가 넘는 모델 아키텍처와 CUDA·Metal·Vulkan 등 다중 백엔드를 지원하며 GitHub 라이선스는 MIT다. cocy.io에서 쓸모: 로컬 모델을 게임·도구에 임베드할 때 추론 런타임 업그레이드와 ABI 파손을 더 예측 가능하게 관리할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face Blog",
+      "sourceUrl": "https://huggingface.co/blog/ggml-org/llama-cpp-v1",
+      "publishedAt": "2026-11-13T00:00:00Z"
+    },
+    {
+      "id": "17",
+      "title": "[Tool] NVAI-open 0.5.28, 하드웨어별 모델 추천하는 로컬 에셋 제작 도우미 추가",
+      "summary": "[Tool] NVAI-open 0.5.28은 이미지·영상·음성·음악·3D를 한 프로젝트에서 로컬 생성하는 스튜디오에 7단계 제작 도우미와 GPU별 예상 시간·모델 추천을 추가했다. 앱 코드는 MIT이며, 각 생성모델의 별도 라이선스는 사용 전에 다시 확인해야 한다. cocy.io에서 쓸모: 3080 Ti 한 대에서 게임용 멀티미디어 에셋 제작 흐름을 GUI·MCP로 묶어 빠르게 비교 검증할 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/Mantux775/NVAI-open/releases/tag/v0.5.28",
+      "publishedAt": "2026-11-15T01:38:50Z"
     }
   ]
 }
