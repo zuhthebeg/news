@@ -99,6 +99,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/SJTU-DENG-Lab/WaveForcing-1.3B",
       "publishedAt": "2026-10-30T18:31:24Z"
+    },
+    {
+      "id": "12",
+      "title": "ZONOS3-Mini, 1억 파라미터로 브라우저 실시간 보이스클로닝 TTS 공개",
+      "summary": "[Audio] Zyphra가 공개한 ZONOS3-Mini는 1억 개의 활성 파라미터만으로 43개 언어 음성합성과 보이스클로닝을 지원하는 오픈소스 TTS로, 브라우저·모바일에서 실시간 구동되며 나이·억양·음색을 조절해 캐릭터를 설계하고 단어 단위로 감정·속도를 조절할 수 있다. 가중치는 Apache 2.0, GitHub(Zyphra/ZONOS3-Mini)와 안전텐서·GGUF로 배포된다. cocy.io에서는 고스톱 콜이나 게임 NPC 대사를 적은 리소스로 캐릭터화해 로컬·브라우저에서 생성하는 데 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "publishedAt": "2026-11-09T05:03:57.000Z"
+    },
+    {
+      "id": "13",
+      "title": "Kitten TTS 2 Mini, 82MB int8 ONNX로 16개 언어·118개 보이스 지원",
+      "summary": "[Edge] KittenML이 공개한 Kitten TTS 2 Mini는 8200만 파라미터를 int8 ONNX로 양자화해 82.7MB 크기로 줄인 TTS 모델로, PyTorch 없이 CPU에서만 16개 언어·118개 보이스로 24kHz 음성을 생성한다. 라이선스는 Apache 2.0이다. cocy.io에서는 브라우저·모바일 웹게임에 GPU 없이도 들어갈 수 있는 초경량 안내·대사 음성 엔진으로 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KittenML/kitten-tts-2-mini",
+      "publishedAt": "2026-11-13T03:34:38.000Z"
+    },
+    {
+      "id": "14",
+      "title": "MBZUAI IFM, 290억 파라미터 월드모델 PAN 2 공개…최근 ComfyUI 단일파일 지원 추가",
+      "summary": "[Video] MBZUAI 산하 IFM이 공개한 PAN 2는 이미지와 텍스트 행동 지시를 받아 최대 20초 분량의 704x1248·24fps 영상으로 결과를 시뮬레이션하는 290억 파라미터 MMDiT 기반 월드모델이다. Diffusers·vLLM을 지원하며 가중치는 Apache 2.0이고, 2026년 11월 16일에는 ComfyUI용 단일파일 변환본(orz99/PAN2)이 추가로 올라왔다. cocy.io에서는 게임 시스템이 특정 행동의 결과를 미리 영상으로 시뮬레이션하는 실험이나 트레일러용 롱폼 영상 생성 조사에 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/IFM/PAN2",
+      "publishedAt": "2026-10-07T23:42:01.000Z"
+    },
+    {
+      "id": "15",
+      "title": "Idol, 사진 한 장을 2초 안에 3D 가우시안 스플랫으로 변환",
+      "summary": "[Image] Sperid Labs가 공개한 Idol은 물체 사진 한 장을 입력하면 배경을 제거하고 사진에 없던 뒷면까지 포함해 최대 104만8576개의 3D 가우시안으로 구성된 표준 3DGS(.ply) 파일을 생성하는 image-to-3D 모델이다. 소비자용 GPU에서 7.2GB VRAM으로 2초 이내에 동작하며 라이선스는 Apache 2.0, 코드는 GitHub(speridlabs/idol-sdk)에 있다. cocy.io에서는 SDXL로 뽑은 캐릭터·소품 아트를 빠르게 3D 뷰어용 에셋으로 전환하는 실험에 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/speridlabs/idol",
+      "publishedAt": "2026-10-28T15:55:17.000Z"
+    },
+    {
+      "id": "16",
+      "title": "Inflect Mini v3, 3400만 파라미터로 로컬 보이스 프로필 복제 TTS 공개",
+      "summary": "[Audio] Owen Song이 공개한 Inflect Mini v3는 핵심 3431만 파라미터(더 작은 Micro·Atom 변형 포함)로 영어 6개 프리셋 보이스를 제공하는 완전 로컬 구동 TTS로, 비언어적 음향 이벤트를 문장에 끼워넣거나 참조 녹음에서 재사용 가능한 보이스 프로필을 만들 수 있다. 기본 24kHz이며 선택적으로 48kHz 향상 모듈을 쓸 수 있고 CPU·CUDA에서 동작하며 라이선스는 Apache 2.0이다. cocy.io에서는 극도로 적은 자원으로 여러 NPC 보이스 프로필을 로컬에서 만들어 테스트하는 데 쓸모가 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/owensong/Inflect-Mini-v3",
+      "publishedAt": "2026-11-10T07:42:26.000Z"
     }
   ]
 }
