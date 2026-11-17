@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-17",
+  "articles": [
+    {
+      "id": "1",
+      "title": "‘AI 커닝’ 해법은 아날로그 회귀?…“실제 능력 확인하려면 다시 대면평가로”",
+      "summary": "스마트기기를 활용한 수능 부정행위 파문이 커지면서 평가 방식을 다시 대면·구술 중심으로 되돌려야 한다는 목소리가 나온다. 정부는 관계부처 회의를 열어 재발 방지 대책을 논의했다.",
+      "category": "domestic",
+      "source": "경향신문",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9UN1FMZlJ4YUpVWmxtaGJfcVkzTElUSEN5eU14dE9BVXYxQWlfQ28yck9ONHc0eV85VF9jZUE1SG1uYVVGTjQwdnNNN3BRZ1VyMlFtLUtQYmZFZ9IBX0FVX3lxTE9oTmYzUjdPb1BYYXF0MW1PU05Xck9Jc0lwMms2Qmd0UXFUSVpzNVc5UHJ6aDFKaUxkZHNRelVDZDh2UV9Ka2puS3BacHFuRTd2WFlXR3R1WUEwNVpGV0Fz?oc=5",
+      "publishedAt": "2026-11-16T21:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "[뉴욕증시] 젠슨 황 거취에 휘둘린 증시…필리 반도체 지수 5% 급락",
+      "summary": "엔비디아 CEO 젠슨 황의 거취를 둘러싼 불확실성이 뉴욕증시를 흔들며 필라델피아 반도체 지수가 5% 급락했다. 나스닥도 AI주 매도세에 2%대 하락했다.",
+      "category": "economy",
+      "source": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9oeEduX3kwZ0Nfd2dEWmJJY0JOVUVtcnZ2NkhpQ3lDMTZ5YnlPZlB0QS1jOEN0LXhtNmRBMHhhbWpacjBhdWxUTVhpS19YSEpvdklKV3hNalRYWXFGaXNfRkw5SWVrdF9YdE4zOGxGWk0?oc=5",
+      "publishedAt": "2026-11-16T21:34:28Z"
+    },
+    {
+      "id": "3",
+      "title": "김민석 옆 최민희, 사과 뒤 ‘신천지 역공’…적나라한 계파 갈등",
+      "summary": "최민희 의원이 사과 후 신천지 관련 역공에 나서며 여당 내 계파 갈등이 적나라하게 드러났다. 일각에서는 제명론까지 거론되고 있다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE54TFdCLXBpYWd1VWN2NXREZWd4bGtnbVJRQ1p2RFVJMDJfWjdhMkliZkdtTDNYSWJnS0ZHYzFZRkk3blBXTTNJM0FRT1lpblZ5d2JaQ0FUazNBUE00bzN5ejRmc3RWdjNDQmpTcENHVVdZUjBZ?oc=5",
+      "publishedAt": "2026-11-16T17:16:00Z"
+    },
+    {
+      "id": "4",
+      "title": "Google says Russian speakers pulled off first-ever fully automated AI cyberattack",
+      "summary": "구글은 러시아어권 해커 그룹이 AI 에이전트를 활용해 사람의 개입 없이 완전 자동화된 사이버 공격을 수행한 사례를 처음으로 확인했다고 밝혔다.",
+      "category": "tech",
+      "source": "POLITICO.eu",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ3dXZ19OWEdSOVg1MGpaVTExaktQc3Joc3NLcGdWeUliY0xuS19WREpFMkpjcC10Y3FFc0lpRjVQdUxpNk54YXl6c2ZYQzhLZE1pMXZuLVJ2ZHplRXFYNVVNVTlpX1Q2MUhSQ3ZQRjBIZ0JMYWZ3QmtiZEVaUHNub1VRdUlNbVJoV05XeWNZQVF0aWRlZFVqN3E3YmFtZzVRSDYxVzdrcmZXSi1vNWFr?oc=5",
+      "publishedAt": "2026-11-16T15:43:00Z"
+    },
+    {
+      "id": "5",
+      "title": "Apple reveals new Mac security controls as AI agents raise privacy risks",
+      "summary": "애플이 AI 에이전트의 확산으로 커지는 개인정보 침해 우려에 대응해 맥용 신규 보안 제어 기능을 공개했다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNVWl4cmQyY0JfOGNsZEVKNmw1a2R6cGtQM1MxMmZIODBKSzFLZHRQcjA3RTFqZGxYR3FPQ1BhZldKaTRfNzBpMm1haFhoUWxrb0JmT1lqX0MwZ1hvYWdud0lEcW8za002ckRrazlXZ19SRnlnUUVtSkl0YU51WXJiNld3cnViVGdKTHRlUHlrdlEtcHpHbGY1S3RWUDd2SDVXYzB0elN3NmxoOGc?oc=5",
+      "publishedAt": "2026-11-16T21:01:02Z"
+    },
+    {
+      "id": "6",
+      "title": "NASA's interstellar Voyager 1 probe is about to reach 1 light-day from Earth after nearly 50 years in space",
+      "summary": "거의 50년간 우주를 비행한 보이저 1호가 지구로부터 1광일 거리에 도달하는 새로운 거리 기록을 세울 예정이다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOZkNxMk55c0NhYzNNVW5ySEVUbHdTQWlGVm00dFgzdlA1Ukc1UlBPcENPWEJDbFV5ekRNb29YN1p5VHA0Q2w1Q3UzNU9fcERuUUNFVENZUTdQcWZDMDBLU3BLdjEySjY5WG5mUzBfWVhfYkhrVGxoejhhQXBlY2NEQ3ltLXM5TXlnY3NGS0FNeGw0bW1vTFlyNjZSY0JjZ3lCQXFxbERmSXRLUnI0VWVfcE9oSWJwcTcwdDVaeHVqUG5lZjhDNm95d2paUHJlMTZvUGxDVG5jUk1XWEc3R1BtT2ZBSVZ2ajJLRnc?oc=5",
+      "publishedAt": "2026-11-16T11:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "SpaceX carries out first-ever spaceship capture",
+      "summary": "스페이스X가 세계 최초로 우주선 포획(캡처) 기동에 성공했다고 발표했다.",
+      "category": "science",
+      "source": "DW.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVG5kQzFndkNIZlhDbmNHS05ZU3FRbjBFbHVOSzkzaDgtQzN5Yl9CWXZpNHpyM0xBZHV3SFdBMGpqZVlCQjhsVjU4T3VhMG1Eakd5T0p2MEotbWt6eng3TVV3bmFhUjlldmpWY1owOUxNa20tRER3N0ZpaGRPbmVBU09odDBPMDjSAYcBQVVfeXFMTWZZR0JnSHpMdGpsNzhDR3dlM1UyZHZHenVLODBlWFpHelN3dWZ4ZFc3QjI0cjhMdzBSNzRCdkhkZVNOVjlCUHV4TjM4dHlodTlLWFRUTEp0VTBDN0hXWjhxMTc0dloxakNFZnRZMzBESFhSN0lERFBZMGFSdVFZallsRUVzRjlF?oc=5",
+      "publishedAt": "2026-11-15T14:07:51Z"
+    },
+    {
+      "id": "8",
+      "title": "How Rockstar's 'GTA VI' release could reshape gaming, streaming and even paid time off",
+      "summary": "록스타의 'GTA 6' 출시가 게임 업계는 물론 스트리밍 플랫폼, 심지어 기업들의 유급휴가 정책에까지 영향을 미칠 수 있다는 분석이 나온다.",
+      "category": "gaming",
+      "source": "CNBC",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5GLXV6dVp1X1M2dUQtNHR5NUY5dHdWbnJpbHdKYnU3Q0prMnFKTmk2bTdlb19VOHRSdFVabG04TFpWMzJUYTFzb1ktYi1Id09nUWRHZUlSbmJnSWRlekxLMVZDU1Q5X083c0MyR0VhUnFoYVh30gF6QVVfeXFMTXRRZ2p5eXRCZDRNcUh1MEIxNEo0QzZvS3pMaG03ZWxvVV83LTk1bGZBRHFhbnBCdlYta2dNTXkzRk5kQ0loVmczeXJsWGNla3BWb3VNS1p2UVdmLW5sSzAtODN1S291dGRnVVN5RDdXRmNKMC1vMHQtT3c?oc=5",
+      "publishedAt": "2026-11-14T14:00:01Z"
+    }
+  ]
+}
