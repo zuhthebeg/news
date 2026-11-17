@@ -1896,6 +1896,45 @@
         "clawhub"
       ],
       "addedAt": "2026-11-16"
+    },
+    {
+      "title": "Hardened File Access",
+      "description": "사용자가 허용한 폴더 안에서만 파일 목록·읽기·복사·작성을 수행하도록 제한하는 보안형 파일 접근 스킬. 파일 크기와 실행당 처리량을 제한하고 삭제·자격증명 파일 접근을 금지하며 모든 작업을 감사 로그로 남긴다.",
+      "icon": "🗂️",
+      "category": "dev",
+      "url": "https://clawhub.ai/thepodemail-lgtm/file-access",
+      "tags": [
+        "file-access",
+        "allowlist",
+        "security"
+      ],
+      "addedAt": "2026-11-17"
+    },
+    {
+      "title": "Diagram Generator",
+      "description": "아키텍처·토폴로지·배포·데이터 흐름·시퀀스 다이어그램을 독립 실행형 HTML/SVG로 만드는 스킬. 내장 규칙과 중간 표현, 기하 검사기를 이용해 겹침과 잘림을 점검하고 문서용 기술 도표를 생성한다.",
+      "icon": "🧭",
+      "category": "dev",
+      "url": "https://clawhub.ai/yumingtao/yumingtao-diagram-generator",
+      "tags": [
+        "diagram",
+        "svg",
+        "architecture"
+      ],
+      "addedAt": "2026-11-17"
+    },
+    {
+      "title": "UAvideo",
+      "description": "게임·제품 광고 영상을 구간별로 분해해 줄거리와 시각 특징을 태깅하고 장점·위험·재사용 가능한 스크립트 뼈대를 정리하는 스킬. 15개 플롯 코드와 91개 시각 특징 체계를 내장해 경쟁 소재 분석과 후속 제작 방향을 구조화한다.",
+      "icon": "🎞️",
+      "category": "media",
+      "url": "https://clawhub.ai/tencent-adm/uavideo",
+      "tags": [
+        "video-analysis",
+        "game-ads",
+        "creative-tagging"
+      ],
+      "addedAt": "2026-11-17"
     }
   ]
 }
