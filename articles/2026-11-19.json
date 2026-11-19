@@ -99,6 +99,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
       "publishedAt": "2026-11-14T02:14:35Z"
+    },
+    {
+      "id": "12",
+      "title": "[Audio][Edge] Zyphra ZONOS3-Mini — 브라우저 WebGPU 구동 오픈소스 TTS 공개",
+      "summary": "[Audio][Edge] Zyphra가 1억(100M) 활성 파라미터급 경량 TTS 모델 ZONOS3-Mini를 공개했다(2026-11-09, Apache-2.0, 상업 이용 가능). 짧은 음성 샘플로 보이스클로닝이 가능하고 한국어 포함 43개 언어를 지원하며, 서버 없이 WebGPU로 브라우저에서 직접 구동된다. cocy.io에서 쓸모: 서버 비용 없이 브라우저에서 캐릭터별 보이스클로닝 음성을 즉석 재생할 수 있어 게임 NPC·음성봇 프로토타입에 적용 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "publishedAt": "2026-11-09T05:03:57Z"
+    },
+    {
+      "id": "13",
+      "title": "[Audio][Edge] KittenML Kitten TTS 2 Mini — 82M 초경량 CPU 전용 TTS 공개",
+      "summary": "[Audio][Edge] KittenML이 82M 파라미터 ONNX 경량 TTS 모델 Kitten TTS 2 Mini를 공개했다(2026-11-13, Apache-2.0, 상업 이용 가능). int8(82.7MB)·int4(47.5MB) 양자화 가중치로 GPU 없이 CPU만으로 구동되며 16개 언어·118개 보이스를 지원한다. cocy.io에서 쓸모: GPU 없는 저가 서버·엣지 환경에서도 게임 안내 음성이나 NPC 대사를 저지연으로 생성하는 폴백 옵션으로 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KittenML/kitten-tts-2-mini",
+      "publishedAt": "2026-11-13T03:34:38Z"
+    },
+    {
+      "id": "14",
+      "title": "[Tool] speridlabs Idol — 사진 한 장을 3D 가우시안 스플랫으로 변환하는 오픈 모델 공개",
+      "summary": "[Tool] speridlabs가 이미지 1장을 최대 약 105만개 3D 가우시안으로 변환하는 오픈소스 모델 Idol을 공개했다(2026-10-28, Apache-2.0, 상업 이용 가능). 배경을 자동 제거하고 사진에 없던 뒷면까지 추정해 소비자 GPU(VRAM 7.2GB)에서 2초 내로 처리한다. cocy.io에서 쓸모: 비스트헌트·ARPG 등 3D 게임에서 SDXL로 뽑은 캐릭터·소품 원화를 3D 에셋 프로토타입으로 빠르게 전환하는 파이프라인에 적용 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/speridlabs/idol",
+      "publishedAt": "2026-10-28T15:55:17Z"
+    },
+    {
+      "id": "15",
+      "title": "[Edge] Cactus Compute Mirage — 초소형 기기용 비전-언어 모델 공개",
+      "summary": "[Edge] Cactus Compute가 모바일·IoT 등 초소형 기기 구동을 겨냥한 비전-언어 모델 Mirage를 공개했다(2026-11-05, Apache-2.0, 상업 이용 가능). 이미지 이해와 구조화 데이터 추출(JSON 등)에 특화되어 있고 pip 설치만으로 로컬 추론 엔진과 가중치를 자동 캐싱해 구동한다(파라미터 수 등 세부 수치는 모델카드에 미기재). cocy.io에서 쓸모: log.cocy.io 재고관리의 서버 비전 LLM 호출을 보완하는 저비용 로컬·오프라인 폴백 비전 추출기로 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Cactus-Compute/mirage",
+      "publishedAt": "2026-11-05T19:01:53Z"
+    },
+    {
+      "id": "16",
+      "title": "[Image] Kromoss — MOSS-Image 1024px 파인튠 + 8-step 터보 LoRA 공개",
+      "summary": "[Image] lodestones가 OpenMOSS의 MOSS-Image-Base를 1024px로 파인튠하고 8-step 터보 LoRA 2종(DMD/DMD2)을 함께 공개했다(2026-10-19, Apache-2.0, 상업 이용 가능). 기존 50-step·CFG 3 대신 8-step·CFG 1로 비슷한 품질의 이미지를 더 빠르게 생성할 수 있다(정확한 속도·VRAM 수치는 미확인). cocy.io에서 쓸모: 로컬 SDXL/FLUX 게임 아트 생성 파이프라인에 저스텝 고속 대안으로 비교 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/lodestones/Kromoss",
+      "publishedAt": "2026-10-19T01:34:35Z"
     }
   ]
 }
