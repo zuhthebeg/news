@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-19",
+  "articles": [
+    {
+      "id": "1",
+      "title": "2027학년도 수능, AI 커닝 우려 속 55만 수험생 응시",
+      "summary": "19일 치러진 2027학년도 대학수학능력시험에 전국 55만여 수험생이 응시했다. 최근 'AI 커닝' 논란 이후 당국이 부정행위 차단에 사활을 걸며 통신 차단과 전수조사 등 강화된 대책을 시행했다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5VZE5yYlljWnNtSWZGTUZvNTJGTGVvSzAtTmxmWGo1TmhnNlByZDNCUVBGX2RVN3RXSFNhOHpfZllKSzFPdE9IdDN3a3ZxSnVDT1pKb2d6QjgtZlnSAWBBVV95cUxQSEJtU3lpR1RBejFoWWN3TWVEZjVyc1dWV0JTVF9qRG9PejlmMVJDNHNraUdZeW9PTkZVNzdqWjA3Nk5WRFZVUWEtVlhMaVFRSE5XaFdaTzJqNVlpa2twWnk?oc=5",
+      "publishedAt": "2026-11-18T08:30:00Z"
+    },
+    {
+      "id": "2",
+      "title": "한-중 FTA 후속 협상 실질 타결…이 대통령, 시진핑에 \"다음에 바둑 두자\"",
+      "summary": "한중 FTA 2단계 후속 협상이 실질적으로 타결됐다. 청와대는 한한령 해제에 진전이 있었으며 K팝 공연 협의 채널도 열린 셈이라고 밝혔다.",
+      "category": "economy",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5wTVhNdHQyRUZhT0pkT2ZuX1ZNMW5URjNxcUs5QlZJNnRhTF9MZlhIdlNualV2R1lvRkVjVlZQTThXMmgzaGZaUUFRZWw4T1ZnUHlKMWY4b2ZMbDUwY1YtS0hLd1liRC1UeUxn?oc=5",
+      "publishedAt": "2026-11-18T22:29:00Z"
+    },
+    {
+      "id": "3",
+      "title": "미·중·러 정상, 오늘 사상 첫 3자회담…세계질서 중대 분수령",
+      "summary": "미국, 중국, 러시아 정상이 사상 처음으로 3자 회담을 여는 가운데 세계질서에 중대한 분수령이 될 것이라는 전망이 나온다. 트럼프 대통령은 미·중·러 3자 핵 논의에 적극적인 입장을 보이고 있다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1IU1hCRlV0WjRuRkR0XzVLMDA1RTVQeWZiUExJMWJwN01zdVdCWV9zTnhOdnEtUHF0UnVUd2xiTUVqbGRaV0ZJWkVsNk1fdDllOV9JY25NNFYxdWPSAWBBVV95cUxNZXY0ckFZNmFJRzc4LVk2ekZPdGpRcG8yeTV0SmkxZGhVN3ZSZkdleG0tT1otRzRHTFVYeHBHQ1VTOG54ekV6a0xKQTFDZW5MdzZBYXM0MXJFTnpBRVdCY00?oc=5",
+      "publishedAt": "2026-11-18T21:34:44Z"
+    },
+    {
+      "id": "4",
+      "title": "Anthropic, IPO 공모가 주당 83달러로 확정…AI 붐의 시험대",
+      "summary": "Anthropic이 기업공개(IPO) 공모가를 희망 범위 상단 위인 주당 83달러로 확정했다. 이번 IPO는 AI 붐이 증시에서 실제로 평가받는 핵심 시험대로 주목받고 있으며 수천 명의 백만장자를 탄생시킬 것으로 전망된다.",
+      "category": "tech",
+      "source": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOdW1QU3VfRndFeVFEODFZbWVTcUVkcE1CelRpYmJWZ0FleXRVd3EwbjFXeHRmbUJQUDBsQXFQc21iVjdCRHFscy1qQjZWeWhIMnF6d0NBR3gxQmRERFdyLXBDNFFpZDQtY05mT3REaThpVWdVSVQzLUtmOUpweHZmc0dvWEFjbmpxWDdadjNzaFI4ajNmNUZsVVlhb05hWm5qRFdNTV9R?oc=5",
+      "publishedAt": "2026-11-18T23:06:33Z"
+    },
+    {
+      "id": "5",
+      "title": "애플 iCloud·Apple Pay 등 대규모 장애, 보안 침해는 아니라고 해명",
+      "summary": "애플의 iCloud, Apple Pay 등 디지털 서비스에서 대규모 장애가 발생했다가 복구됐다. 애플은 이번 장애가 보안 침해와는 무관하다고 밝혔다.",
+      "category": "tech",
+      "source": "Yahoo Tech",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxOTXlSYms4U0dyYmVKNnlYSTFHVmFCWWt2XzZ0Zkp5TmV2N1lta3VRN3hJN3I4ZHd2dS1VdzBMMGZyUDFFcXBCbzdvZ1c2NFRRd2tMQTJ2dlVzdXVZRklhTGNFZ1E2bkVjUzVrVjIzTWZzTkc4Tk9kTE9OTF9wLXRpTWF0MzIyRi1oZktobTEwOVdTSHRBdWVqLWgyUlFxTUI0SWJoM2NWTkJMQ0hxTEE3TG5VZFlsNXF0bmVzRmM0RC00UFQ0Y3RYRmJUeDUxcWgtMUNDaDVZTHJlRW9rN012NGZWMzk3NnZTNVZJNzFXS2FuM01ZeWc?oc=5",
+      "publishedAt": "2026-11-18T15:36:30Z"
+    },
+    {
+      "id": "6",
+      "title": "운동이 우주비행사 심장을 지켜…화성 임무 전망 밝혀",
+      "summary": "장기간 우주 체류 시 꾸준한 운동이 우주비행사의 심장 건강을 유지하는 데 도움이 된다는 연구 결과가 나왔다. 이는 향후 화성 임무의 가능성을 높이는 근거로 제시됐다.",
+      "category": "science",
+      "source": "Northwestern University",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQ2ROU2IzeFRyU1Rnd2NPMnByaF8xWUpiQ1NaMVltY3hPZnM1Ti1MRWgyelZJUVFLLXdGTXhTb2V4T3NVaW5vWm1fR2tYS3BwVHFGQmtpQkVZR0FDVEg4ZGJGMFRFTDFKWWRnQ2RDcGl4a2hxZ3MwMHg4ODlRVVhUTmJuZkozTE1MYTY1TVYxendUVW10X2Zxc1NQUnZRNjZLeTBJSEltZVE4QlFHZDFzdjVNWC1zek55ZzRvcFE1X01MX0YxNGhCRUpEamRMRHc?oc=5",
+      "publishedAt": "2026-11-18T21:04:54Z"
+    },
+    {
+      "id": "7",
+      "title": "보이저 1호, 지구에서 '1광일' 거리까지 도달",
+      "summary": "NASA의 보이저 1호가 지구로부터 빛의 속도로 하루 걸리는 거리에 도달했다. 1977년 발사된 보이저 1호는 NASA의 최장수 미션으로 여전히 운영 중이다.",
+      "category": "science",
+      "source": "PBS",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOY2JJVlNJNFF6QTJaNkxINXl1ckRvNUppNDZ6QndSRE5lcVdyRTFuM1B6Z1pSZlNEam9CaTVZNlNHd3MxNTM4WmdZc2ppNFlNRm5rNUoyQWxoUnoxTVcyemFSWHJPeTdzQ0hlUzE0TDVfQzdoMmFIaGhBVklfREwwV0dIaDJNU1dJYmg5OTNGMGdNU2lVVFJudFBLTWlxdW5PTDk2ZFduU0JaaXlNY1hVaWcyVmtkOE5sUV9SeFFlakJFSUgxRGU2MGdXTQ?oc=5",
+      "publishedAt": "2026-11-18T18:55:55Z"
+    },
+    {
+      "id": "8",
+      "title": "'GTA VI' 출시…\"미국적 서사의 경이로운 완성\"이라는 평가",
+      "summary": "록스타게임즈의 'GTA VI'가 정식 출시되며 평단의 극찬을 받고 있다. 워싱턴포스트와 가디언, 뉴욕타임스 등은 이번 작품을 게임업계 역사상 가장 야심찬 서사 중 하나로 평가했다.",
+      "category": "gaming",
+      "source": "The Washington Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQNGYycFNHZmxpbUw4Qjg4enpWdUtHVGlDTnVvS2NEZkhjMExheDVXX3ZrMGZoUXZnN3lpWHFMRmlhV3A0Zy1Fc25nZFc4VEZ6U0RqMjJDNjF3dVk3NmdzRTI5WkF5aV8wZ0plaks5XzNnZ3N0VzVrR3hzU1RuX1Y4ckJDWEtIXzc1WUhxS3ZDazZmVWhZVGJoNUFCbm16bDl2SjRZS2l0dFQ3cDJuUGdiVzNRMHBLVmZXWGVtVQ?oc=5",
+      "publishedAt": "2026-11-18T19:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "'GTA VI' 출시 몇 시간 전 플레이스테이션 대규모 장애 발생",
+      "summary": "'GTA VI' 글로벌 출시를 몇 시간 앞두고 플레이스테이션 네트워크에 대규모 장애가 발생해 이용자들이 불편을 겪었다.",
+      "category": "gaming",
+      "source": "Axios",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zb2xPNUJXUVhsZ3VnZk9zcDBUaXN2QlRIWHY5bldCMkJidjBRVDAwenRIekhkX1o5dHcxYmVnZ2RFVFU4clVMNXhoZFVBTzdtTE1rbFRGYnJ5cHZNeFgwUzJpclpwQjl3TGZ0c3lxWQ?oc=5",
+      "publishedAt": "2026-11-18T20:25:12Z"
+    }
+  ]
+}
