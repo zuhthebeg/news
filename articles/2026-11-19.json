@@ -81,6 +81,24 @@
       "source": "Axios",
       "sourceUrl": "https://news.google.com/rss/articles/CBMib0FVX3lxTE8zb2xPNUJXUVhsZ3VnZk9zcDBUaXN2QlRIWHY5bldCMkJidjBRVDAwenRIekhkX1o5dHcxYmVnZ2RFVFU4clVMNXhoZFVBTzdtTE1rbFRGYnJ5cHZNeFgwUzJpclpwQjl3TGZ0c3lxWQ?oc=5",
       "publishedAt": "2026-11-18T20:25:12Z"
+    },
+    {
+      "id": "10",
+      "title": "[Audio] Haru-4B — 저지연 다국어 풀덕스 대화 음성모델 공개 (higurashi-ai)",
+      "summary": "[Audio] higurashi-ai가 4B 규모의 풀덕스(동시에 듣고 말하는) 음성 대화 기반모델 Haru-4B를 공개했다. 3초~3분 길이의 음성 샘플로 캐릭터 목소리를 지정할 수 있고 한국어 포함 9개 언어를 지원하며 12GB급 GPU에서 구동된다(Apache-2.0, 상업 이용 가능). cocy.io에서는 게임 NPC나 음성봇에 캐릭터별 목소리를 실시간으로 입히는 대화 프로토타입 실험에 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/higurashi-ai/Haru-4B",
+      "publishedAt": "2026-11-12T11:05:59Z"
+    },
+    {
+      "id": "11",
+      "title": "[Audio] Inworld Voice Isolator v1 — 48kHz 실시간 음성 노이즈 분리 오픈소스 공개",
+      "summary": "[Audio] Inworld AI가 오프라인용(64M)과 스트리밍 실시간용(58M) 두 모델로 구성된 48kHz 풀밴드 음성 분리기 Voice Isolator v1을 공개했다. 목소리와 배경 소음을 분리해 녹음을 깨끗하게 정리하거나 반대로 배경음만 추출할 수 있다(Apache-2.0, 상업 이용 가능). cocy.io에서는 고스톱 음성 더빙이나 목소리-가수 매칭용 원본 녹음 전처리(잡음 제거)에 바로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
+      "publishedAt": "2026-11-14T02:14:35Z"
     }
   ]
 }

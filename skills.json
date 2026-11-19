@@ -1961,6 +1961,32 @@
         "image-sequence"
       ],
       "addedAt": "2026-11-18"
+    },
+    {
+      "title": "browser-gamepad-input",
+      "description": "브라우저 Gamepad API를 안정적으로 다루는 패턴 모음(폴링 루프, 탭 숨김 처리, iframe 권한, 다중 컨트롤러 전환). 게임패드 기반 웹게임 제작 시 참고.",
+      "icon": "🎮",
+      "category": "dev",
+      "url": "https://clawhub.ai/hlplanet/skills/browser-gamepad-input",
+      "tags": [
+        "gamepad",
+        "browser",
+        "webgame"
+      ],
+      "addedAt": "2026-11-19"
+    },
+    {
+      "title": "kitbay",
+      "description": "MCP 서버와 에이전트 스킬을 출처가 달린 사실 기반으로 찾아주는 디렉토리 스킬. \"이 작업에 맞는 스킬/서버가 있는지, 공식인지\"를 바로 확인.",
+      "icon": "🧰",
+      "category": "dev",
+      "url": "https://clawhub.ai/northlarkhq/skills/kitbay",
+      "tags": [
+        "mcp",
+        "agent-skills",
+        "discovery"
+      ],
+      "addedAt": "2026-11-19"
     }
   ]
 }
