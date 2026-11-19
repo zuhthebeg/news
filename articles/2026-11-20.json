@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-20",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이재명 대통령, '조작기소 특검법' 재가…19일자로 공포·즉시 시행",
+      "summary": "이재명 대통령이 '조작기소 특검법' 공포안을 재가해 19일자로 즉시 시행에 들어갔다. 이제 특검 임명 절차만 남은 상태다.",
+      "category": "domestic",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9tTC00N29JZW9WblB4dVJnam9SbzU5YjdsZ09iRzVQRW96U2QzZnA3YmNWSTlZQVFBQ091ZW9WTVpfa3JHTGVVRjJOUExzb0kyckpLRy0zZUJXanFsU19hR0Z1Qm9YSGs?oc=5",
+      "publishedAt": "2026-11-18T22:39:00Z"
+    },
+    {
+      "id": "2",
+      "title": "교육부, 2027학년도 수능 부정행위자 98명 적발…스마트기기 활용 5건",
+      "summary": "교육부가 2027학년도 대학수학능력시험에서 부정행위자 98명을 적발했다고 밝혔으며, 이 중 스마트기기를 이용한 부정행위도 5건 확인됐다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1wQjhQcm5RSW85cERkR0gtdzh6WWdXa1BQVkJXRk1YaHBhMkJYMGFqUDRkZTllU1pObDBwMVhwLUgwOFlHZHloRW1lcnJKQ0dzeExNWnAwai02WGNLNVFmSlFMeWxGbHg3SEE?oc=5",
+      "publishedAt": "2026-11-19T13:42:00Z"
+    },
+    {
+      "id": "3",
+      "title": "외국인, 지난달 국내 주식 26조원 순매도…두 달 연속 '팔자'",
+      "summary": "외국인 투자자들이 지난달 국내 증시에서 26조원 규모를 순매도하며 두 달째 매도 행진을 이어갔다. 수급 불안에 대한 우려가 커지고 있다.",
+      "category": "economy",
+      "source": "연합인포맥스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9Ec1lsM3dqM3oxRXB5bVF1SGRROUFPMFFEdjJ6VERraUtxZXRRUTcxRldnRWtxdDJET1BZUUxfV3hEM0cwVm41MEFRZGRvUV95Vk1vTUNGNE9WYmlXSWFidzVDcnNVQ0ZGYmk0cFBhekU?oc=5",
+      "publishedAt": "2026-11-19T21:00:16Z"
+    },
+    {
+      "id": "4",
+      "title": "팔로알토 네트웍스, 매출 전망 상향에 보안주 전반 강세",
+      "summary": "사이버보안 기업 팔로알토 네트웍스가 매출 전망을 상향 조정하면서 관련 보안주들이 동반 강세를 보였다. 기업 보안 투자 확대 기대감이 반영된 결과로 풀이된다.",
+      "category": "tech",
+      "source": "Reuters",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPcHBaenZyQ0h2Mnl0WlpMTGxVNjlaTlU0RjFMUGQ5eG91T0M4cUtBeGlTbW9tM0d5cHF0MzB3YVc0bTh6c2k2V2VmdGNOSmdxTEk4M3RxMnhGSjJvQUZ1R1hoVDR2amZ0cjZtci1GRkNqczIwSDFQM25aakxnSzFZV2cwYVBOc3RjdE9fNmw3TG1VdzFPd2NldXBaVjlNTDJYRllQMG50eFJPQTI1eFQteWd6YmZGa0hIUVE?oc=5",
+      "publishedAt": "2026-11-19T18:37:03Z"
+    },
+    {
+      "id": "5",
+      "title": "모토로라, 와이드형 폴더블폰 유출 이미지 공개",
+      "summary": "모토로라의 신형 와이드 폴더블폰으로 추정되는 이미지가 온라인에 유출됐다. 기존 세로형 폴더블과 차별화된 넓은 화면비가 특징으로 지목된다.",
+      "category": "tech",
+      "source": "The Verge",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOUJWWmNOcnhsWEZBUFFiNFVYdTB3LUZ5czVjZ2N1eTZkMzl6RTlOMWlkYUUtMGNjVWl4ZnY2Y2hfcUpLMG83SDhlcS1yVUVkeUJNYkpJYXZrX2VaQXhWSU5WbU1HWHJDSmptdXJiMWtmX0RtckttTWR5N3Q1V2tkUHVhVDFIU1ZjSUlqbjhfSmM1QXZ3UlM5VlR4UGRCVjVIdldnQQ?oc=5",
+      "publishedAt": "2026-11-19T18:19:03Z"
+    },
+    {
+      "id": "6",
+      "title": "지구서 28광년 거리에서 희귀한 삼중성계 발견",
+      "summary": "천문학자들이 지구로부터 약 28광년 떨어진 곳에서 보기 드문 삼중성계를 발견했다. 이번 관측은 다중성계의 형성과 안정성을 이해하는 데 중요한 단서를 제공할 것으로 기대된다.",
+      "category": "science",
+      "source": "Phys.org",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZDE0R0prM0lJRXpfMmU4Rl8waVZmNzB3X2ExLTlMaGN0eENEaWkxZFZEbk16d1VnOGc4ZTlaVVJfTjdCSUNkYl93WDNZY0tTNENuaGZOUjUxSEJnVy0yQld5ZThUWG4zSnMzakd2S0VHLXNZQTJzYXBRSWJaeUIzYQ?oc=5",
+      "publishedAt": "2026-11-19T15:00:25Z"
+    },
+    {
+      "id": "7",
+      "title": "과학자들, 중력을 이용해 '차단 불가능한' 메시지 전송 실험",
+      "summary": "과학자들이 엘리베이터와 벽, 화장실 등을 이용한 실험을 통해 중력을 매개로 사실상 차단이 불가능한 메시지를 전달하는 방법을 선보였다. 기존 통신 수단을 우회하는 새로운 신호 전달 방식으로 주목받는다.",
+      "category": "science",
+      "source": "The Guardian",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOQmpVWW5id1JqY0YxTFJkblV4N1pxdHFjR1kzX1p2cngydzhVU2ltN0xmQms5VFRLeHR4YmlIRVRlbHZkZ0xQZUhLSnB0R1RoNWlFM2VKdlBCek5sV3g5enRERUl5YjRuNnNJLVVndktYQ2ZtaUVXSXhJRExHanVjYlZNSkQzZzR3Y1NVQ0RCdnhWc0Vldkx4TFJPbmxLQi1MZ05pdG9vVmhSY0hOeXNXRUJFenBHU21YTkZRMVFvS3YyZw?oc=5",
+      "publishedAt": "2026-11-19T19:08:00Z"
+    },
+    {
+      "id": "8",
+      "title": "국내 최대 게임쇼 지스타, 22번째 행사 개막",
+      "summary": "한국 최대 게임 전시회 '지스타'가 22번째 행사로 개막했다. 국내외 게임사들이 신작과 신규 콘텐츠를 공개하며 업계 동향을 조망하는 자리가 됐다.",
+      "category": "gaming",
+      "source": "Korea.net",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA3dDVqNkozTFZvclJjcEd2NXFuR29SS1JVaTZ2bXZ2aFRfZGNPMXAya1hhMU94YVZTbXNLUHVHVUJ5aXZOZDl2eU9GQzN2TlBTRmROczItcktBeFJGMXFNdXoyZVB6WUpPRktJQVpR?oc=5",
+      "publishedAt": "2026-11-19T10:41:48Z"
+    },
+    {
+      "id": "9",
+      "title": "'콜 오브 듀티: 모던 워페어 4', 10월 미국 게임 판매 1위 등극",
+      "summary": "액티비전의 '콜 오브 듀티: 모던 워페어 4'가 2026년 10월 미국 게임 판매 차트에서 1위를 차지했다. 시리즈 최신작이 발매와 동시에 흥행몰이에 성공한 것으로 평가된다.",
+      "category": "gaming",
+      "source": "GamesIndustry.biz",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmNLMWRlUWpPM2h0dmhDeXZ5NWJpc0pGQ3dQQUp2Qy1mYk9iV0o3eUVBdTRYejFFNDdIY3NmVzR0dEc4NEI3M2kxNVVGOW01dVNSVV80WFhUNVE5R01ucW50MmVlZ1RMRXhDeG5HdjFWWjNlM25FWUZHUUp2UjZyVmgtQVYwRG1BSWdlc05QTng4S1c3ZTdYMFdiM21ERGFBNzVjN1JhMjAtUlI2eUE?oc=5",
+      "publishedAt": "2026-11-19T14:00:00Z"
+    }
+  ]
+}
