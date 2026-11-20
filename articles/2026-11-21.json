@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-21",
+  "articles": [
+    {
+      "id": "1",
+      "title": "대법원, 김건희 '도이치 주가조작·통일교 금품수수' 징역 4년 확정",
+      "summary": "대법원이 김건희 여사의 상고를 모두 기각하며 도이치모터스 주가조작과 통일교 금품수수 혐의에 대한 징역 4년형을 확정했다. 김 여사는 법정에서 판결에 불복하는 취지의 발언을 쏟아냈다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBwQW0tZFI5RVJYUGc4Qy1xN3Qtb1A3UHhiM1l3MDlhcU1kQUZ6VWhNUGVIRnlDMVVfWVJOMWxnbWRXSFo1OFE3YmZzSUFnUkE3SFpzY2lZWklaZkHSAWBBVV95cUxQSGx0blNSdktaT20xUnQzQXFEMEI1cDZTOFBBVWo5MEJrazR1TUNZZ1Ntdmh1VGoyM28wVjNvOS14ZU1KYUx2aXRIZ2U1YThvclpQZGhXVXNnOVc4NE1Hd1A?oc=5",
+      "publishedAt": "2026-11-20T03:09:00Z"
+    },
+    {
+      "id": "2",
+      "title": "외국인, 국내 주식 두 달째 매도 행진 속 채권은 7.4조원 순매수",
+      "summary": "외국인 투자자들이 10월에도 국내 주식을 대거 팔아치운 가운데 국내 채권은 7조 4000억원어치 순매수로 전환했다. 주식시장 이탈과 채권시장 유입이 동시에 나타나는 모습이다.",
+      "category": "economy",
+      "source": "매일경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE5UNDktN0ducllLa3NMVDFGUzdNOURPT2Z1Zy1MdGx1Xzlqc1FKWS1jcWlFRXV3WnJ0aEVQX2NqTDJPZUlwR1p6WU5SMzVncEtPMVE?oc=5",
+      "publishedAt": "2026-11-20T08:32:00Z"
+    },
+    {
+      "id": "3",
+      "title": "교육부, 수능 스마트기기 부정행위 총 111건 적발",
+      "summary": "교육부가 2027학년도 대학수학능력시험에서 스마트기기 등을 이용한 부정행위를 총 111건 적발했다고 밝혔다. 일부 수험생은 재난문자 발송 중 전자기기 사용이 들통나 적발됐다.",
+      "category": "domestic",
+      "source": "미주중앙일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE84TmVtcHpWLXlJRExBN2ZYbzIwLXZsaml5YmdIZG1weVlWQlFkNV9fTmEtZEV0S3FFX1VkVjZ6aUxTNmx6UDZCZUVqTnlZR1pFZDNYLVNGc2VnN2hZdFRLckJR?oc=5",
+      "publishedAt": "2026-11-20T02:08:00Z"
+    },
+    {
+      "id": "4",
+      "title": "美 잇단 전산망 마비에 백악관, 사이버보안 책임자 교체",
+      "summary": "최근 며칠간 이어진 미국 정부·기업 전산망 마비 사태에 대한 책임을 물어 백악관이 사이버보안 책임자를 교체했다. 트럼프 행정부의 첫 조치로 풀이된다.",
+      "category": "tech",
+      "source": "파이낸셜뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9aSUY2UFNKeTdWZzFXc2Vta3N3M2Zlcy1qNHE4LUUzTGczWC02dmN6VmYxWTdBYUpNUWk5emZmcjAwWl82UjF6dzJJbVpDU3R4YTNVRktlUlJ6UQ?oc=5",
+      "publishedAt": "2026-11-20T04:01:00Z"
+    },
+    {
+      "id": "5",
+      "title": "MS365 24시간 장애 이후 나델라 \"AI, 공격자를 국가급 해킹조직 수준으로 키울 수도\"",
+      "summary": "마이크로소프트 365의 거의 24시간에 걸친 서비스 장애 이후 사티아 나델라 CEO는 AI 기술이 공격자들의 역량을 국가 차원의 해킹 조직 수준으로 끌어올릴 수 있다고 경고했다.",
+      "category": "tech",
+      "source": "Latin Times",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQY1BhX0M4aE5JR0YzcWFBYzZtc24tNHFxMWRzVmxPeEprXzRTWXcwVU4tcXlqV1RYa0IwMXlOUHBhd0lXT2wxNXV4NmhKZEJpcE90U2hPSWNHX0V4Q3ZWMXVqd2U0SzVmaG5CZnlmNjZ2VExuWVgyNGctVFZRMGNJYWZQVzJaQmd0OHJtRk1Sd0E?oc=5",
+      "publishedAt": "2026-11-20T15:37:00Z"
+    },
+    {
+      "id": "6",
+      "title": "러시아, 핵 기반 우주무기 개발 중…美 정보당국 보고서",
+      "summary": "미국 정보당국의 새 보고서에 따르면 러시아가 핵을 동력원으로 하는 우주 무기를 개발하고 있는 것으로 파악됐다. 위성 공격 능력 확보가 목적일 수 있다는 우려가 제기된다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM191b1lUa2hRanFYd05zaUZIQUNMNVhNVVU5eG5KM0pLenVvUmN3b0tXV3F1a0owSUhYdHNXekRpT25qX0tISmRXNk1WX250bDByTlJIaVpXRmRMQjd2WHczMnc3MUhuWGlDU2xScmlRVFhwRkpxNk13MmRJOTlFeTk3NTBOeHhnQjEzRTdnekJHcC1IX3pNcFhCWllSM0NMTVJDV2U5UDVXeWpjMHhjcGs5ZzZ6NDFzcUNLR1A0X00?oc=5",
+      "publishedAt": "2026-11-20T17:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "아인슈타인이 맞았다…과학자들, 사상 최초 블랙홀 이미지로 일반상대성이론 재입증",
+      "summary": "과학자들이 사상 처음으로 포착된 블랙홀 이미지를 통해 일반상대성이론의 예측을 재확인했다고 밝혔다. 이번 관측은 블랙홀 주변 시공간 왜곡에 대한 기존 이론을 뒷받침한다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNaUNwZ1BDZ25mdjU5aHh4YWdqM2xIN1ZGTzRRQ2pXam5YTTNHZDRjVllIYllWV1ZUMWpQOFJJRG9KQkRweloyOGFueHhJakJ3N19sMEpHangtNlkxZ3h5NVdLYzVSTlQ2QkJHNDc5VldpYllkSmtmWHF1alBHRndvck1nVkVmQzNudnh0U0J3SV94VUdMVERheGVSS1NaX2RHN0ZSZ0s5RjdFc0ZiakpsU0lWWmFxRndjNmVYNg?oc=5",
+      "publishedAt": "2026-11-20T11:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'GTA6' 역대급 흥행에도 록스타 개발자들, 추가 감원 우려 속 노조 결성 투표",
+      "summary": "'GTA6'가 역대 최대 흥행 기록을 세웠지만 록스타게임즈 직원 1600여명은 추가 감원 우려 속에 노조 결성 투표를 진행했다. 흥행과 고용 불안이 공존하는 업계 현실을 보여준다.",
+      "category": "gaming",
+      "source": "stupidDOPE",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVnl4amhMVXdSNUJlV3B4RDFZVm5GeDNyQzNSQndDTFJEQkxwekVYejEzdHJNbEJyZ0NmXzl6d1Bhbk9YSm5jcVlITFk4UTJkZ2dVLU0wNmpxTVduRDc4WUVxQWdhRzE4M3lBbkdjX3RubGVLaGVuSy0zaVZpZVZQYUxIYTdEQkt5aFRuMUQxNHdpQWo4OGMxNFBTaUQ1MWE3WGNsWlhsTXRtTkd6SU5tVVE5eTM5MG9WWmxkSzhmSGxhOTcxb0ozRHRnaWJxQQ?oc=5",
+      "publishedAt": "2026-11-20T15:01:00Z"
+    },
+    {
+      "id": "9",
+      "title": "유비소프트, 감원 한파 속 신설 AI 게임 스튜디오 '마더브레인' 출범",
+      "summary": "유비소프트가 게임업계 감원이 이어지는 가운데 생성형 AI 기반 게임 개발 전담 스튜디오 '마더브레인'을 새롭게 출범시켰다. 업계에서는 AI 활용 확대와 고용 축소가 동시에 진행되는 흐름이라는 평가가 나온다.",
+      "category": "gaming",
+      "source": "MYC! Malaysian Youth Community",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbENkbFZsUkpvbGNjcGxtM2VuQ3N5NXM4Zmg5UjJ4MTlyTkU5eDhnVC1kd29GZFhya241ZnVBZ08xT1JqNE1XNmk5cFZObWZuNjhWdzEyNEo1Y2N5bDJmX1Y2aXNGR3VFWjFIOFpJb0ZNY1N4azl1TlJyYXZNSk9ya3FrN3NNYXAxZTN3c0JlRXdSWWV4MDFOQWdFaXNYbjQyWnBXZmlHdWN0SUZTZDJWLWVvRW8?oc=5",
+      "publishedAt": "2026-11-20T09:53:00Z"
+    }
+  ]
+}
