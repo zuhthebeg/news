@@ -81,6 +81,15 @@
       "source": "GamesIndustry.biz",
       "sourceUrl": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmNLMWRlUWpPM2h0dmhDeXZ5NWJpc0pGQ3dQQUp2Qy1mYk9iV0o3eUVBdTRYejFFNDdIY3NmVzR0dEc4NEI3M2kxNVVGOW01dVNSVV80WFhUNVE5R01ucW50MmVlZ1RMRXhDeG5HdjFWWjNlM25FWUZHUUp2UjZyVmgtQVYwRG1BSWdlc05QTng4S1c3ZTdYMFdiM21ERGFBNzVjN1JhMjAtUlI2eUE?oc=5",
       "publishedAt": "2026-11-19T14:00:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Qualcomm, 감정표현 온디바이스 TTS 'NeuTTS-2E'를 스냅드래곤 전용으로 사전 최적화 배포",
+      "summary": "[Audio][Edge] Qualcomm이 Neuphonic의 감정 제어 TTS 모델 NeuTTS-2E(Qwen3 236M 백본+NeuCodec 50Hz 코덱, 영어 4화자×7감정 고정 프리셋, 음성 클로닝 없음)를 Snapdragon 8 Elite Gen5·X Elite·Dragonwing 등 여러 칩셋용 QNN 컨텍스트 바이너리로 사전 변환해 AI Hub에 공개했다(HF API 확인: 이 배포판 createdAt 2026-11-18, 라이선스 apache-2.0, 상업 이용 가능). 기존에 다룬 NeuTTS Air(음성 클로닝형)와는 다른 감정표현 전용 모델이다. cocy.io에서 쓸모: 서버 TTS 없이 모바일에서 감정별 캐릭터 보이스 프리셋을 즉시 재생하는 온디바이스 내레이션 데모에 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Qualcomm AI Hub / Hugging Face",
+      "sourceUrl": "https://huggingface.co/qualcomm/NeuTTS-2E",
+      "publishedAt": "2026-11-18T22:15:31Z"
     }
   ]
 }
