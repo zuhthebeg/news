@@ -153,6 +153,51 @@
       "source": "머니투데이",
       "sourceUrl": "https://n.news.naver.com/mnews/article/008/0005444248?sid=105",
       "publishedAt": "2026-11-20T08:00:00Z"
+    },
+    {
+      "id": "18",
+      "title": "tiny-voca: 450만 파라미터 초소형 영어 TTS, CPU에서 실시간 70배속",
+      "summary": "[Audio][Edge] n4ze3m/tiny-voca는 450만 파라미터(4.5M)짜리 초소형 영어 TTS 모델로 F2(여성)·M2(남성) 2보이스를 제공하며 4코어 CPU에서 실시간 대비 70배 속도로 동작, ONNX 추출물과 브라우저 데모(HF Space)도 함께 제공한다(HF 확인: createdAt 2026-11-14, license apache-2.0). cocy.io에서 쓸모: 서버 호출 없이 브라우저/모바일에서 즉시 돌리는 초경량 TTS라 game.cocy.io 내레이션이나 log.cocy.io 알림음 같은 저비용 온디바이스 보이스 후보로 실험할 가치가 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/n4ze3m/tiny-voca",
+      "publishedAt": "2026-11-14T15:46:27Z"
+    },
+    {
+      "id": "19",
+      "title": "Zyphra ZONOS3-Mini: 40개 이상 언어 지원하는 오픈 TTS/보이스클로닝",
+      "summary": "[Audio] Zyphra/ZONOS3-Mini는 영어·한국어·일본어 등 40개 이상 언어를 지원하는 음성합성·보이스클로닝 모델로 GGUF 포맷으로 배포된다(HF 확인: createdAt 2026-11-09, lastModified 2026-11-17, license apache-2.0). cocy.io에서 쓸모: 한국어를 포함한 다국어 보이스클로닝이 가능해 고스톱 콜 더빙이나 쇼츠 내레이션 파이프라인의 로컬 대체 보이스로 테스트해볼 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "publishedAt": "2026-11-09T05:03:57Z"
+    },
+    {
+      "id": "20",
+      "title": "Inworld Voice Isolator: 48kHz 보이스 노이즈 제거 오픈모델, 오프라인/실시간 2종",
+      "summary": "[Audio] inworld/voice-isolator는 48kHz 풀밴드 음성 노이즈 제거 모델로 오프라인용(64M 파라미터, 8초 청크 단위 고품질)과 실시간 스트리밍용(58M, 20ms 룩어헤드 causal) 2종을 제공하며 pip 설치 후 바로 사용 가능하다(HF 확인: createdAt 2026-11-14, license apache-2.0). cocy.io에서 쓸모: 고스톱 콜·쇼츠 내레이션 녹음본의 배경 노이즈를 로컬에서 바로 제거하는 전처리 단계로 음성 컷 파이프라인에 끼워 넣을 수 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
+      "publishedAt": "2026-11-14T02:14:35Z"
+    },
+    {
+      "id": "21",
+      "title": "LongCat-Video-Avatar 1.6: 10분 이상 긴 영상도 안정적인 오디오 구동 아바타 생성",
+      "summary": "[Video] meituan-longcat/LongCat-Video-Avatar-1.6은 오디오 입력으로 사람 아바타 영상을 생성하는 오픈소스 모델로 1.5 대비 입술 동기화와 표정·동작 안정성을 개선하고 10분 넘는 장편 생성에서도 화질·일관성을 유지하도록 추론 파이프라인을 최적화했다(HF 확인: createdAt 2026-11-13, license MIT). cocy.io에서 쓸모: MIT라 상업적 제약이 적어 홍보용 캐릭터 더빙 영상이나 쇼츠용 아바타 내레이션 영상 제작 실험 후보로 검토할 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+      "publishedAt": "2026-11-13T02:45:33Z"
+    },
+    {
+      "id": "22",
+      "title": "FLUX.2 Klein 4B ONNX 변환판: 유니티/온디바이스에서 돌리는 이미지 생성",
+      "summary": "[Image][Edge] julienkay/FLUX.2-klein-4B-onnx는 Black Forest Labs의 FLUX.2 Klein 4B 이미지 생성 모델을 ONNX로 변환해 Unity Inference Engine(Sentis)에서 로컬로 구동할 수 있게 만든 비공식 포팅이다. 원본 가중치는 26GiB로 로드 시 양자화가 필요하며 uint8 사전 양자화판도 별도로 제공된다(HF 확인: createdAt 2026-11-20, 원본 FLUX.2-klein-4B license apache-2.0 상속). cocy.io에서 쓸모: 서버 호출 없이 클라이언트에서 이미지 생성을 돌리는 실험 사례로, game.cocy.io 쪽 온디바이스 아트 생성 가능성을 가늠하는 참고 레퍼런스로 쓸 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/julienkay/FLUX.2-klein-4B-onnx",
+      "publishedAt": "2026-11-20T22:03:23Z"
     }
   ]
 }
