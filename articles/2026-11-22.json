@@ -81,6 +81,15 @@
       "source": "지디넷코리아",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE8xdy1UalZSUHhucmxTckh3N25NTWJOTC00Mkl0d05tRFRoNlBSMDdkdHVibmdXWVUxenVZdFdXSkVjZTZPNzFTU0xLcGIyOExSSW9tRzdn?oc=5",
       "publishedAt": "2026-11-21T01:25:01Z"
+    },
+    {
+      "id": "10",
+      "title": "TontaubeV1.1: 스타일 슬라이더 갖춘 멀티링구얼 보이스클로닝 TTS",
+      "summary": "[Audio] TontaubeAI의 TontaubeV1.1은 영어·독일어·스페인어 등 7개 언어를 지원하는 보이스클로닝 TTS로, 발화속도·멈춤·억양·피치·발음선명도 5개 스타일 슬라이더와 4bit 경량판(1.8GB, 소형 GPU/CPU 구동)을 새로 추가했다(HF 확인: createdAt 2026-11-10, Tontaube Community Model License — 연매출 20만 유로 미만은 상업적 사용 무료, 'Powered by TontaubeV1' 표기만 요구). cocy.io에서 쓸모: 고스톱 콜이나 쇼츠 내레이션처럼 다국어 보이스클로닝이 필요한 파이프라인에서 경량 로컬 대체재로 테스트해볼 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/TontaubeAI/TontaubeV1.1",
+      "publishedAt": "2026-11-10T13:17:19Z"
     }
   ]
 }
