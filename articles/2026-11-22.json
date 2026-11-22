@@ -90,6 +90,42 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/TontaubeAI/TontaubeV1.1",
       "publishedAt": "2026-11-10T13:17:19Z"
+    },
+    {
+      "id": "11",
+      "title": "LongCat-Video-Avatar 1.6: 오디오 기반 아바타 영상 생성 프레임워크 업데이트",
+      "summary": "[Video] 메이투안 LongCat 팀이 오디오 입력만으로 인물 영상을 만드는 LongCat-Video-Avatar를 1.6으로 업데이트했다. 입모양 동기화와 표정·전신 동작의 자연스러움을 개선하고 10분 이상 장시간 생성 시 오차 누적을 줄였다(HF 확인: createdAt 2026-11-13, license MIT). cocy.io에서 쓸모: 고스톱 콜 음성이나 쇼츠 내레이션에 맞춰 아바타 영상을 자동 생성하는 실험에 써볼 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/meituan-longcat/LongCat-Video-Avatar-1.6",
+      "publishedAt": "2026-11-13T02:45:33.000Z"
+    },
+    {
+      "id": "12",
+      "title": "MOSS-Image-Base: OpenMOSS의 신규 오픈 텍스트-투-이미지 베이스 모델",
+      "summary": "[Image] SFX 모델 MOSS-SoundEffect로 알려진 OpenMOSS 팀이 자연어·태그시퀀스·JSON 프롬프트를 모두 지원하는 텍스트-투-이미지 베이스 모델 MOSS-Image-Base를 공개했다(HF 확인: createdAt 2026-10-11, lastModified 2026-10-21, license apache-2.0). cocy.io에서 쓸모: 이미 SFX 파이프라인에 쓰는 OpenMOSS 생태계라 게임 카드·프로모 아트 로컬 생성 대안으로 FLUX와 비교 테스트해볼 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/OpenMOSS-Team/MOSS-Image-Base",
+      "publishedAt": "2026-10-11T06:49:17.000Z"
+    },
+    {
+      "id": "13",
+      "title": "Inworld Voice Isolator: 아파치 라이선스 48kHz 실시간 음성 분리 모델",
+      "summary": "[Audio] Inworld AI가 녹음·실시간 오디오에서 목소리만 분리하는 Voice Isolator를 공개했다. 오프라인용(64M, 8초 청크 단위)과 20ms 지연의 실시간 스트리밍용(58M) 2종으로 제공되며 배경음·보컬 분리에도 쓸 수 있다(HF 확인: createdAt 2026-11-14, license apache-2.0). cocy.io에서 쓸모: 고스톱 콜 녹음이나 voicematch 입력 오디오의 배경잡음 제거·보컬 분리 전처리 단계로 테스트 가치 있음.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
+      "publishedAt": "2026-11-14T02:14:35.000Z"
+    },
+    {
+      "id": "14",
+      "title": "Kitten TTS 2 Mini: 82MB급 온디바이스 TTS, 한국어 포함 16개 언어",
+      "summary": "[Edge] KittenML이 82M 파라미터·118개 보이스·16개 언어(한국어 포함)를 지원하는 초경량 TTS Kitten TTS 2 Mini를 공개했다. ONNX int8(82.7MB)·int4(47.5MB) 양자화로 PyTorch 없이 CPU에서 구동 가능하다(HF 확인: createdAt 2026-11-13, license apache-2.0). cocy.io에서 쓸모: 서버 호출 없이 브라우저·엣지에서 돌리는 초경량 TTS가 필요한 게임 내레이션·알림음에 로컬 대체재로 테스트할 만함.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KittenML/kitten-tts-2-mini",
+      "publishedAt": "2026-11-13T03:34:38.000Z"
     }
   ]
 }
