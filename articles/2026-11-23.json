@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-23",
+  "articles": [
+    {
+      "id": "1",
+      "title": "이 대통령, AI 부정시험 차단책 주문…\"문제지 고유 표식 검토\"",
+      "summary": "이재명 대통령이 수능 등 시험에서 AI 기기를 이용한 부정행위를 막기 위해 문제지에 고유 표식을 넣는 방안을 검토하라고 지시했다. 최근 AI 부정행위 적발 사례가 잇따르자 나온 후속 조치다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9uc2pNQU9oci14anRaOVpJajhDaFhoQ2VfckZ1RlA0WlN6Uk9BLTJPbFpfdlpCeHpBa0hpR3ZVaV9pdVU2ZmY3WFc4UUo1TGZLZFJtbVQ5eVJjT3UyQ0ZCVkx2LUxrUFExR0E?oc=5",
+      "publishedAt": "2026-11-22T10:59:00Z"
+    },
+    {
+      "id": "2",
+      "title": "한전, 개인정보 150여만건 유출…주민·계좌번호도 포함",
+      "summary": "한국전력이 해킹으로 개인정보 150여만건이 유출된 사실이 확인됐으며, 유출 정보에는 주민등록번호와 계좌번호도 포함된 것으로 나타났다. 한전은 피해 규모 파악과 보안 강화에 나섰다.",
+      "category": "domestic",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBUbE5jNmJWZlJzTm9kVS1UVnBFZHJrLXBRVVdtTmFUSUl3OUlYdGJZOHo1STFfRV9LX2pNVXE3VG1TY3l5MXRSSVJ1dDhCMnMtdVJnMXBKR0VSc00?oc=5",
+      "publishedAt": "2026-11-22T21:10:00Z"
+    },
+    {
+      "id": "3",
+      "title": "'AI 투매' 검은 월요일 공포…정부, 증안펀드 가동 준비 착수",
+      "summary": "미국 기술주 투매 공포가 확산되며 '검은 월요일' 우려가 커지자 정부가 국내 증시 안정을 위한 증안펀드 가동 준비에 착수했다. 경제부총리는 긴급 F4회의를 소집해 대응책을 논의했다.",
+      "category": "economy",
+      "source": "한겨레",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QdWo0ZG5hNkswOUYwcHNTX0xoR2phd08yd0pPZ0prZVVtTUR4LVdSWHFwQkhmREJZMGZ4cHF0SXRDVzFfU01zNk5kM0llSVFHR0F1NENZenlvY0FSY0xTcVE3eEZqb0U?oc=5",
+      "publishedAt": "2026-11-22T13:15:00Z"
+    },
+    {
+      "id": "4",
+      "title": "아마존, 이스라엘 스타트업 '데카르트' 10조원에 인수 추진",
+      "summary": "아마존이 이스라엘 스타트업 '데카르트'를 10조원 규모에 인수하는 방안을 추진하고 있는 것으로 알려졌다. 빅테크의 공격적인 스타트업 인수 행보가 이어지는 모습이다.",
+      "category": "tech",
+      "source": "조선일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOMjdoNi1RSkQtQlBTZWNMdWxBNjBybFdtTmQ2RGdpQklqNGlIQmctLXRfOEVjMUlIS21MZDdiMFR5dUJIZXhYTTROb1lMb2F6ZTBSS3JGMHZzbVg3WFZfUmxKZmdVQVQ0dncyWWNibVhxazNFWW05anhab2xqcE9sd3FTbw?oc=5",
+      "publishedAt": "2026-11-22T03:57:31Z"
+    },
+    {
+      "id": "5",
+      "title": "EU, 빅테크 디지털세 공식 제안…트럼프와 충돌 예상",
+      "summary": "유럽연합이 빅테크를 겨냥한 디지털세 공식 제안을 내놓으며 트럼프 행정부와의 통상 갈등이 예상된다. 거대 플랫폼 기업에 대한 과세 압박이 미국과 EU 간 새로운 마찰 요인으로 떠올랐다.",
+      "category": "tech",
+      "source": "KBC광주방송",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1Ib3RZZXF2T2s0OHNpVHdETzhCWEx6YVpJMC1SZXdrLTVQS0Q1UU1NTjR6VFNyaHZMbzVtVjZwalFKM2J0UUJIa3gySEd1V3AyWERwV2J6bV9RcDI1dDBCblF3?oc=5",
+      "publishedAt": "2026-11-21T14:53:01Z"
+    },
+    {
+      "id": "6",
+      "title": "\"지구에 일시적으로 '두번째 달' 생겨\"…지름2m 소행성 12월까지 동행",
+      "summary": "지구 옆에 지름 약 2m의 소행성이 일시적으로 포착돼 '두 번째 달'처럼 12월까지 동행할 것으로 전망된다. 지구 중력에 붙잡혀 짧은 기간 궤도를 함께 도는 미니문 현상으로 분석된다.",
+      "category": "science",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9NeE5hN2FPZ1hud1VZeEZKUFpuSUZOaHRMdTFpbldLUk5ZLWthdUZCejQwQmRPNEoybGdYNThvMXlfVWRZN3NHNDA5VlpJNXpnb3IxT0FqSnVkVE0?oc=5",
+      "publishedAt": "2026-11-21T22:14:00Z"
+    },
+    {
+      "id": "7",
+      "title": "'머큐리'의 비밀을 밝혀라… 8년 날아 수성 도착한 베피콜롬보",
+      "summary": "유럽우주국(ESA)의 수성 탐사선 베피콜롬보가 8년간의 비행을 마치고 수성에 도착해 본격적인 탐사 임무에 들어갔다. 과학자들은 수성의 자기장과 내부 구조 등 미스터리를 밝혀낼 것으로 기대하고 있다.",
+      "category": "science",
+      "source": "세계일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE5xakNSVC1OTVlVUXNtanNpZkItQjlXVTlwQzl5MTdPa1RVQzJLX2RpLWhCMU5vUUN0ZFhrSUlnczkwX0FmTDctcXYzamZuV3hpVDhrTC04d1jSAVRBVV95cUxQeVJIdlFYeFQtdW16RlVPRGNDdFJoM3JsamZucHpoWWhnMXlaY0d4enlFTldUVVloRHpmd2dQc2lhSG55Nldwa2RPRW5sRGxNX3pCWmY?oc=5",
+      "publishedAt": "2026-11-21T11:30:00Z"
+    },
+    {
+      "id": "8",
+      "title": "최관호 엑스엘게임즈 대표, 게임산업협회장 단독 추대… 업계 과제 풀어낼까?",
+      "summary": "최관호 엑스엘게임즈 대표가 한국게임산업협회장에 단독 추대되며 업계 현안을 풀어갈 새 수장으로 나서게 됐다. 중국 판호 문제와 산업 경쟁력 강화 등이 주요 과제로 꼽힌다.",
+      "category": "gaming",
+      "source": "금강일보",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiakFVX3lxTE12Q1NtVW5Ya3ZRX3I0aWdlY0NoVHg4eUh1SDZxUlJtZllNakhMUFFIdjNiMFE1NUhMTm04OUp5WHdiZzZ3MnMycUFLTy04MzdUZTczQnFOQ0ZFNXdVbHlPUzZDMXNXTEE5TEE?oc=5",
+      "publishedAt": "2026-11-22T16:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "한한령 완화 기대감 커진 게임업계…문제는 경쟁력[서대문 오락실]",
+      "summary": "중국의 한한령 완화 기대감이 커지면서 국내 게임업계가 중국 시장 재진출 가능성에 주목하고 있다. 다만 콘텐츠 경쟁력 강화라는 과제는 여전히 남아 있다는 지적이 나온다.",
+      "category": "gaming",
+      "source": "이코노미스트",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmMjBleER3N0hnSW9Hcy1hZlpyY1FGX2NoU2dqVkFrMkZydmpfNDF1d0VtUHFyNHY4VUZMOUJ6czE5WTNrbHJ4Zng5YS1ZUG1wNFdkb0ZjY3RCTHNqaGd4TkdR?oc=5",
+      "publishedAt": "2026-11-20T08:38:00Z"
+    }
+  ]
+}
