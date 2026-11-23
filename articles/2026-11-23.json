@@ -81,6 +81,33 @@
       "source": "이코노미스트",
       "sourceUrl": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBmMjBleER3N0hnSW9Hcy1hZlpyY1FGX2NoU2dqVkFrMkZydmpfNDF1d0VtUHFyNHY4VUZMOUJ6czE5WTNrbHJ4Zng5YS1ZUG1wNFdkb0ZjY3RCTHNqaGd4TkdR?oc=5",
       "publishedAt": "2026-11-20T08:38:00Z"
+    },
+    {
+      "id": "10",
+      "title": "caramel-1, 텍스트 한 글자도 배우지 않은 음성 전용 실시간 대화 모델 공개",
+      "summary": "[Audio] 개발자 naklecha가 텍스트 없이 음성 녹음만으로 학습한 실시간 음성대화 모델 'caramel-1'을 공개했다(Apache-2.0, 2026-11-10). 두 모델 인스턴스가 80ms마다 발언권을 주고받으며 대화하고 M3 맥북에서도 실시간보다 4배 빠르게 돌지만, 발화 내용은 아직 의미가 불완전한 초기 연구 단계다. cocy.io에서 쓸모: 텍스트를 경유하지 않는 저지연 음성 에이전트 구조의 레퍼런스로, 추후 실시간 음성 캐릭터 대화 기능 설계에 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/naklecha/caramel-1",
+      "publishedAt": "2026-11-10T12:08:27Z"
+    },
+    {
+      "id": "11",
+      "title": "LiliPixel-V1, 처음부터 학습한 1.91억 파라미터 네이티브 픽셀아트 생성 모델 공개",
+      "summary": "[Image] Pinkstack이 16x16·32x32·64x64 해상도로 픽셀아트·스프라이트를 직접 그리는 디퓨전 트랜스포머 'LiliPixel-V1'을 공개했다(openmdw-1.1, 2026-11-19, 라이선스 세부조항 미확인). 업스케일 후처리 없이 저해상도를 그대로 생성해 BF16 기준 약 1GB 메모리로 추론 가능하다. cocy.io에서 쓸모: SDXL+픽셀아트 LoRA보다 훨씬 가벼워 게임 몹·아이템 스프라이트 대량 생성 파이프라인의 경량 대안으로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Pinkstack/LiliPixel-V1-190M",
+      "publishedAt": "2026-11-19T16:48:00Z"
+    },
+    {
+      "id": "12",
+      "title": "Kezek v1, 2인 대화 모노 녹음을 화자별 트랙으로 정확히 분리하는 모델 공개",
+      "summary": "[Audio] Manifestro가 겹치는 발화까지 보존하며 1:1 대화 모노 녹음을 화자별 2개 트랙으로 분리하는 'Kezek v1'을 공개했다(Apache-2.0, 2026-11-11). 두 트랙을 합치면 원본과 길이·타이밍이 정확히 일치하도록 설계됐다. cocy.io에서 쓸모: 고스톱 더빙이나 인터뷰성 콘텐츠처럼 여러 화자가 섞인 모노 녹음을 후처리 없이 화자별로 바로 분리하는 데 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/manifestro/kezek-v1",
+      "publishedAt": "2026-11-11T22:29:27Z"
     }
   ]
 }

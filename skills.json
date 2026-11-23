@@ -1987,6 +1987,34 @@
         "discovery"
       ],
       "addedAt": "2026-11-19"
+    },
+    {
+      "title": "PatchProof",
+      "description": "게임 UI 패널 이미지의 9-slice(나인패치) 경계를 자동으로 찾아내고, 재렌더링으로 검증까지 하는 스킬. Unity .meta·Godot .tres·Android .9.png 파일을 패널별로 바로 써준다.",
+      "icon": "🖼️",
+      "category": "dev",
+      "url": "https://clawhub.ai/raktikoo/skills/patchproof",
+      "tags": [
+        "game-ui",
+        "nine-patch",
+        "unity",
+        "godot"
+      ],
+      "addedAt": "2026-11-23"
+    },
+    {
+      "title": "imagegen-swarm",
+      "description": "Grok Imagine·Gemini·Jimeng·Dreamina 등 여러 이미지/영상 생성 엔진의 남는 구독 쿼터를 한 큐에 모아 병렬로 돌리는 오케스트레이션 스킬. 한 엔진이 쿼터를 다 쓰면 나머지가 계속 이어서 생성한다.",
+      "icon": "🎨",
+      "category": "media",
+      "url": "https://clawhub.ai/ekko237/skills/imagegen-swarm",
+      "tags": [
+        "image-generation",
+        "video-generation",
+        "quota-pooling",
+        "orchestration"
+      ],
+      "addedAt": "2026-11-23"
     }
   ]
 }
