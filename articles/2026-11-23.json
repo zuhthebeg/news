@@ -108,6 +108,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/manifestro/kezek-v1",
       "publishedAt": "2026-11-11T22:29:27Z"
+    },
+    {
+      "id": "13",
+      "title": "kale-tts-1-tiny, WebGPU 브라우저에서 바로 돌아가는 79.9MB TTS 공개",
+      "summary": "[Audio][Edge] KaleComputer가 Maya-1 스타일로 디자인한 10개 영어 음성을 담은 초소형 TTS 'kale-tts-1-tiny'를 공개했다(Apache-2.0, HF 확인 createdAt 2026-11-16). CPU int8 79.9MB, WebGPU fp32 183.2MB 두 빌드를 제공하며 브라우저 WebGPU에서 87배, 저가 태블릿 CPU에서도 24배 실시간 속도를 낸다(모델카드 자체 벤치마크). cocy.io에서 쓸모: 게임·웹앱에 서버 TTS 없이 브라우저에서 바로 음성 내레이션을 넣을 수 있어 조커런·마작 등 게임 내 대사 연출에 적용 검토 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KaleComputer/kale-tts-1-tiny",
+      "publishedAt": "2026-11-16T10:39:08Z"
+    },
+    {
+      "id": "14",
+      "title": "NeuTTS-2E, Qualcomm NPU에 최적화된 감정 표현 온디바이스 TTS",
+      "summary": "[Audio][Edge] Qualcomm이 Neuphonic의 NeuTTS-2E(236M, Qwen3 백본+NeuCodec 코덱)를 자사 NPU용으로 export한 버전을 공개했다(Apache-2.0, HF 확인 createdAt 2026-11-18). 4명의 고정 화자가 7가지 감정으로 24kHz 영어 음성을 생성하며, prefill/decode 두 그래프로 나눠 스냅드래곤 기기에서 돌린다(음성클로닝은 미지원). cocy.io에서 쓸모: 모바일 앱에 서버 호출 없이 감정 톤 내레이션을 넣는 온디바이스 레퍼런스로, 추후 모바일 게임 보이스 적용 시 비교 대상.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/qualcomm/NeuTTS-2E",
+      "publishedAt": "2026-11-18T22:15:31Z"
+    },
+    {
+      "id": "15",
+      "title": "Nyx Image 26M, 1600만 파라미터 급 초소형 픽셀아트 전용 디퓨전 모델",
+      "summary": "[Image][Edge] Sednium Technologies가 16x16 레트로 스프라이트를 텍스트 프롬프트로 직접 생성하는 2634만 파라미터 디스크리트 마스크 디퓨전 트랜스포머 'Nyx Image 26M'을 공개했다(Apache-2.0, HF 확인 createdAt 2026-11-23). 연속 VAE 없이 팔레트 토큰을 직접 예측해 16~24스텝 병렬 샘플링으로 앤티앨리어싱 없는 선명한 픽셀 경계를 만든다. cocy.io에서 쓸모: SDXL 없이도 초경량 로컬 추론으로 게임 아이템·타일 아이콘 시안을 빠르게 뽑아볼 수 있는 보조 파이프라인 후보.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Bhoidy/nyx-image-26m",
+      "publishedAt": "2026-11-23T02:36:47Z"
+    },
+    {
+      "id": "16",
+      "title": "ThreeRT, GPU 하드웨어 레이트레이싱을 three.js API로 쓰는 실시간 엔진",
+      "summary": "[Tool][Edge] Meshy가 three.js와 유사한 API로 작성한 장면을 GPU 레이트레이싱 하드웨어로 그대로 실시간 경로추적하는 엔진 'ThreeRT'를 공개했다(MIT, GitHub 생성일 2026-11-10, LICENSE 파일 직접 확인). 섀도맵·라이트맵 베이킹 없이 그림자·바운스광·반사를 노트북에서도 60fps로 처리한다고 소개한다(자체 데모 기준). cocy.io에서 쓸모: 3D 웹게임(비스트헌트·ARPG류)에서 조명 베이킹 없이 WebGPU 레이트레이싱 비주얼을 실험해볼 수 있는 엔진 후보.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/meshy-dev/ThreeRT",
+      "publishedAt": "2026-11-10T11:22:56Z"
+    },
+    {
+      "id": "17",
+      "title": "hikaku, AI 생성 이미지·영상을 온디바이스로 판별하는 브라우저 확장",
+      "summary": "[Tool][Edge] hikaku.io가 브라우징 중 마주치는 이미지·영상이 AI 생성물인지 기기 내에서 판별해 표시하는 오픈소스 확장 'hikaku-extension'을 공개했다(Apache-2.0, LICENSE 파일 직접 확인, GitHub 생성일 2026-11-14). 서버 전송 없이 로컬 추론으로만 동작하며 Chrome·Edge·Firefox를 지원한다. cocy.io에서 쓸모: 여러 서비스에 AI 생성 콘텐츠가 섞여 들어가는 상황에서, 사용자 신뢰 요소로 'AI 생성 여부 온디바이스 표시' 패턴을 참고할 레퍼런스.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/hikaku-io/hikaku-extension",
+      "publishedAt": "2026-11-14T14:06:05Z"
     }
   ]
 }
