@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-24",
+  "articles": [
+    {
+      "id": "1",
+      "title": "서울지하철 노사 막판 담판…결렬 땐 내일 첫차부터 파업",
+      "summary": "서울지하철 노사가 임금·인력 문제를 두고 막판 협상을 벌였다. 협상이 결렬되면 11월 25일 첫차부터 파업에 들어갈 수 있어 출근길 교통 차질이 우려된다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5TS2g4NjhHYm1tMG44SjlsNnZDczVWc3BsNFpMVkYxeGtsY2RrNUtPUWpJOTducngzaFZ2RXBWMzVSeEd6TW1BRnBEMjlWSWl3RVJGdkNZRGJ1S0HSAWBBVV95cUxPcU91R3I1eDJGaGREVThsbkM5a2JpckpYRDVsZXF4QkVBMHJNZTBsQnZWUFVfUzdpZmlJclNxQk9ZeUk4VUNtUnA2YW84NVJzV1RsNG1hVUtKNVJoN2toOF8?oc=5",
+      "publishedAt": "2026-11-23T20:05:01Z"
+    },
+    {
+      "id": "2",
+      "title": "엔비디아 주가 급등…젠슨 황 복귀에 트럼프도 직접 나서",
+      "summary": "엔비디아 CEO 젠슨 황의 경영 복귀 소식이 전해지며 엔비디아 주가가 급등했다. 트럼프 대통령이 이 문제에 직접 관여한 것으로 보도됐다.",
+      "category": "world",
+      "source": "KBS 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5EUUVjdHBVWVVZR1dBQmloS0o2Snhybjg4TVU2QlZfb0U4dW1YaEQwNDc2STNnSlZWWDBjblN5ZGM1ZFJTaVE1akJuY0lJaENGdWYxM1U1UTFxWFk?oc=5",
+      "publishedAt": "2026-11-23T22:02:00Z"
+    },
+    {
+      "id": "3",
+      "title": "'투표율 허위입력' 선관위 직원 8명 중 1명 구속…특검 \"납득 어려워\"",
+      "summary": "투표율을 허위로 입력한 의혹을 받는 중앙선거관리위원회 직원 8명 중 1명이 구속됐다. 특검팀은 나머지에 대한 수사 결과에 대해 \"납득하기 어렵다\"는 입장을 밝혔다.",
+      "category": "domestic",
+      "source": "MBC 뉴스",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBlR1MzbjhQUTRpU2g2NFdER2xqSWtKWjJ1Ukp6bkh3dXFWQ25sLXAzclFEYm9tSEN3dFB0NzRJajFrOUtsd1VCazlBbjZ2QXFaLW1sdXZTN0p3NjRqM0Z0ZTVua0FDbDdlYXFYYTA0Y3lrdmdXMHdB0gF3QVVfeXFMTVFNaE81S1dZWTdZdWhKLTlscy1SN1hGemcxMHg4U1pnbUlJOXg3Rkl0NWZrN016bXZTVUFIOE1Jek5aUGxBRmlXNXZmV2NKOFI3WUMzMVViOWVfY2lwSzQ5aEt0Z2pYbDNHaExlY1R3dDA3ZmpScDA?oc=5",
+      "publishedAt": "2026-11-23T16:36:59Z"
+    },
+    {
+      "id": "4",
+      "title": "테크업계 여성들, 젠슨 황 경영 복귀에 우려 표명",
+      "summary": "엔비디아 젠슨 황의 경영 복귀 소식에 테크업계 일부 여성 종사자들이 우려를 제기했다고 NPR이 보도했다.",
+      "category": "tech",
+      "source": "NPR",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbDBDTlU2WHJ1cHl4ZENuaFU1M1JCNjhITF9qeEw5dldyVGFlNEhoZ1ktQnJfdktLWFBoQkNvWW43bVYzNXpJemVXNmlWb2RTZF9WOFBCem1nZHBXZHRHMHlReFpLdUY4RmdwWnJQRmh5djd6SExxMWxweU5ZLU03R1FqcWw4UVpLdTU2WEFpa2wxNEYzYWxUOWhjLU13c0Qzd0lpNlI1V2VtNm5EN3JVT3BjOEdGMkk?oc=5",
+      "publishedAt": "2026-11-23T22:03:57Z"
+    },
+    {
+      "id": "5",
+      "title": "테슬라 최신 자율주행 보조 소프트웨어, 화면이 비디오게임처럼 변해",
+      "summary": "테슬라의 최신 운전자 보조 소프트웨어 업데이트가 화면 렌더링 방식을 비디오게임처럼 바꿔 주목받고 있다고 Car and Driver가 보도했다.",
+      "category": "tech",
+      "source": "Car and Driver",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOV3BxXzg5clhFcjhqay1oS1BURy16WDZJQ3NfVU9GR3M0aUtGZnpITXVXdlA3TjRDYzF4TlVEMEk0VnhITFMtd2hUcmZmSjlFTXZsd2dsNl9VNDFVRVRGaDMwUk9sRktseUVuYmZuQzVobXk1MFNla1VpNDM0dVMzZ0p2enJzRWNHdFQtYmhucEZxZw?oc=5",
+      "publishedAt": "2026-11-23T21:33:53Z"
+    },
+    {
+      "id": "6",
+      "title": "미, 중국 겨냥 수출통제로 글로벌 과학 경쟁구도 재편",
+      "summary": "미국의 대중국 기술 수출통제가 전 세계 과학 연구 경쟁 구도를 바꾸고 있다고 사우스차이나모닝포스트가 분석했다.",
+      "category": "science",
+      "source": "South China Morning Post",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUHltcDR1NFVkem9EckZKRXpLNzBGTGlETTNmdG1aaG1hWkNLWTdFc0F6dVNuNmdYei1nYU84aWp6eHNRdFE0SkxsbUNnYU9JUzI1TVFLUlVFNmNIVElfRUV6cHk4VWJ1NmVEaG5XUGJjWnItZ21LX2d0OVgtRUZGR2ZRQ21OV0NNcHZqYmkzc3ZfZ3Q5OWF6dkFET3JzQdIBngFBVV95cUxQdTV4clF2VUxReXdnN0ZkSTdDYWVYT0d0QVZsU2E4MXF4OS15QTlQZG9Eck9KbXdfYUxzS0djajN5TjB6VzExQ241Tmg2TVI4NVlfeTR6SWVxVG5Fc1JyaUJhOFZuaU1sVlRVeEdhLWlzNzZLVWhIRXpjNnlNSlBncG5iN1NJY2pHTjI4d2xOVEQzSjZtR05mODg4YmxvZw?oc=5",
+      "publishedAt": "2026-11-23T22:00:11Z"
+    },
+    {
+      "id": "7",
+      "title": "UT 샌안토니오, CPRIT 지원으로 AI 활용 암 연구 가속",
+      "summary": "텍사스 암예방연구소(CPRIT)의 지원을 받아 UT 헬스 샌안토니오가 AI를 활용한 암 연구를 확대하고 있다.",
+      "category": "science",
+      "source": "UT Health San Antonio",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPbDQ0bmZoQWVOWGFWRDdIUWlKcHpQRm8zbGRQcW9sMnNFN2xTYTNvemRJdlJBVERWZ1hlYThYalh3U0VlSU85ODVsRU80MENZcXFUaGZtRWljaHlJZTZVQlZHXzJfRTJDN2QwZTdnTmJJVUp1Ulp5bUZqcW4zRFJNSGJ6dmZKNTdQMzQwSnJNRU5CY2l4blRiWHV0aWlEVjBtSWFUaFZVaTBTbXFTTzhLLS1PUQ?oc=5",
+      "publishedAt": "2026-11-23T19:35:03Z"
+    },
+    {
+      "id": "8",
+      "title": "독일 게임업계 대표단, 부산 찾아 사업 협력 모색",
+      "summary": "독일 게임업계 대표단이 부산을 방문해 한국 게임업계와의 사업 협력 방안을 논의했다.",
+      "category": "gaming",
+      "source": "헤럴드경제",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE5LZXRjSU1Yem5wNm95YnlRTmdGb19ockRiZzlIVnp2LTJvM19GdTVqVy1tZURCWk9uSXFNdk51eDRxUWRHTW1PSE95c041bWdvX245ZlowYw?oc=5",
+      "publishedAt": "2026-11-23T00:58:08Z"
+    },
+    {
+      "id": "9",
+      "title": "전 바이오웨어 수장 \"EA 생존 위해 한 작품에 집중했어야\"",
+      "summary": "전 바이오웨어 수장이 EA의 생존을 위해 '매스 이펙트'나 '드래곤 에이지' 중 하나에 집중하는 '원 프로젝트 스튜디오'가 되어야 했는지에 대한 의문을 제기했다고 PC Gamer가 전했다.",
+      "category": "gaming",
+      "source": "PC Gamer",
+      "sourceUrl": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTWUwLUtZWmF1djNTM0c0M1YxTThwUzBIVEp6ZVZQU2ZFTFlYbmpsNUV4YnhvLVY2U3Rnem9tU2pBa3E5Y3NRcm1YdUdqTFZkR0xsSTN5NjROakptaG9lNW1yMzlGTU5ZeVdIUE1BODZPUm14ckJJdlZldnBxazBMcWU1Ty1mZGRCYzdSUGRCU3ZQLTlRMWFlSnlWQWlzRThmaEd3N2pLV05yM19xQWpkcUt6XzZJUDN4UzN0dy1abklJcWNiVnRBLWQybmRxMWlLZlBraVE5ZDdLeHU5ZWFuQ1FoLVlMalZ0dndXdXI3ZFhLM1U0bXd5cV9xOFYwQUo5cmpuNDVtLUptZDV2SjVVWFU4aw?oc=5",
+      "publishedAt": "2026-11-23T18:01:00Z"
+    }
+  ]
+}
