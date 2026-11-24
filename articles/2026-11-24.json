@@ -81,6 +81,15 @@
       "source": "PC Gamer",
       "sourceUrl": "https://news.google.com/rss/articles/CBMikwJBVV95cUxQTWUwLUtZWmF1djNTM0c0M1YxTThwUzBIVEp6ZVZQU2ZFTFlYbmpsNUV4YnhvLVY2U3Rnem9tU2pBa3E5Y3NRcm1YdUdqTFZkR0xsSTN5NjROakptaG9lNW1yMzlGTU5ZeVdIUE1BODZPUm14ckJJdlZldnBxazBMcWU1Ty1mZGRCYzdSUGRCU3ZQLTlRMWFlSnlWQWlzRThmaEd3N2pLV05yM19xQWpkcUt6XzZJUDN4UzN0dy1abklJcWNiVnRBLWQybmRxMWlLZlBraVE5ZDdLeHU5ZWFuQ1FoLVlMalZ0dndXdXI3ZFhLM1U0bXd5cV9xOFYwQUo5cmpuNDVtLUptZDV2SjVVWFU4aw?oc=5",
       "publishedAt": "2026-11-23T18:01:00Z"
+    },
+    {
+      "id": "10",
+      "title": "Direct3D-V3, VAE 없이 복셀을 직접 다루는 고디테일 이미지→3D 메시 생성 모델 공개",
+      "summary": "[Tool] 난징대·DreamTech 연구팀이 SIGGRAPH Asia 2026 채택 논문 기반의 이미지→3D 메시 생성 모델 'Direct3D-V3'의 추론 코드와 가중치를 공개했다. 잠재공간(VAE) 병목 없이 SDF 복셀 그리드를 직접 다루는 latent-free 디퓨전 트랜스포머로, DINOv3 멀티레이어 특징과 Muon 옵티마이저를 적용해 기존 latent diffusion 파이프라인보다 세밀한 표면 디테일을 낸다(HF 확인: createdAt 2026-11-19, license MIT, 상업 이용 가능). cocy.io에서 쓸모: 비스트헌트·ARPG 등 3D 게임 프로젝트에서 레퍼런스 이미지 한 장으로 고디테일 3D 메시 초안을 뽑아 Blender MCP 파이프라인에 바로 넘기는 보조 에셋 생성 후보로 검토할 만하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/wushuang98/Direct3D-V3",
+      "publishedAt": "2026-11-19T12:58:34Z"
     }
   ]
 }
