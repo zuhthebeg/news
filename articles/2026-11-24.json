@@ -135,6 +135,15 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/moonbox-dev/HeartMuLa-oss-3B-ONNX",
       "publishedAt": "2026-11-20T06:12:07Z"
+    },
+    {
+      "id": "16",
+      "title": "코스피, 엔비디아 랠리 업고 6%대 급등…5000선 탈환",
+      "summary": "코스피가 24일 전 거래일보다 297.49포인트(6.32%) 오른 5006.03으로 마감하며 5000선을 되찾았다. 엔비디아 주가 랠리에 반도체주가 강세를 보이며 한일 증시가 동반 반등했다.",
+      "category": "economy",
+      "source": "아시아경제",
+      "sourceUrl": "https://view.asiae.co.kr/article/2026112415385242056",
+      "publishedAt": "2026-11-24T06:38:52Z"
     }
   ]
 }
