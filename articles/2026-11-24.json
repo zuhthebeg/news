@@ -90,6 +90,51 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/wushuang98/Direct3D-V3",
       "publishedAt": "2026-11-19T12:58:34Z"
+    },
+    {
+      "id": "11",
+      "title": "Zyphra, 아파치2.0 오픈 TTS 'ZONOS3-Mini' 공개 — 커뮤니티가 바로 브라우저용 ONNX 포팅",
+      "summary": "[Audio][Edge] Zyphra가 2026-11-09 텍스트-투-스피치 모델 ZONOS3-Mini를 Apache-2.0으로 공개했다(다운로드 17만6천+, 좋아요 651, HF API 확인). 2주 만에 커뮤니티가 ONNX 변환판(ZONOS3-Mini-onnx, 2026-11-23 공개, fp32 7.11GiB, Zyphra 레퍼런스 구현 대비 코사인유사도 0.999999+ 검증)을 내놓아 서버 없이 브라우저/엣지에서 돌릴 길이 열렸다. cocy.io에서 쓸모: 쇼츠·고스톱 콜 보이스 등 TTS 파이프라인에 서버 호출 없는 로컬/엣지 옵션으로 검토 가치.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Zyphra/ZONOS3-Mini",
+      "publishedAt": "2026-11-09T05:03:57Z"
+    },
+    {
+      "id": "12",
+      "title": "Alibaba Z-Image-Turbo, 브라우저에서 돌아가는 WebGPU ONNX 포팅 공개",
+      "summary": "[Image][Edge] Tongyi-MAI(Alibaba)가 Apache-2.0으로 공개한 이미지 생성모델 Z-Image-Turbo를 커뮤니티 개발자가 2026-11-23 ONNX Runtime Web + WebGPU로 포팅해 공개했다(freegen.ai/imagine에서 시연, RTX 5090 기준 512x512 약 1.5초·1024x1024 약 7초, 최초 1회 8.7GB 다운로드 후 완전 클라이언트 구동, HF 모델카드 확인). cocy.io에서 쓸모: 서버 GPU 없이 브라우저만으로 돌리는 이미지 생성 데모/툴 페이지 아이디어로 참고할만.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/cgb/z-image-turbo-onnx-webgpu",
+      "publishedAt": "2026-11-23T06:32:03Z"
+    },
+    {
+      "id": "13",
+      "title": "Wan2.1 영상생성모델, Self-Forcing으로 브라우저 안에서 통째로 구동",
+      "summary": "[Video][Edge] Alibaba Wan팀의 Wan2.1 T2V-1.3B(Apache-2.0)에 Self-Forcing 증류 기법(Apache-2.0)을 적용한 가중치를 커뮤니티가 ONNX+WebGPU로 포팅, 2026-11-24 공개했다. RTX 5090 기준 2초(33프레임, 416x240) 클립이 약 11초, 5초(81프레임, 832x480) 클립이 약 90초에 생성되며 서버 전송 없이 브라우저에서 전부 처리된다(HF 모델카드 확인). cocy.io에서 쓸모: 게임 프로모션/캐릭터 모션용 영상 생성을 로컬 GPU만으로 끝내는 엣지 파이프라인 참고 사례.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/cgb/wan21-self-forcing-onnx-webgpu",
+      "publishedAt": "2026-11-24T00:12:59Z"
+    },
+    {
+      "id": "14",
+      "title": "Qualcomm, Neuphonic의 감정 TTS 'NeuTTS-2E'를 스냅드래곤 NPU용으로 최적화 배포",
+      "summary": "[Audio][Edge] Neuphonic이 2026-07 공개한 온디바이스 감정 TTS NeuTTS-2E(236M Qwen3 백본+NeuCodec 50Hz 코덱, 24kHz 영어, 고정 화자 4명×감정 7종, 보이스클로닝 없음)를 Qualcomm이 2026-11-18 Snapdragon 8 Elite 계열 NPU용 QNN 컨텍스트 바이너리로 공개했다(Apache-2.0, HF API로 날짜·라이선스 확인). cocy.io에서 쓸모: 모바일 전용 온디바이스 음성 기능(저지연·오프라인) 검토 시 참고할 레퍼런스 익스포트.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/qualcomm/NeuTTS-2E",
+      "publishedAt": "2026-11-18T22:15:31Z"
+    },
+    {
+      "id": "15",
+      "title": "cocy.io 리듬게임 파이프라인이 쓰는 작곡모델 HeartMuLa-oss-3B, ONNX 온디바이스 빌드 공개",
+      "summary": "[Audio][Tool][Edge] 음악 생성 파운데이션 모델 HeartMuLa-oss-3B(Apache-2.0, HeartMuLa팀)를 커뮤니티가 ONNX Runtime(CPU/CUDA/DirectML)용으로 변환해 2026-11-20 공개했다. fp16 그래프는 원본 대비 KL 0.0001nats·top-1 일치율 99.0%·코덱 SNR 34.5dB로 검증됐다(HF 모델카드 확인). cocy.io에서 쓸모: 리듬게임 어드민 파이프라인(가사→곡 HeartMuLa→채보)에서 쓰는 바로 그 모델의 경량 ONNX 경로라 서버 의존 줄일 선택지로 바로 검토 가능.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/moonbox-dev/HeartMuLa-oss-3B-ONNX",
+      "publishedAt": "2026-11-20T06:12:07Z"
     }
   ]
 }
