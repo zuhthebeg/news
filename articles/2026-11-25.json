@@ -1,0 +1,68 @@
+{
+  "date": "2026-11-25",
+  "articles": [
+    {
+      "id": "1",
+      "title": "서울 지하철 노사협상 타결… 총파업 철회",
+      "summary": "서울교통공사 노사가 임금·인력 문제를 두고 벌인 막판 협상이 극적으로 타결되며 예고됐던 총파업을 철회했다. 이에 따라 지하철 1~8호선은 정상 운행되며 출근길 대란은 피하게 됐다.",
+      "category": "domestic",
+      "source": "조선일보",
+      "sourceUrl": "https://www.chosun.com/national/national_general/2026/11/25/GMCPVXV3HRAB5OIWCAX5P7SKYI/",
+      "publishedAt": "2026-11-24T18:00:00Z"
+    },
+    {
+      "id": "2",
+      "title": "이 대통령, ‘5·18 진압 경찰’ 포상 취소에 “만시지탄…역사 교정 계속”",
+      "summary": "이재명 대통령이 5·18 광주 민주화운동 진압에 가담한 경찰관에 대한 훈·포장 취소 조치를 두고 \"만시지탄\"이라며 역사 교정 작업을 계속하겠다고 밝혔다.",
+      "category": "domestic",
+      "source": "연합뉴스TV",
+      "sourceUrl": "https://www.yonhapnewstv.co.kr/news/AKR20261125082912Mmc",
+      "publishedAt": "2026-11-24T23:22:00Z"
+    },
+    {
+      "id": "3",
+      "title": "국가시험 ‘앞치마’ 의무화…학교 시험도 금속탐지기 검사 뒤 본다",
+      "summary": "스마트기기를 이용한 시험 부정행위가 잇따르자 교육당국이 국가시험에 전자기기 탐지용 '앞치마' 착용을 의무화하고, 학교 내신시험에도 금속탐지기 검사를 도입하기로 했다.",
+      "category": "domestic",
+      "source": "한겨레",
+      "sourceUrl": "https://www.hani.co.kr/arti/society/schooling/1288934.html",
+      "publishedAt": "2026-11-24T16:00:00Z"
+    },
+    {
+      "id": "4",
+      "title": "美 CIA·ODNI, 비분류 정보 영역 사이버 침해 당해",
+      "summary": "미국 중앙정보국(CIA)과 국가정보국장실(ODNI)이 비분류(unclassified) 정보 영역에서 사이버 보안 침해를 당한 것으로 확인됐다. 당국은 분류 정보 유출은 없었다고 밝혔다.",
+      "category": "tech",
+      "source": "Reuters",
+      "sourceUrl": "https://www.reuters.com/world/us-cia-odni-suffer-cybersecurity-breach-some-unclassified-information-nyt-2026-11-24/",
+      "publishedAt": "2026-11-24T23:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "체이스·비자·마스터카드, 벤더사 해킹으로 데이터 유출 확인",
+      "summary": "해커들이 탈취 데이터를 공개한 뒤 체이스은행, 비자, 마스터카드가 외부 벤더사에서 발생한 사이버 침해 사실을 공식 확인했다. 카드·금융 데이터 추가 노출 우려가 커지고 있다.",
+      "category": "tech",
+      "source": "Forbes",
+      "sourceUrl": "https://www.forbes.com/sites/larsdaniel/2026/11/24/chase-visa-and-mastercard-confirm-vendor-cyber-incidents-after-hackers-post-data/",
+      "publishedAt": "2026-11-24T21:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "국제 연구소 컨소시엄, 베피콜롬보 수성 탐사 과학 임무 지원",
+      "summary": "유럽우주국(ESA)과 일본우주항공연구개발기구(JAXA)가 공동 운영하는 수성 탐사선 '베피콜롬보'의 과학 탐사를 국제 실험실 컨소시엄이 지원한다고 발표했다. 수성 표면과 자기장 관측 데이터 분석에 협력한다.",
+      "category": "science",
+      "source": "EurekAlert!",
+      "sourceUrl": "https://www.eurekalert.org/news-releases/1153260",
+      "publishedAt": "2026-11-24T20:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "'GTA6', 출시 첫날 소매 매출 38억 달러… 엔터테인먼트 사상 최대 기록",
+      "summary": "테이크투 인터랙티브는 신작 'GTA6'가 출시 첫날 소매 매출 37억9000만 달러를 기록하며 역대 엔터테인먼트 콘텐츠 중 최대 출시 성적을 거뒀다고 발표했다.",
+      "category": "gaming",
+      "source": "Take-Two Interactive",
+      "sourceUrl": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
+      "publishedAt": "2026-11-21T12:00:00Z"
+    }
+  ]
+}
