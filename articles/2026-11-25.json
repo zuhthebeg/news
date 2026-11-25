@@ -63,6 +63,24 @@
       "source": "Take-Two Interactive",
       "sourceUrl": "https://www.take2games.com/ir/news/grand-theft-auto-vi-shatters-entertainment-box-office-records",
       "publishedAt": "2026-11-21T12:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "44MB CPU 전용 오프라인 음성합성 모델 ‘준코’ 공개",
+      "summary": "[Audio] 플록 스피치가 2026년 11월 10일 공개한 준코는 1,140만 매개변수 음향 모델과 보코더를 44MB ONNX 패키지로 묶어, GPU나 네트워크 없이 일반 CPU에서 영어 24kHz 음성을 실시간보다 빠르게 생성한다. Apache-2.0 라이선스로 상업 이용이 가능하다. cocy.io에서 쓸모: 저사양 기기와 CPU 서버에서 게임 안내·알림·내레이션을 완전 오프라인으로 제공하는 경량 음성 파이프라인 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/flockspeech/junco",
+      "publishedAt": "2026-11-10T09:00:36Z"
+    },
+    {
+      "id": "9",
+      "title": "로컬 멀티모달 모델 ‘잉클링 2 미니’, 3B 활성 MoE로 공개",
+      "summary": "[Edge] 싱킹 머신스 랩이 2026년 11월 17일 공개한 잉클링 2 미니는 약 260억 물리 매개변수 중 토큰당 30억 개를 활성화하는 루프형 멀티모달 MoE 모델로, 텍스트와 이미지를 처리하며 Transformers·llama.cpp·MLX를 지원한다. Apache-2.0 라이선스로 상업 이용이 가능하다. cocy.io에서 쓸모: 로컬 환경에서 게임 스크린샷·에셋 검수와 코드 보조를 한 모델로 묶는 비전 에이전트 실험에 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "publishedAt": "2026-11-17T00:26:57Z"
     }
   ]
 }
