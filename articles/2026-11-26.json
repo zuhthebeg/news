@@ -1,0 +1,86 @@
+{
+  "date": "2026-11-26",
+  "articles": [
+    {
+      "id": "1",
+      "title": "한동훈 \"조희대 탄핵 인용되면 의원직 던지겠다\"",
+      "summary": "한동훈 무소속 의원이 조희대 대법원장 탄핵이 인용되면 의원직을 사퇴하겠다고 밝히며, 탄핵을 주장하는 민주당 의원들에게도 동일한 약속을 요구했다. 사법부 수장에 대한 탄핵 추진을 둘러싸고 입법부와 사법부의 갈등이 격화되는 가운데 나온 발언이다.",
+      "category": "domestic",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026112598077",
+      "publishedAt": "2026-11-25T06:52:00Z"
+    },
+    {
+      "id": "2",
+      "title": "10월 가계대출 금리 연 5% 돌파…주담대는 14년7개월 만에 최고",
+      "summary": "지난 10월 은행권 신규 가계대출 금리가 연 5.02%로 2023년 11월 이후 처음 5%를 넘어섰다. 주택담보대출 금리도 연 4.98%로 6개월 연속 올라 2012년 3월 이후 최고 수준을 기록했다.",
+      "category": "economy",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026112502471",
+      "publishedAt": "2026-11-25T08:45:00Z"
+    },
+    {
+      "id": "3",
+      "title": "한국투자저축은행 8.6만명 개인정보 유출",
+      "summary": "한국투자저축은행이 모바일 홈페이지 해킹으로 고객 약 8만6600명의 이름·생년월일·휴대전화번호 등이 유출됐다고 밝혔다. 저축은행 업계 사상 최대 규모의 유출 사고로, 9월 말 이후 해킹 피해를 입은 저축은행은 이번까지 총 6곳으로 늘었다.",
+      "category": "domestic",
+      "source": "한국경제",
+      "sourceUrl": "https://www.hankyung.com/article/2026112505211",
+      "publishedAt": "2026-11-25T10:47:00Z"
+    },
+    {
+      "id": "4",
+      "title": "미 재무부 금융범죄단속국(FinCEN), 사이버 침해로 일부 시스템 오프라인 전환",
+      "summary": "미국 재무부 산하 금융범죄단속국(FinCEN)이 무단 접근 사고를 이유로 일부 시스템을 예방적으로 오프라인 전환했다. 금융기관 보고 기한을 연장하는 구제 조치가 내려졌지만 침해 시점과 피해 범위, 배후는 아직 공개되지 않았다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/11/us-treasurys-fincen-takes-some-systems.html",
+      "publishedAt": "2026-11-25T12:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "체크포인트 관리 서버 24대 침해…AI 기반 공격으로 추정",
+      "summary": "공격자들이 AI 기반 공격 도구를 활용해 전 세계 22개 조직의 체크포인트 보안관리 서버를 침해했다. 취약한 HFS 서버를 중계 기지로 삼고 체크포인트 취약점(CVE-2026-16232)을 악용해 방화벽 데이터베이스와 내부 인증서를 탈취한 것으로 나타났다.",
+      "category": "tech",
+      "source": "The Hacker News",
+      "sourceUrl": "https://thehackernews.com/2026/11/hackers-compromise-24-check-point.html",
+      "publishedAt": "2026-11-25T13:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "美 FCC, 스페이스X '스타마인드' AI 위성 100만 기 배치 승인",
+      "summary": "미국 연방통신위원회(FCC)가 스페이스X의 AI 데이터센터 위성 '스타마인드' 100만 기를 궤도에 배치하는 계획을 승인했다. 스페이스X는 2027년 3분기 첫 위성 발사를 계획하고 있으며, 블루오리진과 구글 등도 우주 데이터센터 사업을 추진 중이다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/space-exploration/launches-spacecraft/green-light-for-starmind-spacex-gets-approval-to-deploy-1-million-ai-satellites",
+      "publishedAt": "2026-11-25T09:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "파키스탄 우주비행사, 中 톈궁우주정거장 첫 외국인 방문객 됐다",
+      "summary": "파키스탄의 무함마드 제이샨 알리 우주비행사가 셴저우-24호를 타고 11월 25일 중국 톈궁우주정거장에 도착해 이곳을 찾은 첫 외국인 방문객이 됐다. 중·파 우주협력 협정에 따라 탑승한 그는 약 일주일간 머물며 생명공학·소재 분야 공동 실험을 수행한 뒤 셴저우-23호 대원들과 함께 지구로 귀환할 예정이다.",
+      "category": "science",
+      "source": "Space.com",
+      "sourceUrl": "https://www.space.com/space-exploration/human-spaceflight/pakistani-astronaut-becomes-1st-international-visitor-to-chinas-tiangong-space-station-photos",
+      "publishedAt": "2026-11-25T06:35:00Z"
+    },
+    {
+      "id": "8",
+      "title": "플레이스테이션 플러스, 12월 무료 게임 라인업 발표",
+      "summary": "소니가 2026년 12월 플레이스테이션 플러스 월간 무료 게임 라인업을 공개했다. 매달 제공되는 무료 게임 발표로 구독자들의 관심이 모이고 있다.",
+      "category": "gaming",
+      "source": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/11/playstation-plus-monthly-games-lineup-for-december-2026-announced",
+      "publishedAt": "2026-11-25T16:32:00Z"
+    },
+    {
+      "id": "9",
+      "title": "'요카레일리와 임파서블 레어' 디파이니티브 에디션, PS5·스위치2·PC로 출시 발표",
+      "summary": "플레이튜드 넘버원이 플랫포머 '요카레일리와 임파서블 레어'의 디파이니티브 에디션을 PS5, 닌텐도 스위치2, PC 플랫폼으로 새롭게 출시한다고 발표했다. 기존작에 추가 콘텐츠와 개선 사항을 더한 재출시작이다.",
+      "category": "gaming",
+      "source": "Gematsu",
+      "sourceUrl": "https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc",
+      "publishedAt": "2026-11-25T17:15:00Z"
+    }
+  ]
+}
