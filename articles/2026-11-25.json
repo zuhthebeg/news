@@ -81,6 +81,33 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
       "publishedAt": "2026-11-17T00:26:57Z"
+    },
+    {
+      "id": "10",
+      "title": "인월드, 48kHz 실시간 보컬 분리 모델 '보이스 아이솔레이터' 공개",
+      "summary": "[Audio] 인월드가 2026년 11월 14일 공개한 보이스 아이솔레이터는 오프라인용 64M·실시간용 58M(20ms 지연) 두 모델로 48kHz 풀밴드 음성에서 배경음을 분리한다. Apache-2.0 라이선스로 상업 이용이 가능하다. cocy.io에서 쓸모: voicematch 파이프라인의 보컬 분리 전처리 단계를 대체·보강해 분리 품질을 높이는 후보가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
+      "publishedAt": "2026-11-14T02:14:35Z"
+    },
+    {
+      "id": "11",
+      "title": "FLUX.2 klein 4B, 구글 LiteRT로 변환돼 폰 GPU에서 생성·편집 가능",
+      "summary": "[Image][Edge] ApexAloisius가 2026년 11월 24일 공개한 변환본은 Black Forest Labs의 FLUX.2 klein 4B(Apache-2.0)를 구글 LiteRT int8 그래프로 쪼개 Pixel 8a 같은 폰 GPU에서 4스텝 이미지 생성·편집을 실행한다(생성 306초, 원본 fp32 대비 PSNR 36.8dB). 변환본도 Apache-2.0 라이선스로 상업 이용이 가능하다. cocy.io에서 쓸모: 모바일 앱에서 서버 없이 완전 온디바이스로 캐릭터 아트를 생성·수정하는 실험에 참고할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ApexAloisius/FLUX.2-klein-4B-LiteRT",
+      "publishedAt": "2026-11-24T17:59:59Z"
+    },
+    {
+      "id": "12",
+      "title": "브라우저에서 바로 그림 그리는 WebGPU 초경량 생성모델 'MiniT2I' 공개",
+      "summary": "[Image][Edge] cfahlgren1이 2026년 11월 24일 공개한 MiniT2I 컴팩트 WebGPU int8 변환본은 텍스트 인코더와 4스텝 Mean Flow 생성을 ONNX 그래프 하나에 담아 onnxruntime-web으로 브라우저에서 바로 512×512 이미지를 만든다(M3 Max 크롬에서 장당 0.55초). MIT 라이선스로 상업 이용이 가능하다. cocy.io에서 쓸모: tool.cocy.io 같은 가입 없는 클라이언트 전용 페이지에 서버 호출 없는 즉석 이미지 생성 기능을 붙이는 데 바로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/cfahlgren1/MiniT2I-B-16-MF-compact-webgpu-int8",
+      "publishedAt": "2026-11-24T14:54:21Z"
     }
   ]
 }
