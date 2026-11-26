@@ -99,6 +99,33 @@
       "source": "Hugging Face",
       "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
       "publishedAt": "2026-11-24T08:51:19Z"
+    },
+    {
+      "id": "12",
+      "title": "[Audio][Tool] Inworld Voice Isolator, Apache-2.0 48kHz 풀밴드 음성분리 모델 공개",
+      "summary": "Inworld AI가 아파치2.0으로 공개한 음성 분리(디노이즈) 모델 Voice Isolator v1은 48kHz 풀밴드 품질로 녹음을 정리하는 오프라인 버전(64M 파라미터, 8초 청크)과 20ms 룩어헤드로 돌아가는 실시간 스트리밍 버전(58M 파라미터) 두 가지로 나온다(HF API 확인: createdAt 2026-11-14, license apache-2.0, 좋아요 898·다운로드 1만5244). 입력에서 분리음성을 빼면 배경노이즈나 반주만 남는 보컬분리 용도로도 쓸 수 있다. cocy.io에서 쓸모: 고스톱 콜·voicematch 파이프라인용 원본 음성 녹음에서 잡음을 제거해 전처리 품질을 높이는 데 바로 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inworld/voice-isolator",
+      "publishedAt": "2026-11-14T02:14:35Z"
+    },
+    {
+      "id": "13",
+      "title": "[Audio][Tool] Supertonic 2 비공식 PyTorch 재구현, 보이스클로닝 인코더 추가",
+      "summary": "Supertone의 공식 Supertonic 2 TTS는 ONNX 그래프만 배포하고 학습 코드와 보이스클로닝 기능이 빠져 있었는데, 독립 개발자가 openrail 라이선스로 PyTorch 재구현판(open-supertonic2-pytorch)을 내놓으며 스피치 인코더와 2종의 스타일 인코더(TTL/DP)를 추가했다(HF API 확인: createdAt 2026-11-25, license openrail, base_model Supertone/supertonic-2). 레퍼런스 음성 몇 초만으로 제로샷 보이스클로닝이 가능하고 출력은 공식 ONNX 런타임과 같은 voice-style JSON 포맷을 쓴다. 단 비공식 재구현이라 공식 학습 결과와 완전히 같지는 않다고 명시돼 있다. cocy.io에서 쓸모: 로컬 Supertonic 2 TTS에 없던 보이스클로닝을 붙여 게임 NPC·고스톱 콜 등에 커스텀 음색을 입히는 실험에 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/fdemelo/open-supertonic2-pytorch",
+      "publishedAt": "2026-11-25T21:23:36Z"
+    },
+    {
+      "id": "14",
+      "title": "[Edge][Tool] 브라우저 WebGPU 추론 WebLLM v0.2.89, MiniCPM5·SmolLM3·LFM2.5 지원 추가",
+      "summary": "MLC AI의 브라우저 내 WebGPU LLM 추론 라이브러리 WebLLM이 v0.2.89를 공개했다(GitHub 릴리즈 확인: 2026-11-17, 레포 LICENSE 파일 확인 license apache-2.0). 이번 버전은 MiniCPM5·SmolLM3·LFM2.5 모델 지원을 추가하고, 엔진/워커 API로 토크나이저를 직접 노출하고, 긴 프롬프트가 자바스크립트 함수 인자 길이 제한을 넘던 버그를 고쳤으며 검색 가능한 내장 모델 목록 페이지를 더했다. cocy.io에서 쓸모: game.cocy.io 게임 내 서버비용 없는 AI 힌트·NPC 대화 기능에 신규 소형모델(SmolLM3 등)을 바로 올려볼 수 있다.",
+      "category": "ai-tech",
+      "source": "GitHub",
+      "sourceUrl": "https://github.com/mlc-ai/web-llm/releases/tag/v0.2.89",
+      "publishedAt": "2026-11-17T08:12:29Z"
     }
   ]
 }
