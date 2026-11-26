@@ -81,6 +81,24 @@
       "source": "Gematsu",
       "sourceUrl": "https://www.gematsu.com/2026/11/yooka-laylee-and-the-impossible-lair-definitive-edition-announced-for-ps5-switch-2-and-pc",
       "publishedAt": "2026-11-25T17:15:00Z"
+    },
+    {
+      "id": "10",
+      "title": "[Image] SenseNova-U1.6, 생성→자가검수→재수정까지 하는 통합 이미지모델 공개",
+      "summary": "센스타임(SenseTime)이 아파치2.0 라이선스로 공개한 통합 이미지 생성·편집 모델 SenseNova-U1.6-8B-MoT는 인포그래픽을 만든 뒤 프롬프트와 대조해 텍스트 오류를 스스로 고치는 네이티브 자가수정 기능을 갖췄고, 포스터·일러스트 미학 품질이 전작 U1.5보다 10% 개선됐다. cocy.io에서 쓸모: 페이지 홍보용 포스터나 인포그래픽형 썸네일을 만들 때 텍스트 깨짐 없이 한 번에 완성할 수 있어 조공 페이지 이미지 제작에 활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/sensenova/SenseNova-U1.6-8B-MoT",
+      "publishedAt": "2026-11-16T17:00:53Z"
+    },
+    {
+      "id": "11",
+      "title": "[Image] Kandinsky-ImageSR-2.0, MIT 라이선스 오픈 이미지 업스케일러 공개",
+      "summary": "러시아 Kandinsky Lab이 MIT 라이선스로 공개한 디퓨전 기반 이미지 슈퍼레졸루션 모델 Kandinsky-ImageSR-2.0은 상업적 제약 없이 로컬 환경에서 바로 돌릴 수 있다. cocy.io에서 쓸모: SDXL·FLUX로 로컬 생성한 게임 아트·캐릭터 이미지를 추가 학습 없이 업스케일해 스토어 등록용 고해상도 썸네일을 뽑는 데 쓸 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/kandinskylab/Kandinsky-ImageSR-2.0",
+      "publishedAt": "2026-11-24T08:51:19Z"
     }
   ]
 }
