@@ -72,6 +72,24 @@
       "source": "TechCrunch",
       "sourceUrl": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
       "publishedAt": "2026-11-26T00:00:00Z"
+    },
+    {
+      "id": "9",
+      "title": "Qwen3-TTS 기반 멀티링구얼 경량 TTS 'Libra-TTS' 공개 — 16개 언어, 0.3B, Apple Silicon·CPU 지원",
+      "summary": "[Audio] HF API 확인값: createdAt 2026-11-19, 라이선스 Apache-2.0. Qwen3-TTS-12Hz-1.7B-CustomVoice를 0.3B로 경량화해 MLX(Apple Silicon)·ONNX(CPU)·CUDA 백엔드로 실시간보다 빠르게 돌아가며 16개 언어·8개 보이스를 지원한다. cocy.io에서 쓸모: 한국어 외 다국어 서비스(voicematch, i18n 콘텐츠)의 로컬 다국어 TTS 후보로 GPU 없는 환경에서도 테스트할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/Ekam/Libra-TTS",
+      "publishedAt": "2026-11-19T08:32:49.000Z"
+    },
+    {
+      "id": "10",
+      "title": "inclusionAI, 디자인 특화 이미지 생성 모델 'Ming-Image-0.2-Design' 공개 — 캐릭터 단위 레이어 분해 지원 (MIT)",
+      "summary": "[Image] Ant그룹 계열 inclusionAI가 기존 Ming-Image-0.1-Design의 후속작 Ming-Image-0.2-Design을 공개했다(HF createdAt 2026-11-25, 라이선스 MIT). 복잡한 구도·조명·텍스트 렌더링이 개선됐고, 디자인 이미지를 캐릭터 부위 단위까지 투명 레이어로 분해해 다운스트림 편집·애니메이션용 에셋을 제공한다. cocy.io에서 쓸모: 포털·조공 페이지의 UI 목업과 포스터를 텍스트 깨짐 없이 생성하고 캐릭터 레이어를 분리해 애니메이션 작업에 재활용할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/inclusionAI/Ming-Image-0.2-Design",
+      "publishedAt": "2026-11-25T04:02:44.000Z"
     }
   ]
 }
