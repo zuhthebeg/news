@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-27",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'경남지사 선거 딥페이크 의혹' 12명 송치…박완수 지사는 불송치",
+      "summary": "경남경찰청이 6·3 지방선거 당시 박완수 경남지사 후보 캠프의 딥페이크 영상·관권선거 의혹을 수사해 전현직 공무원 등 12명을 송치했다. 박 지사 본인은 직접 증거가 없어 불송치 결정됐다.",
+      "category": "domestic",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261127026700052?section=politics/all",
+      "publishedAt": "2026-11-27T08:49:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "메모리 가격 상승에 美 스마트폰 출하량 9% 감소…아이폰 점유율 57%로 확대",
+      "summary": "카운터포인트리서치에 따르면 메모리 반도체 가격 상승이 보급형 안드로이드 제조사를 압박하며 3분기 미국 스마트폰 출하량이 전년 대비 9% 줄었다. 반면 애플은 점유율을 50%에서 57%로 끌어올렸다.",
+      "category": "world",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261127025800009?section=international/all",
+      "publishedAt": "2026-11-27T08:39:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "이란 반정부시위 가담 여성 6명 사형선고…고문·성적 학대 피해 증언",
+      "summary": "BBC 페르시아어판에 따르면 올해 초 이란 반정부 시위에 참여한 여성 최소 6명이 사형을 선고받았다. 유엔 이란 인권특별보고관은 신성모독·간첩 혐의를 포함하면 올해 이란 여성 최소 9명이 사형수가 됐다고 밝혔다.",
+      "category": "world",
+      "source": "연합뉴스(BBC 페르시아판 인용)",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261127024600009?section=international/all",
+      "publishedAt": "2026-11-27T08:40:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "Nvidia, 수출 규제 우회 우려에 동남아 서버 칩 선적 일시 중단",
+      "summary": "WSJ에 따르면 Nvidia가 Dell, Super Micro 등 제조 파트너에 말레이시아·싱가포르·태국·인도네시아로의 서버 칩 선적을 일시 중단하도록 지시했다. 중국 기업들이 해당 지역 데이터센터를 통해 원격으로 Nvidia 칩에 접근하는 루프홀을 미 상무부가 단속하면서 나온 조치다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/nvidia-hits-pause-on-chip-shipments-to-southeast-asia/",
+      "publishedAt": "2026-11-26T00:00:00Z"
+    },
+    {
+      "id": "5",
+      "title": "한 달간 써본 폴더블 '아이폰 듀오'가 바꾼 스마트폰 사용 습관",
+      "summary": "TechCrunch 기자가 한 달간 애플의 폴더블폰 '아이폰 듀오'를 사용한 후기를 전했다. 카메라·배터리 등 전통적 프리미엄 기준을 포기하는 트레이드오프보다, 폴더블 폼팩터가 앱 사용과 조직 방식 자체를 바꾼 점이 더 인상적이었다고 평가했다.",
+      "category": "tech",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/a-month-with-the-iphone-duo-has-changed-how-i-use-my-phone/",
+      "publishedAt": "2026-11-26T00:00:00Z"
+    },
+    {
+      "id": "6",
+      "title": "자신이 태어난 초신성 잔해를 탈출한 '폭주 펄서' 포착",
+      "summary": "막스플랑크 전파천문연구소 출신 연구팀이 초신성 폭발로 생성된 펄서가 자신이 남긴 잔해 구름을 벗어나 홀로 이동하는 희귀한 사례를 관측했다고 밝혔다.",
+      "category": "science",
+      "source": "phys.org",
+      "sourceUrl": "https://phys.org/news/2026-11-runaway-pulsar-remnant-supernova.html",
+      "publishedAt": "2026-11-26T19:00:00Z"
+    },
+    {
+      "id": "7",
+      "title": "5G 전파 간섭이 기상 위성 관측을 왜곡해 예보 정확도 떨어뜨릴 수 있다는 연구",
+      "summary": "미국 뉴저지·메릴랜드주 연구진이 미래 5G 네트워크에서 발생하는 전파 누출이 기상위성 관측에 간섭을 일으켜 고영향 기상 예보를 변질시킬 수 있다는 우려를 제기했다.",
+      "category": "science",
+      "source": "phys.org",
+      "sourceUrl": "https://phys.org/news/2026-11-5g-high-impact-weather.html",
+      "publishedAt": "2026-11-26T18:00:00Z"
+    },
+    {
+      "id": "8",
+      "title": "'GTA6', 출시 첫날 37.9억 달러 매출로 역대 최대 엔터테인먼트 기록",
+      "summary": "13년 만에 출시된 록스타 게임즈의 'Grand Theft Auto VI'가 메타크리틱 역대 최고 평점을 받으며 출시 첫날 37.9억 달러 매출을 기록했다. 어벤져스: 엔드게임(29억 달러)과 테일러 스위프트 에라스 투어(20억 달러)를 뛰어넘는 수치다.",
+      "category": "gaming",
+      "source": "TechCrunch",
+      "sourceUrl": "https://techcrunch.com/2026/11/26/as-anthropic-ipos-grand-theft-auto-vi-proves-why-efficiency-isnt-a-virtue/",
+      "publishedAt": "2026-11-26T00:00:00Z"
+    }
+  ]
+}
