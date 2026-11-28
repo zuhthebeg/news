@@ -2015,6 +2015,20 @@
         "orchestration"
       ],
       "addedAt": "2026-11-23"
+    },
+    {
+      "title": "Manim Video",
+      "description": "Manim Community로 수학·컴퓨터과학·ML 설명 영상을 만드는 SKILL.md 패키지. 스토리보드 작성부터 Docker 렌더링, 프레임·기하 검수, 수정 반복과 선택형 TTS 내레이션까지 자동화한다.",
+      "icon": "🎞️",
+      "category": "media",
+      "url": "https://github.com/quellen-sol/manim-video-skill",
+      "tags": [
+        "manim",
+        "explainer-video",
+        "visual-qa",
+        "agent-skill"
+      ],
+      "addedAt": "2026-11-28"
     }
   ]
 }
