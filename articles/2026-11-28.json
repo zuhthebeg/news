@@ -1,0 +1,77 @@
+{
+  "date": "2026-11-28",
+  "articles": [
+    {
+      "id": "1",
+      "title": "'텅' 비어버린 급식실…학교 비정규직 올해도 총파업",
+      "summary": "학교 급식·돌봄 등을 담당하는 비정규직 노동자 2만3천여 명이 임금 교섭 결렬로 총파업에 들어갔다. 전국 학교 약 32%에서 급식 차질이 발생했고 초등학교 201곳의 돌봄교실이 운영되지 않았다.",
+      "category": "domestic",
+      "source": "SBS 뉴스",
+      "sourceUrl": "https://news.sbs.co.kr/news/endPage.do?cooper=SBSNEWSMAIN&news_id=N1008867277&plink=INTEREST",
+      "publishedAt": "2026-11-27T20:24:00+09:00"
+    },
+    {
+      "id": "2",
+      "title": "코스피 4.3% 올라 4900선 회복…코스닥도 8.1% 급등",
+      "summary": "증권시장안정펀드 증액 기대와 외국인 순매수에 힘입어 코스피와 코스닥이 동반 반등했다. 코스닥 시장에서는 장중 매수 사이드카가 발동됐다.",
+      "category": "economy",
+      "source": "전자신문",
+      "sourceUrl": "https://www.etnews.com/20261127000305",
+      "publishedAt": "2026-11-27T16:11:00+09:00"
+    },
+    {
+      "id": "3",
+      "title": "러시아, 항공유 수출 금지 내년 3월까지 4개월 연장",
+      "summary": "러시아 정부가 자국 연료 시장 안정을 위해 항공유 수출 금지 조치를 2027년 3월 31일까지 연장했다. 우크라이나의 정유시설 공격 이후 일부 시설이 수리 중인 상황이 배경으로 꼽혔다.",
+      "category": "world",
+      "source": "SBS 뉴스",
+      "sourceUrl": "https://news.sbs.co.kr/news/endPage.do?news_id=N1008867417",
+      "publishedAt": "2026-11-27T23:49:00+09:00"
+    },
+    {
+      "id": "4",
+      "title": "CJ올리브영 업무시스템 해킹…임직원·고객 정보 유출",
+      "summary": "CJ올리브영 업무 시스템에 외부 비인가 접근이 발생해 임직원·협력사 관계자·고객 등 790명의 개인정보가 유출됐다. 회사는 침입 경로를 차단하고 인증 정보를 교체한 뒤 관계 기관에 신고했다.",
+      "category": "tech",
+      "source": "한국일보",
+      "sourceUrl": "https://www.hankookilbo.com/news/article/amp/A2026112622230002948",
+      "publishedAt": "2026-11-26T22:40:00+09:00"
+    },
+    {
+      "id": "5",
+      "title": "개인정보 유출 1년 새 2배 폭증…정부, 내달부터 3개월간 AI 해킹 집중 점검",
+      "summary": "개인정보보호위원회가 AI를 악용한 해킹 증가에 대응해 긴급 점검지원 체계로 전환했다. 금융·교육·유통·통신 분야 기관들이 3개월간 대응체계와 취약 자산 관리를 집중 점검한다.",
+      "category": "tech",
+      "source": "뉴시스",
+      "sourceUrl": "https://www.newsis.com/view/NISX20261127_0003885803",
+      "publishedAt": "2026-11-27T11:00:00+09:00"
+    },
+    {
+      "id": "6",
+      "title": "올해 2000억 '뉴스페이스 펀드' 쏜다…정부 출자 35억→1000억 증액",
+      "summary": "우주항공청이 정부와 민간이 함께 출자하는 뉴스페이스 펀드를 2천억원 이상 규모로 조성해 내년부터 투자할 계획이다. 스타트업부터 해외 진출 기업까지 성장 단계별 자펀드로 지원한다.",
+      "category": "science",
+      "source": "뉴시스",
+      "sourceUrl": "https://nwww.newsis.com/view/NISX20261127_0003885687",
+      "publishedAt": "2026-11-27T11:00:00+09:00"
+    },
+    {
+      "id": "7",
+      "title": "빅뱅 6억3천만년 후 우주에 태양 수억배 블랙홀…성장 비밀은",
+      "summary": "국제 연구팀이 유클리드 우주망원경과 제임스웹 우주망원경 관측으로 초기 우주의 퀘이사와 태양 질량 약 3억6천만 배 블랙홀을 확인했다. 현재 흡수 속도가 느린 점은 초기 블랙홀 형성 이론에 새 단서를 제공한다.",
+      "category": "science",
+      "source": "연합뉴스",
+      "sourceUrl": "https://www.yna.co.kr/view/AKR20261124140300017?section=industry%2Ftechnology-science",
+      "publishedAt": "2026-11-25T00:00:00+09:00"
+    },
+    {
+      "id": "8",
+      "title": "첫 한국어 시연! 파레이돌리아, AGF 2026서 무엇을 즐길 수 있나?",
+      "summary": "넥슨게임즈의 신작 파레이돌리아가 AGF 2026에서 국내 최초 한국어 버전 시연을 진행한다. 행사 부스에는 음성인식 인터랙션, 미니게임, 개발자 토크와 리스닝 파티가 마련된다.",
+      "category": "gaming",
+      "source": "인벤",
+      "sourceUrl": "https://m.inven.co.kr/webzine/wznews.php?idx=323923&iskin=ro",
+      "publishedAt": "2026-11-27T12:05:00+09:00"
+    }
+  ]
+}
