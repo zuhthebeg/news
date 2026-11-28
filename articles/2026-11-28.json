@@ -117,6 +117,51 @@
       "source": "GitHub",
       "sourceUrl": "https://github.com/psyb0t/assctl/releases/tag/v0.4.1",
       "publishedAt": "2026-11-27T21:14:17Z"
+    },
+    {
+      "id": "14",
+      "title": "HeartMuLa 3B 8비트 MLX 변환 공개: Apple Silicon 로컬 음악 생성",
+      "summary": "[Audio] HF API 확인값은 createdAt 2026-11-27T20:28:05Z, lastModified 2026-11-27T22:33:21Z, Apache-2.0이다. 공식 카드에 따르면 HeartMuLa 3B와 HeartCodec을 MLX-Serve용 8비트로 변환해 가사·스타일 태그로 48kHz 스테레오 곡을 로컬 생성하고 HTTP API로 호출할 수 있다. cocy.io에서 쓸모: Mac 기반 게임 BGM 초안 생성과 자동 에셋 파이프라인을 같은 로컬 API에 붙일 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ddalcu/HeartMuLa-3B-MLX-Serve-8bit",
+      "publishedAt": "2026-11-27T20:28:05Z"
+    },
+    {
+      "id": "15",
+      "title": "Chotu TTS v0.4 공개: 1MB 미만 스트리밍·음성 복제 ONNX 모델",
+      "summary": "[Audio] HF API 확인값은 createdAt 2026-11-28T01:14:10Z, lastModified 2026-11-28T01:14:15Z, Apache-2.0이다. 공식 카드의 INT8 모델은 0.978MB이며 영어 다중 화자 스트리밍과 몇 초 분량 참조 음성 기반 제로샷 복제를 지원하고 표준 ONNX opset 17로 배포된다. cocy.io에서 쓸모: 웹게임 캐릭터 대사와 짧은 안내 음성을 저사양 CPU·엣지 환경에서 즉시 합성하는 후보로 시험할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/KingNish/Chotu-TTS-v0.4",
+      "publishedAt": "2026-11-28T01:14:10Z"
+    },
+    {
+      "id": "16",
+      "title": "Ming-Image 0.2 Design 8비트 MLX 공개: 투명 PNG까지 로컬 생성",
+      "summary": "[Image] HF API 확인값은 createdAt 2026-11-27T23:01:34Z, lastModified 2026-11-28T00:27:14Z, MIT다. 공식 카드는 Apple Silicon용 29GB 8비트 변환본이 텍스트·이미지 편집과 네이티브 알파가 포함된 RGBA PNG를 지원하며 MLX-Serve 이미지 API로 실행된다고 설명한다. cocy.io에서 쓸모: 배경이 투명한 아이템·UI·프로모션 소재를 Mac 로컬 워크플로에서 바로 생성하고 편집할 수 있다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ddalcu/Ming-Image-0.2-Design-MLX-Serve-8bit",
+      "publishedAt": "2026-11-27T23:01:34Z"
+    },
+    {
+      "id": "17",
+      "title": "MOSS-Image QNN 변환 최근 업데이트: Snapdragon 8 Elite Gen 5 온디바이스 생성",
+      "summary": "[Edge] HF API 확인값은 createdAt 2026-11-18T02:55:47Z, lastModified 2026-11-28T02:01:44Z, Apache-2.0이다. 공식 카드는 MOSS-Image SFT와 8-step DMD를 Hexagon v81용 QNN 바이너리로 변환해 Snapdragon 8 Elite Gen 5에서 768×768 이미지를 8단계로 생성하며 다운로드 크기는 약 11.3GB라고 명시한다. cocy.io에서 쓸모: 서버 호출 없이 모바일에서 게임 썸네일·보상 카드 시안을 생성하는 온디바이스 실험에 적합하다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/sebekblessing/moss-qnn-8elite-gen5",
+      "publishedAt": "2026-11-28T02:01:44Z"
+    },
+    {
+      "id": "18",
+      "title": "Wan 2.2 TI2V 5B MLX Ultra 공개: Apple Silicon용 혼합 비트 영상 생성",
+      "summary": "[Video] HF API 확인값은 createdAt 2026-11-26T21:46:04Z, lastModified 2026-11-27T02:14:34Z, Apache-2.0이다. 공식 카드에 따르면 Wan2.2 TI2V 5B와 UMT5-XXL을 Apple Silicon용 혼합 비트 MLX로 변환했으며 DiT+T5 조합은 7.73~11.40GiB이고 텍스트·이미지 입력 영상 생성을 지원한다. cocy.io에서 쓸모: Mac에서 게임 키아트에 움직임을 붙인 짧은 홍보 클립을 로컬로 제작하는 경량 경로가 된다.",
+      "category": "ai-tech",
+      "source": "Hugging Face",
+      "sourceUrl": "https://huggingface.co/ronovatr/Wan2.2-TI2V-5B-MLX-Ultra",
+      "publishedAt": "2026-11-26T21:46:04Z"
     }
   ]
 }
